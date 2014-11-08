@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415270475 source:c:\dev-cpp\faculade\aula10\aula10\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<locale>
+

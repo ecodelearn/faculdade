@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1415360726 source:c:\dev-cpp\faculade\condicionalaninhada\condicionalaninhada\main.cpp
+	<iostream>
+	<cstdio>
+	<locale>
+

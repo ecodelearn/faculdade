@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1415363342 source:c:\dev-cpp\faculade\condicionalmultiplas\condicionalmultiplas\main.cpp
+	<iostream>
+	<cstdio>
+	<locale>
+	<cstdlib>
+
