@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1415269704 source:c:\dev-cpp\faculade\aula9\aula9\main.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<ctype.h>
+
