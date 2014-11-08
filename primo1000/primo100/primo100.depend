@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1415325432 source:c:\dev-cpp\faculade\primo1000\primo100\main.cpp
-	<iostream>
-	<stdio.h>
-	<locale>
-	<cstdlib>
-

@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1415365344 source:c:\dev-cpp\faculade\licenciamento\licenciamento\main.cpp
-	<iostream>
-	<locale>
-	<cstdlib>
-

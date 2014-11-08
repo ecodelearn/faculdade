@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1415232736 source:c:\dev-cpp\faculade\aula6\aula6\main.cpp
-	<iostream>
-	<stdio.h>
-	<locale>
-	<stdlib.h>
-
