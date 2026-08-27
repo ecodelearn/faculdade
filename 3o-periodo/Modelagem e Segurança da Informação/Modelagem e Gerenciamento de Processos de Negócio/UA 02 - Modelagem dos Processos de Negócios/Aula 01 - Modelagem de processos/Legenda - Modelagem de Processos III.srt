@@ -1,0 +1,828 @@
+1
+00:00:06,408 --> 00:00:10,099
+vamos, Vamos continuar aprendendo sobre modelagem de processo.
+
+2
+00:00:10,108 --> 00:00:13,579
+Agora nós vamos falar sobre tipos de modelos e benefícios
+
+3
+00:00:13,589 --> 00:00:14,739
+da modelagem de processo.
+
+4
+00:00:14,750 --> 00:00:17,978
+Então a gente vai detalhar um pouco mais esses tipos
+
+5
+00:00:17,989 --> 00:00:20,699
+de modelo e os benefícios que são gerados por meio
+
+6
+00:00:20,708 --> 00:00:21,859
+da modelagem de processo.
+
+7
+00:00:21,870 --> 00:00:24,859
+Okay vamos lá? Eh A primeira coisa que a
+
+8
+00:00:24,870 --> 00:00:27,260
+gente tem que entender é que eu tenho dentro dos
+
+9
+00:00:27,269 --> 00:00:29,920
+tipos de modelo, modelos estáticos, dinâmicos e a
+
+10
+00:00:29,929 --> 00:00:33,579
+combinação entre estes, né? O modelo estático ele
+
+11
+00:00:33,590 --> 00:00:36,798
+é aquele modelo focado na estrutura, então o modelo
+
+12
+00:00:36,810 --> 00:00:39,880
+estático é um estado único do processo, né?
+
+13
+00:00:39,889 --> 00:00:42,380
+Eh é um processo de negócio ou elementos de um
+
+14
+00:00:42,389 --> 00:00:46,039
+processo de negócio cuja representação dela é estática.
+
+15
+00:00:46,048 --> 00:00:49,539
+Então geralmente ela ela é usada pra representar a estrutura
+
+16
+00:00:49,548 --> 00:00:50,439
+de um processo.
+
+17
+00:00:50,740 --> 00:00:54,750
+Este modelo foca nas entidades envolvidas no processo e nas
+
+18
+00:00:54,759 --> 00:00:56,569
+relações entre elas.
+
+19
+00:00:56,579 --> 00:00:59,490
+Então, quando é que eu vou usar um modelo
+
+20
+00:00:59,500 --> 00:01:01,609
+estático, quanto que ele é útil? Quando eu
+
+21
+00:01:01,618 --> 00:01:05,000
+vou focar, né? Quando eu vou utilizar nesse
+
+22
+00:01:05,010 --> 00:01:08,409
+caso, né? Eh pro eh relações entre eh
+
+23
+00:01:08,418 --> 00:01:13,829
+componentes como tarefas, departamentos, recursos, né?
+
+24
+00:01:13,838 --> 00:01:16,969
+Isso é um processo! Eh eh estático.
+
+25
+00:01:16,980 --> 00:01:20,269
+Okay Então, quando você de de define um modelo
+
+26
+00:01:20,278 --> 00:01:25,510
+estático, eu vou perceber aqui, num num num
+
+27
+00:01:25,519 --> 00:01:29,870
+modelo, pensando num modelo estático, Pensem no organograma
+
+28
+00:01:29,879 --> 00:01:33,209
+o o, o, o organograma é uma estrutura
+
+29
+00:01:33,219 --> 00:01:36,838
+da organização, né, a representação da estrutura organizacional
+
+30
+00:01:36,849 --> 00:01:38,058
+e ela é estática.
+
+31
+00:01:38,069 --> 00:01:41,000
+Então, você vai ver ali como ela se desdobra
+
+32
+00:01:41,010 --> 00:01:45,129
+e a relação entre as partes ali, né?
+
+33
+00:01:45,138 --> 00:01:47,790
+Eh, por exemplo, Oh você pode ter eh,
+
+34
+00:01:47,799 --> 00:01:50,349
+vou pegar aqui um, um, um, um,
+
+35
+00:01:51,150 --> 00:01:51,879
+um desenho.
+
+36
+00:01:51,888 --> 00:01:53,760
+Eu vou fazer pegar uma folha aqui pra gente desenhar.
+
+37
+00:01:53,769 --> 00:01:57,278
+Se você tem aqui uma a Presidência, a presidência
+
+38
+00:01:57,290 --> 00:02:02,299
+tem lá os seus departamentos, departamento financeiro, Departamento
+
+39
+00:02:02,308 --> 00:02:08,199
+de Tecnologia ou diretoria de tecnologia, Diretoria de Compras,
+
+40
+00:02:08,210 --> 00:02:13,020
+Diretoria de Operações Agregado, ligado a que você tem
+
+41
+00:02:13,028 --> 00:02:14,649
+aqui a parte de auditoria.
+
+42
+00:02:14,659 --> 00:02:18,300
+Veja, Esta é uma representação de um organograma,
+
+43
+00:02:18,308 --> 00:02:23,729
+né? Que um organograma on grama, que é
+
+44
+00:02:23,740 --> 00:02:27,569
+uma forma estática de representação da minha organização, em
+
+45
+00:02:27,580 --> 00:02:31,308
+que eu tenho aqui, como se dá as relações.
+
+46
+00:02:31,319 --> 00:02:35,808
+Então eu sei que aqui a auditoria tá ligadoà
+
+47
+00:02:35,819 --> 00:02:39,304
+presidência e responde ao eu sei que a diretoria de
+
+48
+00:02:39,314 --> 00:02:44,304
+financeiro responde ao presidente e ela tem entre as suas
+
+49
+00:02:44,314 --> 00:02:46,554
+parcerias, no mesmo nível.
+
+50
+00:02:46,564 --> 00:02:49,504
+Ela tem a diretoria de tecnologia, ela tem a
+
+51
+00:02:49,514 --> 00:02:53,969
+diretoria de compras, Ela tem a diretoria de por
+
+52
+00:02:53,979 --> 00:02:57,389
+exemplo? Eh? R h, né? Então,
+
+53
+00:02:57,399 --> 00:03:01,210
+assim esse é um modelo de uma representação estática que
+
+54
+00:03:01,219 --> 00:03:05,210
+vai mostrar, né? Eh? Eh o que
+
+55
+00:03:05,219 --> 00:03:07,258
+é a parte desse processo, invés de como faz
+
+56
+00:03:07,270 --> 00:03:09,490
+o que que faz parte desse processo? Isso é
+
+57
+00:03:09,500 --> 00:03:12,169
+a forma estática de eu enxergar, tá? Eh.
+
+58
+00:03:12,179 --> 00:03:16,429
+Então ele estabelece uma linha de base, eh do
+
+59
+00:03:16,439 --> 00:03:19,936
+documento etapas de uma configuração É estático, ela não
+
+60
+00:03:19,944 --> 00:03:22,015
+vai mudar, né? A etapa de a etapa
+
+61
+00:03:22,026 --> 00:03:24,675
+de configuração de uma máquina, de um equipamento é
+
+62
+00:03:24,686 --> 00:03:25,534
+sempre aquilo lá.
+
+63
+00:03:25,545 --> 00:03:26,194
+Então é só um eh.
+
+64
+00:03:26,205 --> 00:03:29,335
+Eu posso apresentar isso pro meio de um modelo eh
+
+65
+00:03:29,344 --> 00:03:31,594
+estático, okay, E aí eh.
+
+66
+00:03:31,605 --> 00:03:35,295
+Eu tenho também um modelo dinâmico, focado no fluxo
+
+67
+00:03:35,305 --> 00:03:37,974
+de atividade, né? O modelo dinâmico é fo-
+
+68
+00:03:37,985 --> 00:03:40,175
+focado no fluxo de atividade, Tá lá foi o
+
+69
+00:03:40,186 --> 00:03:41,162
+caso do fuso atividade.
+
+70
+00:03:41,170 --> 00:03:44,061
+Então, o que que é esse voltado é focar
+
+71
+00:03:44,072 --> 00:03:45,860
+no fluxo de atividade? É aquela em que eh
+
+72
+00:03:45,871 --> 00:03:47,132
+o fluxo de atividade.
+
+73
+00:03:47,140 --> 00:03:51,920
+É a execução ao longo do tempo, inclui informação,
+
+74
+00:03:51,931 --> 00:03:55,382
+estado, evento, sequência de atividade.
+
+75
+00:03:55,390 --> 00:03:58,200
+Isso é um fluxo de informação, né? E
+
+76
+00:03:58,211 --> 00:03:59,980
+ele? Por que que ele é, por que
+
+77
+00:03:59,991 --> 00:04:04,281
+que ele é dinâmico, que vai envolver os diversos
+
+78
+00:04:04,990 --> 00:04:09,659
+eh formas de funcionamento daquela informação como ela ocorre ali,
+
+79
+00:04:09,669 --> 00:04:12,258
+né? Ali? É como as coisas são feitas
+
+80
+00:04:12,270 --> 00:04:16,019
+pra gente exemplificar esse fluxo eh esse fluxo.
+
+81
+00:04:16,028 --> 00:04:19,980
+Eh estático aqui, né? A gente pode voltar,
+
+82
+00:04:19,988 --> 00:04:24,838
+eh exibir novamente Aquele eh desculpa o fluxo tático,
+
+83
+00:04:24,850 --> 00:04:27,519
+não perdão o nosso fluxo dinâmico a gente vai voltar
+
+84
+00:04:27,528 --> 00:04:29,088
+naquele nosso desenho.
+
+85
+00:04:29,100 --> 00:04:32,528
+Lindo, maravilhoso, Aquele modelo de venda de carro,
+
+86
+00:04:32,540 --> 00:04:33,980
+né? Tá aquele oh! Que lindo! Oh!
+
+87
+00:04:33,988 --> 00:04:36,149
+Beleza! Então aqui esse é um fluxo que a
+
+88
+00:04:36,160 --> 00:04:38,988
+gente vai entender que é um fluxo dinâmico porque ele
+
+89
+00:04:39,000 --> 00:04:40,149
+vai depender da informação.
+
+90
+00:04:40,160 --> 00:04:42,528
+Olha, o cara entrou pra pra comprar o veículo,
+
+91
+00:04:42,540 --> 00:04:43,569
+mas ele não quis.
+
+92
+00:04:43,579 --> 00:04:47,548
+Cancelou! Ele começou a fazer realizar o processo interativo.
+
+93
+00:04:47,559 --> 00:04:49,619
+Tá intera? Interagindo com ele? Tem, Ele
+
+94
+00:04:49,629 --> 00:04:51,449
+tem informação que vem pro Serasa.
+
+95
+00:04:51,459 --> 00:04:54,569
+Vem, entra aqui e volta pra cá.
+
+96
+00:04:54,649 --> 00:04:57,738
+Informação que vem pro banco, volta do banco.
+
+97
+00:04:57,750 --> 00:04:59,980
+Ele pode ter uma compra cancelada, ou seja,
+
+98
+00:04:59,988 --> 00:05:01,519
+isso é dinâmico.
+
+99
+00:05:01,528 --> 00:05:05,819
+Esse modelo vai depender de como vai acontecer a a
+
+100
+00:05:05,829 --> 00:05:06,540
+o processo.
+
+101
+00:05:06,548 --> 00:05:08,699
+Ou seja, ele tá focado em como as coisas
+
+102
+00:05:08,709 --> 00:05:09,238
+são feitas.
+
+103
+00:05:09,250 --> 00:05:12,338
+Como é que eu faço a o processo de venda
+
+104
+00:05:12,350 --> 00:05:14,250
+de um veículo como ele acontece? Tá aqui oh
+
+105
+00:05:14,259 --> 00:05:17,660
+a descrição então por isso ele é um modelo que
+
+106
+00:05:17,670 --> 00:05:18,920
+a gente considera o modelo.
+
+107
+00:05:18,928 --> 00:05:21,809
+Eh, eh, dinâmico, Tá, Então ele
+
+108
+00:05:21,819 --> 00:05:23,910
+tem essa essa questão do fluxo de como ele é,
+
+109
+00:05:23,920 --> 00:05:25,970
+acompanha e como ele, como ele é executado.
+
+110
+00:05:25,980 --> 00:05:30,449
+E é claro, olhando pra este fluxo eu vou
+
+111
+00:05:30,459 --> 00:05:32,769
+eh, eh mudar a a o meu.
+
+112
+00:05:32,778 --> 00:05:36,869
+O meu propósito, eu vou dar encaminhamentos diferentes Okay,
+
+113
+00:05:36,879 --> 00:05:39,329
+Então esse é o modelo que a gente considera como
+
+114
+00:05:39,338 --> 00:05:42,769
+sendo o modelo eh dinâmico, tá, nós também
+
+115
+00:05:42,778 --> 00:05:46,379
+temos um outro modelo que é o modelo, que
+
+116
+00:05:46,389 --> 00:05:49,769
+é a combinação entre o modelo estático e o modelo
+
+117
+00:05:49,778 --> 00:05:50,278
+dinâmico.
+
+118
+00:05:50,290 --> 00:05:54,660
+Então, com a combinação desse modelo estático, dinâmico,
+
+119
+00:05:54,670 --> 00:05:57,298
+ele tem uma visão mais abrangente, holística de um
+
+120
+00:05:57,309 --> 00:06:00,778
+processo de negócio, então ele permite eu compreender a
+
+121
+00:06:00,790 --> 00:06:05,725
+A a as informações, analisar e otimizar as operações.
+
+122
+00:06:05,733 --> 00:06:10,144
+Eh empresariais! Claro que tanto o o está como,
+
+123
+00:06:10,153 --> 00:06:13,084
+digamos, cada um tem sua vantagem em suas desvantagens,
+
+124
+00:06:13,095 --> 00:06:15,764
+né? Mas a gente pode podemos integrar os dois
+
+125
+00:06:15,774 --> 00:06:19,944
+ali e e e complementar, e com e combinar
+
+126
+00:06:19,954 --> 00:06:23,303
+e pra superar justamente essas limitações tanto do modelo estático
+
+127
+00:06:23,314 --> 00:06:25,790
+quanto do modelo dinâmico, tá legal.
+
+128
+00:06:25,798 --> 00:06:27,449
+Então, como é que você vai representar? É
+
+129
+00:06:27,459 --> 00:06:30,449
+modelo estático, é modelo dinâmico você vai representar.
+
+130
+00:06:30,459 --> 00:06:33,329
+Como você quer enxergar aquele processo? Como você quer
+
+131
+00:06:33,338 --> 00:06:37,009
+chegar aquela in-? Eh enxergar aquela eh informação,
+
+132
+00:06:37,019 --> 00:06:39,290
+tá legal? Então eh.
+
+133
+00:06:39,298 --> 00:06:42,548
+Quando a gente fala no nos tipos de modelo de
+
+134
+00:06:42,559 --> 00:06:43,709
+de de negócios, né.
+
+135
+00:06:43,720 --> 00:06:46,548
+Os benefícios que eles nos trazem E aí a gente
+
+136
+00:06:46,559 --> 00:06:50,428
+vai eh perceber que aquilo tudo que a gente falou
+
+137
+00:06:50,439 --> 00:06:54,028
+traz não só eh, eh, não é só
+
+138
+00:06:54,040 --> 00:06:54,129
+um.
+
+139
+00:06:54,139 --> 00:06:55,988
+EH, não é um método, mas ele traz
+
+140
+00:06:56,000 --> 00:06:59,350
+alguma coisa e ele nos proporcional, né? Na
+
+141
+00:06:59,358 --> 00:07:01,709
+verdade, ele eh o A A gestão de processo
+
+142
+00:07:01,720 --> 00:07:04,949
+tem que nos pro proporcionar algum tipo de resultado,
+
+143
+00:07:04,959 --> 00:07:06,750
+né? E esse resultado a gente vai enxergar como
+
+144
+00:07:06,759 --> 00:07:10,420
+sendo benefícios pra se modelar um processo, tá então,
+
+145
+00:07:10,428 --> 00:07:12,699
+quando eu enxergo um benefício modelar de processo, eu
+
+146
+00:07:12,709 --> 00:07:14,619
+vou olhar aqui pra essas perspectivas.
+
+147
+00:07:14,629 --> 00:07:17,540
+Por exemplo, identificação de gargalos, etapas redundantes e
+
+148
+00:07:17,548 --> 00:07:18,059
+falhas.
+
+149
+00:07:18,069 --> 00:07:20,369
+Então, quando você olhar pra um processo, você
+
+150
+00:07:20,379 --> 00:07:24,079
+consegue ver verificar o gargalo, você consegue prever eh,
+
+151
+00:07:24,088 --> 00:07:26,540
+eh, eh etapas que poxa, eu tô refazendo
+
+152
+00:07:26,548 --> 00:07:28,838
+isso aqui isso aqui tá sendo gerando um retrabalho.
+
+153
+00:07:29,290 --> 00:07:31,480
+Olha, eu tenho uma falha aqui eu tenho!
+
+154
+00:07:31,488 --> 00:07:33,019
+Eu tô vendo aqui que esse processo cara, mas
+
+155
+00:07:33,028 --> 00:07:35,088
+e se o cara responder isso aqui, pra onde
+
+156
+00:07:35,100 --> 00:07:37,000
+que eu vou e se a E se e se
+
+157
+00:07:37,009 --> 00:07:38,819
+o caminho que ele tomar foi esse pra onde que
+
+158
+00:07:38,829 --> 00:07:39,379
+eu vou.
+
+159
+00:07:39,389 --> 00:07:42,358
+Então eu consigo ver isso dentro de um modelo de
+
+160
+00:07:42,369 --> 00:07:44,579
+processo, dentro da modelagem do processo, né?
+
+161
+00:07:44,588 --> 00:07:47,459
+Porque eu vou detalhar o processo? Eu conheço,
+
+162
+00:07:47,470 --> 00:07:50,769
+o processo é conhecimento e o conhecimento me permite.
+
+163
+00:07:50,778 --> 00:07:52,980
+Esse detalhamento me permite essa interação.
+
+164
+00:07:52,988 --> 00:07:57,379
+Me permite essa interpretação de forma que eu possa levar
+
+165
+00:07:57,389 --> 00:08:00,699
+com que esse processo, né, Ocorra de forma
+
+166
+00:08:00,709 --> 00:08:03,619
+adequada e atenda as minhas.
+
+167
+00:08:03,629 --> 00:08:06,019
+Ah, os meus anseios organizacionais.
+
+168
+00:08:06,028 --> 00:08:09,500
+Por isso a gente eh, eh modela processo,
+
+169
+00:08:09,509 --> 00:08:12,100
+né? Modela processo e é claro que eh!
+
+170
+00:08:12,108 --> 00:08:16,160
+Quando a gente fala de de gargalo, etapas redundantes
+
+171
+00:08:16,170 --> 00:08:20,838
+e falhas, eu tô falando de problemas inerentes a
+
+172
+00:08:20,850 --> 00:08:23,838
+molada de processo, mas a moda de processo também
+
+173
+00:08:23,850 --> 00:08:28,420
+lembre-se que ela propõe melhoria contínua e a melhoria contínua,
+
+174
+00:08:28,428 --> 00:08:31,040
+ela vem pra poder garantir com que aquilo aconteça de
+
+175
+00:08:31,048 --> 00:08:35,099
+forma muito mais eficiente, muito mais eficaz, né?
+
+176
+00:08:35,109 --> 00:08:38,379
+Então, é legal a gente sempre ter essa essa,
+
+177
+00:08:38,389 --> 00:08:42,599
+essa maturidade e essa esse entendimento, de que as
+
+178
+00:08:42,609 --> 00:08:44,739
+coisas podem ser melhoradas de que eu tenho.
+
+179
+00:08:44,808 --> 00:08:47,139
+A visão que eu posso eh buscar por meio do
+
+180
+00:08:47,149 --> 00:08:50,440
+detalhamento, né? Atingir um nível de excelência,
+
+181
+00:08:50,450 --> 00:08:54,259
+né? Outra outro benefício é a clareza nas oportunidades
+
+182
+00:08:54,269 --> 00:08:56,500
+e potencialidades do meu negócio.
+
+183
+00:08:56,509 --> 00:08:58,259
+Então, a partir do momento que você conhece o
+
+184
+00:08:58,269 --> 00:09:01,759
+teu negócio, você reduzir o gargalo etapa você tá
+
+185
+00:09:01,769 --> 00:09:02,960
+buscando a melhoria contínua.
+
+186
+00:09:02,969 --> 00:09:06,940
+Você tá procurando eficiência, eficácia, você procurando Resultado.
+
+187
+00:09:06,950 --> 00:09:10,019
+Você agrega valor, você apresenta resultados? Enfim,
+
+188
+00:09:10,029 --> 00:09:13,298
+isso é muito muito eh.
+
+189
+00:09:13,308 --> 00:09:15,320
+Eh pertinente quando a gente fala de modalidade, de
+
+190
+00:09:15,330 --> 00:09:18,440
+processo e por último, né? Aí o o,
+
+191
+00:09:18,450 --> 00:09:20,798
+o o ebook, que é o o nosso livro
+
+192
+00:09:20,808 --> 00:09:23,340
+de gestão de processos, né? Ele fala que
+
+193
+00:09:23,349 --> 00:09:25,879
+o o O, o, o O Desculpa O
+
+194
+00:09:25,889 --> 00:09:29,320
+E-book é um conjunto de atividades técnicas pra comunicar como
+
+195
+00:09:29,330 --> 00:09:31,200
+com componentes essenciais dos processos.
+
+196
+00:09:31,210 --> 00:09:33,558
+Então, quer desenhar processo, quer trabalhar com processo,
+
+197
+00:09:33,570 --> 00:09:35,340
+quer entender como é que funciona.
+
+198
+00:09:35,408 --> 00:09:37,820
+Você tem aí um um um livro, né?
+
+199
+00:09:37,830 --> 00:09:42,168
+Um compêndio que nos ajuda a entender essa perspectiva de
+
+200
+00:09:42,178 --> 00:09:44,889
+eh processo eh organizacional.
+
+201
+00:09:44,899 --> 00:09:48,259
+E isso é muito determinante dentro da da da,
+
+202
+00:09:48,269 --> 00:09:50,918
+do, do entendimento do, do benefício que isso
+
+203
+00:09:50,928 --> 00:09:53,599
+traz, do que representa a modelagem de processo pra
+
+204
+00:09:53,609 --> 00:09:55,538
+dentro da minha organização, né? Fazendo com que
+
+205
+00:09:55,548 --> 00:09:59,200
+eu consiga entregar aquilo que eu tô eh, eh
+
+206
+00:09:59,210 --> 00:10:01,619
+querendo que eu me proponho Okay.
+
+207
+00:10:01,629 --> 00:10:03,038
+Obrigado Até a próxima
+

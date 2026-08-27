@@ -1,0 +1,484 @@
+1
+00:00:05,929 --> 00:00:07,940
+Olá aluno, professor Fabrício Melo.
+
+2
+00:00:07,948 --> 00:00:09,978
+Um grande prazer estar aqui, Estamos trabalhando aí com
+
+3
+00:00:09,989 --> 00:00:12,939
+as funções da camada de transporte, né? Estamos
+
+4
+00:00:12,948 --> 00:00:17,699
+na camada quatro aí do modelo OSE e vamos tratar
+
+5
+00:00:17,708 --> 00:00:21,298
+sobre suas funções parte dois Já vimos aí a parte
+
+6
+00:00:21,309 --> 00:00:24,079
+um, então vamos entrar na parte dois aí de
+
+7
+00:00:24,089 --> 00:00:27,620
+como opera a camada de transporte, olha só uma
+
+8
+00:00:27,629 --> 00:00:33,200
+das funções dela é a multiplexação de serviços.
+
+9
+00:00:33,209 --> 00:00:37,340
+Se você pega essa palavra multi, né, multiplexação
+
+10
+00:00:37,348 --> 00:00:43,779
+que que significa isso multiplica várias conversações, permitindo o
+
+11
+00:00:43,789 --> 00:00:49,250
+quê? Que fluxos de diferentes aplicações seja intercaladas na
+
+12
+00:00:49,259 --> 00:00:51,609
+mesma rede? É o que a gente comentou lá
+
+13
+00:00:51,618 --> 00:00:59,639
+na parte um você tem diversos dispositivos Okay comunicando aplicações
+
+14
+00:00:59,649 --> 00:01:04,069
+distintas, utilizando a mesma rede.
+
+15
+00:01:04,079 --> 00:01:05,469
+Então cê pega, por exemplo.
+
+16
+00:01:05,480 --> 00:01:08,569
+Agora, vamos pegar aqui uma rede celular, né?
+
+17
+00:01:08,579 --> 00:01:14,088
+Você tem ali quantos dispositivos quantos equipamentos conectadosàquela rede
+
+18
+00:01:14,099 --> 00:01:20,109
+trafegando dados distintos, né? Utilizando aplicações distintas,
+
+19
+00:01:20,120 --> 00:01:21,230
+você pode, Tá agora assistindo.
+
+20
+00:01:21,239 --> 00:01:24,079
+Por exemplo, uma uma vídeo aula aí na plataforma
+
+21
+00:01:24,088 --> 00:01:26,689
+do Gran por meio da plataforma Youtube.
+
+22
+00:01:26,980 --> 00:01:29,588
+Eu posso tá aqui agora enviando um e-mail, por
+
+23
+00:01:29,599 --> 00:01:32,629
+exemplo, né? Então tá vendo aí o exemplo
+
+24
+00:01:32,638 --> 00:01:36,329
+até parecido Oh, cê tem dados da aplicação de
+
+25
+00:01:36,338 --> 00:01:39,870
+aplicação? Tá vendo oh três dois um E esses
+
+26
+00:01:39,879 --> 00:01:45,650
+dados simplesmente seguem a rede, né? Por caminhos,
+
+27
+00:01:45,659 --> 00:01:48,549
+por exemplo? Distintos né? Ele vai ser quebrado
+
+28
+00:01:48,558 --> 00:01:49,370
+lá em pacotes.
+
+29
+00:01:49,379 --> 00:01:51,469
+Por isso que a tal da computação dos pacotes,
+
+30
+00:01:51,480 --> 00:01:56,418
+né? Vão ser roteado E chegando ao destino,
+
+31
+00:01:56,430 --> 00:01:59,939
+você tem essa remontagem? Então? Muito cuidado com
+
+32
+00:01:59,948 --> 00:02:05,459
+essa palavra multiplexação ela é, inclusive aí abordada em
+
+33
+00:02:05,469 --> 00:02:09,419
+alguns eh até concursos se você for fazer aí né.
+
+34
+00:02:09,429 --> 00:02:13,899
+Perguntando qual é uma das finalidades da camada? Quatro,
+
+35
+00:02:13,909 --> 00:02:16,270
+né? A camada de transporte da rede? Aí
+
+36
+00:02:16,278 --> 00:02:20,020
+ele vai usar essa palavra multiplexação de serviços? É
+
+37
+00:02:20,028 --> 00:02:24,240
+isso, Você tem equipamentos, eh distintos equipamentos diversos,
+
+38
+00:02:24,250 --> 00:02:29,819
+com sistemas distintos trafegando, né? Dados de aplicações
+
+39
+00:02:29,830 --> 00:02:33,868
+distintas na mesma rede? Então quem vai fazer essa
+
+40
+00:02:33,879 --> 00:02:38,830
+reordenação? Quem vai fazer essa organização é a camada
+
+41
+00:02:38,838 --> 00:02:39,629
+quatro.
+
+42
+00:02:39,639 --> 00:02:43,729
+Aí a camada de transporte perfeito.
+
+43
+00:02:43,740 --> 00:02:47,028
+E aí nós temos também outra função dela é o
+
+44
+00:02:47,038 --> 00:02:49,368
+controle desse fluxo.
+
+45
+00:02:49,379 --> 00:02:52,629
+E o controle de erros é também vai aqui nessa
+
+46
+00:02:52,639 --> 00:02:56,080
+camada quatro Tá, eh como funciona isso aqui!
+
+47
+00:02:56,088 --> 00:03:00,258
+Oh dependendo do protocolo que você usa, né.
+
+48
+00:03:00,270 --> 00:03:02,699
+Oh! Na camada de transporte que a gente vai
+
+49
+00:03:02,710 --> 00:03:04,300
+usar, que são dois.
+
+50
+00:03:04,308 --> 00:03:06,939
+A gente vai ver daqui a pouco as suas mensagens
+
+51
+00:03:06,949 --> 00:03:11,210
+lembra dos P D u s são chamados de segmentos
+
+52
+00:03:11,219 --> 00:03:14,899
+ou data gramas e eles são orientados ou não a
+
+53
+00:03:14,909 --> 00:03:19,110
+conexão geralmente cê tem lá os segmentos no te no
+
+54
+00:03:19,118 --> 00:03:21,528
+TC p e data gramas no d p, Então
+
+55
+00:03:21,538 --> 00:03:25,349
+você pode tratá-los como orientados a conexão ou não precisa
+
+56
+00:03:25,360 --> 00:03:30,569
+depender da situação da necessidade da aplicação que foi criada.
+
+57
+00:03:30,580 --> 00:03:33,868
+Então eu posso, por exemplo, criar desenvolver uma
+
+58
+00:03:33,879 --> 00:03:39,338
+aplicação onde eu vou precisar de um serviço orientado a
+
+59
+00:03:39,349 --> 00:03:44,129
+conexão onde eu vou precisar de uma entrega confiável dos
+
+60
+00:03:44,139 --> 00:03:47,449
+pacotes? Eu vou utilizar um protocolo determinada ca Mala
+
+61
+00:03:47,460 --> 00:03:49,500
+quatro que no caso eu até já vou te falar
+
+62
+00:03:49,508 --> 00:03:52,550
+que é o TC p Agora eu posso criar uma
+
+63
+00:03:52,558 --> 00:03:57,849
+aplicação que não necessita ter um nível de confiabilidade de
+
+64
+00:03:57,860 --> 00:04:02,110
+entrega, de um reordenamento de pacotes, mas eu
+
+65
+00:04:02,118 --> 00:04:03,969
+preciso ali de velocidade.
+
+66
+00:04:03,979 --> 00:04:08,069
+Eu preciso de agilidade na entrega desses pacotes, então
+
+67
+00:04:08,080 --> 00:04:11,479
+eu não vou precisar de uma orientação a conexão e
+
+68
+00:04:11,490 --> 00:04:15,528
+nem de um reordenamento da entrega desses pacotes, então
+
+69
+00:04:15,538 --> 00:04:19,100
+eu vou utilizar por exemplo o protocolo d P entendeu
+
+70
+00:04:19,108 --> 00:04:22,059
+então oh, implementando ou não também oh! O
+
+71
+00:04:22,069 --> 00:04:24,678
+serviço de controle de fluxo e de erro que a
+
+72
+00:04:24,689 --> 00:04:28,778
+gente vai ver mais adiante seria exatamente isso, porque
+
+73
+00:04:28,790 --> 00:04:31,399
+a camada de transporte, ela é capaz o seguinte
+
+74
+00:04:31,410 --> 00:04:36,238
+se você ter algum erro, alguma perda de pacotes
+
+75
+00:04:36,250 --> 00:04:39,480
+no caminho pode gerar um erro.
+
+76
+00:04:39,488 --> 00:04:42,459
+Você vai ter que ler, inclusive na aplicação e
+
+77
+00:04:42,470 --> 00:04:45,459
+você pode retransmitir essa informação novamente.
+
+78
+00:04:46,230 --> 00:04:49,899
+Ou então você pode optar por uma aplicação que esse
+
+79
+00:04:49,910 --> 00:04:51,678
+erro pode ser desconsiderado.
+
+80
+00:04:51,689 --> 00:04:56,278
+Então os pacotes vão ser enviados.
+
+81
+00:04:56,290 --> 00:04:59,600
+E, caso dê algum problema com um outro pacote,
+
+82
+00:04:59,608 --> 00:05:01,869
+eu não quero Notificação de erro, continue.
+
+83
+00:05:01,879 --> 00:05:04,738
+Vou dar um exemplo, uma videoconferência.
+
+84
+00:05:04,750 --> 00:05:08,238
+Cê tá aqui assistindo, né? Um um vídeo
+
+85
+00:05:08,250 --> 00:05:10,798
+e se tiver alguma perda de pacotes, algum né?
+
+86
+00:05:10,809 --> 00:05:14,470
+Um bit ali alguma coisa? Se perder, vai
+
+87
+00:05:14,480 --> 00:05:17,790
+ser praticamente imperceptível.
+
+88
+00:05:17,798 --> 00:05:22,009
+Eu vou continuar assistindo aquele vídeo, então eu posso
+
+89
+00:05:22,019 --> 00:05:25,689
+optar por um protocolo que vai me dar essas características
+
+90
+00:05:25,699 --> 00:05:29,170
+na camada de transporte, né? Eu até denuncio.
+
+91
+00:05:29,178 --> 00:05:30,928
+É o protocolo! O D P, que é
+
+92
+00:05:30,939 --> 00:05:33,889
+o que eu tô que que nós veremos mais adiante,
+
+93
+00:05:33,899 --> 00:05:34,410
+Entendeu.
+
+94
+00:05:34,420 --> 00:05:38,369
+Então, como é que essa essa camada quatro Ela
+
+95
+00:05:38,379 --> 00:05:40,410
+vai agir na na rede.
+
+96
+00:05:40,420 --> 00:05:45,629
+Ela vai conseguir trabalhar com controle de fluxo dos pacotes
+
+97
+00:05:46,278 --> 00:05:50,108
+e vai conseguir trabalhar com o controle de erros.
+
+98
+00:05:50,119 --> 00:05:52,569
+Obviamente que eu tô falando em pacotes, mas no
+
+99
+00:05:52,579 --> 00:05:55,649
+caso a gente chama de segmentos, né? Nessa
+
+100
+00:05:55,660 --> 00:05:58,769
+camada data gramas tá, mas você vai ver muito
+
+101
+00:05:58,778 --> 00:06:01,410
+comum também, queàs vezes a gente generaliza aí,
+
+102
+00:06:01,420 --> 00:06:05,689
+tratando a ideia toda como sistema de pacotes tá bom,
+
+103
+00:06:05,699 --> 00:06:10,269
+Então essa é a outra função, né? Conhecida
+
+104
+00:06:11,149 --> 00:06:13,920
+dessa famosa aí, camada? Quatro, né?
+
+105
+00:06:13,928 --> 00:06:17,759
+Da famosa camada de rede tá é assim que ela
+
+106
+00:06:17,769 --> 00:06:19,759
+vai Rede não de transporte, é assim que ela
+
+107
+00:06:19,769 --> 00:06:21,160
+vai funcionar.
+
+108
+00:06:21,170 --> 00:06:26,119
+Olha só que interessante essa citação aí do oh a
+
+109
+00:06:26,129 --> 00:06:29,160
+camada de transporte, ela vai desempenhar o quê?
+
+110
+00:06:29,170 --> 00:06:34,939
+Um papel fundamental de fornecer o quê? Serviços de
+
+111
+00:06:34,949 --> 00:06:41,649
+comunicação diretamente aos processos de aplicação que rodem hospedeiros diferentes.
+
+112
+00:06:41,660 --> 00:06:47,869
+Como eu falei Cê tem aplicações diferentes, máquinas hospedeiros
+
+113
+00:06:47,879 --> 00:06:51,350
+diferentes, trocando informações, né? Por um sistema
+
+114
+00:06:51,358 --> 00:06:53,019
+de multiplexação.
+
+115
+00:06:53,028 --> 00:06:57,189
+E essa camada quatro vai desempenhar um papel de conseguir
+
+116
+00:06:57,199 --> 00:07:02,149
+fornecer um serviço de comunicação pra todos esses hospedeiros,
+
+117
+00:07:02,160 --> 00:07:06,250
+né? Tratando aí essa comunicação, fim, fim,
+
+118
+00:07:06,259 --> 00:07:09,410
+okay, então tá, aí, Essa é uma
+
+119
+00:07:09,420 --> 00:07:14,009
+parte da função da camada de transporte.
+
+120
+00:07:14,019 --> 00:07:16,178
+Fique por aqui! Volto.
+
+121
+00:07:16,189 --> 00:07:17,238
+Já abraço
+

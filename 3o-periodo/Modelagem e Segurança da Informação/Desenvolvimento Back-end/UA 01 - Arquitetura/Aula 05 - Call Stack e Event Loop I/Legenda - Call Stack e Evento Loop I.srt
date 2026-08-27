@@ -1,0 +1,624 @@
+1
+00:00:06,559 --> 00:00:08,050
+Olá, eu sou professor Danis Cops.
+
+2
+00:00:08,060 --> 00:00:12,169
+A gente vai falar um pouquinho sobre event, né?
+
+3
+00:00:12,179 --> 00:00:15,089
+Que são basicamente as formas como no JS trabalha com
+
+4
+00:00:15,099 --> 00:00:17,809
+os modelos, síndrome e a síndrome, né?
+
+5
+00:00:17,818 --> 00:00:22,760
+A gente começa pela né? A é relacionadaàs
+
+6
+00:00:22,769 --> 00:00:25,370
+chamadas síndroma, né? Vamos ver como é que
+
+7
+00:00:25,379 --> 00:00:31,318
+ela funciona? Bom? Ela é uma estrutura de
+
+8
+00:00:31,329 --> 00:00:33,039
+pilha, né? O que acontece? Uma chamada
+
+9
+00:00:33,048 --> 00:00:36,048
+sincronia, né? Eh Se você chama uma função
+
+10
+00:00:36,060 --> 00:00:38,000
+e essa função chama a outra, dentro dela,
+
+11
+00:00:38,009 --> 00:00:40,798
+ela para o que ela tá fazendo, vai pra
+
+12
+00:00:40,810 --> 00:00:43,279
+uma pilha guardando o seu contexto e a outra começa
+
+13
+00:00:43,289 --> 00:00:44,039
+a executar se.
+
+14
+00:00:44,048 --> 00:00:46,740
+Essa outra chama uma terceira ela para o que tá
+
+15
+00:00:46,750 --> 00:00:49,679
+fazendo, coloca na pilha e vai executar.
+
+16
+00:00:49,689 --> 00:00:53,000
+Quando volta da terceira ele tem que voltar pra segunda.
+
+17
+00:00:53,009 --> 00:00:55,439
+Então tem que despir o que tava lá na segunda
+
+18
+00:00:55,450 --> 00:00:56,179
+pra continuar.
+
+19
+00:00:56,658 --> 00:00:58,189
+E aí quando ele acaba, a segunda tem que
+
+20
+00:00:58,200 --> 00:01:00,130
+voltar pra primeira diz em pilha.
+
+21
+00:01:00,139 --> 00:01:03,149
+Por quê? Imagina o seguinte A função a Como
+
+22
+00:01:03,158 --> 00:01:05,230
+se fosse uma pilha de pratos, a função a
+
+23
+00:01:05,239 --> 00:01:07,388
+chama a função D A função B é uma função
+
+24
+00:01:07,400 --> 00:01:07,819
+C.
+
+25
+00:01:07,829 --> 00:01:11,269
+Função C é uma função D, Se você retornar
+
+26
+00:01:11,278 --> 00:01:15,168
+direta de baixo, as outras caem né? Então
+
+27
+00:01:15,180 --> 00:01:19,088
+você tem eh a ordem inversa, né? Dá
+
+28
+00:01:19,099 --> 00:01:22,689
+entrada? Seria é que nem uma pilha de pratos
+
+29
+00:01:22,698 --> 00:01:24,510
+você só pode tirar o que tá no topo.
+
+30
+00:01:24,519 --> 00:01:25,808
+Você não pode tirar o de baixo, senão a
+
+31
+00:01:25,819 --> 00:01:28,230
+pilha toda cai, né? Então a ideia é
+
+32
+00:01:28,239 --> 00:01:30,650
+que quando você vai chamar uma função dentro de outra,
+
+33
+00:01:30,659 --> 00:01:33,250
+você vai empilhando as chamadas.
+
+34
+00:01:33,260 --> 00:01:35,448
+E essa, esse empilhamento de chamadas é o que
+
+35
+00:01:35,459 --> 00:01:37,709
+a gente chama de hã.
+
+36
+00:01:37,719 --> 00:01:39,209
+E esse modelo não é novo.
+
+37
+00:01:39,219 --> 00:01:42,099
+Isso já era usado numa sempre quando a linguagem é
+
+38
+00:01:42,109 --> 00:01:46,209
+sempre quando você usa e chama o endereço, seria
+
+39
+00:01:46,219 --> 00:01:47,750
+uma chamada de sub rotina em A sempre.
+
+40
+00:01:48,189 --> 00:01:51,239
+EH, Ele empilha na né? O valor de
+
+41
+00:01:51,250 --> 00:01:55,079
+retorno pra quando achar uma instrução de né? Eh
+
+42
+00:01:55,088 --> 00:01:59,599
+Se você tiver uma função recurva, né? Eh
+
+43
+00:01:59,609 --> 00:02:02,278
+o que acontece a função recurva Ela empilha ela mesma
+
+44
+00:02:02,290 --> 00:02:04,838
+várias vezes, que seria a primeira ocorrência da função.
+
+45
+00:02:04,849 --> 00:02:06,799
+A segunda recorrência, a terceira ocorrência.
+
+46
+00:02:06,808 --> 00:02:08,740
+A quarta ocorrência é a quinta ocorrência.
+
+47
+00:02:08,750 --> 00:02:10,919
+Se você não colocar um limite, vai acontecer um
+
+48
+00:02:10,929 --> 00:02:15,460
+erro muito comum chamado de flow, ou seja,
+
+49
+00:02:15,469 --> 00:02:17,338
+vai ter um estouro de pilha.
+
+50
+00:02:17,349 --> 00:02:19,819
+Destaque né? Esse sotaque over flow é um estouro
+
+51
+00:02:19,830 --> 00:02:22,500
+de pilha e é inclusive uma técnica de ataque.
+
+52
+00:02:22,508 --> 00:02:25,479
+Se você causa um sotaque over flow, você paralisa
+
+53
+00:02:25,490 --> 00:02:27,979
+o serviço do servidor e você, muitas vezes consegue
+
+54
+00:02:27,990 --> 00:02:30,899
+o consol de mim pra poder invadir a máquina,
+
+55
+00:02:30,909 --> 00:02:33,020
+né? Então, assim é uma coisa que é
+
+56
+00:02:33,028 --> 00:02:36,838
+explorada quando você quer invadir algum lugar, né?
+
+57
+00:02:37,179 --> 00:02:40,508
+EH Então assim as funções recurva podem causar isso quando
+
+58
+00:02:40,520 --> 00:02:41,229
+ela chamar ela mesma.
+
+59
+00:02:41,240 --> 00:02:43,069
+Se ela não tiver uma regra, ela vai enchendo
+
+60
+00:02:43,080 --> 00:02:43,308
+tanto.
+
+61
+00:02:43,319 --> 00:02:46,069
+Essa pilha que vai chegar no limite e vai travar
+
+62
+00:02:46,080 --> 00:02:49,899
+o sistema tá? Eh quando você tem uma função
+
+63
+00:02:49,909 --> 00:02:53,439
+sincronia, a principal característica é o bloqueio do chamado,
+
+64
+00:02:54,129 --> 00:02:55,939
+ou seja, se a função tá executando, ela
+
+65
+00:02:55,949 --> 00:02:59,719
+vai parar o que tá fazendo pra outra executar a
+
+66
+00:02:59,729 --> 00:03:02,679
+parte dela pra quando ela terminar, Continuar fazendo isso
+
+67
+00:03:02,689 --> 00:03:06,379
+é chamado de execução, sincronia, execução.
+
+68
+00:03:06,389 --> 00:03:09,240
+Síndrome é aquela que tem o bloqueio do chamado né.
+
+69
+00:03:09,250 --> 00:03:12,360
+Bom, então, como é que funcionaria essa coisa
+
+70
+00:03:12,368 --> 00:03:15,538
+de forma? Sincronia, né? Aqui eu tenho
+
+71
+00:03:15,550 --> 00:03:20,899
+a função f um com A e B retornando a
+
+72
+00:03:20,909 --> 00:03:24,000
+ama b a função f dois com a e B
+
+73
+00:03:24,008 --> 00:03:26,800
+retornando o valor, né igual? F um a
+
+74
+00:03:26,808 --> 00:03:26,819
+B.
+
+75
+00:03:27,618 --> 00:03:31,699
+Ah, eh console logo o valor.
+
+76
+00:03:32,919 --> 00:03:34,429
+Então, assim ele vai pegar.
+
+77
+00:03:34,439 --> 00:03:37,439
+Eh a função um vai aplicar e vai jogar no
+
+78
+00:03:37,449 --> 00:03:42,409
+console F três A for lette igual a um igual
+
+79
+00:03:42,419 --> 00:03:43,949
+a dois e mais mais? Como é que funciona
+
+80
+00:03:43,960 --> 00:03:48,979
+isso se eu chamar f três dez f três dez
+
+81
+00:03:48,990 --> 00:03:53,569
+na primeira execução? Oh! Vai chamar f dois,
+
+82
+00:03:53,580 --> 00:03:59,110
+dez um f dois dez um vai chamar f um
+
+83
+00:03:59,118 --> 00:04:03,710
+dez um, Então ele vai empilhando depois acabou de
+
+84
+00:04:03,719 --> 00:04:06,050
+executar o f um mais um eh dez um.
+
+85
+00:04:06,058 --> 00:04:07,629
+Ele vai voltar pro f dois.
+
+86
+00:04:07,639 --> 00:04:09,990
+Depois vai executar o F dois vai voltar pro F
+
+87
+00:04:10,000 --> 00:04:12,689
+três, então essa pilha vai aumentando e diminuindo quem
+
+88
+00:04:12,699 --> 00:04:15,429
+tá chamando? Quem tá essa que é a ideia
+
+89
+00:04:15,439 --> 00:04:17,829
+por trás da sta Cada vez que ele parou ali
+
+90
+00:04:17,838 --> 00:04:20,428
+daquele ele vai chegar, chama a de cima,
+
+91
+00:04:20,439 --> 00:04:21,449
+vai chamando a outra.
+
+92
+00:04:21,459 --> 00:04:22,428
+Então ele vai chamando.
+
+93
+00:04:22,439 --> 00:04:24,709
+Depois quando ele para ele vai desempenhando e volta onde
+
+94
+00:04:24,720 --> 00:04:27,588
+tava, onde tava parado porque ele fica bloqueado,
+
+95
+00:04:27,600 --> 00:04:32,209
+né? Eh a execução padrão do Java Script?
+
+96
+00:04:32,220 --> 00:04:33,048
+Ele não usa.
+
+97
+00:04:33,059 --> 00:04:36,928
+Isso é um problema, né Um processo muito longo
+
+98
+00:04:36,939 --> 00:04:39,769
+ele pode parar um sistema inteiro, né? EH
+
+99
+00:04:39,778 --> 00:04:41,088
+e isso aí.
+
+100
+00:04:41,100 --> 00:04:45,209
+Inclusive se você trabalhar com plataformas como Android eh simplesmente
+
+101
+00:04:45,220 --> 00:04:46,988
+o sistema operacional não deixa executar, né? Uma
+
+102
+00:04:47,000 --> 00:04:50,689
+chamada por exemplo, eh uma chamada de leitura de
+
+103
+00:04:50,699 --> 00:04:51,009
+arquivo.
+
+104
+00:04:51,019 --> 00:04:54,278
+Se ela for sincronia, ele não te deixa executar.
+
+105
+00:04:54,290 --> 00:04:56,079
+Ela tem que ser tudo a SC no que se
+
+106
+00:04:56,088 --> 00:04:58,798
+refere a Ah se refere a o, né Entrada
+
+107
+00:04:58,809 --> 00:05:00,959
+e saída, então as operações de o, por
+
+108
+00:05:00,970 --> 00:05:06,819
+serem muito demoradas alguns sistemas bloqueiam o processamento sí crono
+
+109
+00:05:06,829 --> 00:05:10,519
+inclusive no g s Todo o processamento de eh h
+
+110
+00:05:10,528 --> 00:05:15,829
+t p de fali ele é preferencialmente a SC!
+
+111
+00:05:15,838 --> 00:05:18,559
+Apesar de permitir o síncroton ideal é que seja a
+
+112
+00:05:18,569 --> 00:05:20,290
+SCN TÁ eh.
+
+113
+00:05:20,298 --> 00:05:23,928
+Então você pode ter erros de ou, né?
+
+114
+00:05:23,939 --> 00:05:26,209
+Se o cara fica lá longo, eh É um
+
+115
+00:05:26,220 --> 00:05:26,889
+loop infinito.
+
+116
+00:05:26,899 --> 00:05:29,910
+Sem um slip, né, ele vai ficar lá,
+
+117
+00:05:29,920 --> 00:05:32,488
+eh lendo, eternamente! Então! Você tem ali
+
+118
+00:05:32,500 --> 00:05:36,509
+uma possibilidade de você ter vários eh situações, né?
+
+119
+00:05:36,519 --> 00:05:41,250
+Onde aquela execução massiva vai paralisar o sistema, né?
+
+120
+00:05:41,259 --> 00:05:54,059
+Bom, pegar isso aqui que posso criar um arquinho
+
+121
+00:05:54,069 --> 00:06:04,209
+rapidamente e poderia ter aqui umas funções minhas, vou
+
+122
+00:06:04,220 --> 00:06:06,178
+colocar aqui const.
+
+123
+00:06:06,189 --> 00:06:12,798
+FM como eu coloquei lá, a vírgula B é
+
+124
+00:06:12,809 --> 00:06:18,850
+igual a mais D.
+
+125
+00:06:28,470 --> 00:06:41,410
+Ah, com casso! Valor é igual F um
+
+126
+00:06:41,420 --> 00:06:50,548
+A console P, ouàs vezes a complementação de
+
+127
+00:06:50,559 --> 00:06:51,730
+código não ajuda muito.
+
+128
+00:06:53,439 --> 00:06:58,949
+Ah, mas em geral ajudou bastante, Vamos então,
+
+129
+00:06:58,959 --> 00:07:04,928
+assim, se eu chamar aqui um f dois seis
+
+130
+00:07:06,709 --> 00:07:15,769
+e um Ah outro dois ponto JS ele vai imprimir
+
+131
+00:07:15,778 --> 00:07:18,488
+doze lá, então assim eu tenho, o C
+
+132
+00:07:18,500 --> 00:07:20,048
+é uma função chamando a outra.
+
+133
+00:07:20,059 --> 00:07:28,970
+Se eu conseguir uhum, deixa eu ver se ele
+
+134
+00:07:28,980 --> 00:07:52,428
+vai concebi! Depura não star The bug é Infelizmente
+
+135
+00:07:52,439 --> 00:07:54,548
+o The Bug tá indo pra outro.
+
+136
+00:07:57,379 --> 00:08:01,899
+Ah! Que seria wx ele tá vindo pra cá,
+
+137
+00:08:01,910 --> 00:08:03,838
+né Mesmo esse aqui daria pra ver essa questão de
+
+138
+00:08:03,850 --> 00:08:07,338
+depuração? É muito comum você pegar e usar o
+
+139
+00:08:07,350 --> 00:08:09,100
+depurador pra testar esse tipo de coisa.
+
+140
+00:08:09,108 --> 00:08:15,608
+Não são start The bug eh no JA que você
+
+141
+00:08:15,619 --> 00:08:18,970
+consegue verificar a execução do código, então você consegue
+
+142
+00:08:18,980 --> 00:08:21,928
+ver qual função tá chamando? Qual função pode ser
+
+143
+00:08:21,939 --> 00:08:26,379
+bem interessante em algumas situações? Okay Bom eh,
+
+144
+00:08:27,988 --> 00:08:33,440
+deixa eu voltar pra cá, então a execução SC
+
+145
+00:08:33,450 --> 00:08:35,469
+não tem essa característica, né? Você tem uma
+
+146
+00:08:35,479 --> 00:08:38,469
+e a partir daí você eh qualquer chamada.
+
+147
+00:08:38,479 --> 00:08:42,149
+Ela vai ser bloquea e vai esperar o retorno daquela
+
+148
+00:08:42,158 --> 00:08:45,629
+chamada poder continuar executando o que tava executando antes,
+
+149
+00:08:45,639 --> 00:08:49,070
+né? Ah essa, com esse comportamento a si,
+
+150
+00:08:49,080 --> 00:08:52,719
+é sinc, né? É um comportamento eh bloquea
+
+151
+00:08:52,729 --> 00:08:57,269
+e vai usar o comportamento de pilha porque o último
+
+152
+00:08:57,279 --> 00:08:59,788
+que tava executando, que tem que ser o primeiro
+
+153
+00:08:59,798 --> 00:09:00,369
+a retornar.
+
+154
+00:09:00,808 --> 00:09:01,340
+A gente fica.
+
+155
+00:09:01,349 --> 00:09:03,840
+Então nesse ponto, aí eh falando um pouquinho sobre
+
+156
+00:09:03,849 --> 00:09:05,440
+a questão das chamadas síndromes.
+

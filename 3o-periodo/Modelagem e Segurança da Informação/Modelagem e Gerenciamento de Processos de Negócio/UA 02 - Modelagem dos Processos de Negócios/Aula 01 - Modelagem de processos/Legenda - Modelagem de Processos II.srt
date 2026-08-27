@@ -1,0 +1,804 @@
+1
+00:00:06,639 --> 00:00:09,849
+Olá, vamos continuar falando de modelagem de processo,
+
+2
+00:00:09,859 --> 00:00:14,630
+né? Nas abordagens da de modelagem bom, Okay,
+
+3
+00:00:14,640 --> 00:00:19,728
+bom eh! O que a gente precisa eh perceber
+
+4
+00:00:19,739 --> 00:00:24,780
+é que o o processo, a modelagem envolve um
+
+5
+00:00:24,789 --> 00:00:30,170
+conjunto de habilidades e técnicas que vão me permitir formalizar
+
+6
+00:00:30,179 --> 00:00:33,908
+e comunicar, né, aqueles componentes essenciais nos meus
+
+7
+00:00:33,918 --> 00:00:36,130
+processos de negócio? Então esse é o que se
+
+8
+00:00:36,139 --> 00:00:36,810
+pressupõe.
+
+9
+00:00:36,819 --> 00:00:38,609
+Eh a modelagem tá.
+
+10
+00:00:38,618 --> 00:00:42,668
+E é claro que a modelagem ela é uma representação
+
+11
+00:00:42,679 --> 00:00:47,348
+simplificada, simplificada, que suporta o estudo, o
+
+12
+00:00:47,359 --> 00:00:52,209
+desenho de algum aspecto de algo de alguma atividade,
+
+13
+00:00:52,219 --> 00:00:54,270
+né? Isso é um modelo, um modelo,
+
+14
+00:00:54,279 --> 00:00:56,048
+Então eh.
+
+15
+00:00:57,020 --> 00:00:59,750
+Se eu considerar essa perspectiva, eu posso olhar pra
+
+16
+00:00:59,759 --> 00:01:00,848
+isso aqui.
+
+17
+00:01:00,859 --> 00:01:03,709
+Ou seja, isso aqui é esse essa representação.
+
+18
+00:01:03,719 --> 00:01:06,430
+Ela é um modelo eh, ela é um estudo,
+
+19
+00:01:06,439 --> 00:01:09,790
+é um desenho de uma atividade que atividade é a
+
+20
+00:01:09,799 --> 00:01:11,150
+atividade de venda de veículo.
+
+21
+00:01:11,159 --> 00:01:15,150
+Então essa é uma atividade que ocorre, este modelo,
+
+22
+00:01:15,159 --> 00:01:17,250
+ele me representa algo okay.
+
+23
+00:01:17,510 --> 00:01:21,000
+Então é claro que quando eu olho pra esse modelo,
+
+24
+00:01:21,010 --> 00:01:24,659
+eu posso ter alguns algumas formas de enxergá lo,
+
+25
+00:01:24,668 --> 00:01:27,879
+né? Eu posso ter algumas alguns níveis de detalhe
+
+26
+00:01:27,888 --> 00:01:31,719
+em relação ao modelo, né? Desde uma visão
+
+27
+00:01:31,730 --> 00:01:36,739
+contextual desse modelo até uma visão mais detalhada dentro do
+
+28
+00:01:36,750 --> 00:01:41,219
+modelo, mostrando realmente como ocorre a recuperação desse modelo.
+
+29
+00:01:41,689 --> 00:01:44,540
+Então, aí vai depender da sua, do seu
+
+30
+00:01:44,549 --> 00:01:47,448
+emprego daquilo que você quer demonstrar por meio disso.
+
+31
+00:01:47,459 --> 00:01:51,459
+Então, esse modelo apresenta essa versão simplificada daquilo que
+
+32
+00:01:51,469 --> 00:01:54,138
+eu quero entregar por meio de um desenho que foi
+
+33
+00:01:54,150 --> 00:01:54,278
+fe-.
+
+34
+00:01:54,290 --> 00:01:57,558
+Foi foi obtido por meio de um estudo, né?
+
+35
+00:01:57,569 --> 00:01:59,859
+De um estudo em que eu detalhe o que vai
+
+36
+00:01:59,870 --> 00:02:03,638
+exatamente ocorrer em cada uma dessas atividades, né?
+
+37
+00:02:03,650 --> 00:02:07,459
+Que pode estar mais ou menos detalhada dependendo daquilo que
+
+38
+00:02:07,469 --> 00:02:09,659
+eu quero demonstrar em relaçãoàquilo que eu, aquilo
+
+39
+00:02:09,669 --> 00:02:12,808
+que eu vou apresentar, né? Ou na verdade
+
+40
+00:02:12,819 --> 00:02:15,479
+o detalhe que eu quero apresentar, mas na verdade
+
+41
+00:02:15,490 --> 00:02:18,960
+isso aqui eu posso caracterizar este modelo como sendo um
+
+42
+00:02:18,969 --> 00:02:20,300
+processo de negócio.
+
+43
+00:02:21,028 --> 00:02:24,319
+Okay É claro que já falei! Vai depender do
+
+44
+00:02:24,330 --> 00:02:26,360
+detalhe que a gente quer chegar nesse mode nesse processo
+
+45
+00:02:26,368 --> 00:02:28,159
+de negócio, mas eu enxergo isso aqui como sendo
+
+46
+00:02:28,169 --> 00:02:30,879
+um processo de negócio? Tá? Então, Ele
+
+47
+00:02:30,889 --> 00:02:34,360
+é uma representação de um conceito ou atividade, né?
+
+48
+00:02:34,368 --> 00:02:35,800
+Pode ser matemático.
+
+49
+00:02:35,808 --> 00:02:39,080
+Pode ser um gráfico, pode ser uma estrutura tal
+
+50
+00:02:39,088 --> 00:02:41,520
+como essa que nós estamos vendo aqui, que é
+
+51
+00:02:41,528 --> 00:02:44,038
+nada mais é do que uma representação por meio de
+
+52
+00:02:44,050 --> 00:02:47,990
+um um de um fluxo de atividades que vão ocorrendo
+
+53
+00:02:48,000 --> 00:02:50,080
+ao longo do caminho Okay.
+
+54
+00:02:50,088 --> 00:02:55,278
+E aí tem várias aplicações que pode incluir a organização
+
+55
+00:02:55,288 --> 00:02:57,520
+pode, Eh, tem a questão, a perspectiva
+
+56
+00:02:57,528 --> 00:02:59,558
+de aprendizado tem a ah.
+
+57
+00:02:59,569 --> 00:03:03,919
+Pode ser utilizado a a a explicação, a demonstração.
+
+58
+00:03:03,929 --> 00:03:06,118
+Posso ter verificação? Enfim, eu posso ter uma
+
+59
+00:03:06,129 --> 00:03:08,278
+uma série de perspectivas acerca.
+
+60
+00:03:08,288 --> 00:03:09,899
+Disso aí tá legal.
+
+61
+00:03:10,889 --> 00:03:14,659
+Então quando a gente olha nessa questão desse desse modelo
+
+62
+00:03:14,669 --> 00:03:15,879
+eu tô nada mais.
+
+63
+00:03:15,889 --> 00:03:20,240
+Eh, eh, eh mostrando como acontece essa essa
+
+64
+00:03:20,250 --> 00:03:23,618
+eh esse esse, a se atividade da minha organização,
+
+65
+00:03:23,629 --> 00:03:26,419
+esse processo né? E aí eu passo a entender
+
+66
+00:03:26,429 --> 00:03:28,278
+ele melhor, então eh o proces.
+
+67
+00:03:28,288 --> 00:03:31,699
+Essa eh esse fluxo que a gente demonstrou lá,
+
+68
+00:03:31,710 --> 00:03:35,288
+né? Esse esse conjunto de atividades nada mais é
+
+69
+00:03:35,300 --> 00:03:37,469
+do que um fluxo de trabalho, né? Eh
+
+70
+00:03:37,479 --> 00:03:41,729
+que mostra a organização que mostra a perspectiva de como
+
+71
+00:03:41,740 --> 00:03:46,008
+isso ocorre dentro da organização e aí eh aliada a
+
+72
+00:03:46,020 --> 00:03:49,270
+isso, eu preciso entender que eh o processo,
+
+73
+00:03:49,278 --> 00:03:50,189
+ele representa.
+
+74
+00:03:50,199 --> 00:03:54,610
+Ele deve representar uma visão holística dos fluxos de trabalho
+
+75
+00:03:54,618 --> 00:03:56,050
+e desempenho organizacional.
+
+76
+00:03:56,058 --> 00:03:59,149
+Que visão holística, porque ele não termina em si
+
+77
+00:03:59,159 --> 00:04:02,179
+mesmo, ele não é o fim de si mesmo.
+
+78
+00:04:02,189 --> 00:04:07,520
+Ele simplesmente é uma parte de um processo organizacional maior,
+
+79
+00:04:07,528 --> 00:04:12,099
+de uma estrutura maior que faz com faz um completo,
+
+80
+00:04:12,110 --> 00:04:17,019
+dentro daquilo que eu estou definindo como estratégia, como
+
+81
+00:04:17,028 --> 00:04:20,733
+co, como o objetivo, como meta naquilo que
+
+82
+00:04:20,744 --> 00:04:24,144
+eu sou, na minha essência de organização, visão
+
+83
+00:04:24,153 --> 00:04:26,975
+holística, porque ele tem que integrar todas as áreas
+
+84
+00:04:26,983 --> 00:04:31,355
+da empresa, todos os envolvidos a as atividades,
+
+85
+00:04:31,363 --> 00:04:33,254
+né? Então eu tenho que ter essa isso bem,
+
+86
+00:04:33,264 --> 00:04:36,595
+muito bem mapeado, muito bem integrado.
+
+87
+00:04:37,170 --> 00:04:40,399
+Eh dentro da minha, da minha percepção, né,
+
+88
+00:04:40,410 --> 00:04:44,319
+eh dentro considerando essa a A a.
+
+89
+00:04:44,329 --> 00:04:47,660
+Ah! A modelagem eu posso ter três tipos de
+
+90
+00:04:47,670 --> 00:04:50,379
+abordagem eh em relação a ela, né? Eu
+
+91
+00:04:50,389 --> 00:04:52,220
+posso ter uma abordagem que eu chamo de top down
+
+92
+00:04:52,230 --> 00:04:54,220
+visão macro do processo.
+
+93
+00:04:54,230 --> 00:04:57,879
+Então top down, né Eu tô olhando pra cima
+
+94
+00:04:58,338 --> 00:05:00,569
+e vou descer essa visão.
+
+95
+00:05:00,579 --> 00:05:03,970
+Okay Então, por exemplo, eu vou considerar uma
+
+96
+00:05:03,980 --> 00:05:05,970
+visão macro do meu processo.
+
+97
+00:05:05,980 --> 00:05:11,819
+Seria? Eh, vamos lá, Ah, Folha
+
+98
+00:05:11,829 --> 00:05:14,809
+de pagamento vamos supor, não é? Então,
+
+99
+00:05:14,819 --> 00:05:18,009
+eh a o macro é a minha folha de pagamento.
+
+100
+00:05:18,019 --> 00:05:19,738
+Então, uma visão o que que é a folha
+
+101
+00:05:19,750 --> 00:05:21,269
+de pagamento? Isso é uma visão macro.
+
+102
+00:05:21,278 --> 00:05:23,298
+O que que ela faz? Ah, ela emite
+
+103
+00:05:23,309 --> 00:05:26,910
+um mole ela eh, faz o depósito no no,
+
+104
+00:05:26,920 --> 00:05:29,149
+no no do faz o crédito no banco.
+
+105
+00:05:29,160 --> 00:05:34,000
+Isso é uma visão macro okay, Então eu olho
+
+106
+00:05:34,009 --> 00:05:35,819
+eh de cima pra baixo.
+
+107
+00:05:35,829 --> 00:05:40,338
+No meu processo eu tenho um foco no problema central,
+
+108
+00:05:40,350 --> 00:05:43,100
+né? Então aí vamos lá, Como eu emito
+
+109
+00:05:43,108 --> 00:05:46,738
+a folha de pagamento foco no problema central, eu
+
+110
+00:05:46,750 --> 00:05:50,100
+olho pra aquele problema e aí eu abordo aquele problema
+
+111
+00:05:50,108 --> 00:05:52,309
+de como é que eu vou chegar? Como eu
+
+112
+00:05:52,319 --> 00:05:55,778
+vou resolver aquele problema como eu vou trabalhar com ele?
+
+113
+00:05:55,790 --> 00:06:00,108
+Então é sempre é como eu faço aquela atividade e
+
+114
+00:06:00,119 --> 00:06:03,649
+a botam app, né? Eh que, então,
+
+115
+00:06:03,660 --> 00:06:09,410
+Top down Visão macro tá top down, visão macro
+
+116
+00:06:09,420 --> 00:06:13,720
+ou Fox foco no problema central e botam AP que
+
+117
+00:06:13,730 --> 00:06:16,149
+é a parte de uma de de um detalhe eh?
+
+118
+00:06:16,160 --> 00:06:18,389
+Eh para uma visão mais ampla.
+
+119
+00:06:18,399 --> 00:06:20,069
+Detalhes para uma visão mais ampla.
+
+120
+00:06:20,079 --> 00:06:22,069
+Então eu tô olhando lá na base, então vamos
+
+121
+00:06:22,079 --> 00:06:24,509
+lá folha de pagamento Pra eu gerar, eu preciso
+
+122
+00:06:24,519 --> 00:06:26,439
+ter o salário.
+
+123
+00:06:26,449 --> 00:06:27,899
+Eu preciso ter o desconto.
+
+124
+00:06:27,910 --> 00:06:33,019
+Eu preciso ter os o o os os Ah os
+
+125
+00:06:33,028 --> 00:06:33,939
+créditos.
+
+126
+00:06:33,949 --> 00:06:36,939
+Eu preciso ter todas as operações que vão garantir que
+
+127
+00:06:36,949 --> 00:06:38,778
+aquela folha seja gerada, por exemplo, por exemplo,
+
+128
+00:06:38,790 --> 00:06:40,519
+a gente tá dando de de uma folha de pagamento,
+
+129
+00:06:40,528 --> 00:06:43,139
+né? Eu preciso saber se o cara tem ticket,
+
+130
+00:06:43,149 --> 00:06:45,899
+se o cara tem vale transporte, se o cara
+
+131
+00:06:45,910 --> 00:06:47,858
+tem, eh dependentes.
+
+132
+00:06:47,869 --> 00:06:50,338
+Se o cara tem descontar Imposto de Renda, se
+
+133
+00:06:50,350 --> 00:06:52,259
+não tem, enfim, esse é o detalhe de
+
+134
+00:06:52,269 --> 00:06:52,939
+uma visão mais ampla.
+
+135
+00:06:52,949 --> 00:06:55,369
+Então, eu posso abordar o o processo de modelagem
+
+136
+00:06:55,379 --> 00:06:56,000
+nessas três.
+
+137
+00:06:56,009 --> 00:06:59,920
+Perspectivas, né? E considerar essas três perspectivas okay,
+
+138
+00:06:59,928 --> 00:07:02,759
+e isso é importante pra eu determinar como eu vou
+
+139
+00:07:02,769 --> 00:07:07,119
+mostrar esta esta informação, né? Então, se
+
+140
+00:07:07,129 --> 00:07:10,980
+nós voltarmos neste desenho que a gente tá vendo aqui
+
+141
+00:07:10,988 --> 00:07:14,819
+nessa representação, nesse modelo que a gente tá falando,
+
+142
+00:07:15,088 --> 00:07:18,350
+a gente tem um pouco mais detalhado aqui e eu
+
+143
+00:07:18,358 --> 00:07:21,379
+po oh é claro que eu posso detalhar a mais!
+
+144
+00:07:21,389 --> 00:07:24,738
+Oh aqui! Oh realizar, né aqui oh liberação
+
+145
+00:07:24,750 --> 00:07:27,178
+de crédito, tá vendo aqui oh liberação de crédito
+
+146
+00:07:27,189 --> 00:07:30,160
+o que que pressupõe a liberação de crédito? Esse
+
+147
+00:07:30,170 --> 00:07:33,399
+é um processo macro que macro, oh, tem
+
+148
+00:07:33,410 --> 00:07:35,480
+até esse mais aqui de indicação mais pra frente.
+
+149
+00:07:35,488 --> 00:07:38,528
+Nós vamos aprender esse simbolozinho, mas esse mais indicação
+
+150
+00:07:38,540 --> 00:07:40,358
+oh indica Lá que eu tô tenho que eu tenho
+
+151
+00:07:40,369 --> 00:07:44,319
+uma atividade que ela tem, outras eh eh integrações
+
+152
+00:07:44,329 --> 00:07:47,319
+que ela tem outros detalhes por trás dela veja o
+
+153
+00:07:47,329 --> 00:07:49,920
+que ela se integra com o Serasa aqui, que
+
+154
+00:07:49,928 --> 00:07:52,660
+ela se integra com o banco aqui, né?
+
+155
+00:07:52,670 --> 00:07:54,639
+Porque o que que é uma liberação de crédito?
+
+156
+00:07:54,649 --> 00:07:56,238
+Eu com certeza eu vou ter que entrar em contato
+
+157
+00:07:56,250 --> 00:07:58,720
+com com o Serasa pra verificar se o cara tem
+
+158
+00:07:58,730 --> 00:08:03,399
+nome sujo se ele tem alguma pendência junto ao Serasa,
+
+159
+00:08:03,410 --> 00:08:05,079
+Ah, eu vou ao banco no caso.
+
+160
+00:08:05,088 --> 00:08:07,119
+Por exemplo, se ele tá fazendo financiamento, oh
+
+161
+00:08:07,129 --> 00:08:08,798
+isso aqui é um baseado no financiamento, Oh,
+
+162
+00:08:08,809 --> 00:08:09,619
+claro.
+
+163
+00:08:09,629 --> 00:08:12,220
+Então eu vou olhar lá no banco se ele tem
+
+164
+00:08:12,230 --> 00:08:14,379
+realmente como fazer aquele financiamento.
+
+165
+00:08:14,389 --> 00:08:17,678
+Então eu tenho mais informações que precisam ser que vão
+
+166
+00:08:17,689 --> 00:08:21,278
+estar contidas aqui dentro desse desse cara aqui desse processo.
+
+167
+00:08:21,290 --> 00:08:23,119
+Então, se eu olhar pra uma visão aqui eu
+
+168
+00:08:23,129 --> 00:08:24,600
+tô vendo que esse processo aqui é um processo um
+
+169
+00:08:24,608 --> 00:08:27,019
+pouco mais macro em relação ao processo, ao modelo
+
+170
+00:08:27,028 --> 00:08:28,298
+como um todo.
+
+171
+00:08:28,309 --> 00:08:31,528
+Eh, eu tenho um processo, por exemplo eh
+
+172
+00:08:31,540 --> 00:08:34,500
+que eu olho, né, EH? Eh aqui,
+
+173
+00:08:34,509 --> 00:08:38,250
+oh, Realizar cadastro, emitir proposta de venda!
+
+174
+00:08:38,259 --> 00:08:41,649
+Veja que isso é uma atividade que eu executo dentro
+
+175
+00:08:41,658 --> 00:08:44,889
+desse modelo, né? Então eu tô com foco
+
+176
+00:08:44,899 --> 00:08:46,529
+no meu problema, né.
+
+177
+00:08:46,538 --> 00:08:48,668
+Tô focando o meu problema aqui, qual é o
+
+178
+00:08:48,678 --> 00:08:51,969
+problema emitir a EH eh a proposta de venda,
+
+179
+00:08:51,979 --> 00:08:55,908
+então? E essa visão ela ela me permite entender
+
+180
+00:08:55,918 --> 00:09:00,080
+como isso se desdobra ao longo da minha caminhada aqui,
+
+181
+00:09:00,090 --> 00:09:03,460
+né? Ao longo da minha caminhada, oh até
+
+182
+00:09:03,469 --> 00:09:05,099
+chegar aqui no final.
+
+183
+00:09:05,109 --> 00:09:07,859
+E é claro que ao considerar essa chegada aqui oh,
+
+184
+00:09:07,869 --> 00:09:11,139
+eu tenho várias outras questões que podem que são observadas.
+
+185
+00:09:11,149 --> 00:09:12,658
+Por exemplo, eu posso não faz? Não.
+
+186
+00:09:12,668 --> 00:09:14,320
+Não, não tem a compra realizada.
+
+187
+00:09:14,950 --> 00:09:18,320
+Tá? Eh, eu posso ter, Eu vou
+
+188
+00:09:18,330 --> 00:09:22,058
+ter interações aqui, oh como o cancelamento de compra,
+
+189
+00:09:22,070 --> 00:09:24,599
+ou seja cada parte aqui me demonstra.
+
+190
+00:09:24,609 --> 00:09:28,519
+Eu me mostro um modelo de como isso ocorre dentro
+
+191
+00:09:28,529 --> 00:09:29,700
+da minha organização.
+
+192
+00:09:29,710 --> 00:09:33,038
+Como esse processo se desdobra aqui dentro, podendo ter
+
+193
+00:09:33,048 --> 00:09:35,340
+uma visão, né? Aqui a gente fez uma
+
+194
+00:09:35,349 --> 00:09:39,279
+uma questão bem bem alto nível Só pra efeito de
+
+195
+00:09:39,288 --> 00:09:42,139
+explicação a gente um um um um um processo um
+
+196
+00:09:42,149 --> 00:09:45,779
+pouco mais macro, alguma coisa mais detalhada, um
+
+197
+00:09:45,788 --> 00:09:48,460
+processo um pouco mais eh focado em problema aí?
+
+198
+00:09:48,469 --> 00:09:51,340
+Vai depender, né? De como você tá estruturando
+
+199
+00:09:51,349 --> 00:09:54,859
+a sua? A sua eh eh o seu A
+
+200
+00:09:54,869 --> 00:09:58,058
+sua abordagem, né? A sua dentro do processo
+
+201
+00:09:58,070 --> 00:10:01,129
+de negócio Okay! Obrigado até a próxima aula!
+

@@ -1,0 +1,620 @@
+1
+00:00:05,868 --> 00:00:08,819
+Olá, aluno seja muito bem-vindo! Professor Fabrício Melo
+
+2
+00:00:08,829 --> 00:00:11,159
+Estamos aqui com o roteamento básico.
+
+3
+00:00:11,169 --> 00:00:14,439
+Arp C MP Já trabalhamos com o protocolo ARP,
+
+4
+00:00:14,448 --> 00:00:18,760
+agora vamos trabalhar com o protocolo I C MP exatamente
+
+5
+00:00:18,769 --> 00:00:21,199
+é um protocolo também muito interessante.
+
+6
+00:00:21,208 --> 00:00:24,719
+Aí muito útil utilizado aí na rede vamos lá!
+
+7
+00:00:24,728 --> 00:00:28,568
+Oh lá embaixo O I C MP é o famoso
+
+8
+00:00:28,579 --> 00:00:32,329
+protocolo responsável pela troca de mensagens entre ST, ou
+
+9
+00:00:32,340 --> 00:00:35,130
+seja, os dispositivos da rede, então ele está
+
+10
+00:00:35,139 --> 00:00:37,329
+disponível tanto o I P v quatro como o I
+
+11
+00:00:37,340 --> 00:00:39,810
+p v seis mas obviamente pro i p v seis
+
+12
+00:00:39,819 --> 00:00:42,168
+Como a gente viu, ele vai ter funcionalidades adicionais,
+
+13
+00:00:42,179 --> 00:00:44,348
+né? Porque o I p v seis trouxe algumas
+
+14
+00:00:44,359 --> 00:00:47,368
+melhorias com relação aí o tratamento com o i p
+
+15
+00:00:47,380 --> 00:00:50,289
+v quatro E como é que funciona aí? O
+
+16
+00:00:50,298 --> 00:00:52,728
+esse? I c MP Internet contra o messe de
+
+17
+00:00:52,740 --> 00:00:55,289
+protocolo seja é um protocolo que faz o controle de
+
+18
+00:00:55,298 --> 00:00:55,969
+mensagem.
+
+19
+00:00:55,978 --> 00:00:59,168
+Você tem o primeiro tipo aí de retorno de mensagem
+
+20
+00:00:59,179 --> 00:01:01,329
+com a conectividade do ST.
+
+21
+00:01:01,340 --> 00:01:06,620
+Isso significa aluno que quando você manda uma mensagem eco
+
+22
+00:01:06,629 --> 00:01:09,500
+i c MP ela pode ser usada pra testar a
+
+23
+00:01:09,510 --> 00:01:12,879
+conectividade entre ST em uma rede P.
+
+24
+00:01:12,888 --> 00:01:15,439
+Então o que acontece? Cê tá no computador.
+
+25
+00:01:15,448 --> 00:01:18,299
+Então o local vai enviar uma solicitação de eco,
+
+26
+00:01:18,308 --> 00:01:20,638
+né? De i c MP para o roxo de
+
+27
+00:01:20,650 --> 00:01:23,799
+destino? E se ele tiver disponível, ele vai?
+
+28
+00:01:23,808 --> 00:01:26,838
+Enviará uma resposta de eco que é o erro e
+
+29
+00:01:26,849 --> 00:01:30,120
+tá? Utilize o utilitário i p confi já já
+
+30
+00:01:30,129 --> 00:01:31,659
+viu isso lá no seu pronto Tchau tá até a
+
+31
+00:01:31,668 --> 00:01:34,668
+foto aí pra saber qual é o endereço i p
+
+32
+00:01:34,680 --> 00:01:36,430
+do seu gato aí? Padrão, né? Que
+
+33
+00:01:36,439 --> 00:01:38,480
+cê do seu roteador? Em seguida, dito o
+
+34
+00:01:38,489 --> 00:01:41,588
+comando ping e esse endereço aí olha aqui um exemplo
+
+35
+00:01:41,599 --> 00:01:44,558
+tá vendo, oh lá, ele disparou tá vendo
+
+36
+00:01:44,569 --> 00:01:47,319
+oh o pedido a mensagem e ele foi me dando
+
+37
+00:01:47,329 --> 00:01:49,918
+a resposta lá Tá vendo? Aí tá me dando
+
+38
+00:01:49,930 --> 00:01:52,480
+a resposta com o tempo.
+
+39
+00:01:52,489 --> 00:01:55,079
+Tá vendo o t t l OH lá estatísticas!
+
+40
+00:01:55,088 --> 00:01:59,099
+Tá vendo oh pacotes Foram enviados quatro recebidos quatro.
+
+41
+00:01:59,109 --> 00:02:03,519
+Tive zero perdas de pacotes zero por cento de perda.
+
+42
+00:02:03,528 --> 00:02:07,838
+Então você pode observar que eu tive uma resposta de
+
+43
+00:02:07,849 --> 00:02:08,860
+quem eu consultei.
+
+44
+00:02:09,210 --> 00:02:13,740
+Então quer dizer que a minha conexão ela está favorável?
+
+45
+00:02:13,750 --> 00:02:16,919
+Uma conexão que está aí, né? É bem
+
+46
+00:02:16,929 --> 00:02:19,460
+eh interessante, porque se eu tiver alguma perda de
+
+47
+00:02:19,469 --> 00:02:20,838
+pacote ele vai me informar.
+
+48
+00:02:21,080 --> 00:02:23,770
+Se eu tiver uma problema com o tempo, né?
+
+49
+00:02:23,778 --> 00:02:25,368
+Ele vai também informar.
+
+50
+00:02:25,379 --> 00:02:29,889
+Então eu conseguiria aí ter uma noção, né?
+
+51
+00:02:29,899 --> 00:02:32,449
+De de se minha rede está ou não está se
+
+52
+00:02:32,460 --> 00:02:35,129
+comunicando com um roxo com o outro.
+
+53
+00:02:35,139 --> 00:02:36,770
+Aí isso é uma conectividade.
+
+54
+00:02:36,778 --> 00:02:40,750
+Você também tem as mensagens que é o destino inalcançável,
+
+55
+00:02:40,758 --> 00:02:42,169
+o que que seria um destino inalcançável.
+
+56
+00:02:42,179 --> 00:02:45,330
+Aluno é quando um roxo, um roteador não pode
+
+57
+00:02:45,338 --> 00:02:48,588
+entregar o pacote simplesmente isso, ou seja, ele
+
+58
+00:02:48,599 --> 00:02:52,469
+vai usar uma mensagem de C MP de destino inalcançável
+
+59
+00:02:52,479 --> 00:02:54,389
+pra notificar o que a origem.
+
+60
+00:02:54,399 --> 00:02:58,088
+Então a mensagem conterá um código que indica que que
+
+61
+00:02:58,099 --> 00:02:59,889
+não foi possível entregar o pacote.
+
+62
+00:03:00,490 --> 00:03:03,179
+Esse código quando você tem no i C MP,
+
+63
+00:03:03,189 --> 00:03:06,258
+que é da versão do i PP quatro cê vai
+
+64
+00:03:06,270 --> 00:03:08,338
+ter zero é uma rede inalcançável.
+
+65
+00:03:08,349 --> 00:03:13,649
+Um é um roxo inalcançável, dois protocolo inalcançável e
+
+66
+00:03:13,659 --> 00:03:14,258
+o três.
+
+67
+00:03:14,270 --> 00:03:17,020
+A porta de conexão foi inalcançável.
+
+68
+00:03:17,028 --> 00:03:18,740
+Agora, já no protocolo I, p.
+
+69
+00:03:18,750 --> 00:03:22,580
+V seis, zero é nenhuma rota para o destino
+
+70
+00:03:22,588 --> 00:03:25,088
+um A comunicação com o destino é proibida.
+
+71
+00:03:25,099 --> 00:03:28,159
+Por exemplo, você tem um W bloqueando ali aquela
+
+72
+00:03:28,169 --> 00:03:29,038
+comunicação.
+
+73
+00:03:29,288 --> 00:03:31,580
+Cê tem dois que além do escopo de endereço,
+
+74
+00:03:31,588 --> 00:03:35,368
+de origem então tá além, né? Endereço inacessível
+
+75
+00:03:35,379 --> 00:03:37,778
+três e o quatro tá vendo? Você tem a
+
+76
+00:03:37,788 --> 00:03:40,330
+quantidade maior aí de respostas do I p v seis
+
+77
+00:03:40,338 --> 00:03:43,740
+porta inalcançável Então isso é quando você tem um famoso
+
+78
+00:03:43,750 --> 00:03:48,879
+destino que não pode ser alcançado aí no teste Tá
+
+79
+00:03:48,889 --> 00:03:52,258
+e outro é o tempo excedido que que acontece com
+
+80
+00:03:52,270 --> 00:03:53,219
+o tempo excedido.
+
+81
+00:03:53,229 --> 00:03:56,750
+Olha só que interessante quando um pacote P é enviado,
+
+82
+00:03:56,758 --> 00:03:59,788
+né? Da sua origem nele é configurado um campo
+
+83
+00:03:59,800 --> 00:04:01,969
+t t l para o I p v quatro e
+
+84
+00:04:01,979 --> 00:04:04,618
+limite de salto para o I P v seis Tá?
+
+85
+00:04:04,629 --> 00:04:07,729
+Muda aí de um pro outro protocolo, ele indica
+
+86
+00:04:07,740 --> 00:04:10,528
+seu tempo de vida em número de saltos.
+
+87
+00:04:10,538 --> 00:04:13,088
+Okay no campo t t L para o I p
+
+88
+00:04:13,099 --> 00:04:14,889
+v quatro e no campo limite de salto para o
+
+89
+00:04:14,899 --> 00:04:17,350
+I P v seis O que acontece sempre que um
+
+90
+00:04:17,358 --> 00:04:22,720
+roteador encaminha o pacote p um ele vai decretar de
+
+91
+00:04:22,730 --> 00:04:24,879
+um esse valor certo.
+
+92
+00:04:24,889 --> 00:04:28,519
+Se esse valor chega a zero, o roteador vai
+
+93
+00:04:28,528 --> 00:04:31,358
+descartar o pacote e enviar uma mensagem de tempo excedido
+
+94
+00:04:31,369 --> 00:04:33,358
+para o rosto de origem, ou seja, tempo
+
+95
+00:04:33,369 --> 00:04:36,639
+excedido num num num num rolou não aconteceu, né?
+
+96
+00:04:36,649 --> 00:04:39,559
+Aí você tem um ping e o três sete,
+
+97
+00:04:39,569 --> 00:04:42,160
+que é o utilitário para obter o caminho os tempos
+
+98
+00:04:42,170 --> 00:04:42,838
+entre os saltos.
+
+99
+00:04:42,850 --> 00:04:44,980
+Tá, você pode usar, então cê pode abrir,
+
+100
+00:04:44,988 --> 00:04:47,119
+por exemplo, o seu aí digital Oh! Três
+
+101
+00:04:47,129 --> 00:04:50,939
+sete o endereço do GN Aí você vai ver como
+
+102
+00:04:50,949 --> 00:04:51,738
+é que vai funcionar.
+
+103
+00:04:51,750 --> 00:04:54,459
+Tá vendo aqui oh lá, oh rastreando a rota
+
+104
+00:04:54,470 --> 00:04:57,309
+para W w Gran Cursos Online tá vendo aí botou
+
+105
+00:04:57,319 --> 00:05:01,420
+o i p com no máximo oh trinta saltos aí
+
+106
+00:05:01,428 --> 00:05:06,899
+ele vai te dando lá oh oh oh os tempos
+
+107
+00:05:06,910 --> 00:05:10,500
+de cada salto e vai te dar o rastreamento concluído
+
+108
+00:05:10,509 --> 00:05:13,178
+Tá? Então isso é uma outra mensagem que você
+
+109
+00:05:13,189 --> 00:05:15,899
+tem aí com o i c MP que no caso
+
+110
+00:05:15,910 --> 00:05:18,819
+é o famoso tempo de resposta aí né? Tendo
+
+111
+00:05:18,829 --> 00:05:22,059
+o tempo excedido, interessante, né? Então ele
+
+112
+00:05:22,069 --> 00:05:25,699
+é um protocolo muito usado aí pra esses testes tá
+
+113
+00:05:25,709 --> 00:05:28,899
+e as mensagens do i C MP no caso o
+
+114
+00:05:28,910 --> 00:05:31,358
+protocolo i p v c oh lá como eu falei
+
+115
+00:05:31,369 --> 00:05:33,769
+o i C MP do protocolo I p v seis
+
+116
+00:05:33,778 --> 00:05:37,699
+e trouxe novas funcionalidades e novos recursos né? Que
+
+117
+00:05:37,709 --> 00:05:41,048
+não são encontrados no i c MP do da versão
+
+118
+00:05:41,059 --> 00:05:42,059
+quatro.
+
+119
+00:05:42,069 --> 00:05:44,720
+Isso vai incluir mensagens relacionadas ao protocolo a, d
+
+120
+00:05:44,730 --> 00:05:47,959
+ou MD p tá aí o que acontece cê tem
+
+121
+00:05:47,970 --> 00:05:51,439
+a mensagem que é enviada para um ST que inicia
+
+122
+00:05:51,449 --> 00:05:53,899
+na rede para obter as informações de endereçamento.
+
+123
+00:05:54,420 --> 00:05:57,389
+Cê tem a mensagem R A que é enviada pelos
+
+124
+00:05:57,399 --> 00:06:00,319
+roteadores a cada duzentos segundos que é o padrão,
+
+125
+00:06:00,329 --> 00:06:04,420
+ou em uma resposta uma mensagem R S lembra o
+
+126
+00:06:04,428 --> 00:06:07,189
+R s pra iniciar, obter os ende o o
+
+127
+00:06:07,199 --> 00:06:10,350
+as informações de endereçamento pra fornecer as informações.
+
+128
+00:06:10,358 --> 00:06:13,939
+Tá vendo o endereçamento com da rede cumprimento ao endereço
+
+129
+00:06:13,949 --> 00:06:17,178
+D M s o nome de domínio, então o
+
+130
+00:06:17,189 --> 00:06:20,230
+st que usa essa configuração automática de endereço.
+
+131
+00:06:20,238 --> 00:06:22,129
+Ele vai definir o seu aí padrão, né o
+
+132
+00:06:22,139 --> 00:06:24,850
+seu roteador de padrão para o endereço local do rink
+
+133
+00:06:24,858 --> 00:06:28,500
+do do link do roteador que enviou quem essa mensagem
+
+134
+00:06:28,509 --> 00:06:31,048
+de R a ele vai ter também a mensagem N
+
+135
+00:06:31,059 --> 00:06:33,689
+S que é enviada por um rosto p v seis
+
+136
+00:06:33,699 --> 00:06:38,269
+pra verificar o seu endereço é idêntico, duplicado a
+
+137
+00:06:38,278 --> 00:06:41,369
+algum outro rost porque você não pode ter dois endereços
+
+138
+00:06:41,379 --> 00:06:44,389
+iguais e você vai ter a mensagem n A,
+
+139
+00:06:44,399 --> 00:06:48,608
+que vai ser o quê enviada em respostaà mensagem
+
+140
+00:06:48,619 --> 00:06:52,069
+n s caso haja duplicação de endereços p V seis
+
+141
+00:06:52,079 --> 00:06:55,988
+Então se houver uma duplicação, vai acontecer essa mensagem
+
+142
+00:06:56,000 --> 00:06:59,149
+aí n A e destaque Tá? Olha o destaque
+
+143
+00:06:59,160 --> 00:07:02,910
+aí as mensagens c MP v seis também são utilizadas
+
+144
+00:07:02,920 --> 00:07:06,709
+pra resolução de endereços MAC, ou seja, estabelecimento
+
+145
+00:07:06,720 --> 00:07:08,488
+e manutenção de rotas.
+
+146
+00:07:08,500 --> 00:07:12,048
+Ou seja, lembra lá da resolução de endereços do
+
+147
+00:07:12,059 --> 00:07:15,869
+ARP que é aplicado o I p v quatro no
+
+148
+00:07:15,879 --> 00:07:18,579
+I p v seis você já usa o i c
+
+149
+00:07:18,588 --> 00:07:20,959
+n p já pode ser usado no I p v
+
+150
+00:07:20,970 --> 00:07:23,199
+seis, né? No lugar do arp lá,
+
+151
+00:07:23,209 --> 00:07:26,920
+né, lá estabelecimento e a manutenção das rotas que
+
+152
+00:07:26,928 --> 00:07:29,838
+a gente viu aquelas tabelas de roteamento lá do i
+
+153
+00:07:29,850 --> 00:07:34,358
+p v quatro Tá? Então fica essa observação aí
+
+154
+00:07:34,369 --> 00:07:39,798
+para você tranquilo! Então é isso Grande abraço até
+
+155
+00:07:39,809 --> 00:07:40,259
+a próxima!
+

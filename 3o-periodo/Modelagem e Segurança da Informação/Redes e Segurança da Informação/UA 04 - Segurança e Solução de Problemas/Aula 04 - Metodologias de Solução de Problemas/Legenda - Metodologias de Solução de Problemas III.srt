@@ -1,0 +1,896 @@
+1
+00:00:05,940 --> 00:00:07,868
+Olá aluno! Professor Fabrício Melo.
+
+2
+00:00:07,879 --> 00:00:10,179
+Estamos aí com a matéria de segurança da informação e
+
+3
+00:00:10,189 --> 00:00:13,589
+vamos trabalhar com as metodologias de solução de problemas e
+
+4
+00:00:13,599 --> 00:00:16,870
+o tópico é a documentação da rede.
+
+5
+00:00:16,879 --> 00:00:19,199
+Você tem que fazer a documentação da rede.
+
+6
+00:00:19,208 --> 00:00:21,829
+Felizmenteàs vezes, é muito chato, já vi
+
+7
+00:00:21,839 --> 00:00:24,670
+amigos colegas comentando ah, cara, a parte mais
+
+8
+00:00:24,679 --> 00:00:26,129
+chata, de trabalhar em rede tem que fazer a
+
+9
+00:00:26,138 --> 00:00:30,469
+documentação, fazer essa análise, fazer inventário, fazer
+
+10
+00:00:30,478 --> 00:00:33,529
+ali a documentação é bem chato, mas é necessário,
+
+11
+00:00:33,759 --> 00:00:35,649
+né? É necessário Porque vai te ajudar lá na
+
+12
+00:00:35,658 --> 00:00:38,609
+frente,Às vezes no início pra criar do zero.
+
+13
+00:00:38,618 --> 00:00:42,529
+Pra começar, pode ser bem desagradável pro responsável,
+
+14
+00:00:42,539 --> 00:00:45,209
+mas após isso, você vai ter uma tranquilidade.
+
+15
+00:00:45,219 --> 00:00:49,728
+Por quê? Porque depois é só gerenciamento só atualização
+
+16
+00:00:49,740 --> 00:00:52,950
+tudo que a gente constrói, do zeroàs vezes
+
+17
+00:00:52,959 --> 00:00:55,329
+é mais trabalhoso, é mais chato.
+
+18
+00:00:55,340 --> 00:00:58,969
+Mas depois que a gente já construiu e apenas vai
+
+19
+00:00:58,978 --> 00:01:01,259
+gerir, é bem mais fácil.
+
+20
+00:01:01,270 --> 00:01:04,540
+Então eh, vamos tratar sobre isso.
+
+21
+00:01:04,549 --> 00:01:06,480
+Como é que é feita essa documentação? Tá vendo
+
+22
+00:01:06,489 --> 00:01:10,058
+Oh essa documentação faz parte, né? Do gerenciamento
+
+23
+00:01:10,069 --> 00:01:13,138
+da configuração e é um dos processos fundamentais de gerência
+
+24
+00:01:13,150 --> 00:01:13,939
+de rede.
+
+25
+00:01:13,948 --> 00:01:17,239
+Segundo a segundo, a i, t i l,
+
+26
+00:01:17,250 --> 00:01:22,439
+né? Você precisa eh pra seguir essas normas?
+
+27
+00:01:22,448 --> 00:01:24,209
+E o que que elas dizem oh lá, Cê
+
+28
+00:01:24,219 --> 00:01:27,278
+tem que ter diagrama de topologia física e lógica de
+
+29
+00:01:27,290 --> 00:01:31,159
+rede é o diagrama tem que ser layout físico e
+
+30
+00:01:31,168 --> 00:01:35,159
+lógico que aí né, Protocolos conexões né? Sistema
+
+31
+00:01:35,168 --> 00:01:38,638
+de de tráfico de dados, Inventário, dispositivos de
+
+32
+00:01:38,650 --> 00:01:40,500
+rede Tá vendo? Tem que ter um inventário,
+
+33
+00:01:40,790 --> 00:01:43,198
+registra todas as informações pertinentes a eles.
+
+34
+00:01:43,209 --> 00:01:46,760
+Então todo equipamento que a empresa tiver de rede,
+
+35
+00:01:46,769 --> 00:01:49,558
+cê tem que ter um inventário desses equipamentos anotado,
+
+36
+00:01:49,569 --> 00:01:53,120
+Versão tudo, uma tabelinha que eu vou te mostrar
+
+37
+00:01:53,129 --> 00:01:56,528
+bem detalhada, né? Sobre isso e o registro
+
+38
+00:01:56,540 --> 00:01:58,959
+da linha de base e desempenho da rede, então
+
+39
+00:01:58,969 --> 00:02:01,519
+você tem softwares, né? Gerenciamento de rede que
+
+40
+00:02:01,528 --> 00:02:05,079
+a gente também já estudou por aqui, que fazem
+
+41
+00:02:05,088 --> 00:02:08,909
+análise de uma linha do desempenho dessa rede.
+
+42
+00:02:08,919 --> 00:02:12,949
+Então você consegue fazer comparações? Pô, semana passada
+
+43
+00:02:12,960 --> 00:02:15,349
+a rede tá fluindo mais essa semana, a rede
+
+44
+00:02:15,360 --> 00:02:17,550
+tá bem lenta! Tá né? Tá, tá,
+
+45
+00:02:17,558 --> 00:02:22,649
+engasgando mais? Então você consegue analisar em cima desse
+
+46
+00:02:22,659 --> 00:02:25,308
+perfil aí tá e aí oh como é que é
+
+47
+00:02:25,319 --> 00:02:29,008
+feito um diagrama Topologia física? Tá vendo oh topologia
+
+48
+00:02:29,020 --> 00:02:31,250
+física próprio, como você diz é o layout é
+
+49
+00:02:31,258 --> 00:02:34,110
+a estrutura física, então cê tem oh sala de
+
+50
+00:02:34,118 --> 00:02:37,429
+equipamentos térreo Tá vendo? Oh sala cento e um
+
+51
+00:02:37,439 --> 00:02:39,118
+O que que tem na sala? Cento e um
+
+52
+00:02:39,129 --> 00:02:42,449
+Você tem um painel, né lá oh com o
+
+53
+00:02:42,460 --> 00:02:45,929
+hack dois! Aí você tem lá oh conectando com
+
+54
+00:02:45,939 --> 00:02:48,808
+o cabo T P categoria cinco E aí cê tem
+
+55
+00:02:48,819 --> 00:02:51,699
+um painel principal no hack um onde você tá usando
+
+56
+00:02:51,710 --> 00:02:55,020
+um cabo t p categoria seis Tá vendo e depois
+
+57
+00:02:55,028 --> 00:02:57,300
+tem um armário Telecom lá no terceiro andar no Rack
+
+58
+00:02:57,308 --> 00:03:00,460
+quatro Então tudo documenta tá vendo? Você tem um
+
+59
+00:03:00,469 --> 00:03:04,659
+mapa da empresa, um mapa onde estão os equipamentos?
+
+60
+00:03:04,669 --> 00:03:08,618
+Tá vendo? Oh inclusive mostrando lá terminal um barra
+
+61
+00:03:08,629 --> 00:03:12,778
+três nove barra três usa cabo t p categoria cinco
+
+62
+00:03:12,788 --> 00:03:15,508
+eàs vezes pra criar isso pode ser um dar
+
+63
+00:03:15,520 --> 00:03:17,580
+um pouco de trabalho como eu falei, mas já
+
+64
+00:03:17,588 --> 00:03:21,139
+pensou isso? Depois que pronto você olhar pra isso
+
+65
+00:03:21,149 --> 00:03:25,008
+aí e falar cara eh lá no armário lá do
+
+66
+00:03:25,020 --> 00:03:27,929
+terceiro andar rack quatro né? Eu acho que a
+
+67
+00:03:27,939 --> 00:03:31,419
+gente pode mudar o cabeamento na hora de atualizar o
+
+68
+00:03:31,429 --> 00:03:34,849
+cabeamento porque você tem documentado porque o feio cê ia
+
+69
+00:03:34,860 --> 00:03:37,629
+perguntar Qual tipo de cabo que cê tá usando ali?
+
+70
+00:03:37,639 --> 00:03:40,569
+Qual categoria que é o cabo cara, não sei
+
+71
+00:03:40,580 --> 00:03:43,629
+qual cabo que eles utilizam fica feio, né?
+
+72
+00:03:43,639 --> 00:03:46,429
+Não, não, Eu sei tá aqui pra documentação
+
+73
+00:03:46,439 --> 00:03:49,490
+é o cabo Categoria cinco é, então isso é
+
+74
+00:03:49,500 --> 00:03:51,588
+o diagrama topologia física.
+
+75
+00:03:51,599 --> 00:03:56,229
+Já topologia lógico ilustra como os dispositivos são conectados.
+
+76
+00:03:56,240 --> 00:03:57,490
+Logicamenteà rede.
+
+77
+00:03:57,808 --> 00:04:02,258
+Normalmente diz respeito como os dados são transferidos pela rede
+
+78
+00:04:02,270 --> 00:04:04,219
+e obviamente, são os fluxos de conexões.
+
+79
+00:04:04,229 --> 00:04:06,250
+Então o que que você tem lá? As principais
+
+80
+00:04:06,258 --> 00:04:09,099
+informações são apresentadas na topologia lógica.
+
+81
+00:04:09,110 --> 00:04:13,649
+São essas aí oh nome do dispositivo endereços i p
+
+82
+00:04:13,659 --> 00:04:16,420
+Você pode ver que na na topologia física não tinha
+
+83
+00:04:16,428 --> 00:04:21,338
+essa informação identificadores, né? Da da interface velocidade
+
+84
+00:04:21,350 --> 00:04:22,649
+dos links.
+
+85
+00:04:22,660 --> 00:04:25,439
+Isso é modo complex vãs, né Que são as
+
+86
+00:04:25,449 --> 00:04:28,939
+redes locais virtuais, os troncos e etc.
+
+87
+00:04:28,949 --> 00:04:32,709
+O gato padrão, as rotas que os dados estão
+
+88
+00:04:32,720 --> 00:04:34,028
+seguindo na rede.
+
+89
+00:04:34,040 --> 00:04:35,559
+Eu acho até mais complexo.
+
+90
+00:04:35,569 --> 00:04:38,480
+Tá a topologia lógica do que a física tá vendo.
+
+91
+00:04:38,488 --> 00:04:40,988
+Oh então tá aí um exemplo topologia L é o
+
+92
+00:04:41,000 --> 00:04:44,199
+tanto que muda da da física, então aqui você
+
+93
+00:04:44,209 --> 00:04:45,720
+tem, tá vendo oh, Como é que é
+
+94
+00:04:45,730 --> 00:04:47,699
+o esquema Oh cê tem um um servidor de HC
+
+95
+00:04:47,709 --> 00:04:51,028
+p aqui tem a nuvem que seria a internet,
+
+96
+00:04:51,040 --> 00:04:53,108
+aí cê tem o modem como é que tá sendo
+
+97
+00:04:53,119 --> 00:04:56,428
+feita a transmissão? Oh lá dos dados pra rede!
+
+98
+00:04:56,439 --> 00:05:02,139
+Tá vendo aqui eu tenho uma rede virtual local um
+
+99
+00:05:02,149 --> 00:05:04,540
+d HC p tá vendo aqui eu tenho um tronco,
+
+100
+00:05:04,548 --> 00:05:07,660
+então o técnico bate o olho, aí ele sabe
+
+101
+00:05:07,670 --> 00:05:11,259
+muito, bem como que os dados estão sendo transferidos
+
+102
+00:05:11,269 --> 00:05:16,019
+estão sendo geridos através da topologia lógica tá e depois
+
+103
+00:05:16,028 --> 00:05:18,139
+temos o inventário, né lá um bom inventário é
+
+104
+00:05:18,149 --> 00:05:21,649
+a base pra você obter informações sobre os seus dispositivos
+
+105
+00:05:21,660 --> 00:05:25,139
+da rede, então lá inclui hardware software, né
+
+106
+00:05:25,149 --> 00:05:26,980
+Cê tem a documentação de todos os programas que a
+
+107
+00:05:26,988 --> 00:05:29,850
+empresa adquiriu, né? E através dele também você
+
+108
+00:05:29,858 --> 00:05:33,769
+vai conhecer os itens, suas configurações características sendo cada
+
+109
+00:05:33,778 --> 00:05:36,608
+con dispositivo tem seu próprio conjunto de dados, então
+
+110
+00:05:36,619 --> 00:05:41,250
+olha só que interessante oh tabela de informações do dispositivo
+
+111
+00:05:41,259 --> 00:05:44,528
+switch oh lá se tem um dispositivo s w l
+
+112
+00:05:44,540 --> 00:05:47,350
+três o fabricante a cisco Oh lá, qual é
+
+113
+00:05:47,358 --> 00:05:51,269
+o modelo? Ele é um suíte l três tá
+
+114
+00:05:51,278 --> 00:05:54,730
+oh a localização tá lá no no no piso principal
+
+115
+00:05:54,738 --> 00:05:57,600
+hack um ele usa um i o S versão doze
+
+116
+00:05:57,608 --> 00:06:00,579
+ponto cinco e a licença dele tá aí, cara
+
+117
+00:06:00,588 --> 00:06:03,079
+olha só depois de pronto tanto que cê é fácil.
+
+118
+00:06:03,088 --> 00:06:06,000
+Cê vai direto no dispositivo.
+
+119
+00:06:06,009 --> 00:06:08,720
+Tá vendo oh a porta que ele usa tá vendo
+
+120
+00:06:08,730 --> 00:06:14,559
+oh, Todas as informações físicas e as informações lógicas
+
+121
+00:06:14,569 --> 00:06:16,019
+do dispositivo estão aí.
+
+122
+00:06:16,639 --> 00:06:20,500
+Então é essa essa documentação.
+
+123
+00:06:20,509 --> 00:06:23,588
+Esse inventário de novo é difícil de criar.
+
+124
+00:06:23,600 --> 00:06:26,230
+Depois de criado, você vai só gerir.
+
+125
+00:06:26,238 --> 00:06:27,470
+Você vai só gerenciar.
+
+126
+00:06:27,480 --> 00:06:29,829
+Então fica muito mais fácil, né? Depois que
+
+127
+00:06:29,838 --> 00:06:32,379
+você cria isso, apesar que tem softwares que você
+
+128
+00:06:32,389 --> 00:06:34,548
+consegue fazer essa, né.
+
+129
+00:06:34,559 --> 00:06:36,899
+Você vai desenhar isso aí na mão tá.
+
+130
+00:06:36,910 --> 00:06:38,470
+E a linha de base, que é a famosa
+
+131
+00:06:38,480 --> 00:06:40,709
+Baseline oh, é a construção, né? De
+
+132
+00:06:40,720 --> 00:06:43,670
+uma linha que permite que você acompanhar a evolução dos
+
+133
+00:06:43,678 --> 00:06:46,949
+parâmetros da rede que você pode avaliar a qualidade da
+
+134
+00:06:46,959 --> 00:06:50,689
+rede tá vendo resolver problemas, prever melhorias.
+
+135
+00:06:50,699 --> 00:06:51,048
+Como eu falei.
+
+136
+00:06:51,059 --> 00:06:53,579
+Às vezes tem um engasgo semana passada,às vezes
+
+137
+00:06:53,588 --> 00:06:57,769
+a a empresa abriu uma promoção, teve muito acesso
+
+138
+00:06:57,778 --> 00:07:00,369
+à rede daquela empresa e deu um Engasgue.
+
+139
+00:07:00,379 --> 00:07:03,088
+Então você já tem um gráfico em mãos pra poder
+
+140
+00:07:03,100 --> 00:07:06,149
+melhorar futuramente não é isso oh lá.
+
+141
+00:07:06,160 --> 00:07:08,970
+Ela funciona como um padrão de comparação, estabelecendo desempenho
+
+142
+00:07:08,980 --> 00:07:09,939
+em condições normais.
+
+143
+00:07:09,949 --> 00:07:11,949
+Deixa eu dar um exemplo onde eu vi Isso?
+
+144
+00:07:11,959 --> 00:07:14,619
+Eh, eu sou atleticano, né? Torço pro
+
+145
+00:07:14,629 --> 00:07:18,160
+Atlético Mineiro e o Atlético inaugurou um estádio maravilhoso lá
+
+146
+00:07:18,170 --> 00:07:20,939
+em Belo Horizonte Arena m, r v e eu
+
+147
+00:07:20,949 --> 00:07:25,079
+estava lá, né Eu sempre tô acompanhando os jogos
+
+148
+00:07:25,088 --> 00:07:27,759
+e lá foi anunciado que teria a melhor internet do
+
+149
+00:07:27,769 --> 00:07:28,720
+Brasil dos estádios.
+
+150
+00:07:28,730 --> 00:07:30,798
+Seria a Ah, o estádio mais moderno.
+
+151
+00:07:30,809 --> 00:07:33,439
+Cê ia ter o wi-fi em altíssima velocidade lá pra
+
+152
+00:07:33,449 --> 00:07:34,738
+você postar foto, etc.
+
+153
+00:07:34,750 --> 00:07:36,399
+E, obviamente, na inauguração.
+
+154
+00:07:36,410 --> 00:07:38,238
+Não foi essa perfeição toda.
+
+155
+00:07:38,250 --> 00:07:42,100
+Muita gente não conseguiu postar foto, né? Engasgou?
+
+156
+00:07:42,500 --> 00:07:44,899
+Depois do segundo jogo, eu vi um um técnico,
+
+157
+00:07:44,910 --> 00:07:47,509
+ele tava até com a camisa da eh da Cisco
+
+158
+00:07:47,519 --> 00:07:51,269
+com um dispositivo, conversando e fazendo análise.
+
+159
+00:07:51,278 --> 00:07:53,230
+Eu cheguei e fiquei observando que eu vi que era
+
+160
+00:07:53,238 --> 00:07:55,420
+um teto de rede e ele tava com uma linha
+
+161
+00:07:55,428 --> 00:07:56,199
+dessa de base.
+
+162
+00:07:56,209 --> 00:07:58,829
+E lá no tablet que ele tava analisando, tinha
+
+163
+00:07:58,838 --> 00:08:01,949
+um software que tava medindo os parâmetros.
+
+164
+00:08:01,959 --> 00:08:03,069
+Então, por exemplo, aí eu fui.
+
+165
+00:08:03,079 --> 00:08:05,230
+Comecei a conversar com ele, aí ele falou,
+
+166
+00:08:05,238 --> 00:08:06,410
+por exemplo, a hora que faz um gol,
+
+167
+00:08:06,420 --> 00:08:09,920
+por exemplo, a A conexão sobe muito, porque
+
+168
+00:08:09,928 --> 00:08:12,358
+a galera filmando, tirando foto e mandando pro Instagram.
+
+169
+00:08:12,369 --> 00:08:15,569
+Então eles usam essa linha pra quê? Pra melhoria
+
+170
+00:08:15,579 --> 00:08:19,119
+futura? Eles querem, né? Simplesmente eles têm
+
+171
+00:08:19,129 --> 00:08:21,519
+um link lá muito veloz de internet.
+
+172
+00:08:21,528 --> 00:08:26,040
+Só que os roteadores internos não tinham sido todos instalados
+
+173
+00:08:26,048 --> 00:08:26,238
+ainda.
+
+174
+00:08:26,250 --> 00:08:28,040
+Então, por isso que tá tendo esse gargalo,
+
+175
+00:08:28,048 --> 00:08:30,399
+né? Aí ele consegue saber oh qual o desempenho
+
+176
+00:08:30,410 --> 00:08:32,080
+geral da rede? É uma operação normal, tá
+
+177
+00:08:32,090 --> 00:08:35,190
+vendo se ocorre onde ocorrem erros.
+
+178
+00:08:35,200 --> 00:08:38,369
+Ele tava analisando isso, onde que horário os tráfico
+
+179
+00:08:38,379 --> 00:08:40,489
+de rede é mais intenso? Tá vendo a hora
+
+180
+00:08:40,500 --> 00:08:43,250
+do gol! O pessoal quer filmar, Quer enviar?
+
+181
+00:08:43,259 --> 00:08:45,450
+Então, como é que vai ser a banda distribuição
+
+182
+00:08:45,460 --> 00:08:47,649
+de banda pra isso aí, né? Quais dispositivos
+
+183
+00:08:47,658 --> 00:08:50,330
+devem ser monitorados? E qual limite de alerta devem
+
+184
+00:08:50,340 --> 00:08:53,298
+ser definidos? Então cê tem os softwares pra isso?
+
+185
+00:08:53,308 --> 00:08:55,629
+Oh identificar quais dados serão coletados.
+
+186
+00:08:55,639 --> 00:08:57,869
+Que tipo de dado você quer coletar, né?
+
+187
+00:08:57,879 --> 00:09:00,308
+Em cima aí do do do dispositivo, né?
+
+188
+00:09:00,639 --> 00:09:04,710
+Cê pode até incluir oh a utilização das interfaces memória
+
+189
+00:09:04,719 --> 00:09:07,769
+c p u que tá consumindo pra ter um parâmetro.
+
+190
+00:09:07,779 --> 00:09:11,570
+Tá identificar lá que dispositivos e portas serão selecionados.
+
+191
+00:09:11,580 --> 00:09:13,210
+Até isso software também fácil.
+
+192
+00:09:13,219 --> 00:09:15,158
+Você pode usar a topologia de gente pra identificar os
+
+193
+00:09:15,168 --> 00:09:18,129
+dispositivos e portas onde os dados devem ser coletados.
+
+194
+00:09:18,139 --> 00:09:21,168
+Oh lá, cê tem a ah documentação antropologia!
+
+195
+00:09:21,178 --> 00:09:25,509
+Então você consegue analisar até lá no estádio quais são
+
+196
+00:09:25,519 --> 00:09:27,500
+os suítes? Quais são, né? Ali os
+
+197
+00:09:27,509 --> 00:09:31,389
+roteadores que estavam envolvidos, né? Dispositivos e portas
+
+198
+00:09:31,399 --> 00:09:34,849
+de interesse pode incluir lá os links do tronco e
+
+199
+00:09:34,859 --> 00:09:38,869
+Chanel, os servidores, as interfaces externas com a
+
+200
+00:09:38,879 --> 00:09:43,428
+internet, então o software consegue fazer todo esse monitoramento.
+
+201
+00:09:43,440 --> 00:09:45,369
+Oh lá e gerar gráficos! Tá vendo aí oh,
+
+202
+00:09:45,379 --> 00:09:48,788
+cê tem um gráfico diário um intervalo de cinco minutos
+
+203
+00:09:48,798 --> 00:09:50,869
+oh oh o tráfego como é que tá de entrada
+
+204
+00:09:50,879 --> 00:09:53,570
+e saída? Tá vendo oh de quilobits ele tava
+
+205
+00:09:53,580 --> 00:09:56,229
+com um um probleminha idêntico isso aí eu tava vendo
+
+206
+00:09:56,239 --> 00:09:59,469
+lá ele monitorando Oh! Cê tem um gráfico semanal,
+
+207
+00:09:59,479 --> 00:10:02,229
+um intervalo de trinta minutos! Cê tem um gráfico
+
+208
+00:10:02,239 --> 00:10:04,869
+mensal um intervalo de duas horas? Cê tem um
+
+209
+00:10:04,879 --> 00:10:06,830
+gráfico anual, tá vendo o intervalo de vinte e
+
+210
+00:10:06,840 --> 00:10:07,349
+quatro horas.
+
+211
+00:10:07,359 --> 00:10:10,570
+A média então um gerente de rede, um técnico
+
+212
+00:10:10,580 --> 00:10:15,168
+de rede vai ter uma análise muito completa disso e
+
+213
+00:10:15,178 --> 00:10:16,899
+eles vão conseguir achar o problema.
+
+214
+00:10:16,908 --> 00:10:20,548
+Então, por exemplo, o estádio provavelmente jogos futuros,
+
+215
+00:10:20,558 --> 00:10:23,969
+eles vão solucionar essa esse gargalo, né? Que
+
+216
+00:10:23,979 --> 00:10:26,119
+você ali tem quarenta e três, quarenta e quatro
+
+217
+00:10:26,129 --> 00:10:30,129
+mil pessoas ávidas em tá usando em tá postando no
+
+218
+00:10:30,139 --> 00:10:31,668
+Instagram Marvel o tempo inteiro.
+
+219
+00:10:31,678 --> 00:10:35,899
+Ali então tem que ter gente competente pra poder fazer
+
+220
+00:10:35,908 --> 00:10:39,058
+análise e falar cara os roteadores tem que mudar de
+
+221
+00:10:39,070 --> 00:10:42,219
+lugar oh, o tráfego, tá intenso, determinado
+
+222
+00:10:42,229 --> 00:10:43,460
+horário e por aí vai.
+
+223
+00:10:43,469 --> 00:10:47,158
+E softwares fazem isso perfeito! Grande abraço até a
+
+224
+00:10:47,168 --> 00:10:47,798
+próxima alô.
+

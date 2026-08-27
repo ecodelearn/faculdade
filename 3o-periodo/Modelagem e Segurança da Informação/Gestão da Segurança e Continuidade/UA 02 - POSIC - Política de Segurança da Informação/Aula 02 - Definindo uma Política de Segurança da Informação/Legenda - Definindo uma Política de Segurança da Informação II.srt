@@ -1,0 +1,628 @@
+1
+00:00:06,230 --> 00:00:09,720
+continuamos falando sobre a nossa política, agora vamos tratar
+
+2
+00:00:09,728 --> 00:00:11,198
+de dois tópicos bem legais.
+
+3
+00:00:11,210 --> 00:00:13,419
+Tá? Primeiro, O primeiro tópico é sobre que
+
+4
+00:00:13,429 --> 00:00:16,289
+eu tô falando várias vezes o envolvimento da alta direção.
+
+5
+00:00:16,298 --> 00:00:17,760
+E o segundo tópico que a gente vai dividir em
+
+6
+00:00:17,769 --> 00:00:20,780
+duas unidades, duas aulas é o desenvolvimento da política.
+
+7
+00:00:20,789 --> 00:00:24,379
+Como que a gente vai conseguir desenvolver essa política falando
+
+8
+00:00:24,388 --> 00:00:28,478
+primeiro sobre o envolvimento da alta direção? É fundamental
+
+9
+00:00:28,489 --> 00:00:30,318
+a gente entender como eu falei.
+
+10
+00:00:30,329 --> 00:00:34,240
+A alta direção precisa estar de cabeça dentro dessa política.
+
+11
+00:00:34,250 --> 00:00:37,418
+Entender o que a política faz patrocinar a política,
+
+12
+00:00:37,429 --> 00:00:41,179
+falar sobre a política de divulgar a política tá bom.
+
+13
+00:00:41,189 --> 00:00:45,149
+O comprometimento da alta direção desempenha um papel fundamental para
+
+14
+00:00:45,158 --> 00:00:47,759
+a eficácia da política de segurança, da informação de
+
+15
+00:00:47,770 --> 00:00:48,939
+uma organização.
+
+16
+00:00:49,259 --> 00:00:52,630
+Quando os líderes de uma empresa demonstram um forte compromisso
+
+17
+00:00:52,639 --> 00:00:55,618
+com a segurança e informação, isso não apenas estabelece
+
+18
+00:00:55,630 --> 00:00:58,429
+o tom para a cultura da segurança, mas também
+
+19
+00:00:58,439 --> 00:01:02,509
+fornece o suporte necessário para garantir a implementação bem sucedida
+
+20
+00:01:02,520 --> 00:01:03,090
+da política.
+
+21
+00:01:03,098 --> 00:01:05,010
+Por quê? Quando a gente tá falando de cultura
+
+22
+00:01:05,019 --> 00:01:08,308
+queridos, a gente tá falando de toda a organização
+
+23
+00:01:08,319 --> 00:01:10,028
+de ponta a ponta, Cadê aqui, onde a
+
+24
+00:01:10,040 --> 00:01:11,709
+gente tá falando de cultura aqui? Oh, quando
+
+25
+00:01:11,719 --> 00:01:14,400
+a gente tá falando de cultura, vai permear toda
+
+26
+00:01:14,409 --> 00:01:17,879
+a empresa, toda a empresa e cultura, ela
+
+27
+00:01:17,888 --> 00:01:19,400
+é trabalhada diariamente.
+
+28
+00:01:19,409 --> 00:01:21,838
+Cultura não se muda de um dia pro outro,
+
+29
+00:01:21,849 --> 00:01:24,599
+é é uma semente que é plantada, tem que
+
+30
+00:01:24,609 --> 00:01:28,000
+ser cultivada, adubada molhada, pra que que a
+
+31
+00:01:28,010 --> 00:01:30,719
+gente no futuro, a gente consiga colher os frutos
+
+32
+00:01:30,730 --> 00:01:34,168
+estabelecido por qualquer implementação que é feita.
+
+33
+00:01:34,180 --> 00:01:34,980
+Então.
+
+34
+00:01:35,230 --> 00:01:38,079
+E aí vem outro ponto pra gente garantir a implementação,
+
+35
+00:01:38,088 --> 00:01:41,519
+porque quem vai implementar isso são as as áreas técnicas.
+
+36
+00:01:41,528 --> 00:01:43,799
+A gente precisa ter o apoio também da, da
+
+37
+00:01:43,808 --> 00:01:46,359
+auto direção, pra que as áreas técnicas, os
+
+38
+00:01:46,370 --> 00:01:50,319
+outros gestores entendam a importância dessa disciplina e dessa política
+
+39
+00:01:50,329 --> 00:01:51,260
+para a organização.
+
+40
+00:01:52,480 --> 00:01:56,569
+Comprometimento da direção é um catalisador fundamental para a adoção
+
+41
+00:01:56,579 --> 00:01:58,588
+bem sucedida da política.
+
+42
+00:01:58,599 --> 00:02:01,010
+Quando os líderes demonstram que a segurança e a formação
+
+43
+00:02:01,019 --> 00:02:05,088
+é uma prioridade e se envolvem ativamente na sua definição
+
+44
+00:02:05,099 --> 00:02:08,288
+e implementação, toda a organização é mais propensa a
+
+45
+00:02:08,300 --> 00:02:10,830
+abraçar a prática de segurança.
+
+46
+00:02:11,389 --> 00:02:15,419
+A administração desempenha um papel crucial na promoção de uma
+
+47
+00:02:15,429 --> 00:02:19,479
+cultura de segurança sólida e na garantia que a política
+
+48
+00:02:19,490 --> 00:02:22,479
+seja implementada de maneira eficaz e abrangente.
+
+49
+00:02:22,490 --> 00:02:24,439
+Já ficou bem claro, ficou bem claro pra vocês
+
+50
+00:02:24,449 --> 00:02:28,599
+com certeza que a importância da alta direção.
+
+51
+00:02:28,610 --> 00:02:31,439
+Se a alta direção não se comprometer, não iremos
+
+52
+00:02:31,449 --> 00:02:32,558
+mudar a cultura.
+
+53
+00:02:32,569 --> 00:02:36,919
+Nem teremos uma implementação bem sucedida, Então, senhores,
+
+54
+00:02:36,929 --> 00:02:42,558
+precisamos que a auto direção esteja praticamente envolvida em todos
+
+55
+00:02:42,569 --> 00:02:45,469
+os detalhes da da, da, do desenvolvimento,
+
+56
+00:02:45,479 --> 00:02:48,729
+da cultura, da política de segurança, informação e
+
+57
+00:02:48,740 --> 00:02:49,449
+comunicação.
+
+58
+00:02:49,460 --> 00:02:51,649
+E agora vamos falar só um pouquinho sobre o desenvolvimento
+
+59
+00:02:51,659 --> 00:02:54,879
+como a gente desenvolve essa política? É algo mais
+
+60
+00:02:54,889 --> 00:02:57,740
+extenso, tá que como que ela é feita,
+
+61
+00:02:57,750 --> 00:03:00,278
+como que ela é detalhada, quais são os aspectos,
+
+62
+00:03:00,288 --> 00:03:02,679
+o que que é o que que é mais importante
+
+63
+00:03:02,689 --> 00:03:05,558
+nessa política? Então vamos começar falando sobre a criação,
+
+64
+00:03:05,569 --> 00:03:08,879
+né? Criação de uma política de segurança da informação
+
+65
+00:03:08,889 --> 00:03:11,419
+e comunicação faltou o do C.
+
+66
+00:03:11,429 --> 00:03:12,819
+I tá.
+
+67
+00:03:12,830 --> 00:03:16,139
+A criação dessa política eficaz é um passo fundamental para
+
+68
+00:03:16,149 --> 00:03:19,490
+proteger os ativos de informação e garantir a integridade.
+
+69
+00:03:19,500 --> 00:03:21,939
+Oh a palavrinha de novo! Aí! Integridade,
+
+70
+00:03:21,949 --> 00:03:27,099
+confidencialidade e disponibilidade dos dados da organização sempre sempre vamos
+
+71
+00:03:27,110 --> 00:03:29,719
+ter esses esses três pilares fundamentais.
+
+72
+00:03:29,729 --> 00:03:34,379
+No entretanto, esse processo vai além de simplesmente criar
+
+73
+00:03:34,389 --> 00:03:37,538
+uma declaração de princípios ela envolve uma série de etapas
+
+74
+00:03:37,550 --> 00:03:38,618
+bem estruturadas.
+
+75
+00:03:38,629 --> 00:03:42,679
+Quais são as etapas primeiro Análise dos riscos, análise
+
+76
+00:03:42,689 --> 00:03:46,000
+de risco Essa etapa é um ponto é um ponto
+
+77
+00:03:46,008 --> 00:03:47,210
+de partida, tá.
+
+78
+00:03:47,219 --> 00:03:49,800
+É uma espécie de diagnóstico da segurança e formação que
+
+79
+00:03:49,808 --> 00:03:54,618
+permite as organizações compreenderem enfrentarem os desafios relacionadosà segurança
+
+80
+00:03:54,629 --> 00:03:55,278
+e formação.
+
+81
+00:03:55,288 --> 00:03:58,439
+Tá, então, ela toda política.
+
+82
+00:03:58,449 --> 00:04:01,879
+Ela é baseada em uma análise de risco, risco
+
+83
+00:04:01,889 --> 00:04:02,278
+prévio.
+
+84
+00:04:02,288 --> 00:04:03,819
+Precisamos de uma análise de risco.
+
+85
+00:04:05,058 --> 00:04:07,569
+Durante a análise de risco, a organização identifica as
+
+86
+00:04:07,580 --> 00:04:11,550
+ameaças em potencial, como ataques de hackers, vazamento
+
+87
+00:04:11,558 --> 00:04:15,469
+de informações confidenciais ou até mesmo desastres naturais que podem
+
+88
+00:04:15,479 --> 00:04:16,759
+afetar a infraestrutura.
+
+89
+00:04:16,769 --> 00:04:20,629
+Na T I, esses riscos em potencial são avaliados
+
+90
+00:04:20,639 --> 00:04:23,230
+de acordo com a probabilidade e impacto.
+
+91
+00:04:23,238 --> 00:04:25,088
+Também já estudamos sobre isso aqui.
+
+92
+00:04:25,100 --> 00:04:30,250
+Além disso, além disso, também se identifica vulnerabilidades
+
+93
+00:04:30,259 --> 00:04:34,009
+ou fraqueza nos sistemas que podem ser explorados pelos ataques.
+
+94
+00:04:34,019 --> 00:04:37,428
+Então, essa análise de risco é fundamental? Tá?
+
+95
+00:04:37,439 --> 00:04:38,569
+Eh lembrando.
+
+96
+00:04:38,579 --> 00:04:41,088
+Olha, só não são só coisa, Eh aspectos
+
+97
+00:04:41,100 --> 00:04:46,329
+técnicos, temos aqui oh desastres naturais Tá depois disso,
+
+98
+00:04:46,338 --> 00:04:47,829
+né? Depois de analisar os riscos, a gente
+
+99
+00:04:47,838 --> 00:04:49,439
+vai definir quais são os objetivos.
+
+100
+00:04:49,449 --> 00:04:52,410
+Tá A definição de objetivos dentro da política é o
+
+101
+00:04:52,420 --> 00:04:55,449
+segundo passo crucial do desenvolvimento de desse documento.
+
+102
+00:04:55,858 --> 00:04:59,528
+Os objetivos estabelecem a direção e o foco da política
+
+103
+00:04:59,540 --> 00:05:04,540
+fornece fornecendo metas claras imensuráveis para a organização em relação
+
+104
+00:05:04,548 --> 00:05:05,649
+à segurança da informação.
+
+105
+00:05:05,660 --> 00:05:07,569
+Metas claras não pode.
+
+106
+00:05:07,579 --> 00:05:10,259
+Não podemos ter dúvida em relaçãoà meta e,
+
+107
+00:05:10,269 --> 00:05:13,108
+principalmente, precisa ser mensurável.
+
+108
+00:05:13,119 --> 00:05:15,750
+Porque senão como você vai garantir que está indo pro
+
+109
+00:05:15,759 --> 00:05:19,230
+lado certo pra direção correta? Se você não tem
+
+110
+00:05:19,238 --> 00:05:22,928
+como mensurar como medir essas a o que está sendo
+
+111
+00:05:22,939 --> 00:05:24,699
+feito, tá objetivo.
+
+112
+00:05:24,709 --> 00:05:29,059
+São declarações concretas que a política visa alcançar e fornecer
+
+113
+00:05:29,069 --> 00:05:32,500
+uma visão clara do destino que a organização busca atingir.
+
+114
+00:05:32,509 --> 00:05:37,449
+Em termos de segurança, os objetivos da política são
+
+115
+00:05:37,459 --> 00:05:40,970
+como as estrelas que guiam na jornada da segurança da
+
+116
+00:05:40,980 --> 00:05:44,720
+informação dentro da organização fornece direção e foco e um
+
+117
+00:05:44,730 --> 00:05:46,350
+senso de propósito.
+
+118
+00:05:46,358 --> 00:05:50,369
+Através de objetivos bem definidos, a organização pode estabelecer
+
+119
+00:05:50,379 --> 00:05:53,629
+um caminho claro para alcançar seus objetivos de segurança de
+
+120
+00:05:53,639 --> 00:05:57,170
+informação, protegendo seus ativos de forma eficaz em tudo
+
+121
+00:05:57,178 --> 00:05:57,569
+na sua vida.
+
+122
+00:05:57,579 --> 00:06:01,048
+Nós precisamos ter objetivo, não, ou seja,
+
+123
+00:06:01,059 --> 00:06:03,910
+dentro de uma política de segurança, informação e comunicação.
+
+124
+00:06:03,920 --> 00:06:06,850
+Também se você não tem objetivos e esses objetivos,
+
+125
+00:06:06,858 --> 00:06:09,730
+eles vão mudando, conforme a maturidade de cada empresa.
+
+126
+00:06:09,738 --> 00:06:11,970
+Você não sabe pra onde você tá indo, então,
+
+127
+00:06:11,980 --> 00:06:17,209
+definir objetivos e, consequentemente, metas claras, tá
+
+128
+00:06:17,220 --> 00:06:22,209
+imensuráveis é fundamental para o sucesso de qualquer política de
+
+129
+00:06:22,220 --> 00:06:23,290
+segurança e informação.
+
+130
+00:06:23,298 --> 00:06:25,149
+Tá que você queira estabelecer.
+
+131
+00:06:26,059 --> 00:06:27,389
+Então, eu quero deixar bem claro isso, Então
+
+132
+00:06:27,399 --> 00:06:29,389
+a gente falou que nós falamos aqui hoje agora,
+
+133
+00:06:29,399 --> 00:06:30,149
+dessa aula.
+
+134
+00:06:30,160 --> 00:06:33,389
+Dois aspectos, a análise, pra começar a desenvolver,
+
+135
+00:06:33,399 --> 00:06:36,069
+né? A A, a política primeiro análise dos
+
+136
+00:06:36,079 --> 00:06:39,470
+riscos e o segundo definição dos objetivos A gente precisa
+
+137
+00:06:39,480 --> 00:06:43,254
+entender qual o cenário da nossa, da nossa organização,
+
+138
+00:06:43,264 --> 00:06:44,954
+fazer um da nossa organização.
+
+139
+00:06:44,963 --> 00:06:47,795
+Como estamos na nossa organização, você vai ter ali
+
+140
+00:06:47,803 --> 00:06:51,514
+um mapa mental de todas as vulnerabilidade, toda a
+
+141
+00:06:51,524 --> 00:06:52,814
+sua organização em sua mão.
+
+142
+00:06:52,824 --> 00:06:56,875
+A partir daquilo, você vai definir probabilidade impacto E
+
+143
+00:06:56,884 --> 00:07:02,889
+aí você vai definir objetivos com metas mensuráveis, tá
+
+144
+00:07:02,899 --> 00:07:06,389
+e claras, claras, misr e claras.
+
+145
+00:07:06,399 --> 00:07:09,488
+Isso é o começo de qualquer política, de segurança,
+
+146
+00:07:09,500 --> 00:07:12,209
+de informação e com e com e comunicação, tá
+
+147
+00:07:12,220 --> 00:07:16,230
+bom pra e e assim você vai conseguindo trabalhar.
+
+148
+00:07:16,238 --> 00:07:18,519
+Lembrando que no começo nós falamos do do, da
+
+149
+00:07:18,528 --> 00:07:22,230
+importância da alta direção está comprometida? Tá na próxima
+
+150
+00:07:22,238 --> 00:07:24,369
+aula, nós vamos, vamos continuar vendo sobre o
+
+151
+00:07:24,379 --> 00:07:27,869
+desenvolvimento dessa política, tem outros aspectos importantes também.
+
+152
+00:07:27,879 --> 00:07:30,329
+Além da análise, que é o, é a,
+
+153
+00:07:30,338 --> 00:07:33,389
+é a porta principal e o objetivo.
+
+154
+00:07:33,399 --> 00:07:35,028
+Então, a gente, nós acabamos de fazer o
+
+155
+00:07:35,040 --> 00:07:37,389
+que fizemos, uma análise, definimos o objetivo e
+
+156
+00:07:37,399 --> 00:07:39,869
+agora nós vamos nos próximos passos, Tá bom,
+
+157
+00:07:39,879 --> 00:07:41,048
+Te vejo na próxima aula,
+

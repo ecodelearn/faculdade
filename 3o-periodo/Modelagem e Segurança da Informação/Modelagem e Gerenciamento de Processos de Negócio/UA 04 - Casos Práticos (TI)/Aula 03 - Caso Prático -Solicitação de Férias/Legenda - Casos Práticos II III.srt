@@ -1,0 +1,1028 @@
+1
+00:00:06,500 --> 00:00:11,390
+Olá, seja bem vindoà nossa parte três do
+
+2
+00:00:11,398 --> 00:00:13,409
+estudo de caso dois.
+
+3
+00:00:13,419 --> 00:00:15,509
+Ah, que legal! Ah, vamos! Vamos
+
+4
+00:00:15,519 --> 00:00:18,350
+por finalmente isso aqui, cara! E e assim
+
+5
+00:00:18,359 --> 00:00:19,789
+vamos imaginar.
+
+6
+00:00:19,798 --> 00:00:21,228
+Oh, eu até usei um termo assim cara,
+
+7
+00:00:21,239 --> 00:00:23,429
+né? Mas vamos lá, vamos imaginar que a
+
+8
+00:00:23,440 --> 00:00:24,870
+gente tá olhando lá.
+
+9
+00:00:24,879 --> 00:00:28,629
+Ah na perspectiva do do do do do entendimento,
+
+10
+00:00:28,638 --> 00:00:31,394
+desse processo todo, né? Eh a gente olho
+
+11
+00:00:31,405 --> 00:00:33,395
+pra uma perspectiva, que é um, um objeto
+
+12
+00:00:33,404 --> 00:00:35,094
+legal que eu tenho que atender.
+
+13
+00:00:35,103 --> 00:00:38,914
+Não é um um machismo, não é uma um
+
+14
+00:00:38,923 --> 00:00:39,454
+um ato assim.
+
+15
+00:00:39,465 --> 00:00:41,875
+Ah, eu vou ver se eu vou trabalhar com
+
+16
+00:00:41,884 --> 00:00:43,033
+isso, não é uma cumpra.
+
+17
+00:00:43,043 --> 00:00:44,793
+Se é uma lei, eu tenho que eu tenho
+
+18
+00:00:44,804 --> 00:00:47,634
+que a atender, aquele aquele pressuposto, tá,
+
+19
+00:00:47,645 --> 00:00:51,779
+Agora, vimos também as perspectivas.
+
+20
+00:00:51,789 --> 00:00:54,240
+Eh que que a gente relacionou em relação.
+
+21
+00:00:54,250 --> 00:00:57,060
+Eh relacionou em relação, né? Eh que a
+
+22
+00:00:57,069 --> 00:00:59,298
+gente viu em relação ao seu? Aos desafios,
+
+23
+00:00:59,310 --> 00:01:02,298
+né? Aquilo que se pressupõe como resultado.
+
+24
+00:01:02,310 --> 00:01:04,459
+Que eu espero, dessa dessa ação, né?
+
+25
+00:01:04,469 --> 00:01:07,739
+Vimos até um objeto, um artigo da lei.
+
+26
+00:01:07,750 --> 00:01:11,120
+Pra pra gente poder Eh, eh, vamos dizer
+
+27
+00:01:11,129 --> 00:01:14,689
+fortalecer esse entendimento acerca do que a gente eh se
+
+28
+00:01:14,698 --> 00:01:16,790
+se propõe aqui nessa parte.
+
+29
+00:01:16,799 --> 00:01:21,588
+Três Nós vamos eh trabalhar nesse contexto usando a metodologia
+
+30
+00:01:21,599 --> 00:01:22,168
+B PM.
+
+31
+00:01:22,180 --> 00:01:24,969
+Tentando né? Traduzir um pouco aquilo que a gente
+
+32
+00:01:24,980 --> 00:01:27,969
+viu lá dentro do dentro do do que tá escrito,
+
+33
+00:01:27,980 --> 00:01:30,849
+transformando aquilo num processo, tá observem, observem uma
+
+34
+00:01:30,859 --> 00:01:34,668
+diferença Tá, Eu nós falamos no, no caso
+
+35
+00:01:34,680 --> 00:01:38,409
+prático um Eu nós descrevemos um processo, descrevemos,
+
+36
+00:01:38,418 --> 00:01:40,750
+escrevemos um processo, tá.
+
+37
+00:01:40,760 --> 00:01:43,168
+Então ali é um processo dentro da minha organização,
+
+38
+00:01:43,180 --> 00:01:44,870
+como ocorre aqui.
+
+39
+00:01:44,879 --> 00:01:46,989
+A lei não se pressupõe do jeito que ela foi
+
+40
+00:01:47,000 --> 00:01:50,079
+escrita, eh em em um processo determinado, ela
+
+41
+00:01:50,088 --> 00:01:53,034
+simplesmente dá um um conjunto de requisitos que devem ser
+
+42
+00:01:53,043 --> 00:01:53,875
+atendidos.
+
+43
+00:01:53,885 --> 00:01:56,915
+Eu vou transformar esses requisitos em um processo.
+
+44
+00:01:56,924 --> 00:02:00,713
+Então veja transformar requisito em um processo tá legal o
+
+45
+00:02:00,724 --> 00:02:03,234
+outro a gente já descreveu o processo em si como
+
+46
+00:02:03,245 --> 00:02:04,194
+o melhor ocorre aqui.
+
+47
+00:02:04,204 --> 00:02:04,584
+Não.
+
+48
+00:02:04,594 --> 00:02:06,394
+Eu tenho um conjunto de requisitos que eu tenho que
+
+49
+00:02:06,403 --> 00:02:09,235
+atender requisitos legais que eu tenho que atender E eu
+
+50
+00:02:09,243 --> 00:02:11,504
+vou transformar ele dentro de um processo de um processo.
+
+51
+00:02:11,514 --> 00:02:11,963
+Tá legal.
+
+52
+00:02:11,974 --> 00:02:16,379
+Então olha só eu vou descrever um processo baseado na
+
+53
+00:02:16,389 --> 00:02:19,719
+nossa B PM, né? Oh B PM eu
+
+54
+00:02:19,729 --> 00:02:22,058
+não vou usar notação nesse aqui não tá, Não
+
+55
+00:02:22,069 --> 00:02:23,379
+tem notação não, não tem.
+
+56
+00:02:23,389 --> 00:02:25,949
+Não vamos gerar gráfico nesse aqui não! nós vamos
+
+57
+00:02:25,960 --> 00:02:29,659
+gerar simplesmente a ah! O pro o a gerenciamento
+
+58
+00:02:29,669 --> 00:02:33,409
+de processo e que eh Vai tratar essas manifestações dos
+
+59
+00:02:33,419 --> 00:02:36,210
+titulares que vão chegar por meio de uma caixa postal.
+
+60
+00:02:36,219 --> 00:02:38,750
+Então eu defini aqui uma meio de uma caixa postal
+
+61
+00:02:38,758 --> 00:02:40,969
+da empresa, né? E aí a gente,
+
+62
+00:02:40,979 --> 00:02:43,610
+mais uma vez, vai propor aquele quadro né?
+
+63
+00:02:43,618 --> 00:02:47,969
+Pra identificar as fases do nosso processo, as atividades,
+
+64
+00:02:47,979 --> 00:02:50,389
+né? Bem como quem é o responsável e o
+
+65
+00:02:50,399 --> 00:02:53,528
+indicador e o indicador de desempenho já pensando na perspectiva
+
+66
+00:02:53,538 --> 00:02:55,550
+de monitoramento Tá, vamos lá! Olha oh,
+
+67
+00:02:55,740 --> 00:02:59,389
+beleza oh outra coisa Outra coisa outra coisa eh se
+
+68
+00:02:59,399 --> 00:03:03,069
+atentem porque as fases aqui você pode falar o papai.
+
+69
+00:03:03,080 --> 00:03:04,629
+Eu quero acrescentar mais uma fase.
+
+70
+00:03:04,639 --> 00:03:06,110
+Eu quero ajustar mais um processo.
+
+71
+00:03:06,118 --> 00:03:10,189
+Eu quero subdividir isso gente vai depender da sua organização,
+
+72
+00:03:10,199 --> 00:03:12,409
+de como você trabalha, de como você tá?
+
+73
+00:03:12,419 --> 00:03:15,909
+Se enxergando! Eh a execução de de de dentro
+
+74
+00:03:15,919 --> 00:03:19,669
+desse desse processo dentro do seu de atividade organizacional.
+
+75
+00:03:19,679 --> 00:03:23,069
+Okay? Então vamos lá dentro da nossa tabelinha,
+
+76
+00:03:23,080 --> 00:03:25,028
+né? Que a gente já eh propôs.
+
+77
+00:03:25,038 --> 00:03:28,129
+Então vamos lá, fase atividade responsável, e aqui
+
+78
+00:03:28,139 --> 00:03:29,729
+eh Eu tenho o indicador.
+
+79
+00:03:29,740 --> 00:03:32,929
+Veja aqui nesse quadro eu não coloquei exceção, eu
+
+80
+00:03:32,939 --> 00:03:37,669
+coloquei indicador de desempenho né? Pressupondo um, um,
+
+81
+00:03:37,679 --> 00:03:41,960
+um um monitoramento agora eh olha só, não é,
+
+82
+00:03:41,969 --> 00:03:44,159
+porque não, Eu não coloquei exceção que não haja
+
+83
+00:03:44,169 --> 00:03:45,520
+exceção, pode haver.
+
+84
+00:03:45,528 --> 00:03:49,219
+Por exemplo, eu posso fazer uma manifestação certo.
+
+85
+00:03:49,229 --> 00:03:52,229
+Eu posso fazer uma manifestação para quem tá com meu
+
+86
+00:03:52,240 --> 00:03:55,199
+dado lá, né? Quem coletou meu dado e
+
+87
+00:03:55,210 --> 00:03:57,080
+de repente eu falo assim poxa, não, não
+
+88
+00:03:57,088 --> 00:04:00,038
+quero mexer mais não vamos supor, eu queria que
+
+89
+00:04:00,050 --> 00:04:01,118
+você alterasse.
+
+90
+00:04:01,129 --> 00:04:02,038
+Aí o eh.
+
+91
+00:04:02,050 --> 00:04:04,800
+Eu queria ter a possibilidade de alterar o meu,
+
+92
+00:04:04,808 --> 00:04:09,210
+eh número de telefone, Okay, aí a você
+
+93
+00:04:09,219 --> 00:04:11,419
+manifestou Isso foi acatado.
+
+94
+00:04:11,429 --> 00:04:13,460
+Você recebeu autorização? Mas você falou assim não,
+
+95
+00:04:13,469 --> 00:04:14,939
+não quero me me mexer mais, Não, não
+
+96
+00:04:14,949 --> 00:04:16,889
+quero alterar mais não, ou seja, você desistiu
+
+97
+00:04:16,899 --> 00:04:18,619
+daquela tra de daquele tratamento.
+
+98
+00:04:18,629 --> 00:04:20,059
+Você não vai mexer mais, não vai fazer mais
+
+99
+00:04:20,069 --> 00:04:22,939
+o tratamento Você solicitou, mas recuou, não quer
+
+100
+00:04:22,949 --> 00:04:23,259
+mais.
+
+101
+00:04:23,269 --> 00:04:25,600
+É uma exceção, Então você pode tratar.
+
+102
+00:04:25,608 --> 00:04:27,379
+Em que pese eu não tenha colocado a coluna de
+
+103
+00:04:27,389 --> 00:04:30,178
+exceção aqui tá bom bom, vamos ver algumas fases
+
+104
+00:04:30,189 --> 00:04:30,639
+aqui.
+
+105
+00:04:31,548 --> 00:04:33,399
+Eh pra gente tentar representar um pouco.
+
+106
+00:04:33,410 --> 00:04:35,040
+Óbvio que aqui eu não, não, não,
+
+107
+00:04:35,048 --> 00:04:35,798
+não, Não olhei.
+
+108
+00:04:35,809 --> 00:04:38,199
+A não não está disposta a lei toda, nem
+
+109
+00:04:38,209 --> 00:04:41,600
+todas as fases da Lei de forma alguma.
+
+110
+00:04:41,608 --> 00:04:44,079
+A gente tentou extrair um pouco daquilo que era o
+
+111
+00:04:44,088 --> 00:04:47,649
+requisito que foi exposto na lei Eh E E organizando
+
+112
+00:04:47,660 --> 00:04:49,720
+em fase um conjunto de atividades tá legal.
+
+113
+00:04:49,730 --> 00:04:52,559
+Então a primeira aqui é identificar a solicitação.
+
+114
+00:04:52,569 --> 00:04:56,802
+A fase começa com a identificação, Identificar solicitação lembra
+
+115
+00:04:56,812 --> 00:04:59,781
+Sempre a questão da da atividade da ação em si
+
+116
+00:04:59,791 --> 00:05:00,382
+é um.
+
+117
+00:05:00,392 --> 00:05:03,002
+É geralmente relacionado a um verbo né? Identificar a
+
+118
+00:05:03,012 --> 00:05:03,483
+solicitação.
+
+119
+00:05:03,492 --> 00:05:05,552
+Então, o que que nessa fase identificar a solicitação,
+
+120
+00:05:05,562 --> 00:05:08,341
+eu faço, Eu vou monitorar os canais de comunicação.
+
+121
+00:05:08,351 --> 00:05:12,302
+Por exemplo a caixa postal o, o o o,
+
+122
+00:05:12,312 --> 00:05:14,983
+o telefone central de atendimento, o que quer que
+
+123
+00:05:14,992 --> 00:05:15,512
+seja.
+
+124
+00:05:15,523 --> 00:05:20,966
+Identificar e classificar as solicitações pode ser Eh eu estourar
+
+125
+00:05:20,975 --> 00:05:21,495
+canais alta.
+
+126
+00:05:21,505 --> 00:05:23,346
+Chegou alguma solicitação? Nova? Ah, chegou,
+
+127
+00:05:23,355 --> 00:05:25,505
+beleza, Como é que eu identifico ela? Ah,
+
+128
+00:05:25,514 --> 00:05:28,505
+isso aqui é uma solicitação que veio do titular de
+
+129
+00:05:28,514 --> 00:05:28,884
+dados.
+
+130
+00:05:28,894 --> 00:05:30,966
+Ah, isso aqui veio do veio de um órgão
+
+131
+00:05:30,975 --> 00:05:31,764
+do governo.
+
+132
+00:05:31,776 --> 00:05:34,644
+Ah, isso aqui veio da da polícia okay Ah,
+
+133
+00:05:34,656 --> 00:05:37,005
+eu vou classificar opa, pera aí da polícia.
+
+134
+00:05:37,014 --> 00:05:39,324
+Aqui é a apuração de crime, então eu vou.
+
+135
+00:05:39,334 --> 00:05:39,906
+Vou dar uma.
+
+136
+00:05:39,915 --> 00:05:41,204
+Eu vou dar uma importância aqui.
+
+137
+00:05:41,216 --> 00:05:43,165
+Ah, aqui o cara tá pedindo aqui, por
+
+138
+00:05:43,175 --> 00:05:46,869
+exemplo, uma ano de dados ele tá pedindo uma
+
+139
+00:05:46,879 --> 00:05:50,269
+uma uma, uma eliminação de dados okay beleza Então
+
+140
+00:05:50,278 --> 00:05:52,910
+eu vou C eu classifico isso é é uma informação,
+
+141
+00:05:52,920 --> 00:05:55,910
+por exemplo, vem da polícia é confidencial, é
+
+142
+00:05:55,920 --> 00:05:58,470
+restrita, eu não posso mexer, né? Então
+
+143
+00:05:58,480 --> 00:06:00,290
+eu trabalho essas duas atividades.
+
+144
+00:06:00,298 --> 00:06:04,790
+Lembrando que essas essas atividades são subprocessos da fase de
+
+145
+00:06:04,798 --> 00:06:08,678
+identificar a solicitação e é claro que elas podem ensejar
+
+146
+00:06:08,689 --> 00:06:10,000
+em mais outros subprocessos.
+
+147
+00:06:10,009 --> 00:06:13,600
+Aí o responsável é o sistema que vai captar essas
+
+148
+00:06:13,608 --> 00:06:17,059
+informações e a equipe de suporte que recebe essas informações.
+
+149
+00:06:17,069 --> 00:06:18,798
+E aí eu poderia, por exemplo, pra saber
+
+150
+00:06:18,809 --> 00:06:19,759
+se eu estou.
+
+151
+00:06:19,769 --> 00:06:22,199
+Se essa atividade tá sendo executada com tempo, etcetera,
+
+152
+00:06:22,209 --> 00:06:25,605
+eu vou posso atribuir eh indicadores pra avaliar.
+
+153
+00:06:25,613 --> 00:06:28,095
+Eh essa essa atividade, né? O esse monitoramento
+
+154
+00:06:28,105 --> 00:06:30,384
+da atividade, então eu coloquei aqui oh número de
+
+155
+00:06:30,394 --> 00:06:33,744
+solicitações identificadas e tempo de classificação inicial, né?
+
+156
+00:06:33,754 --> 00:06:36,744
+Então chegou uma solicitação, eu tenho Eu já vou
+
+157
+00:06:36,754 --> 00:06:40,105
+opa, já vou classificar! Esse aqui é Eh,
+
+158
+00:06:40,113 --> 00:06:42,238
+eh, eh, é secreta.
+
+159
+00:06:42,250 --> 00:06:45,220
+Eh ou ela é urgente enfim, aí você cria
+
+160
+00:06:45,230 --> 00:06:47,579
+lá seu as suas classificações, enfim, do jeito
+
+161
+00:06:47,588 --> 00:06:48,798
+que você quiser, tá legal.
+
+162
+00:06:48,809 --> 00:06:51,259
+E aí o número de solicitações até pra gente saber,
+
+163
+00:06:51,269 --> 00:06:52,778
+por exemplo, aí você fala assim, pô.
+
+164
+00:06:52,790 --> 00:06:54,139
+Mas por que que eu vou monitorar o número de
+
+165
+00:06:54,149 --> 00:06:57,199
+solici solicitações, identificadas, pessoal, isso aqui serve
+
+166
+00:06:57,209 --> 00:06:59,439
+até pra determinar o a o tamanho da minha equipe.
+
+167
+00:06:59,449 --> 00:07:02,108
+Opa, tá chegando muita coisa Pô, preciso de
+
+168
+00:07:02,119 --> 00:07:05,129
+mais gente! Tá atrasando, olha eu não consigo
+
+169
+00:07:05,139 --> 00:07:05,889
+classificar.
+
+170
+00:07:05,899 --> 00:07:08,108
+O cara não consegue responder em tempo tá? Tá
+
+171
+00:07:08,119 --> 00:07:10,670
+atrasando o meu processo preciso de mais gente? Tá.
+
+172
+00:07:10,678 --> 00:07:14,600
+Então O indicador monitora, permite a gestão, permite
+
+173
+00:07:14,608 --> 00:07:18,309
+o controle, né? Permite que eu possa tomar
+
+174
+00:07:18,319 --> 00:07:20,588
+ações pra melhorar o processo.
+
+175
+00:07:20,600 --> 00:07:22,790
+Tá legal sempre eficiência e sempre eficácia.
+
+176
+00:07:22,798 --> 00:07:25,028
+Tá bom? Bom, A partir daí eu vou
+
+177
+00:07:25,040 --> 00:07:26,670
+encaminhar ao P o.
+
+178
+00:07:26,678 --> 00:07:29,309
+Então a segunda fase é encaminhar ao P O essa
+
+179
+00:07:29,319 --> 00:07:32,988
+solicitação identificou, Caminhei, aí eu vou enviar pra
+
+180
+00:07:33,000 --> 00:07:36,449
+esse cara a solicitação pra ele fazer uma análise.
+
+181
+00:07:36,459 --> 00:07:38,389
+Quem é o responsável por esse envio É a equipe
+
+182
+00:07:38,399 --> 00:07:41,069
+de suporte, né? Quem é o responsável por
+
+183
+00:07:41,079 --> 00:07:43,069
+Eh? Eh Pelo envio tá, o encaminhamento é
+
+184
+00:07:43,079 --> 00:07:45,389
+a equipe de suporte e ela tem um tempo de
+
+185
+00:07:45,399 --> 00:07:48,160
+encaminhamento ao P! O ah! Eu vou monitorar
+
+186
+00:07:48,170 --> 00:07:48,959
+essa equipe de suporte.
+
+187
+00:07:48,970 --> 00:07:50,838
+Opa! Pera! Aí o pessoal tá demorando,
+
+188
+00:07:50,850 --> 00:07:52,759
+tá atrasando e tal beleza.
+
+189
+00:07:52,769 --> 00:07:54,660
+Então? Então identifiquei.
+
+190
+00:07:55,759 --> 00:07:58,170
+Encaminhei aí o de pior avalia.
+
+191
+00:07:58,178 --> 00:08:00,970
+opa pera, aí isso aqui eh, Eu vou
+
+192
+00:08:00,980 --> 00:08:02,949
+avaliar algumas perspectivas aqui.
+
+193
+00:08:02,959 --> 00:08:06,608
+Legitimidade né? E complexidade? Poxa, pera,
+
+194
+00:08:06,619 --> 00:08:09,889
+aí o cara tá pedindo aqui eh realmente! Compete,
+
+195
+00:08:09,899 --> 00:08:12,369
+né? O o que ele tá pedindo realmente tem
+
+196
+00:08:12,379 --> 00:08:15,329
+tudo a ver com a manifestação que ele quer com
+
+197
+00:08:15,338 --> 00:08:18,369
+com o l GP d com a privacidade Okay Beleza
+
+198
+00:08:18,379 --> 00:08:20,019
+pode ser que não, Não, não tenha o
+
+199
+00:08:20,028 --> 00:08:23,519
+cara fala assim Poxa, eu queria saber aonde o
+
+200
+00:08:23,528 --> 00:08:27,660
+meu produto eh meu produto apresentou defeito! Cara,
+
+201
+00:08:27,670 --> 00:08:29,259
+Isso não é dado de titular.
+
+202
+00:08:29,269 --> 00:08:31,379
+Se se o seu produto a apresentou o defeito cê
+
+203
+00:08:31,389 --> 00:08:32,719
+não vai na privacidade de dados.
+
+204
+00:08:32,729 --> 00:08:35,918
+Você vai lá na, na, na, na,
+
+205
+00:08:35,928 --> 00:08:38,279
+na parte de garantia do produto.
+
+206
+00:08:38,288 --> 00:08:40,928
+É suporte do produto, não é suporte do titular,
+
+207
+00:08:40,940 --> 00:08:43,019
+é tratamento, é privacidade de dados.
+
+208
+00:08:43,029 --> 00:08:45,000
+Tá, então? Ah, não, isso aqui
+
+209
+00:08:45,009 --> 00:08:47,479
+é o cara, tá querendo aqui é uma uma
+
+210
+00:08:48,269 --> 00:08:51,038
+eh olhar, fazer garantia, arrumar o produto dele
+
+211
+00:08:51,048 --> 00:08:51,940
+que tá com defeito.
+
+212
+00:08:51,950 --> 00:08:53,879
+Trocar o produto não é comigo, não é de
+
+213
+00:08:53,889 --> 00:08:54,678
+P, o É outra coisa.
+
+214
+00:08:54,690 --> 00:08:57,379
+Tá, e aí? Ele avaliou isso aí eh,
+
+215
+00:08:57,389 --> 00:08:58,940
+Verifica a complexidade.
+
+216
+00:08:58,950 --> 00:09:01,460
+Se é fácil, se é difícil e depois prioriza
+
+217
+00:09:01,469 --> 00:09:01,739
+isso aí.
+
+218
+00:09:01,750 --> 00:09:03,450
+Quem vai que fa Quem que vai fazer essa atividade
+
+219
+00:09:03,460 --> 00:09:04,519
+aqui? Oh, é o próprio p O,
+
+220
+00:09:04,529 --> 00:09:05,658
+né? Quem faz esse cara aqui é o de
+
+221
+00:09:05,668 --> 00:09:07,239
+p o aqui, oh, esse cara é importante,
+
+222
+00:09:07,250 --> 00:09:09,460
+né? Aí cê tem um tempo de avaliação dele
+
+223
+00:09:09,469 --> 00:09:12,690
+o percentual de solicitação posteriormente você tem a fase de
+
+224
+00:09:12,700 --> 00:09:15,229
+execução, execução, executar, executar o quê?
+
+225
+00:09:15,239 --> 00:09:17,609
+Realizar a ação que ele vai fazer? O que
+
+226
+00:09:17,619 --> 00:09:18,969
+que ele se propõe? Ah, o que que
+
+227
+00:09:18,979 --> 00:09:20,759
+o cara pediu a eliminação de dados? O cara
+
+228
+00:09:20,769 --> 00:09:23,330
+pediu a anonima! E ele vai documentar isso.
+
+229
+00:09:23,340 --> 00:09:25,109
+Quem faz isso é a equipe e o de P
+
+230
+00:09:25,119 --> 00:09:28,070
+O Aqui tem os monitoramentos, os indicadores de desempenho,
+
+231
+00:09:28,080 --> 00:09:29,229
+tempo e conformidade.
+
+232
+00:09:29,798 --> 00:09:33,058
+Feito isso tudo, a próxima atividade é comunicar ao
+
+233
+00:09:33,070 --> 00:09:35,500
+titular, né? Vai informar? Olha aquilo que
+
+234
+00:09:35,509 --> 00:09:37,779
+você me pediu eu respondi Tá aqui! Pá pá
+
+235
+00:09:37,788 --> 00:09:41,668
+pá bonitinho! Formalizou! Fechou aquela manifestação? Okay
+
+236
+00:09:41,678 --> 00:09:44,048
+cumprir meu prazo! Cumpri tudo! Tá aqui oh!
+
+237
+00:09:44,058 --> 00:09:47,119
+Satisfação do cliente e tempo de comunicação E por fim,
+
+238
+00:09:47,129 --> 00:09:50,168
+o processo de monitoramento e melhoria contínua, que é
+
+239
+00:09:50,178 --> 00:09:52,989
+melhorar o processo, fazer com que sempre aconteça com
+
+240
+00:09:53,000 --> 00:09:55,808
+mais eficiência e eficácia, né? Analisar os K,
+
+241
+00:09:55,820 --> 00:09:56,369
+PS.
+
+242
+00:09:56,379 --> 00:10:00,019
+Identificar áreas, quem faz isso, equipe E você
+
+243
+00:10:00,029 --> 00:10:02,619
+tem aqui todos os monitoramentos, né? satisfação do
+
+244
+00:10:02,629 --> 00:10:05,019
+cliente, número de incidentes que você resolveu taxa de
+
+245
+00:10:05,029 --> 00:10:05,719
+sucesso.
+
+246
+00:10:05,729 --> 00:10:07,460
+Enfim, uma série de coisas, ou seja,
+
+247
+00:10:07,469 --> 00:10:09,798
+com esse desenho, aqui eu consigo.
+
+248
+00:10:09,808 --> 00:10:11,979
+Ah, de certa forma, bem em alto nível,
+
+249
+00:10:11,989 --> 00:10:15,178
+tá, a gente consegue materializar aqueles requisitos em um
+
+250
+00:10:15,190 --> 00:10:19,178
+conjunto de passos e atividades, um processo com início
+
+251
+00:10:19,190 --> 00:10:19,779
+e fim.
+
+252
+00:10:19,788 --> 00:10:22,700
+Ele começou na identificação da solicitação, na manifestação,
+
+253
+00:10:22,710 --> 00:10:26,379
+e terminou quando eu entreguei pro meu cliente e monitora
+
+254
+00:10:26,389 --> 00:10:28,080
+aquilo, melhorando o meu processo.
+
+255
+00:10:28,288 --> 00:10:29,359
+Muito obrigado.
+
+256
+00:10:29,369 --> 00:10:30,940
+Esse foi o nosso caso prático.
+
+257
+00:10:30,950 --> 00:10:32,200
+Dois até a próxima!
+

@@ -1,0 +1,692 @@
+1
+00:00:06,459 --> 00:00:10,390
+Olá, vamos continuar aí aprendendo, sobre modelagens de
+
+2
+00:00:10,398 --> 00:00:11,148
+processo.
+
+3
+00:00:11,159 --> 00:00:12,250
+Vamos agora.
+
+4
+00:00:12,259 --> 00:00:16,260
+Eh detalhar um pouco mais esse entendimento, né?
+
+5
+00:00:16,269 --> 00:00:19,670
+Relacionando a importância da mode modelagem de processo, né?
+
+6
+00:00:19,679 --> 00:00:21,888
+Então a gente vem numa, vamos dizer, uma
+
+7
+00:00:21,899 --> 00:00:27,420
+crescente aqui do entendimento dessa disciplina dentro do nosso,
+
+8
+00:00:27,429 --> 00:00:30,949
+da nossa organização, né? Eh, dentro das
+
+9
+00:00:30,958 --> 00:00:34,209
+nossas atividades, se a gente pode, até vamos
+
+10
+00:00:34,219 --> 00:00:37,548
+dizer assim levar isso até pra vida da gente Mesmo,
+
+11
+00:00:37,560 --> 00:00:40,469
+né? O processo, por exemplo, de ir
+
+12
+00:00:40,478 --> 00:00:44,569
+trabalhar o processo de pagar uma conta de fazer um
+
+13
+00:00:44,579 --> 00:00:47,389
+empréstimo, então eu posso ter isso também dentro do
+
+14
+00:00:47,399 --> 00:00:49,173
+do meu do O contexto, em que pese a
+
+15
+00:00:49,185 --> 00:00:52,164
+gente não tá preocupado, Pelo menos eu não tô
+
+16
+00:00:52,173 --> 00:00:54,694
+preocupado em desenhar o meu processo ali, né?
+
+17
+00:00:54,704 --> 00:00:57,134
+Mas eu tenho o controle daquilo que eu vou fazer,
+
+18
+00:00:57,145 --> 00:00:57,734
+não é? Não.
+
+19
+00:00:57,743 --> 00:01:00,493
+É muito comum não a gente fazer isso dentro da
+
+20
+00:01:00,505 --> 00:01:02,054
+nossa casa, mas dentro da organização.
+
+21
+00:01:02,064 --> 00:01:03,914
+É fundamental que a gente o faça, né?
+
+22
+00:01:03,923 --> 00:01:08,120
+E aí vem realmente, a gente se depara o
+
+23
+00:01:08,129 --> 00:01:14,859
+quão importante é a modelagem, para a perspectiva institucional
+
+24
+00:01:14,870 --> 00:01:16,239
+que né.
+
+25
+00:01:16,250 --> 00:01:21,000
+Por quê um Pensar As pessoas passam, mas a
+
+26
+00:01:21,010 --> 00:01:23,879
+empresa não passa muitas vezes, né? A não
+
+27
+00:01:23,888 --> 00:01:24,719
+ser que ela vai falir.
+
+28
+00:01:24,730 --> 00:01:25,879
+Vai quebrar e tudo mais.
+
+29
+00:01:25,888 --> 00:01:29,980
+Se você olhar isso, nós temos empresas eh centenárias,
+
+30
+00:01:29,989 --> 00:01:34,790
+nós temos empresas de longa data que as em elas
+
+31
+00:01:34,799 --> 00:01:39,129
+permanecem dentro de um contexto mundial, dentro de um
+
+32
+00:01:39,138 --> 00:01:41,370
+contexto de um país, dentro de um contexto,
+
+33
+00:01:41,379 --> 00:01:44,250
+de um estado, de uma cidade, e é
+
+34
+00:01:44,260 --> 00:01:48,528
+claro que pra ela vir nessa, nessa toada dela.
+
+35
+00:01:48,540 --> 00:01:53,269
+Ao longo dessa caminhada ela precisou passar por mudanças,
+
+36
+00:01:53,278 --> 00:01:57,308
+mas ela começou, né? Num processo para o
+
+37
+00:01:57,319 --> 00:01:59,469
+qual ela foi constituída, você vai pegar.
+
+38
+00:01:59,480 --> 00:02:01,549
+Aí pode citar a N.
+
+39
+00:02:01,558 --> 00:02:03,799
+Você pode citar a Toyota? Você pode citar a
+
+40
+00:02:03,808 --> 00:02:10,139
+coca-cola McDonalds, a Apple Microsoft, né? Então
+
+41
+00:02:10,149 --> 00:02:14,169
+você vai citar vários até a nossa própria instituição aqui.
+
+42
+00:02:14,179 --> 00:02:17,838
+A Gran ela nasceu, né? Com um determinado
+
+43
+00:02:17,849 --> 00:02:20,080
+contexto, numa visão, numa missão, com seus
+
+44
+00:02:20,088 --> 00:02:22,199
+valores, com os seus processos.
+
+45
+00:02:22,210 --> 00:02:25,300
+E ao longo do tempo, isso foi se aperfeiçoando,
+
+46
+00:02:25,308 --> 00:02:29,599
+foi melhorando, mas os processos sempre existiram, sempre
+
+47
+00:02:29,610 --> 00:02:34,338
+permearam essas organizações e nós que estamos aqui, né?
+
+48
+00:02:34,349 --> 00:02:36,979
+Agora, trabalhando com a organização, a gente tá
+
+49
+00:02:36,990 --> 00:02:40,258
+dentro de uma perspectiva de um processo que responde a
+
+50
+00:02:40,270 --> 00:02:44,139
+esta visão dessa atualidade na qual nós estamos inseridos,
+
+51
+00:02:44,149 --> 00:02:46,419
+né? Cada atualidade é uma atualidade diferente.
+
+52
+00:02:46,429 --> 00:02:49,419
+Você pode ter certeza né que Se a gente olhar
+
+53
+00:02:49,429 --> 00:02:53,379
+o processo há uns quatro anos atrás, era uma
+
+54
+00:02:53,389 --> 00:02:55,538
+coisa, não tínhamos pandemia.
+
+55
+00:02:55,550 --> 00:03:00,219
+Ninguém sabia o que significava isso num determinado corte do
+
+56
+00:03:00,229 --> 00:03:01,159
+tempo.
+
+57
+00:03:01,169 --> 00:03:05,020
+Nós fomos assolados por essa pandemia, né, de
+
+58
+00:03:05,028 --> 00:03:10,020
+covid e os processos institucionais mudaram, o da Gran
+
+59
+00:03:10,028 --> 00:03:13,808
+mudou, o da Coca-cola mudou, o da Apple
+
+60
+00:03:13,819 --> 00:03:17,419
+mudou, o da Microsoft mudou aquilo que não era
+
+61
+00:03:17,429 --> 00:03:19,419
+tão, eh determinante.
+
+62
+00:03:19,429 --> 00:03:21,778
+Há quatro anos atrás, passou a ter aquilo que
+
+63
+00:03:21,788 --> 00:03:23,319
+era feito de forma.
+
+64
+00:03:23,330 --> 00:03:27,919
+Eh um pouco mais vamos dizer assim eh que atendia
+
+65
+00:03:27,929 --> 00:03:31,080
+aquele requisito naquela época já não é mais, né?
+
+66
+00:03:31,088 --> 00:03:33,860
+A gente come mu-, mudou nossa forma de trabalho
+
+67
+00:03:33,868 --> 00:03:36,800
+antes a gente, as as empresas tava preocupada muito
+
+68
+00:03:36,808 --> 00:03:39,159
+com a ve eh, o presencial, a venda
+
+69
+00:03:39,169 --> 00:03:41,879
+e tal e foi foi investido muito em delivery foi
+
+70
+00:03:41,889 --> 00:03:43,899
+investido muito em serviços.
+
+71
+00:03:43,909 --> 00:03:47,240
+Eh pra internet, né? Vemos, vimos com
+
+72
+00:03:47,250 --> 00:03:50,278
+ve eh, estamos caminhando com a transformação digital.
+
+73
+00:03:50,288 --> 00:03:53,278
+Tudo isso sem fugir de processo.
+
+74
+00:03:53,288 --> 00:03:55,899
+Tudo isso dentro de um processo organizacional.
+
+75
+00:03:55,909 --> 00:03:59,740
+Então, essa importância vem sendo determinada, vem sendo
+
+76
+00:03:59,750 --> 00:04:02,618
+delimitada, vem sendo trabalhada ao longo do tempo.
+
+77
+00:04:02,629 --> 00:04:05,360
+Não tem como a gente diferir dessa perspectiva.
+
+78
+00:04:06,409 --> 00:04:09,219
+Eh dentro de uma empresa dentro de uma organização.
+
+79
+00:04:09,229 --> 00:04:11,508
+Tá legal! Então, quando a gente olha a
+
+80
+00:04:11,520 --> 00:04:14,219
+importância de um processo, a gente vai olhar aqui.
+
+81
+00:04:14,229 --> 00:04:17,798
+A modelagem de processo tem os seus vários propósitos e
+
+82
+00:04:17,809 --> 00:04:20,500
+o objetivos, que, óbvio, vai depender do
+
+83
+00:04:20,509 --> 00:04:23,588
+contexto do qual ela é aplicada, né? Mas
+
+84
+00:04:23,600 --> 00:04:26,670
+ela vai com vai? Eh, de forma geral,
+
+85
+00:04:26,678 --> 00:04:32,428
+trabalhar nessa questão da compreensão e documentação porque ela ajuda
+
+86
+00:04:32,439 --> 00:04:35,949
+a entender como o processo funciona atualmente.
+
+87
+00:04:35,959 --> 00:04:38,988
+Quem tá envolvido nesse processo, quais as etapas?
+
+88
+00:04:39,000 --> 00:04:43,709
+Quais sistemas, qual a integração, Qual a interação,
+
+89
+00:04:43,720 --> 00:04:46,488
+como é feito? O que é feito que é
+
+90
+00:04:46,500 --> 00:04:49,608
+feito? É isso que se propõe, né?
+
+91
+00:04:49,619 --> 00:04:52,689
+É claro que isso também tem.
+
+92
+00:04:52,699 --> 00:04:52,709
+Eh.
+
+93
+00:04:52,720 --> 00:04:57,790
+Tá dentro de uma uma perspectiva de uma melhoria de
+
+94
+00:04:57,798 --> 00:05:02,670
+uma análise né? E de uma continuidade organizacional como
+
+95
+00:05:02,678 --> 00:05:05,028
+conforme a gente vem falando, né? Oh análise
+
+96
+00:05:05,040 --> 00:05:07,689
+e melhoria conforme a gente acabou de falar.
+
+97
+00:05:07,699 --> 00:05:12,689
+Eh entendam que, dentro de um contexto institucional de
+
+98
+00:05:12,699 --> 00:05:17,088
+mundo em que eu vivia, uma determinada prerrogativa tinha
+
+99
+00:05:17,100 --> 00:05:18,809
+um determinado comportamento.
+
+100
+00:05:18,819 --> 00:05:22,569
+Hoje, já não tenho mais porque as necessidades da
+
+101
+00:05:22,579 --> 00:05:23,769
+sociedade.
+
+102
+00:05:23,778 --> 00:05:29,488
+As necessidades eh, eh dos nossos clientes mudam ao
+
+103
+00:05:29,500 --> 00:05:31,069
+longo do tempo.
+
+104
+00:05:31,079 --> 00:05:35,028
+Elas evoluem ao longo do tempo, né? Elas
+
+105
+00:05:35,040 --> 00:05:39,689
+trazem novos elementos que são incorporados no dia-a-dia das organizações
+
+106
+00:05:39,699 --> 00:05:41,920
+e pra isso eu preciso fazer o quê? Eu
+
+107
+00:05:41,928 --> 00:05:48,439
+preciso mudar e e mudar significa alterar processos, modificar
+
+108
+00:05:48,449 --> 00:05:51,879
+processos pra atender as novas demandas, né.
+
+109
+00:05:51,889 --> 00:05:54,819
+Que estão surgindo aí no nosso, no nosso,
+
+110
+00:05:54,829 --> 00:05:59,209
+no no nosso mercado tá, então quando a gente
+
+111
+00:05:59,220 --> 00:06:01,970
+busca, eh o o propósito E o objetivo da
+
+112
+00:06:01,980 --> 00:06:04,970
+modelagem de processo, A gente tem que entender eh
+
+113
+00:06:04,980 --> 00:06:09,528
+buscar a compreensão do que é um processo institucional e
+
+114
+00:06:09,540 --> 00:06:12,048
+do que é o Pro do que aquele processo significa
+
+115
+00:06:12,059 --> 00:06:15,709
+pra minha organização, no sentido de que o processo
+
+116
+00:06:15,720 --> 00:06:19,875
+vai eh entregar, né? Vai ser a ele,
+
+117
+00:06:19,884 --> 00:06:22,403
+vai ser agregado o valor e ele vai entregar o
+
+118
+00:06:22,415 --> 00:06:23,644
+valor ao meu cliente.
+
+119
+00:06:23,653 --> 00:06:27,644
+Quando eu entendo esse contexto, essa finalidade, pra
+
+120
+00:06:27,653 --> 00:06:32,244
+qual ele é constituído, eu passo a compreender o
+
+121
+00:06:32,254 --> 00:06:36,564
+meu processo e inerente a essa compreensão.
+
+122
+00:06:36,574 --> 00:06:40,980
+Eu tenho a documentação, ou seja, é eu
+
+123
+00:06:40,988 --> 00:06:41,579
+não posso.
+
+124
+00:06:41,588 --> 00:06:45,858
+Hoje confiar que a realização de um processo ou de
+
+125
+00:06:45,869 --> 00:06:54,028
+uma atividade esteja vamos dizer eh caracterizada em cima de
+
+126
+00:06:54,040 --> 00:06:58,709
+um único ponto central de uma única pessoa, né.
+
+127
+00:06:58,720 --> 00:07:02,269
+Isso não pode acontecer de forma alguma, porque na
+
+128
+00:07:02,959 --> 00:07:07,850
+iminência da saída, que seja uma aposentadoria a uma
+
+129
+00:07:07,858 --> 00:07:12,290
+doença, um afastamento qualquer, impacta na realização da
+
+130
+00:07:12,298 --> 00:07:13,069
+minha atividade.
+
+131
+00:07:13,079 --> 00:07:17,449
+Então a documentação, né? Ela é fundamental dentro
+
+132
+00:07:17,459 --> 00:07:21,850
+de um propósito organizacional, cujo a modelagem de processo
+
+133
+00:07:21,858 --> 00:07:22,869
+se estabelece.
+
+134
+00:07:23,319 --> 00:07:28,410
+Ela é a formalização daquilo que nós estamos empregando dentro
+
+135
+00:07:28,420 --> 00:07:31,809
+da empresa, que nós vamos retratar, né?
+
+136
+00:07:31,819 --> 00:07:35,199
+Dentro da minha organização, de como as coisas acontecem,
+
+137
+00:07:35,209 --> 00:07:39,149
+de como as tarefas são desenvolvidas de como eh o
+
+138
+00:07:39,160 --> 00:07:41,470
+passo a passo pra se desenvolver aquilo.
+
+139
+00:07:41,480 --> 00:07:44,569
+Ou seja, não é que cada hora eu vou,
+
+140
+00:07:44,579 --> 00:07:48,079
+tá inventando a roda pra um pra pra uma pessoa
+
+141
+00:07:48,088 --> 00:07:50,480
+que vai entrar, não, isso não quer dizer
+
+142
+00:07:50,488 --> 00:07:56,509
+também que eh num numa ausência, numa mudança alguém
+
+143
+00:07:56,519 --> 00:07:59,910
+que venha, né? Assumir aquele processo, aquela
+
+144
+00:07:59,920 --> 00:08:03,069
+tiver áudio, realize aquilo, possa ter um ins,
+
+145
+00:08:03,079 --> 00:08:08,588
+possa ter uma perspectiva de que aquele processo pode ser
+
+146
+00:08:08,600 --> 00:08:10,910
+feito diferente, melhorado.
+
+147
+00:08:10,920 --> 00:08:13,949
+Aí entra a questão da melhoria, então eh a
+
+148
+00:08:13,959 --> 00:08:16,230
+análise A, A, A, a, a,
+
+149
+00:08:16,238 --> 00:08:20,449
+a forma de análise e a melhoria do meu processo.
+
+150
+00:08:20,459 --> 00:08:25,449
+Ela é constituída dentro da própria EH! Eh dentro
+
+151
+00:08:25,459 --> 00:08:28,129
+do próprio C n, dentro do próprio núcleo do
+
+152
+00:08:28,139 --> 00:08:30,970
+que é a modelagem de processo, do do quão
+
+153
+00:08:30,980 --> 00:08:34,849
+importante ela é para a organização, então volta ao
+
+154
+00:08:34,859 --> 00:08:39,629
+ponto inicial de que a organização ela é perene,
+
+155
+00:08:40,048 --> 00:08:42,077
+né? Ah, o processo.
+
+156
+00:08:42,087 --> 00:08:46,518
+Ela permeia a organização Toda o processo, não os
+
+157
+00:08:46,528 --> 00:08:50,739
+processos, permeiam a organização como um todo, porque
+
+158
+00:08:50,749 --> 00:08:51,658
+eles se integram.
+
+159
+00:08:51,668 --> 00:08:53,499
+Eles estabelecem padrões.
+
+160
+00:08:53,508 --> 00:09:00,058
+Eles estabelecem eh compreensão, eles estabele, Eles permitem
+
+161
+00:09:00,070 --> 00:09:06,279
+eles tão eh, eh tomados de perspectivas de comunicação,
+
+162
+00:09:06,288 --> 00:09:10,070
+de confor conformidade, ajuda a reduzir custos, Enfim,
+
+163
+00:09:10,080 --> 00:09:14,609
+tudo isso são propósitos que se estão inseridos dentro de
+
+164
+00:09:14,619 --> 00:09:17,710
+um contexto da modelagem de processos, né? Dentro
+
+165
+00:09:17,719 --> 00:09:21,668
+dos objetivos que se pressupõe para eu modelar um processo.
+
+166
+00:09:21,678 --> 00:09:29,178
+Então a modelagem de processo é a construção desta conjunto
+
+167
+00:09:29,190 --> 00:09:35,019
+de atividades desse conjunto de elementos que eu considero dentro
+
+168
+00:09:35,029 --> 00:09:41,580
+da minha perspectiva organizacional, para gerar um resultado,
+
+169
+00:09:41,590 --> 00:09:45,639
+né? Ao meu cliente baseado na minha entrada,
+
+170
+00:09:47,759 --> 00:09:53,629
+passando pela minha transformação, saindo lá pra entrega de
+
+171
+00:09:53,639 --> 00:09:57,750
+valor, né pra meu cliente, isso né?
+
+172
+00:09:57,759 --> 00:10:00,908
+Eh por meio de um contexto institucional, okay,
+
+173
+00:10:00,918 --> 00:10:01,950
+te vejo na próxima
+

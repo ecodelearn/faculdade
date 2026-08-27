@@ -1,0 +1,784 @@
+1
+00:00:05,839 --> 00:00:07,448
+Olá, pessoal! Tudo! Bom, sejam bem
+
+2
+00:00:07,459 --> 00:00:10,970
+vindos! Chegamos na nossa última unidade, Unidade quatro
+
+3
+00:00:10,978 --> 00:00:13,948
+do nosso curso de gestão de Segurança da Informação e
+
+4
+00:00:13,960 --> 00:00:14,728
+continuidade.
+
+5
+00:00:14,739 --> 00:00:16,728
+Tá nessa unidade.
+
+6
+00:00:16,739 --> 00:00:19,850
+Nós vamos ver pontos bem importantes e bem interessantes.
+
+7
+00:00:19,859 --> 00:00:23,719
+Vamos começar com a questão do price ou das nuvens,
+
+8
+00:00:23,728 --> 00:00:25,850
+né? O que que é mais vantajoso quando você
+
+9
+00:00:25,859 --> 00:00:29,670
+está olhando pra infraestrutura? Isso é uma decisão muito
+
+10
+00:00:30,109 --> 00:00:33,639
+delicada e vai depender da necessidade, Vai depender da
+
+11
+00:00:33,649 --> 00:00:36,478
+característica de qual de cada empresa tá? Não é
+
+12
+00:00:36,490 --> 00:00:37,810
+uma decisão muito fácil.
+
+13
+00:00:37,819 --> 00:00:40,079
+Você vai ter que colocar, eh o retorno.
+
+14
+00:00:40,090 --> 00:00:42,118
+Sobre investimentos, você vai colocar risco.
+
+15
+00:00:42,130 --> 00:00:45,118
+Você vai ter que colocar vários aspectos para escolher a
+
+16
+00:00:45,130 --> 00:00:48,429
+infraestrutura que melhor se adequeà a sua realidade e
+
+17
+00:00:48,439 --> 00:00:50,359
+a realidade da sua empresa Tá bom? Então vamos
+
+18
+00:00:50,368 --> 00:00:52,950
+lá E aí, quando a gente fala em em
+
+19
+00:00:52,959 --> 00:00:56,228
+em nessa escolha dessas dessas duas modalidades, de de
+
+20
+00:00:56,240 --> 00:00:57,429
+infraestrutura, a gente pode.
+
+21
+00:00:57,439 --> 00:01:00,228
+A gente tem algumas características bem particulares.
+
+22
+00:01:00,240 --> 00:01:02,270
+Então vamos oh quando a gente vai explorar, né?
+
+23
+00:01:02,279 --> 00:01:05,349
+Os ambientes o o, o pri ou nuvem dois
+
+24
+00:01:05,359 --> 00:01:09,290
+paradigmas fundamentais Na infraestrutura de tecnologia da informação, o
+
+25
+00:01:09,299 --> 00:01:12,269
+ambiente Prime eh como o próprio nome sugere.
+
+26
+00:01:12,278 --> 00:01:14,909
+Referência tradicional e infraestrutura local oi! gente.
+
+27
+00:01:14,918 --> 00:01:17,510
+Ou seja data center, né? Eh ali,
+
+28
+00:01:17,519 --> 00:01:20,891
+são servidores bem da companhia, você vai ter lá
+
+29
+00:01:20,902 --> 00:01:23,022
+um DC ou você vai ter uma sala cofre onde
+
+30
+00:01:23,031 --> 00:01:26,652
+você vai ter hackers com servidores, com roteadores e
+
+31
+00:01:26,662 --> 00:01:30,462
+todo todo aquele equipamento de infraestrutura fica dentro da empresa,
+
+32
+00:01:30,471 --> 00:01:33,501
+né? Ou dentro da da da da organização.
+
+33
+00:01:33,513 --> 00:01:36,462
+Tá isso aí, sei lá Isso confere total controle
+
+34
+00:01:36,471 --> 00:01:40,596
+sobre hardware, rede dados, mas demande significativo e
+
+35
+00:01:40,605 --> 00:01:42,715
+manutenção e expansão.
+
+36
+00:01:42,724 --> 00:01:44,635
+Quando a gente tá falando em Prime, é o
+
+37
+00:01:44,646 --> 00:01:49,915
+que a infraestrutura alocada com a sua responsabilidade da empresa,
+
+38
+00:01:49,926 --> 00:01:52,915
+dentro da organização, onde você vai ter que ter
+
+39
+00:01:52,926 --> 00:01:57,596
+preocupação com refrigeração, preocupação com segurança, enfim,
+
+40
+00:01:57,605 --> 00:02:00,584
+toda aquela preocupação do ambiente logístico também.
+
+41
+00:02:00,596 --> 00:02:03,519
+Quando a gente tá falando nas nuvens, representa uma
+
+42
+00:02:03,528 --> 00:02:06,239
+revolução, uma nova vertente, uma nova visão de
+
+43
+00:02:06,250 --> 00:02:07,138
+você ver as coisas.
+
+44
+00:02:07,150 --> 00:02:12,250
+Nesse modelo, os serviços armazenados, processados e redes
+
+45
+00:02:12,258 --> 00:02:16,319
+são fornecidos pela internet, permitindo uma maior estabilidade,
+
+46
+00:02:16,330 --> 00:02:19,360
+dinâmica, flexibilidade e economia de custo.
+
+47
+00:02:19,368 --> 00:02:22,419
+Vai depender muito de cada.
+
+48
+00:02:22,504 --> 00:02:25,074
+O senhor tem negócio que se exige que toda a
+
+49
+00:02:25,085 --> 00:02:27,554
+infraestrutura, toda a segurança dos dados esteja dentro da
+
+50
+00:02:27,564 --> 00:02:29,913
+companhia ou dentro de um país e outro não.
+
+51
+00:02:29,925 --> 00:02:32,974
+Com a nuvem, você tem algumas flexibilidades, algumas
+
+52
+00:02:32,985 --> 00:02:34,633
+economias que já não tem.
+
+53
+00:02:34,645 --> 00:02:36,594
+Já não temos prime, então a gente vai.
+
+54
+00:02:36,604 --> 00:02:38,235
+A gente vai acompanhando eh.
+
+55
+00:02:38,243 --> 00:02:40,835
+Quando a gente fala o nome das nuvens para muitos
+
+56
+00:02:40,844 --> 00:02:42,875
+serviços de hoje prestados eh, vamos lá começar de
+
+57
+00:02:42,883 --> 00:02:44,754
+novo, tá? Eh! Damos o nome,
+
+58
+00:02:44,764 --> 00:02:47,993
+o nome na de nuvem Para muitos serviços prestados na
+
+59
+00:02:48,004 --> 00:02:51,149
+internet a nuvem nada é mais do que um computador,
+
+60
+00:02:51,159 --> 00:02:55,240
+sistema ou infraestrutura que já está em outro ponto na
+
+61
+00:02:55,250 --> 00:02:55,830
+internet.
+
+62
+00:02:55,838 --> 00:02:58,830
+Ou seja, não está no local onde é utilizado.
+
+63
+00:02:58,838 --> 00:03:00,610
+Então, quando a gente fala na na nuvem não
+
+64
+00:03:00,618 --> 00:03:03,508
+é o serviço, o seu serviço tá na nuvem,
+
+65
+00:03:03,520 --> 00:03:05,788
+significa que ele não tá no seu ambiente ali perto
+
+66
+00:03:05,800 --> 00:03:08,069
+de você ou ou dentro da sua empresa? Ele
+
+67
+00:03:08,080 --> 00:03:10,868
+tá na internet, pode tá em outro país em
+
+68
+00:03:10,879 --> 00:03:11,949
+outro continente.
+
+69
+00:03:11,960 --> 00:03:15,270
+Tá Então ele tá em outro lugar, usando a
+
+70
+00:03:15,278 --> 00:03:19,389
+internet para disponibilizar as informações pra você Eh! Pode
+
+71
+00:03:19,399 --> 00:03:24,028
+ser utilizado pra backup! Eh fotos documentos, né?
+
+72
+00:03:24,038 --> 00:03:25,669
+Pode ser utilizado pra jogos.
+
+73
+00:03:25,679 --> 00:03:27,538
+Você pode jogar nas nuvens! Tem algum jogo,
+
+74
+00:03:27,550 --> 00:03:31,409
+algumas plataformas hoje que você consegue jogar usando nuvem?
+
+75
+00:03:31,419 --> 00:03:35,088
+Cê nem precisa do do, do do do do
+
+76
+00:03:35,099 --> 00:03:37,588
+disco né? Ou sei lá, da mídia ou
+
+77
+00:03:37,599 --> 00:03:40,189
+do só ou do jogo eh baixado pra dentro da
+
+78
+00:03:40,199 --> 00:03:40,750
+sua console.
+
+79
+00:03:40,758 --> 00:03:43,368
+Você consegue jogar ele direto na nuvem? E aí
+
+80
+00:03:43,379 --> 00:03:45,528
+vai stream, por exemplo de vídeo, né?
+
+81
+00:03:45,538 --> 00:03:48,028
+Alguns streams, eles estão? Estão na nuvem,
+
+82
+00:03:48,038 --> 00:03:50,868
+você não tem o a o arquivo dentro da sua
+
+83
+00:03:50,879 --> 00:03:52,368
+máquina, ele está na nuvem.
+
+84
+00:03:52,379 --> 00:03:55,189
+Quando você acessa, ele vai e vai baixando pra
+
+85
+00:03:55,199 --> 00:03:58,588
+você durante a A o momento de assistir aquele filme,
+
+86
+00:03:59,368 --> 00:04:03,149
+algumas características, vantagens desvantagem eh quando a gente fala
+
+87
+00:04:03,159 --> 00:04:05,699
+em price nesse modelo, né? De infraestrutura de
+
+88
+00:04:05,710 --> 00:04:08,830
+t i, a organização instala, executa manutenção,
+
+89
+00:04:08,838 --> 00:04:11,139
+expansão dentro da sua própria organização.
+
+90
+00:04:11,149 --> 00:04:12,550
+Como eu falei, são oh lá a fo-!
+
+91
+00:04:12,558 --> 00:04:14,460
+Se você olhar a foto aí desses slides, você
+
+92
+00:04:14,469 --> 00:04:17,798
+vai ver claramente são grandes hackers, onde né?
+
+93
+00:04:17,809 --> 00:04:21,660
+Hacker onde tem os os servidores, os equipamentos de
+
+94
+00:04:21,670 --> 00:04:24,988
+rede? Isso possibilita que a empresa tenha controle absoluto
+
+95
+00:04:25,000 --> 00:04:28,869
+sobre hardware, software, rede e por consequência todos
+
+96
+00:04:28,879 --> 00:04:30,548
+os dados que por ali passarem.
+
+97
+00:04:30,559 --> 00:04:34,869
+Isso permite que ajustes personalizados específicos seja feitos para atender
+
+98
+00:04:34,879 --> 00:04:36,269
+requisitos muito específicos.
+
+99
+00:04:36,278 --> 00:04:40,689
+Então alguns alguns alguns negócios, tá alguns ramos.
+
+100
+00:04:40,699 --> 00:04:45,850
+Algumas trilhas necessitam que esses dados estejam dentro da empresa
+
+101
+00:04:45,858 --> 00:04:46,730
+de forma segura.
+
+102
+00:04:46,738 --> 00:04:50,250
+Você consiga controlar totalmente, então essa talvez seja a
+
+103
+00:04:50,259 --> 00:04:55,250
+melhor solução pra quando tem essa essas necessidades de negócio.
+
+104
+00:04:55,314 --> 00:04:58,324
+Qual é a vantagem? Controle e segurança Oferece controle
+
+105
+00:04:58,334 --> 00:05:02,084
+total sobre as medidas de segurança crucial pra dados sensíveis
+
+106
+00:05:02,095 --> 00:05:04,574
+Tá bom desempenho previsível.
+
+107
+00:05:04,584 --> 00:05:08,475
+Maior previsibilidade e desempenho sem depender de conectividade da internet.
+
+108
+00:05:08,483 --> 00:05:10,004
+Então cê tá ali dentro da sua infraestutura? Cê
+
+109
+00:05:10,014 --> 00:05:12,074
+não precisa ir pra internet, tá tudo ali dentro,
+
+110
+00:05:12,084 --> 00:05:14,564
+né? E conformidade regulatória como eu falei, vai
+
+111
+00:05:14,574 --> 00:05:18,144
+depender do de algum negócio da área, tem regulações
+
+112
+00:05:18,153 --> 00:05:21,084
+que obrigam, as pessoas eh tendo os dados mais
+
+113
+00:05:21,095 --> 00:05:24,379
+protegidos ou dentro da própria empresa e em alguns setores
+
+114
+00:05:24,389 --> 00:05:28,338
+a manutenção local pode facilitar a conformidade e as regulamentações
+
+115
+00:05:28,350 --> 00:05:29,459
+específicas.
+
+116
+00:05:29,470 --> 00:05:35,509
+Desvantagens Investimento inicial Elevado estabilidade limitada tatuaàs vezes quando
+
+117
+00:05:35,519 --> 00:05:39,988
+você precisa aumentar a sua a seu poder de de
+
+118
+00:05:40,000 --> 00:05:41,629
+de de processamento, você não consegue.
+
+119
+00:05:41,639 --> 00:05:42,850
+Você precisa de equipamento.
+
+120
+00:05:42,858 --> 00:05:45,988
+Você precisa né? De de aquele investimento rápido né?
+
+121
+00:05:46,000 --> 00:05:47,290
+E não? Não tem como.
+
+122
+00:05:47,298 --> 00:05:50,480
+Com a Price é manutenção complexa, então a organização
+
+123
+00:05:50,488 --> 00:05:52,600
+é responsável por toda manutenção e quando a gente tá
+
+124
+00:05:52,608 --> 00:05:55,759
+falando de manutenção, é só manutenção dos equipamentos de
+
+125
+00:05:55,769 --> 00:05:56,480
+T I.
+
+126
+00:05:56,488 --> 00:06:00,259
+Como eu falei, refrigeração, iluminação, todo esse
+
+127
+00:06:00,269 --> 00:06:03,738
+equipamento também fica de re fica com a responsabilidade da
+
+128
+00:06:03,750 --> 00:06:06,819
+organização Tá, EH? E quando a gente falar,
+
+129
+00:06:06,829 --> 00:06:10,000
+né? Vamos falar no No modelo de nuvem.
+
+130
+00:06:10,009 --> 00:06:12,798
+Para acessar o serviço dessa infraestrutura é necessário conexão com
+
+131
+00:06:12,809 --> 00:06:13,399
+a internet.
+
+132
+00:06:13,410 --> 00:06:16,519
+Esse é é o requisito básico? Tá, pois
+
+133
+00:06:16,528 --> 00:06:19,759
+a infraestrutura se encontra fora da organização, sendo cuidada
+
+134
+00:06:19,769 --> 00:06:22,079
+pra outra empresa, como se fosse um um serviço
+
+135
+00:06:22,088 --> 00:06:22,838
+terceirizado.
+
+136
+00:06:22,850 --> 00:06:25,420
+Tá? Essa empresa que cuida da nuvem é responsável
+
+137
+00:06:25,428 --> 00:06:28,939
+pela escalabilidade E se for uma empresa boa e e
+
+138
+00:06:28,949 --> 00:06:31,238
+se for uma empresa boa e confiável de nuvem,
+
+139
+00:06:31,250 --> 00:06:34,108
+já possui planos de instalação de pontos para alcançar uma
+
+140
+00:06:34,119 --> 00:06:36,338
+de eh para alcançar a demanda dos seus clientes.
+
+141
+00:06:36,850 --> 00:06:39,459
+Então, quando a empresa já é robusta já tem
+
+142
+00:06:39,470 --> 00:06:43,379
+uma uma né, uma infraestrutura muito boa ele consegue
+
+143
+00:06:43,389 --> 00:06:45,778
+garantir qualquer estabilidade pro cliente.
+
+144
+00:06:45,790 --> 00:06:48,540
+Se você precisar de um dia pro outro, aumentar
+
+145
+00:06:48,548 --> 00:06:50,720
+o seu poder de processamento é só você ir lá.
+
+146
+00:06:50,730 --> 00:06:53,338
+E se isso, dentro da plataforma do do serviço
+
+147
+00:06:53,350 --> 00:06:57,519
+de de nuvem, né? Eh vamos lá quais
+
+148
+00:06:57,528 --> 00:06:59,600
+são as vantagens? Tá custo variável.
+
+149
+00:06:59,608 --> 00:07:02,199
+Então nesse, nesse modelo eh o modelo de pagamento,
+
+150
+00:07:02,209 --> 00:07:02,879
+conforme eu uso.
+
+151
+00:07:02,889 --> 00:07:05,399
+Então você vai pagar o que você tiver usando.
+
+152
+00:07:05,410 --> 00:07:07,358
+Diferente do modelo Price que tá,Às vezes você
+
+153
+00:07:07,369 --> 00:07:11,019
+tem máquinas desligadas lá né? Ou sem utilização,
+
+154
+00:07:11,290 --> 00:07:16,139
+estabilidade rápida, né Recursos podem ser rapidamente dimensionados para
+
+155
+00:07:16,149 --> 00:07:17,500
+lidar com o pico de demanda.
+
+156
+00:07:17,509 --> 00:07:19,759
+Então, ou seja, final de ano ou em
+
+157
+00:07:19,769 --> 00:07:22,980
+outros momentos, pode ser que você tenha a necessidade
+
+158
+00:07:22,988 --> 00:07:26,379
+de um processamento maior, então você consegue investir um
+
+159
+00:07:26,389 --> 00:07:30,119
+pouco mais e conseguir essa esse processamento que você necessita
+
+160
+00:07:30,379 --> 00:07:35,670
+menor complexidade operacional menos menos preocupação com manutenção atualização,
+
+161
+00:07:35,678 --> 00:07:37,608
+permitindo o foco das operações centrais.
+
+162
+00:07:37,619 --> 00:07:40,309
+Então você não precisa ficar preocupado com a manutenção dos
+
+163
+00:07:40,319 --> 00:07:43,910
+servidores com a manutenção da infraestrutura, porque você já
+
+164
+00:07:43,920 --> 00:07:45,809
+paga por todo esse pacote, né.
+
+165
+00:07:45,819 --> 00:07:49,199
+Desvantagem Você precisa da conexão da internet? Você é
+
+166
+00:07:49,209 --> 00:07:51,428
+dependente dessa conexão da internet? Tá Então isso é
+
+167
+00:07:51,439 --> 00:07:55,559
+uma das desvantagens, a segurança percebida e algumas organizações
+
+168
+00:07:55,569 --> 00:07:59,108
+podem perceber a nuvem como menos seguro devido a natureza.
+
+169
+00:07:59,119 --> 00:08:02,009
+Se de compartilhar recurso, nem sempre é verdade.
+
+170
+00:08:02,019 --> 00:08:05,720
+É uma percepção, táàs vezes porque algumas organizações
+
+171
+00:08:05,730 --> 00:08:08,160
+acham que se você tá com o equipamento ali debaixo
+
+172
+00:08:08,170 --> 00:08:10,939
+do seu braço tá muito seguro e eàs vezes
+
+173
+00:08:10,949 --> 00:08:14,588
+não é essa a nossa realidade customização limitada.
+
+174
+00:08:14,600 --> 00:08:19,250
+Então como como você está usando um serviço que ele
+
+175
+00:08:19,259 --> 00:08:21,730
+é,às vezes genérico, você não consegue fazer
+
+176
+00:08:21,738 --> 00:08:24,970
+algumas customizações, tá? Então eu tenho algumas limitações
+
+177
+00:08:24,980 --> 00:08:28,660
+referente a isso E enfim, como eu falei,
+
+178
+00:08:28,670 --> 00:08:32,479
+vai depender muito da área muito da trilha muito da
+
+179
+00:08:32,489 --> 00:08:34,538
+do negócio, do valor, do negócio onde você
+
+180
+00:08:34,548 --> 00:08:38,979
+quer chegar das regulamentações, das normas para tomar a
+
+181
+00:08:38,989 --> 00:08:39,418
+decisão.
+
+182
+00:08:39,428 --> 00:08:43,979
+Se você tem uma infraestrutura ou na nuvem vai depender
+
+183
+00:08:43,989 --> 00:08:45,859
+muito da organização, não existe.
+
+184
+00:08:45,869 --> 00:08:47,629
+Eu não posso chegar aqui pra você e falar qual
+
+185
+00:08:47,639 --> 00:08:51,168
+é a melhor infraestrutura, né? Olha pra mim,
+
+186
+00:08:51,178 --> 00:08:52,250
+a melhor na nuvem não.
+
+187
+00:08:52,259 --> 00:08:54,710
+A melhor é o Price, Não vai depender do
+
+188
+00:08:54,719 --> 00:08:55,908
+seu negócio.
+
+189
+00:08:55,918 --> 00:08:58,750
+Vai depender da sua realidade, Vai depender das suas
+
+190
+00:08:58,759 --> 00:09:00,908
+regulamentações que você segue então.
+
+191
+00:09:00,918 --> 00:09:04,519
+Defina entenda a sua organização, entenda onde você trabalha,
+
+192
+00:09:04,529 --> 00:09:07,359
+Entenda onde você quer chegar e a partir daí você
+
+193
+00:09:07,369 --> 00:09:12,070
+vai conseguir escolher a melhor eh modelo de infraestrutura para
+
+194
+00:09:12,080 --> 00:09:12,629
+a sua empresa.
+
+195
+00:09:12,639 --> 00:09:15,029
+Tá bom! Muito obrigado e nos vemos na próxima
+
+196
+00:09:15,038 --> 00:09:15,369
+aula.
+

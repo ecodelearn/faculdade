@@ -1,0 +1,744 @@
+1
+00:00:06,980 --> 00:00:09,689
+ISO vinte e sete mil, vamos continuar a vinte
+
+2
+00:00:09,698 --> 00:00:10,788
+e sete Bom, como eu falei, a gente
+
+3
+00:00:10,800 --> 00:00:13,148
+precisa da do compromisso, da alta direção.
+
+4
+00:00:13,159 --> 00:00:14,390
+É a mudança de cultura.
+
+5
+00:00:14,398 --> 00:00:17,929
+Ela vai determinar algumas coisas, alguns aspectos que visam
+
+6
+00:00:17,940 --> 00:00:22,690
+proteger a né, aqueles aspectos, confiabilidade, integridade,
+
+7
+00:00:22,699 --> 00:00:25,978
+disponibilidade dos seus dados e tem um ponto bem legal
+
+8
+00:00:25,989 --> 00:00:28,949
+que é a questão da certificação, né? Existe
+
+9
+00:00:28,958 --> 00:00:32,579
+sim certificação para a sua empresa na questão da i
+
+10
+00:00:32,590 --> 00:00:33,189
+MC mil.
+
+11
+00:00:33,200 --> 00:00:35,520
+E é muito legal, porque é um diferencial para
+
+12
+00:00:35,529 --> 00:00:36,359
+as empresas.
+
+13
+00:00:36,368 --> 00:00:39,829
+A certificação de qualquer organização é, sem dúvida,
+
+14
+00:00:39,840 --> 00:00:44,478
+uma vantagem no mercado que permite a vantagem no mercado
+
+15
+00:00:44,490 --> 00:00:48,548
+que permite a empresa a disputar com outras grandes organizações.
+
+16
+00:00:48,560 --> 00:00:51,279
+Porém, é claro que essa certificação não vem de
+
+17
+00:00:51,289 --> 00:00:51,759
+graça.
+
+18
+00:00:51,770 --> 00:00:57,228
+Requer compromisso recursos como investimento para a sua preparação,
+
+19
+00:00:57,240 --> 00:00:58,700
+que eu falo de novo.
+
+20
+00:00:58,918 --> 00:01:00,819
+Quando eu falo de quando a gente tá falando aqui,
+
+21
+00:01:00,829 --> 00:01:04,150
+oh de de de, eh, requer compromisso e
+
+22
+00:01:04,159 --> 00:01:05,040
+preparação.
+
+23
+00:01:05,049 --> 00:01:07,689
+Que que eu falo, precisamos do compromisso, da
+
+24
+00:01:07,698 --> 00:01:08,698
+alta direção.
+
+25
+00:01:08,709 --> 00:01:12,409
+Se você, sua empresa decidiu se certificar a auto
+
+26
+00:01:12,418 --> 00:01:15,838
+direção precisa estar comprometida, porque vai ter que ter,
+
+27
+00:01:15,849 --> 00:01:17,730
+vai ter que ter compromisso deles.
+
+28
+00:01:17,739 --> 00:01:20,808
+Compromisso de toda a organização pra mudar uma cultura e
+
+29
+00:01:20,819 --> 00:01:22,409
+principalmente, investimento.
+
+30
+00:01:22,418 --> 00:01:25,269
+Vai precisar de investimento, tá e é uma vantagem
+
+31
+00:01:25,278 --> 00:01:26,829
+de mercado muito boa.
+
+32
+00:01:26,838 --> 00:01:28,409
+Quando você, a sua empresa, tem uma Certi,
+
+33
+00:01:28,418 --> 00:01:29,308
+é certificada.
+
+34
+00:01:29,319 --> 00:01:32,418
+Isso vinte e sete mil tá, são algumas etapas
+
+35
+00:01:32,430 --> 00:01:36,558
+pra certificação, primeira preparação, primeira preparação, então
+
+36
+00:01:36,569 --> 00:01:39,620
+vamos lá, suporte da alta direção de novo,
+
+37
+00:01:39,629 --> 00:01:41,659
+Tá bom definir o escopo.
+
+38
+00:01:41,668 --> 00:01:42,939
+Lembra que eu falei que a gente tem que definir?
+
+39
+00:01:42,948 --> 00:01:45,540
+O escopo não é sair fazendo em tudo.
+
+40
+00:01:45,549 --> 00:01:48,418
+Tá e aí começa formação, conscientização.
+
+41
+00:01:48,430 --> 00:01:50,579
+Então a gente tem que preparar o terreno aqui,
+
+42
+00:01:50,588 --> 00:01:52,829
+tá preparando com a, com o patrocínio da alta
+
+43
+00:01:52,838 --> 00:01:55,019
+direção, A gente tem de de tem que definir
+
+44
+00:01:55,028 --> 00:01:57,099
+o escopo, e começa todo um trabalho.
+
+45
+00:01:57,109 --> 00:01:59,418
+Isso aqui geralmente é tipicamente, é de um a
+
+46
+00:01:59,430 --> 00:02:01,638
+dois meses, tá? A partir do momento que
+
+47
+00:02:01,650 --> 00:02:03,439
+a gente define o escopo, a gente começa a
+
+48
+00:02:03,448 --> 00:02:06,778
+fazer um diagnóstico lá, análise do contexto, fazer
+
+49
+00:02:06,790 --> 00:02:10,219
+in fazer inventário os ativos de forma definir metodologia de
+
+50
+00:02:10,229 --> 00:02:14,379
+gestão, implementar a avaliação e gerenciamento de risco e
+
+51
+00:02:14,389 --> 00:02:15,379
+o tratamento de risco.
+
+52
+00:02:15,389 --> 00:02:17,419
+Então, a gente define o escopo e começa a
+
+53
+00:02:17,429 --> 00:02:20,778
+trabalhar dentro desse escopo, então aqui a gente já
+
+54
+00:02:20,788 --> 00:02:24,240
+tem a parte, aqui é a parte um né,
+
+55
+00:02:25,419 --> 00:02:27,069
+E aqui a gente faz a parte dois.
+
+56
+00:02:27,080 --> 00:02:30,278
+Então prepara, define o escopo e começa a trabalhar
+
+57
+00:02:30,288 --> 00:02:31,110
+em cima desse escopo.
+
+58
+00:02:31,118 --> 00:02:32,270
+A partir do momento que a gente tem todo o
+
+59
+00:02:32,278 --> 00:02:34,189
+diagnóstico, né que a gente fala ali.
+
+60
+00:02:34,199 --> 00:02:36,788
+O V zero a gente tem todo ali, aquela
+
+61
+00:02:36,800 --> 00:02:38,849
+questão de de a gente já olhou.
+
+62
+00:02:38,860 --> 00:02:41,990
+Fiz definimos o o, o, o, a
+
+63
+00:02:42,000 --> 00:02:42,588
+preparação.
+
+64
+00:02:42,599 --> 00:02:46,028
+Definimos o contexto, Fizemos o análise daquele contexto,
+
+65
+00:02:46,038 --> 00:02:48,110
+olhamos o V zero ali, né, o O,
+
+66
+00:02:48,118 --> 00:02:51,069
+o e o pessoal fala Situação atual, né?
+
+67
+00:02:51,080 --> 00:02:53,008
+E aí a gente começa a a AMP, eh
+
+68
+00:02:53,020 --> 00:02:54,899
+fazer a a implementação disso.
+
+69
+00:02:54,909 --> 00:02:56,588
+Tá beleza? Esse aqui é o diagnóstico.
+
+70
+00:02:56,599 --> 00:02:57,889
+Então que que eu vou começar aí eu vou pra
+
+71
+00:02:57,899 --> 00:03:01,909
+fase três, que é implementação, definir política de
+
+72
+00:03:01,919 --> 00:03:04,830
+segurança, documentar os processos, tá, e aqui
+
+73
+00:03:04,838 --> 00:03:06,429
+demorara um pouquinho mais aqui.
+
+74
+00:03:06,439 --> 00:03:07,588
+Oh! De um a quatro meses que a gente
+
+75
+00:03:07,599 --> 00:03:10,229
+começa a implementar o que aqui a gente, o
+
+76
+00:03:10,240 --> 00:03:12,889
+que onde a gente precisa chegar de beleza, Então
+
+77
+00:03:12,899 --> 00:03:14,949
+eu preparei o ambiente.
+
+78
+00:03:14,960 --> 00:03:17,788
+Eu olhei pra pro meu ambiente atual, vi quais
+
+79
+00:03:17,800 --> 00:03:19,349
+são os necessários.
+
+80
+00:03:19,360 --> 00:03:21,308
+Eu comecei a implementar isso.
+
+81
+00:03:21,319 --> 00:03:23,270
+E aí, que qual é o próximo passo?
+
+82
+00:03:23,278 --> 00:03:25,308
+Eu tenho que operar, Tem que começar a operar
+
+83
+00:03:25,319 --> 00:03:27,729
+o sistema operar, essa essa, essa, essa,
+
+84
+00:03:27,800 --> 00:03:28,800
+essa conscientização.
+
+85
+00:03:28,808 --> 00:03:30,949
+Enfim, essas normas da da polícia de Segurança.
+
+86
+00:03:30,960 --> 00:03:34,250
+Então, eu tenho a conscientização e formação de funcionário.
+
+87
+00:03:34,258 --> 00:03:35,689
+Tem que ter treinamento.
+
+88
+00:03:35,699 --> 00:03:38,008
+Tem que ter aqueles jogos, aqueles que, onde
+
+89
+00:03:38,020 --> 00:03:42,770
+a o tema segurança, tá sendo falado diariamente dentro
+
+90
+00:03:42,778 --> 00:03:43,250
+da empresa.
+
+91
+00:03:43,258 --> 00:03:46,490
+Tá operação, né? Do do do, do
+
+92
+00:03:46,500 --> 00:03:48,808
+do do i, m, i, i,
+
+93
+00:03:48,819 --> 00:03:52,729
+m s o monitoramento tá a revisão.
+
+94
+00:03:52,740 --> 00:03:54,569
+Então, ou seja, eu começo a operar.
+
+95
+00:03:54,580 --> 00:03:57,129
+Eu monitoro e começo a olhar, se aqueles aqueles
+
+96
+00:03:57,139 --> 00:03:59,710
+dados, aqueles aquelas métricas, né, porque o
+
+97
+00:03:59,719 --> 00:04:01,929
+K R s que a gente definiu estão sendo cumpridos
+
+98
+00:04:01,939 --> 00:04:04,129
+e a gente tem que ter uma auditoria interna pra
+
+99
+00:04:04,139 --> 00:04:06,814
+ver se todo que eles todos aqueles critérios, que
+
+100
+00:04:06,824 --> 00:04:09,455
+foi pré-estabelecidos e estão sendo cumpridos.
+
+101
+00:04:09,463 --> 00:04:12,074
+Tá aí a partir daí a gente pode ter uma,
+
+102
+00:04:12,085 --> 00:04:12,835
+né, A gente tem.
+
+103
+00:04:12,844 --> 00:04:15,554
+Pode ser, ter uma auditoria de certificação.
+
+104
+00:04:15,564 --> 00:04:18,595
+A gente pode chamar uma empresa pra nos auditar Tá
+
+105
+00:04:18,605 --> 00:04:21,754
+pra obter a A A certificação de vinte e sete
+
+106
+00:04:21,764 --> 00:04:26,369
+mil? Então, preparação você prepara, você tem
+
+107
+00:04:26,379 --> 00:04:29,189
+o compromisso da direção? Você tem uma diagnóstica Você
+
+108
+00:04:29,199 --> 00:04:30,970
+começa a ver o eis ali qual é a situação
+
+109
+00:04:30,980 --> 00:04:33,569
+atual, né? Pra desenhar um tio B ali
+
+110
+00:04:33,579 --> 00:04:37,750
+que vai você vai de fazer a implementação dos da
+
+111
+00:04:37,759 --> 00:04:41,129
+onde você tem que melhorar, opera isso coloca em
+
+112
+00:04:41,139 --> 00:04:44,369
+operação, com com monitoramento, com revisão, com
+
+113
+00:04:44,379 --> 00:04:48,108
+auditoria interna e aí você tá apto pra ser certificado.
+
+114
+00:04:48,119 --> 00:04:50,449
+Ou seja, tá apto por passar pelo a uma
+
+115
+00:04:50,459 --> 00:04:51,769
+auditoria.
+
+116
+00:04:51,778 --> 00:04:56,238
+Tá o tempo de cada etapa varia drasticamente, com
+
+117
+00:04:56,250 --> 00:04:59,778
+acordo com o escopo objetivo e táticas utilizadas.
+
+118
+00:04:59,790 --> 00:05:01,298
+Gente, eu lembro que desde que eu tô falando
+
+119
+00:05:01,309 --> 00:05:02,579
+vai depender muito do escopo.
+
+120
+00:05:02,588 --> 00:05:05,660
+Se você a ampliar muito esse escopo maior vai ser
+
+121
+00:05:05,670 --> 00:05:09,879
+sua dificuldade mais tempo você vai ter para implementar e
+
+122
+00:05:09,889 --> 00:05:13,028
+investir sobre isso Tá, eh Considere essa lista como
+
+123
+00:05:13,040 --> 00:05:16,059
+um check-up básico Essa lista, essa lista atrás aqui
+
+124
+00:05:16,069 --> 00:05:17,559
+tá é um checkup rápido.
+
+125
+00:05:18,079 --> 00:05:21,548
+Eh uma lista de afazeres, porém cruciais.
+
+126
+00:05:21,559 --> 00:05:23,250
+Eh volta aqui.
+
+127
+00:05:23,259 --> 00:05:26,449
+Considera essa lista como cheque, cheque, né?
+
+128
+00:05:26,459 --> 00:05:29,689
+Básico, uma lista de afazeres simples, porém cruciais
+
+129
+00:05:29,699 --> 00:05:31,988
+para o sucesso da certificação da sua organização.
+
+130
+00:05:32,000 --> 00:05:36,108
+Isso aqui é simples, mas é se é sensa,
+
+131
+00:05:36,119 --> 00:05:40,899
+sem dúvida é fundamental para o sucesso da da certificação
+
+132
+00:05:40,910 --> 00:05:41,649
+da sua organização.
+
+133
+00:05:41,660 --> 00:05:44,269
+Tá, eh, o primeiro passo deve ser sempre
+
+134
+00:05:44,278 --> 00:05:46,790
+trazer a alta direção e as partes interessadas.
+
+135
+00:05:46,798 --> 00:05:49,988
+Todo mundo que você sabe que precisa se envolver nesse
+
+136
+00:05:50,000 --> 00:05:51,548
+processo você precisa colocar na mesa.
+
+137
+00:05:51,559 --> 00:05:54,910
+Tá bom, eh a apenas com o suporte da
+
+138
+00:05:54,920 --> 00:05:56,269
+alta gestão da sua empresa.
+
+139
+00:05:56,278 --> 00:06:00,910
+É possível realizar os demais passos e alterações necessárias dentro
+
+140
+00:06:00,920 --> 00:06:02,608
+da estrutura da organização.
+
+141
+00:06:04,100 --> 00:06:07,369
+Ainda dentro desse preparo, se começa a documentar o
+
+142
+00:06:07,379 --> 00:06:11,569
+i SMS ao mesmo tempo que é a conscientização das
+
+143
+00:06:11,579 --> 00:06:14,769
+pessoas envolvidas sobre a importância do que você tá fazendo.
+
+144
+00:06:14,778 --> 00:06:16,389
+Então, quando a gente tá falando aqui, a
+
+145
+00:06:16,399 --> 00:06:20,108
+gente tá eh preciso sim do envolvimento da auto direção,
+
+146
+00:06:20,119 --> 00:06:23,428
+envolvimento das pessoas que vão fazer parte de todo esse
+
+147
+00:06:23,439 --> 00:06:24,149
+processo.
+
+148
+00:06:24,160 --> 00:06:27,759
+Só que você não precisa esperar essa conscientização, você
+
+149
+00:06:27,769 --> 00:06:29,600
+pode fazer um trabalho em paralelo.
+
+150
+00:06:29,608 --> 00:06:31,980
+Tá bom porque, lembrando que a conscientização é um
+
+151
+00:06:31,988 --> 00:06:34,519
+trabalho contínuo, você vai ter que fazer um trabalho
+
+152
+00:06:34,528 --> 00:06:37,278
+de conscientização, de segurança, informação contínuo dentro da
+
+153
+00:06:37,290 --> 00:06:37,720
+sua empresa.
+
+154
+00:06:37,730 --> 00:06:38,238
+Tá.
+
+155
+00:06:38,250 --> 00:06:41,079
+Por fim, precisamos passar por um processo de auditoria
+
+156
+00:06:41,088 --> 00:06:43,600
+interna pra garantir a lisura dos processos.
+
+157
+00:06:43,608 --> 00:06:46,519
+Antes de chamamos uma empresa terceirizada, né? Uma
+
+158
+00:06:46,528 --> 00:06:51,178
+empresa certificadora pra fazer a auditoria externa somente pra dar
+
+159
+00:06:51,189 --> 00:06:54,720
+okay para a certificação da empresa antes de você.
+
+160
+00:06:54,730 --> 00:06:57,278
+Ou seja, vou tirar aqui antes de você eh,
+
+161
+00:06:57,290 --> 00:07:01,369
+eh chamar a empresa, né? Pra certificadora você
+
+162
+00:07:01,379 --> 00:07:03,889
+precisa ter um fazer um check, fazer um olhar
+
+163
+00:07:03,899 --> 00:07:06,290
+pra dentro, fazer uma auditoria interna, ver se
+
+164
+00:07:06,298 --> 00:07:10,290
+todos os critérios básicos e necessários para a certificação estão
+
+165
+00:07:10,298 --> 00:07:11,309
+sendo cumpridos.
+
+166
+00:07:11,319 --> 00:07:13,129
+Porque senão é mu é muito perigoso.
+
+167
+00:07:13,139 --> 00:07:15,329
+Você não tem um você não sabe.
+
+168
+00:07:15,338 --> 00:07:17,949
+Você não tem uma métrica, você não consegue medir.
+
+169
+00:07:17,959 --> 00:07:20,548
+Aí você vai correr o risco de chamar uma empresa
+
+170
+00:07:20,625 --> 00:07:22,036
+pra avaliar o seu trabalho.
+
+171
+00:07:22,045 --> 00:07:24,855
+Se você nem nem você consegue avaliar, então primeiro
+
+172
+00:07:24,865 --> 00:07:25,966
+você tem que se avaliar.
+
+173
+00:07:25,975 --> 00:07:28,634
+Você tem que ter uma auditoria interna independente ali da
+
+174
+00:07:28,644 --> 00:07:31,716
+sua área, pra você conseguir ver se os os
+
+175
+00:07:31,725 --> 00:07:35,514
+princípios básicos da certificação, os princípios básicos que aquela
+
+176
+00:07:35,526 --> 00:07:38,716
+empresa certificadora vão pedir se faz necessário do dentro do
+
+177
+00:07:38,725 --> 00:07:39,596
+seu ambiente.
+
+178
+00:07:39,605 --> 00:07:41,196
+É, isso, tá bom? Então se você
+
+179
+00:07:41,204 --> 00:07:44,860
+é um inicial, é muito legal se você tem
+
+180
+00:07:44,872 --> 00:07:47,302
+esse interesse de estudar sobre isso, se você quer
+
+181
+00:07:47,312 --> 00:07:49,331
+ser um auditor da S vinte e sete mil,
+
+182
+00:07:49,341 --> 00:07:52,141
+é uma área muito boa, uma área, empresas
+
+183
+00:07:52,151 --> 00:07:56,480
+que possuem a certificação são empresas diferenciadas no mercado.
+
+184
+00:07:56,492 --> 00:07:59,932
+Eh, então é uma área muito forte dentro dessa
+
+185
+00:07:59,940 --> 00:08:01,081
+área de segurança da informação.
+
+186
+00:08:01,091 --> 00:08:03,002
+Valeu até a próxima aula
+

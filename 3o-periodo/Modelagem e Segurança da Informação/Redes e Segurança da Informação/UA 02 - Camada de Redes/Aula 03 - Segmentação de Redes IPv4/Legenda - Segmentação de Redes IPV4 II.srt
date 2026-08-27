@@ -1,0 +1,528 @@
+1
+00:00:05,919 --> 00:00:09,409
+Olá, aluno seja bem-vindo Professor Fabrício Melo estamos falando
+
+2
+00:00:09,419 --> 00:00:12,038
+aí sobre a segmentação de redes i p v quatro
+
+3
+00:00:12,050 --> 00:00:16,609
+E agora nós vamos trabalhar com o endereçamento de o
+
+4
+00:00:16,620 --> 00:00:18,809
+que que seria esse endereçamento? Aí? É aquela
+
+5
+00:00:18,818 --> 00:00:21,789
+ideia que a gente viu do barra alguma coisa barra
+
+6
+00:00:21,798 --> 00:00:26,048
+dezesseis barra oito representa daqueles bits, então você consegue
+
+7
+00:00:26,059 --> 00:00:29,179
+entender melhor estudando essa parte aqui.
+
+8
+00:00:29,190 --> 00:00:31,329
+Olha só primeiramente, Qual é o objetivo de fazer
+
+9
+00:00:31,339 --> 00:00:33,362
+essa divisão né, OH! É pra permitir a
+
+10
+00:00:33,372 --> 00:00:37,682
+atribuição de endereços OH i p v quatro em qualquer
+
+11
+00:00:37,692 --> 00:00:40,762
+fronteira do bit lembra disso do endereço que é o
+
+12
+00:00:40,771 --> 00:00:43,743
+cumprimento do prefixo? Então você consegue fazer ali a
+
+13
+00:00:43,752 --> 00:00:49,402
+atribuição e ultrapassar emprestar fazer a fronteira ali daquele endereçamento
+
+14
+00:00:49,411 --> 00:00:51,323
+através do bit, né? É um método de
+
+15
+00:00:51,332 --> 00:00:56,402
+representação alternativo chamado comprimento do prefixo, é o nome
+
+16
+00:00:56,411 --> 00:00:59,615
+que corresponde o quê ao número de bits um da
+
+17
+00:00:59,625 --> 00:01:02,636
+máscara de sub rede lembra-se disso e é um escrito
+
+18
+00:01:02,645 --> 00:01:04,834
+após o endereço i p v quatro Você separa por
+
+19
+00:01:04,846 --> 00:01:06,995
+uma barra? Você deve perceber que a gente já
+
+20
+00:01:07,004 --> 00:01:10,194
+trabalhou isso aí lá atrás tinha aquela barrinha um número,
+
+21
+00:01:10,206 --> 00:01:12,995
+Então perceba oh esse endereço aí oh i p v
+
+22
+00:01:13,004 --> 00:01:15,896
+quatro um nove dois um meia oito dez ponto um
+
+23
+00:01:15,905 --> 00:01:18,316
+Lembra que a gente fez ali o W lógico na
+
+24
+00:01:18,325 --> 00:01:21,275
+aulas passadas? Oh lá com a máscara dois cinco
+
+25
+00:01:21,286 --> 00:01:24,155
+cinco dois cinco cinco dois cinco cinco zero Ela é
+
+26
+00:01:24,165 --> 00:01:27,698
+representada como nessa rede é um nove dois um meia
+
+27
+00:01:27,709 --> 00:01:31,680
+oito dez ponto onze barra vinte e quatro né?
+
+28
+00:01:31,689 --> 00:01:33,519
+Que seria os vinte e quatro bits Aí? Como
+
+29
+00:01:33,528 --> 00:01:37,290
+é que você faz essa contagem indo para uma tabela
+
+30
+00:01:37,299 --> 00:01:39,900
+desses endereços? Aí olha só que interessante Oh!
+
+31
+00:01:39,909 --> 00:01:43,540
+Os prefixos das máscaras de sub rede vão atender o
+
+32
+00:01:43,549 --> 00:01:45,918
+seguinte Oh quando você tem uma máscara de sub rede
+
+33
+00:01:45,930 --> 00:01:49,879
+dois cinco cinco zero zero zero, pode observar que
+
+34
+00:01:49,888 --> 00:01:53,578
+você vai ter só um no primeiro arquiteto que corresponde
+
+35
+00:01:53,587 --> 00:01:56,837
+ao dois cinco cinco e os outros arquitetos todos zerados,
+
+36
+00:01:56,846 --> 00:01:58,917
+então quer dizer que você tem oito bits, por
+
+37
+00:01:58,927 --> 00:02:01,358
+isso que é barra oito tá vendo oh prefixo barra
+
+38
+00:02:01,367 --> 00:02:04,596
+oito É assim que você conta quando você tem dois,
+
+39
+00:02:04,608 --> 00:02:05,957
+cinco, cinco, dois, cinco, cinco,
+
+40
+00:02:05,968 --> 00:02:09,956
+zero zero Oh lá você já tem dois octeto só
+
+41
+00:02:09,967 --> 00:02:12,556
+com um que representa dois cinco cinco e os outros
+
+42
+00:02:12,567 --> 00:02:13,556
+dois octeto zero.
+
+43
+00:02:13,567 --> 00:02:16,754
+Então se você tem dois octeto com oito bits,
+
+44
+00:02:16,765 --> 00:02:20,094
+você tem a barra dezesseis não é isso? E
+
+45
+00:02:20,105 --> 00:02:22,415
+quando você tem o dois cinco cinco dois cinco cinco
+
+46
+00:02:22,425 --> 00:02:25,325
+dois cinco cinco zero olha aí a lógica Cê passa
+
+47
+00:02:25,335 --> 00:02:28,534
+a ter três octeto com bits um então três octeto
+
+48
+00:02:28,545 --> 00:02:30,724
+vezes, né? Oito vezes três Vai dar a
+
+49
+00:02:30,735 --> 00:02:33,754
+barra vinte e quatro E aí você pode ir avançando
+
+50
+00:02:33,765 --> 00:02:36,635
+pra fixo fazendo aquele empréstimo lá do bit oh então
+
+51
+00:02:36,645 --> 00:02:38,795
+se eu tenho uma rede dois cin uma máscara de
+
+52
+00:02:38,805 --> 00:02:40,575
+sub rede dois cinco cinco dois, cinco cinco,
+
+53
+00:02:40,585 --> 00:02:43,024
+dois cinco cinco ponto cento e vinte e oito Oh,
+
+54
+00:02:43,032 --> 00:02:46,233
+eu vou ter lá os bits número uns em todos
+
+55
+00:02:46,243 --> 00:02:49,774
+os arquitetos e no último arquiteto eu avanço um,
+
+56
+00:02:49,782 --> 00:02:51,913
+então eu passo a ter o quê uma rede barra
+
+57
+00:02:51,923 --> 00:02:54,032
+vinte e cinco? E aí quando eu tenho?
+
+58
+00:02:54,044 --> 00:02:55,993
+Dois cinco cinco dois, cinco cinco dois cinco cinco,
+
+59
+00:02:56,002 --> 00:02:58,794
+um nove dois, por exemplo o que que aconteceu?
+
+60
+00:02:58,804 --> 00:03:01,413
+Eu tenho todos os bits preenchidos lá, tá vendo,
+
+61
+00:03:01,423 --> 00:03:04,153
+só que eu emprestei dois bits no último arquiteto eu
+
+62
+00:03:04,163 --> 00:03:06,831
+invadi, então eu tive uma rede barra vinte e
+
+63
+00:03:06,841 --> 00:03:09,551
+seis ali, okay e quando eu tiver dois cinco
+
+64
+00:03:09,561 --> 00:03:10,852
+cinco dois, cinco, cinco, dois, cinco,
+
+65
+00:03:10,860 --> 00:03:12,692
+cinco duzentos e vinte e quatro oh lá o que
+
+66
+00:03:12,700 --> 00:03:16,510
+aconteceu Eu tive três bits No último octeto a rede
+
+67
+00:03:16,521 --> 00:03:19,230
+fica barra vinte e oito e quando eu tenho dois
+
+68
+00:03:19,241 --> 00:03:20,852
+cinco cinco dois, cinco cinco e o último é
+
+69
+00:03:20,860 --> 00:03:23,431
+duzentos e quarenta Oh eu passei a ter quatro bits
+
+70
+00:03:23,442 --> 00:03:25,991
+no final barra vinte e oito e aí vai oh
+
+71
+00:03:26,001 --> 00:03:28,271
+o de baixo aqui que é o dois quatro oito.
+
+72
+00:03:28,281 --> 00:03:32,088
+Eu tive cinco bits no final passei a ter barra
+
+73
+00:03:32,099 --> 00:03:33,949
+vinte e nove e o dois, cinco, cinco,
+
+74
+00:03:33,960 --> 00:03:35,610
+dois, cinco, cinco, dois, cinco dois
+
+75
+00:03:35,618 --> 00:03:39,129
+eu passo a ter seis bits lá, ou seja,
+
+76
+00:03:39,139 --> 00:03:42,689
+uma rede barra trinta é assim que você vai representar
+
+77
+00:03:42,699 --> 00:03:45,528
+quando você for fazer essas máscaras de sub redes através
+
+78
+00:03:45,538 --> 00:03:48,490
+de sistema binário, então quando você jogar um lá,
+
+79
+00:03:48,500 --> 00:03:51,368
+você vai sempre botando a barra e a quantidade desses
+
+80
+00:03:51,379 --> 00:03:55,149
+bits número bits um que você tem no endereço binário.
+
+81
+00:03:55,159 --> 00:03:59,633
+É assim que você consegue representar essas redes, essas
+
+82
+00:03:59,645 --> 00:04:02,675
+máscaras aí de sub rede Okay e temos também em
+
+83
+00:04:02,683 --> 00:04:06,395
+cima do endereçamento o domínio de o que que é
+
+84
+00:04:06,403 --> 00:04:07,433
+o domínio de broca.
+
+85
+00:04:07,444 --> 00:04:10,425
+Aluno é a fronteira tá vendo da rede onde uma
+
+86
+00:04:10,433 --> 00:04:15,074
+transmissão pode chegar até onde essa transmissão pode chegar.
+
+87
+00:04:15,085 --> 00:04:17,434
+Quando você tem o seu domínio de Broca, então
+
+88
+00:04:17,444 --> 00:04:22,454
+cê pega por exemplo suits eles vão propagar brocas por
+
+89
+00:04:22,463 --> 00:04:26,920
+todas as interfaces, tá vendo exceto a interface que
+
+90
+00:04:26,928 --> 00:04:30,439
+foram recebidos, então o que acontece? Já os
+
+91
+00:04:30,449 --> 00:04:34,660
+roteadores, por sua vez não propagam, Então você
+
+92
+00:04:34,670 --> 00:04:36,980
+pode ver que aqui oh cê tem aqui um um
+
+93
+00:04:36,988 --> 00:04:42,548
+um um exemplo oh de duas segmentações de redes onde
+
+94
+00:04:42,559 --> 00:04:47,189
+você tem a propagação de mas quando vai lá pro
+
+95
+00:04:47,199 --> 00:04:50,108
+roteador, né? Pra poder ir pra outra rede
+
+96
+00:04:50,119 --> 00:04:52,910
+você não tem essa propagação tá vendo você tem um
+
+97
+00:04:52,920 --> 00:04:56,988
+x aqui é assim que vai funcionar esse domínio né
+
+98
+00:04:57,000 --> 00:04:59,428
+Que a gente conhece como domínio de broca tá?
+
+99
+00:04:59,439 --> 00:05:01,439
+E em uma rede OH baseada no protocolo de i
+
+100
+00:05:01,449 --> 00:05:05,250
+p v quatro Essas transmissões aluno de BCA são muito
+
+101
+00:05:05,259 --> 00:05:05,689
+comuns.
+
+102
+00:05:05,761 --> 00:05:08,411
+A gente trabalha muito com isso, seja para o
+
+103
+00:05:08,420 --> 00:05:08,531
+quê.
+
+104
+00:05:08,540 --> 00:05:10,411
+Obtenção por exemplo de endereço i P acho que é
+
+105
+00:05:10,420 --> 00:05:13,052
+o mais comum através de um servidor de HC P
+
+106
+00:05:13,062 --> 00:05:16,401
+D HC p que é o dinâmico configura um protocolo.
+
+107
+00:05:16,411 --> 00:05:20,411
+Ele é o protocolo responsável em gerar um i P
+
+108
+00:05:20,420 --> 00:05:23,290
+para uma máquina, então através de sistema de cast
+
+109
+00:05:23,302 --> 00:05:27,091
+ele consegue fazer aí essa geração do i, p
+
+110
+00:05:27,100 --> 00:05:30,451
+tá vendo oh e na resolução também de endereço do
+
+111
+00:05:30,461 --> 00:05:32,723
+MEC pelo ar, que é o protocolo aí de
+
+112
+00:05:32,733 --> 00:05:34,562
+resolução de endereço, né? O appe Ele tem
+
+113
+00:05:34,574 --> 00:05:37,963
+a finalidade aí de associar um I P, que
+
+114
+00:05:37,973 --> 00:05:40,963
+é um protocolo de camada três com o MAC e
+
+115
+00:05:40,973 --> 00:05:43,584
+que é um endereço de camada dois, que é
+
+116
+00:05:43,593 --> 00:05:46,043
+aquele endereço físico que é o endereço que representa a
+
+117
+00:05:46,052 --> 00:05:48,644
+placa de rede, tá e temos também o quê?
+
+118
+00:05:48,653 --> 00:05:52,723
+Essa divisão da rede oh em sub redes vai reduzir
+
+119
+00:05:52,733 --> 00:05:54,622
+o tráfego total da rede? Tá vendo e vai
+
+120
+00:05:54,634 --> 00:05:56,723
+melhorar o seu desempenho? É o que a gente
+
+121
+00:05:56,733 --> 00:05:57,605
+viu lá atrás.
+
+122
+00:05:57,615 --> 00:06:01,074
+Lembra que uma das vantagens de você fazer a segmentação,
+
+123
+00:06:01,084 --> 00:06:03,355
+né? Eh do DO da rede P V quatro
+
+124
+00:06:03,365 --> 00:06:06,435
+é você fazer essa divisão em várias sub redes.
+
+125
+00:06:06,446 --> 00:06:08,475
+Cê vai reduzir o tráfego reduzindo o tráfego.
+
+126
+00:06:08,485 --> 00:06:11,435
+Você tem o quê Um melhor de desempenho, né?
+
+127
+00:06:11,446 --> 00:06:15,514
+Quando você faz, você divide aí essa sub rede
+
+128
+00:06:15,526 --> 00:06:18,115
+Okay que é justamente com esse endereço que a gente
+
+129
+00:06:18,125 --> 00:06:21,315
+viu, né, Aquele cálculo lá pra trás?
+
+130
+00:06:21,324 --> 00:06:25,250
+Okay Então é isso isso que nós conhecemos aí como
+
+131
+00:06:25,259 --> 00:06:29,449
+o famoso endereço class que é utilizado aí nas redes
+
+132
+00:06:29,459 --> 00:06:33,069
+i p v quatro Tá bom abraço até já
+

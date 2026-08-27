@@ -1,0 +1,672 @@
+1
+00:00:06,238 --> 00:00:07,889
+Olá, sou professor da SCP.
+
+2
+00:00:07,900 --> 00:00:10,288
+Nós vamos falar um pouquinho sobre programação, a síndrome.
+
+3
+00:00:10,300 --> 00:00:12,509
+Na verdade os modelos de programação, a síndrome que
+
+4
+00:00:12,519 --> 00:00:15,778
+a gente precisa e usa dentro do ambiente ou outros
+
+5
+00:00:15,788 --> 00:00:18,728
+ambientes Java Script, né? E a gente começa
+
+6
+00:00:18,739 --> 00:00:24,318
+pelas funções de cabe, né? Funções de Cobec
+
+7
+00:00:24,329 --> 00:00:27,500
+vão ser essenciais quando a gente fala de tratamento a
+
+8
+00:00:27,510 --> 00:00:30,519
+sí crono, né? É um modelo simples pra
+
+9
+00:00:30,530 --> 00:00:34,000
+tratamento a sí crono, onde a função é executada
+
+10
+00:00:34,009 --> 00:00:34,439
+em um.
+
+11
+00:00:34,450 --> 00:00:39,319
+Em algum momento aquela função vai eh terminar a execução
+
+12
+00:00:39,329 --> 00:00:41,859
+dela e vai mandar o resultado de volta.
+
+13
+00:00:41,868 --> 00:00:46,000
+Bom eh quando não sei, né? O grande
+
+14
+00:00:46,009 --> 00:00:49,240
+problema é esse se eu simplesmente inicio uma, ela
+
+15
+00:00:49,250 --> 00:00:49,759
+vai executar.
+
+16
+00:00:49,770 --> 00:00:52,548
+Em paralelo com o meu código atual e o que
+
+17
+00:00:52,560 --> 00:00:54,639
+vai acontecer, eu não sei quando ela vai acabar,
+
+18
+00:00:54,649 --> 00:00:57,399
+né? E ela, que vai saber quando acaba
+
+19
+00:00:57,408 --> 00:01:00,459
+o que que eu faço? Eu forneço uma cabe
+
+20
+00:01:00,969 --> 00:01:03,750
+E o processo é bem simples, né? Aquela
+
+21
+00:01:03,759 --> 00:01:07,260
+fornecida a vai ganhar, cabe Ela vai fazer o
+
+22
+00:01:07,269 --> 00:01:09,510
+que tiver de fazer e no final, vai executar.
+
+23
+00:01:09,519 --> 00:01:12,400
+Ou seja, está apenas ensinando a o que ela
+
+24
+00:01:12,409 --> 00:01:13,980
+deve fazer com os dados que ela vai ter no
+
+25
+00:01:13,989 --> 00:01:17,180
+final, né? Então o que você tem ali
+
+26
+00:01:17,189 --> 00:01:18,859
+é um princípio de programação a sinc.
+
+27
+00:01:18,870 --> 00:01:21,430
+Como você não sabe quando ele vai terminar, tá
+
+28
+00:01:21,439 --> 00:01:24,058
+dando pra ele a funcionalidade que ele precisa executar no
+
+29
+00:01:24,069 --> 00:01:26,829
+momento em que ele terminar, né? Então a
+
+30
+00:01:26,838 --> 00:01:29,430
+retorna da operação é tratada na Cobec, né?
+
+31
+00:01:29,439 --> 00:01:34,109
+Aquela naquela função que a ganhou quando ela acabar de
+
+32
+00:01:34,120 --> 00:01:35,588
+fazer, ela vai chegar! OPA! Beleza!
+
+33
+00:01:35,599 --> 00:01:38,469
+Vou usar esse essa nesses meus dados aqui.
+
+34
+00:01:38,480 --> 00:01:41,629
+E se eu tiver dez, cada uma vai usar
+
+35
+00:01:41,638 --> 00:01:43,319
+cobec de uma forma, porque cada uma vai ter
+
+36
+00:01:43,329 --> 00:01:46,370
+seus dados, né? Então você tá lá,
+
+37
+00:01:46,379 --> 00:01:48,909
+eh cinco arquivos t x t que eu quero copiar.
+
+38
+00:01:48,918 --> 00:01:52,980
+Verificar quantas vezes acontece tal palavra em cada arquivo cada
+
+39
+00:01:52,989 --> 00:01:55,549
+vai ter um resultado diferente, né? Mas vai
+
+40
+00:01:55,558 --> 00:01:58,388
+ser o mesmo processo em todas elas a mesma cabe
+
+41
+00:01:58,400 --> 00:02:00,069
+vai ser usada pra todas.
+
+42
+00:02:00,079 --> 00:02:01,689
+Tá, eh.
+
+43
+00:02:01,698 --> 00:02:05,308
+As funções podem ser da forma clássica, colocando function.
+
+44
+00:02:05,319 --> 00:02:08,270
+Ou eu posso usar arrow function que é um formato
+
+45
+00:02:08,278 --> 00:02:09,990
+bem mais interessante, né.
+
+46
+00:02:10,000 --> 00:02:13,949
+Utilizada também no retorno de eventos.
+
+47
+00:02:13,960 --> 00:02:16,729
+Tá? Tem uma forma quando você tem aqueles eventos
+
+48
+00:02:16,740 --> 00:02:21,719
+que são usados no evento data evento eh É comum
+
+49
+00:02:21,729 --> 00:02:24,558
+você ter uma cobec para os eventos.
+
+50
+00:02:24,569 --> 00:02:29,409
+Tá bom, Vamos ver a parte mais simples,
+
+51
+00:02:29,419 --> 00:02:33,860
+né? Uma cobec aqui de leitura de arquivo para
+
+52
+00:02:33,868 --> 00:02:35,929
+eh usar a biblioteca F S, que já é
+
+53
+00:02:35,939 --> 00:02:39,949
+nativa, né? Pegar aqui um note que eu
+
+54
+00:02:39,960 --> 00:02:41,569
+já coloquei a n PM s tal menos i.
+
+55
+00:02:42,179 --> 00:02:48,689
+Vamos colocar os da recuaria f t f s não
+
+56
+00:02:48,699 --> 00:02:52,088
+precisa instalar nada, porque já é do núcleo dela.
+
+57
+00:02:52,099 --> 00:02:58,800
+É o core e aí eu só vou manda ali
+
+58
+00:02:59,399 --> 00:03:04,808
+t s ponto fi que ele até reconheceu ali o
+
+59
+00:03:04,819 --> 00:03:06,689
+P f P f.
+
+60
+00:03:06,699 --> 00:03:08,368
+Aqui eu vou colocar no mesmo p f corrente.
+
+61
+00:03:08,379 --> 00:03:14,008
+Então vou colocar aqui eh teste ponto t x t
+
+62
+00:03:14,020 --> 00:03:15,588
+Eu vou causar um erro de propósito.
+
+63
+00:03:17,229 --> 00:03:23,179
+O t f oito que ele vai trabalhar com ele
+
+64
+00:03:23,189 --> 00:03:23,778
+aceita os dois.
+
+65
+00:03:23,788 --> 00:03:32,639
+Parece por acaso E aqui, o que acontece?
+
+66
+00:03:32,649 --> 00:03:33,278
+Eu tô dizendo.
+
+67
+00:03:33,288 --> 00:03:37,949
+Abro o arquivo de forma a sincronia, o arquivo
+
+68
+00:03:37,960 --> 00:03:42,189
+teste formatação eh de codificação T f oito, né?
+
+69
+00:03:42,199 --> 00:03:43,379
+E aí eu vou fazer o seguinte o que que
+
+70
+00:03:43,389 --> 00:03:45,368
+eu vou fazer com o que vier desse arquivo,
+
+71
+00:03:45,379 --> 00:03:46,929
+né? Eu tô lendo o arquivo, beleza.
+
+72
+00:03:46,939 --> 00:03:50,419
+Então eu vou receber um conjunto de dados ou,
+
+73
+00:03:50,429 --> 00:03:51,770
+se eu preferir, eu posso dizer que isso aqui
+
+74
+00:03:51,778 --> 00:03:56,028
+seria minhas linhas, né, então o conteúdo do
+
+75
+00:03:56,038 --> 00:04:00,778
+arquivo eu recebi ali eu vou fazer alguma coisa com
+
+76
+00:04:00,788 --> 00:04:01,580
+isso.
+
+77
+00:04:01,588 --> 00:04:05,740
+Isso aqui é a minha cobec, né? Então
+
+78
+00:04:05,750 --> 00:04:07,219
+agora o que eu vou fazer aqui? Eu posso
+
+79
+00:04:07,229 --> 00:04:15,088
+fazer várias coisas console ponto blog não eh Aliás,
+
+80
+00:04:15,099 --> 00:04:20,358
+ele coloca um R R também tá cale console ponto
+
+81
+00:04:20,369 --> 00:04:31,420
+log data dados né? Eu posso nesse caso aqui
+
+82
+00:04:31,428 --> 00:04:34,040
+por ser uma função a sí crono, né?
+
+83
+00:04:34,829 --> 00:04:38,790
+Eh essa cabe aqui oh eu já tenho um erro
+
+84
+00:04:38,798 --> 00:04:42,649
+também i f é r R esse R r na
+
+85
+00:04:42,660 --> 00:04:44,350
+verdade é o erro que pode ter acontecido.
+
+86
+00:04:44,358 --> 00:04:46,009
+Ou não, né? Então é i c R
+
+87
+00:04:46,019 --> 00:04:51,199
+R Se acontecer o erro console, log ou console
+
+88
+00:04:51,209 --> 00:04:57,939
+erro tanto faz a diferença é a forma que ele
+
+89
+00:04:57,949 --> 00:05:02,519
+apresenta os dados a R r Posso colocar um else
+
+90
+00:05:02,528 --> 00:05:09,048
+aqui, né es console log dados, ou seja,
+
+91
+00:05:09,059 --> 00:05:12,600
+se tiver erro eu vou logar o erro senão eu
+
+92
+00:05:12,608 --> 00:05:13,480
+vou executar.
+
+93
+00:05:13,488 --> 00:05:15,879
+Eu vou mostrar os dados do arquivo, então se
+
+94
+00:05:15,889 --> 00:05:19,619
+eu salvar esse cara aqui e tal no index um,
+
+95
+00:05:23,178 --> 00:05:27,178
+ele já deu um erro ali oh, não encontrei
+
+96
+00:05:27,189 --> 00:05:30,428
+o arquivo teste t x t tá quer dizer não
+
+97
+00:05:30,439 --> 00:05:36,309
+existe, mas eu posso criá-lo teste ponto T x
+
+98
+00:05:36,319 --> 00:05:39,949
+t e aí eu coloco o que eu quiser nele
+
+99
+00:05:42,220 --> 00:06:00,369
+Exemplo Oi, então se eu agora rodar novamente aparece
+
+100
+00:06:00,379 --> 00:06:00,528
+ali.
+
+101
+00:06:00,540 --> 00:06:02,528
+O que tá no arquivo tá? E você nota
+
+102
+00:06:02,540 --> 00:06:04,809
+que a leitura é a sincronia.
+
+103
+00:06:04,819 --> 00:06:08,178
+Okay Bom, essa é uma forma de usar através
+
+104
+00:06:08,189 --> 00:06:11,449
+da biblioteca F s e eu também posso usar,
+
+105
+00:06:11,459 --> 00:06:15,170
+né? Essas eh pra outras coisas, como por
+
+106
+00:06:15,178 --> 00:06:17,649
+exemplo, leitura do h t, P, né?
+
+107
+00:06:17,660 --> 00:06:20,528
+Se eu fizer a leitura de um site qualquer como
+
+108
+00:06:20,540 --> 00:06:23,170
+o Google, eu posso ter uma cobec pra poder
+
+109
+00:06:23,178 --> 00:06:26,129
+mostrar os dados desse cara, né? Então eu
+
+110
+00:06:26,139 --> 00:06:35,670
+posso ter aqui o seguinte Oh colocar aqui um novo
+
+111
+00:06:35,678 --> 00:06:41,838
+arquivo e eu posso ter esse tipo de coisa,
+
+112
+00:06:41,850 --> 00:06:47,069
+né? Uma ou R l Colocar direto tá eh
+
+113
+00:06:47,079 --> 00:06:52,569
+h t t p igual a recue h t t
+
+114
+00:06:52,579 --> 00:07:02,569
+P não? E aí? Eu vou colocar h
+
+115
+00:07:02,579 --> 00:07:08,269
+t t p ponto Gatt Ele já é a síndrome
+
+116
+00:07:09,278 --> 00:07:10,949
+é que eu vou colocar só o endereço do Google!
+
+117
+00:07:16,329 --> 00:07:19,790
+Qual e quando chegar o resultado eu vou fazer alguma
+
+118
+00:07:19,798 --> 00:07:25,350
+coisa, né? Que que eu faço? Eu
+
+119
+00:07:25,358 --> 00:07:28,278
+tenho uma cobec, onde eu tenho esses dados,
+
+120
+00:07:28,290 --> 00:07:31,988
+provavelmente poderia tratar o erro também, né? Eh,
+
+121
+00:07:34,048 --> 00:07:38,100
+Aqui seria minha cobec! Com os dados e aqui
+
+122
+00:07:38,108 --> 00:07:54,858
+eu vou colocar console ponto Log opa dados Executar nesse
+
+123
+00:07:54,869 --> 00:08:01,000
+cara aqui index dois Ele pegou e já mostrou pra
+
+124
+00:08:01,009 --> 00:08:02,910
+mim através da Cobec.
+
+125
+00:08:03,588 --> 00:08:06,000
+Eh tudo que veio lá do meu servidor é minha
+
+126
+00:08:06,009 --> 00:08:09,048
+requisição, né aqui eu não tô no navegador pra
+
+127
+00:08:09,059 --> 00:08:11,040
+poder mostrar ele funcionando, né? Então ele tá
+
+128
+00:08:11,048 --> 00:08:14,079
+pegando na verdade a requisição crua, sem interpretação.
+
+129
+00:08:14,088 --> 00:08:16,899
+Tá onde mais eu uso cabe.
+
+130
+00:08:17,548 --> 00:08:21,238
+Eu uso em diversas bibliotecas, como por exemplo,
+
+131
+00:08:21,250 --> 00:08:21,949
+a geração do q R.
+
+132
+00:08:21,959 --> 00:08:24,250
+Code, né? Aí o que ele faz aqui,
+
+133
+00:08:24,259 --> 00:08:26,108
+ele vai gerar, e aí vai ter o R
+
+134
+00:08:26,119 --> 00:08:28,980
+R o data dando um exemplo com geração de q
+
+135
+00:08:28,988 --> 00:08:30,949
+r code, né? Pra eles tem que ter
+
+136
+00:08:30,959 --> 00:08:31,309
+a biblioteca.
+
+137
+00:08:31,319 --> 00:08:33,399
+O q r code instalada pra poder fazer isso,
+
+138
+00:08:33,408 --> 00:08:35,509
+Tá? Eh.
+
+139
+00:08:36,500 --> 00:08:41,528
+E eu tenho também o uso das minhas? Em
+
+140
+00:08:41,538 --> 00:08:44,347
+situações onde eu tenho eh eventos, né? Isso
+
+141
+00:08:44,359 --> 00:08:47,048
+é muito comum, tá aqui tem um exemplo com
+
+142
+00:08:47,058 --> 00:08:50,330
+arquivo de P d f onde ele gera os dados,
+
+143
+00:08:50,340 --> 00:08:54,918
+né? Onde tem esse ele no o data ele
+
+144
+00:08:54,928 --> 00:08:59,330
+vai fazer a ligação com Ah, e vai fazer
+
+145
+00:08:59,340 --> 00:09:02,928
+o push, né? Seria, vai acrescentar Em
+
+146
+00:09:02,940 --> 00:09:07,139
+dados aquela informação E no Ed, ele vai com
+
+147
+00:09:07,149 --> 00:09:10,190
+Cate que que ele tá fazendo eh Eu poderia ter
+
+148
+00:09:10,200 --> 00:09:12,308
+feito isso aí também, por exemplo, numa recepção
+
+149
+00:09:12,320 --> 00:09:15,609
+h t P a cada data eu adiciono a informação
+
+150
+00:09:16,428 --> 00:09:17,038
+no AD.
+
+151
+00:09:17,048 --> 00:09:20,649
+Eu apresento, tá então esse data ali é a
+
+152
+00:09:20,658 --> 00:09:22,719
+cada fragmento de dado que vai chegando.
+
+153
+00:09:22,729 --> 00:09:26,119
+Tá então se você tiver um servidor que coloca cada
+
+154
+00:09:26,129 --> 00:09:28,399
+vai ser capturado num data e o ed vai ser
+
+155
+00:09:28,408 --> 00:09:32,000
+capturado no evento and então esse data aqui é o
+
+156
+00:09:32,009 --> 00:09:35,000
+evento de recepção de dados e o AD é o
+
+157
+00:09:35,009 --> 00:09:38,479
+evento de finalização de conversa Tá como eu tenho também
+
+158
+00:09:38,489 --> 00:09:40,200
+o evento que é outro.
+
+159
+00:09:40,210 --> 00:09:45,759
+O evento é fechamento, conexão tá Eles inclusive acontecem
+
+160
+00:09:45,769 --> 00:09:49,879
+em momentos diferentes do ciclo de vida do daquele modelo
+
+161
+00:09:49,889 --> 00:09:55,359
+de eh tra Okay Bom, mas novamente nós podemos
+
+162
+00:09:55,369 --> 00:09:59,080
+ver as cobec sendo utilizadas a cada momento.
+
+163
+00:09:59,090 --> 00:10:06,460
+Okay Bom, Então essas são as, né?
+
+164
+00:10:06,469 --> 00:10:09,779
+As Cobec são amplamente e basicamente, tudo que elas
+
+165
+00:10:09,788 --> 00:10:12,418
+são é São uma função de tratamento, né?
+
+166
+00:10:12,428 --> 00:10:14,808
+Que vão ficar, eh quer ficar disponível pra quando
+
+167
+00:10:14,820 --> 00:10:18,759
+houver o retorno de alguma, garantindo aquele comportamento ací
+
+168
+00:10:18,769 --> 00:10:20,599
+crono, que é o que nós desejamos
+

@@ -1,0 +1,532 @@
+1
+00:00:06,698 --> 00:00:09,368
+Olá, vamos falar um pouquinho sobre os eventos,
+
+2
+00:00:09,380 --> 00:00:11,269
+né? E o tratamento, a síndrome deles.
+
+3
+00:00:11,278 --> 00:00:14,710
+A importância deles não é o né? Eh tem
+
+4
+00:00:14,720 --> 00:00:17,589
+eventos que são específicos de entrada e saída, como
+
+5
+00:00:17,600 --> 00:00:21,798
+por exemplo, o evento data, né? Evento
+
+6
+00:00:21,809 --> 00:00:25,789
+EH Open São eventos muito assim, comuns em termos
+
+7
+00:00:25,798 --> 00:00:27,589
+de o que você tem que abrir o dispositivo,
+
+8
+00:00:27,600 --> 00:00:31,309
+ler do dispositivo e você tem que fechar o dispositivo.
+
+9
+00:00:31,318 --> 00:00:33,630
+Então a leitura normalmente é a síndroma, né?
+
+10
+00:00:33,639 --> 00:00:37,039
+Vamos ver como é que isso funciona, Então,
+
+11
+00:00:37,048 --> 00:00:40,829
+o evento de tratamento? A SC? Utilização do
+
+12
+00:00:40,840 --> 00:00:42,829
+evento? LOOP, né? Quando você coloca ele
+
+13
+00:00:42,840 --> 00:00:45,289
+com esses eventos, você tá sujeitando eleàquela regra
+
+14
+00:00:45,298 --> 00:00:48,109
+do evento loop onde ele vai ficar lendo os eventos,
+
+15
+00:00:48,118 --> 00:00:52,829
+iniciando Gabe jogando, né? Então, você tem
+
+16
+00:00:52,840 --> 00:00:56,908
+toda aquela lógica do evento Loop sendo eh sendo utilizada
+
+17
+00:00:56,918 --> 00:00:59,469
+ali pra trabalhar dentro da arquitetura do J.
+
+18
+00:00:59,478 --> 00:01:03,310
+Então, muitas coisas são eventos padronizados, né?
+
+19
+00:01:03,319 --> 00:01:06,480
+Eventos que eu tenho ali o data data seria uma
+
+20
+00:01:06,489 --> 00:01:07,129
+comunicação.
+
+21
+00:01:07,138 --> 00:01:09,838
+Um dado que chegou eh de um servidor.
+
+22
+00:01:09,849 --> 00:01:12,930
+Um dado que chegou de um arquivo tá é um
+
+23
+00:01:12,939 --> 00:01:16,278
+dado, um dado que chegou o evento and quando
+
+24
+00:01:16,290 --> 00:01:20,569
+foi encerrada a comunicação, né? O evento tá
+
+25
+00:01:20,579 --> 00:01:22,250
+fechando, né? É diferente.
+
+26
+00:01:22,260 --> 00:01:26,049
+você terminar uma comunicação, fechar a conexão de vez,
+
+27
+00:01:26,058 --> 00:01:30,010
+né? Eh evento, erro que seria no caso
+
+28
+00:01:30,019 --> 00:01:32,849
+pra você detectar um erro qualquer.
+
+29
+00:01:32,859 --> 00:01:36,489
+E o interessante é que esses eventos ocorrem em diferentes
+
+30
+00:01:36,500 --> 00:01:38,209
+pontos do ciclo de vida do evento.
+
+31
+00:01:38,219 --> 00:01:40,909
+Loop, né? Ah, o tratamento é via
+
+32
+00:01:40,918 --> 00:01:41,888
+função de cabe.
+
+33
+00:01:41,900 --> 00:01:44,689
+Todo evento é o tratamento via função de Cobec e,
+
+34
+00:01:44,698 --> 00:01:47,388
+por exemplo, na recepção segmentada no stream.
+
+35
+00:01:47,668 --> 00:01:51,278
+Eu teria lá oh data, ou seja, cada
+
+36
+00:01:51,290 --> 00:01:54,819
+vez que chegar algum dado console, logo que que
+
+37
+00:01:54,829 --> 00:01:57,159
+é o Chuck é a parcela de informação.
+
+38
+00:01:57,168 --> 00:01:58,918
+Se eu tiver um arquivo muito grande, pode ser
+
+39
+00:01:58,930 --> 00:02:01,159
+uma linha ou duas linhas dentro de um arquivo de
+
+40
+00:02:01,168 --> 00:02:02,180
+dez mil linhas.
+
+41
+00:02:02,189 --> 00:02:04,439
+Ele vai pegando aquela informação aos poucos.
+
+42
+00:02:04,448 --> 00:02:07,159
+Isso aí é através de é por demanda, né?
+
+43
+00:02:07,168 --> 00:02:12,038
+Seria o stream? Ah biblioteca, net, né?
+
+44
+00:02:12,050 --> 00:02:15,639
+Pra fazer o Sócrates Evento error, né? Eh,
+
+45
+00:02:15,649 --> 00:02:18,939
+esse erro é quando você assim aconteceu um erro,
+
+46
+00:02:19,868 --> 00:02:22,558
+né? Se tem o O C é sempre assim
+
+47
+00:02:22,569 --> 00:02:26,278
+o objeto, o erro, ou seja, o
+
+48
+00:02:26,288 --> 00:02:29,599
+objeto no evento de erro, executa tal Cobec,
+
+49
+00:02:29,610 --> 00:02:34,500
+tá sempre o evento cabe então server é o meu
+
+50
+00:02:34,508 --> 00:02:35,618
+servidor.
+
+51
+00:02:35,629 --> 00:02:38,599
+O erro, quando tiver um erro, vai executar
+
+52
+00:02:38,610 --> 00:02:40,919
+o quê? Alguma? coisa em cima desse erro,
+
+53
+00:02:40,929 --> 00:02:43,159
+e ele já passa o erro pra cá nessa variável
+
+54
+00:02:43,169 --> 00:02:48,778
+é assim se é ponto igual é are, consegue,
+
+55
+00:02:48,788 --> 00:02:50,038
+eh endereço sem uso.
+
+56
+00:02:50,050 --> 00:02:52,139
+Então assim, aqui por exemplo, um erro que
+
+57
+00:02:52,149 --> 00:02:54,639
+pode acontecer é o endereço que tá em uso.
+
+58
+00:02:54,649 --> 00:02:56,599
+Ele já vai jogar ali, um evento oh,
+
+59
+00:02:56,610 --> 00:02:58,360
+tá com o endereço em uso, vai tentar de
+
+60
+00:02:58,368 --> 00:03:03,960
+novo daqui a algum tempo? Eh C Serve Listen,
+
+61
+00:03:03,969 --> 00:03:07,479
+né? Esse código aqui que faria ele daqui a
+
+62
+00:03:07,490 --> 00:03:10,229
+um segundo ele fe- que ele tá fazendo aqui.
+
+63
+00:03:10,240 --> 00:03:12,879
+Oh, close fecha o servidor, né? Já
+
+64
+00:03:12,889 --> 00:03:14,460
+tá com o endereço sem uso? Deu erro,
+
+65
+00:03:14,469 --> 00:03:18,319
+serve, a lista vai tentar ler de novo.
+
+66
+00:03:18,330 --> 00:03:20,479
+Então, ele vai ficar tentando pegar o endereço até
+
+67
+00:03:20,490 --> 00:03:23,679
+que aquele endereço seja liberado, né? Eh o
+
+68
+00:03:23,689 --> 00:03:27,038
+time out significa execute daqui a tanto tempo, Então
+
+69
+00:03:27,050 --> 00:03:29,879
+ele tá mandando executar esse essa função.
+
+70
+00:03:29,889 --> 00:03:30,118
+Aqui.
+
+71
+00:03:30,129 --> 00:03:34,189
+Essa cabe na verdade é a a function depois de
+
+72
+00:03:34,199 --> 00:03:36,719
+mil mini segundos que é um segundo, então se
+
+73
+00:03:36,729 --> 00:03:39,949
+o time out serve pra você eh! Eh você
+
+74
+00:03:39,960 --> 00:03:43,830
+deixar lá agendada a execução pra daqui a tanto tempo,
+
+75
+00:03:43,838 --> 00:03:46,659
+né? Aqui eu tenho um exemplo h T P
+
+76
+00:03:47,469 --> 00:03:51,368
+um Sever R A B C C console.
+
+77
+00:03:51,379 --> 00:03:54,819
+Logo, servidor encerrado e aqui se ou ser close
+
+78
+00:03:54,830 --> 00:03:58,368
+três mil Server lista três mil? Olha que interessante
+
+79
+00:03:58,379 --> 00:04:00,610
+eh eu tô mandando fechar o servidor depois que ele
+
+80
+00:04:00,618 --> 00:04:03,770
+ficar três segundos no ar e aí quando ele fechar,
+
+81
+00:04:03,778 --> 00:04:06,649
+ele vai ter que mostrar pra mim servidor encerrado,
+
+82
+00:04:06,659 --> 00:04:13,990
+né Bom, eu posso também ter um cliente que
+
+83
+00:04:14,000 --> 00:04:16,869
+vai pegar essa informação, né lá do servidor oh
+
+84
+00:04:16,879 --> 00:04:20,028
+oci porta três mil, método gue, né.
+
+85
+00:04:20,629 --> 00:04:26,869
+Resposta, né? Ponto o data, console,
+
+86
+00:04:26,879 --> 00:04:33,480
+resposta and console Logo fim da comunicação conexão encerrada Isso
+
+87
+00:04:33,488 --> 00:04:36,959
+é o cliente dizendo o seguinte Quando chegar dado,
+
+88
+00:04:36,970 --> 00:04:38,259
+executa tal coisa.
+
+89
+00:04:38,269 --> 00:04:41,470
+Quando chegar, eh o fim, cê executa o
+
+90
+00:04:41,480 --> 00:04:44,209
+fim da comunicação e quando chegar o, né?
+
+91
+00:04:44,220 --> 00:04:46,509
+EH Se não é o fim daquela transmissão, mas
+
+92
+00:04:46,519 --> 00:04:47,009
+sim o fim.
+
+93
+00:04:47,019 --> 00:04:50,069
+É o fim da conexão, eu console logo conexão
+
+94
+00:04:50,079 --> 00:04:57,889
+encerrada, tá Então vamos ver isso aqui eh Se
+
+95
+00:04:57,899 --> 00:05:06,910
+isso aqui eu tenho ali servidor que ma, vai
+
+96
+00:05:06,920 --> 00:05:11,439
+escutar na porta três mil e vai ficar ali ser
+
+97
+00:05:11,449 --> 00:05:11,939
+três mil.
+
+98
+00:05:11,949 --> 00:05:14,750
+E vai fechar depois de três segundos também, né?
+
+99
+00:05:14,759 --> 00:05:20,709
+Então escuta três mil fecha depois de três segundos,
+
+100
+00:05:20,720 --> 00:05:25,730
+tá eh ele vai sempre mostrar a aquele negócio da
+
+101
+00:05:25,738 --> 00:05:26,769
+comunicação em demanda.
+
+102
+00:05:26,778 --> 00:05:29,309
+Manda o A manda o B, manda o C
+
+103
+00:05:29,319 --> 00:05:30,108
+e encerra.
+
+104
+00:05:30,119 --> 00:05:32,480
+Podia colocar também o R C e depois dá um
+
+105
+00:05:32,488 --> 00:05:35,619
+e vazio teria o mesmo efeito, né? Então
+
+106
+00:05:35,629 --> 00:05:37,660
+com isso aí, o que eu vou fazer eh
+
+107
+00:05:37,670 --> 00:05:40,170
+Ele vai escutar por três segundos e vai parar.
+
+108
+00:05:40,178 --> 00:05:43,608
+E aqui eu coloquei uma requisição que vai fazer a
+
+109
+00:05:43,619 --> 00:05:46,278
+seguinte coisa cada vez que chegar um dado qualquer A,
+
+110
+00:05:46,290 --> 00:05:48,720
+B ou C, ele vai imprimir SP e o
+
+111
+00:05:48,730 --> 00:05:50,790
+dado, como você tá colocando por demanda, vai
+
+112
+00:05:50,798 --> 00:05:51,889
+imprimir um de cada vez.
+
+113
+00:05:52,470 --> 00:05:56,759
+Quando tiver o final de conexão, ele vai eh
+
+114
+00:05:56,769 --> 00:05:59,119
+fechar o fim da comunicação.
+
+115
+00:05:59,129 --> 00:06:02,000
+E quando tiver um conexão encerrada, a conexão vai
+
+116
+00:06:02,009 --> 00:06:04,600
+se encerrar quando encerrar a conexão do servidor também,
+
+117
+00:06:04,608 --> 00:06:08,528
+né? Eh? Reque aqui tá mandando fechar a
+
+118
+00:06:08,540 --> 00:06:12,119
+conexão do cliente, né? A requisição, então
+
+119
+00:06:12,129 --> 00:06:14,040
+se eu fechar a conexão antes também, na verdade
+
+120
+00:06:14,048 --> 00:06:14,678
+ele vai fechar.
+
+121
+00:06:14,689 --> 00:06:16,399
+Ele vai colocar a conexão encerrada.
+
+122
+00:06:16,410 --> 00:06:19,259
+Tá bom, vamos ver como é que vai funcionar
+
+123
+00:06:19,269 --> 00:06:24,548
+isso aqui dá um node três, tá lá os
+
+124
+00:06:24,559 --> 00:06:27,480
+eventos acontecendo, né? Então a ideia do uso
+
+125
+00:06:27,488 --> 00:06:31,250
+de eventos é basicamente essa, né? Ah,
+
+126
+00:06:31,259 --> 00:06:36,149
+a gente trabalha com eventos na forma da seguinte forma
+
+127
+00:06:36,160 --> 00:06:39,428
+esses eventos vão ser ocorreram em algum momento e quando
+
+128
+00:06:39,439 --> 00:06:42,548
+eles ocorrerem eu vou ter uma cobec pra poder tratar
+
+129
+00:06:42,559 --> 00:06:44,608
+o que tá sendo recebido ali, né? E
+
+130
+00:06:44,619 --> 00:06:48,108
+é extremamente importante em termos de bom, a gente
+
+131
+00:06:48,119 --> 00:06:49,149
+fica então por aqui.
+
+132
+00:06:49,160 --> 00:06:52,309
+Espero que tenha agregado conhecimento, bons estudos e até
+
+133
+00:06:52,319 --> 00:06:52,689
+a próxima.
+

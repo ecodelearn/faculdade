@@ -1,0 +1,596 @@
+1
+00:00:06,110 --> 00:00:10,519
+Olá aluno Professor Fabrício Melo seja muito bem vindo,
+
+2
+00:00:10,528 --> 00:00:12,800
+vamos lá vamos seguir aqui o que que a gente
+
+3
+00:00:12,810 --> 00:00:17,440
+tá estudando? Vamos falar agora sobre camada de aplicação
+
+4
+00:00:17,449 --> 00:00:19,120
+do modelo TC p i p.
+
+5
+00:00:19,129 --> 00:00:23,440
+Vamos trabalhar essas camadas aí pra você poder entender,
+
+6
+00:00:23,449 --> 00:00:26,679
+né? Com mais calma olha só quando a gente
+
+7
+00:00:26,690 --> 00:00:29,579
+fala da camada de aplicação do modelo TC p i
+
+8
+00:00:29,589 --> 00:00:31,969
+p, você tem que entender que o TC p
+
+9
+00:00:31,978 --> 00:00:33,770
+i p são quatro camadas.
+
+10
+00:00:33,779 --> 00:00:37,548
+Como a gente já estudou modelos são sete, então
+
+11
+00:00:37,560 --> 00:00:39,868
+essa camada de aplicação do TC p i p ela
+
+12
+00:00:39,880 --> 00:00:44,389
+vai executar as funções oh das camadas de apresentação,
+
+13
+00:00:44,399 --> 00:00:49,090
+sessão e aplicação modelo Você deve se lembrar oh que
+
+14
+00:00:49,098 --> 00:00:56,189
+essas três camadas lá do ose elas são relacionadasà
+
+15
+00:00:56,200 --> 00:01:00,389
+aplicação do TC p i p né? As três
+
+16
+00:01:00,399 --> 00:01:03,048
+se fundem formando a TC p i p ali então
+
+17
+00:01:03,060 --> 00:01:04,870
+a gente vai ter que passar como a gente tá
+
+18
+00:01:04,879 --> 00:01:07,168
+falando da camada de aplicação do TC p i p
+
+19
+00:01:07,180 --> 00:01:11,379
+a gente vai ter que também ver as funcionalidades dessas
+
+20
+00:01:11,388 --> 00:01:15,379
+duas camadas a mais aí pra você entender e fazer
+
+21
+00:01:15,388 --> 00:01:18,180
+aí né, A junção delas no no modelo de
+
+22
+00:01:18,189 --> 00:01:21,278
+quatro camadas tá A camada de aplicação pode ver aqui
+
+23
+00:01:21,290 --> 00:01:24,418
+Oh, são os protocolos utilizados pelos softwares, né?
+
+24
+00:01:24,430 --> 00:01:28,138
+Então quando você por exemplo, tá navegando utilizando um
+
+25
+00:01:28,150 --> 00:01:31,519
+navegador cê tá utilizando o protocolo h t t P
+
+26
+00:01:31,808 --> 00:01:34,459
+é o protocolo que você tá utilizando ali no software,
+
+27
+00:01:34,469 --> 00:01:37,620
+então assim dá até pra facilitar um pouquinho o entendimento
+
+28
+00:01:37,629 --> 00:01:41,698
+falando de uma maneira mais eh Eh simples de pô,
+
+29
+00:01:41,709 --> 00:01:44,000
+se eu tô usando um software e eu tô tendo
+
+30
+00:01:44,010 --> 00:01:48,058
+aquele aplicativo uma um contato direto com aquele protocolo,
+
+31
+00:01:48,069 --> 00:01:50,480
+o protocolo é de aplicação é o caso do f
+
+32
+00:01:50,489 --> 00:01:53,120
+t p oh, eu vou pro navegador digito ali
+
+33
+00:01:53,129 --> 00:01:55,838
+o o o protocolo f t p o endereço pra
+
+34
+00:01:55,849 --> 00:01:58,879
+estabelecer uma conexão né, o s m t p
+
+35
+00:01:58,888 --> 00:02:02,359
+Eu tô usando um software pra enviar e-mail o s
+
+36
+00:02:02,370 --> 00:02:04,519
+m t p não é isso faz o envio de
+
+37
+00:02:04,528 --> 00:02:09,949
+e-mail camada de aplicação, então dá pra entender que
+
+38
+00:02:09,960 --> 00:02:12,990
+quando o protocolo é voltado ali e faz a comunicação
+
+39
+00:02:13,000 --> 00:02:15,889
+diretamente com o software ele vai tá na camada mais
+
+40
+00:02:15,899 --> 00:02:18,929
+acima a camada sete do modelo o e a camada
+
+41
+00:02:18,939 --> 00:02:21,569
+quatro aí do TC p i p tá aí o
+
+42
+00:02:21,580 --> 00:02:25,569
+que acontece como a camada quatro de aplicação pega mais
+
+43
+00:02:25,580 --> 00:02:29,379
+duas camadas do o como a camada de apresentação Qual
+
+44
+00:02:29,389 --> 00:02:31,538
+que é essa função da camada de apresentação que no
+
+45
+00:02:31,550 --> 00:02:33,659
+o é a camada seis? Ela é a camada
+
+46
+00:02:33,669 --> 00:02:34,778
+que vai formatar os dados.
+
+47
+00:02:34,788 --> 00:02:37,899
+Tá vendo fornecido pela camada de aplicação do dispositivo de
+
+48
+00:02:37,909 --> 00:02:41,740
+origem, ou seja, em um formato compatível pra
+
+49
+00:02:41,750 --> 00:02:43,080
+o destino receber.
+
+50
+00:02:43,419 --> 00:02:46,909
+Então quando ele falar em formatar dados em lidar com
+
+51
+00:02:46,919 --> 00:02:49,110
+os dados, Por isso que a gente chama de
+
+52
+00:02:49,118 --> 00:02:52,588
+camada de apresentação, eu entendo que ela tá apresentando
+
+53
+00:02:52,599 --> 00:02:56,229
+os dados pra camada superior pra camada inferior quando no
+
+54
+00:02:56,240 --> 00:02:58,330
+caso do exemplo que ele tá enviando Oh, ela
+
+55
+00:02:58,338 --> 00:03:01,724
+comprime os dados também a serem transmitidos, então quando
+
+56
+00:03:01,735 --> 00:03:05,444
+vê a ideia de compressão e descompressão de dados,
+
+57
+00:03:05,455 --> 00:03:09,963
+isso também é feito pela camada de apresentação tá!
+
+58
+00:03:09,974 --> 00:03:15,804
+E quando também fala em criptografia dos dados na rede,
+
+59
+00:03:15,814 --> 00:03:20,284
+essa criptografia também é feita pela camada de apresentação,
+
+60
+00:03:20,294 --> 00:03:23,425
+então é sempre você entender que é a forma de
+
+61
+00:03:23,433 --> 00:03:29,118
+lidar com os dados comprimir, formatar tudo isso é
+
+62
+00:03:29,129 --> 00:03:32,838
+feito através dessa camada e a camada de número seis
+
+63
+00:03:32,849 --> 00:03:37,319
+tá então assim tá embutida na camada quatro né?
+
+64
+00:03:37,330 --> 00:03:40,050
+Do modelo TC p i p E qual seria a
+
+65
+00:03:40,058 --> 00:03:42,129
+ideia da criptografia? Tá vendo quando a gente fala
+
+66
+00:03:42,139 --> 00:03:46,058
+em criptografar dados Aluno nós temos dois protocolos famosos na
+
+67
+00:03:46,069 --> 00:03:48,764
+camada de apresentação, não o S S L e
+
+68
+00:03:48,774 --> 00:03:51,524
+o T L s, onde nós temos aí o
+
+69
+00:03:51,534 --> 00:03:53,344
+S S L, que é um protocolo bem antigo.
+
+70
+00:03:53,354 --> 00:03:57,544
+Oh tá descontinuado! Praticamente as aplicações não usam ele
+
+71
+00:03:57,554 --> 00:03:59,754
+aí né? Os sites que utilizam h t PS
+
+72
+00:03:59,764 --> 00:04:02,663
+hoje está sendo usado o t l S, que
+
+73
+00:04:02,675 --> 00:04:05,125
+é uma evolução aí do s S l tá vendo
+
+74
+00:04:05,133 --> 00:04:07,824
+oh então pegando aqui a ideia tá vendo oh cê
+
+75
+00:04:07,835 --> 00:04:11,149
+tem aqui o aplicação e o s e o t
+
+76
+00:04:11,159 --> 00:04:12,909
+l S estão abaixo, né? Que é a
+
+77
+00:04:12,919 --> 00:04:16,428
+camada de formatação camada de criptografia que vai dar a
+
+78
+00:04:16,439 --> 00:04:19,028
+criptografia para as aplicações acima.
+
+79
+00:04:19,040 --> 00:04:21,350
+Tá vendo por isso que vem antes e obviamente no
+
+80
+00:04:21,358 --> 00:04:24,048
+modelo TC p i p estão na mesma camada.
+
+81
+00:04:24,059 --> 00:04:25,838
+Oh lá, destaque tá vendo Oh, os protocolos
+
+82
+00:04:25,850 --> 00:04:30,639
+são capazes de estabelecer uma conexão segura entre duas entidades
+
+83
+00:04:30,649 --> 00:04:33,639
+e de garantir que dois aplicativos né lá consigam se
+
+84
+00:04:33,649 --> 00:04:37,920
+comunicar, garantindo que a confidencialidade e a autenticidade dos
+
+85
+00:04:37,928 --> 00:04:39,420
+dados no canal de comunicação.
+
+86
+00:04:39,428 --> 00:04:43,048
+Então a importância da camada seis, né? Olha
+
+87
+00:04:43,059 --> 00:04:46,759
+a importância da camada de apresentação aí que nós temos
+
+88
+00:04:46,769 --> 00:04:49,220
+no modelo onze e obviamente embutido o modelo TC P
+
+89
+00:04:49,230 --> 00:04:52,540
+i p na camada quatro é isso? Você consegue
+
+90
+00:04:52,548 --> 00:04:56,170
+fazer a criptografia consegue fazer a segurança dos dados.
+
+91
+00:04:56,178 --> 00:04:58,470
+Quando você entrou aí na no site do Gran na
+
+92
+00:04:58,480 --> 00:05:00,970
+faculdade pra fazer sua matrícula, você pode ver que
+
+93
+00:05:00,980 --> 00:05:03,449
+tá sendo operado ali na aplicação h t t PS
+
+94
+00:05:03,459 --> 00:05:06,230
+mas lá na camada seis, cê tem um protocolo
+
+95
+00:05:06,238 --> 00:05:10,488
+T L s fazendo essa criptografia dos dados fazendo esse
+
+96
+00:05:10,500 --> 00:05:13,949
+embaralhamento aí dos dados perfeito.
+
+97
+00:05:14,889 --> 00:05:18,259
+Aí vamos dar uma olhada na camada de sessão Camada
+
+98
+00:05:18,269 --> 00:05:20,579
+de sessão Oh é que vai processar a troca de
+
+99
+00:05:20,588 --> 00:05:23,858
+informações para iniciar os diálogos.
+
+100
+00:05:23,869 --> 00:05:26,980
+Por isso chama sessão estabelecimento é sessão, vai manter
+
+101
+00:05:26,988 --> 00:05:31,100
+ativo e vai reiniciar sessões interrompidas ou ociosas por um
+
+102
+00:05:31,108 --> 00:05:31,778
+tempo.
+
+103
+00:05:31,790 --> 00:05:35,944
+Então quando você vai trabalhar com a que você vai
+
+104
+00:05:35,954 --> 00:05:39,024
+fazer uma comunicação, né? Antes de entrar o
+
+105
+00:05:39,035 --> 00:05:42,834
+protocolo de aplicação, você vai ter ali o estabelecimento
+
+106
+00:05:42,845 --> 00:05:45,545
+da CA da sessão, né? Você vai estabelecer
+
+107
+00:05:45,553 --> 00:05:49,213
+a comunicação entre as máquinas, origem e destino,
+
+108
+00:05:49,225 --> 00:05:52,384
+então isso aí também já faz parte da sessão,
+
+109
+00:05:52,394 --> 00:05:56,488
+que é a camada cinco do modelo onze que está
+
+110
+00:05:56,500 --> 00:05:59,608
+embutida na camada quatro TC p I p camada de
+
+111
+00:05:59,619 --> 00:06:03,928
+aplicação perfeito entendidos E olha que interessante essa situação aí
+
+112
+00:06:03,939 --> 00:06:07,209
+oh, o núcleo do desenvolvimento de aplicação de rede
+
+113
+00:06:07,220 --> 00:06:11,290
+é escrever o quê? Programas que rodem sistemas finais
+
+114
+00:06:11,298 --> 00:06:14,119
+diferentes e se comuniquem entre si.
+
+115
+00:06:14,129 --> 00:06:15,939
+Então quando a gente fala do núcleo de desenvolvimento,
+
+116
+00:06:15,949 --> 00:06:18,548
+de aplicação, né? Ou seja, da camada
+
+117
+00:06:18,559 --> 00:06:21,689
+sete, camada quatro do TC P i p é
+
+118
+00:06:21,699 --> 00:06:24,769
+pra isso você conseguir escrever programas que vão rodar em
+
+119
+00:06:24,778 --> 00:06:28,730
+sistemas finais diferentes com entre si Então eu tenho aqui
+
+120
+00:06:28,738 --> 00:06:32,129
+um um i O s você tem um Android ou
+
+121
+00:06:32,139 --> 00:06:36,250
+vice-versa e a gente consegue ali se comunicar ambos,
+
+122
+00:06:36,259 --> 00:06:41,129
+fazer a comunicação Tá bom, perfeito é isso aí
+
+123
+00:06:41,139 --> 00:06:44,949
+aluno e eu separei pra você um desafio é a
+
+124
+00:06:44,959 --> 00:06:47,790
+nossa questão do dia, olha lá pra você treinar
+
+125
+00:06:48,009 --> 00:06:52,809
+no modelo Tá vendo? A compressão de dados é
+
+126
+00:06:52,819 --> 00:06:57,949
+um exemplo de serviço fornecido pela camada de apresentação,
+
+127
+00:06:57,959 --> 00:07:00,350
+então aqui a gente tá indo pro modelo onze modelo
+
+128
+00:07:00,358 --> 00:07:03,410
+seis Mas como a gente também tá falando do modelo
+
+129
+00:07:03,420 --> 00:07:07,548
+TC p i p modelo quatro aplicação, né Opa,
+
+130
+00:07:07,559 --> 00:07:10,028
+eu tô escrevendo aqui em cima de mim Perdão deixa
+
+131
+00:07:10,040 --> 00:07:13,189
+eu voltar aqui, fui olhar pra tela, volta
+
+132
+00:07:13,199 --> 00:07:16,189
+volta volta aqui aqui aqui, oh, vamos puxar
+
+133
+00:07:16,199 --> 00:07:23,189
+aqui aqui é o modelo quatro camada de aplicação do
+
+134
+00:07:23,199 --> 00:07:26,959
+modelo TC Pape Perfeito.
+
+135
+00:07:26,970 --> 00:07:29,399
+Então nós vemos que tá correto isso aí né?
+
+136
+00:07:29,410 --> 00:07:32,720
+Porque quando ele fala em comprimir dados, quando ele
+
+137
+00:07:32,730 --> 00:07:36,259
+fala em criptografar dados, é essa camada aí que
+
+138
+00:07:36,269 --> 00:07:41,040
+vai eh representar tranquilo temos mais uma temos temos mais
+
+139
+00:07:41,048 --> 00:07:44,100
+uma aí pra você Olha lá no modelo de referência
+
+140
+00:07:44,108 --> 00:07:50,290
+o a gente pode converter modelo TC p i p
+
+141
+00:07:50,298 --> 00:07:54,149
+tá lá em cima! Cabe ao nível de sessão
+
+142
+00:07:54,160 --> 00:08:02,579
+realizar transformações tais como compressão e criptografia nos dados é
+
+143
+00:08:02,588 --> 00:08:06,660
+a sessão que faz criptografia que faz a compressão não,
+
+144
+00:08:06,670 --> 00:08:10,399
+né? No modelo, o é a camada de
+
+145
+00:08:11,170 --> 00:08:16,838
+apresentação e no modelo TC p i p camada de
+
+146
+00:08:16,850 --> 00:08:17,660
+aplicação.
+
+147
+00:08:17,670 --> 00:08:19,778
+Então temos um erro.
+
+148
+00:08:19,790 --> 00:08:24,040
+Aí questão se torna errada, tranquilo.
+
+149
+00:08:24,048 --> 00:08:25,920
+É isso grande abraço.
+

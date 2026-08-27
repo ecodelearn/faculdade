@@ -1,0 +1,768 @@
+1
+00:00:06,519 --> 00:00:10,898
+olá pessoal, Bem-vindos, novamente vamos continuar falando da
+
+2
+00:00:10,909 --> 00:00:15,419
+nossa gestão de processo E agora nós vamos falar sobre
+
+3
+00:00:15,429 --> 00:00:19,250
+a introdução de do da gestão de processos mais da
+
+4
+00:00:19,260 --> 00:00:22,809
+perspectiva do ciclo de vida, da gestão de processo,
+
+5
+00:00:22,818 --> 00:00:26,559
+né? Então, vamos fazer essa caminhada pra entender
+
+6
+00:00:26,568 --> 00:00:29,839
+cada uma das partes, do ciclo de vida,
+
+7
+00:00:29,850 --> 00:00:31,039
+da gestão de processo.
+
+8
+00:00:31,048 --> 00:00:34,939
+Okay, vamos lá? Então eh, a primeira
+
+9
+00:00:34,950 --> 00:00:36,658
+coisa que a gente tem que entender é que ah,
+
+10
+00:00:36,668 --> 00:00:39,740
+eu posso implementar, né? EH, eh uma
+
+11
+00:00:39,750 --> 00:00:43,990
+estratégia, mesmo que ela seja a melhor possível,
+
+12
+00:00:44,000 --> 00:00:48,658
+mas se não tiver vinculada a um processo operacional e
+
+13
+00:00:48,668 --> 00:00:54,529
+de governança eu com certeza, eu não vou eh
+
+14
+00:00:54,539 --> 00:00:55,298
+sair muito longe.
+
+15
+00:00:55,310 --> 00:00:59,079
+Então, é impossível que eu implemente qualquer estratégia qualquer
+
+16
+00:00:59,090 --> 00:01:02,750
+que seja, mesmo que sem que essa esteja vinculada
+
+17
+00:01:02,759 --> 00:01:04,948
+a processos eficientes.
+
+18
+00:01:04,959 --> 00:01:08,049
+Eficazes, né, bem como a governança Na verdade,
+
+19
+00:01:08,058 --> 00:01:10,388
+isso não é nem uma fala minha, Tá okay!
+
+20
+00:01:10,400 --> 00:01:13,430
+Essa é a fala do Porter também, que é
+
+21
+00:01:13,439 --> 00:01:17,088
+outro eh estrategista, pensador.
+
+22
+00:01:17,299 --> 00:01:20,948
+Ah, dentro do do contexto da administração moderna que
+
+23
+00:01:20,959 --> 00:01:22,888
+nós temos aí, né? Então tá lá oh!
+
+24
+00:01:22,900 --> 00:01:26,870
+É impossível se implementar uma estratégia, mesmo que a
+
+25
+00:01:26,879 --> 00:01:31,668
+melhor, se essa não estiver vinculada a excelentes processos
+
+26
+00:01:31,680 --> 00:01:34,189
+operacionais e de governança.
+
+27
+00:01:34,198 --> 00:01:36,219
+Tudo nasce num no processo.
+
+28
+00:01:36,230 --> 00:01:39,668
+Então um processo mal feito, mal escrito, mal
+
+29
+00:01:39,680 --> 00:01:45,040
+definido, com certeza vai gerar um resultado inadequado.
+
+30
+00:01:45,049 --> 00:01:49,638
+Vai gerar um resultado eh ineficiente tanto do ponto de
+
+31
+00:01:49,650 --> 00:01:56,569
+vista eh tanto do ponto de vista organizacional como resultados
+
+32
+00:01:56,579 --> 00:01:59,909
+para a organização, bem como do ponto de vista
+
+33
+00:01:59,918 --> 00:02:04,168
+do atendimento ao meu cliente da manutenção desse cliente.
+
+34
+00:02:04,180 --> 00:02:07,989
+Então, se já nasce errado, se já nasce
+
+35
+00:02:08,000 --> 00:02:11,149
+mal construído, se já não foi bem feito ali,
+
+36
+00:02:11,159 --> 00:02:14,618
+o resto pra frente, com certeza não vai ser
+
+37
+00:02:14,629 --> 00:02:17,758
+eh adequado, não vai atender as expectativas, Tá
+
+38
+00:02:17,770 --> 00:02:19,778
+okay, Então se não tem uma, é igual
+
+39
+00:02:19,788 --> 00:02:20,278
+a casa.
+
+40
+00:02:20,288 --> 00:02:22,258
+A casa que não tem uma boa fundação.
+
+41
+00:02:22,270 --> 00:02:25,919
+Na primeira tempestade ela vai embora Okay.
+
+42
+00:02:25,929 --> 00:02:28,460
+Então por que também falar de Implemen? É impossível
+
+43
+00:02:28,469 --> 00:02:33,819
+se implementar uma estratégia porque a estratégia é o ponto
+
+44
+00:02:33,830 --> 00:02:39,069
+focal daquilo que a minha organização entrega, que é
+
+45
+00:02:39,080 --> 00:02:40,250
+a estratégia.
+
+46
+00:02:40,258 --> 00:02:44,288
+É a forma como ela vai definir os objetivos e
+
+47
+00:02:44,300 --> 00:02:47,849
+eh organizacionais a forma como ela vai fazer com que
+
+48
+00:02:47,860 --> 00:02:51,008
+aquilo aconteça dentro da da organização, então ela tem
+
+49
+00:02:51,020 --> 00:02:53,028
+que tá focada em um processo operacional.
+
+50
+00:02:53,038 --> 00:02:54,588
+Agora não é só fazer o processo.
+
+51
+00:02:55,050 --> 00:02:56,919
+Porter fala que ele fala eh ele.
+
+52
+00:02:56,929 --> 00:03:00,278
+Ele cita também de governança.
+
+53
+00:03:00,288 --> 00:03:05,899
+Governança, pressupõe gestão, pressupõe controle porque não é
+
+54
+00:03:05,909 --> 00:03:10,500
+só fazer, é executar, é manter, é
+
+55
+00:03:10,508 --> 00:03:12,460
+melhorar continuamente.
+
+56
+00:03:12,469 --> 00:03:16,689
+E isso só é só é possível fazer por meio
+
+57
+00:03:16,699 --> 00:03:19,800
+da governança, por meio da da gestão.
+
+58
+00:03:20,569 --> 00:03:25,300
+É governar, quer dizer, controlar aquilo, garantir
+
+59
+00:03:25,308 --> 00:03:29,710
+que tudo aquilo que eu defini como pressuposto pra minha
+
+60
+00:03:29,719 --> 00:03:34,618
+organização está acontecendo, tal como foi planejado, tal
+
+61
+00:03:34,629 --> 00:03:39,740
+como foi estruturado, Tal como a estratégia foi construída,
+
+62
+00:03:39,750 --> 00:03:45,849
+eu não posso me abster de entender essa de construir
+
+63
+00:03:45,860 --> 00:03:50,389
+essa estratégia em cima de um processo sólido que posteriormente
+
+64
+00:03:50,399 --> 00:03:53,169
+vai passar pela governança.
+
+65
+00:03:53,179 --> 00:03:56,569
+Vai passar pela gestão, vai passar pelo controle,
+
+66
+00:03:56,580 --> 00:03:58,229
+tem monitoramento.
+
+67
+00:03:58,240 --> 00:04:02,429
+Tem tudo que faz com que aquilo que eu defini,
+
+68
+00:04:02,439 --> 00:04:06,729
+que aquilo que eu construí vai tá acontecendo de exatamente
+
+69
+00:04:06,740 --> 00:04:11,649
+como eu estruturei como eu pensei, okay, bom,
+
+70
+00:04:12,528 --> 00:04:15,740
+eh Olha que isso não é um pensamento meu,
+
+71
+00:04:15,750 --> 00:04:17,500
+né? A gente só tá traduzindo aqui o O
+
+72
+00:04:17,509 --> 00:04:19,660
+que o, O que os grandes pensadores falam,
+
+73
+00:04:19,670 --> 00:04:21,980
+que na verdade é o que a gente vive no
+
+74
+00:04:21,988 --> 00:04:24,160
+mundo moderno? Hoje em dia tá, Então eh.
+
+75
+00:04:24,170 --> 00:04:27,338
+Quando a gente fala Ah, de processo.
+
+76
+00:04:27,350 --> 00:04:29,579
+A gente tá falando de uma ponte pra entrega de
+
+77
+00:04:29,588 --> 00:04:31,720
+valor aos clientes e parceiros.
+
+78
+00:04:31,730 --> 00:04:35,009
+Olha só entrega de valor, né? Eh!
+
+79
+00:04:35,019 --> 00:04:38,678
+Antigamente a gente falava assim você eh, era entrega
+
+80
+00:04:38,689 --> 00:04:39,480
+de produto.
+
+81
+00:04:39,488 --> 00:04:41,600
+Vou entregar um produto, vou vender um produto pro
+
+82
+00:04:41,608 --> 00:04:43,689
+meu cliente, Eu vou entregar um produto? Então
+
+83
+00:04:43,699 --> 00:04:45,480
+eh, você ia lá, comprava um celular,
+
+84
+00:04:45,488 --> 00:04:47,619
+você saia da loja com o produto.
+
+85
+00:04:48,619 --> 00:04:51,269
+Se aquele celular funcionava, se perdia.
+
+86
+00:04:51,278 --> 00:04:55,410
+Sinal se ele não fazia o que tinha que fazer,
+
+87
+00:04:55,420 --> 00:04:58,629
+cê entregou o produto e muitas das vezes, né
+
+88
+00:04:58,639 --> 00:05:00,509
+A gente! Nós íamosà loja e não tínhamos
+
+89
+00:05:00,519 --> 00:05:03,970
+sequer direitos, né? E aí veio o o
+
+90
+00:05:03,980 --> 00:05:07,608
+Código do Consumidor veio uma o um montão de perspectiva
+
+91
+00:05:07,619 --> 00:05:10,850
+e aí as com a concorrência, a globalização.
+
+92
+00:05:10,858 --> 00:05:12,928
+E aí no meio disso tudo, a gente começou
+
+93
+00:05:12,939 --> 00:05:14,528
+a entender o seguinte As empresas começaram a entender assim
+
+94
+00:05:14,540 --> 00:05:15,850
+tá, eu tô entregando o valor.
+
+95
+00:05:15,858 --> 00:05:18,910
+O que faz o cliente vir comprar na minha empresa?
+
+96
+00:05:18,920 --> 00:05:22,809
+O que faz eu optar pela marca A ao invés
+
+97
+00:05:22,819 --> 00:05:25,170
+da marca? B? O que é? Isso?
+
+98
+00:05:25,178 --> 00:05:30,129
+Significa para o meu cliente? Isso significa entrega de
+
+99
+00:05:30,139 --> 00:05:32,829
+valor? Isso é feito? Significa isso.
+
+100
+00:05:32,838 --> 00:05:34,750
+Isso acontece por meio da entrega de valor.
+
+101
+00:05:34,759 --> 00:05:37,069
+O que faz você comprar o celular? X,
+
+102
+00:05:37,079 --> 00:05:41,838
+invés do Y ou do carro X do carro Y
+
+103
+00:05:41,850 --> 00:05:44,389
+E você, vocês vão perceber, né? Ou
+
+104
+00:05:44,399 --> 00:05:48,189
+já perceberam? Claro, nessa questão dessa dessa perspectiva
+
+105
+00:05:48,199 --> 00:05:51,230
+de entrega, de valor é que existem algumas marcas
+
+106
+00:05:51,238 --> 00:05:54,189
+que são mais desejadas que as demais e por isso
+
+107
+00:05:54,199 --> 00:05:57,548
+a A a, a empresa, a organização cobra
+
+108
+00:05:57,559 --> 00:05:59,928
+até mais caro E você paga por isso.
+
+109
+00:06:00,379 --> 00:06:02,670
+Por que? Porque você enxergou a entrega de valor
+
+110
+00:06:02,678 --> 00:06:05,939
+naquilo? Então o processo é justamente isso a ponte
+
+111
+00:06:05,949 --> 00:06:09,309
+pra essa entrega de valor tanto para o meu cliente
+
+112
+00:06:09,319 --> 00:06:13,389
+como para os meus parceiros, aqueles que atuam junto
+
+113
+00:06:13,399 --> 00:06:14,730
+comigo, né.
+
+114
+00:06:14,738 --> 00:06:18,009
+Que acompanham o meu processo que faz, que participam
+
+115
+00:06:18,019 --> 00:06:19,369
+do meu processo.
+
+116
+00:06:19,379 --> 00:06:22,369
+Okay Então entrega de valor é a palavra hoje eh
+
+117
+00:06:22,379 --> 00:06:23,129
+assim.
+
+118
+00:06:23,139 --> 00:06:27,629
+Base pra qualquer, eh organização, né? Quando
+
+119
+00:06:27,639 --> 00:06:30,569
+a gente fala também de b PM que a gente
+
+120
+00:06:30,579 --> 00:06:32,009
+já viu que significa o B.
+
+121
+00:06:32,019 --> 00:06:35,988
+PM, né? Esse ciclo de vida, né?
+
+122
+00:06:36,000 --> 00:06:38,389
+Eh da gestão de processo, ele é um.
+
+123
+00:06:38,399 --> 00:06:39,689
+Ele é um um um.
+
+124
+00:06:39,699 --> 00:06:45,369
+Um processo composto aí de eh cinco fases que elas
+
+125
+00:06:45,379 --> 00:06:49,569
+trabalham ou permite essa gestão eficiente desse processo, né?
+
+126
+00:06:49,579 --> 00:06:52,410
+Essas cinco fases são primeiro aqui, oh, alinhamento
+
+127
+00:06:52,420 --> 00:06:53,309
+a estratégia.
+
+128
+00:06:53,319 --> 00:06:56,369
+Então a primeira coisa que você tem que definir é
+
+129
+00:06:56,379 --> 00:06:59,329
+a sua estratégia, como voc como a sua empresa
+
+130
+00:06:59,338 --> 00:07:02,970
+está organizada, Qual é a estratégia organizacional e isso
+
+131
+00:07:02,980 --> 00:07:06,488
+você tem que considerar que por trás da sua estratégia
+
+132
+00:07:06,500 --> 00:07:09,009
+organizacional, você vai ter um processo bem definido e
+
+133
+00:07:09,019 --> 00:07:11,129
+uma entrega de valor lá no final? Tá,
+
+134
+00:07:11,139 --> 00:07:13,988
+então a fase para o ciclo de vida do B
+
+135
+00:07:14,000 --> 00:07:17,470
+M M começa com o alinhamento, a estratégia e
+
+136
+00:07:17,480 --> 00:07:17,949
+metas.
+
+137
+00:07:17,959 --> 00:07:20,509
+Então você define a estratégia da sua organização e as
+
+138
+00:07:20,519 --> 00:07:22,269
+metas das suas, da sua organização.
+
+139
+00:07:22,278 --> 00:07:26,428
+Então Fase Um fase dois é a parte a parte
+
+140
+00:07:26,439 --> 00:07:29,028
+de mudanças de arquitetura, né? Como isso vai
+
+141
+00:07:29,040 --> 00:07:34,238
+perceber mudança de arquitetura? Eh, eh que vai
+
+142
+00:07:34,250 --> 00:07:37,220
+advir dos processos que você tá? Tá definindo,
+
+143
+00:07:37,230 --> 00:07:38,798
+tá, eh A.
+
+144
+00:07:38,809 --> 00:07:43,858
+A terceira fase é desenvolver iniciativas essas fases, né?
+
+145
+00:07:43,869 --> 00:07:46,238
+Vão ser detalhadas um pouquinho mais adiante? Tá,
+
+146
+00:07:46,250 --> 00:07:48,559
+Mas vamos lá, Pô, só pra conhecer o
+
+147
+00:07:48,569 --> 00:07:50,480
+o, o o, o, o enten entender
+
+148
+00:07:50,488 --> 00:07:53,160
+um pouco eh essas fases aqui, né? Desenvolver
+
+149
+00:07:53,170 --> 00:07:55,319
+iniciativas faz parte da fase.
+
+150
+00:07:55,329 --> 00:07:58,798
+Eh fase três, né? Esse desenvolver eh iniciativas
+
+151
+00:07:58,809 --> 00:08:03,509
+tem perspectivas relacionadas Aí? Ah, ah, por
+
+152
+00:08:03,519 --> 00:08:08,028
+exemplo, a parte de gestão, de processo,
+
+153
+00:08:08,040 --> 00:08:10,488
+de treinamento, gestão, de mudança, de projeto,
+
+154
+00:08:10,500 --> 00:08:12,119
+enfim, algumas perspectivas.
+
+155
+00:08:12,129 --> 00:08:13,720
+Outro né.
+
+156
+00:08:13,730 --> 00:08:17,838
+Eh implementar mudanças quando a gente fala de implementar mudança,
+
+157
+00:08:18,069 --> 00:08:19,278
+que é essa fase.
+
+158
+00:08:19,290 --> 00:08:19,678
+Quatro.
+
+159
+00:08:19,689 --> 00:08:24,079
+Aqui eu tô falando de mudança na organização, na
+
+160
+00:08:24,088 --> 00:08:28,238
+função, processo de treinamento, de trabalho, entrada
+
+161
+00:08:28,250 --> 00:08:31,199
+de operação de tecnologia, ou seja, são sites
+
+162
+00:08:31,209 --> 00:08:34,899
+que vão me permitir fazer uma gestão adequada do meu
+
+163
+00:08:34,908 --> 00:08:35,940
+processo.
+
+164
+00:08:35,950 --> 00:08:38,563
+E, por último, aqui a fase cinco,
+
+165
+00:08:38,572 --> 00:08:42,563
+não menos importante medir o sucesso, então eh medir
+
+166
+00:08:42,572 --> 00:08:44,984
+o sucesso tem a ver com o que se aquilo
+
+167
+00:08:44,994 --> 00:08:48,543
+você que você tá que você pressupôs e definiu ali
+
+168
+00:08:48,553 --> 00:08:52,023
+realmente, né? Eh, trouxe benefício, né?
+
+169
+00:08:52,033 --> 00:08:55,322
+Se aquilo foi feito de forma correta, definir um
+
+170
+00:08:55,332 --> 00:08:57,563
+plano de melhoria contínua, então ve, vejam só
+
+171
+00:08:58,340 --> 00:09:00,149
+nós temos aqui um um, um um, um
+
+172
+00:09:00,158 --> 00:09:03,428
+conjunto que não não, Não, não, não
+
+173
+00:09:03,440 --> 00:09:05,009
+termina nele mesmo.
+
+174
+00:09:05,019 --> 00:09:08,710
+Ele continua dentro dessa perspectiva, né, Ele,
+
+175
+00:09:08,719 --> 00:09:08,908
+ele.
+
+176
+00:09:08,918 --> 00:09:10,710
+Ele volta a se medir o sucesso.
+
+177
+00:09:10,719 --> 00:09:12,788
+Você tem a fase de de planejamento, de melhoria
+
+178
+00:09:12,798 --> 00:09:16,788
+contínua e você vai estar sempre olhando pra esse ciclo
+
+179
+00:09:16,798 --> 00:09:19,029
+de vida aqui, tá.
+
+180
+00:09:19,038 --> 00:09:21,590
+Então Ah, toda vez que você tá trabalhando num
+
+181
+00:09:21,599 --> 00:09:23,969
+processo, se você mudar, por exemplo, aqui,
+
+182
+00:09:23,979 --> 00:09:26,548
+uma estratégia organizacional, uma meta.
+
+183
+00:09:26,558 --> 00:09:29,298
+Você vai ter que reverter o processo e você vai
+
+184
+00:09:29,308 --> 00:09:31,590
+pass vai, Vai olhar a fase dois novamente Vai
+
+185
+00:09:31,599 --> 00:09:33,989
+olhar a fase três novamente vai implementar a mudança vai
+
+186
+00:09:34,000 --> 00:09:38,048
+medir o sucesso E assim é um ciclo eh contínuo
+
+187
+00:09:38,058 --> 00:09:41,769
+dentro dessa realização do ciclo de vida de atividades.
+
+188
+00:09:41,779 --> 00:09:44,969
+É um ciclo contínuo na não é estático porque on
+
+189
+00:09:45,038 --> 00:09:49,529
+o mundo não é estático, então a gente vive
+
+190
+00:09:49,538 --> 00:09:53,038
+no mundo em constante mudança em constante atualização, e
+
+191
+00:09:53,048 --> 00:09:56,288
+a organização acompanha isso por meio das suas estratégias e
+
+192
+00:09:56,298 --> 00:10:01,349
+das suas metas também okay! Obrigado até a próxima!
+

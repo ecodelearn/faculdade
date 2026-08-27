@@ -1,0 +1,644 @@
+1
+00:00:05,879 --> 00:00:09,409
+Olá aluno! Sou professor Fabrício Melo isso informática,
+
+2
+00:00:09,419 --> 00:00:11,409
+vamos lá com nossa camada de enlace de dados.
+
+3
+00:00:11,419 --> 00:00:16,929
+Agora a internet é oitocentos e dois características de que
+
+4
+00:00:16,940 --> 00:00:18,850
+vamos falar das características? Oh, tá na sua
+
+5
+00:00:18,859 --> 00:00:23,408
+tela da camada de enlace exatamente camada dois do modelo
+
+6
+00:00:23,420 --> 00:00:26,568
+OSE, onde nós já passamos por essas camadas.
+
+7
+00:00:26,579 --> 00:00:31,388
+Agora vamos topar um pouquinho com as características dessa camada
+
+8
+00:00:31,399 --> 00:00:34,459
+de enlace que é uma camada importantíssima no modelo OSE
+
+9
+00:00:34,469 --> 00:00:38,179
+Cê vai perceber a importância dessa camada aí tá na
+
+10
+00:00:38,189 --> 00:00:41,469
+rede! Olha só essa camada aluno é pra descrever
+
+11
+00:00:41,478 --> 00:00:46,020
+OH! Características e conceitos relativosà organização dos bits
+
+12
+00:00:46,029 --> 00:00:49,728
+lembra dos bits lá da camada um eh eh conjunto
+
+13
+00:00:49,740 --> 00:00:53,490
+significativo de dados OH como que endereçá los ao dispositivo
+
+14
+00:00:53,500 --> 00:00:56,348
+de destino? E como controlar essa comunicação, Ou
+
+15
+00:00:56,359 --> 00:00:59,228
+seja, como a camada de enlace vai ser responsável
+
+16
+00:00:59,240 --> 00:01:03,149
+pelo endereço físico da placa de rede, então é
+
+17
+00:01:03,158 --> 00:01:05,909
+ela que vai fazer esse bem bolado aí da camada
+
+18
+00:01:05,918 --> 00:01:10,760
+um dos bits pra subir e transformar na parte aí
+
+19
+00:01:10,769 --> 00:01:13,638
+que a placa de rede vai ser identificada e olha
+
+20
+00:01:13,650 --> 00:01:17,430
+só quais são os principais aspectos dessa camada Oh lá
+
+21
+00:01:17,439 --> 00:01:19,799
+Topologias lógicas é por conta dela.
+
+22
+00:01:19,808 --> 00:01:22,918
+Lembra que a gente falou da das topologias físicas que
+
+23
+00:01:22,930 --> 00:01:24,400
+é o layout físico.
+
+24
+00:01:24,409 --> 00:01:26,558
+E também temos as topologias lógicas, que é o
+
+25
+00:01:26,569 --> 00:01:29,719
+meio, como os dispositivos trocam informações, né?
+
+26
+00:01:29,730 --> 00:01:32,549
+Controle de acesso ao meio Então é ela que vai
+
+27
+00:01:32,558 --> 00:01:35,609
+ter o sistema de controlar o acesso ao meio.
+
+28
+00:01:35,620 --> 00:01:37,948
+Endereçamento físico que eu acabei de falar, que é
+
+29
+00:01:37,959 --> 00:01:40,829
+o famoso Mac ADRs, que é o endereço físico
+
+30
+00:01:40,838 --> 00:01:43,989
+que todo dispositivo de rede tem que ter pra identificar
+
+31
+00:01:44,000 --> 00:01:45,790
+já sai de fábrica com esse endereço.
+
+32
+00:01:45,799 --> 00:01:49,588
+Serviços de conexão também é com a camada de enlace
+
+33
+00:01:49,599 --> 00:01:52,859
+Endereçamento OH de protocolos da camada de rede.
+
+34
+00:01:52,870 --> 00:01:56,338
+Tá vendo ela que vai fazer lá a interface com
+
+35
+00:01:56,349 --> 00:01:59,010
+os protocolos da camada três né? Que é o
+
+36
+00:01:59,019 --> 00:02:00,459
+i p o I p v quatro i p v
+
+37
+00:02:00,469 --> 00:02:02,579
+seis, por exemplo, tá, e olha só
+
+38
+00:02:02,588 --> 00:02:05,939
+a detecção de erros e descarte de pacotes também é
+
+39
+00:02:05,948 --> 00:02:07,099
+feito na camada dois.
+
+40
+00:02:07,109 --> 00:02:09,639
+Exatamente eu sempre faço aquela comparação.
+
+41
+00:02:09,649 --> 00:02:11,710
+Como eu falei da camada um é como se fosse
+
+42
+00:02:11,719 --> 00:02:14,528
+um cano que tá correndo uma água ali pura.
+
+43
+00:02:14,538 --> 00:02:16,169
+Os bits não interessa.
+
+44
+00:02:16,179 --> 00:02:18,929
+Se a água tá suja tá limpa a camadinha lá
+
+45
+00:02:18,939 --> 00:02:22,969
+seria como se colocasse um filtro pra pegar as impurezas.
+
+46
+00:02:22,979 --> 00:02:25,179
+Seria mais ou menos a detecção de erros e o
+
+47
+00:02:25,189 --> 00:02:26,099
+descarga de pacotes.
+
+48
+00:02:26,110 --> 00:02:28,969
+Você vê que cê tá subindo aí de camada okay
+
+49
+00:02:28,979 --> 00:02:32,649
+e essa camada ela é dividida ela subdivide, né?
+
+50
+00:02:32,659 --> 00:02:35,449
+Em mais duas sub camadas toma cuidado com isso,
+
+51
+00:02:35,460 --> 00:02:37,868
+então olha aqui o desenho Oh cê tem enlace no
+
+52
+00:02:37,879 --> 00:02:40,849
+enlace Cê tem aí duas sub camadas isso aí você
+
+53
+00:02:40,860 --> 00:02:42,588
+tem que saber que é a L f c e
+
+54
+00:02:42,599 --> 00:02:46,710
+a mac l l c Quer dizer vamos conversar com
+
+55
+00:02:46,719 --> 00:02:49,538
+a MAC, tá nesses aqui que é a contra
+
+56
+00:02:49,550 --> 00:02:52,389
+o controle de acesso aí ao meio ela vai descrever
+
+57
+00:02:52,399 --> 00:02:55,849
+o que as topologias lógicas ela que é responsável por
+
+58
+00:02:55,860 --> 00:03:00,308
+fazer a descrição dessas topologias lógicas e os procedimentos de
+
+59
+00:03:00,319 --> 00:03:02,580
+acesso ao meio, né? E quem? E
+
+60
+00:03:02,588 --> 00:03:06,229
+ao endereçamento tá? E a sub camada L L
+
+61
+00:03:06,240 --> 00:03:08,409
+c que a gente chama de controle lógico do link
+
+62
+00:03:08,419 --> 00:03:12,610
+de enlace vai descrever quem os serviços de conexão,
+
+63
+00:03:12,618 --> 00:03:15,860
+ou seja, o controle da comunicação no enlace de
+
+64
+00:03:15,868 --> 00:03:17,929
+dados, como que seria isso? Olha só nesse
+
+65
+00:03:17,939 --> 00:03:20,288
+desenho aqui Oh a l l C, que é
+
+66
+00:03:20,300 --> 00:03:24,528
+responsável por todos os protocolos oitocentos e dois tá vendo
+
+67
+00:03:24,538 --> 00:03:27,210
+então no geral oitocentos e dois l l C que
+
+68
+00:03:27,219 --> 00:03:30,806
+é responsável e a mec é onde você distribui esses
+
+69
+00:03:30,817 --> 00:03:33,348
+protocolos, como por exemplo lá o protocolo é a
+
+70
+00:03:33,358 --> 00:03:34,926
+internet, que é o cabe a do oitocentos e
+
+71
+00:03:34,937 --> 00:03:37,328
+dois ponto três o toque em que é oitocentos e
+
+72
+00:03:37,336 --> 00:03:40,967
+dois ponto quatro O que é oitocentos dois ponto cinco.
+
+73
+00:03:40,977 --> 00:03:43,306
+A wifi tá vendo também trabalha com a rede sem
+
+74
+00:03:43,317 --> 00:03:45,187
+fio, que é oitocentos e dois ponto onze,
+
+75
+00:03:45,197 --> 00:03:48,268
+o Bluetooth que é o quinze e a IMAX também,
+
+76
+00:03:48,276 --> 00:03:50,388
+que é o sistema de rede metropolitana sem fio.
+
+77
+00:03:50,396 --> 00:03:51,866
+Oitocentos dois ponto dezesseis.
+
+78
+00:03:51,877 --> 00:03:55,216
+Aí você pro professor, mas a camada física também
+
+79
+00:03:55,224 --> 00:03:59,115
+tá aparecendo sim, oh atenção aí oh os protocolos
+
+80
+00:03:59,126 --> 00:04:02,085
+da sub camada Mec aluno, além de escreverem as
+
+81
+00:04:02,094 --> 00:04:05,265
+funções relacionadas ao controle de acesso ao meio que é
+
+82
+00:04:05,276 --> 00:04:08,004
+o oitocentos dois ponto dois, tá vendo também vão
+
+83
+00:04:08,015 --> 00:04:12,585
+descrever as características físicas dessas interfaces, por isso estão
+
+84
+00:04:12,594 --> 00:04:16,005
+mostrados na figura, associando também a camada um do
+
+85
+00:04:16,014 --> 00:04:16,755
+modelo.
+
+86
+00:04:16,764 --> 00:04:20,043
+O tá toma cuidado com isso aí, perfeito.
+
+87
+00:04:20,052 --> 00:04:22,742
+E como que funciona? A sub camada L L
+
+88
+00:04:22,752 --> 00:04:25,062
+c que trabalha lá com oitocentos dois ponto dois Oh
+
+89
+00:04:25,074 --> 00:04:28,742
+lá, sua função é abstrair as camadas superiores,
+
+90
+00:04:28,752 --> 00:04:32,062
+né? Camada de rede transporte que a gente vai
+
+91
+00:04:32,074 --> 00:04:32,663
+ver ainda.
+
+92
+00:04:32,673 --> 00:04:36,463
+A rede física tá vendo oh servindo de interface entre
+
+93
+00:04:36,473 --> 00:04:41,002
+o software de rede nas camadas superiores e o hardware,
+
+94
+00:04:41,071 --> 00:04:43,880
+o dispositivo é a sub camada Mac, então ela
+
+95
+00:04:43,891 --> 00:04:48,002
+que tá fazendo aí oh esse essa interface entre os
+
+96
+00:04:48,011 --> 00:04:51,261
+softwares lá da camada de rede camada três com a
+
+97
+00:04:51,271 --> 00:04:53,562
+parte de baixo a parte de enlace, né?
+
+98
+00:04:53,571 --> 00:04:57,040
+Que vai na sub camada mack aí perfeito aí oh,
+
+99
+00:04:57,052 --> 00:05:00,682
+você tem dentro dela o d d s a p
+
+100
+00:05:00,690 --> 00:05:02,841
+oh e o s s a p, que é
+
+101
+00:05:02,850 --> 00:05:05,629
+o protocolo de destino e o de origem, porque
+
+102
+00:05:05,639 --> 00:05:09,850
+como essa camada tá controlando aí né Esses endereçamento você
+
+103
+00:05:09,858 --> 00:05:12,569
+tem que ter um protocolo oh lá pra identificar eh
+
+104
+00:05:12,579 --> 00:05:14,569
+na camada de rede que está sendo usado para o
+
+105
+00:05:14,579 --> 00:05:17,649
+quadro Sub camada mac que é o endereçamento do serviço
+
+106
+00:05:17,660 --> 00:05:18,329
+perfeito.
+
+107
+00:05:18,338 --> 00:05:21,649
+Essas informações oh vão permitir que que que os protocolos
+
+108
+00:05:21,660 --> 00:05:24,088
+lá da três como o i p v quatro e
+
+109
+00:05:24,100 --> 00:05:26,928
+o p v seis oh usem a mesma interface de
+
+110
+00:05:26,939 --> 00:05:29,009
+rede, Ou seja, essa camada que vai permitir
+
+111
+00:05:29,019 --> 00:05:32,088
+que os protocolos da camada superior I p v quatro
+
+112
+00:05:32,100 --> 00:05:35,802
+p v seis consigam aí usar a a mesma interface
+
+113
+00:05:35,812 --> 00:05:37,713
+de rede, ou seja, a placa mesma placa
+
+114
+00:05:37,721 --> 00:05:40,632
+de rede tá e ela é responsável também pela implementação
+
+115
+00:05:40,642 --> 00:05:42,492
+do serviço de conexão Oh, que é o que
+
+116
+00:05:42,502 --> 00:05:45,992
+o controle de conexão controle de erro que é aquele
+
+117
+00:05:46,002 --> 00:05:48,791
+filtro que eu falei e o controle de fluxo na
+
+118
+00:05:48,802 --> 00:05:52,471
+camada de enlace tá então cê tem esses responsáveis aí
+
+119
+00:05:52,483 --> 00:05:55,992
+e lá na sub camada Mac ela é implementada lá
+
+120
+00:05:56,002 --> 00:05:59,132
+pelos vários protocolos a, L L c né oitocentos
+
+121
+00:05:59,142 --> 00:06:00,911
+e dois ponto dois no geral.
+
+122
+00:06:00,923 --> 00:06:04,776
+Já MAC vai abranger oh os específicos o ponto três
+
+123
+00:06:04,786 --> 00:06:08,696
+onze ponto quinze tá vendo no hardware das interfaces de
+
+124
+00:06:08,704 --> 00:06:10,954
+rede, ou seja, na placa de rede que
+
+125
+00:06:10,966 --> 00:06:13,665
+a placa de rede tá na camada dois okay e
+
+126
+00:06:13,675 --> 00:06:17,995
+ela é responsável pelo que encapsulamento de dados que a
+
+127
+00:06:18,005 --> 00:06:20,875
+gente ainda vai estudar e o controle de acessoà
+
+128
+00:06:20,884 --> 00:06:24,454
+mídia, além de fornecer o endereçamento físico que é
+
+129
+00:06:24,466 --> 00:06:27,615
+uma das principais características da camada de enlace, né,
+
+130
+00:06:27,625 --> 00:06:32,286
+Operar com o endereçamento físico o famoso mac ed aí
+
+131
+00:06:32,295 --> 00:06:35,809
+da Rede Okay e nas redes locais Quais são as
+
+132
+00:06:35,819 --> 00:06:40,269
+principais responsabilidades dela? Oh operar com as topologias lógicas
+
+133
+00:06:40,278 --> 00:06:43,269
+que que nós vimos sobre topologia lógica? Definir como
+
+134
+00:06:43,278 --> 00:06:47,428
+os dispositivos enxergam a rede lembra Topologia física é o
+
+135
+00:06:47,439 --> 00:06:48,670
+layout físico.
+
+136
+00:06:48,678 --> 00:06:51,730
+Topologia lógica é Como eles vão se conectar? Logicamente,
+
+137
+00:06:52,189 --> 00:06:56,480
+os dados trafegam entre os dispositivos como esses dados trafegam.
+
+138
+00:06:56,488 --> 00:06:59,199
+Isso aí também é responsabilidade dela e o controle de
+
+139
+00:06:59,209 --> 00:07:01,399
+acesso ao meio, como eu falei, permitindo que
+
+140
+00:07:01,410 --> 00:07:06,399
+vários dispositivos se comuniquem através de uma mídia compartilhada né?
+
+141
+00:07:06,410 --> 00:07:08,988
+E o controle de fluxo que é o famoso Ralf
+
+142
+00:07:09,000 --> 00:07:11,928
+e o fu duplex Ralf, já comentamos Ralf,
+
+143
+00:07:11,939 --> 00:07:15,600
+É quando você consegue fazer uma transmissão, ida e
+
+144
+00:07:15,608 --> 00:07:17,678
+vinda só de maneira alternada.
+
+145
+00:07:17,689 --> 00:07:21,238
+Um Vai depois volta, e o ida e vinda,
+
+146
+00:07:21,250 --> 00:07:24,459
+né? Simultaneamente são os meios, aí os modos,
+
+147
+00:07:24,470 --> 00:07:27,920
+né? De comunicação responsável pelo enquadramento, que é
+
+148
+00:07:27,928 --> 00:07:31,879
+fornecer de limitadores, importante pra identificar os campos dentro
+
+149
+00:07:31,889 --> 00:07:33,259
+do quadro, né? Porque a cama lá se
+
+150
+00:07:33,269 --> 00:07:35,319
+trabalha com quadro? Tá vendo oh, os bits
+
+151
+00:07:35,329 --> 00:07:38,119
+possuem a sincronização nós, transmissão e da recepção.
+
+152
+00:07:38,129 --> 00:07:42,329
+Transmitir e recepcionar cê tem que ter esse enquadramento responsável
+
+153
+00:07:42,338 --> 00:07:45,230
+pelo endereçamento, origem destino, né? Que seria
+
+154
+00:07:45,238 --> 00:07:49,389
+aí direção físico e a detecção do erro que lá
+
+155
+00:07:49,399 --> 00:07:53,108
+no rodapé vai ser usado pra detectar erros de transmissão?
+
+156
+00:07:53,119 --> 00:07:55,829
+Lembra que ela é responsável também pelo controle de erros?
+
+157
+00:07:55,838 --> 00:07:58,350
+A camada dois? Então, a detecção de erro
+
+158
+00:07:58,358 --> 00:07:59,939
+também está aí.
+
+159
+00:07:59,949 --> 00:08:02,040
+Perfeito Aluno, tranquilo até aí.
+
+160
+00:08:02,048 --> 00:08:07,149
+Então vimos essas principais características e voltamos.
+
+161
+00:08:07,160 --> 00:08:08,759
+Já já até mais
+

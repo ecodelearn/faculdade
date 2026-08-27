@@ -1,0 +1,600 @@
+1
+00:00:06,448 --> 00:00:07,339
+continuando.
+
+2
+00:00:07,349 --> 00:00:09,609
+A gente está falando da nossa disciplina aqui de segurança
+
+3
+00:00:09,618 --> 00:00:13,500
+da informação e continuidade Estamos falando de ambientes de o
+
+4
+00:00:13,509 --> 00:00:17,219
+Prime ou na nuvem, né? Falamos de características,
+
+5
+00:00:17,228 --> 00:00:19,298
+falamos qual a empresa prefere o quê? E agora
+
+6
+00:00:19,309 --> 00:00:20,899
+a gente vai falar sobre como integrar, né,
+
+7
+00:00:20,908 --> 00:00:22,679
+integrar ambientes.
+
+8
+00:00:22,690 --> 00:00:25,000
+Então, quando a gente tá falando de integração de
+
+9
+00:00:25,094 --> 00:00:27,065
+a gente tem que definir algumas características.
+
+10
+00:00:27,074 --> 00:00:30,664
+Vamos lá e o cenário empresarial cada vez mais complexo
+
+11
+00:00:30,673 --> 00:00:31,385
+e dinâmico.
+
+12
+00:00:31,394 --> 00:00:35,125
+A integração entre ambientes é uma consideração, É uma
+
+13
+00:00:35,134 --> 00:00:40,584
+consideração crucial para ações que adotam uma combinação de infraestruturas
+
+14
+00:00:40,594 --> 00:00:43,103
+locais, o pris, né? E serviços de
+
+15
+00:00:43,115 --> 00:00:43,625
+nuvem.
+
+16
+00:00:43,634 --> 00:00:48,783
+Essa integração visa visa eh criar uma sinergia entre os
+
+17
+00:00:48,793 --> 00:00:52,283
+entre diversos ambientes, né? Esses diferentes ambientes aí
+
+18
+00:00:52,500 --> 00:00:57,348
+permitindo uma operação, mais orma, eh hormone harmoniosa
+
+19
+00:00:57,359 --> 00:00:59,969
+e maximizando os benefícios oferecidos por cada modelo.
+
+20
+00:00:59,978 --> 00:01:02,259
+Então! A gente tem que entender quando você escolhe,
+
+21
+00:01:02,270 --> 00:01:04,349
+né? Quando a empresa escolhe ter um ambiente híbrido,
+
+22
+00:01:04,359 --> 00:01:06,388
+como que vai ser essa integração pra gente, para
+
+23
+00:01:06,400 --> 00:01:09,948
+que o cliente final não sinta essa diferença do serviço?
+
+24
+00:01:09,959 --> 00:01:12,069
+Pra ele, o serviço tá sendo utilizado de maneira
+
+25
+00:01:12,079 --> 00:01:12,588
+fluida.
+
+26
+00:01:12,599 --> 00:01:14,469
+Não, não importa se é aqui ou na ou
+
+27
+00:01:14,480 --> 00:01:17,129
+na prime, ou um serviço de nuvem né?
+
+28
+00:01:17,659 --> 00:01:21,510
+A integração eficiente entre ambientes possibilita uma transição suave entre
+
+29
+00:01:21,519 --> 00:01:23,948
+sistemas locais e nuvem.
+
+30
+00:01:23,959 --> 00:01:29,469
+Isso garante a continuidade operacional ou a fluidez operacional independente
+
+31
+00:01:29,480 --> 00:01:32,109
+de onde os recursos estão localizados.
+
+32
+00:01:32,120 --> 00:01:35,540
+A capacidade de gerenciar todos os recursos, sejam eles
+
+33
+00:01:35,549 --> 00:01:39,629
+pris ou nuvem de forma unificada, sim, simplifica
+
+34
+00:01:39,638 --> 00:01:41,308
+as operações diárias.
+
+35
+00:01:41,319 --> 00:01:46,588
+Isso inclui monitoramento, manutenção, atualização e resolução de
+
+36
+00:01:46,599 --> 00:01:47,129
+problema.
+
+37
+00:01:49,448 --> 00:01:52,900
+A capacidade de escalar recursos de forma dinâmica, é
+
+38
+00:01:52,909 --> 00:01:55,939
+fundamental para lidar com as variações da demanda.
+
+39
+00:01:55,948 --> 00:01:59,778
+A integração entre ambientes permite que a organização eh de
+
+40
+00:01:59,790 --> 00:02:03,819
+de, de mene recursos, conforme necessário.
+
+41
+00:02:03,829 --> 00:02:06,859
+Tá aproveitando a agilidade da nuvem quando for.
+
+42
+00:02:06,870 --> 00:02:10,669
+Ah, quando tiver necessidade, a integração eficaz pode
+
+43
+00:02:10,679 --> 00:02:13,770
+resultar em economias de custos significativas.
+
+44
+00:02:13,778 --> 00:02:18,110
+As organizações podem otimizar a utilização de recursos movendo cargas
+
+45
+00:02:18,118 --> 00:02:20,649
+de trabalho específico para na nuvem quando a eficiência e
+
+46
+00:02:20,659 --> 00:02:23,110
+a economia forem prioridades.
+
+47
+00:02:23,118 --> 00:02:27,659
+Então se tiver bem bem feito bem integrado, bem,
+
+48
+00:02:27,669 --> 00:02:31,118
+eh ajeitado! Pode ter uma economia muito grande porque
+
+49
+00:02:31,129 --> 00:02:33,338
+você só vai usar a demanda.
+
+50
+00:02:33,349 --> 00:02:34,778
+Só vai ter processamento.
+
+51
+00:02:34,788 --> 00:02:37,740
+Só vai ter eh, eh aquela eficiência, quando
+
+52
+00:02:37,750 --> 00:02:40,778
+for necessário Você não vai usar, não vai ter
+
+53
+00:02:40,788 --> 00:02:43,990
+geração de energia, Não vai ter custo, manutenção.
+
+54
+00:02:44,000 --> 00:02:47,669
+Quando não existe demanda tá, Porém, esses benefícios
+
+55
+00:02:47,679 --> 00:02:51,909
+todos são eh, porém esses benefícios todos são desafiados
+
+56
+00:02:51,919 --> 00:02:55,750
+por dificuldades técnicas no processo de integração que pode envolver.
+
+57
+00:02:55,758 --> 00:03:00,229
+Tá diferenças tecnológicas, por exemplo, o ambiente e
+
+58
+00:03:00,240 --> 00:03:02,808
+nuvem pode utilizar diferentes tecnologias.
+
+59
+00:03:02,909 --> 00:03:06,439
+Integrar esses temas que funcionam em plataformas distintas podem apresentar
+
+60
+00:03:06,449 --> 00:03:10,099
+desafios técnicos que exigem soluções especializadas.
+
+61
+00:03:10,110 --> 00:03:13,919
+Então aí a ao ao contratar ao escolher algo híbrido,
+
+62
+00:03:13,929 --> 00:03:15,538
+você precisa entender se a tec.
+
+63
+00:03:15,550 --> 00:03:19,099
+Essas duas tecnologias vão poder se conversar se integrar,
+
+64
+00:03:19,110 --> 00:03:22,149
+tá segurança e conformidade.
+
+65
+00:03:22,159 --> 00:03:26,569
+As diferenças na abordagem e segurança entre ambientes podem representar
+
+66
+00:03:26,580 --> 00:03:30,349
+desafios na criação de um ambiente integrado e coeso,
+
+67
+00:03:30,360 --> 00:03:33,969
+mantendo altos padrões de segurança e conformidade.
+
+68
+00:03:34,710 --> 00:03:40,000
+Complexidade e gerenciamento A gestão de uma mistura híbrida pode
+
+69
+00:03:40,008 --> 00:03:46,699
+ser complexa a necessidade de coordenar políticas atualizadas desculpa políticas,
+
+70
+00:03:46,710 --> 00:03:51,599
+atualizações e resposta a esses dentes em diferentes ambientes adiciona
+
+71
+00:03:51,610 --> 00:03:55,219
+eh, adiciona camadas de complexidades operacionais.
+
+72
+00:03:55,229 --> 00:03:58,659
+Eh É complexo, é um desafio maior, mas
+
+73
+00:03:58,669 --> 00:04:01,330
+é tudo pode ser mapeado, Vai depender muito da
+
+74
+00:04:01,338 --> 00:04:04,528
+sua maturidade onde você quer chegar e principalmente entender que
+
+75
+00:04:04,538 --> 00:04:06,750
+isso é um problema né? Ou que pode virar
+
+76
+00:04:06,758 --> 00:04:08,909
+um problema? A partir do momento que você entende
+
+77
+00:04:08,919 --> 00:04:12,649
+que você vai precisar gerenciar duas redes diferentes, vai
+
+78
+00:04:12,659 --> 00:04:16,449
+ter talvez políticas diferentes e, porém elas se integram
+
+79
+00:04:16,459 --> 00:04:19,449
+em um certo momento, é fundamental você entender isso.
+
+80
+00:04:19,459 --> 00:04:25,548
+Tá transferências eficientes de dados? Tá A transferência eficiente
+
+81
+00:04:25,559 --> 00:04:28,019
+de dados entre ambientes é vital para garantir que a
+
+82
+00:04:28,028 --> 00:04:31,819
+comunicação seja contínua e que os sistemas operem de maneira
+
+83
+00:04:31,829 --> 00:04:32,939
+coesa.
+
+84
+00:04:32,949 --> 00:04:37,220
+Isso pode exigir a implementação de soluções robustas de integração
+
+85
+00:04:37,230 --> 00:04:38,678
+de dados.
+
+86
+00:04:38,689 --> 00:04:41,699
+Portanto, é necessária uma estratégia para que a integração
+
+87
+00:04:41,709 --> 00:04:45,988
+seja bem sucedida como arquitetura de microservice.
+
+88
+00:04:46,000 --> 00:04:49,678
+A adoção de arquitetura de Microservice pode facilitar a integração,
+
+89
+00:04:49,988 --> 00:04:53,559
+permitindo que o componentes individuais operem de maneira independente e
+
+90
+00:04:53,569 --> 00:04:57,619
+se comunique de e se comunique eficientemente a p i
+
+91
+00:04:57,629 --> 00:04:59,678
+s, né Uso de A p i S padron
+
+92
+00:04:59,689 --> 00:05:01,959
+eh, eh uso de a P i s padronizados
+
+93
+00:05:01,970 --> 00:05:05,759
+facilita a comunicação entre esses sistemas, permitindo a interatividade
+
+94
+00:05:05,769 --> 00:05:06,899
+entre ambientes distintos.
+
+95
+00:05:06,910 --> 00:05:10,459
+Hoje, quase tudo se se trabalha se conecta,
+
+96
+00:05:10,470 --> 00:05:13,119
+se funciona via a P I, né? Ferramentas
+
+97
+00:05:13,129 --> 00:05:17,238
+de orquestração Ferramentas de orquestração, como Eh bernes,
+
+98
+00:05:17,250 --> 00:05:23,019
+podem simplificar a gestão de aplicativo distribuídos em ambientes heterogêneos.
+
+99
+00:05:23,028 --> 00:05:24,838
+Precisamos de sistema de orquestração.
+
+100
+00:05:24,850 --> 00:05:27,199
+Gente! Tá? Se você precisa entender como é
+
+101
+00:05:27,209 --> 00:05:30,028
+um sistema de orquestração pelo copo, pelo próprio nome
+
+102
+00:05:30,040 --> 00:05:31,899
+já fala orquestração Ele é o ele é o que
+
+103
+00:05:31,910 --> 00:05:32,769
+vai ser ali.
+
+104
+00:05:32,778 --> 00:05:35,720
+É um maestro de toda essa infraestrutura, ele vai
+
+105
+00:05:35,730 --> 00:05:41,439
+orquestrar todos os seus seus Microservice, sua infraestrutura local
+
+106
+00:05:41,449 --> 00:05:42,778
+tá e na nuvem.
+
+107
+00:05:43,709 --> 00:05:47,079
+Monitoramento contínuo A implementação de sistemas de monitoramento contínuo é
+
+108
+00:05:47,088 --> 00:05:50,678
+essencial para identificar e solucionar problemas de integração.
+
+109
+00:05:50,689 --> 00:05:54,399
+De maneira proativa, borda baseada em política.
+
+110
+00:05:54,410 --> 00:05:58,000
+Precisamos ter política, né? Pra tudo desenvolver políticas
+
+111
+00:05:58,009 --> 00:06:02,838
+abrangentes que abordem questões de segurança, conformidade, Gerenciamento
+
+112
+00:06:02,850 --> 00:06:07,189
+é fundamental pra uma integração bem sucedida, Então,
+
+113
+00:06:07,199 --> 00:06:10,220
+com as nossas considerações finais, tá na jornada pelo
+
+114
+00:06:10,230 --> 00:06:14,230
+ambiente prime ou em nuvem, né? Revelou-se complexidade
+
+115
+00:06:14,238 --> 00:06:17,149
+de vantagens distintas, né? No Prime, o
+
+116
+00:06:17,160 --> 00:06:21,250
+controle total é nome de investimento inicial e manutenção complexa.
+
+117
+00:06:21,259 --> 00:06:24,269
+Enquanto a gente tá falando de nuvem, oferece estabilidade
+
+118
+00:06:24,278 --> 00:06:26,790
+ágil, mas depende conex, ou seja, de
+
+119
+00:06:26,798 --> 00:06:29,910
+internet, tá a decisão entre quais entre elas é
+
+120
+00:06:29,920 --> 00:06:30,449
+uma encruada.
+
+121
+00:06:30,459 --> 00:06:32,790
+É uma encruzilhada estratégica, como eu falei, é
+
+122
+00:06:32,798 --> 00:06:36,040
+uma decisão da empresa, Isso tá guiadas pelas demandas
+
+123
+00:06:36,048 --> 00:06:37,480
+específicas de cada organização.
+
+124
+00:06:37,488 --> 00:06:39,160
+Então, quando a gente tá falando pra finalizar,
+
+125
+00:06:39,170 --> 00:06:42,069
+como quando a gente fala de de, de qual
+
+126
+00:06:42,079 --> 00:06:44,209
+decisão, o que tomar, o que fazer,
+
+127
+00:06:44,220 --> 00:06:46,309
+vai depender muito da característica da empresa.
+
+128
+00:06:46,319 --> 00:06:48,009
+Você vai ter que escolher, você vai ter que
+
+129
+00:06:48,019 --> 00:06:50,850
+ver qual o negócio onde vai ter investimento.
+
+130
+00:06:50,858 --> 00:06:52,889
+Se você vai ter esse investimento.
+
+131
+00:06:52,899 --> 00:06:56,009
+Tá, se você vai ter essa necessidade de segurança,
+
+132
+00:06:56,019 --> 00:06:59,528
+de de monitoramento, de integração, se você existe,
+
+133
+00:06:59,540 --> 00:07:03,649
+Se existe alguma uma uma lei ou alguma regulamentação específica
+
+134
+00:07:03,660 --> 00:07:07,410
+que te obrigue a tratar os dados mais de forma
+
+135
+00:07:07,420 --> 00:07:10,939
+mais segura, os dados sensíveis de um certas características,
+
+136
+00:07:10,949 --> 00:07:13,559
+então vai depender muito do seu negócio.
+
+137
+00:07:13,569 --> 00:07:16,699
+Ninguém pode afirmar qual é a melhor infraestrutura, Vai
+
+138
+00:07:16,709 --> 00:07:19,738
+depender da da, do negócio, vai depender da
+
+139
+00:07:19,750 --> 00:07:23,559
+empresa, vai depender do ramo que essa empresa atua
+
+140
+00:07:23,569 --> 00:07:26,399
+e e também das suas características locais, tá,
+
+141
+00:07:26,410 --> 00:07:29,500
+eh Cada país tem umas características, cada país tem
+
+142
+00:07:29,509 --> 00:07:32,548
+a sua regulamentação, Então, a depender então,
+
+143
+00:07:32,559 --> 00:07:34,000
+nunca firme.
+
+144
+00:07:34,009 --> 00:07:38,988
+Ou eh essa verdade a melhor cara, a melhor
+
+145
+00:07:39,000 --> 00:07:39,988
+infraestrutura.
+
+146
+00:07:40,000 --> 00:07:42,449
+O melhor modelo é na nuvem.
+
+147
+00:07:42,459 --> 00:07:47,069
+Ah, o melhor modelo é vai depender da necessidade
+
+148
+00:07:47,079 --> 00:07:48,329
+de cada empresa.
+
+149
+00:07:48,338 --> 00:07:51,410
+Eu agradeço por estar comigo nessa, nessa unidade,
+
+150
+00:07:51,420 --> 00:07:54,088
+encontro você na próxima aula Abraços!
+

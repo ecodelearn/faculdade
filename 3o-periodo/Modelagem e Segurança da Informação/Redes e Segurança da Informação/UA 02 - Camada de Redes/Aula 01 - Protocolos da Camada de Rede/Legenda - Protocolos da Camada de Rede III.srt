@@ -1,0 +1,348 @@
+1
+00:00:05,940 --> 00:00:09,228
+Olá, aluno Seja muito bemvindo Professor Fabrício Melo Estamos
+
+2
+00:00:09,239 --> 00:00:12,220
+falando aí dos protocolos da camada de rede Camada três
+
+3
+00:00:12,228 --> 00:00:15,189
+lembra modelo OSE ali, onde opera com os endereços
+
+4
+00:00:15,198 --> 00:00:16,989
+lógicos que são os ipês.
+
+5
+00:00:17,000 --> 00:00:19,708
+Opera com o roteador não é isso? Então vamos
+
+6
+00:00:19,719 --> 00:00:22,458
+trabalhar lá os protocolos da camada de rede do o
+
+7
+00:00:22,469 --> 00:00:24,500
+modelo TC p i p né Que seria aí a
+
+8
+00:00:24,510 --> 00:00:27,859
+a rede camada três e no modelo TC p i
+
+9
+00:00:27,870 --> 00:00:30,149
+p a camada dois que é camada de internet?
+
+10
+00:00:30,158 --> 00:00:33,000
+Quais são esses protocolos? Vamos falar lá, oh
+
+11
+00:00:33,009 --> 00:00:37,020
+os protocolos de encaminhamento dos pacotes, né? Quem
+
+12
+00:00:37,029 --> 00:00:39,259
+são? Cê tem o i p v quatro,
+
+13
+00:00:39,270 --> 00:00:41,469
+que é um protocolo que vai receber os segmentos.
+
+14
+00:00:41,478 --> 00:00:44,740
+Tá vendo oh de mensagem da camada de transporte.
+
+15
+00:00:44,750 --> 00:00:49,889
+Lembra disso? Tá descendo empacota mensais em pacotes.
+
+16
+00:00:49,899 --> 00:00:53,649
+Endereça pacotes para entrega de quê de ponta a ponta
+
+17
+00:00:53,658 --> 00:00:55,689
+através de uma rede? O i p v quatro
+
+18
+00:00:55,700 --> 00:00:58,009
+A gente depois vai detalhar, mas usa o endereço
+
+19
+00:00:58,020 --> 00:01:01,240
+de trinta e dois bits, né? Ele é
+
+20
+00:01:01,250 --> 00:01:06,609
+dividido ali em quatro partes de oito bits e temos
+
+21
+00:01:06,620 --> 00:01:09,635
+agora o I P v seis faz a mesma função
+
+22
+00:01:09,646 --> 00:01:10,765
+do I p v quatro.
+
+23
+00:01:10,775 --> 00:01:13,194
+Porém eu utilizo o endereçamento OH de cento e vinte
+
+24
+00:01:13,206 --> 00:01:14,515
+e oito bits, né? O i p v
+
+25
+00:01:14,525 --> 00:01:17,965
+seis Ele é dividido em oito partes que trabalha com
+
+26
+00:01:17,974 --> 00:01:20,846
+o número dezesseis bits, que são números hexa decimais.
+
+27
+00:01:20,855 --> 00:01:23,194
+Por quê? Porque o p v quatro ele praticamente
+
+28
+00:01:23,206 --> 00:01:27,355
+esgotou, né? Aí pra poder suprir a quantidade
+
+29
+00:01:27,364 --> 00:01:29,861
+de dispositivos que estão na rede, foi necessária a
+
+30
+00:01:29,871 --> 00:01:32,981
+criação do I p v seis, Então observa que
+
+31
+00:01:32,990 --> 00:01:37,941
+esses protocolos estão oh, são protocolos de encaminhamento e
+
+32
+00:01:37,951 --> 00:01:39,941
+fazem parte da camada de rede.
+
+33
+00:01:39,951 --> 00:01:43,820
+Mas temos também aqui quem o nat eh o nat
+
+34
+00:01:43,831 --> 00:01:46,662
+vai trabalhar com o que vai converter I P v
+
+35
+00:01:46,671 --> 00:01:50,350
+quatro de uma rede privada, uma rede pública dando
+
+36
+00:01:50,361 --> 00:01:54,121
+o exemplo novamente Cê tem uma rede privada ali onde
+
+37
+00:01:54,132 --> 00:01:57,650
+você tem faixas de i P que só se conecta
+
+38
+00:01:57,659 --> 00:01:59,010
+nessa rede privada.
+
+39
+00:01:59,019 --> 00:02:02,540
+Eles não são compatíveis com a internet, então nós
+
+40
+00:02:02,549 --> 00:02:05,698
+temos no meio o roteador sim que vai receber os
+
+41
+00:02:05,709 --> 00:02:09,778
+pacotes dessa rede local pra enviar pra internet.
+
+42
+00:02:09,788 --> 00:02:13,538
+Então quando o roteador recebe esses pacotes, o protocolo
+
+43
+00:02:13,550 --> 00:02:17,538
+nat que vem de network adro translation tem a função
+
+44
+00:02:17,550 --> 00:02:22,538
+de converter o i p dessa dessa desse equipamento local
+
+45
+00:02:22,550 --> 00:02:24,219
+pro I P da Internet que é o I P
+
+46
+00:02:24,229 --> 00:02:27,490
+do roteador então quando o técnico da operadora lá da
+
+47
+00:02:27,500 --> 00:02:31,490
+sua casa ligou o cabo de internet no seu roteador
+
+48
+00:02:31,500 --> 00:02:33,808
+o seu roteador recebe o I P Público que é
+
+49
+00:02:33,819 --> 00:02:35,979
+o que vai pra internet, então o Nat que
+
+50
+00:02:35,990 --> 00:02:40,469
+vai pegar os endereços dos IPs da rede local,
+
+51
+00:02:40,479 --> 00:02:43,270
+trocar pelo I pê da rede pública e mandar e
+
+52
+00:02:43,278 --> 00:02:46,270
+vice-versa tá então por isso que ele também é um
+
+53
+00:02:46,278 --> 00:02:50,629
+protocolo que entra na camada três tá e temos os
+
+54
+00:02:50,639 --> 00:02:54,610
+protocolos de troca de mensagem de controle aluno famoso I
+
+55
+00:02:54,618 --> 00:02:58,308
+C MP são os protocolos que fornecem feedback de um
+
+56
+00:02:58,319 --> 00:03:01,588
+de destino para o de origem sobre erros de entrega
+
+57
+00:03:01,599 --> 00:03:05,550
+de pacote Geralmente você tem aqueles softwares que fazem testes
+
+58
+00:03:05,558 --> 00:03:09,990
+como PG pra poder ver se os pacotes tão né
+
+59
+00:03:10,000 --> 00:03:13,308
+chegando se não estão aí ele gera ali um relatório
+
+60
+00:03:13,319 --> 00:03:16,770
+de tempo de taxa de perda é o I C
+
+61
+00:03:16,778 --> 00:03:19,949
+MP aí tem ele na versão quatro tem ele na
+
+62
+00:03:19,960 --> 00:03:21,710
+versão seis né? Que é pra pacotes pra i
+
+63
+00:03:21,719 --> 00:03:24,469
+p v seis e tem ele no n d p
+
+64
+00:03:24,479 --> 00:03:27,758
+que é o quê resolução de d endereços no nat
+
+65
+00:03:27,770 --> 00:03:30,050
+e a detecção de endereço duplicado.
+
+66
+00:03:30,058 --> 00:03:32,929
+Geralmente, quando você tem dois endereços, né,
+
+67
+00:03:32,939 --> 00:03:35,689
+você tem endereço duplicado, ele vai fazer essa detecção,
+
+68
+00:03:35,699 --> 00:03:41,649
+então esse protocolo também são protocolos de mensagens lembre-se disso
+
+69
+00:03:41,659 --> 00:03:45,189
+operando na camada três, a camada de rede tá
+
+70
+00:03:45,199 --> 00:03:48,229
+e os protocolos de roteamento como a gente viu,
+
+71
+00:03:48,240 --> 00:03:51,169
+né? O roteador é responsável em quem rotear não
+
+72
+00:03:51,179 --> 00:03:55,240
+é escolher o melhor caminho para o pacote? Então
+
+73
+00:03:55,250 --> 00:03:59,240
+você vai ter protocolos pra isso pra criar essas tabelas
+
+74
+00:03:59,250 --> 00:04:01,240
+de roteamento aí cê tem o hip.
+
+75
+00:04:01,250 --> 00:04:04,000
+Esse é muito famoso, né? Baseado no famoso
+
+76
+00:04:04,008 --> 00:04:07,319
+no algoritmo de vetor de distância, cê tem uma
+
+77
+00:04:07,330 --> 00:04:10,719
+SP f também que é o famoso estado de link
+
+78
+00:04:10,729 --> 00:04:14,819
+né Cê tem o e g R p que é
+
+79
+00:04:14,830 --> 00:04:17,858
+o protocolo adiamento padrão aberto pela cisco, né,
+
+80
+00:04:17,869 --> 00:04:20,178
+que usa uma meta composta com base em largura de
+
+81
+00:04:20,189 --> 00:04:22,738
+banda, atraso, carga e confiabilidade.
+
+82
+00:04:22,750 --> 00:04:25,178
+E temos o b GP também, que é o
+
+83
+00:04:25,189 --> 00:04:28,588
+protocolo e o adiamento padrão aberto usado aí pelos i
+
+84
+00:04:28,600 --> 00:04:31,899
+S PS que são os servidores aí de Rede Okay.
+
+85
+00:04:31,910 --> 00:04:38,809
+Então todos esses protocolos lembre-se estão estudados na camada três
+
+86
+00:04:38,819 --> 00:04:45,079
+camada de rede do modelo O aí Tranquilidade então grande
+
+87
+00:04:45,088 --> 00:04:47,019
+abraço até a próxima
+

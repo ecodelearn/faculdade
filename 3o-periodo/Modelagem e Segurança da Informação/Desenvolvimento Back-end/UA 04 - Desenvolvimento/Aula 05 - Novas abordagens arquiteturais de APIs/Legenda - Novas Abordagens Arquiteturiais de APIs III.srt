@@ -1,0 +1,500 @@
+1
+00:00:06,070 --> 00:00:08,519
+Olá, vamos falar um pouquinho sobre o recurso de
+
+2
+00:00:08,528 --> 00:00:08,800
+web.
+
+3
+00:00:08,810 --> 00:00:11,759
+Soquetes, né? O web Socrates Ele tem uma
+
+4
+00:00:11,769 --> 00:00:16,359
+característica interessante que é a possibilidade de comunicação bidirecional,
+
+5
+00:00:16,370 --> 00:00:18,138
+né? E o que que é? Isso?
+
+6
+00:00:18,149 --> 00:00:20,719
+Chama de comunicação duplex? Ele, em vez de
+
+7
+00:00:20,728 --> 00:00:24,478
+ter uma nova conexão, eh pra uma nova chamada.
+
+8
+00:00:24,489 --> 00:00:26,739
+Ele vai deixar arcar a chamada aberta e vai ter
+
+9
+00:00:26,750 --> 00:00:29,478
+trânsito de D de cliente, servidor e servidor cliente.
+
+10
+00:00:29,489 --> 00:00:34,840
+Então você tem uma uma comunicação bidirecional Bom, Qual
+
+11
+00:00:34,848 --> 00:00:37,240
+vai ser a importância disso? Isso nada mais é
+
+12
+00:00:37,250 --> 00:00:40,179
+do que o soquete Tá só que o soquete dentro
+
+13
+00:00:40,189 --> 00:00:42,959
+da web, né? É só ah pelo fato
+
+14
+00:00:42,969 --> 00:00:46,359
+de que usando o protocolo web soquete, você tem
+
+15
+00:00:46,368 --> 00:00:48,598
+um soc que é capaz de funcionar em incompatibilidade com
+
+16
+00:00:48,609 --> 00:00:49,840
+o h t ML cinco.
+
+17
+00:00:49,848 --> 00:00:52,740
+Então você pode fazer vários jogos que funcionam em cima
+
+18
+00:00:52,750 --> 00:00:54,319
+da web com facilidade.
+
+19
+00:00:54,329 --> 00:00:57,000
+Os jogos são grandes consumidores de soquete, já que
+
+20
+00:00:57,009 --> 00:00:58,679
+eu tenho que ter muita comunicação entre o cliente e
+
+21
+00:00:58,689 --> 00:01:01,200
+servidor, né? Vamos ver como é que funciona
+
+22
+00:01:01,209 --> 00:01:08,359
+isso? Wed Sócrates Comunicação bidirecional sobre o Sócrates da
+
+23
+00:01:08,370 --> 00:01:12,528
+C PAP tá totalmente compatível com o h T ML
+
+24
+00:01:12,540 --> 00:01:15,168
+cinco e essa é a grande vantagem o próprio navegador
+
+25
+00:01:15,180 --> 00:01:17,010
+reconhece o protocolo w S.
+
+26
+00:01:17,019 --> 00:01:19,588
+Tá isso é bem legal? Tá? Eh,
+
+27
+00:01:19,599 --> 00:01:23,879
+a gente consegue trabalhar de uma forma simples, com
+
+28
+00:01:23,888 --> 00:01:27,769
+um elemento que é, eh bastante de baixo nível
+
+29
+00:01:27,778 --> 00:01:29,849
+bastante binário, que é o soquete, né?
+
+30
+00:01:29,859 --> 00:01:32,888
+Normalmente, teria que programar toda a comunicação.
+
+31
+00:01:32,900 --> 00:01:34,049
+Teria que criar o soquete.
+
+32
+00:01:34,058 --> 00:01:36,980
+Isso daria muito mais trabalho, né, eh no
+
+33
+00:01:36,989 --> 00:01:38,370
+NO S eu teria que usar, no mínimo,
+
+34
+00:01:38,379 --> 00:01:38,859
+uma plata.
+
+35
+00:01:38,870 --> 00:01:40,239
+Ah, o pacote net.
+
+36
+00:01:40,250 --> 00:01:42,638
+E aqui eu vou trabalhar com uma coisa que me
+
+37
+00:01:42,650 --> 00:01:45,659
+permite usar uma ferramenta de teste mais adequada, né?
+
+38
+00:01:46,388 --> 00:01:50,219
+Eh padronizado pela w três c, né Acessar Ah,
+
+39
+00:01:50,230 --> 00:01:53,819
+o protocolo sempre começa com W, s ou W
+
+40
+00:01:53,829 --> 00:01:56,319
+S S, né? São endereços de C h
+
+41
+00:01:56,329 --> 00:01:58,338
+t P dois pontos barra barra alguma coisa vai ser
+
+42
+00:01:58,349 --> 00:01:58,829
+w s.
+
+43
+00:01:58,838 --> 00:02:01,680
+Dois pontos, barra barra alguma coisa? É muito
+
+44
+00:02:01,689 --> 00:02:04,760
+comum utilizar em jogos, em chats, em tempo
+
+45
+00:02:04,769 --> 00:02:07,058
+real, né? Então, tudo aquilo que envolve
+
+46
+00:02:07,069 --> 00:02:10,659
+comunicação de áudio eh qualquer coisa de tempo real,
+
+47
+00:02:10,669 --> 00:02:12,639
+né? Preciso, Toda hora tá se comunicando.
+
+48
+00:02:12,649 --> 00:02:14,679
+Rápido eh chats.
+
+49
+00:02:14,689 --> 00:02:17,919
+Jogos que tem aquela massa de informações transitando entre cliente
+
+50
+00:02:17,929 --> 00:02:21,038
+e servidor o tempo todo Tá? Eh você vai
+
+51
+00:02:21,050 --> 00:02:22,159
+usar o web.
+
+52
+00:02:22,169 --> 00:02:25,189
+Soc, né que é o tipo de aplicação eh
+
+53
+00:02:25,199 --> 00:02:27,508
+pra esse recurso, né? Como é que eu
+
+54
+00:02:27,520 --> 00:02:31,969
+faço isso no eh quando eu faço isso aí,
+
+55
+00:02:31,979 --> 00:02:36,550
+dentro do ambiente do JS usando a biblioteca W S,
+
+56
+00:02:36,558 --> 00:02:39,909
+nada mais justo, né? Na W w Socrates
+
+57
+00:02:40,618 --> 00:02:44,389
+aqui eu tenho um exemplo de um adc com express
+
+58
+00:02:44,399 --> 00:02:49,149
+tá, eu tenho o meu a PP express e
+
+59
+00:02:49,159 --> 00:02:51,669
+eu coloco o seguinte Oh como o senhor message w
+
+60
+00:02:51,679 --> 00:02:57,240
+S data W sand recebido cada vez que tiver data,
+
+61
+00:02:57,250 --> 00:02:59,490
+né? E aqui eu tô colocando nota que tem
+
+62
+00:02:59,500 --> 00:03:04,689
+w s vírgula data tá eh esse w s aqui
+
+63
+00:03:04,699 --> 00:03:08,500
+vai ser o meu web soc tá ou messa de
+
+64
+00:03:08,508 --> 00:03:13,288
+da datas recebido ou um connection da hack ou meça
+
+65
+00:03:13,300 --> 00:03:16,278
+de data ou mes de da data que que eu
+
+66
+00:03:16,288 --> 00:03:18,629
+tô fazendo aqui? Gente? Isso aqui é esse
+
+67
+00:03:18,639 --> 00:03:27,580
+código aqui Oh, Deixa eu pegar esse aqui não
+
+68
+00:03:29,240 --> 00:03:34,129
+por onde w s express PP express O que eu
+
+69
+00:03:34,139 --> 00:03:38,270
+tô falando aqui é o seguinte ao conectar aquele wed
+
+70
+00:03:38,278 --> 00:03:44,460
+soc com aquela requisição Aquele web seca no evento message
+
+71
+00:03:44,469 --> 00:03:48,528
+Quando tiver um evento message data, vai ser o
+
+72
+00:03:48,538 --> 00:03:52,129
+message ou da Blas Data, tá no no evento
+
+73
+00:03:52,139 --> 00:03:54,038
+me ele vai pegar o dado e vai mudar pro
+
+74
+00:03:54,050 --> 00:03:57,129
+vai mandar pro evento o mesas que queria fazer no
+
+75
+00:03:57,139 --> 00:04:03,860
+messe W S Data recebido tá podia colocar recebido eh
+
+76
+00:04:03,868 --> 00:04:12,599
+dólar data é faz assim também não seria um grande
+
+77
+00:04:12,610 --> 00:04:16,720
+problema? Tá? Eh parar o servidor Quanto que
+
+78
+00:04:16,730 --> 00:04:22,629
+executar de novo? Eh O server seria simplesmente um
+
+79
+00:04:22,639 --> 00:04:27,579
+um Express rodando ali na porta três mil tá e
+
+80
+00:04:27,588 --> 00:04:29,980
+o w S S é o web soft server em
+
+81
+00:04:29,988 --> 00:04:30,738
+cima do server.
+
+82
+00:04:30,750 --> 00:04:32,259
+Então ele vai fazer o que ele vai criar um
+
+83
+00:04:32,269 --> 00:04:35,988
+servidor express comum colocando na porta três mil em cima
+
+84
+00:04:36,000 --> 00:04:39,189
+dele vai colocar um web soquete tá e vai falar
+
+85
+00:04:39,199 --> 00:04:42,629
+o seguinte w s s ou Connection connection, né?
+
+86
+00:04:42,639 --> 00:04:47,028
+Ou seja, quando tiver a conexão desse web ele
+
+87
+00:04:47,040 --> 00:04:50,540
+vai rodar um CONECTION ao ter a conexão, vai
+
+88
+00:04:50,548 --> 00:04:54,059
+associar a mensagem e vai enviar o recebido ali cada
+
+89
+00:04:54,069 --> 00:04:57,019
+vez que tiver uma mensagem tá então cada vez chegou
+
+90
+00:04:57,028 --> 00:05:01,619
+uma mensagem via recebido blog um conection aqui pra dizer
+
+91
+00:05:01,629 --> 00:05:04,519
+que ele foi conectado Tá, vamos ver se funcionando
+
+92
+00:05:06,980 --> 00:05:10,600
+node o a PP web Socrates Acho que ele tá
+
+93
+00:05:10,608 --> 00:05:14,600
+salvando o automático E aí eu tenho que testar,
+
+94
+00:05:14,608 --> 00:05:17,689
+né? Então assim primeiro aqui eh, Eu tenho
+
+95
+00:05:17,699 --> 00:05:21,069
+que deixar claro que eu tenho um servidor eu tenho
+
+96
+00:05:21,079 --> 00:05:23,689
+um web soft que e capsula o servidor e ao
+
+97
+00:05:23,699 --> 00:05:28,028
+conectar ele coloca associado o evento de tratamento de mensagens
+
+98
+00:05:28,949 --> 00:05:32,079
+tá e cada mensagem recebida ele vai enviar de volta
+
+99
+00:05:32,088 --> 00:05:37,819
+recebida alguma coisa? Tá então agora tendo esse cara
+
+100
+00:05:37,829 --> 00:05:41,858
+rodando como eu deixei ele aqui, eu vou precisar
+
+101
+00:05:41,869 --> 00:05:44,100
+de alguma coisa que seja capaz de testar E aí
+
+102
+00:05:44,108 --> 00:05:46,420
+eu vou usar um plugin dá, tem um plugin
+
+103
+00:05:46,428 --> 00:05:50,838
+muito prático! EH do Chrome que é o C,
+
+104
+00:05:50,850 --> 00:05:54,459
+né? Esse plugin é só pesquisar na loja do
+
+105
+00:05:54,470 --> 00:06:01,149
+Chrome! Smart So C tá adicionar normalmente do Chrome?
+
+106
+00:06:02,059 --> 00:06:05,350
+Ele tem essa carinha aqui W S local HOL três
+
+107
+00:06:05,358 --> 00:06:11,470
+mil que coloquei o endereço vou conectar conectei, Tá?
+
+108
+00:06:11,480 --> 00:06:14,329
+Ele tá conectado! Se eu olhar aqui no meu
+
+109
+00:06:14,338 --> 00:06:17,459
+servidor há um connection, ou seja, já passou
+
+110
+00:06:17,470 --> 00:06:20,970
+por aqui e ele tem agora esse tratamento de mensagens.
+
+111
+00:06:21,629 --> 00:06:24,059
+Vou colocar uma informação qualquer um dois, três.
+
+112
+00:06:25,119 --> 00:06:28,850
+Se recebido um, dois, três e não fechou
+
+113
+00:06:28,858 --> 00:06:34,519
+a conexão eu posso enviar o que eu quiser,
+
+114
+00:06:34,528 --> 00:06:37,019
+ele vai tá sendo recebido pelos pelos meu servidor e
+
+115
+00:06:37,028 --> 00:06:38,358
+tá mandando de volta pra mim.
+
+116
+00:06:38,369 --> 00:06:41,009
+Uma informação, né? Com isso a gente consegue
+
+117
+00:06:41,019 --> 00:06:48,699
+Então eh trabalhar com eh uma comunicação bidirecional o que
+
+118
+00:06:48,709 --> 00:06:52,488
+vai ser muito interessante quando a gente trabalhar eh for,
+
+119
+00:06:52,500 --> 00:06:54,850
+fazer algum jogo, criar alguma coisa que exija esse
+
+120
+00:06:54,858 --> 00:06:56,389
+tipo de comportamento.
+
+121
+00:06:56,399 --> 00:06:59,899
+Okay Bom, Então, essas são as características de
+
+122
+00:06:59,910 --> 00:07:00,079
+Wed.
+
+123
+00:07:00,088 --> 00:07:02,608
+Soc, né? Nesse ponto a gente tem agora
+
+124
+00:07:02,619 --> 00:07:05,608
+a possibilidade de criar algum sistema que no qual é
+
+125
+00:07:05,619 --> 00:07:09,250
+exigida a comunicação bidirecional ao nível da conexão.
+

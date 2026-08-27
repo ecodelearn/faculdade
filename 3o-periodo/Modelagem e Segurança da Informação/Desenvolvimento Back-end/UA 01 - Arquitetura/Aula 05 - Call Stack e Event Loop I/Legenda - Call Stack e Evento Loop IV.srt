@@ -1,0 +1,472 @@
+1
+00:00:06,320 --> 00:00:09,728
+Olá, vamos falar um pouquinho sobre o uso de
+
+2
+00:00:09,739 --> 00:00:13,489
+né? É um nome eh talvez um pouco estranho
+
+3
+00:00:13,500 --> 00:00:16,170
+de início, mas pro mais é uma promessa de
+
+4
+00:00:16,179 --> 00:00:18,568
+resultado, né? Seria, o que você tem,
+
+5
+00:00:18,579 --> 00:00:22,309
+um valor que pode estar lá ou não, por
+
+6
+00:00:22,318 --> 00:00:27,609
+quê? Porque ele é a sincrotron de retorno.
+
+7
+00:00:27,620 --> 00:00:29,888
+Mas você não tem o retorno se a função é
+
+8
+00:00:29,899 --> 00:00:33,348
+sincronia, você tem o retorno ou erro ponto Mas
+
+9
+00:00:33,359 --> 00:00:34,950
+se a função é a sincronia, você não tem
+
+10
+00:00:34,959 --> 00:00:36,950
+como saber até que ela retorne.
+
+11
+00:00:36,959 --> 00:00:39,490
+Então você tem uma promessa de retorno, isso é
+
+12
+00:00:39,500 --> 00:00:42,209
+chamado de mais vamos ver como é que isso funciona,
+
+13
+00:00:44,279 --> 00:00:47,429
+Então assim tô usando pra mais um G no JS
+
+14
+00:00:48,779 --> 00:00:51,380
+Quando você cria uma função cha eh do tipo a
+
+15
+00:00:51,389 --> 00:00:56,829
+que você usa aquela palavrinha A cinco automaticamente o retorno
+
+16
+00:00:56,840 --> 00:01:00,149
+da função é encapsulado numa, ou seja, o
+
+17
+00:01:00,158 --> 00:01:01,228
+retorno de uma função.
+
+18
+00:01:01,240 --> 00:01:05,989
+A sincronia é sempre pro mais uma função padrão,
+
+19
+00:01:06,000 --> 00:01:08,870
+o retorno não é pro, mas você pode pegar
+
+20
+00:01:08,879 --> 00:01:12,849
+uma função que não seja a uma função comum e
+
+21
+00:01:12,859 --> 00:01:16,588
+fazer com que ela retorne uma transformando ela numa função
+
+22
+00:01:16,599 --> 00:01:19,760
+acro, né? Então assim ele é o retorno
+
+23
+00:01:19,769 --> 00:01:21,680
+padrão da função a cinco, né? As funções
+
+24
+00:01:21,689 --> 00:01:24,969
+que são a cinco eh quando você definiu uma pro
+
+25
+00:01:24,980 --> 00:01:27,579
+mais ele vai pegar aquela função, que seria teoricamente
+
+26
+00:01:27,588 --> 00:01:31,448
+SC, e colocar como uma síndrome e vai resolver
+
+27
+00:01:31,459 --> 00:01:36,969
+eh assim o retorno através de dois métodos resol rec
+
+28
+00:01:37,599 --> 00:01:38,409
+o resolve.
+
+29
+00:01:38,418 --> 00:01:41,129
+Vai te definir o valor de retorno quando ele tem
+
+30
+00:01:41,138 --> 00:01:44,689
+sucesso e o get seria o equivalente a um erro.
+
+31
+00:01:44,698 --> 00:01:47,109
+É qual o tipo de erro que ele vai emitir,
+
+32
+00:01:47,120 --> 00:01:50,088
+né? Captura do valor do Resol é com a
+
+33
+00:01:50,099 --> 00:01:54,028
+Wait, né? Ou com o de então tudo
+
+34
+00:01:54,040 --> 00:01:55,308
+aquilo que a gente usa pra uma função, a
+
+35
+00:01:55,319 --> 00:01:57,269
+SC não vai funcionar aqui também.
+
+36
+00:01:57,278 --> 00:01:59,909
+Aí eu vou aceitar um wait, eu vou usar
+
+37
+00:01:59,918 --> 00:02:02,750
+um de e eu posso capturar os erros também.
+
+38
+00:02:02,760 --> 00:02:05,739
+Com cat, né? Ou no caso o erro
+
+39
+00:02:05,750 --> 00:02:09,308
+após o demo, né? Então aqui eu tenho
+
+40
+00:02:09,319 --> 00:02:14,028
+um exemplo de uma pro Ah lá dividir a B
+
+41
+00:02:14,038 --> 00:02:19,990
+pro mais, ou seja resultado positivo ou negativo se
+
+42
+00:02:20,000 --> 00:02:23,069
+B é igual a zero Divisão por zero tô rejeitando.
+
+43
+00:02:23,080 --> 00:02:24,710
+Vou gerando um erro de divisão por zero.
+
+44
+00:02:24,719 --> 00:02:27,069
+Se não resolve a sobre B, ou seja,
+
+45
+00:02:27,080 --> 00:02:29,830
+essa função, ela tem uma promessa de retorno de
+
+46
+00:02:29,838 --> 00:02:30,449
+uma divisão.
+
+47
+00:02:31,179 --> 00:02:35,419
+Se eh se ele tiver um valor zero eu vou
+
+48
+00:02:35,429 --> 00:02:37,939
+dizer que eh a divisão por zero.
+
+49
+00:02:37,949 --> 00:02:39,830
+Eu vou rejeitar com essa mensagem de erro.
+
+50
+00:02:39,838 --> 00:02:42,849
+Senão eu vou retornar ao valor de A sobre B,
+
+51
+00:02:42,860 --> 00:02:44,149
+mas é uma pro mais.
+
+52
+00:02:44,159 --> 00:02:46,270
+Se é uma pro mais, eu não posso falar
+
+53
+00:02:46,278 --> 00:02:49,270
+que eh X é igual.
+
+54
+00:02:49,278 --> 00:02:53,419
+Dividir cinco vírgula dois tem que ser dividir X eh
+
+55
+00:02:53,429 --> 00:02:56,419
+cinco ponto dois, né? Cinco vírgula, dois
+
+56
+00:02:56,429 --> 00:03:00,830
+ponto d x recebe o resultado, né? Inverte
+
+57
+00:03:00,838 --> 00:03:02,929
+a coisa tá porque aí é o operador dentro que
+
+58
+00:03:02,939 --> 00:03:04,729
+tem que ser usado, ou no caso de uma
+
+59
+00:03:04,740 --> 00:03:07,020
+cinco eu teria que dar um wait pra receber esse
+
+60
+00:03:07,028 --> 00:03:11,258
+valor, né? Eh, eu também posso usar
+
+61
+00:03:11,270 --> 00:03:15,349
+pro mais diretamente, né? Em vez de definir
+
+62
+00:03:15,360 --> 00:03:17,508
+aquela pro mais daquela forma eu posso colocar assim oh
+
+63
+00:03:17,520 --> 00:03:21,788
+promise ponto resolvo x vezes dois aqui em vez de
+
+64
+00:03:21,800 --> 00:03:23,460
+ser um eh, seria a mesma coisa que você
+
+65
+00:03:23,469 --> 00:03:26,909
+escrevesse a cinco x vezes dois, né? Porque
+
+66
+00:03:26,919 --> 00:03:29,210
+eu tô fazendo o que eu tô mandando resolver na
+
+67
+00:03:29,219 --> 00:03:32,550
+prom E aí eu teria também o mesmo comportamento a
+
+68
+00:03:32,558 --> 00:03:33,189
+sí crono.
+
+69
+00:03:33,199 --> 00:03:35,849
+Tenho que usar o dano pra poder trabalhar, né?
+
+70
+00:03:35,860 --> 00:03:41,300
+Olha que coisa interessante eh uma execução aqui pegar esse
+
+71
+00:03:41,308 --> 00:03:47,538
+cara aqui aqui eu tenho a pro mais né?
+
+72
+00:03:48,278 --> 00:03:50,288
+Eu tenho aqui pro mais igual a New Pro mais
+
+73
+00:03:50,300 --> 00:03:52,610
+resolvo Jet Divisão por zero no caso de B,
+
+74
+00:03:52,618 --> 00:03:55,210
+C, igual a zero, se não resolve a
+
+75
+00:03:55,219 --> 00:03:59,479
+B, e eu vou retornar essa pra quem me
+
+76
+00:03:59,490 --> 00:04:00,199
+chamou.
+
+77
+00:04:00,210 --> 00:04:02,088
+Ou seja, Tran, o cara virou a SC,
+
+78
+00:04:02,099 --> 00:04:04,960
+né? Para ir igual a dois.
+
+79
+00:04:04,969 --> 00:04:06,500
+I maior ou igual a menos dois.
+
+80
+00:04:07,439 --> 00:04:10,909
+Se eu vou colocar dividir dez um x console e
+
+81
+00:04:10,919 --> 00:04:14,288
+vou colocar eh console logo x.
+
+82
+00:04:14,300 --> 00:04:17,389
+Se tiver erro, imprime o erro.
+
+83
+00:04:18,230 --> 00:04:20,959
+Ah, no console então tem o den e o
+
+84
+00:04:20,970 --> 00:04:24,838
+Cat Tá bom, Se eu fizer esse cara aqui
+
+85
+00:04:24,850 --> 00:04:36,259
+oh, vou colocar node, outro JS, observar
+
+86
+00:04:36,269 --> 00:04:40,189
+uma coisa interessante hum esse aqui foi na ordem.
+
+87
+00:04:40,920 --> 00:04:43,250
+Ah, não, não foi? Não olha que
+
+88
+00:04:43,259 --> 00:04:45,889
+coisa interessante ele primeiro executou cinco, dez! Menos
+
+89
+00:04:45,899 --> 00:04:46,869
+dez menos cinco.
+
+90
+00:04:46,879 --> 00:04:47,709
+O erro foi aqui em baixo.
+
+91
+00:04:47,720 --> 00:04:52,259
+Oh então naquele loop do loop de eventos.
+
+92
+00:04:52,269 --> 00:04:54,500
+Às vezes você acha que vai executar de um jeito,
+
+93
+00:04:54,509 --> 00:04:57,059
+mas o evento data, tá num canto e o
+
+94
+00:04:57,069 --> 00:04:59,399
+evento eh erro tá no outro.
+
+95
+00:04:59,970 --> 00:05:02,980
+Com isso, você não garante a ordem de saída,
+
+96
+00:05:02,988 --> 00:05:06,500
+né? Primeiro ele jogou os datas que seriam pra
+
+97
+00:05:06,509 --> 00:05:08,059
+depois gerar o erro, que é o jet,
+
+98
+00:05:08,069 --> 00:05:11,988
+né? funções acro, você tem sempre que tomar
+
+99
+00:05:12,000 --> 00:05:15,879
+cuidado com elas, po EH, tem essa questão
+
+100
+00:05:15,889 --> 00:05:19,809
+da sincronia? Tá! E esse aqui eu posso
+
+101
+00:05:19,819 --> 00:05:22,579
+também colocar dois den, né? Aqui eu tenho
+
+102
+00:05:22,588 --> 00:05:25,600
+eh dividir dez um den X um dobrar X um,
+
+103
+00:05:25,608 --> 00:05:29,410
+tô usando dobrar x dois consome logo x dois Você
+
+104
+00:05:29,420 --> 00:05:31,178
+pode pegar o resultado de uma pro mais e jogar
+
+105
+00:05:31,189 --> 00:05:31,829
+pra outra.
+
+106
+00:05:31,838 --> 00:05:34,428
+Daí aplicar outra função a cinco, né? Jogar
+
+107
+00:05:34,439 --> 00:05:37,108
+pra outro de tá, então isso é um encadeamento
+
+108
+00:05:37,119 --> 00:05:43,649
+de nce, né? Bom, esses são assim
+
+109
+00:05:43,660 --> 00:05:46,009
+esses são os elementos principais em termos de processamento,
+
+110
+00:05:46,019 --> 00:05:49,488
+sí cromo e a SCC no JS e seus principais
+
+111
+00:05:49,500 --> 00:05:52,149
+ferramentas pra suportar ambos os modelos, né? Do
+
+112
+00:05:52,160 --> 00:05:54,410
+SCN não muda nada, mas do a síndrome tem
+
+113
+00:05:54,420 --> 00:05:56,528
+essa questão do evento LOOP.
+
+114
+00:05:56,540 --> 00:05:58,649
+Como é que você trabalha com as filas, né?
+
+115
+00:05:58,660 --> 00:06:02,088
+De Cobe, e isso é um diferencial muito grande
+
+116
+00:06:02,100 --> 00:06:03,170
+em termos no JS.
+
+117
+00:06:03,178 --> 00:06:06,329
+Espero ter agregado conhecimento, a gente fica por aqui,
+
+118
+00:06:06,338 --> 00:06:08,108
+Bons estudos e até a próxima
+

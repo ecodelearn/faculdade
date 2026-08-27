@@ -1,0 +1,508 @@
+1
+00:00:05,820 --> 00:00:08,589
+Olá aluno, professor Fabrício Melo na área.
+
+2
+00:00:08,599 --> 00:00:11,250
+Estamos aí com a matéria meio de comunicação lembra a
+
+3
+00:00:11,259 --> 00:00:13,448
+camada física, a camada um do modelo EH,
+
+4
+00:00:13,460 --> 00:00:18,190
+vamos falar agora das topologias físicas de rede é que
+
+5
+00:00:18,199 --> 00:00:20,760
+é conteúdo lá da camada um.
+
+6
+00:00:20,769 --> 00:00:23,388
+Quando a gente fala de topologia física, nós falamos
+
+7
+00:00:23,399 --> 00:00:27,469
+de que do layout físico que a sua rede vai
+
+8
+00:00:27,478 --> 00:00:29,510
+ter tá vendo oh lá, oh! Ela mostra
+
+9
+00:00:29,519 --> 00:00:33,929
+como os dispositivos finais e os intermediários se conectam.
+
+10
+00:00:34,310 --> 00:00:37,200
+É o layout da rede definidos em função de quê
+
+11
+00:00:37,209 --> 00:00:40,200
+do tipo de conexão entre os seus dispositivos.
+
+12
+00:00:40,209 --> 00:00:42,959
+Aí nós vimos que ela pode ser ponto a ponto,
+
+13
+00:00:42,969 --> 00:00:45,200
+né? Esse tipo de conexão oh dois dispositivos vão
+
+14
+00:00:45,209 --> 00:00:48,668
+se conectar diretamente entre si, né? Então a
+
+15
+00:00:48,679 --> 00:00:53,228
+capacidade da transmissão do meio fica reservada unicamente pra eles.
+
+16
+00:00:53,240 --> 00:00:57,418
+E temos a multiponto, onde as conexões multiponto permitem
+
+17
+00:00:57,429 --> 00:00:57,829
+o queira.
+
+18
+00:00:57,840 --> 00:01:00,880
+Aluno que um dispositivo se comunique com dois ou mais
+
+19
+00:01:00,889 --> 00:01:03,990
+dispositivos, você já tem uma conexão com maior quantidade
+
+20
+00:01:04,000 --> 00:01:04,930
+de dispositivos.
+
+21
+00:01:04,939 --> 00:01:09,778
+Neste caso, a de transmissão é compartilhada entre eles.
+
+22
+00:01:09,790 --> 00:01:12,418
+Então você tem um ponto a ponto e o multiponto
+
+23
+00:01:12,430 --> 00:01:17,079
+em cima dessas topologias físicas, vamos falar da antropologia
+
+24
+00:01:17,088 --> 00:01:20,099
+de rede multiponto, que é a famosa barra ou
+
+25
+00:01:20,109 --> 00:01:23,299
+barramento é uma topologia já ultrapassada.
+
+26
+00:01:23,308 --> 00:01:26,189
+Tá vendo? É uma topologia que você tem basicamente
+
+27
+00:01:26,198 --> 00:01:29,930
+um cabo, um meio de transmissão linear a qual
+
+28
+00:01:29,939 --> 00:01:33,959
+todos os nós nós são chamados de equipamentos.
+
+29
+00:01:33,969 --> 00:01:38,019
+Os equipamentos que são na rede os st tá diretamente
+
+30
+00:01:38,028 --> 00:01:39,409
+conectados a esse nó.
+
+31
+00:01:39,418 --> 00:01:41,519
+Tá vendo oh então oh lá, oh o exemplo
+
+32
+00:01:41,528 --> 00:01:42,879
+aqui aí eles tem que ter no final tem que
+
+33
+00:01:42,888 --> 00:01:46,439
+ter um um terminado aqui no final aí você tem
+
+34
+00:01:46,448 --> 00:01:51,180
+um famoso t onde os equipamentos vão oh estar todos
+
+35
+00:01:51,189 --> 00:01:56,388
+nesse mesmo cabo é uma topologia complicada hoje, porque
+
+36
+00:01:56,400 --> 00:01:58,969
+se você tem um problema nesse cabo, aí acabou.
+
+37
+00:01:58,980 --> 00:02:02,150
+Se você tem uma rede com grande tráfego de dados,
+
+38
+00:02:02,159 --> 00:02:05,189
+vai ter problema também que tá transitando tudo por um
+
+39
+00:02:05,198 --> 00:02:08,129
+meio né? O mesmo canal tá não é muito
+
+40
+00:02:08,139 --> 00:02:12,169
+recomendável, não temos a Aneel anel é o famoso
+
+41
+00:02:12,179 --> 00:02:15,770
+circuito fechado tá vendo oh! Os dispositivos são conectados
+
+42
+00:02:15,778 --> 00:02:19,649
+em série, formando o quê um circuito fechado um
+
+43
+00:02:19,659 --> 00:02:23,699
+anel onde os dados são o quê transmitidos unidirecional,
+
+44
+00:02:23,710 --> 00:02:27,629
+n e n até atingir o seu destino ou em
+
+45
+00:02:27,639 --> 00:02:29,409
+anel duplo, né que cê também tem a opção
+
+46
+00:02:29,419 --> 00:02:32,210
+do anel duplo, onde os dados são transmitidos simultaneamente
+
+47
+00:02:32,219 --> 00:02:34,969
+em ambas as direções, ou seja, quando você
+
+48
+00:02:34,979 --> 00:02:37,740
+tem um anel simples oh é um dispositivo conectado ao
+
+49
+00:02:37,750 --> 00:02:40,028
+outro, formando um circuito fechado.
+
+50
+00:02:40,429 --> 00:02:42,319
+E quando tem um anel duplo, você tem um
+
+51
+00:02:42,330 --> 00:02:49,770
+sistema de redundância com outro cabo onde você vai transmitir
+
+52
+00:02:49,778 --> 00:02:50,689
+de duas formas.
+
+53
+00:02:50,699 --> 00:02:53,929
+Tá vendo aí então é melhor, mas também pra
+
+54
+00:02:53,939 --> 00:02:58,210
+redes locais já é um pouco aí ultrapassar essa topologia
+
+55
+00:02:58,219 --> 00:03:02,050
+tá e temos a topologia estrela, essa não tem
+
+56
+00:03:02,058 --> 00:03:05,889
+o que falar é a mais usada hoje no mercado,
+
+57
+00:03:05,899 --> 00:03:08,159
+em redes locais, que nada mais é do que
+
+58
+00:03:08,169 --> 00:03:14,058
+você ter aqui Um equipamento central muito conhecido como switch,
+
+59
+00:03:14,069 --> 00:03:16,740
+que a gente conhecia como hub.
+
+60
+00:03:16,750 --> 00:03:20,899
+Antigamente atrapalhei, deixa eu apagar e melhorar pra você
+
+61
+00:03:20,909 --> 00:03:26,008
+aqui escrever aqui por cima tá aqui oh cê,
+
+62
+00:03:26,020 --> 00:03:29,569
+tinha esse equipamento such que é um equipamento bem melhorado
+
+63
+00:03:29,580 --> 00:03:32,210
+com relação ao antigo hub, né que a gente
+
+64
+00:03:32,219 --> 00:03:36,610
+vai estudar e essa a topologia todas as máquinas estão
+
+65
+00:03:36,618 --> 00:03:37,629
+conectadas.
+
+66
+00:03:37,639 --> 00:03:40,669
+Oh a ela tá vendo aí a esse suíte,
+
+67
+00:03:40,939 --> 00:03:44,710
+então uma máquina pede uma informação pro servidor, o
+
+68
+00:03:44,719 --> 00:03:48,528
+servidor manda p such e o switch distribui, manda
+
+69
+00:03:48,538 --> 00:03:50,750
+a informação só pra máquina que pediu.
+
+70
+00:03:50,758 --> 00:03:54,110
+Essa rede mais usada hoje nas redes locais tá?
+
+71
+00:03:54,118 --> 00:03:58,750
+E através dessa topologia você pode formar a topologia árvore
+
+72
+00:03:58,758 --> 00:03:59,849
+em cima dela.
+
+73
+00:03:59,860 --> 00:04:01,550
+Como é que é a topologia em árvore? Olha
+
+74
+00:04:01,558 --> 00:04:05,270
+só que legal é você ter ali um ponto central
+
+75
+00:04:05,278 --> 00:04:09,969
+interligando várias topologias estrela, tá vendo, oh,
+
+76
+00:04:10,319 --> 00:04:12,319
+Então lá os nossos centrais podem ser inter ligados em
+
+77
+00:04:12,330 --> 00:04:13,689
+uma forma de estrutura hierárquica.
+
+78
+00:04:13,699 --> 00:04:16,569
+Tá vendo Oh formando antropologia em árvore.
+
+79
+00:04:16,579 --> 00:04:20,250
+É como se você expandisse a topologia estrela, né,
+
+80
+00:04:20,259 --> 00:04:22,290
+gerando outras redes ali.
+
+81
+00:04:22,298 --> 00:04:24,480
+Aí vai gerando um sistema de árvore.
+
+82
+00:04:24,488 --> 00:04:27,850
+Tá essa pode se dizer aí a estrela é a
+
+83
+00:04:27,858 --> 00:04:30,639
+mais famosa das topologias perfeito.
+
+84
+00:04:30,649 --> 00:04:33,850
+E temos também a topologia em malha.
+
+85
+00:04:33,858 --> 00:04:38,970
+A famosa mexe que cada dispositivo oh é interligado com
+
+86
+00:04:38,980 --> 00:04:39,709
+seus pares.
+
+87
+00:04:39,720 --> 00:04:43,709
+Tá vendo criando uma malha completa que é chamada fume.
+
+88
+00:04:43,720 --> 00:04:47,040
+Oh lá, todo mundo conectado com todo mundo com
+
+89
+00:04:47,048 --> 00:04:48,629
+uma redundância nas conexões.
+
+90
+00:04:48,639 --> 00:04:53,119
+Ou seja, se você perder ali uma uma conexão,
+
+91
+00:04:53,129 --> 00:04:55,399
+você vai ter um outro caminho, né? Pode
+
+92
+00:04:55,410 --> 00:04:56,899
+ser que seja feito isso.
+
+93
+00:04:56,910 --> 00:04:59,720
+E em sistema onde você tem muitas estações e torna
+
+94
+00:04:59,730 --> 00:05:03,660
+inviável essa utilização, você pode fazer a malha mista,
+
+95
+00:05:03,949 --> 00:05:07,639
+né, onde as conexões do tipo estrela apresentam alguns
+
+96
+00:05:07,649 --> 00:05:08,920
+links redundantes.
+
+97
+00:05:08,928 --> 00:05:13,199
+Então você pode pegar também as conexões estrelas e gerar
+
+98
+00:05:13,209 --> 00:05:17,040
+ali uma redundância pra que essas máquinas todas estejam conectadas
+
+99
+00:05:17,048 --> 00:05:17,678
+entre si.
+
+100
+00:05:17,689 --> 00:05:21,358
+Aí você forma aí a famosa oh malha mista,
+
+101
+00:05:21,369 --> 00:05:23,059
+né? Então, isso é uma rede também bem
+
+102
+00:05:23,069 --> 00:05:26,000
+conhecida pra grandes transmissões de dados ou até quando você
+
+103
+00:05:26,009 --> 00:05:27,980
+fala em rede, por exemplo, sem fio,
+
+104
+00:05:28,420 --> 00:05:32,470
+você praticamente gera aí uma rede do tipo malha tá
+
+105
+00:05:32,480 --> 00:05:36,790
+é o caso desse exemplo de topologia física perfeito.
+
+106
+00:05:36,798 --> 00:05:40,769
+Então tá aí, e temos também a topologia celular
+
+107
+00:05:41,379 --> 00:05:43,519
+já deu pra entender, né? Que são que
+
+108
+00:05:43,528 --> 00:05:45,230
+são utilizados pelos nossos dispositivos.
+
+109
+00:05:45,238 --> 00:05:48,389
+Aí os celulares tá vendo oh normalmente utilizado o que
+
+110
+00:05:48,399 --> 00:05:51,548
+nas transmissões de rádio, a área a ser coberta
+
+111
+00:05:51,559 --> 00:05:53,439
+é dividida em células.
+
+112
+00:05:53,449 --> 00:05:55,699
+Cada célula é mantida por uma estação central.
+
+113
+00:05:55,709 --> 00:05:59,988
+Então você tem que tá vendo oh várias torres de
+
+114
+00:06:00,000 --> 00:06:04,829
+rádio formando células aí você com o seu dispositivo,
+
+115
+00:06:04,838 --> 00:06:08,009
+você conecta uma dessas torres e consegue conectar.
+
+116
+00:06:08,369 --> 00:06:11,100
+Por isso que a gente quando tá numa estrada tá
+
+117
+00:06:11,108 --> 00:06:14,309
+passando por um local remoto, você perde o sinal.
+
+118
+00:06:14,319 --> 00:06:17,959
+Por quê? Porque você sai dessa área celular,
+
+119
+00:06:17,970 --> 00:06:21,139
+aí você perde, né? A conexão a essas
+
+120
+00:06:21,149 --> 00:06:24,619
+células e hoje aí com a transmissão cinco g Você
+
+121
+00:06:24,629 --> 00:06:26,699
+pode observar que as antenas tem que ter uma concentração
+
+122
+00:06:26,709 --> 00:06:30,184
+maior de antenas pra você poder ter um sinal aí,
+
+123
+00:06:30,194 --> 00:06:34,125
+né? Com a tecnologia a velocidade cinco G perfeito,
+
+124
+00:06:34,134 --> 00:06:36,403
+então isso também é uma topologia aí de rede a
+
+125
+00:06:36,415 --> 00:06:40,653
+famosa topologia celular, tranquilo Okay.
+
+126
+00:06:40,665 --> 00:06:44,625
+Então fechamos aí esse conteúdo.
+
+127
+00:06:44,634 --> 00:06:47,285
+Até mais até a próxima grande abraço.
+

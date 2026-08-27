@@ -1,0 +1,656 @@
+1
+00:00:05,849 --> 00:00:08,978
+Olá aluno! Professor Fabrício Melo Estamos de volta,
+
+2
+00:00:08,989 --> 00:00:11,300
+vamos que vamos trabalhando com a matéria de segurança da
+
+3
+00:00:11,310 --> 00:00:14,579
+informação e agora a gente vai tratar sobre continuando a
+
+4
+00:00:14,589 --> 00:00:17,818
+Amia dos ataques, Mas tratando sobre os métodos de
+
+5
+00:00:17,829 --> 00:00:20,978
+evasão, método de evasão são métodos aí que o
+
+6
+00:00:20,989 --> 00:00:25,899
+atacante ele tenta esconder de alguma forma o envio de
+
+7
+00:00:25,908 --> 00:00:28,760
+uma praga, um acesso ao computador.
+
+8
+00:00:28,769 --> 00:00:31,059
+Ele vai tentar ali criar técnicas, né? Pra
+
+9
+00:00:31,068 --> 00:00:35,539
+poder tentar se esconder pra tentar desviar aí pra conseguir
+
+10
+00:00:35,548 --> 00:00:37,279
+um ataque bem sucedido.
+
+11
+00:00:37,289 --> 00:00:40,779
+Okay Quais são os principais métodos de evasão? Olha
+
+12
+00:00:40,789 --> 00:00:46,548
+só trabalhar com a criptografia Encapsulamentos Eles conseguem criptografar embaralhar
+
+13
+00:00:46,560 --> 00:00:50,149
+os arquivos de mawé, então eles não são ali
+
+14
+00:00:50,158 --> 00:00:54,649
+detectados reconhecidos, estão criptografados até atingir o destino,
+
+15
+00:00:54,658 --> 00:00:58,259
+né? Fragmentação do tráfico Eles conseguem fazer isso também?
+
+16
+00:00:58,270 --> 00:01:02,990
+Oh divide uma carga maliciosa em pacotes menores para ignorar
+
+17
+00:01:03,000 --> 00:01:04,329
+a detecção de segurança de rede.
+
+18
+00:01:04,338 --> 00:01:07,269
+Então a segurança tá ali fazendo a filtragem.
+
+19
+00:01:07,278 --> 00:01:09,870
+Como vem pacotes menores?Às vezes tá na regra
+
+20
+00:01:09,879 --> 00:01:12,308
+de entrar entra e já era.
+
+21
+00:01:12,319 --> 00:01:15,870
+Fez o ataque, né? Interceptação errada no nível
+
+22
+00:01:15,879 --> 00:01:18,519
+do protocolo O que que seria isso? As defesas
+
+23
+00:01:18,528 --> 00:01:21,120
+de rede não manipulam corretamente os recursos de uma p
+
+24
+00:01:21,129 --> 00:01:22,900
+d u lembra da p D U que vai nas
+
+25
+00:01:22,909 --> 00:01:26,319
+camadas ali dos do modelo o como um valor de
+
+26
+00:01:26,329 --> 00:01:28,558
+soma de verificação ou T T L, então,
+
+27
+00:01:28,569 --> 00:01:31,198
+como não vai que que vai acontecer, vai ser
+
+28
+00:01:31,209 --> 00:01:34,519
+feita a interpretação errada e vai passar, né?
+
+29
+00:01:34,528 --> 00:01:37,918
+Substituição de tráfego que que seria isso? Ele vai
+
+30
+00:01:37,930 --> 00:01:40,239
+tentar enganar um i PS, né? O famoso
+
+31
+00:01:40,250 --> 00:01:43,650
+aí Sistema de prevenção de intruso que opera com o
+
+32
+00:01:43,659 --> 00:01:46,980
+Fire wol, que é um sistema que vai simplesmente
+
+33
+00:01:46,989 --> 00:01:49,588
+monitorar o tráfico de rede e a hora que ele
+
+34
+00:01:49,599 --> 00:01:54,028
+consegue detectar ali uma anomalia, uma uma invasão ele
+
+35
+00:01:54,040 --> 00:01:58,588
+consegue além de alarmar ele consegue bloquear ali o ataque.
+
+36
+00:01:58,599 --> 00:02:00,329
+Isso é o o i PS.
+
+37
+00:02:00,338 --> 00:02:03,109
+Então ele vai tentar enganar esse i PS oh ofuscando
+
+38
+00:02:03,120 --> 00:02:04,569
+os dados na carga útil.
+
+39
+00:02:05,120 --> 00:02:08,210
+Isso é feito codificado em um formato diferente.
+
+40
+00:02:08,219 --> 00:02:11,629
+Tem o i PS tá com regras e passa,
+
+41
+00:02:11,639 --> 00:02:13,929
+né A A A? O que que o atacante
+
+42
+00:02:13,939 --> 00:02:16,929
+tá querendo colocar exatamente que ele consiga, ele consegue
+
+43
+00:02:16,939 --> 00:02:20,330
+ofuscar a carga útil ali dos pacotes, né?
+
+44
+00:02:20,338 --> 00:02:23,889
+Então isso é outro método bem famoso de evasão Inserção
+
+45
+00:02:23,899 --> 00:02:25,569
+de tráfego tá vendo o que que ele vai fazer?
+
+46
+00:02:25,580 --> 00:02:29,550
+Ele vai inserir extras de dados em uma sequência maliciosa,
+
+47
+00:02:30,360 --> 00:02:32,508
+então eles inserem esses extras, o que que vai
+
+48
+00:02:32,520 --> 00:02:34,528
+acontecer? Oh lá, as regras do I P
+
+49
+00:02:34,538 --> 00:02:38,729
+perdem os dados maliciosos, aceitando a sequência completa de
+
+50
+00:02:38,740 --> 00:02:39,368
+dados.
+
+51
+00:02:39,379 --> 00:02:41,788
+Então no que ele faz esse extra, ele consegue
+
+52
+00:02:41,800 --> 00:02:44,629
+também enganar o i PS aí o i PS acaba
+
+53
+00:02:44,639 --> 00:02:48,449
+aceitando, né? E o pitando? O que
+
+54
+00:02:48,460 --> 00:02:52,729
+que é pitando é o ator da ameaça de comprometer
+
+55
+00:02:52,740 --> 00:02:55,558
+um interno, né? Então tá um rosto ali
+
+56
+00:02:55,569 --> 00:02:59,110
+dum sua rede Tem uma máquina ali que tá comprometida
+
+57
+00:02:59,500 --> 00:03:02,110
+e ele deseja expandir seu acesso ainda mais para a
+
+58
+00:03:02,118 --> 00:03:02,909
+rede comprometida.
+
+59
+00:03:02,919 --> 00:03:07,360
+Então ele vai pingando e acessando o restante da rede,
+
+60
+00:03:07,368 --> 00:03:11,808
+Então esse termo a gente conhece como pitando aí tá,
+
+61
+00:03:11,819 --> 00:03:14,788
+eh é um termo também bem conhecido como um método
+
+62
+00:03:14,800 --> 00:03:15,610
+de invasão.
+
+63
+00:03:15,618 --> 00:03:17,969
+Temos aí também os kits.
+
+64
+00:03:17,979 --> 00:03:20,189
+Já foi falado anteriormente, mas obviamente a gente vai
+
+65
+00:03:20,199 --> 00:03:20,729
+repetir.
+
+66
+00:03:21,110 --> 00:03:23,838
+Tá vendo Oh! O hot Kit Ele tem o
+
+67
+00:03:23,849 --> 00:03:26,088
+objetivo de ocultar as atividades do atacante.
+
+68
+00:03:26,099 --> 00:03:28,319
+O que que seria isso? O Hot Kit?
+
+69
+00:03:28,330 --> 00:03:32,300
+Ele pode trazer pragas virtuais junto com ele.
+
+70
+00:03:32,308 --> 00:03:34,969
+Aí lembra muito o cavalo de Troy Okay, Mas
+
+71
+00:03:34,979 --> 00:03:36,979
+uma praga virtual que o Hot kit costuma muito trazer
+
+72
+00:03:36,990 --> 00:03:39,460
+é o do que é aquele cavalo de Troia,
+
+73
+00:03:39,469 --> 00:03:42,139
+que permite o que o retorno de um atacante a
+
+74
+00:03:42,149 --> 00:03:43,558
+uma máquina comprometida.
+
+75
+00:03:43,569 --> 00:03:44,719
+Lembra-se disso.
+
+76
+00:03:44,729 --> 00:03:47,169
+Então, o que acontece aí? O Hot Kit
+
+77
+00:03:47,179 --> 00:03:50,710
+implementa um bado, O Bado consegue abrir portas pro
+
+78
+00:03:50,719 --> 00:03:54,139
+atacante entrar na máquina e o atacante invade e começa
+
+79
+00:03:54,149 --> 00:03:55,679
+a mexer, sim, no computador.
+
+80
+00:03:56,058 --> 00:03:58,308
+Como é que o técnico descobre que tem um atacante
+
+81
+00:03:58,319 --> 00:04:00,558
+ali através de logs, né? Vai tirando ali
+
+82
+00:04:00,569 --> 00:04:02,399
+Relatórios, os logs e os logs.
+
+83
+00:04:02,409 --> 00:04:04,349
+Vai informando os acessos.
+
+84
+00:04:04,360 --> 00:04:08,088
+O kit tem a capacidade de apagar essas evidências.
+
+85
+00:04:08,099 --> 00:04:09,868
+Apagar esses logs, tá vendo, oh.
+
+86
+00:04:09,879 --> 00:04:13,319
+Então ele oculta completamente as atividades do atacante.
+
+87
+00:04:13,330 --> 00:04:16,528
+Então o técnico não consegue saber que o atacante tá
+
+88
+00:04:16,540 --> 00:04:18,069
+ali dentro, né? Então, isso é um
+
+89
+00:04:18,079 --> 00:04:21,160
+método também que eles têm de evasão e temos os
+
+90
+00:04:21,170 --> 00:04:24,079
+famosos próxi também no tráfico de rede.
+
+91
+00:04:24,088 --> 00:04:27,389
+Pode ser redirecionado através de sistemas intermediários pra ocultar o
+
+92
+00:04:27,399 --> 00:04:29,059
+destino final para dados roubados.
+
+93
+00:04:29,069 --> 00:04:31,399
+Ou seja, cria-se um sistema de próxi, né?
+
+94
+00:04:31,410 --> 00:04:36,199
+Que são os servidores intermediários que vão simplesmente redirecionando através
+
+95
+00:04:36,209 --> 00:04:40,100
+deles, que eles que eles viram sistemas ali intermediários
+
+96
+00:04:40,108 --> 00:04:43,459
+e eles conseguem ocultar o destino final para os dados
+
+97
+00:04:43,470 --> 00:04:46,069
+roubados é mais ou menos então quando você navega pelo
+
+98
+00:04:46,079 --> 00:04:49,220
+Thor, né? Na na na Dark Web por
+
+99
+00:04:49,230 --> 00:04:52,819
+exemplo, ele vai gerando ali vários próteses e a
+
+100
+00:04:52,829 --> 00:04:56,178
+cada prótese você vai ocultando o ipê de origem e
+
+101
+00:04:56,189 --> 00:04:57,379
+depois o ipê de destino.
+
+102
+00:04:57,389 --> 00:05:01,970
+Então não consegue depois fazer o rastreamento de onde foi
+
+103
+00:05:01,980 --> 00:05:03,879
+o destino desses dados aí roubados, né? Então,
+
+104
+00:05:03,889 --> 00:05:06,298
+a gente conhece isso, é um método de evasão
+
+105
+00:05:06,309 --> 00:05:07,358
+bem famoso.
+
+106
+00:05:07,369 --> 00:05:09,778
+Tá vendo? Muitos atacantes usam técnicas de invasão,
+
+107
+00:05:09,790 --> 00:05:12,750
+furtiva também participação, uma carga de ataque.
+
+108
+00:05:12,759 --> 00:05:15,639
+Seu objetivo é evitar a detecção, evitando defesas,
+
+109
+00:05:15,649 --> 00:05:17,798
+né? De rede e é o que a gente
+
+110
+00:05:17,809 --> 00:05:20,048
+tá comentando aí, oh! E de acordo com
+
+111
+00:05:20,059 --> 00:05:22,399
+a cartilha do sete BR aluno, o que define
+
+112
+00:05:22,410 --> 00:05:24,519
+as chances de um ataque na internet ser ou não
+
+113
+00:05:24,528 --> 00:05:28,738
+bem sucedido é o conjunto de medidas preventivas tomadas pelos
+
+114
+00:05:28,750 --> 00:05:33,189
+usuários desenvolvedores de aplicações, administradores, computadores, serviços
+
+115
+00:05:33,199 --> 00:05:34,040
+e equipamentos desenvolvidos.
+
+116
+00:05:34,048 --> 00:05:36,170
+Ou seja, é a ideia da prevenção.
+
+117
+00:05:36,178 --> 00:05:39,220
+Então, esses métodos evasivos, aí que a gente
+
+118
+00:05:39,230 --> 00:05:43,329
+viu, eh Se tiver uma prevenção bem feita,
+
+119
+00:05:43,338 --> 00:05:46,040
+uma política de Harden, né? Que fazer aquela
+
+120
+00:05:46,048 --> 00:05:48,838
+que, no mapeamento do que pode ser atacado,
+
+121
+00:05:49,358 --> 00:05:52,528
+pode ser que diminua bem? Ou até elimine as
+
+122
+00:05:52,540 --> 00:05:55,329
+chances aí de um ataque de praga virtual até um
+
+123
+00:05:55,338 --> 00:05:57,028
+ataque de acesso? Tá.
+
+124
+00:05:57,040 --> 00:05:59,528
+Então, a cartilha foi muito feliz em dizer isso
+
+125
+00:05:59,540 --> 00:06:00,009
+aí tá vendo.
+
+126
+00:06:00,019 --> 00:06:03,088
+Você tem que ter um conjunto de medidas preventivas.
+
+127
+00:06:03,100 --> 00:06:05,838
+E não é só do desenvolvedor e muito menos não
+
+128
+00:06:05,850 --> 00:06:07,678
+é só do usuário, é de todo mundo que
+
+129
+00:06:07,689 --> 00:06:11,139
+tá envolvido ali no processo perfeito.
+
+130
+00:06:11,149 --> 00:06:14,449
+Foi uma questãozinha pra você pegar legal a ideia.
+
+131
+00:06:14,459 --> 00:06:18,730
+Olha só a coleção Oh coleção de programas cara,
+
+132
+00:06:19,309 --> 00:06:22,298
+aqui a gente pode imaginar que é um kit né?
+
+133
+00:06:22,309 --> 00:06:24,319
+E técnicas que podem ser utilizadas pra remover.
+
+134
+00:06:24,329 --> 00:06:27,920
+Oh evidências em arquivos de logs, instalar outros cortes
+
+135
+00:06:27,928 --> 00:06:31,519
+maliciosos, esconder atividades e informações, bem como mapear
+
+136
+00:06:31,528 --> 00:06:34,720
+vulnerabilidades em outros computadores É conhecida como quem olha isso
+
+137
+00:06:34,730 --> 00:06:36,059
+aqui é o kit.
+
+138
+00:06:36,970 --> 00:06:39,858
+O Dow vai permitir o retorno, né? O
+
+139
+00:06:39,869 --> 00:06:42,619
+cavalo de Troia vai trazer outras pragas virtuais.
+
+140
+00:06:42,629 --> 00:06:45,209
+É o famoso presidente grego e o Trojan é cavalo
+
+141
+00:06:45,220 --> 00:06:45,899
+de Troia.
+
+142
+00:06:45,910 --> 00:06:47,600
+Duas respostas iguais.
+
+143
+00:06:47,608 --> 00:06:51,509
+Só que tá no inglês tá! Olha dois No
+
+144
+00:06:51,519 --> 00:06:54,619
+que se refere a softwares maliciosos na internet, um
+
+145
+00:06:54,629 --> 00:06:57,139
+é definido como um conjunto de De Novo Oh,
+
+146
+00:06:57,149 --> 00:06:59,798
+conjunto de programas e técnicas Cara.
+
+147
+00:07:00,480 --> 00:07:03,129
+Deu aqui um conjunto de programas e técnicas Oh cê
+
+148
+00:07:03,139 --> 00:07:05,629
+tá aprendendo aqui que é o tal do kit que
+
+149
+00:07:05,639 --> 00:07:07,928
+permite esconder assegurar a presença de um invasor de outro
+
+150
+00:07:07,939 --> 00:07:11,569
+código malicioso e um computador comprometido para uso com os
+
+151
+00:07:11,579 --> 00:07:15,088
+seguintes objetivos Ele remover evidências em arquivos de log ao
+
+152
+00:07:15,100 --> 00:07:18,988
+instalar outros cortes maliciosos como backdoors para assegurar o acesso
+
+153
+00:07:19,000 --> 00:07:20,730
+futuro ao computador infectado.
+
+154
+00:07:20,738 --> 00:07:24,389
+Esconder atividades e informações como arquivos, diretórios, processos,
+
+155
+00:07:24,399 --> 00:07:26,889
+chave de registro e conexões de rede.
+
+156
+00:07:26,899 --> 00:07:31,850
+Mapear potenciais vulnerabilidades em outros computadores por meio de varredura
+
+157
+00:07:31,858 --> 00:07:34,600
+na rede Capturar informações de rede onde o computador com
+
+158
+00:07:34,608 --> 00:07:38,588
+está localizado pela interceptação de tráfego Esse software é quem
+
+159
+00:07:39,000 --> 00:07:42,569
+né falou falou, falou, falou pra cobrar Hulk
+
+160
+00:07:42,579 --> 00:07:46,329
+é o famoso boato lenda urbana, né? Que
+
+161
+00:07:46,338 --> 00:07:49,699
+essas histórias na internet pra boi dormir! Snif o
+
+162
+00:07:49,709 --> 00:07:54,009
+farejador e o fish o golpe de engenharia social moderna
+
+163
+00:07:54,019 --> 00:07:57,028
+usando sites falsos ou e-mails falsos.
+
+164
+00:07:57,040 --> 00:08:01,149
+Legal aluno, então tá aí, fechamos grande abraço
+

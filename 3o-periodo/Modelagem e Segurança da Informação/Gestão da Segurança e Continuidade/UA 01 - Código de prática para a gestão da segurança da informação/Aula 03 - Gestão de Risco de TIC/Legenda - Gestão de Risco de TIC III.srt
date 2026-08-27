@@ -1,0 +1,800 @@
+1
+00:00:06,089 --> 00:00:09,339
+continuamos a falar sobre falando sobre a ISO vinte e
+
+2
+00:00:09,349 --> 00:00:11,220
+sete mil e cinco Tá agora tem um tópico que
+
+3
+00:00:11,228 --> 00:00:13,339
+a gente a questão da avaliação dos riscos.
+
+4
+00:00:13,349 --> 00:00:15,140
+A gente já falou sobre aquela seis etapas.
+
+5
+00:00:15,148 --> 00:00:17,579
+O que que é a ISO? Então vamos avaliar
+
+6
+00:00:17,589 --> 00:00:19,940
+a questão da do método de avaliação, dos riscos
+
+7
+00:00:19,949 --> 00:00:21,658
+Tá? Quando a gente tá falando de métodos de
+
+8
+00:00:21,670 --> 00:00:24,010
+avaliação, de risco, a gente tá falando que
+
+9
+00:00:24,019 --> 00:00:26,699
+a norma ela foi pensada, tá em ser bem
+
+10
+00:00:26,708 --> 00:00:28,339
+abrangente toda a organização.
+
+11
+00:00:28,350 --> 00:00:32,039
+O processo é bem detalhado, porém nunca é específico
+
+12
+00:00:32,348 --> 00:00:35,450
+para que seja possível pra que seja possível se encaixar
+
+13
+00:00:35,459 --> 00:00:39,000
+em qualquer organização de acordo com seus contextos e definições
+
+14
+00:00:39,009 --> 00:00:39,439
+específicas.
+
+15
+00:00:39,450 --> 00:00:40,569
+Olha que legal tá.
+
+16
+00:00:40,579 --> 00:00:42,700
+Quando a gente tá falando dessa norma, ela pode
+
+17
+00:00:42,709 --> 00:00:47,039
+ser tá, ela pode encaixar em qualquer organização,
+
+18
+00:00:47,048 --> 00:00:50,435
+qualquer organização, tá? Ah, é só empresa
+
+19
+00:00:50,444 --> 00:00:52,715
+de T i não, não, não, não
+
+20
+00:00:52,723 --> 00:00:55,115
+não, empresa financeira, empresa, enfim, de
+
+21
+00:00:55,125 --> 00:00:55,715
+alimento.
+
+22
+00:00:55,723 --> 00:00:59,194
+Qualquer organização, essa norma pode se encaixar porque vai
+
+23
+00:00:59,204 --> 00:01:01,194
+depender muito dos contextos, tá de acordo, de
+
+24
+00:01:01,204 --> 00:01:03,395
+contextos e definições específicas.
+
+25
+00:01:03,404 --> 00:01:06,894
+Então, ela se encaixa a necessidade daquela empresa.
+
+26
+00:01:07,129 --> 00:01:09,459
+Às vezes, a empresa tem uma necessidade por lei
+
+27
+00:01:09,469 --> 00:01:10,778
+de seguir alguma coisa.
+
+28
+00:01:10,790 --> 00:01:13,668
+Tem que seguir alguma norma, alguma determinação de um,
+
+29
+00:01:13,680 --> 00:01:15,900
+de um, uma parte específica do mercado.
+
+30
+00:01:15,909 --> 00:01:18,000
+Então essa norma, ela, ela é bem.
+
+31
+00:01:18,010 --> 00:01:20,239
+Ela é assim, é um processo detalhado, porém,
+
+32
+00:01:20,250 --> 00:01:23,719
+não é específico pra nenhuma nenhum tipo de organização.
+
+33
+00:01:24,888 --> 00:01:26,379
+Aí a gente tem dois tipos de análise.
+
+34
+00:01:26,388 --> 00:01:29,338
+Tá, vamos começar falando sobre análise qualitativa.
+
+35
+00:01:29,349 --> 00:01:33,260
+A análise qualitativa de risco é empregada para classificar um
+
+36
+00:01:33,269 --> 00:01:36,900
+risco por meio de de termos ou palavras como baixo,
+
+37
+00:01:36,909 --> 00:01:40,659
+médio ou alto, né? Risco que procuram quantificar
+
+38
+00:01:40,668 --> 00:01:43,500
+o impacto das consequências de um risco específico.
+
+39
+00:01:43,510 --> 00:01:46,418
+Então, a gente tem aqui oh impacto de consequência
+
+40
+00:01:46,430 --> 00:01:50,659
+de um risco específico, considerando as probabilidade da sua
+
+41
+00:01:50,668 --> 00:01:51,778
+ocorrência.
+
+42
+00:01:51,790 --> 00:01:55,388
+Então probabilidade, probabilidade impacto? Olha que legal isso
+
+43
+00:01:55,400 --> 00:01:58,069
+que vai fazer a diferença, hein? O objetivo
+
+44
+00:01:58,079 --> 00:02:03,230
+desse método é adquirir uma compressão mais aprofundada no evento
+
+45
+00:02:03,239 --> 00:02:05,510
+de segurança, por meio de uma coleta de dados
+
+46
+00:02:05,519 --> 00:02:08,288
+e das características apresentadas.
+
+47
+00:02:08,300 --> 00:02:10,110
+Então, quando a gente tá falando de qualitativa,
+
+48
+00:02:10,118 --> 00:02:11,550
+tipo assim, na próxima a gente já vai ter
+
+49
+00:02:11,558 --> 00:02:11,710
+não.
+
+50
+00:02:11,719 --> 00:02:14,860
+Daqui a pouquinho a gente tá falando de eh,
+
+51
+00:02:14,868 --> 00:02:17,179
+eh consequência e probabilidade.
+
+52
+00:02:17,189 --> 00:02:19,250
+Então aqui a gente começa a empregar, a gente
+
+53
+00:02:19,258 --> 00:02:22,460
+começa a criar padrões, tá aquele aquele risco,
+
+54
+00:02:22,469 --> 00:02:25,860
+É um risco alto, não desculpa um risco baixo,
+
+55
+00:02:25,868 --> 00:02:28,659
+médio ou alto, como que a gente consegue chegar
+
+56
+00:02:28,669 --> 00:02:30,300
+nisso? Eu vou passar aqui pra frente e voto
+
+57
+00:02:30,308 --> 00:02:32,639
+olha só é isso aqui.
+
+58
+00:02:33,240 --> 00:02:35,399
+Olha só essa tabelinha aqui nessa tabelinha, a gente
+
+59
+00:02:35,409 --> 00:02:37,808
+consegue ver claramente como esse risco é detalhado.
+
+60
+00:02:37,819 --> 00:02:41,490
+Quando a gente fala de impacto com probabilidade, então
+
+61
+00:02:41,500 --> 00:02:42,129
+a gente tem esse aqui.
+
+62
+00:02:42,139 --> 00:02:45,679
+Quando quando a probabilidade tá, ela é baixa,
+
+63
+00:02:45,689 --> 00:02:48,669
+o impacto é baixo, consequentemente o risco é baixo,
+
+64
+00:02:48,679 --> 00:02:51,008
+o risco, e a gente vai aumentando essa tabela
+
+65
+00:02:51,020 --> 00:02:53,250
+E essa tabela é feita para a gente entender o
+
+66
+00:02:53,258 --> 00:02:53,550
+risco.
+
+67
+00:02:53,558 --> 00:02:56,580
+Ou seja, quando a gente tem um, vou
+
+68
+00:02:56,588 --> 00:02:57,288
+dar um exemplo aqui.
+
+69
+00:02:57,300 --> 00:02:58,889
+Quando a gente fala assim Será que quando a gente
+
+70
+00:02:58,899 --> 00:03:04,258
+fala de probabilidade eh probabilidade de acontecer? Hum deixa.
+
+71
+00:03:04,270 --> 00:03:05,399
+Eu vou dar um exemplo aqui.
+
+72
+00:03:05,409 --> 00:03:06,689
+Vamos probabilidade, vamos pegar.
+
+73
+00:03:06,699 --> 00:03:08,490
+Eu sou péssimo pra desenhar, Tá? Eu vou
+
+74
+00:03:08,500 --> 00:03:09,449
+pegar aqui, oh o desenho.
+
+75
+00:03:09,460 --> 00:03:12,008
+Por isso aqui eu vou falar que é uma aquelas
+
+76
+00:03:12,020 --> 00:03:12,689
+bombinha.
+
+77
+00:03:12,699 --> 00:03:14,288
+Parece uma maçã, né? Vamos falar que é
+
+78
+00:03:14,300 --> 00:03:16,210
+uma bombinha, é uma bomba, aquelas granadas.
+
+79
+00:03:16,219 --> 00:03:19,028
+E aqui essa aqui já é uma maior tá e
+
+80
+00:03:19,038 --> 00:03:21,308
+essa aqui ela tá com esse aqui é o fiozinho,
+
+81
+00:03:21,319 --> 00:03:23,990
+aquele fiozinho imaginando a gente usa a imaginação.
+
+82
+00:03:24,000 --> 00:03:26,729
+Esse aqui é o aquele fiozinho que tá pegando fogo.
+
+83
+00:03:26,740 --> 00:03:29,490
+Lembra aquele desenho do do pica-pau pica-pau Não acho que
+
+84
+00:03:29,500 --> 00:03:32,669
+é perna longa tinha umas Bombinhas essa bomba aqui tá
+
+85
+00:03:32,679 --> 00:03:35,830
+bem grande! Tá um fiozinho aqui, Oh que
+
+86
+00:03:35,838 --> 00:03:37,469
+tá pegando fogo é maior, só que essa bomba
+
+87
+00:03:37,479 --> 00:03:38,550
+aqui é maior, então o que que é isso
+
+88
+00:03:38,558 --> 00:03:40,770
+aqui? Isso aqui é o impacto.
+
+89
+00:03:41,770 --> 00:03:45,219
+EH pá que nossa, que letra feia vamos,
+
+90
+00:03:45,229 --> 00:03:48,778
+vamos melhorar aqui, então isso aqui é um impacto
+
+91
+00:03:48,788 --> 00:03:52,000
+em pacto.
+
+92
+00:03:52,679 --> 00:03:55,889
+E aqui eh vamos porque aqui é a probabilidade de
+
+93
+00:03:55,899 --> 00:03:56,508
+acontecer.
+
+94
+00:03:57,288 --> 00:04:00,419
+Vou escrever aqui aqui de a mesma coisa tá impacto
+
+95
+00:04:00,429 --> 00:04:02,860
+e aqui é a probabilidade.
+
+96
+00:04:02,868 --> 00:04:04,960
+Tá, vamos lá aqui que a gente tá falando
+
+97
+00:04:04,969 --> 00:04:06,899
+aqui, a gente tá falando essa bomba aqui.
+
+98
+00:04:06,909 --> 00:04:07,939
+Ela tem.
+
+99
+00:04:07,949 --> 00:04:09,229
+Vamos tô falando bomba porque dá.
+
+100
+00:04:09,240 --> 00:04:12,419
+Um exemplo mais simples eh o impacto aqui É um
+
+101
+00:04:12,429 --> 00:04:14,899
+impacto pequeno, né? Comparado A essa aqui é
+
+102
+00:04:14,909 --> 00:04:15,710
+um impacto pequeno.
+
+103
+00:04:15,719 --> 00:04:16,750
+Então, o que que a gente vai falar aqui,
+
+104
+00:04:16,759 --> 00:04:18,838
+Que a gente pode falar aqui que o impacto dela?
+
+105
+00:04:19,209 --> 00:04:21,298
+Ela tá aqui, oh baixo, Tá nessa linha
+
+106
+00:04:21,309 --> 00:04:23,500
+aqui, só que a probabilidade de acontecer é alta?
+
+107
+00:04:23,509 --> 00:04:24,660
+Porque tá bem pequenininho, tá vendo? Tá bem
+
+108
+00:04:24,670 --> 00:04:25,220
+curtinho.
+
+109
+00:04:25,230 --> 00:04:27,119
+Só que alguém vai ter tempo de apagar, então
+
+110
+00:04:27,129 --> 00:04:29,178
+é alta, é um alto índice de probabilidade.
+
+111
+00:04:29,189 --> 00:04:30,858
+Então, se a gente olhar isso aqui, o
+
+112
+00:04:30,869 --> 00:04:33,459
+o risco é o impacto é baixo, mas a
+
+113
+00:04:33,470 --> 00:04:34,769
+probabilidade é alta.
+
+114
+00:04:34,778 --> 00:04:37,798
+Então essa bomba aqui, ela é considerada médio risco.
+
+115
+00:04:39,278 --> 00:04:43,548
+Médio risco Okay, okay? Não né? Tá
+
+116
+00:04:43,559 --> 00:04:49,000
+feio demais aqui aqui oh, mede o risco aí
+
+117
+00:04:49,009 --> 00:04:58,379
+eu apanhar de novo isso e olha aqui essa aqui.
+
+118
+00:04:58,389 --> 00:05:00,238
+O impacto é gigantesco, né? O impacto é
+
+119
+00:05:00,250 --> 00:05:01,939
+grande, então a gente olha aqui nessa tabelinha aqui
+
+120
+00:05:01,949 --> 00:05:04,379
+você pode ver que nessa coluna no final aqui tá
+
+121
+00:05:04,389 --> 00:05:07,709
+lá, oh alto impacto alto tá aqui.
+
+122
+00:05:07,720 --> 00:05:10,619
+Então o impacto alto, Então eu achei e e
+
+123
+00:05:10,629 --> 00:05:14,678
+a probabilidade de acontecer tá também aí o impacto é
+
+124
+00:05:14,689 --> 00:05:16,600
+alto e a probabilidade de acontecer é mais baixa do
+
+125
+00:05:16,608 --> 00:05:17,100
+que a outra.
+
+126
+00:05:17,108 --> 00:05:18,819
+Então eu vou conseguir, alguém pode apagar tem mais
+
+127
+00:05:18,829 --> 00:05:21,379
+tempo, porque o fiozinho aqui oh esse fiozinho aqui
+
+128
+00:05:21,389 --> 00:05:24,428
+tá maior, então a probabilidade é baixa e o
+
+129
+00:05:24,439 --> 00:05:26,059
+impacto é alto, então assim oh, vamos lá
+
+130
+00:05:26,069 --> 00:05:30,819
+probabilidade baixo impacto alto, então o impacto alto tá
+
+131
+00:05:30,829 --> 00:05:31,160
+aqui.
+
+132
+00:05:31,170 --> 00:05:35,988
+Impacto A probabilidade era também ela é considerada como médio
+
+133
+00:05:36,000 --> 00:05:41,100
+risco, né isso né? Baixo isso médio risco.
+
+134
+00:05:41,108 --> 00:05:42,500
+Tá vendo então as duas.
+
+135
+00:05:42,509 --> 00:05:45,678
+Quando você olha sem, de forma fria, tá
+
+136
+00:05:46,230 --> 00:05:49,119
+eh você vai pensar assim nossa, essa gra aqui.
+
+137
+00:05:49,129 --> 00:05:50,439
+Ela tem um impacto.
+
+138
+00:05:50,449 --> 00:05:53,678
+A probabilidade assim é muito maior, Só que se
+
+139
+00:05:53,689 --> 00:05:55,379
+a gente começar a analisar os dados, a gente
+
+140
+00:05:55,389 --> 00:05:56,939
+começa a enxergar tudo bem.
+
+141
+00:05:56,949 --> 00:06:00,838
+As duas, em relação a análise qualitativa, vai
+
+142
+00:06:00,850 --> 00:06:03,178
+possuir o mesmo um critério médio.
+
+143
+00:06:03,189 --> 00:06:06,980
+Impacto Por quê? Que a probabilidade desta que ocorrer
+
+144
+00:06:06,988 --> 00:06:08,980
+é maior do que essa que essa aqui? Pode
+
+145
+00:06:08,988 --> 00:06:10,619
+ser que eu tenha tempo de apagar porque é o
+
+146
+00:06:10,629 --> 00:06:11,750
+tamanhão, não viu, né? Dá tempo de
+
+147
+00:06:11,759 --> 00:06:13,819
+eu correr e de, enfim, jogar uma água
+
+148
+00:06:13,829 --> 00:06:14,399
+aqui.
+
+149
+00:06:14,410 --> 00:06:17,699
+Essa aqui não tá bem curtinho, ela vai ocorrer.
+
+150
+00:06:17,709 --> 00:06:20,259
+Então, quando você, quando você olha o risco
+
+151
+00:06:20,269 --> 00:06:23,579
+sem análise qualitativa, você pode correr o risco de
+
+152
+00:06:23,588 --> 00:06:25,459
+ter uma análise errada sobre ele.
+
+153
+00:06:25,470 --> 00:06:27,939
+Então precisa entender muito bem sobre isso e fazer essa
+
+154
+00:06:27,949 --> 00:06:30,420
+tabela de pra ficar da forma mais claro possível,
+
+155
+00:06:30,428 --> 00:06:33,769
+tá quando a gente tá falando de análise quantitativa.
+
+156
+00:06:33,778 --> 00:06:37,088
+Já a avaliação quantitativa disso se constanta em dados,
+
+157
+00:06:37,100 --> 00:06:41,259
+fatos e medidas mensuráveis com embasamento matemático e comput.
+
+158
+00:06:41,269 --> 00:06:44,470
+Tá, a gente vai usar a matemática e a
+
+159
+00:06:44,480 --> 00:06:48,889
+e a máquina para computar os dados por por depender
+
+160
+00:06:48,899 --> 00:06:52,088
+de medidas efetuar uma análise mais minuciosa.
+
+161
+00:06:52,100 --> 00:06:54,769
+Esse método é mais custoso e lento, porém gera
+
+162
+00:06:54,778 --> 00:06:57,509
+resultados mais confiáveis e imparciais.
+
+163
+00:06:57,939 --> 00:07:01,108
+Geralmente o resultado dessa análise pode ser expresso em ter
+
+164
+00:07:01,119 --> 00:07:05,189
+em termos de perdas financeiras tá relacionados ao evento de
+
+165
+00:07:05,199 --> 00:07:11,108
+segurança sendo analisado utilizando conceitos de estatística e probabilidade.
+
+166
+00:07:11,119 --> 00:07:15,149
+É possível calcular estimativas de possíveis perdas de cada cenário,
+
+167
+00:07:15,160 --> 00:07:18,629
+então uma numa, geralmente na área de tecnologia a
+
+168
+00:07:18,639 --> 00:07:21,149
+gente usa muito muito aquela outra, né? Que
+
+169
+00:07:21,160 --> 00:07:25,000
+é a é a qualitativa com certeza você já viu,
+
+170
+00:07:25,009 --> 00:07:27,119
+né? Nessas ferramentas de t s m, esta
+
+171
+00:07:27,129 --> 00:07:29,920
+tabela aqui deixa eu pagar esse esse negócio aqui.
+
+172
+00:07:29,928 --> 00:07:33,358
+Com certeza você já viu essa tabela aqui sem dúvida
+
+173
+00:07:33,369 --> 00:07:34,858
+nenhuma, Porque esse aqui que a gente tem aquele
+
+174
+00:07:34,869 --> 00:07:37,838
+as nossas listas de serviço e e a gente qualifica
+
+175
+00:07:37,850 --> 00:07:40,238
+a nossa a nossas listas de serviço, a qual
+
+176
+00:07:40,250 --> 00:07:41,699
+é a criticidade de cada serviço.
+
+177
+00:07:41,709 --> 00:07:46,480
+Muito baseado nesta tabela tá nessa tabela Quando a gente
+
+178
+00:07:46,488 --> 00:07:49,988
+você tá falando de dados mais precisos, minucioso,
+
+179
+00:07:50,000 --> 00:07:53,869
+geralmente vinculado a dados financeiros, você precisa usar a
+
+180
+00:07:53,879 --> 00:07:56,028
+análise quantitativa, que é onde que ele vai usar
+
+181
+00:07:56,040 --> 00:07:59,129
+muito a estatística e a probabilidade de acontecer.
+
+182
+00:07:59,750 --> 00:08:02,689
+E então vai depender muito de cada cenário de cada
+
+183
+00:08:02,699 --> 00:08:03,459
+organização.
+
+184
+00:08:03,470 --> 00:08:05,519
+Vai depender do que você precisa.
+
+185
+00:08:05,528 --> 00:08:08,519
+Provavelmente você vai precisar desses dois dessas duas análises.
+
+186
+00:08:08,528 --> 00:08:11,259
+Tá, e cada uma vai ser aplicada.
+
+187
+00:08:11,269 --> 00:08:13,980
+Eh, eh naquela atual necessidade.
+
+188
+00:08:13,988 --> 00:08:18,048
+Mas naquele atual serviço, naquela atual, naquele atual
+
+189
+00:08:18,059 --> 00:08:18,759
+processo.
+
+190
+00:08:18,769 --> 00:08:21,278
+Então não existe a melhor.
+
+191
+00:08:21,290 --> 00:08:23,399
+Ou a pior vai depender da sua empresa, Vai
+
+192
+00:08:23,410 --> 00:08:26,399
+depender do seu cenário, vai depender da maturidade dos
+
+193
+00:08:26,410 --> 00:08:26,738
+seus projetos.
+
+194
+00:08:26,829 --> 00:08:30,358
+Então vai depender de muitos critérios, de muitas muitas
+
+195
+00:08:30,369 --> 00:08:33,879
+interfaces de muitas entradas pra você escolher qual a melhor
+
+196
+00:08:33,889 --> 00:08:35,359
+análise que você precisa fazer.
+
+197
+00:08:35,369 --> 00:08:38,440
+Vai depender da profundidade, vai vai depender da velocidade
+
+198
+00:08:38,450 --> 00:08:39,200
+que você precisa.
+
+199
+00:08:39,210 --> 00:08:40,440
+Tá bom? Então é isso.
+
+200
+00:08:40,450 --> 00:08:42,298
+Muito obrigado e até a próxima aula.
+

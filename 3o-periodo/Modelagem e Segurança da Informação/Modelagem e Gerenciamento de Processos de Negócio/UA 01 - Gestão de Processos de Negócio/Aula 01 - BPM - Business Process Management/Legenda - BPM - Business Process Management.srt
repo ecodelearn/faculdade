@@ -1,0 +1,892 @@
+1
+00:00:08,669 --> 00:00:11,599
+Olá, pessoal! Sejam bem-vindos, nós vamos falar
+
+2
+00:00:11,609 --> 00:00:14,960
+sobre gestão de processos de negócio? Essa vai ser
+
+3
+00:00:14,970 --> 00:00:19,318
+a nossa unidade, eh de trabalho e vamos começar
+
+4
+00:00:19,329 --> 00:00:23,798
+falando sobre introdução ao BPN que é o processo,
+
+5
+00:00:23,809 --> 00:00:27,658
+Tá, eh sejam bem-vindos! Meu nome é Michel
+
+6
+00:00:27,670 --> 00:00:30,458
+e a gente vai eh trabalhar junto com vocês aí,
+
+7
+00:00:30,469 --> 00:00:33,259
+né? Ao longo dessa primeira parte da unidade,
+
+8
+00:00:33,270 --> 00:00:36,579
+né? Teremos várias partes aí a serem trabalhadas,
+
+9
+00:00:36,590 --> 00:00:40,459
+mas vamos começar bem básico mesmo Um conceito bem inicial
+
+10
+00:00:40,469 --> 00:00:44,978
+do que a introdução ao B PM Processo tá sejam
+
+11
+00:00:44,990 --> 00:00:49,098
+bem-vindos, Bom eh quando a gente fala de processo.
+
+12
+00:00:49,109 --> 00:00:53,130
+Na verdade estamos falando de uma questão eh que faz
+
+13
+00:00:53,139 --> 00:00:54,929
+parte da vida da gente, né? Tudo que
+
+14
+00:00:54,939 --> 00:00:57,270
+a gente vem trabalhando aqui! Tudo que a gente
+
+15
+00:00:57,279 --> 00:01:00,868
+eh organiza, como eh vamos dizer como pessoa,
+
+16
+00:01:00,880 --> 00:01:03,090
+como sociedade é baseado em processo, né, A
+
+17
+00:01:03,098 --> 00:01:06,808
+gente vai ter uma executar alguma coisa, Nós vamos
+
+18
+00:01:06,819 --> 00:01:10,250
+eh entregar alguma coisa a alguém por meio de um
+
+19
+00:01:10,260 --> 00:01:13,388
+de uma, de uma, de um ins realizar
+
+20
+00:01:13,400 --> 00:01:17,569
+uma alteração e posteriormente a gente vai trabalhar essa perspectiva
+
+21
+00:01:17,579 --> 00:01:19,790
+dentro de uma entrega efetiva, que é o que
+
+22
+00:01:19,799 --> 00:01:20,609
+a gente vai buscar.
+
+23
+00:01:20,620 --> 00:01:24,308
+Tá bom no primeiro entendimento do que da acerca do
+
+24
+00:01:24,319 --> 00:01:25,989
+que é um processo né? Da questão do da
+
+25
+00:01:26,000 --> 00:01:27,948
+gestão de processo a gente vai começar a entender o
+
+26
+00:01:27,959 --> 00:01:30,189
+que que é a definição do processo propriamente dito,
+
+27
+00:01:30,198 --> 00:01:33,150
+né? Então olha lá conjunto, estruturado de atividades
+
+28
+00:01:33,159 --> 00:01:36,588
+que transforma insumos em produtos, então vamos lá.
+
+29
+00:01:36,599 --> 00:01:39,364
+Aqui tem algum as palavras importantes que a gente precisa
+
+30
+00:01:39,375 --> 00:01:42,584
+ter atenção e E e tá focado nela.
+
+31
+00:01:42,594 --> 00:01:46,004
+Primeiro é essa questão do conjunto estruturado de atividades,
+
+32
+00:01:46,013 --> 00:01:48,784
+né! Eh, por que estruturado de atividades,
+
+33
+00:01:48,793 --> 00:01:51,204
+porque ela tem que ter um início, ela tem
+
+34
+00:01:51,213 --> 00:01:52,284
+que ter um meio, ela tem que ter um
+
+35
+00:01:52,293 --> 00:01:54,745
+fim, ela tem que ter uma estrutura, eh
+
+36
+00:01:54,754 --> 00:01:58,043
+coerente nisso tudo, né? Então se a gente
+
+37
+00:01:58,055 --> 00:02:02,564
+perceber que essa essa essa essas atividades, elas tem
+
+38
+00:02:02,573 --> 00:02:07,409
+uma uma organização, elas têm um entendimento, a
+
+39
+00:02:07,418 --> 00:02:11,528
+gente pode caracterizar muito bem do que a gente,
+
+40
+00:02:11,538 --> 00:02:13,659
+aonde a gente vai chegar, onde nós estamos e
+
+41
+00:02:13,669 --> 00:02:14,508
+onde nós vamos chegar.
+
+42
+00:02:14,520 --> 00:02:16,338
+Então, por isso, um conjunto estruturado, de
+
+43
+00:02:16,349 --> 00:02:17,569
+atividades, né, tudo que a gente faz,
+
+44
+00:02:17,580 --> 00:02:19,189
+com estrutura, com organização.
+
+45
+00:02:19,449 --> 00:02:21,219
+É claro que a gente tem o melhor desempenho que
+
+46
+00:02:21,229 --> 00:02:24,868
+a gente tem, a melhor eh assertividade, menos
+
+47
+00:02:24,879 --> 00:02:27,588
+retrabalho e assim por diante, que é a questão
+
+48
+00:02:27,599 --> 00:02:30,500
+de transformar insumos em produtos, porque o que nós
+
+49
+00:02:30,508 --> 00:02:33,460
+temos, né? Na verdade, como um site
+
+50
+00:02:33,469 --> 00:02:36,669
+como entrada pra um processo que é um é um
+
+51
+00:02:36,679 --> 00:02:38,909
+Gran, é um é um um, um primeiro
+
+52
+00:02:38,919 --> 00:02:42,909
+eh conteúdo principal, é justamente aquilo que nós vamos.
+
+53
+00:02:42,919 --> 00:02:46,270
+Eh entender e processar, né? Então, o
+
+54
+00:02:46,278 --> 00:02:50,229
+insumo pode ser eh uma no caso uma construção,
+
+55
+00:02:50,240 --> 00:02:52,868
+uma areia, um cimento, um insumo.
+
+56
+00:02:52,879 --> 00:02:55,110
+Pode ser, por exemplo, um código eh,
+
+57
+00:02:55,118 --> 00:03:00,473
+eh de computador ou eh uma análise de requisitos o
+
+58
+00:03:00,483 --> 00:03:02,551
+que quer que seja, mas é um insumo A
+
+59
+00:03:02,562 --> 00:03:05,192
+O questão do produto, da transformação em si,
+
+60
+00:03:05,203 --> 00:03:07,181
+é justamente o que se pressupõe a um processo,
+
+61
+00:03:07,192 --> 00:03:08,542
+né? Então se a gente fala em uma construção
+
+62
+00:03:08,551 --> 00:03:10,991
+civil, uma areia, um cimento, eu vou
+
+63
+00:03:11,002 --> 00:03:13,551
+transformar isso por meio de um processo misturando água et
+
+64
+00:03:13,562 --> 00:03:16,673
+cetera et cetera pra chegar no produto que eu quero,
+
+65
+00:03:16,681 --> 00:03:18,032
+que é o cimento, né? Que é a
+
+66
+00:03:18,042 --> 00:03:21,085
+massa propriamente okay, então por isso, a definição
+
+67
+00:03:21,094 --> 00:03:23,376
+de processo é muito importante nesse contexto.
+
+68
+00:03:23,385 --> 00:03:26,795
+Outro que a gente observa é justamente essa questão,
+
+69
+00:03:26,805 --> 00:03:28,974
+da da criação.
+
+70
+00:03:28,985 --> 00:03:31,355
+Eh, eh, eh e manutenção de um cliente,
+
+71
+00:03:31,365 --> 00:03:33,835
+que é o conceito de negócio de Peter Ke,
+
+72
+00:03:33,844 --> 00:03:36,635
+né? Peter Drucker é um dos pensadores em relação
+
+73
+00:03:36,645 --> 00:03:39,246
+a processo, aí eh pensador moderno em relação a
+
+74
+00:03:39,254 --> 00:03:42,020
+a processo, né? Em que ele trabalha essa
+
+75
+00:03:42,028 --> 00:03:44,699
+perspectiva de conceito de negócio, né? Então,
+
+76
+00:03:44,710 --> 00:03:47,058
+quando ele tem um óleo pro um negócio o negócio
+
+77
+00:03:47,069 --> 00:03:49,179
+tem que ser estruturado e aí a gente volta pro
+
+78
+00:03:49,189 --> 00:03:49,899
+conceito anterior.
+
+79
+00:03:49,909 --> 00:03:52,409
+Ou seja, consul conjunto estruturado de atividades Ele tem
+
+80
+00:03:52,419 --> 00:03:55,860
+que ser estruturado, né, de forma a criar
+
+81
+00:03:55,868 --> 00:03:59,419
+e manter esse cliente, né? Então, ah
+
+82
+00:03:59,429 --> 00:04:01,659
+por isso a questão da da, do entendimento,
+
+83
+00:04:01,669 --> 00:04:05,118
+de como funciona um processo de como ele acontece,
+
+84
+00:04:05,129 --> 00:04:08,699
+eh, eh, de que forma ele acontece adequadamente,
+
+85
+00:04:08,710 --> 00:04:12,469
+eh pra entregar o o resultado final, O resultado
+
+86
+00:04:12,479 --> 00:04:14,758
+que a gente espera, que o nosso cliente espera,
+
+87
+00:04:14,770 --> 00:04:17,134
+né? Então manter cliente, o que que a
+
+88
+00:04:17,144 --> 00:04:19,285
+gente tá, eh buscando nessa que por trás desse
+
+89
+00:04:19,295 --> 00:04:21,375
+conceito do do, do, do, né?
+
+90
+00:04:21,384 --> 00:04:24,134
+É justamente o entendimento de que aquilo que eu estou
+
+91
+00:04:24,144 --> 00:04:27,814
+entregando as atividades, elas têm que ser capaz de
+
+92
+00:04:27,824 --> 00:04:31,875
+eh entregar aquele produto corretamente, mas também encantar meu
+
+93
+00:04:31,884 --> 00:04:33,954
+cliente e manter esse cliente pra que ele volte.
+
+94
+00:04:33,963 --> 00:04:37,134
+Porque o conceito de negócio é eh poder fazer com
+
+95
+00:04:37,144 --> 00:04:41,399
+que eh, eu consiga no meio dessa desse entendimento
+
+96
+00:04:41,410 --> 00:04:44,970
+todo que aquele cliente seja mantido, que eu encante
+
+97
+00:04:44,980 --> 00:04:48,699
+ele que eu realize, né? A sua atenda
+
+98
+00:04:48,709 --> 00:04:50,838
+as suas necessidades e, consequentemente, a necessidade,
+
+99
+00:04:50,850 --> 00:04:52,600
+a necessidade organizacional.
+
+100
+00:04:52,608 --> 00:04:54,459
+O outro conceito que a gente tem é o o
+
+101
+00:04:54,470 --> 00:04:55,639
+que é a gestão, né.
+
+102
+00:04:55,649 --> 00:05:00,519
+Que é justamente essa organização e coordenação eficaz pra alcançar
+
+103
+00:05:00,528 --> 00:05:01,178
+o objetivo.
+
+104
+00:05:01,189 --> 00:05:04,369
+Então, quando a gente tem, é uma coordenação,
+
+105
+00:05:04,379 --> 00:05:05,509
+uma eficácia.
+
+106
+00:05:05,519 --> 00:05:07,528
+Eu é mais fácil de eu buscar e alcançar os
+
+107
+00:05:07,540 --> 00:05:09,850
+meus objetivos institucionais.
+
+108
+00:05:09,858 --> 00:05:11,790
+Isso, inclusive serve pra vida da gente, né?
+
+109
+00:05:11,798 --> 00:05:13,069
+Então, se você quer, por exemplo, chegar
+
+110
+00:05:13,079 --> 00:05:15,149
+no teu trabalho, você tem que pegar umônibus
+
+111
+00:05:15,160 --> 00:05:19,579
+da hora eh, eh, eh pra se movimentar
+
+112
+00:05:19,588 --> 00:05:22,309
+até um ponto x, pra depois pegar outroônibus
+
+113
+00:05:22,319 --> 00:05:23,858
+E, enfim, o que quer que seja.
+
+114
+00:05:23,869 --> 00:05:27,178
+Mas se você coordena, eficazmente você vai alcançar o
+
+115
+00:05:27,189 --> 00:05:30,059
+seu objetivo dentro da perspectiva, né? Então,
+
+116
+00:05:30,069 --> 00:05:35,040
+esses são os são alguns dos dos conceitos importantes por
+
+117
+00:05:35,048 --> 00:05:37,579
+trás da, da, do conceito básico aí do
+
+118
+00:05:37,588 --> 00:05:41,040
+que é, né Essa essa gestão de processo.
+
+119
+00:05:41,048 --> 00:05:43,939
+E também temos uma um, um, um,
+
+120
+00:05:43,949 --> 00:05:46,540
+uma colocação do Davin Post também, que é um
+
+121
+00:05:46,548 --> 00:05:51,269
+outro pensador bem importante da nossa na nesse mundo de
+
+122
+00:05:51,278 --> 00:05:53,559
+processo nesse mundo de de gestão, né Que ele
+
+123
+00:05:53,569 --> 00:05:57,139
+fala assim oh o conjunto de atividades ordenadas no tempo
+
+124
+00:05:57,149 --> 00:05:59,850
+e no espaço com começo e fim, entradas e
+
+125
+00:05:59,858 --> 00:06:03,329
+saídas destinadas a resultar num produto para o cliente ou
+
+126
+00:06:03,338 --> 00:06:03,699
+o mercado.
+
+127
+00:06:03,709 --> 00:06:06,889
+Ou seja, e esse pensamento traduz justamente esses três
+
+128
+00:06:06,899 --> 00:06:08,850
+conceitos que nós acabamos de perceber, né? Então
+
+129
+00:06:08,858 --> 00:06:11,579
+é um conjunto de de de atividades ordenadas no tempo
+
+130
+00:06:11,588 --> 00:06:12,928
+e no espaço, ou seja, ele tem uma
+
+131
+00:06:12,939 --> 00:06:14,428
+uma uma condição de acontecer.
+
+132
+00:06:14,439 --> 00:06:17,309
+Ele tem uma janela pra acontecer, né? Ele
+
+133
+00:06:17,319 --> 00:06:19,778
+tem uma tempestividade pra que isso aconteça? Começo e
+
+134
+00:06:19,790 --> 00:06:21,778
+fim, porque ele tem que ter o início,
+
+135
+00:06:21,790 --> 00:06:22,639
+ele tem que ter um fim.
+
+136
+00:06:22,649 --> 00:06:24,540
+Isso é o que marca o processo.
+
+137
+00:06:24,548 --> 00:06:25,959
+E também entradas e saídas.
+
+138
+00:06:25,970 --> 00:06:28,278
+Ou seja, ele é baseado numa numa entrada,
+
+139
+00:06:28,290 --> 00:06:31,338
+num insumo qualquer que vai gerar um processamento que vai,
+
+140
+00:06:31,350 --> 00:06:33,553
+Orde, vai gerar uma saída, é que a
+
+141
+00:06:33,564 --> 00:06:35,545
+gente vai eh entregar pro nosso cliente.
+
+142
+00:06:35,553 --> 00:06:37,754
+Então! E isso resulta justamente o que a gente
+
+143
+00:06:37,764 --> 00:06:39,795
+tá entregando pro cliente que é esse produto, né?
+
+144
+00:06:39,803 --> 00:06:43,653
+Que atende o meu cliente ou atende o meu mercado.
+
+145
+00:06:43,665 --> 00:06:47,153
+Essa percepção realmente fecha com esses conceitos que nós acabamos
+
+146
+00:06:47,165 --> 00:06:47,673
+de ver.
+
+147
+00:06:47,684 --> 00:06:51,548
+Tá bom pra gente ver um pouco mais essa estrutura
+
+148
+00:06:51,559 --> 00:06:53,608
+de que é do que é um processo olha só
+
+149
+00:06:53,619 --> 00:06:55,428
+a gente tem esse gráfico aqui, que mostra pra
+
+150
+00:06:55,439 --> 00:06:56,209
+gente lá, né.
+
+151
+00:06:56,220 --> 00:06:58,678
+O fornecedor, né? Então tá aqui, oh,
+
+152
+00:06:58,689 --> 00:06:59,869
+a gente vai observar.
+
+153
+00:06:59,879 --> 00:07:01,750
+Aqui oh, a gente tem um fornecedor, a
+
+154
+00:07:01,759 --> 00:07:04,889
+gente tem as entradas que nós falamos aqui dentro certo,
+
+155
+00:07:04,899 --> 00:07:07,119
+Nós temos aqui o processo, que é aquilo que
+
+156
+00:07:07,129 --> 00:07:08,519
+a gente vai transformar.
+
+157
+00:07:08,528 --> 00:07:10,639
+Isso vai agregar valor ao cliente, que é uma
+
+158
+00:07:10,649 --> 00:07:13,079
+palavra hoje realmente importantíssima, ou seja, o que
+
+159
+00:07:13,088 --> 00:07:16,238
+eu estou entregando pro meu cliente agrega valor a este
+
+160
+00:07:16,250 --> 00:07:19,040
+agrega valor ao primeiro ao processo? Claro, né?
+
+161
+00:07:19,048 --> 00:07:21,879
+Agrega valor ao processo, de forma que realmente ele
+
+162
+00:07:21,889 --> 00:07:22,920
+faz a diferença.
+
+163
+00:07:22,928 --> 00:07:25,569
+Então essa agregação de valor, aqui oh é um
+
+164
+00:07:25,579 --> 00:07:28,069
+conceito importantíssimo, e aqui é a saída, né?
+
+165
+00:07:28,079 --> 00:07:30,009
+Saída é a saída do meu processo, que é
+
+166
+00:07:30,019 --> 00:07:32,170
+uma informação, um produto ou um serviço.
+
+167
+00:07:32,178 --> 00:07:35,889
+Então, só um parêntese aqui também serviço também é
+
+168
+00:07:35,899 --> 00:07:39,369
+faz parte de um processo eu entregar um serviço também
+
+169
+00:07:39,379 --> 00:07:41,170
+é um produto, né? Entre aspas, né?
+
+170
+00:07:41,178 --> 00:07:42,829
+Vamos dizer assim então vamos lá.
+
+171
+00:07:42,838 --> 00:07:46,269
+Se eu faço um se eu quero pe eh,
+
+172
+00:07:46,278 --> 00:07:49,009
+Eh ligar uma energia na minha casa colocar uma caixinha
+
+173
+00:07:49,019 --> 00:07:49,850
+de interruptor.
+
+174
+00:07:49,858 --> 00:07:53,069
+Então a entrada tá lá! O interruptor tá lá
+
+175
+00:07:53,079 --> 00:07:56,119
+o o o a tomada? Tá lá bonitinho eu
+
+176
+00:07:56,129 --> 00:07:58,048
+vou montar aquela caixinha, né, Que é o
+
+177
+00:07:58,059 --> 00:08:00,670
+meu processo de transformação, E a saída é a
+
+178
+00:08:00,678 --> 00:08:02,509
+CA é A, é a A a energia funciona.
+
+179
+00:08:02,519 --> 00:08:04,639
+Mas quem faz isso? Um profissional que vai realizar
+
+180
+00:08:04,649 --> 00:08:06,709
+um um serviço de ligação? Então ele também é
+
+181
+00:08:06,720 --> 00:08:09,608
+considerado? Tá? E aqui o cara que é
+
+182
+00:08:09,619 --> 00:08:12,209
+o cliente olha só a, gera a geração de
+
+183
+00:08:12,220 --> 00:08:13,274
+valor, tá aqui dentro.
+
+184
+00:08:13,285 --> 00:08:15,795
+Oh então o meu cliente! Ele tem que perceber
+
+185
+00:08:15,803 --> 00:08:18,355
+esse valor daquilo que eu tô entregando pra ele.
+
+186
+00:08:18,363 --> 00:08:19,894
+Então isso é o que se caracteriza, o que
+
+187
+00:08:19,903 --> 00:08:23,035
+a gente chama de processo organizacional tá.
+
+188
+00:08:23,045 --> 00:08:25,595
+Então essa gente, a A, a geração de
+
+189
+00:08:25,605 --> 00:08:28,795
+valor é esse cara aqui de gerava gerar valor,
+
+190
+00:08:28,803 --> 00:08:30,423
+de agregar a vida do cliente.
+
+191
+00:08:30,434 --> 00:08:31,954
+É o que faz com que eu mantenha o meu
+
+192
+00:08:31,963 --> 00:08:34,163
+cliente, com que ele volte a minha organização,
+
+193
+00:08:34,173 --> 00:08:35,875
+né? Que ele entrega.
+
+194
+00:08:35,884 --> 00:08:38,864
+Que ele enxergue o potencial naquilo que eu tô,
+
+195
+00:08:38,875 --> 00:08:41,575
+eh ofertando pra ele okay Bom.
+
+196
+00:08:41,879 --> 00:08:46,288
+Então esses conceitos são fundamentais pra gente entender o nosso.
+
+197
+00:08:46,298 --> 00:08:49,729
+O nosso contexto eh de agora em diante, né?
+
+198
+00:08:49,739 --> 00:08:52,109
+Então, vamos lá, se a gente perceber,
+
+199
+00:08:52,119 --> 00:08:54,889
+então, dentro daquela perspectiva ali bem pontual, oh!
+
+200
+00:08:54,899 --> 00:08:57,609
+o processo de negócio, essa essa essa, essa
+
+201
+00:08:57,619 --> 00:08:59,889
+série de atividades que atingem o objetivo específico.
+
+202
+00:08:59,899 --> 00:09:04,250
+O enfoque é o, é eficiência operacional que é
+
+203
+00:09:04,259 --> 00:09:06,000
+alinhadaà estratégia de organização, ou seja, o
+
+204
+00:09:06,009 --> 00:09:08,119
+que que a minha organização quer entregar, né?
+
+205
+00:09:08,129 --> 00:09:11,440
+Bem como a inovação relacionada a essa e o destaque
+
+206
+00:09:11,450 --> 00:09:13,359
+é o justamente, esse processo empresarial.
+
+207
+00:09:13,369 --> 00:09:15,558
+Como as atividades geram valor para o meu cliente,
+
+208
+00:09:15,570 --> 00:09:18,158
+isso é fundamental, ou seja, processo de negócio
+
+209
+00:09:18,168 --> 00:09:21,729
+baseado num enfoque que vai ter um destaque em relação
+
+210
+00:09:21,739 --> 00:09:25,099
+àquilo que eu estou, eh ofertando tá então quando
+
+211
+00:09:25,109 --> 00:09:29,969
+a gente passa nessa percepção, eh de de processo,
+
+212
+00:09:29,979 --> 00:09:33,779
+enfoque, eh e destaque eu caracterize muito bem aquilo
+
+213
+00:09:33,788 --> 00:09:37,320
+que eu desejo dentro pra dentro da minha organização.
+
+214
+00:09:37,330 --> 00:09:39,899
+E aí a gente também tem um outro pensamento aí
+
+215
+00:09:39,908 --> 00:09:42,019
+do do se e-book, que fala que o gerenciamento
+
+216
+00:09:42,029 --> 00:09:44,219
+de processo, o b PM o processo mesmo M
+
+217
+00:09:44,229 --> 00:09:47,288
+é uma disciplina que vai integrar essas estratégias.
+
+218
+00:09:47,298 --> 00:09:49,399
+Objetivos, né, por meio de um foco de
+
+219
+00:09:49,408 --> 00:09:53,019
+processo de cultura, englobando estratégia e englobando uma série
+
+220
+00:09:53,029 --> 00:09:56,908
+de perspectivas acerca desse valor, né! Cu!
+
+221
+00:09:56,918 --> 00:10:00,639
+Cujo foco é justamente transformar e perceber okay! Muito
+
+222
+00:10:00,649 --> 00:10:03,719
+obrigado por vocês estarem comigo, Tá? Até a
+
+223
+00:10:03,729 --> 00:10:04,320
+próxima
+

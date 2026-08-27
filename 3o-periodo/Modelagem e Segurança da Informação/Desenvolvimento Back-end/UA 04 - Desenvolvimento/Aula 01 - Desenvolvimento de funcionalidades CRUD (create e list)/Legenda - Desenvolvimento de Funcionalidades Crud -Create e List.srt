@@ -1,0 +1,464 @@
+1
+00:00:06,610 --> 00:00:08,339
+Olá, eu sou professor, Danis Co.
+
+2
+00:00:08,349 --> 00:00:10,140
+A gente vai falar um pouquinho sobre os conceitos de
+
+3
+00:00:10,148 --> 00:00:12,698
+crude, que se refereàs operações básicas de banco
+
+4
+00:00:12,710 --> 00:00:17,138
+de dados que contemplam a leitura, a inclusão,
+
+5
+00:00:17,149 --> 00:00:20,219
+a alteração, a exclusão de uma entidade qualquer e
+
+6
+00:00:20,228 --> 00:00:23,818
+eh Vamos nos focar inicialmente nas opções de consulta que
+
+7
+00:00:23,829 --> 00:00:26,359
+é o lícito, né? E Ah, A
+
+8
+00:00:26,370 --> 00:00:30,510
+opção de salvar no seria a criação de um arquivo
+
+9
+00:00:30,519 --> 00:00:33,139
+qualquer, né? Vamos ver como é que isso
+
+10
+00:00:33,149 --> 00:00:38,359
+tudo funciona né? Conceito básico de crude, crude.
+
+11
+00:00:38,368 --> 00:00:40,880
+Na verdade ele tem as letrinhas que indicam.
+
+12
+00:00:40,889 --> 00:00:44,098
+Ah, as diferentes operações, né? Essas operações
+
+13
+00:00:44,109 --> 00:00:46,959
+na M V C vão estar concentradas numa classe down?
+
+14
+00:00:46,969 --> 00:00:48,868
+Eu não vou deixar essa coisa espalhada por todo o
+
+15
+00:00:48,880 --> 00:00:50,380
+sistema que eu vou fazer.
+
+16
+00:00:50,389 --> 00:00:53,548
+É trabalhar com esse cara, ao nível do Dow
+
+17
+00:00:53,560 --> 00:00:58,000
+né, implementando ali as funcionalidades necessárias na acabada model
+
+18
+00:00:58,009 --> 00:01:01,200
+eu vou adotar esse padrão Dow e toda assim toda
+
+19
+00:01:01,209 --> 00:01:04,719
+a funcionalidade referente ao acesso A banco de dados vai
+
+20
+00:01:04,730 --> 00:01:05,918
+tá concentrada no Down.
+
+21
+00:01:05,930 --> 00:01:08,400
+Então os controladores vão falar com o Dow, mas
+
+22
+00:01:08,409 --> 00:01:10,489
+o acesso ao banco etário no Dow.
+
+23
+00:01:10,500 --> 00:01:12,579
+E aí eu vou ter as operações do C do,
+
+24
+00:01:12,588 --> 00:01:16,040
+né? Do Crude, O RR do crude seria
+
+25
+00:01:16,049 --> 00:01:22,459
+métodos ou é update alterar a informação e o d
+
+26
+00:01:22,469 --> 00:01:24,760
+é o, né? Isso é o que significa
+
+27
+00:01:24,769 --> 00:01:28,519
+a sigla Crude, né? Ou seja criar.
+
+28
+00:01:28,528 --> 00:01:33,930
+Ler, alterar excluir, né? Com o uso
+
+29
+00:01:33,939 --> 00:01:35,870
+do seque Lise com Jason, né? Eu vou
+
+30
+00:01:35,879 --> 00:01:38,069
+usar o jason que cê vai ser a minha informação
+
+31
+00:01:38,079 --> 00:01:40,388
+básica! Já vou escrito ob jack tion e o
+
+32
+00:01:40,400 --> 00:01:42,489
+sequelas que é meu! O R M é o
+
+33
+00:01:42,500 --> 00:01:45,750
+cara que vai fazer a essa comunicação, né?
+
+34
+00:01:45,760 --> 00:01:48,069
+Com o banco de dados vai ser através das minhas
+
+35
+00:01:48,079 --> 00:01:49,329
+entidades do sequelas.
+
+36
+00:01:50,028 --> 00:01:53,719
+Eh o C do CREA vai ser implementado pelo método
+
+37
+00:01:53,730 --> 00:01:56,680
+Create o mesmo nome, né? Onde eu vou
+
+38
+00:01:56,689 --> 00:01:59,719
+passar a informação em Jason pra que ele consiga colocar
+
+39
+00:01:59,730 --> 00:02:02,439
+aquele aqueles dados lá no banco de dados? Tá?
+
+40
+00:02:02,448 --> 00:02:04,400
+Se eu deixar de passar algum campo, ele vai
+
+41
+00:02:04,409 --> 00:02:06,379
+colocar o valor como nulo, né? Porque é
+
+42
+00:02:06,388 --> 00:02:07,159
+uma coisa interessante.
+
+43
+00:02:07,168 --> 00:02:09,360
+Às vezes você não tem a informação completa E,
+
+44
+00:02:09,368 --> 00:02:13,330
+caso aquele campo aceite nulo, ele vai colocar aquele
+
+45
+00:02:13,338 --> 00:02:16,919
+informação como nulo, né O do, né?
+
+46
+00:02:16,929 --> 00:02:19,520
+A leitura vão ser os métodos.
+
+47
+00:02:19,528 --> 00:02:25,788
+K rogou um outro método tem também tem o P
+
+48
+00:02:25,800 --> 00:02:27,349
+K e o.
+
+49
+00:02:27,360 --> 00:02:29,149
+Ele vai pegar o primeiro que ele conseguir achar na
+
+50
+00:02:29,159 --> 00:02:32,569
+consulta Tá esses são métodos.
+
+51
+00:02:32,580 --> 00:02:36,110
+Eh de leitura, né? Se eu for implementar
+
+52
+00:02:36,118 --> 00:02:40,270
+o, né? Seria o próprio método onde a
+
+53
+00:02:40,278 --> 00:02:44,469
+informação é passada no Jason e pode ter um parâmetro,
+
+54
+00:02:44,479 --> 00:02:48,008
+o que indica o seguinte Quem vai ser removido?
+
+55
+00:02:48,449 --> 00:02:51,979
+O Destroy vai receber essa chave que vai ser colocado
+
+56
+00:02:51,990 --> 00:02:54,338
+também no né? Então, eu tenho lá,
+
+57
+00:02:54,349 --> 00:02:55,538
+eu tenho o destrói.
+
+58
+00:02:55,550 --> 00:02:57,580
+Eu tenho os métodos que são utilizados.
+
+59
+00:02:57,588 --> 00:03:00,300
+Como é que isso fica? Eh no sistema real,
+
+60
+00:03:00,308 --> 00:03:07,538
+né? Aqui eu tenho um Daw que é focado
+
+61
+00:03:07,550 --> 00:03:09,319
+em personagens de jogos.
+
+62
+00:03:10,569 --> 00:03:14,099
+Tá, Seria um down pra personagem de jogos,
+
+63
+00:03:16,838 --> 00:03:22,929
+Personagem Daw E aqui eu tenho obter todos Onde eu
+
+64
+00:03:22,939 --> 00:03:26,399
+vou ter o quê? É algo aqui sendo usado
+
+65
+00:03:26,409 --> 00:03:31,159
+o tem umas q i d find vai ter k,
+
+66
+00:03:31,169 --> 00:03:32,399
+ou seja a Chape pela chave.
+
+67
+00:03:32,409 --> 00:03:36,038
+Primária, né? Essas são operações do R do
+
+68
+00:03:36,050 --> 00:03:38,610
+crude, né? E são as operações de sequela
+
+69
+00:03:38,618 --> 00:03:42,159
+e que estão sendo usados o Create Eu uso o
+
+70
+00:03:42,169 --> 00:03:44,099
+Create passando informação em Jason.
+
+71
+00:03:44,679 --> 00:03:46,758
+Uma coisa interessante é que se eu tiver uma dica
+
+72
+00:03:46,770 --> 00:03:48,169
+é uma chave auto incremento.
+
+73
+00:03:48,179 --> 00:03:50,250
+Ela não vai ser passada aqui porque vai ser gerada,
+
+74
+00:03:50,258 --> 00:03:53,409
+mas ela retorna, Então esse await aqui quando esse
+
+75
+00:03:53,419 --> 00:03:55,649
+personagem volta da ação de criação.
+
+76
+00:03:55,659 --> 00:03:58,008
+Aquela chave dele já tá preenchida, que é uma
+
+77
+00:03:58,020 --> 00:03:58,770
+mão na roda.
+
+78
+00:03:58,778 --> 00:04:00,770
+Muitas vezes, isso aí é uma coisa difícil de
+
+79
+00:04:00,778 --> 00:04:04,308
+fazer em outras linguagens, tá eh, então o
+
+80
+00:04:04,319 --> 00:04:07,210
+create É assim que objeta Jason, né? Eu
+
+81
+00:04:07,219 --> 00:04:09,969
+vou pegar lá a minha entidade dos sequela! Eu
+
+82
+00:04:09,979 --> 00:04:14,159
+vou dar o create né? O update eu vou
+
+83
+00:04:14,169 --> 00:04:18,668
+dar um update passando a informação e dizendo aonde esse
+
+84
+00:04:18,677 --> 00:04:21,449
+cara vai ser aplicado? O a i d dois
+
+85
+00:04:21,459 --> 00:04:23,788
+pontos i D, que é a chave que eu
+
+86
+00:04:23,798 --> 00:04:24,747
+tô utilizando.
+
+87
+00:04:24,759 --> 00:04:25,788
+Essa é uma forma.
+
+88
+00:04:25,798 --> 00:04:28,788
+A outra forma é fazer um P K a chave
+
+89
+00:04:28,798 --> 00:04:29,988
+pela chave primária.
+
+90
+00:04:29,997 --> 00:04:34,228
+Em seguida alterar a informação que eu quiser e no
+
+91
+00:04:34,238 --> 00:04:39,139
+final dá um também dá funciona tá na remoção,
+
+92
+00:04:39,149 --> 00:04:43,259
+né? Aqui eu já tenho o R do crude
+
+93
+00:04:43,269 --> 00:04:45,809
+aqui eu tenho o c do crude, o do
+
+94
+00:04:45,819 --> 00:04:48,949
+crude e o dedo crude não.
+
+95
+00:04:50,108 --> 00:04:51,278
+Aqui é o The Lich.
+
+96
+00:04:51,290 --> 00:04:54,170
+Retornei ao eixo personagem destrói e só passo pra ele
+
+97
+00:04:54,178 --> 00:04:57,220
+Qual a chave nesse formato? O ar A i
+
+98
+00:04:57,230 --> 00:05:00,519
+d é igual aquele i D que eu informei com
+
+99
+00:05:00,528 --> 00:05:02,858
+isso aí eu vou garantir que ele vai tá?
+
+100
+00:05:02,869 --> 00:05:06,220
+Eh fazendo as quatro operações do crude né? A
+
+101
+00:05:06,230 --> 00:05:11,410
+consulta, a alteração, a inclusão e a exclusão,
+
+102
+00:05:11,420 --> 00:05:14,358
+né? Eh com isso Eu tenho tudo que eu
+
+103
+00:05:14,369 --> 00:05:17,778
+preciso aqui, usando os métodos sequelas, tá Então
+
+104
+00:05:17,790 --> 00:05:19,778
+é essa a relação que a gente tá falando aqui,
+
+105
+00:05:19,790 --> 00:05:22,019
+oh, quando a gente fala desses métodos que são
+
+106
+00:05:22,028 --> 00:05:26,379
+utilizados a cada momento, né? E isso garante
+
+107
+00:05:26,389 --> 00:05:28,738
+que a gente tenha aí uma programação simples, né?
+
+108
+00:05:28,750 --> 00:05:31,660
+Boa parte vai ser gerada de forma automática e é
+
+109
+00:05:31,670 --> 00:05:35,220
+no Dow que a gente organiza essas necessidades do crude.
+
+110
+00:05:35,230 --> 00:05:37,899
+Nesse caso, aí eu tô dando só uma noção
+
+111
+00:05:37,910 --> 00:05:39,100
+geral do crude em si.
+
+112
+00:05:39,108 --> 00:05:42,040
+Agora a gente tem que começar a pensar, eh
+
+113
+00:05:42,048 --> 00:05:43,579
+em como implementar.
+
+114
+00:05:43,588 --> 00:05:46,778
+Cada uma delas tá sempre usando sequela.
+
+115
+00:05:46,790 --> 00:05:50,220
+Isso facilita bastante, né? E organizando através de
+
+116
+00:05:50,230 --> 00:05:50,639
+um Dow
+

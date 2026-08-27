@@ -1,0 +1,908 @@
+1
+00:00:06,158 --> 00:00:13,089
+olá seja bem-vindo, dando prosseguimento a nossa compreensão aos
+
+2
+00:00:13,099 --> 00:00:16,370
+nossos estudos, nós vamos falar agora da análise de
+
+3
+00:00:16,379 --> 00:00:20,190
+fluxo, né? DO S s e né?
+
+4
+00:00:20,199 --> 00:00:21,888
+Falamos um já do S S.
+
+5
+00:00:21,899 --> 00:00:23,829
+Entendemos que o ISS é o ponto, Eh,
+
+6
+00:00:23,839 --> 00:00:24,708
+vamos dizer assim.
+
+7
+00:00:24,719 --> 00:00:27,250
+É como o meu processo se estabelece hoje, né?
+
+8
+00:00:27,260 --> 00:00:30,190
+Então a gente vai fazer essa análise do fluxo,
+
+9
+00:00:30,199 --> 00:00:33,509
+eis e entender o que isso significa e bem como
+
+10
+00:00:33,750 --> 00:00:35,240
+eh o tbi.
+
+11
+00:00:35,250 --> 00:00:37,880
+Então esse aqui é o nosso, é nossa,
+
+12
+00:00:37,889 --> 00:00:40,978
+com eh, vamos dizer assim será a nossa,
+
+13
+00:00:40,990 --> 00:00:46,560
+eh entendimento nessa perspectiva eh em relaçãoà aquilo que
+
+14
+00:00:46,569 --> 00:00:49,819
+o processo eh preu, tá legal.
+
+15
+00:00:49,829 --> 00:00:52,798
+Então vamos lá! Primeira coisa eh! Vamos reforçar
+
+16
+00:00:52,810 --> 00:00:54,490
+esse conhecimento do que é o Isis, né?
+
+17
+00:00:54,500 --> 00:00:58,060
+O ISS é o entendimento do Estado atual do processo
+
+18
+00:00:58,069 --> 00:01:00,060
+okay Como é o meu? Como está? O
+
+19
+00:01:00,069 --> 00:01:04,099
+meu processo hoje? Tá, Então, eh e
+
+20
+00:01:04,109 --> 00:01:07,620
+é importante aqui a gente caracterizar a a palavra que
+
+21
+00:01:07,629 --> 00:01:13,448
+entendimento né entendimento Porque muitas das vezes a gente faz
+
+22
+00:01:13,459 --> 00:01:15,849
+o processo por fazer, né? Por que que
+
+23
+00:01:15,859 --> 00:01:18,109
+cê tá fazendo? Ué, porque eu aprendi assim
+
+24
+00:01:18,120 --> 00:01:20,930
+eh porque alguém me disse que faz assim, mas
+
+25
+00:01:20,939 --> 00:01:23,329
+você não entende porque que aquilo acontece? Se você
+
+26
+00:01:23,338 --> 00:01:26,319
+faz porque alguém já fez e você alguém te ensinou
+
+27
+00:01:26,329 --> 00:01:28,849
+aquilo, enfim, né? Então, é.
+
+28
+00:01:28,859 --> 00:01:31,489
+É importante a gente entender o estado atual do nosso
+
+29
+00:01:31,500 --> 00:01:35,730
+processo, compreender como é o processo e como é
+
+30
+00:01:35,739 --> 00:01:38,549
+esse como ele se se se se coloca hoje,
+
+31
+00:01:38,558 --> 00:01:38,948
+né.
+
+32
+00:01:38,959 --> 00:01:41,888
+Como ele se coloca hoje? Se nós observarmos,
+
+33
+00:01:42,870 --> 00:01:45,278
+eh o passado, né? Isso já vem de
+
+34
+00:01:45,290 --> 00:01:46,698
+de de longa data.
+
+35
+00:01:46,709 --> 00:01:51,159
+E nós tivemos n estudos acerca de do dos processos
+
+36
+00:01:51,168 --> 00:01:55,040
+organizacionais dos dos processos fabris, por exemplo, né?
+
+37
+00:01:55,049 --> 00:01:57,659
+Um dos estudos que nós temos lá na administração,
+
+38
+00:01:57,668 --> 00:02:00,528
+lá pra trás, científica, envolveu estudos de tempos
+
+39
+00:02:00,540 --> 00:02:03,808
+e movimentos, né? Eh cê tem a o
+
+40
+00:02:03,819 --> 00:02:08,110
+estudo o o Ford criando a linha de montagem porque
+
+41
+00:02:08,118 --> 00:02:10,808
+eh eu olho pro meu, pro estado atual do
+
+42
+00:02:10,819 --> 00:02:13,360
+meu processo, como aquilo é feito e vou entender.
+
+43
+00:02:13,368 --> 00:02:15,770
+E a partir do momento que eu entendo eu posso
+
+44
+00:02:15,778 --> 00:02:17,288
+buscar melhorias.
+
+45
+00:02:17,300 --> 00:02:18,770
+Se eu não sei nem o que eu faço não
+
+46
+00:02:18,778 --> 00:02:21,409
+entender o que eu tô fazendo, fica muito difícil,
+
+47
+00:02:21,419 --> 00:02:23,729
+né? A gente não ter essa percepção, então
+
+48
+00:02:23,740 --> 00:02:24,169
+ou é, diz.
+
+49
+00:02:24,179 --> 00:02:25,990
+Isso é o entendimento, a atual, do nosso
+
+50
+00:02:26,000 --> 00:02:30,088
+processo, O próximo é o o é a projeção
+
+51
+00:02:30,099 --> 00:02:31,868
+do Estado futuro desejado.
+
+52
+00:02:32,189 --> 00:02:34,319
+É ou seja, como eu, desejo que esse
+
+53
+00:02:34,330 --> 00:02:35,919
+meu processo esteja no futuro.
+
+54
+00:02:35,929 --> 00:02:39,639
+Então, a projeção do estado do futuro, isso
+
+55
+00:02:39,649 --> 00:02:42,038
+é o o que ele vai ser no futuro o
+
+56
+00:02:42,050 --> 00:02:47,758
+meu processo, né? Então assim o enquanto o
+
+57
+00:02:47,770 --> 00:02:49,360
+o o o trabalha, o que eu, o
+
+58
+00:02:49,368 --> 00:02:51,538
+que eu sou hoje, né? Ou seja,
+
+59
+00:02:51,550 --> 00:02:51,580
+EH.
+
+60
+00:02:51,588 --> 00:02:55,038
+Eh me entender quem eu sou hoje o Tupi,
+
+61
+00:02:55,050 --> 00:02:58,099
+ele permite eu ver o que eu quero ser para
+
+62
+00:02:58,110 --> 00:02:58,538
+o futuro.
+
+63
+00:02:58,550 --> 00:03:00,699
+Como é que esse processo vai estar lá no futuro?
+
+64
+00:03:00,710 --> 00:03:03,183
+Onde? Onde? Eu desejo estar lá no futuro,
+
+65
+00:03:03,194 --> 00:03:06,115
+né? Óbvio que isso é é o o objetivo
+
+66
+00:03:06,125 --> 00:03:10,235
+desse futuro é buscar sempre, né? A operação
+
+67
+00:03:10,243 --> 00:03:13,194
+uma operação eficiente, uma operação eficaz, que traga
+
+68
+00:03:13,205 --> 00:03:15,365
+resultado institucional, enfim, tá.
+
+69
+00:03:15,375 --> 00:03:17,354
+E como é que a gente trabalha isso? Usar
+
+70
+00:03:17,365 --> 00:03:19,675
+eh, eh a gente, o o, o,
+
+71
+00:03:19,683 --> 00:03:23,694
+o, essa perspectiva do o uso dela se dá
+
+72
+00:03:23,705 --> 00:03:27,274
+dentro de gestão de processo eh, eh, dentro
+
+73
+00:03:27,284 --> 00:03:32,618
+de transformações digitais, dentro dessa perspectiva toda que a
+
+74
+00:03:32,629 --> 00:03:37,099
+gente considera hoje, né? EH organizacional, né?
+
+75
+00:03:37,110 --> 00:03:38,580
+Que a gente, ao que aonde a gente quer
+
+76
+00:03:38,588 --> 00:03:40,800
+chegar, vamos lá bom.
+
+77
+00:03:40,808 --> 00:03:43,258
+Eh dito isso, né? Dito isso, a
+
+78
+00:03:43,270 --> 00:03:48,278
+gente tem aqui uma perspectiva acerca do desse estado atual
+
+79
+00:03:48,288 --> 00:03:48,939
+e desse Estado.
+
+80
+00:03:48,949 --> 00:03:50,278
+Futuro, né? Então tá aqui, oh,
+
+81
+00:03:50,288 --> 00:03:52,838
+começamos aqui no modelo s, tá aqui, oh,
+
+82
+00:03:52,849 --> 00:03:56,379
+o modelo está bem bem, aqui é o primeiro!
+
+83
+00:03:56,389 --> 00:03:59,618
+Ah, primeira perspectiva, quando a gente trabalha com
+
+84
+00:03:59,629 --> 00:04:02,139
+a questão do processo, da descoberta, do processo,
+
+85
+00:04:02,149 --> 00:04:04,179
+da onde a gente quer chegar, pra que a
+
+86
+00:04:04,189 --> 00:04:06,889
+gente possa otimizá lo e mudá-lo A primeira coisa que
+
+87
+00:04:06,899 --> 00:04:09,080
+a gente entender é como ele está hoje.
+
+88
+00:04:09,500 --> 00:04:11,368
+A partir do momento que eu entendi como ele está,
+
+89
+00:04:11,379 --> 00:04:12,830
+eu quero saber como é que eu vou projetar ele
+
+90
+00:04:12,838 --> 00:04:15,599
+no futuro, que é o modelo b, né?
+
+91
+00:04:15,610 --> 00:04:18,819
+O eis ele, tra e e eu vou olhar,
+
+92
+00:04:18,829 --> 00:04:22,939
+né? Numa perspectiva de olhar o meu processo agora
+
+93
+00:04:22,949 --> 00:04:24,899
+né? Saber como ele está okay, não é
+
+94
+00:04:24,910 --> 00:04:25,600
+isso que a gente tá falando.
+
+95
+00:04:25,608 --> 00:04:28,119
+Oh qual qual é o estado atual do meu processo?
+
+96
+00:04:28,129 --> 00:04:30,040
+E aí o que que eu tô olhando? Eu
+
+97
+00:04:30,048 --> 00:04:30,119
+tô te.
+
+98
+00:04:30,129 --> 00:04:32,619
+Eu tenho que entender o meu negócio.
+
+99
+00:04:32,629 --> 00:04:34,230
+Eu tenho que ver como é que é feita essa
+
+100
+00:04:34,238 --> 00:04:38,238
+operação como ela ocorre agora? Tá legal, já
+
+101
+00:04:38,250 --> 00:04:39,000
+sei disso tudo.
+
+102
+00:04:39,009 --> 00:04:41,519
+Já conheço, já tenho entendimento, já compreendo agora
+
+103
+00:04:41,528 --> 00:04:46,079
+eu vou saber eh aonde ou eu quero chegar.
+
+104
+00:04:46,088 --> 00:04:49,798
+Como eu vou projetar esse processo no meu futuro.
+
+105
+00:04:49,809 --> 00:04:53,178
+E aí vem a questão do desenho do meu negócio.
+
+106
+00:04:53,189 --> 00:04:56,480
+Ou seja, eu vou desenhar esse modelo pra onde
+
+107
+00:04:56,488 --> 00:04:58,329
+eu vou ir? Pra onde eu quero? Che,
+
+108
+00:04:58,338 --> 00:05:02,579
+aonde eu quero chegar, né? Então o desenho
+
+109
+00:05:02,588 --> 00:05:05,379
+dos pro, do do processo envolve os eh a
+
+110
+00:05:05,389 --> 00:05:09,420
+gente eh trabalhar os níveis de detalhes a apropriados,
+
+111
+00:05:09,428 --> 00:05:14,920
+necessidade as regras de eh valor pra cliente cenários de
+
+112
+00:05:14,928 --> 00:05:18,428
+operação Tudo isso é desenho de processo, veja cê
+
+113
+00:05:18,439 --> 00:05:20,670
+quer cê quer ir pra algum local? Então você
+
+114
+00:05:20,678 --> 00:05:22,480
+precisa conhecer pra onde cê tá indo, né?
+
+115
+00:05:22,579 --> 00:05:25,660
+E isso envolve conhecimento, né? Então envolve,
+
+116
+00:05:25,670 --> 00:05:32,369
+Eh comparação, envolve Benchmark envolve criação de desenho físico,
+
+117
+00:05:32,379 --> 00:05:35,709
+envolve simulação, envolve geração e construção de aplicativo,
+
+118
+00:05:35,720 --> 00:05:39,389
+Envolve teste Envolve uma série de perspectiva do desenho do
+
+119
+00:05:39,399 --> 00:05:41,548
+B, né? Então tem uma série série,
+
+120
+00:05:41,559 --> 00:05:47,298
+série de de atividades chaves que são elencadas, que
+
+121
+00:05:47,309 --> 00:05:49,629
+você vai usar dentro do de do de do desenho,
+
+122
+00:05:49,639 --> 00:05:50,059
+do serviço.
+
+123
+00:05:50,069 --> 00:05:50,939
+Tô falando algumas aqui.
+
+124
+00:05:50,949 --> 00:05:53,540
+Mas existem outras, tá então! E aí uma
+
+125
+00:05:53,548 --> 00:05:56,369
+vez, claro que você então conheceu que você tá,
+
+126
+00:05:56,379 --> 00:05:59,439
+né? Entendeu, o estado atual tá bom,
+
+127
+00:05:59,449 --> 00:06:01,838
+e aí utilizou, eh, fez esse desenho e
+
+128
+00:06:01,850 --> 00:06:05,309
+você vai passar pra parte de simulação e otimização operacional.
+
+129
+00:06:05,319 --> 00:06:08,220
+Ou seja, você vai pegar esse seu processo,
+
+130
+00:06:08,230 --> 00:06:11,600
+né? Eh e vai simular ele dentro de uma
+
+131
+00:06:11,608 --> 00:06:14,500
+perspectiva organizacional e o e otimizar ele, né?
+
+132
+00:06:14,509 --> 00:06:17,298
+Então cê sabe onde você tá cê Cê tá aqui
+
+133
+00:06:17,309 --> 00:06:19,619
+Cê sabe onde você tá você desenhou.
+
+134
+00:06:19,629 --> 00:06:25,500
+Você viu todas essas perspectivas de eh futuro, análises,
+
+135
+00:06:25,509 --> 00:06:26,778
+conhecimento, etc, etc.
+
+136
+00:06:26,790 --> 00:06:29,259
+Agora beleza eu já fiz esse desenho.
+
+137
+00:06:29,269 --> 00:06:32,238
+Agora eu vou simular como isso aqui que eu defini,
+
+138
+00:06:32,250 --> 00:06:37,660
+vai ocorrer otimizando o meu processo saindo desse modelo para
+
+139
+00:06:37,670 --> 00:06:38,540
+um modelo novo.
+
+140
+00:06:38,548 --> 00:06:42,220
+Então eu vou buscar fazer essa simulação e essa otimização
+
+141
+00:06:42,230 --> 00:06:44,980
+beleza e uma vez que a gente fez isso,
+
+142
+00:06:44,988 --> 00:06:49,319
+a gente vai fazer a geração da aplicação do fluxo
+
+143
+00:06:49,329 --> 00:06:53,369
+de PM s, né do do do sistema,
+
+144
+00:06:53,379 --> 00:06:56,988
+né? Propriamente dito tá que é essa questão da
+
+145
+00:06:57,000 --> 00:06:59,588
+geração da aplicação, tá legal.
+
+146
+00:06:59,600 --> 00:07:03,829
+Então, isso é importante que a gente possa determinar
+
+147
+00:07:03,838 --> 00:07:05,649
+fazer essa essa essa.
+
+148
+00:07:05,660 --> 00:07:10,509
+Essa geração da aplicação dentro de uma perspectiva institucional Tá
+
+149
+00:07:10,519 --> 00:07:15,009
+pra pra gente eh estabelecer como esse estado está eh,
+
+150
+00:07:15,019 --> 00:07:18,129
+vai sendo modificada dentro da minha organização.
+
+151
+00:07:18,139 --> 00:07:22,488
+E por último eu tenho essa parte de eh interface
+
+152
+00:07:22,500 --> 00:07:24,889
+com os meus sistemas legados, ou seja, o
+
+153
+00:07:24,899 --> 00:07:27,910
+meu processo, né, que é o meu eh
+
+154
+00:07:27,920 --> 00:07:30,769
+o meu processo como ele estava, passou por um
+
+155
+00:07:30,778 --> 00:07:35,660
+desenho, simulei, gerei dentro de uma perspectiva de
+
+156
+00:07:35,670 --> 00:07:37,519
+aplicação dele dentro da instituição.
+
+157
+00:07:37,528 --> 00:07:40,500
+Agora eu vou fazer a interação dele com o meu,
+
+158
+00:07:40,509 --> 00:07:42,220
+com os meus sistemas, com aquilo que eu já
+
+159
+00:07:42,230 --> 00:07:45,730
+tenho lembre-se, que o processo ele não termina em
+
+160
+00:07:45,738 --> 00:07:49,009
+si próprio, né, a si mesmo ele ele
+
+161
+00:07:49,019 --> 00:07:52,809
+tem interação com outros processos, com outras partes dos
+
+162
+00:07:52,819 --> 00:07:53,689
+sistemas.
+
+163
+00:07:53,699 --> 00:07:57,250
+E aí essa parte é chamada de legado, né?
+
+164
+00:07:57,259 --> 00:08:00,730
+O meu passado eu tenho que fazer essa integração.
+
+165
+00:08:00,738 --> 00:08:02,209
+Não é por que que a gente tá falando de
+
+166
+00:08:02,220 --> 00:08:04,269
+fazer essa integração, porque a gente já viu que
+
+167
+00:08:04,278 --> 00:08:07,889
+ah, nem sempre eu vou tá olhando uma perspectiva
+
+168
+00:08:07,899 --> 00:08:11,588
+e conseguindo mudar tudo ao mesmo tempo, então eu
+
+169
+00:08:11,600 --> 00:08:15,809
+mudo um pedaço, ajusto ele e integro ele Isso
+
+170
+00:08:15,819 --> 00:08:17,928
+não quer dizer que esse pedaço, esse sistema,
+
+171
+00:08:17,939 --> 00:08:19,569
+legado, aqui não vai ser veado.
+
+172
+00:08:19,579 --> 00:08:20,410
+Claro que vai.
+
+173
+00:08:20,420 --> 00:08:22,528
+Claro que ele precisa ser observado.
+
+174
+00:08:22,540 --> 00:08:24,449
+Claro que ele precisa ser analisado, e quando isso
+
+175
+00:08:24,459 --> 00:08:27,329
+ocorrer eu vou fazer o mesmo processo que eu fiz
+
+176
+00:08:27,338 --> 00:08:30,069
+com aquele que eu mudei, e assim sucessivamente.
+
+177
+00:08:30,079 --> 00:08:32,969
+A gente vai construindo isso ao longo, né dos
+
+178
+00:08:32,979 --> 00:08:34,408
+de cada um dos processos.
+
+179
+00:08:34,418 --> 00:08:35,690
+Olhando pro estado atual dele.
+
+180
+00:08:35,700 --> 00:08:37,769
+Até onde eu quero levar ele lá no no futuro,
+
+181
+00:08:37,779 --> 00:08:40,450
+onde eu percebo que ele vai estar no futuro?
+
+182
+00:08:40,460 --> 00:08:44,347
+Tá bom, a gente pode representar isso por meio
+
+183
+00:08:44,359 --> 00:08:47,308
+desse desse exemplo aqui né? Então, aqui você
+
+184
+00:08:47,317 --> 00:08:49,668
+tem um fluxo s s em cima em que ele
+
+185
+00:08:49,678 --> 00:08:50,229
+começa aqui.
+
+186
+00:08:50,239 --> 00:08:53,018
+Com o recebimento de pedidos, o cara vê o
+
+187
+00:08:53,028 --> 00:08:56,148
+crédito, ele processa um pedido, ele envia ou
+
+188
+00:08:56,158 --> 00:08:58,138
+cancela e ele atualiza um banco de dados.
+
+189
+00:08:58,148 --> 00:08:59,908
+E aqui, o fim do meu processo aqui é
+
+190
+00:08:59,918 --> 00:09:00,768
+o meu fim, do meu processo.
+
+191
+00:09:00,778 --> 00:09:02,229
+Beleza, aqui é o início, né? Essa
+
+192
+00:09:02,239 --> 00:09:04,347
+bolinha vermelha aqui é o meu início de processo.
+
+193
+00:09:04,359 --> 00:09:06,229
+Okay Beleza! Isso é o meu.
+
+194
+00:09:06,239 --> 00:09:07,629
+Isso é como ele funciona hoje.
+
+195
+00:09:07,639 --> 00:09:10,869
+Bom, eu olhei! Analisei, avaliei e poxa,
+
+196
+00:09:10,879 --> 00:09:13,590
+agora eu vou Ava, Eu vou trabalhar melhor isso
+
+197
+00:09:13,599 --> 00:09:13,869
+aqui.
+
+198
+00:09:13,879 --> 00:09:15,989
+Tá então que olha só o que que foi feito
+
+199
+00:09:16,000 --> 00:09:18,469
+eu continuo recebendo! Eu tenho, tenho, Continuo
+
+200
+00:09:18,479 --> 00:09:20,428
+tendo início, né? Todo o processo tem início,
+
+201
+00:09:20,440 --> 00:09:23,029
+continuo tendo no início recebo o pedido, Só que
+
+202
+00:09:23,038 --> 00:09:25,190
+aqui, em vez de eu ver o crédito e
+
+203
+00:09:25,200 --> 00:09:27,788
+depois de processar o pedido eu faço essas atividades em
+
+204
+00:09:27,798 --> 00:09:28,889
+paralelo.
+
+205
+00:09:28,899 --> 00:09:33,129
+Já economizei! Já otimizei meu processo Okay já otimizei
+
+206
+00:09:33,139 --> 00:09:37,009
+meu processo e enviar ou cancelar, né? Ele
+
+207
+00:09:37,019 --> 00:09:39,928
+ele? Ele estabeleceu de uma forma automática.
+
+208
+00:09:39,940 --> 00:09:42,250
+Em vez de ser um processo de análise manual,
+
+209
+00:09:42,259 --> 00:09:45,889
+ele colocou um processo automático, alguma forma de alguma
+
+210
+00:09:45,899 --> 00:09:49,109
+variável que surgiu de dentro desses dois processos aqui,
+
+211
+00:09:49,558 --> 00:09:51,918
+né? Ele consegue tra trabalhar aqui, fazer o
+
+212
+00:09:51,928 --> 00:09:54,210
+envio ou o cancelamento automático E aí ele atualiza o
+
+213
+00:09:54,219 --> 00:09:54,769
+bo de dados.
+
+214
+00:09:54,779 --> 00:09:56,450
+O que ele, o que que a gente pessoa
+
+215
+00:09:56,460 --> 00:10:00,330
+percebeu aqui? Que há uma otimização do processo,
+
+216
+00:10:00,340 --> 00:10:04,808
+que eu paralelo, atividades, né? E otimize
+
+217
+00:10:04,820 --> 00:10:06,590
+um determinado andamento.
+
+218
+00:10:06,599 --> 00:10:10,889
+Essa é uma perspectiva de um modelo de melhoria aplicado
+
+219
+00:10:10,899 --> 00:10:12,729
+a um processo aqui, óbvio, foi um um
+
+220
+00:10:12,739 --> 00:10:16,658
+modelo simples, né? É só pra demonstrar que
+
+221
+00:10:16,668 --> 00:10:20,099
+de forma eh prática e visual daquilo que pode ocorrer,
+
+222
+00:10:20,109 --> 00:10:24,259
+né? Então o paralelismo ou automatização de determinado processo
+
+223
+00:10:24,269 --> 00:10:26,298
+é a otimização de processo também.
+
+224
+00:10:26,308 --> 00:10:29,099
+E tá dentro de uma perspectiva de melhoria e de
+
+225
+00:10:29,109 --> 00:10:32,580
+transformação de um fluxo de um fluxo s isso de
+
+226
+00:10:32,590 --> 00:10:35,359
+um modelo s para o modelo B.
+
+227
+00:10:35,369 --> 00:10:37,080
+Obrigado até a próxima
+

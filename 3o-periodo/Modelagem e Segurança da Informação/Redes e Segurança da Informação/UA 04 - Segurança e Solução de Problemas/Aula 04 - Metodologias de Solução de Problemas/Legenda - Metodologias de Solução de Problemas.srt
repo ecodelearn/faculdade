@@ -1,0 +1,552 @@
+1
+00:00:05,889 --> 00:00:08,618
+Olá aluno! Professor Fabrício Melo, Estamos aqui com
+
+2
+00:00:08,630 --> 00:00:12,099
+o nosso tema segurança da informação e hoje vamos abordar
+
+3
+00:00:12,108 --> 00:00:15,300
+metodologias de solução de problemas E o que que seriam
+
+4
+00:00:15,310 --> 00:00:17,420
+essas metodologias aqui? Oh, a gente vai abordar
+
+5
+00:00:17,429 --> 00:00:21,059
+metodologias de solução de problemas, em qual caso isso
+
+6
+00:00:21,068 --> 00:00:23,818
+aqui é muito usado, Cê vai até lembrar quando
+
+7
+00:00:23,829 --> 00:00:27,149
+você compra algum equipamento eletrônico esses dias eu tava vendo
+
+8
+00:00:27,158 --> 00:00:30,399
+ali minha live seca o manual dela e quando eu
+
+9
+00:00:30,408 --> 00:00:32,609
+fui eh ver essa matéria.
+
+10
+00:00:32,618 --> 00:00:33,478
+Eu lembrei na hora.
+
+11
+00:00:33,490 --> 00:00:35,719
+Cê vai também lembrar que você deve ter algum manual
+
+12
+00:00:35,728 --> 00:00:38,719
+aí olha só a resolução de problemas de rede,
+
+13
+00:00:38,728 --> 00:00:40,639
+requer o quê? Procedimentos bem definidos.
+
+14
+00:00:40,649 --> 00:00:44,399
+Óbvio, né? E aqui que tá e documentados
+
+15
+00:00:44,408 --> 00:00:48,039
+tem que documentar problemas, Tem que ser documentados para
+
+16
+00:00:48,048 --> 00:00:51,478
+minimizar, Tá vendo o tempo perdido associado a solução
+
+17
+00:00:51,490 --> 00:00:54,189
+de problemas por tentativa e erro, isto é,
+
+18
+00:00:54,200 --> 00:00:58,048
+requer uma metodologia para efetuar o diagnóstico e determinar a
+
+19
+00:00:58,060 --> 00:00:58,829
+sua solução.
+
+20
+00:00:58,840 --> 00:01:02,728
+Esse processo, normalmente conhecido como termo Chute, né?
+
+21
+00:01:02,740 --> 00:01:04,689
+Que que seria isso? Já viu um manual,
+
+22
+00:01:04,698 --> 00:01:07,290
+tava vendo um dia lá um minha, Lave seca,
+
+23
+00:01:07,299 --> 00:01:09,370
+deu um aviso lá no painel dela.
+
+24
+00:01:09,379 --> 00:01:13,010
+Eu peguei o manual e ali tinha, no final,
+
+25
+00:01:13,019 --> 00:01:14,129
+solução de problemas.
+
+26
+00:01:14,138 --> 00:01:17,409
+Aí tinha lá, oh, eh o código tal
+
+27
+00:01:17,418 --> 00:01:19,689
+é porque a máquina tá sem água, o código
+
+28
+00:01:19,698 --> 00:01:23,168
+tal porque a máquina superaqueceu o código tal porque a
+
+29
+00:01:23,180 --> 00:01:24,689
+porta não está travada.
+
+30
+00:01:24,698 --> 00:01:27,469
+Cê já percebeu se alguns manuais tem? É isso
+
+31
+00:01:28,079 --> 00:01:31,609
+é você documentar Pra quê? Pra quando der aquele
+
+32
+00:01:31,620 --> 00:01:34,609
+problema você não ter que correr atrás de novo?
+
+33
+00:01:34,620 --> 00:01:38,129
+Já tá documentado? Então se deu aquele problema característico
+
+34
+00:01:38,138 --> 00:01:39,569
+ali, a gente já sabe o que é.
+
+35
+00:01:39,579 --> 00:01:41,250
+Isso facilita muito também.
+
+36
+00:01:41,260 --> 00:01:43,000
+Por exemplo, o técnico, o técnico que vai
+
+37
+00:01:43,010 --> 00:01:45,370
+arrumar, por exemplo, a máquina, ele já
+
+38
+00:01:45,379 --> 00:01:46,930
+vê o código, lá ele já vai direto,
+
+39
+00:01:46,939 --> 00:01:49,588
+ele não tem que desmontar e ficar correndo atrás do
+
+40
+00:01:49,599 --> 00:01:50,260
+problema.
+
+41
+00:01:50,269 --> 00:01:52,930
+Então, as empresas, né? Com com sistemas
+
+42
+00:01:52,939 --> 00:01:57,668
+de redes, aí vão ter essa documentação exatamente pra
+
+43
+00:01:57,989 --> 00:02:02,079
+coleta, coletando os dados, vão documentando e voltou
+
+44
+00:02:02,088 --> 00:02:02,819
+a dar o problema.
+
+45
+00:02:02,829 --> 00:02:04,730
+Só ir na documentação e pegar.
+
+46
+00:02:04,739 --> 00:02:08,879
+Se o problema for novo, documente novamente novamente não,
+
+47
+00:02:08,889 --> 00:02:11,240
+né? Faça uma nova documentação.
+
+48
+00:02:11,250 --> 00:02:12,520
+Então, hora pra você ver como é que funciona
+
+49
+00:02:12,528 --> 00:02:17,058
+aí o processo? Você vai definir o problema como
+
+50
+00:02:17,069 --> 00:02:18,479
+coletando informações.
+
+51
+00:02:19,360 --> 00:02:25,389
+Cê vai analisar essas informações, eliminar possíveis causas,
+
+52
+00:02:25,399 --> 00:02:28,788
+propor as hipóteses e testá las.
+
+53
+00:02:29,610 --> 00:02:31,979
+Testou O problema foi resolvido.
+
+54
+00:02:31,990 --> 00:02:35,199
+Não volta lá na coleta de informações.
+
+55
+00:02:35,868 --> 00:02:40,689
+O problema foi resolvido sim, documente se der de
+
+56
+00:02:40,699 --> 00:02:43,569
+novo tá lá a documentação.
+
+57
+00:02:43,580 --> 00:02:45,368
+Às vezes cê não vai, tá na empresa mais
+
+58
+00:02:45,379 --> 00:02:46,909
+ouàs vezes já esqueceu.
+
+59
+00:02:46,919 --> 00:02:51,460
+Já deu algum tempo e você consegue? Eu vou
+
+60
+00:02:51,469 --> 00:02:54,618
+dar um outro exemplo simples que aconteceu comigo.
+
+61
+00:02:54,629 --> 00:02:57,919
+Eu tinha que fazer uma configuração no no meu computador
+
+62
+00:02:57,929 --> 00:03:00,278
+pra eu link lá, com um tablet pra poder
+
+63
+00:03:00,288 --> 00:03:01,338
+espelhar.
+
+64
+00:03:01,349 --> 00:03:03,659
+E ele tem um caminho lá, que assim não
+
+65
+00:03:03,669 --> 00:03:06,659
+é fácil descobrir esse caminho pra poder fazer um espelhamento
+
+66
+00:03:06,669 --> 00:03:08,118
+lá com o cabo.
+
+67
+00:03:08,129 --> 00:03:11,599
+E eu fiz tal consegui fazer aí? Muitos anos
+
+68
+00:03:11,610 --> 00:03:13,639
+depois eu troquei e tal.
+
+69
+00:03:13,649 --> 00:03:15,569
+Fui comprar outro outro computador e a hora que eu
+
+70
+00:03:15,580 --> 00:03:18,099
+fui fazer no novo computador, eu tinha esquecido como
+
+71
+00:03:18,110 --> 00:03:18,719
+é que fazia.
+
+72
+00:03:19,349 --> 00:03:21,860
+Então, se eu tivesse documentado até mesmo porque era
+
+73
+00:03:21,868 --> 00:03:25,028
+um caminho não muito simples, eu ia direto na
+
+74
+00:03:25,038 --> 00:03:25,610
+documentação.
+
+75
+00:03:25,618 --> 00:03:28,210
+Olhava opa, é assim que espelha, Cê tá
+
+76
+00:03:28,219 --> 00:03:30,000
+entendendo aluno É isso aí.
+
+77
+00:03:30,008 --> 00:03:30,399
+Vamos lá.
+
+78
+00:03:30,409 --> 00:03:32,679
+Como é que você define o problema? Vamos dividir
+
+79
+00:03:32,689 --> 00:03:34,879
+tudo isso aí oh, cê vai fazer uma descrição
+
+80
+00:03:34,889 --> 00:03:35,740
+clara do problema.
+
+81
+00:03:35,750 --> 00:03:37,919
+Você vai procurar identificar os sintomas gerais.
+
+82
+00:03:37,929 --> 00:03:40,199
+Tá vendo? Eles podem aparecer de, obviamente,
+
+83
+00:03:40,210 --> 00:03:43,149
+de várias formas, incluindo alerta e sistema, gerenciamento
+
+84
+00:03:43,159 --> 00:03:46,319
+de rede, mensagens do console, reclamações de usuários.
+
+85
+00:03:46,330 --> 00:03:48,860
+Então faça essa descrição clara.
+
+86
+00:03:49,088 --> 00:03:51,219
+Depois você tem que coletar as informações.
+
+87
+00:03:51,229 --> 00:03:54,659
+Oh, reunir informações você precisa pra ajudar a isolar
+
+88
+00:03:54,669 --> 00:03:58,338
+as possíveis causas? Você vai entrevistar os usuários afetados,
+
+89
+00:03:58,349 --> 00:04:00,778
+né? Pegar? Quanto mais informações claro os usuários
+
+90
+00:04:00,788 --> 00:04:04,538
+passarem, melhor eh administrador de rede gerente! As
+
+91
+00:04:04,550 --> 00:04:07,360
+pessoas estão envolvidos, né? Obter informações sobre os
+
+92
+00:04:07,368 --> 00:04:10,288
+alvos, ou seja, os equipamentos dispositivos a serem
+
+93
+00:04:10,300 --> 00:04:14,629
+investigados, né? Aí você consegue coletar essas informações.
+
+94
+00:04:14,639 --> 00:04:18,350
+Depois o processo de análise vai se dar como determine
+
+95
+00:04:18,358 --> 00:04:22,829
+possíveis causas que nos sintomas observados como determinados serviços,
+
+96
+00:04:22,838 --> 00:04:25,730
+pode não estar respondendoàs solicitações dos clientes? Isso
+
+97
+00:04:25,738 --> 00:04:29,428
+é um sintoma Possíveis causas podem incluir um roxo configurado
+
+98
+00:04:29,439 --> 00:04:35,738
+incorretamente Interface de redes ruins Um cabo desconectado ou partido
+
+99
+00:04:35,750 --> 00:04:38,559
+ou falta de configuração de roteador suíte tá vendo?
+
+100
+00:04:38,569 --> 00:04:42,759
+Cê pegou e fez análise desse problema após feita a
+
+101
+00:04:42,769 --> 00:04:45,059
+análise oh lá, você vai eliminar as ca a
+
+102
+00:04:45,069 --> 00:04:47,720
+po possíveis causas como assim? Oh quando para os
+
+103
+00:04:47,730 --> 00:04:51,108
+sintomas observados terem em várias causas possíveis, procuro então
+
+104
+00:04:51,119 --> 00:04:56,119
+reduzir a lista eliminando o quê progressivamente possíveis causas procurando
+
+105
+00:04:56,129 --> 00:04:57,608
+pelas mais prováveis.
+
+106
+00:04:57,619 --> 00:05:00,220
+Então, por exemplo, se o cabeamento é novo,
+
+107
+00:05:01,410 --> 00:05:03,980
+tá tudo certinho, não é cabo, Então cê
+
+108
+00:05:03,988 --> 00:05:06,699
+já retirou esse problema que foi citado aqui, né?
+
+109
+00:05:06,709 --> 00:05:10,338
+No que foi citado na análise, oh na na
+
+110
+00:05:10,350 --> 00:05:14,619
+eliminação, você elimina aqui okay propor hipótese Oh formula
+
+111
+00:05:14,629 --> 00:05:17,269
+hipótese com base na análise das informações possíveis, causas
+
+112
+00:05:17,278 --> 00:05:20,259
+do problema da sua lista e procure se concentrar nessas
+
+113
+00:05:20,269 --> 00:05:22,889
+hipóteses a respeito das causas mais prováveis.
+
+114
+00:05:22,899 --> 00:05:25,858
+Então esse é o momento que você tá unindo pra
+
+115
+00:05:25,869 --> 00:05:27,819
+poder resolver e documentar o problema.
+
+116
+00:05:27,829 --> 00:05:29,920
+Aí cê vai testar as hipóteses tá vendo Oh,
+
+117
+00:05:30,178 --> 00:05:32,250
+você vai avaliar a sua ação.
+
+118
+00:05:32,259 --> 00:05:34,988
+Você pode causar em outros sistemas com base na gravidade,
+
+119
+00:05:35,000 --> 00:05:37,189
+urgência e o impacto, né? É POSSI.
+
+120
+00:05:37,199 --> 00:05:40,019
+Às vezes, é você criar uma solução alternativa até
+
+121
+00:05:40,028 --> 00:05:41,910
+que o problema defina, seja de resolvido.
+
+122
+00:05:41,920 --> 00:05:44,889
+Ou seja, você vai trabalhar ali com uma solução.
+
+123
+00:05:44,899 --> 00:05:50,069
+Eh eh rápida, emergencial até que o problema seja
+
+124
+00:05:50,079 --> 00:05:52,588
+resolvido, né? Você vai tentar estancar, né?
+
+125
+00:05:52,600 --> 00:05:55,449
+De um lado ali pra poder resolver, né?
+
+126
+00:05:56,119 --> 00:05:59,769
+O problema então enquanto você faz esse teste e por
+
+127
+00:05:59,778 --> 00:06:02,809
+último oh docu lá, caso o problema tenha sido
+
+128
+00:06:02,819 --> 00:06:03,689
+resolvido.
+
+129
+00:06:03,699 --> 00:06:06,129
+Documente A solução no catálogo de problemas tá vendo!
+
+130
+00:06:06,139 --> 00:06:09,250
+Efetua a autorização de possíveis mudanças de configuração no banco
+
+131
+00:06:09,259 --> 00:06:13,428
+de dados e encerre o problema futuramente voltou a dar
+
+132
+00:06:13,439 --> 00:06:14,069
+o problema.
+
+133
+00:06:14,660 --> 00:06:18,069
+Tá aí, tá documentado, tá tranquilo? Tá
+
+134
+00:06:18,079 --> 00:06:19,720
+lindo? Então fica mais fácil.
+
+135
+00:06:19,730 --> 00:06:23,790
+Você não tem que passar por todo esse processo que
+
+136
+00:06:23,798 --> 00:06:25,869
+foi dado aqui, tranquilo.
+
+137
+00:06:25,879 --> 00:06:29,079
+Então é isso, Fica com Deus e até a
+
+138
+00:06:29,088 --> 00:06:29,699
+próxima!
+

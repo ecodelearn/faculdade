@@ -1,0 +1,892 @@
+1
+00:00:06,730 --> 00:00:11,778
+olá, bem-vindo novamente, pra gente concluir esse caso
+
+2
+00:00:11,788 --> 00:00:12,239
+prático.
+
+3
+00:00:12,250 --> 00:00:14,500
+Três, né? Vamos pra terceira parte desse caso
+
+4
+00:00:14,509 --> 00:00:18,199
+prático, tá, eh? Vamos recordar um pouquinho
+
+5
+00:00:18,208 --> 00:00:20,100
+eh o que que a gente tava vendo até agora
+
+6
+00:00:20,109 --> 00:00:22,138
+né? A gente viu aí eh a descrição,
+
+7
+00:00:22,149 --> 00:00:25,699
+o desenho de um processo que foi descrito de forma
+
+8
+00:00:25,708 --> 00:00:28,399
+num texto, texto corrido, um texto corrido,
+
+9
+00:00:28,408 --> 00:00:32,560
+Um parágrafo? Lembrando que ah, nesse parágrafo que
+
+10
+00:00:32,569 --> 00:00:35,399
+nós mostramos na primeira parte.
+
+11
+00:00:35,408 --> 00:00:38,060
+Não tem detalhes, não tem um um.
+
+12
+00:00:38,069 --> 00:00:39,179
+Vamos dizer assim.
+
+13
+00:00:39,189 --> 00:00:42,798
+Não tem uma entrada muito profunda no no, no,
+
+14
+00:00:42,810 --> 00:00:44,139
+no cerne lá do processo.
+
+15
+00:00:44,149 --> 00:00:46,000
+Não, não é E não foi esse o objetivo.
+
+16
+00:00:46,009 --> 00:00:49,639
+Aqui a gente tá basicamente tentando mostrar pra vocês Como
+
+17
+00:00:49,649 --> 00:00:51,579
+é que a gente transforma esse? Como é que
+
+18
+00:00:51,590 --> 00:00:53,250
+o como é que se desenha esse processo dentro do
+
+19
+00:00:53,259 --> 00:00:55,834
+Org E e e e no meio de daquilo que
+
+20
+00:00:55,844 --> 00:00:57,793
+a gente vem interagindo aqui, né.
+
+21
+00:00:57,804 --> 00:00:59,234
+Vocês vão ver que eu sempre tô falando.
+
+22
+00:00:59,243 --> 00:01:02,293
+Uma dica de fazer um processo ali de como você
+
+23
+00:01:02,304 --> 00:01:05,293
+pensa, eh como você traduz, né? Como
+
+24
+00:01:05,305 --> 00:01:08,933
+você representa co colocar um verbo e tal? Então
+
+25
+00:01:08,944 --> 00:01:14,849
+eh essas esses eh justamente pra gente! Vamos dizer
+
+26
+00:01:14,859 --> 00:01:18,088
+pegar esse conhecimento e deixar bem bem bem! Eh,
+
+27
+00:01:18,099 --> 00:01:20,769
+Eh entendido aí de como a gente pode trabalhar?
+
+28
+00:01:20,778 --> 00:01:22,269
+Tá também outra coisa.
+
+29
+00:01:22,278 --> 00:01:23,409
+O que a gente tá falando aqui não é uma
+
+30
+00:01:23,418 --> 00:01:26,010
+verdade absoluta, Tá pelo amor de Deus, não
+
+31
+00:01:26,019 --> 00:01:27,489
+entenda como isso aqui é como se fosse o o
+
+32
+00:01:27,500 --> 00:01:29,088
+o o fim de tudo opa.
+
+33
+00:01:29,099 --> 00:01:31,489
+É aquilo ali que eu tenho que fazer e pronto
+
+34
+00:01:31,500 --> 00:01:34,510
+e tô satisfeito com a minha vida Não Tá pessoal?
+
+35
+00:01:34,519 --> 00:01:38,105
+Eh, Eu tô dando alguns INSS você pode e
+
+36
+00:01:38,114 --> 00:01:41,025
+deve melhorar muito isso aqui que eu venho falando que
+
+37
+00:01:41,034 --> 00:01:44,004
+a gente vem Eh traduzindo, eh, eh,
+
+38
+00:01:44,013 --> 00:01:47,984
+eh, vamos dizer, eh mostrando aqui pra vocês
+
+39
+00:01:47,995 --> 00:01:50,385
+Tá legal, não é a nossa parte três É
+
+40
+00:01:50,394 --> 00:01:53,064
+a parte legal que é a parte do desenho,
+
+41
+00:01:53,073 --> 00:01:53,584
+do fluxo.
+
+42
+00:01:53,594 --> 00:01:56,504
+Tá, mas pra desenhar o fluxo que que a
+
+43
+00:01:56,513 --> 00:02:00,064
+gente tem que considerar as atividades e as atividades derivadas
+
+44
+00:02:00,073 --> 00:02:04,469
+de quem? Do nosso texto aqui todo, né?
+
+45
+00:02:04,480 --> 00:02:05,689
+Que, aliás, vou voltar um pouquinho.
+
+46
+00:02:05,698 --> 00:02:10,270
+Nosso texto era esse início e nós evoluímos para estas
+
+47
+00:02:10,278 --> 00:02:17,629
+marcações que traduzimos neste formulário, né? Neste nesta
+
+48
+00:02:17,639 --> 00:02:22,508
+tabela que agora nós vamos representar por meio de uma
+
+49
+00:02:22,520 --> 00:02:28,689
+notação? Neste caso a nossa anotação será a notação
+
+50
+00:02:28,699 --> 00:02:32,308
+d PM n viu que legal, né? então
+
+51
+00:02:32,319 --> 00:02:35,788
+olha lá, olha aqui, saímos de um texto
+
+52
+00:02:35,800 --> 00:02:41,389
+escrito, conseguimos analisar esse texto, entender esse texto
+
+53
+00:02:41,399 --> 00:02:46,069
+fazendo uma marcação inicial, um site inicial, Traduzimos
+
+54
+00:02:46,080 --> 00:02:49,330
+isso tudo dentro de um quadro.
+
+55
+00:02:49,338 --> 00:02:51,429
+E agora esse quadro eu vou representar por meio de
+
+56
+00:02:51,439 --> 00:02:52,308
+uma anotação.
+
+57
+00:02:52,319 --> 00:02:54,149
+Ah, então? Tem de tudo uma construção aí
+
+58
+00:02:54,159 --> 00:02:58,669
+do processo Tá beleza lembrando Só que o texto pode
+
+59
+00:02:58,679 --> 00:02:59,990
+e deve ser mais detalhado.
+
+60
+00:03:00,000 --> 00:03:00,969
+Tem que representar o processo.
+
+61
+00:03:00,979 --> 00:03:03,449
+Tem que representar o processo, tá, não pode
+
+62
+00:03:03,460 --> 00:03:06,710
+falhar em nada você não pode esco esco esquecer uma
+
+63
+00:03:06,719 --> 00:03:08,349
+vírgula no detalhe do processo.
+
+64
+00:03:08,360 --> 00:03:10,960
+Okay, O que a gente teve ali foi pra
+
+65
+00:03:10,969 --> 00:03:11,778
+exercício.
+
+66
+00:03:11,788 --> 00:03:17,679
+Segundo aquela marcação eu acho eh bacana para conhecimento,
+
+67
+00:03:17,689 --> 00:03:20,429
+pra ajudar no detalhamento, pra ajudar no conhecimento e
+
+68
+00:03:20,439 --> 00:03:24,038
+o quadro você pode evoluir o quadro nós já mostramos
+
+69
+00:03:24,050 --> 00:03:27,860
+alguns quadros, em outras práticas eh colocando o responsável
+
+70
+00:03:27,868 --> 00:03:31,300
+eh, eh envolvido no processo, você pode colocar
+
+71
+00:03:32,129 --> 00:03:34,099
+eh as exceções do seu processo.
+
+72
+00:03:34,110 --> 00:03:37,020
+Tá? Então isso tudo faz parte o quadro você
+
+73
+00:03:37,028 --> 00:03:40,219
+vai representar ele ou a ele eh, vamos dizer
+
+74
+00:03:40,229 --> 00:03:44,460
+fazer uma derivação da estruturação que você tá construindo pra
+
+75
+00:03:44,469 --> 00:03:46,819
+te ajudar a entender o teu processo.
+
+76
+00:03:46,830 --> 00:03:48,439
+Tá, Cê pode falar assim, poxa, eu
+
+77
+00:03:48,449 --> 00:03:52,169
+posso parar no quadro pode posso só elencar as as
+
+78
+00:03:52,179 --> 00:03:54,969
+tarefas ali e na frente descrever o que cada tarefa
+
+79
+00:03:54,979 --> 00:03:58,330
+pode cê po Ah, posso deixar no texto igual?
+
+80
+00:03:58,338 --> 00:04:01,469
+Tá lá no início lá descrevendo meu processo lá bonitinho
+
+81
+00:04:01,479 --> 00:04:05,490
+pode é você que decide, tá, mas podemos
+
+82
+00:04:05,500 --> 00:04:09,490
+utilizar sim uma ferramenta de de de notação que usa
+
+83
+00:04:09,500 --> 00:04:13,008
+a anotação b PM tá uma ferramenta pra pra construir
+
+84
+00:04:13,020 --> 00:04:15,319
+o fluxo? Qual é o objetivo da construção desse
+
+85
+00:04:15,330 --> 00:04:18,250
+fluxo? Qual é o objetivo dessa ferramenta é representar
+
+86
+00:04:18,259 --> 00:04:21,899
+de uma forma gráfica exatamente o processo como ele ocorre?
+
+87
+00:04:21,910 --> 00:04:24,649
+Qual é o objetivo? Que a gente possa visualizar?
+
+88
+00:04:24,660 --> 00:04:27,369
+Melhor? Esse processo é muito mais fácil tá,
+
+89
+00:04:27,379 --> 00:04:29,540
+vamos a ela olha aqui, oh, tá aqui,
+
+90
+00:04:29,548 --> 00:04:33,588
+tá, vocês vão ver que nós temos eh eh
+
+91
+00:04:33,600 --> 00:04:36,709
+aqui oh o o o o objeto em si,
+
+92
+00:04:36,720 --> 00:04:38,108
+que é o processo que é a sua estação de
+
+93
+00:04:38,119 --> 00:04:42,470
+férias aqui nós temos um, dois, três,
+
+94
+00:04:42,480 --> 00:04:48,290
+quatro, cinco eh entidades envolvidas nesse processo, começando
+
+95
+00:04:48,298 --> 00:04:51,170
+um servidor partindo, indo até o departamento financeiro.
+
+96
+00:04:51,254 --> 00:04:54,184
+Tá olha que legal! Cada um no na sua
+
+97
+00:04:54,194 --> 00:04:56,673
+respectiva raia tá aqui oh, a gente aprendeu esses
+
+98
+00:04:56,684 --> 00:04:59,144
+objetos, né, Dentro do do nosso curso,
+
+99
+00:04:59,153 --> 00:05:01,574
+da nossa disciplina tá aqui a raia e o processo
+
+100
+00:05:01,584 --> 00:05:05,144
+começa quando aqui oh no início ao início dele aqui,
+
+101
+00:05:05,153 --> 00:05:07,264
+Oh, essa bolinha linda, maravilhosa, Ficou feia.
+
+102
+00:05:07,274 --> 00:05:08,845
+Eu fiz um quadrado aqui não ficou bonito, não
+
+103
+00:05:09,350 --> 00:05:12,100
+deixa eu apagar aqui? Servidor tá aqui, oh
+
+104
+00:05:12,108 --> 00:05:12,939
+a bolinha aqui.
+
+105
+00:05:12,949 --> 00:05:15,319
+Que linda! Oh essa bolinha verdinha! Quer dizer
+
+106
+00:05:15,329 --> 00:05:18,199
+que o meu processo vai iniciar quando que ele inicia
+
+107
+00:05:18,209 --> 00:05:21,480
+com o meu servidor como o meu servidor inicia esse
+
+108
+00:05:21,488 --> 00:05:24,639
+processo preenchendo formos, requerimento de férias, tá aqui,
+
+109
+00:05:24,649 --> 00:05:28,379
+Oh, a gente inscreveu isso lá no processo Tá
+
+110
+00:05:28,389 --> 00:05:32,608
+aqui, oh solicitação de férias! Servidor preenche um
+
+111
+00:05:32,619 --> 00:05:34,278
+requerimento de férias pronto.
+
+112
+00:05:34,290 --> 00:05:35,798
+Tá lá, escrevemos aqui.
+
+113
+00:05:35,809 --> 00:05:39,000
+Viu como é que facilitou agora? Eu simplesmente traduzi
+
+114
+00:05:39,009 --> 00:05:41,040
+aquele quadro e coloquei aqui numa natação.
+
+115
+00:05:41,048 --> 00:05:45,028
+Tá, beleza, Vamos lá ao preencher esse esse
+
+116
+00:05:45,040 --> 00:05:47,670
+requerimento, a parti depois que ele preenche, ele
+
+117
+00:05:47,678 --> 00:05:49,509
+vai fazer o quê? Qual é a atividade próxima?
+
+118
+00:05:49,519 --> 00:05:53,329
+Encaminhar para o chefe imediato, então oh saiu dele
+
+119
+00:05:53,338 --> 00:05:55,470
+aqui, oh, vê pro chefe imediato.
+
+120
+00:05:55,480 --> 00:05:58,869
+Representei o que que o chefe imediato faz analisa a
+
+121
+00:05:58,879 --> 00:05:59,750
+sua a solicitação.
+
+122
+00:05:59,759 --> 00:06:02,069
+Oh! O que que o chefe imediato faz chefe?
+
+123
+00:06:02,079 --> 00:06:05,069
+Analisa o requerimento? Ele vai aceitar ou não ou
+
+124
+00:06:05,079 --> 00:06:06,790
+vai retornar ou vai encaminhar? Então vamos lá,
+
+125
+00:06:06,798 --> 00:06:12,639
+olha aqui! Ele aceitou a solicitação, então ele
+
+126
+00:06:12,649 --> 00:06:14,079
+aceitou.
+
+127
+00:06:14,088 --> 00:06:17,540
+Ele vem pra cá, passa para o conferente,
+
+128
+00:06:17,548 --> 00:06:21,040
+ele não aceitou, ele devolve pro pro servidor dele,
+
+129
+00:06:21,048 --> 00:06:24,389
+então vocês imaginam na sua empresa, né? Cê
+
+130
+00:06:24,399 --> 00:06:26,949
+tá sentadinho lá na tua mesinha trabalhando bacana Cê tem
+
+131
+00:06:26,959 --> 00:06:29,028
+um chefe aí você quer tirar férias.
+
+132
+00:06:29,040 --> 00:06:31,329
+Cê sabe que a empresa tem um formulário específico pra
+
+133
+00:06:31,338 --> 00:06:34,428
+essa requisição de férias? Você pega esse formulário preenche,
+
+134
+00:06:34,439 --> 00:06:34,670
+diz.
+
+135
+00:06:34,678 --> 00:06:38,170
+A data diz o período o tempo pá pá pá
+
+136
+00:06:38,178 --> 00:06:40,028
+pá Chega chefe tá aqui, oh, queria tirar
+
+137
+00:06:40,040 --> 00:06:41,670
+minhas férias, Tá aqui a minha, a minha,
+
+138
+00:06:41,678 --> 00:06:43,564
+a minha, a solicitação de férias, o meu
+
+139
+00:06:43,574 --> 00:06:46,125
+requerimento de férias, teu chefe vai pegar o papel,
+
+140
+00:06:46,134 --> 00:06:47,285
+Vai olhar aquela solicitação.
+
+141
+00:06:47,295 --> 00:06:48,915
+Pô, beleza, Tá legal, cara, Tá
+
+142
+00:06:48,923 --> 00:06:50,963
+tudo preenchido! Tá? Vou encaminhar opa pera!
+
+143
+00:06:50,975 --> 00:06:53,363
+Aí oh, cê colocou aqui as suas férias!
+
+144
+00:06:53,375 --> 00:06:57,125
+Vai começar aqui nessa data Essa data aqui tem!
+
+145
+00:06:57,134 --> 00:06:58,644
+Eh, Eh, é no domingo, a gente
+
+146
+00:06:58,653 --> 00:07:01,504
+não começa as férias no domingo, muda pra segunda
+
+147
+00:07:01,514 --> 00:07:04,803
+pô, volta aqui, repreende, né? Ou
+
+148
+00:07:04,814 --> 00:07:08,084
+você colocou aqui o teu período de férias? Tá
+
+149
+00:07:08,095 --> 00:07:09,963
+somando mais de trinta e cinco dias! Você só
+
+150
+00:07:09,975 --> 00:07:11,345
+tem trinta dias de férias.
+
+151
+00:07:11,709 --> 00:07:14,399
+Cê não pode tirar trinta e cinco Opa! Retorna
+
+152
+00:07:14,410 --> 00:07:15,639
+lá cê tá entendendo.
+
+153
+00:07:15,649 --> 00:07:17,879
+Então, isso é são as situações.
+
+154
+00:07:17,889 --> 00:07:20,119
+É o cotidiano, é o que o processo faz.
+
+155
+00:07:20,129 --> 00:07:22,819
+Então, a gente representa aqui, analisou, aceitou
+
+156
+00:07:23,480 --> 00:07:25,689
+Vai pro conferência do Departamento de Pessoas.
+
+157
+00:07:25,699 --> 00:07:28,350
+Então o departamento de pessoas vai conferir essa solicitação.
+
+158
+00:07:28,358 --> 00:07:29,809
+Ele olha lá, fala assim Pera aí pera aí
+
+159
+00:07:29,819 --> 00:07:31,850
+vamos ver se se o o o cara preencheu tudo
+
+160
+00:07:31,858 --> 00:07:33,528
+direitinho, oh, ele, coloca aqui.
+
+161
+00:07:33,540 --> 00:07:35,488
+Se ele vai ter antecipação salarial.
+
+162
+00:07:35,500 --> 00:07:37,470
+Ele colocou aqui o período de início e término.
+
+163
+00:07:37,480 --> 00:07:40,608
+Ele colocou aqui se ele tem tempo pra Eh,
+
+164
+00:07:40,619 --> 00:07:41,730
+eh, ele tem o ele.
+
+165
+00:07:41,738 --> 00:07:44,350
+Já tem o tempo pra tirar férias, EH?
+
+166
+00:07:44,358 --> 00:07:45,809
+E eu vou checar aqui.
+
+167
+00:07:45,819 --> 00:07:50,233
+Se a a eh esse período é interessante pra empresa
+
+168
+00:07:50,244 --> 00:07:51,713
+que ele tire férias, lembra.
+
+169
+00:07:51,725 --> 00:07:53,314
+Ah, ah, pra quem não entende um pouco
+
+170
+00:07:53,324 --> 00:07:55,394
+de lei, né? As férias é prerrogativa do
+
+171
+00:07:55,403 --> 00:07:57,553
+seu empregador, não é sua? Não tá?
+
+172
+00:07:57,564 --> 00:07:59,954
+Ah, eu quero tirar férias amanhã Não, não
+
+173
+00:07:59,963 --> 00:08:00,394
+pode.
+
+174
+00:08:00,403 --> 00:08:00,574
+Eu não.
+
+175
+00:08:00,584 --> 00:08:02,915
+Eu preciso de você então né? Então, vamos
+
+176
+00:08:02,923 --> 00:08:05,915
+lá, Seu conferente vai lá olha se tá tudo
+
+177
+00:08:05,923 --> 00:08:06,634
+ali que ele precisa.
+
+178
+00:08:06,644 --> 00:08:08,634
+Por que que ele tem, que garantir que que
+
+179
+00:08:08,644 --> 00:08:10,355
+que ele vai passar pra frente, um processo que
+
+180
+00:08:10,363 --> 00:08:12,653
+tá falho, que tá faltando alguma coisa.
+
+181
+00:08:13,069 --> 00:08:15,959
+Se tiver faltando cara, eu já devolvo dali.
+
+182
+00:08:15,970 --> 00:08:17,009
+Então é o que acontece.
+
+183
+00:08:17,019 --> 00:08:20,639
+Oh solicitação? Está correta? Sim, autoriza,
+
+184
+00:08:20,649 --> 00:08:23,209
+Oferece, Não vai lá pro pro cara de novo?
+
+185
+00:08:23,220 --> 00:08:26,678
+Ô fulano ajusta aí aí depois que ajustar a gente,
+
+186
+00:08:26,689 --> 00:08:29,278
+o fluxo volta, tá volta pra analisar.
+
+187
+00:08:29,290 --> 00:08:32,000
+Volta pro conferente vai voltando daqui.
+
+188
+00:08:32,009 --> 00:08:34,259
+Eu não volto direto pra pro gerente do departamento de
+
+189
+00:08:34,269 --> 00:08:36,548
+pessoas Não tá volta pro chefe et Cetera et cetera
+
+190
+00:08:36,558 --> 00:08:38,538
+et Cetera Vai fazendo o caminho de novo Tá,
+
+191
+00:08:39,479 --> 00:08:40,648
+Você pode até falar assim tá.
+
+192
+00:08:40,658 --> 00:08:43,119
+Mas aqui, se vier do do, do departamento
+
+193
+00:08:43,129 --> 00:08:44,847
+de pessoas da minha empresa, quando vai pra lá
+
+194
+00:08:44,859 --> 00:08:47,447
+e o cara a eh, eh, confere se
+
+195
+00:08:47,457 --> 00:08:49,249
+não tá legal, eu já devolvo pra ele direto.
+
+196
+00:08:49,258 --> 00:08:51,129
+Não mando pro meu chefe de novo, se for
+
+197
+00:08:51,138 --> 00:08:53,928
+na sua empresa assim beleza representa no fluxo, representa
+
+198
+00:08:53,938 --> 00:08:56,567
+no teu processo escrito, tá no nosso caso,
+
+199
+00:08:56,577 --> 00:08:58,008
+aqui não existe essa possibilidade.
+
+200
+00:08:58,018 --> 00:09:01,048
+A possibilidade é eu Errei, não foi aceita,
+
+201
+00:09:01,058 --> 00:09:03,447
+volta pro Pro, Pro pro, pro formulário pra
+
+202
+00:09:03,457 --> 00:09:03,888
+mim.
+
+203
+00:09:03,898 --> 00:09:05,327
+E eu faço tudo de novo.
+
+204
+00:09:05,337 --> 00:09:08,590
+Se eu quero continuar as minhas férias, tá certo.
+
+205
+00:09:08,599 --> 00:09:11,349
+O gerente de pessoas autoriza as férias opa! Beleza.
+
+206
+00:09:11,359 --> 00:09:11,989
+Tá legal.
+
+207
+00:09:12,000 --> 00:09:15,849
+Autorizou as férias, né? Que é assinatura alguma
+
+208
+00:09:15,859 --> 00:09:19,330
+coisa ali, algum processo formal wkf de conhecimento,
+
+209
+00:09:19,340 --> 00:09:22,750
+Enfim, o que quer que seja feito isso volta
+
+210
+00:09:22,759 --> 00:09:26,479
+pro Pro Pro conferente esse conferente ele lança as informações
+
+211
+00:09:26,489 --> 00:09:28,710
+do sistema, lança no sistema de férias, lança
+
+212
+00:09:28,719 --> 00:09:32,129
+no no lança no departamento lança Eh, tá aqui
+
+213
+00:09:32,139 --> 00:09:34,668
+e lança lança no sistema de férias, lança no
+
+214
+00:09:34,678 --> 00:09:39,629
+sistema de pagamento feito feito isso ele finaliza eh gera
+
+215
+00:09:39,639 --> 00:09:43,190
+o processo de férias, então lançou, Imprime os
+
+216
+00:09:43,200 --> 00:09:47,469
+relatórios, imprime todos os os comunicados beleza quando ele
+
+217
+00:09:47,479 --> 00:09:50,869
+terminar de imprimir, ele manda pro departamento financeiro que
+
+218
+00:09:50,879 --> 00:09:53,428
+vai realizar o processo financeiro, pagamento das férias,
+
+219
+00:09:53,440 --> 00:09:54,269
+etc etc.
+
+220
+00:09:54,279 --> 00:09:56,710
+E pode finalizar o processo.
+
+221
+00:09:56,719 --> 00:10:01,710
+Processo iniciou processo terminou tá Então esse é o nosso
+
+222
+00:10:01,719 --> 00:10:05,570
+caso prático três Terminando aí com uma anotação b PM
+
+223
+00:10:05,580 --> 00:10:07,969
+Obrigado e até a próxima! Um abraço
+

@@ -1,0 +1,416 @@
+1
+00:00:05,710 --> 00:00:07,698
+Olá, vamos falar um pouquinho sobre a consulta e
+
+2
+00:00:07,710 --> 00:00:09,720
+inserção a nível do né.
+
+3
+00:00:09,728 --> 00:00:10,939
+Que é uma.
+
+4
+00:00:10,948 --> 00:00:13,478
+A partir do momento que você tem um Down que
+
+5
+00:00:13,489 --> 00:00:17,079
+já tem as operações de consulta, de inclusão,
+
+6
+00:00:17,089 --> 00:00:20,859
+que seria o CEO R do crude, né?
+
+7
+00:00:20,870 --> 00:00:24,260
+Eh, você já pode ter ali uma interface que
+
+8
+00:00:24,269 --> 00:00:28,679
+responda aos métodos, né? Um Embora você ainda
+
+9
+00:00:28,690 --> 00:00:30,839
+não tenha todas as funcionalidades, você já pode colocar
+
+10
+00:00:30,850 --> 00:00:31,179
+ali.
+
+11
+00:00:31,408 --> 00:00:33,750
+Eh o GAT e o post que seriam as o
+
+12
+00:00:33,759 --> 00:00:36,939
+eh a consulta e inserção via, né? Vamos
+
+13
+00:00:36,950 --> 00:00:42,228
+ver como é que isso funciona? Bom configuração do
+
+14
+00:00:42,240 --> 00:00:45,908
+servidor Express não tem lá muito mistério.
+
+15
+00:00:45,918 --> 00:00:48,450
+Cê tem que colocar n PM tal express boy parro
+
+16
+00:00:48,459 --> 00:00:49,590
+e cores.
+
+17
+00:00:49,598 --> 00:00:52,090
+Tá que que é cada um o express, o
+
+18
+00:00:52,098 --> 00:00:53,750
+nosso servidor minimalista.
+
+19
+00:00:53,759 --> 00:00:56,829
+Eu tenho que instalar o Boyce pra ele poder reconhecer
+
+20
+00:00:56,840 --> 00:00:59,109
+o corpo no formato Jason quando você vai enviar a
+
+21
+00:00:59,118 --> 00:01:03,348
+informação no corpo e o m PM seria pra você.
+
+22
+00:01:03,359 --> 00:01:07,650
+Eh evitar aqueles problemas de segurança quando ele evita a
+
+23
+00:01:07,659 --> 00:01:10,969
+informação que vem de uma outra origem, né.
+
+24
+00:01:10,980 --> 00:01:12,120
+Isso é uma questão de segurança.
+
+25
+00:01:12,129 --> 00:01:15,010
+É pra evitar um tipo de ataque chamado X S
+
+26
+00:01:15,019 --> 00:01:18,159
+S, né S, né? Eh e aí
+
+27
+00:01:18,168 --> 00:01:19,028
+o que ele faz.
+
+28
+00:01:19,040 --> 00:01:22,269
+Ele impede que um um um domínio consiga acessar as
+
+29
+00:01:22,278 --> 00:01:23,430
+informações de outro.
+
+30
+00:01:23,439 --> 00:01:25,138
+Esse é o padrão, mas você pode quebrar ele
+
+31
+00:01:25,150 --> 00:01:27,989
+com o corso, né? Interpretação de Jason e
+
+32
+00:01:28,000 --> 00:01:30,588
+o Jason é feita com o Bori par né?
+
+33
+00:01:30,599 --> 00:01:35,849
+Então a configuração básica seria essa recuar Express, né?
+
+34
+00:01:35,859 --> 00:01:38,939
+EH, ah, a configuração das rotas inicialmente a
+
+35
+00:01:38,948 --> 00:01:42,680
+conferação básica do servidor deixa eu colocar ela aqui.
+
+36
+00:01:44,260 --> 00:01:50,409
+O meu servidor teria uma configuração assim Oh Express Jason
+
+37
+00:01:51,689 --> 00:01:54,948
+com origem qualquer eu não tô bloqueando nada, tô
+
+38
+00:01:54,959 --> 00:01:56,338
+deixando qualquer cores ali.
+
+39
+00:01:56,349 --> 00:01:59,680
+Então deixo qualquer um acessar e a rota personagens com
+
+40
+00:01:59,689 --> 00:02:00,599
+a rota de jogo.
+
+41
+00:02:00,609 --> 00:02:04,549
+Essa rota aqui é a rota que eu vou definir
+
+42
+00:02:04,558 --> 00:02:06,668
+aqui, né? Então o que eu tô fazendo
+
+43
+00:02:06,680 --> 00:02:10,270
+aqui inicialmente é definir a rota tá? E essa
+
+44
+00:02:10,278 --> 00:02:12,629
+rota vai ter os métodos que eu preciso pra acessar
+
+45
+00:02:12,639 --> 00:02:13,118
+o Down.
+
+46
+00:02:13,129 --> 00:02:16,669
+Então eu tenho lá recue Express personagem Dow recuar do
+
+47
+00:02:16,679 --> 00:02:20,308
+personagem Dow que é aquele meu Dow pra gerenciar personagens
+
+48
+00:02:20,319 --> 00:02:24,250
+que eu tô criando igual express ponto Eu tenho um
+
+49
+00:02:24,258 --> 00:02:26,710
+roteador e aqui const Down é igual.
+
+50
+00:02:26,719 --> 00:02:29,610
+O new personagem Dow, né? O meu do
+
+51
+00:02:30,278 --> 00:02:33,889
+que é um personagem dow aquela classe lá No caso
+
+52
+00:02:33,899 --> 00:02:36,008
+do Gat, que que ele vai fazer? O
+
+53
+00:02:36,020 --> 00:02:38,949
+Gatt é pra consulta, Então eu vou ter lá
+
+54
+00:02:38,960 --> 00:02:41,599
+o que eu vou dar um né? Sempre assim
+
+55
+00:02:41,610 --> 00:02:46,508
+que dá o e retorna os dados no formato Jason
+
+56
+00:02:47,169 --> 00:02:48,778
+e o Gatt, i D, né? É
+
+57
+00:02:48,788 --> 00:02:49,699
+um parâmetro.
+
+58
+00:02:49,710 --> 00:02:51,490
+Eu vou também usar um só que em vez de
+
+59
+00:02:51,500 --> 00:02:54,460
+ser o ah, eu vou usar o Dowd passando
+
+60
+00:02:54,469 --> 00:02:57,379
+o i D que foi recebido hack para i D
+
+61
+00:02:57,389 --> 00:02:59,558
+e vou retornar os dados no formato jason.
+
+62
+00:02:59,569 --> 00:03:02,659
+O que eu tô fazendo são essas rotas aqui,
+
+63
+00:03:02,669 --> 00:03:09,088
+Oh, rotas, jogo rotas Get barra Gatt barra
+
+64
+00:03:09,099 --> 00:03:12,770
+dois pontos e d retornando lá a informação, né?
+
+65
+00:03:12,778 --> 00:03:15,649
+Então assim eu só tô definindo essas duas rotas usando
+
+66
+00:03:15,659 --> 00:03:18,838
+os métodos do Down E aqui eu vou ter um
+
+67
+00:03:19,479 --> 00:03:24,368
+pro método post, o Crea usando o corpo da
+
+68
+00:03:24,379 --> 00:03:26,389
+requisição Jason Dados.
+
+69
+00:03:27,129 --> 00:03:29,929
+Então, eu tenho lá o cliente usando o corpo
+
+70
+00:03:29,939 --> 00:03:32,770
+da requisição e ele vai retornar a informação que ele
+
+71
+00:03:32,778 --> 00:03:36,050
+recebeu lá do modal, né? Eh, como
+
+72
+00:03:36,058 --> 00:03:39,979
+sendo eh a resposta já vai incluir, inclusive o
+
+73
+00:03:39,990 --> 00:03:41,129
+i d, já que o a d é um
+
+74
+00:03:41,139 --> 00:03:46,288
+incremento, né? Então ele retorna essa entidade já
+
+75
+00:03:46,300 --> 00:03:50,629
+com o i D para o chamado no formato Jason,
+
+76
+00:03:51,250 --> 00:03:56,058
+tá, ele tá exportando.
+
+77
+00:03:56,069 --> 00:03:59,969
+Essa rota seria esse finalzinho, que é o que
+
+78
+00:03:59,979 --> 00:04:02,860
+permite que eu use a rota depois, né?
+
+79
+00:04:02,868 --> 00:04:06,399
+Porque eu vou chegar lá no meu servidor, e
+
+80
+00:04:06,409 --> 00:04:08,288
+eu vou falar o seguinte Oh, vou usar a
+
+81
+00:04:08,300 --> 00:04:12,250
+rota recuar! E vou associar a uma u R
+
+82
+00:04:12,258 --> 00:04:13,750
+L de base que nesse caso é barra.
+
+83
+00:04:13,758 --> 00:04:17,730
+Personagens, né? Com isso eu posso pegar e
+
+84
+00:04:17,738 --> 00:04:21,410
+deixar esse servidor rodando, e ele vai Tá pronto
+
+85
+00:04:21,420 --> 00:04:25,730
+pra poder receber inserções naquele endereço, barra, personagens
+
+86
+00:04:25,738 --> 00:04:28,730
+ou barra personagem e de com post? Ou pode
+
+87
+00:04:28,738 --> 00:04:32,730
+consultar com acesso ao barra personagem, né? Bom,
+
+88
+00:04:35,119 --> 00:04:37,970
+eh isso aí já garante pra mim que eu tenha
+
+89
+00:04:37,980 --> 00:04:41,209
+as operações de consulta e operações de inserção.
+
+90
+00:04:41,220 --> 00:04:42,709
+É um web do tipo ple.
+
+91
+00:04:43,500 --> 00:04:46,230
+Eh se eu quiser testar nesse momento eu posso usar
+
+92
+00:04:46,238 --> 00:04:47,350
+várias ferramentas.
+
+93
+00:04:47,358 --> 00:04:49,079
+Posso usar o insônia? Posso usar o Postman?
+
+94
+00:04:49,088 --> 00:04:51,829
+Posso usar? Eh o Boomerang como o plugin.
+
+95
+00:04:51,838 --> 00:04:55,759
+Mas eu posso fazer também o que eu posso usar
+
+96
+00:04:55,769 --> 00:04:59,480
+um cliente do JS, né? Uma opção também
+
+97
+00:04:59,488 --> 00:05:01,850
+é usar o próprio h T, P ou o
+
+98
+00:05:01,858 --> 00:05:05,189
+es tá, então Ah a Nesse momento eu já
+
+99
+00:05:05,199 --> 00:05:06,028
+tenho pronto.
+
+100
+00:05:06,040 --> 00:05:09,019
+A parte se refere a umaà camada controle.
+
+101
+00:05:09,028 --> 00:05:13,108
+Falta ainda definir uma camada vil, mas até a
+
+102
+00:05:13,119 --> 00:05:16,709
+controle está pronta Meu Webster www já está completo nesse
+
+103
+00:05:16,720 --> 00:05:19,629
+momento com as operações, é claro, só de
+
+104
+00:05:19,639 --> 00:05:21,209
+inclusão e de listagem.
+

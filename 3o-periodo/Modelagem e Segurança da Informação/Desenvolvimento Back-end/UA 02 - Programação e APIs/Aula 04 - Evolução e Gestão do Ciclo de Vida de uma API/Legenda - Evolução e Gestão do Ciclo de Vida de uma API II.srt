@@ -1,0 +1,712 @@
+1
+00:00:06,500 --> 00:00:09,978
+Olá, vamos falar um pouquinho sobre as características gerais
+
+2
+00:00:09,989 --> 00:00:12,630
+de um a p i, né? Eh interessante
+
+3
+00:00:12,640 --> 00:00:15,509
+reconhecer quais são os elementos fundamentais pra que um a
+
+4
+00:00:15,519 --> 00:00:19,989
+P I seja consistente e possa eh fornecer o serviço
+
+5
+00:00:20,000 --> 00:00:22,750
+de uma forma adequada e não quebrar o sistema da
+
+6
+00:00:22,760 --> 00:00:23,670
+outra ponta.
+
+7
+00:00:23,679 --> 00:00:26,149
+Tem que lembrar o seguinte A P I é a
+
+8
+00:00:26,158 --> 00:00:28,809
+tion interface, ou seja, tem uma interface de
+
+9
+00:00:28,818 --> 00:00:30,170
+programação do aplicativo.
+
+10
+00:00:30,179 --> 00:00:32,929
+Se essa interface é quebrada, todo mundo que depende
+
+11
+00:00:32,939 --> 00:00:36,009
+do seu aplicativo para de funcionar, então você perde
+
+12
+00:00:36,020 --> 00:00:38,618
+credibilidade, né? Então vamos lá começar a falar
+
+13
+00:00:38,630 --> 00:00:44,918
+sobre isso Cara Características gerais um A p i interface
+
+14
+00:00:44,929 --> 00:00:48,439
+uniforme e padronizada Tá, você não consegue fazer um
+
+15
+00:00:48,450 --> 00:00:50,740
+a p i se não tiver uma interface uniforme padronizado
+
+16
+00:00:50,750 --> 00:00:53,618
+que interfaces são essas Em geral é a cinta que
+
+17
+00:00:53,630 --> 00:00:56,000
+se você utiliza pode ser um x ML um jason,
+
+18
+00:00:56,009 --> 00:00:59,200
+né, eh tem a p i s mais antigas
+
+19
+00:00:59,209 --> 00:01:01,319
+que usam outros formatos tem algumas a p i s
+
+20
+00:01:01,329 --> 00:01:04,698
+novas que tão usando tá então cada um usa uma
+
+21
+00:01:04,709 --> 00:01:07,159
+coisa diferente, mas eu tenho que ter uma interface
+
+22
+00:01:07,168 --> 00:01:11,599
+que seja aceita padronizada, tenha regras ocultar a complexidade
+
+23
+00:01:11,609 --> 00:01:15,180
+do sistema um A p i só fornece tá,
+
+24
+00:01:15,790 --> 00:01:20,400
+eh aquilo que é realmente importante pra quem for usar,
+
+25
+00:01:20,409 --> 00:01:23,959
+eu não posso criar lá trinta quarenta serviços diferentes e
+
+26
+00:01:23,969 --> 00:01:25,719
+eu sei que só vão usar dois, cria esses
+
+27
+00:01:25,730 --> 00:01:29,079
+dois, né? Que exista a funcionalidade interna no
+
+28
+00:01:29,088 --> 00:01:29,719
+sistema.
+
+29
+00:01:29,730 --> 00:01:31,918
+Nem todas as funcionalidades tem que ser expostas.
+
+30
+00:01:31,930 --> 00:01:35,400
+Você coloca a funcionalidade interna e só expõe aquilo que
+
+31
+00:01:35,409 --> 00:01:36,480
+é realmente necessário.
+
+32
+00:01:36,489 --> 00:01:39,480
+Então, ocultar ao máximo a complexidade do sistema,
+
+33
+00:01:39,489 --> 00:01:42,319
+tá? Os primeiros exemplos de A PS foram cenas
+
+34
+00:01:42,329 --> 00:01:44,939
+operacionais, né? Eles te dão o mínimo lá
+
+35
+00:01:44,948 --> 00:01:47,400
+pra você poder fazer as operações, né? Eh
+
+36
+00:01:47,409 --> 00:01:51,338
+a pdi operacional te permite criar permite criar.
+
+37
+00:01:51,349 --> 00:01:54,019
+Eh Fox, pode criar uma série de coisas!
+
+38
+00:01:54,028 --> 00:01:56,219
+Tá, eh a gente vê muito disso quando trabalha
+
+39
+00:01:56,230 --> 00:01:57,859
+em linguagem C, Ainda mais quando se trabalha com
+
+40
+00:01:57,870 --> 00:02:02,028
+o Yu Nix, né? Eh necessidade de version
+
+41
+00:02:02,870 --> 00:02:04,599
+um a p I, principalmente na web.
+
+42
+00:02:04,609 --> 00:02:05,448
+Tem que ter version.
+
+43
+00:02:05,459 --> 00:02:09,338
+Tá por quê? Muitas vezes você tem um a
+
+44
+00:02:09,349 --> 00:02:11,139
+p i, que tem três, quatro versões que
+
+45
+00:02:11,149 --> 00:02:15,058
+continuam funcionando porque eu tenho sistemas que foram criados há
+
+46
+00:02:15,069 --> 00:02:17,740
+muito tempo e não foram ainda desligados, né?
+
+47
+00:02:17,750 --> 00:02:20,179
+Vamos colocar, por exemplo, a Receita Federal,
+
+48
+00:02:20,189 --> 00:02:21,659
+que trabalha com notas fiscais.
+
+49
+00:02:21,669 --> 00:02:26,500
+Via eh, né? Eh se ela coloca uma
+
+50
+00:02:26,508 --> 00:02:28,580
+versão nova do protocolo dela.
+
+51
+00:02:28,588 --> 00:02:31,538
+Ela tem que manter a antiga funcionando por algum tempo,
+
+52
+00:02:31,550 --> 00:02:34,899
+pelo menos um ano pra que todas as pessoas possam
+
+53
+00:02:34,909 --> 00:02:36,129
+adaptar os seus sistemas.
+
+54
+00:02:36,139 --> 00:02:39,550
+A nova versão senão você vai quebrar a funcionalidade.
+
+55
+00:02:39,558 --> 00:02:41,949
+Tá uma p i ela de uso constante Ela não
+
+56
+00:02:41,960 --> 00:02:45,210
+pode quebrar a funcionalidade? Tá? Eh! Você
+
+57
+00:02:45,219 --> 00:02:48,229
+tem a PS, que são privadas de parceiros e
+
+58
+00:02:48,240 --> 00:02:48,889
+públicas.
+
+59
+00:02:48,899 --> 00:02:50,250
+Tá as privadas.
+
+60
+00:02:50,258 --> 00:02:53,969
+Não tem uma grande preocupação com auto formalismo, porque
+
+61
+00:02:53,979 --> 00:02:56,129
+é de uso interno de parceiros.
+
+62
+00:02:56,139 --> 00:02:58,449
+Aí é importante você ter uma comunicação, eh que
+
+63
+00:02:58,460 --> 00:02:59,808
+a gente chama de né? Que seria de duas
+
+64
+00:02:59,819 --> 00:03:03,469
+empresas falando Eh E ela pode não ser exposta pro
+
+65
+00:03:03,479 --> 00:03:07,008
+resto do público e eu tenho a essencialmente públicas,
+
+66
+00:03:07,020 --> 00:03:08,409
+né? Que são a p i de que qualquer
+
+67
+00:03:08,419 --> 00:03:11,028
+um pode usar? Né? As de parceiros?
+
+68
+00:03:11,038 --> 00:03:15,110
+É muito comum você colocar algum sistema de autenticação,
+
+69
+00:03:15,118 --> 00:03:17,689
+né? Você coloca um sistema de toque em alguma
+
+70
+00:03:17,699 --> 00:03:20,830
+coisa que não permita que alguém externo, mesmo que
+
+71
+00:03:20,838 --> 00:03:25,229
+por acidente, acabe a acessando aquilo tá eh na
+
+72
+00:03:25,240 --> 00:03:26,069
+p i remotas.
+
+73
+00:03:26,080 --> 00:03:29,028
+É comum você trabalhar com e st, né?
+
+74
+00:03:29,038 --> 00:03:31,868
+Então, assim essas a p i públicas remotas Hoje
+
+75
+00:03:31,879 --> 00:03:35,618
+parceiros remotos, é muito comum você usar e o
+
+76
+00:03:35,629 --> 00:03:39,179
+modelo emergente é o Graf, tá, o Graf
+
+77
+00:03:39,189 --> 00:03:45,099
+are seria Graff, ele tem assim eh como objetivo
+
+78
+00:03:45,110 --> 00:03:48,639
+substituir web, como né? De um modelo mais
+
+79
+00:03:48,649 --> 00:03:50,939
+através de um modelo mais simples? Nem sempre é
+
+80
+00:03:50,949 --> 00:03:53,020
+tão simples assim Tá? Eh.
+
+81
+00:03:53,028 --> 00:03:56,118
+Hoje em dia ainda Não é uma realidade, não
+
+82
+00:03:56,129 --> 00:03:57,939
+é uma coisa que é amplamente utilizada.
+
+83
+00:03:57,949 --> 00:03:59,618
+Mas como toda tendência, a gente tem que tá
+
+84
+00:03:59,629 --> 00:04:03,969
+de olho, né? Ah o né? O
+
+85
+00:04:03,979 --> 00:04:08,179
+os ABr Eles tra são a p i, né?
+
+86
+00:04:08,189 --> 00:04:11,429
+Eh que usam x ML, né? Então o
+
+87
+00:04:11,439 --> 00:04:13,758
+x ML é o que garante a interoperabilidade.
+
+88
+00:04:13,770 --> 00:04:15,399
+Ou seja, é com o x ML que eu
+
+89
+00:04:15,409 --> 00:04:20,059
+garanto que qualquer um pode acessar o ASE porque qualquer
+
+90
+00:04:20,069 --> 00:04:21,399
+linguagem consegue trabalhar com o x.
+
+91
+00:04:21,410 --> 00:04:25,048
+ML, né? As mensagens são, então a
+
+92
+00:04:25,059 --> 00:04:29,889
+comunicação que existe ela é toda em, né?
+
+93
+00:04:29,899 --> 00:04:34,588
+Eh? São mensagens compostas de eh de um envelope,
+
+94
+00:04:34,600 --> 00:04:38,278
+né? E de um boy né? Ah,
+
+95
+00:04:38,290 --> 00:04:40,579
+seria? Seria um envelope e o corpo tá?
+
+96
+00:04:41,290 --> 00:04:43,259
+Eu tenho um descritor w b SD l Eu tenho
+
+97
+00:04:43,269 --> 00:04:45,059
+que ter um descritor pra falar o seguinte como é
+
+98
+00:04:45,069 --> 00:04:47,579
+que se usa esse serviço? Então eu tenho a
+
+99
+00:04:47,588 --> 00:04:50,379
+w SD L que é o descritor! Eu tenho
+
+100
+00:04:50,389 --> 00:04:52,838
+um registro que é que diz onde tá o serviço
+
+101
+00:04:52,850 --> 00:04:57,459
+que é o d D i tá os essa comunicação
+
+102
+00:04:57,470 --> 00:05:01,660
+aqui são gerados a partir do W SD L então
+
+103
+00:05:01,670 --> 00:05:05,338
+o service provider vai fornecer um w SD L pra
+
+104
+00:05:05,350 --> 00:05:06,040
+um registro.
+
+105
+00:05:06,809 --> 00:05:11,220
+O cliente vai pesquisar nesse registro por esse serviço e
+
+106
+00:05:11,230 --> 00:05:12,980
+vai receber a W SD L O que que essa
+
+107
+00:05:12,988 --> 00:05:15,298
+w SD l fala Olha, você pode usar esse
+
+108
+00:05:15,309 --> 00:05:18,738
+serviço se você usar esses eh esse formato aqui é
+
+109
+00:05:18,750 --> 00:05:21,500
+assim que você chama o serviço tudo em X ML
+
+110
+00:05:21,509 --> 00:05:23,470
+tá fazendo isso.
+
+111
+00:05:23,480 --> 00:05:28,350
+O cliente pode gerar automaticamente os STO? Seriam pra
+
+112
+00:05:28,358 --> 00:05:30,949
+fazer a comunicação? Por quê? Porque não interessa
+
+113
+00:05:30,959 --> 00:05:33,269
+ficar gerenciando o protocolo de rede? O que interessa
+
+114
+00:05:33,278 --> 00:05:35,988
+é usar o serviço tá e pelo W D L.
+
+115
+00:05:36,000 --> 00:05:39,338
+Ele ainda pode gerar o protocolo sozinho e com isso
+
+116
+00:05:39,350 --> 00:05:42,759
+aqui a comunicação fica toda via tá e tudo isso
+
+117
+00:05:42,769 --> 00:05:44,178
+aí é x ML.
+
+118
+00:05:44,189 --> 00:05:46,319
+Com isso eu tô garantindo o inteiro pra habilidade e
+
+119
+00:05:46,329 --> 00:05:46,819
+por baixo.
+
+120
+00:05:46,829 --> 00:05:49,738
+Eu posso ter um sistema gigantesco e no final das
+
+121
+00:05:49,750 --> 00:05:52,720
+contas eu só tenho alguns serviços sendo expostos, né?
+
+122
+00:05:53,379 --> 00:05:57,629
+Ah, webster Atura é cliente de servidor, tá
+
+123
+00:05:57,639 --> 00:06:01,928
+sem monitoração de Estado, ou seja, o e
+
+124
+00:06:01,939 --> 00:06:04,230
+também também não tem essa monitoração de Estado Tá.
+
+125
+00:06:04,238 --> 00:06:09,790
+Porém, o ele permite trabalhar com que é interessante,
+
+126
+00:06:09,798 --> 00:06:12,670
+né? Porque como são entidades, você faz consulta
+
+127
+00:06:12,678 --> 00:06:15,028
+de entidades, você pode ter entidades em cash,
+
+128
+00:06:15,040 --> 00:06:18,028
+no Redis, por exemplo, né? Eh o
+
+129
+00:06:18,040 --> 00:06:20,928
+sistema em camadas O código sobre demanda é uma coisa
+
+130
+00:06:20,939 --> 00:06:24,019
+opcional que que é? Isso? Eh o código
+
+131
+00:06:24,028 --> 00:06:28,858
+sobre demanda eh quando você eh, envia pro cliente
+
+132
+00:06:28,869 --> 00:06:31,959
+executáveis, né? Então assim tem pequenos executáveis que
+
+133
+00:06:31,970 --> 00:06:34,298
+são enviados pra execução na máquina do cliente.
+
+134
+00:06:34,309 --> 00:06:36,338
+Isso é o que chama de código sobre demanda,
+
+135
+00:06:36,350 --> 00:06:38,579
+né? Tem algumas a P que usam isso.
+
+136
+00:06:38,588 --> 00:06:41,738
+Principalmente quando a gente fala de softwares da service né?
+
+137
+00:06:41,750 --> 00:06:46,088
+Porque s a s tá, eh interface uniforme Interface
+
+138
+00:06:46,100 --> 00:06:49,670
+uniforme nesse caso é através do Jason tá que é
+
+139
+00:06:49,678 --> 00:06:50,350
+o Java script.
+
+140
+00:06:50,358 --> 00:06:54,548
+Objetos no texto essa interface uniforme do ela garante o
+
+141
+00:06:54,559 --> 00:06:58,338
+quê, né eh recurso identificado na solicitação, ou
+
+142
+00:06:58,350 --> 00:07:00,088
+seja, ele usa a própria U R L pra
+
+143
+00:07:00,100 --> 00:07:03,369
+identificar o recurso se vai ser um conjunto de produtos,
+
+144
+00:07:03,379 --> 00:07:07,290
+se vai ser um produto específico, tá manipulação por
+
+145
+00:07:07,298 --> 00:07:08,540
+representação de estado.
+
+146
+00:07:08,548 --> 00:07:11,509
+Tá então assim a manipulação dos dados é via a
+
+147
+00:07:11,519 --> 00:07:15,250
+representação desses estados que utiliza o Jason ou seja,
+
+148
+00:07:15,259 --> 00:07:15,850
+os estados.
+
+149
+00:07:15,858 --> 00:07:19,470
+Os dados atuais são fornecidos e recebidos sempre em Jason,
+
+150
+00:07:19,480 --> 00:07:23,778
+né? Mensagens auto descritivas tá, Então? Cê
+
+151
+00:07:23,790 --> 00:07:26,838
+tem aquela! Ah! O próprio Jason assim ah,
+
+152
+00:07:26,850 --> 00:07:30,238
+o formato já te define o que é cada coisa,
+
+153
+00:07:30,250 --> 00:07:32,358
+né? Esse cara é o nome é que tá
+
+154
+00:07:32,369 --> 00:07:33,769
+o valor, aqui é o sobrenome é que tá
+
+155
+00:07:33,778 --> 00:07:36,759
+o valor e permite como plataforma de estados que na
+
+156
+00:07:36,769 --> 00:07:39,000
+verdade seria o h T P e ele vai usar
+
+157
+00:07:39,009 --> 00:07:42,160
+o o de lite vai usar os métodos do h
+
+158
+00:07:42,170 --> 00:07:46,119
+T P pra poder fazer essa comunicação sendo um formato
+
+159
+00:07:46,129 --> 00:07:48,850
+jason e um protocolo h t P ele é inter.
+
+160
+00:07:48,858 --> 00:07:51,209
+Oper, né? E eu tenho aí também a
+
+161
+00:07:51,220 --> 00:07:53,569
+característica desse tipo de serviço, né.
+
+162
+00:07:53,579 --> 00:07:56,920
+Que é um a p i eh posso usar,
+
+163
+00:07:56,928 --> 00:07:59,290
+mas apa e são bastante aceitas e bem fáceis de
+
+164
+00:07:59,298 --> 00:08:03,540
+trabalhar, né? Bom, então essas são algumas
+
+165
+00:08:03,548 --> 00:08:04,910
+características gerais de um a p i.
+
+166
+00:08:04,920 --> 00:08:09,309
+É importante Muito importante você não deixar quebrar o serviço,
+
+167
+00:08:09,319 --> 00:08:11,829
+né? Eh! Se você vai ter que tirar
+
+168
+00:08:11,838 --> 00:08:14,750
+uma versão do ar eh, você tem que avisar
+
+169
+00:08:14,759 --> 00:08:17,149
+que em que momento vai tirar do ar, né?
+
+170
+00:08:17,160 --> 00:08:19,189
+Então, você vai ser, vai ter duas versões
+
+171
+00:08:19,199 --> 00:08:21,100
+Ah, vou colocar uma versão nova, você primeiro
+
+172
+00:08:21,108 --> 00:08:24,399
+coloca a versão nova, dá um prazo de validade
+
+173
+00:08:24,410 --> 00:08:26,350
+pra antiga, deixa as duas em paralelo por um
+
+174
+00:08:26,358 --> 00:08:26,879
+tempo.
+
+175
+00:08:26,889 --> 00:08:29,000
+Naquele prazo de validade, você tira a antiga,
+
+176
+00:08:29,009 --> 00:08:31,600
+não pode ser quebrado Por quê? Se você simplesmente
+
+177
+00:08:31,608 --> 00:08:34,000
+colocar a nova, todo mundo parar de funcionar e
+
+178
+00:08:34,009 --> 00:08:35,298
+você perde credibilidade?
+

@@ -1,0 +1,732 @@
+1
+00:00:05,849 --> 00:00:07,969
+Olá, tudo bom, sejam bem vindos, vamos
+
+2
+00:00:07,980 --> 00:00:10,560
+continuar com a nossa disciplina de gestão de segurança e
+
+3
+00:00:10,569 --> 00:00:11,538
+continuidade.
+
+4
+00:00:11,550 --> 00:00:15,060
+Nós já falamos sobre nível tático, nível estratégico,
+
+5
+00:00:15,069 --> 00:00:17,000
+nível tático, e agora nós vamos falar sobre nível
+
+6
+00:00:17,010 --> 00:00:17,859
+operacional.
+
+7
+00:00:17,870 --> 00:00:19,940
+Lembrando que o nível tático a gente tá ali falando,
+
+8
+00:00:19,949 --> 00:00:22,940
+sobre questões macro, sobre a alta direção, o
+
+9
+00:00:22,949 --> 00:00:25,228
+nível tático, a gente tá falando sobre o nível
+
+10
+00:00:25,239 --> 00:00:27,859
+estratégico, né? Sobre a alta direção o nível
+
+11
+00:00:27,870 --> 00:00:30,100
+tático a gente tava falando de como traduzir o que
+
+12
+00:00:30,109 --> 00:00:33,219
+a alta direção fala para o operacional e agora sim,
+
+13
+00:00:33,228 --> 00:00:37,118
+nós vamos entrar no nível operacional no dia-a-dia, tá,
+
+14
+00:00:37,130 --> 00:00:41,020
+vamos lá estrutura dos planos operacionais.
+
+15
+00:00:41,029 --> 00:00:44,270
+A gestão eficaz incidente, a segurança e informação e
+
+16
+00:00:44,279 --> 00:00:47,779
+continuidade de negócio exige uma abordagem estruturada que inclua a
+
+17
+00:00:47,789 --> 00:00:50,679
+definição de planos operacionais sólidos.
+
+18
+00:00:50,689 --> 00:00:54,950
+Esses planos operacionais desempenham um papel vital na resposta a
+
+19
+00:00:54,959 --> 00:00:59,079
+incidentes, pois são projetados para orientar as ações com
+
+20
+00:00:59,090 --> 00:01:04,680
+ações precisas no nível operacional da organização da organização.
+
+21
+00:01:04,989 --> 00:01:08,918
+A estratégia desses planos operacionais é essencial para garantir que
+
+22
+00:01:08,930 --> 00:01:12,359
+todos os membros da equipe compreendam claramente suas funções e
+
+23
+00:01:12,370 --> 00:01:16,219
+suas responsabilidades, bem como os procedimentos a serem seguidos
+
+24
+00:01:16,230 --> 00:01:17,519
+em situações dissidentes.
+
+25
+00:01:17,528 --> 00:01:20,799
+Essa estrutura compreende alguns elementos, mas vamos dar uma
+
+26
+00:01:20,808 --> 00:01:21,400
+pausa aqui.
+
+27
+00:01:21,409 --> 00:01:24,219
+Então, quando a gente tá falando de plano operacional
+
+28
+00:01:24,230 --> 00:01:28,019
+e aí é uma tradição ainda maior do nível estratégico
+
+29
+00:01:28,028 --> 00:01:29,459
+que a gente já ali na no nível tático,
+
+30
+00:01:29,469 --> 00:01:31,058
+a gente desenhou as políticas, as normas, os
+
+31
+00:01:31,069 --> 00:01:32,040
+procedimentos aqui, não.
+
+32
+00:01:32,049 --> 00:01:33,338
+Aqui a gente já tá falando tá? E no
+
+33
+00:01:33,349 --> 00:01:35,120
+dia-a-dia, como que vai ser isso? Qual o
+
+34
+00:01:35,129 --> 00:01:36,980
+papel? Qual a execução, qual é a responsabilidade
+
+35
+00:01:36,989 --> 00:01:37,418
+de cada um.
+
+36
+00:01:37,430 --> 00:01:40,159
+Então aqui a gente vai começar a detalhar a operação
+
+37
+00:01:40,168 --> 00:01:45,959
+no dia-a-dia tá introdução ali, eh nessa sessão aqui
+
+38
+00:01:45,969 --> 00:01:47,159
+o plano Operação O.
+
+39
+00:01:47,168 --> 00:01:50,120
+O plano operacional serve como um ponto de partida,
+
+40
+00:01:50,129 --> 00:01:53,129
+oferecendo uma visão clara do plano e definindo o seu
+
+41
+00:01:53,138 --> 00:01:56,299
+propósito, estabelece o contexto e a razão pela qual
+
+42
+00:01:56,308 --> 00:01:59,778
+o plano foi desenvolvido, fornece fornecendo clareza sobre a
+
+43
+00:01:59,790 --> 00:02:01,980
+sua finalidade, ou seja, o seu escopo ali,
+
+44
+00:02:01,989 --> 00:02:06,668
+né? Ali oh o escopo delimita quais sistemas,
+
+45
+00:02:06,680 --> 00:02:10,969
+processos e ativos estão sobre a cobertura do plano operacional,
+
+46
+00:02:10,979 --> 00:02:14,830
+fundamental para definir o alcance das ações a serem tomadas
+
+47
+00:02:14,838 --> 00:02:18,110
+durante o incidente, ajudando a equipe a entender quais
+
+48
+00:02:18,118 --> 00:02:20,788
+ativos são críticos e qual que né? Como deve
+
+49
+00:02:20,800 --> 00:02:22,508
+ser, quem deve ser protegido, Então ali a
+
+50
+00:02:22,520 --> 00:02:24,610
+gente tem uma introdução, mostrando uma visão clara.
+
+51
+00:02:24,618 --> 00:02:26,469
+Depois, a gente mostra o escopo, O que
+
+52
+00:02:26,479 --> 00:02:27,929
+é, o que não é, Tá? Qual
+
+53
+00:02:27,939 --> 00:02:31,319
+é os principais ativos ali que estão dentro desse plano
+
+54
+00:02:31,330 --> 00:02:32,008
+operacional.
+
+55
+00:02:32,439 --> 00:02:34,610
+Quais são as responsabilidades ali? A gente vai ter
+
+56
+00:02:34,618 --> 00:02:37,469
+um como se fosse uma matriz raça nessa função.
+
+57
+00:02:37,479 --> 00:02:40,610
+Nessa sessão, as funções e as responsabilidades de cada
+
+58
+00:02:40,618 --> 00:02:45,229
+membro da equipe de resposta a incidentes são claramente definidas.
+
+59
+00:02:45,240 --> 00:02:46,349
+Ou, ou seja, a gente tá falando ali,
+
+60
+00:02:46,360 --> 00:02:50,689
+oh, quais são as funções e responsabilidades.
+
+61
+00:02:50,699 --> 00:02:53,758
+É uma matriz raça, garante que cada indivíduo saiba
+
+62
+00:02:53,770 --> 00:02:56,899
+exatamente o que se o que espera dele durante o
+
+63
+00:02:56,909 --> 00:03:02,274
+incidente, promovendo uma distribuição eficaz de tarefas e responsabilidades.
+
+64
+00:03:02,284 --> 00:03:05,675
+Quando você define as responsabilidades do seu time, cada
+
+65
+00:03:05,683 --> 00:03:07,993
+um sabe o que fazer, vai ficar tudo mais
+
+66
+00:03:08,004 --> 00:03:10,993
+fácil, porque cada um vai saber a tomar de
+
+67
+00:03:11,004 --> 00:03:13,163
+decisão o que tem que ser feito em cada momento
+
+68
+00:03:13,175 --> 00:03:13,913
+do incidente.
+
+69
+00:03:13,925 --> 00:03:17,554
+Você não precisa ficar delegando toda hora, né?
+
+70
+00:03:17,564 --> 00:03:20,514
+Você não vai, Não vai ter aquele papel centralizador,
+
+71
+00:03:20,524 --> 00:03:23,213
+pelo contrário, vai ser descentralizador, você vai conseguir,
+
+72
+00:03:23,224 --> 00:03:26,913
+as pessoas, vão se a empoderar das suas responsabilidades
+
+73
+00:03:26,925 --> 00:03:28,933
+e executar as ações definidas ali.
+
+74
+00:03:28,944 --> 00:03:33,929
+Pelo Pelo documento, procedimentos é a parte dos procedimentos.
+
+75
+00:03:33,939 --> 00:03:37,788
+A parte dos procedimentos estabelece os passos detalhados a serem
+
+76
+00:03:37,800 --> 00:03:41,469
+seguidos em resposta a acidentes, inclui etapas que abrange
+
+77
+00:03:41,479 --> 00:03:45,189
+desde a detectação, detecção de acidentes, até análise,
+
+78
+00:03:45,199 --> 00:03:48,449
+contenção, erradicação e recuperação.
+
+79
+00:03:48,838 --> 00:03:52,288
+Essa sessão cria um um guia prático que a equipe
+
+80
+00:03:52,300 --> 00:03:55,770
+pode criar para lidar coincidente de segurança, então é
+
+81
+00:03:55,778 --> 00:03:57,919
+a base de procedimento, é a nossa base,
+
+82
+00:03:57,929 --> 00:04:00,330
+é assim é o que move qualquer operação.
+
+83
+00:04:00,338 --> 00:04:01,808
+Essa base tem que ser clara, tem que ser
+
+84
+00:04:01,819 --> 00:04:03,949
+objetiva, ela tem que ser de fácil acesso pra
+
+85
+00:04:03,960 --> 00:04:06,229
+quem tem direito a A ao acesso.
+
+86
+00:04:06,240 --> 00:04:09,210
+Então você precisa entender que e você precisa até pra
+
+87
+00:04:09,219 --> 00:04:12,485
+a forma de de de construir essa base, ela
+
+88
+00:04:12,493 --> 00:04:14,125
+precisa tá muito vinculada.
+
+89
+00:04:14,133 --> 00:04:16,725
+A operação não é qualquer um que possa sair de
+
+90
+00:04:16,733 --> 00:04:19,444
+eh desenhando, escrevendo uma base como uma receita de
+
+91
+00:04:19,454 --> 00:04:22,045
+bolo, pra você desenhar, escrever uma receita de
+
+92
+00:04:22,053 --> 00:04:24,045
+bolo, você precisa entender o que você tá falando
+
+93
+00:04:24,053 --> 00:04:27,345
+e principalmente entender o público pra quem aquela receita de
+
+94
+00:04:27,355 --> 00:04:28,165
+bolo tá fazendo.
+
+95
+00:04:28,173 --> 00:04:31,254
+Tá sendo desenhada, escrita, mesma coisa do procedimento,
+
+96
+00:04:31,264 --> 00:04:33,625
+A pessoa que tá desenhando aquele procedimento ou escrevendo aquele
+
+97
+00:04:33,634 --> 00:04:36,524
+procedimento, ela precisa entender qual é o público que
+
+98
+00:04:36,535 --> 00:04:39,225
+eu preci que vai executar esses procedimentos.
+
+99
+00:04:40,309 --> 00:04:41,660
+Você tem que deixar bem claro isso.
+
+100
+00:04:43,379 --> 00:04:47,588
+Fluxo de comunicação O os fluxos de comunicações definem como
+
+101
+00:04:47,600 --> 00:04:51,449
+a informação será transmitida durante o acidente.
+
+102
+00:04:51,459 --> 00:04:52,829
+Tem a gente, muitas vezes a gente chama de
+
+103
+00:04:52,838 --> 00:04:56,369
+plano eh PC i plano de comunicação interna, tá!
+
+104
+00:04:56,379 --> 00:04:59,269
+Isso inclui a comunicação interna, que envolve as equipes
+
+105
+00:04:59,278 --> 00:05:02,428
+de respostas e a comunicação externa, que lida com
+
+106
+00:05:02,439 --> 00:05:06,649
+a comunicação das partes interessadas e recursos externos.
+
+107
+00:05:07,709 --> 00:05:11,040
+A eficiência da comunicação é essencial para uma resposta rápida
+
+108
+00:05:11,048 --> 00:05:11,720
+e coordenada.
+
+109
+00:05:11,730 --> 00:05:14,879
+Precisamos ter um plano de comunicação bem estabelecida, Tá
+
+110
+00:05:14,889 --> 00:05:17,559
+pra não gerar fofoca, disse.
+
+111
+00:05:17,569 --> 00:05:19,350
+Me disse Enfim, cê tem que criar um plano
+
+112
+00:05:19,358 --> 00:05:22,579
+de comunicação bem claro e definido Lista de contato não
+
+113
+00:05:22,588 --> 00:05:23,540
+adianta nada.
+
+114
+00:05:23,548 --> 00:05:25,858
+Você não tem uma lista, um fluxo de comunicação
+
+115
+00:05:25,869 --> 00:05:26,379
+bem definido.
+
+116
+00:05:26,389 --> 00:05:28,259
+Você não tem uma lista de contato pra quem informar
+
+117
+00:05:28,269 --> 00:05:29,199
+como que vai formar.
+
+118
+00:05:29,209 --> 00:05:31,459
+Quem vai acionar casos de acidente? Tá, Então,
+
+119
+00:05:31,470 --> 00:05:34,459
+A lista de contatos contém informações de contatos, membros
+
+120
+00:05:34,470 --> 00:05:37,798
+da equipe, partes interessadas, recursos internos, enfim,
+
+121
+00:05:37,809 --> 00:05:40,699
+gente é uma lista atualizada, não adianta também você
+
+122
+00:05:40,709 --> 00:05:42,259
+criar uma lista e deixar essa lista lá.
+
+123
+00:05:42,269 --> 00:05:46,338
+A gente precisa saber, eh pra quem e quando
+
+124
+00:05:46,350 --> 00:05:48,619
+e como a gente vai encontrar as pessoas de que
+
+125
+00:05:48,629 --> 00:05:53,048
+são interessadas durante esse processo? Tá recuperação técnica essa
+
+126
+00:05:53,059 --> 00:05:56,149
+sessão, detalha como os sistemas de dados serão restaurados
+
+127
+00:05:56,160 --> 00:05:59,048
+após o acidente, deve incluir as sequências de ações
+
+128
+00:05:59,059 --> 00:06:03,069
+a serem tomadas e os recursos necessários para recuperação técnica,
+
+129
+00:06:03,079 --> 00:06:06,028
+garantindo que os sistemas voltem a funcionar normalmente.
+
+130
+00:06:07,769 --> 00:06:12,420
+Backup e restauração Os procedimentos de backup e restauração são
+
+131
+00:06:12,428 --> 00:06:13,500
+descritos aqui.
+
+132
+00:06:13,509 --> 00:06:17,259
+Isso assegura que os dados e sistemas críticos sejam copiados
+
+133
+00:06:17,269 --> 00:06:21,139
+regularmente e isso existem procedimentos claros para ressoar em casos
+
+134
+00:06:21,149 --> 00:06:24,548
+de perda, de modo que a organização possa continuar
+
+135
+00:06:24,559 --> 00:06:28,528
+suas operações ininterruptas e significativas aquilo que aqui eu quero
+
+136
+00:06:28,540 --> 00:06:29,750
+colocar uma pausa.
+
+137
+00:06:29,759 --> 00:06:32,548
+Muitas vezes eu já vi isso na minha durante a
+
+138
+00:06:32,559 --> 00:06:34,410
+minha vida toda durante a minha carreira, a gente
+
+139
+00:06:34,420 --> 00:06:38,309
+fica muito preocupado em em fazer back em testar backup
+
+140
+00:06:38,319 --> 00:06:43,220
+e esquecermos de testar a restauração tão importante como testar
+
+141
+00:06:43,230 --> 00:06:44,298
+e avaliar os backup.
+
+142
+00:06:44,309 --> 00:06:46,470
+A gente precisa testar a restauração.
+
+143
+00:06:46,480 --> 00:06:48,939
+Não adianta nada você garantir que o PP tá sendo
+
+144
+00:06:48,949 --> 00:06:49,509
+feito.
+
+145
+00:06:49,519 --> 00:06:52,670
+Se você não garante que aquele backup quando ele for
+
+146
+00:06:52,678 --> 00:06:55,298
+restaurado, ele vai garantir que o sistema seja eh
+
+147
+00:06:55,309 --> 00:06:59,259
+eh normalizado ou aquele arquivo seja disponível quando necessário.
+
+148
+00:06:59,269 --> 00:07:02,980
+Então sim garanta que você tenha uma política e teste
+
+149
+00:07:02,988 --> 00:07:05,778
+a política de backup, mas também garanta que a
+
+150
+00:07:05,790 --> 00:07:07,858
+sua política e você tem um teste e uma política
+
+151
+00:07:07,869 --> 00:07:08,959
+de restauração.
+
+152
+00:07:09,220 --> 00:07:12,149
+Que você teste todos os pecados que estão sendo feitos
+
+153
+00:07:12,160 --> 00:07:17,559
+de forma continuamente contin contínua na restaura restauração Ah,
+
+154
+00:07:17,569 --> 00:07:19,389
+eu não consigo testar tudo, tudo bem, então
+
+155
+00:07:19,399 --> 00:07:23,350
+pegue os mais críticos e teste A restauração é fundamental
+
+156
+00:07:23,358 --> 00:07:26,389
+você entender isso, você precisa testar a sua restauração
+
+157
+00:07:26,399 --> 00:07:30,379
+também? Tá? Gestão de recurso A gestão de
+
+158
+00:07:30,389 --> 00:07:33,899
+recursos aborda a locação de recursos como pessoal, tecnologia,
+
+159
+00:07:33,910 --> 00:07:34,619
+instalações.
+
+160
+00:07:34,629 --> 00:07:37,738
+Duran, durante o acidente deve ser feito com foco
+
+161
+00:07:37,750 --> 00:07:40,699
+na eficiência e na otimização dos recursos disponíveis para garantir
+
+162
+00:07:40,709 --> 00:07:43,720
+que a equipe de resposta tem recursos necessários para lidar
+
+163
+00:07:43,730 --> 00:07:44,678
+com a situação.
+
+164
+00:07:44,689 --> 00:07:47,108
+Então, eh quando você, a partir do momento
+
+165
+00:07:47,119 --> 00:07:49,480
+que a alta direção, quando a equipe tática começa
+
+166
+00:07:49,488 --> 00:07:52,298
+a liberar a questão de gestão de recurso, você
+
+167
+00:07:52,309 --> 00:07:55,420
+precisa de fazer essa gestão de forma clara, transparente,
+
+168
+00:07:55,428 --> 00:07:59,858
+de forma pra otimizar os recursos que são liberados pra
+
+169
+00:07:59,869 --> 00:08:00,178
+você.
+
+170
+00:08:00,189 --> 00:08:02,738
+Isso é fundamental? Tá bom, Senão você não
+
+171
+00:08:02,750 --> 00:08:06,269
+vai conseguir ter justificativas pra buscar mais recursos pra Eh
+
+172
+00:08:06,278 --> 00:08:09,189
+eh buscar na, na, na equipe tática,
+
+173
+00:08:09,199 --> 00:08:11,588
+na equipe, na geração, novos recursos pra atender
+
+174
+00:08:11,600 --> 00:08:12,309
+aquela sua necessidade.
+
+175
+00:08:12,319 --> 00:08:14,119
+Então, a partir do momento que você consegue lidar,
+
+176
+00:08:14,129 --> 00:08:18,230
+gerenciar de forma clara, de forma objetiva sabendo,
+
+177
+00:08:18,238 --> 00:08:22,230
+eh alocar recursos necessários Quando necessário, com certeza você
+
+178
+00:08:22,238 --> 00:08:25,649
+vai conseguir sim, futuro na, na, na,
+
+179
+00:08:25,660 --> 00:08:27,910
+na, na, na pra detectar, pra identificar
+
+180
+00:08:27,920 --> 00:08:29,108
+pra resolver aqueles acidentes.
+
+181
+00:08:29,119 --> 00:08:32,229
+E caso você queira ter mais recursos você vai ter
+
+182
+00:08:32,239 --> 00:08:33,469
+justificativa para isso.
+
+183
+00:08:33,479 --> 00:08:35,869
+Tá bom? Nos vemos na próxima aula.
+

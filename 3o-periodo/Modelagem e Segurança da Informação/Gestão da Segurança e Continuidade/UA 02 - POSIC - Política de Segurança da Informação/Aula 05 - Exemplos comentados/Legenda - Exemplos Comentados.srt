@@ -1,0 +1,496 @@
+1
+00:00:06,238 --> 00:00:10,250
+a gente entrou na aula final pra finalizar essa questão
+
+2
+00:00:10,259 --> 00:00:13,439
+da nossa política de segurança, da informação e comunicação.
+
+3
+00:00:13,448 --> 00:00:16,048
+E aí alguns aspectos é importante, a gente tem
+
+4
+00:00:16,059 --> 00:00:20,149
+que relembrar a importância dessa política está alinhada com o
+
+5
+00:00:20,158 --> 00:00:20,870
+negócio.
+
+6
+00:00:20,879 --> 00:00:24,170
+Ela precisa estar alinhada com o negócio da empresa porque
+
+7
+00:00:24,179 --> 00:00:27,048
+ela vai, vai, vai precisar seguir algumas leis,
+
+8
+00:00:27,059 --> 00:00:31,350
+Algumas normas pra ela está alinhada com a estratégia do
+
+9
+00:00:31,359 --> 00:00:33,649
+negócio da sua organização.
+
+10
+00:00:33,658 --> 00:00:37,908
+O que é fundamental o envolvimento da alta direção,
+
+11
+00:00:37,918 --> 00:00:42,029
+o patrocínio da alta direção, o comprometimento da alta
+
+12
+00:00:42,039 --> 00:00:42,759
+direção.
+
+13
+00:00:42,770 --> 00:00:45,950
+Então, nós precisamos que a alta direção mostre as
+
+14
+00:00:45,959 --> 00:00:49,829
+diretrizes dessa política, alinhada com o negócio que,
+
+15
+00:00:49,840 --> 00:00:51,630
+a partir daí, do momento que você tem a
+
+16
+00:00:51,639 --> 00:00:53,868
+política alinhada com o negócio, nós vamos ter um
+
+17
+00:00:53,880 --> 00:00:57,728
+nível estratégico ali, né? Vamos começar a implementar
+
+18
+00:00:58,048 --> 00:01:01,899
+aquela política no dia-a-dia pra que pra que venha o
+
+19
+00:01:01,908 --> 00:01:05,138
+nível operacional? Ou seja, todos os funcionários começam
+
+20
+00:01:05,150 --> 00:01:10,599
+a utilizar as normas, Seguir aquelas determinações, aquelas
+
+21
+00:01:10,609 --> 00:01:14,778
+orientações que estão eh, dentro da nossa política de
+
+22
+00:01:14,790 --> 00:01:18,653
+segurança, informação e comunicação tá e tem outros aspectos
+
+23
+00:01:18,665 --> 00:01:23,334
+muito importantes precisamos que essa política esteja totalmente integrada com
+
+24
+00:01:23,344 --> 00:01:24,433
+a nossa T I.
+
+25
+00:01:24,444 --> 00:01:27,334
+Com o nosso plano estratégico de T I, não
+
+26
+00:01:27,344 --> 00:01:27,694
+podem.
+
+27
+00:01:27,704 --> 00:01:31,394
+Não podemos entender que essa política de segurança e informação
+
+28
+00:01:31,403 --> 00:01:33,933
+é um impeditivo, é algo que é uma barreira,
+
+29
+00:01:33,944 --> 00:01:36,213
+não, ela tem que tá integrada na nossa política
+
+30
+00:01:36,224 --> 00:01:37,433
+de tecnologia.
+
+31
+00:01:37,444 --> 00:01:41,355
+Outro ponto importante treinamento dos nossos funcionários.
+
+32
+00:01:41,939 --> 00:01:45,308
+Precisamos entender que todos os nossos funcionários precisam ser treinados
+
+33
+00:01:45,319 --> 00:01:47,730
+pra evitar o quê? Que você que eu que
+
+34
+00:01:47,739 --> 00:01:50,000
+o nosso amigo do lado levante e deixe o computador
+
+35
+00:01:50,010 --> 00:01:53,230
+aberto com s, com o e-mail aberto, isso
+
+36
+00:01:53,239 --> 00:01:55,269
+é fundamental, é fundamental.
+
+37
+00:01:55,278 --> 00:01:57,269
+E aí eu quero a gente vai dar uma lida
+
+38
+00:01:57,278 --> 00:01:58,829
+em alguns estúdios de cada um estúdio, cara de
+
+39
+00:01:58,838 --> 00:02:02,709
+um banco, tá? Eh rapidamente só pra gente
+
+40
+00:02:02,719 --> 00:02:06,448
+da relembrar alguns, aí tá, imagina o cenário
+
+41
+00:02:06,459 --> 00:02:09,485
+em em que um dos maiores bancos globais tá de
+
+42
+00:02:09,496 --> 00:02:13,406
+cooperações abrangendo Múltiplos países enfrentam um desafio significativo.
+
+43
+00:02:13,415 --> 00:02:16,485
+Quais o desafio? Garantir a segurança dos seus ativos
+
+44
+00:02:16,496 --> 00:02:20,246
+financeiros? Tá dos ativos financeiros e dados confidenciais de
+
+45
+00:02:20,254 --> 00:02:24,004
+milhões de clientes? Nesse contexto, ele precisa implementar
+
+46
+00:02:24,015 --> 00:02:26,746
+uma política bem robusta, de forma imperativa.
+
+47
+00:02:26,754 --> 00:02:28,885
+Ou seja cara tem que tem que implementar.
+
+48
+00:02:28,895 --> 00:02:29,526
+Tem que implementar.
+
+49
+00:02:29,534 --> 00:02:31,564
+Não adianta, Tá bom aí! O banco traçou
+
+50
+00:02:31,575 --> 00:02:36,461
+diversos objetivos ambiciosos, incluindo a minimização de incidentes,
+
+51
+00:02:36,472 --> 00:02:40,140
+segurança, informação e violação de dados, fortalecendo a
+
+52
+00:02:40,151 --> 00:02:45,301
+confia fortalecimento da confiança dos clientes e investidores garantira conformidade
+
+53
+00:02:45,311 --> 00:02:48,722
+com regulamentos do setor financeiro em todo o mundo e
+
+54
+00:02:48,730 --> 00:02:51,461
+redução de custos associados a esse dente de conformidade.
+
+55
+00:02:51,472 --> 00:02:54,442
+Olha só, ele foi bem, eh ele.
+
+56
+00:02:54,450 --> 00:02:57,501
+Ele quer uma política de segurança de informação com tudo
+
+57
+00:02:57,510 --> 00:02:57,811
+isso aí.
+
+58
+00:02:57,822 --> 00:03:00,758
+Cara, ele que ele quer olha lá primeiro,
+
+59
+00:03:00,770 --> 00:03:03,819
+foi bem ambicioso mesmo, né? Eh mini minimiza
+
+60
+00:03:03,830 --> 00:03:05,569
+mini eliminação de incidentes.
+
+61
+00:03:05,580 --> 00:03:08,210
+Ou seja, menos incidentes, menos incidentes, segundo
+
+62
+00:03:08,219 --> 00:03:12,169
+informação, né? Violação de dados, fortalecimento da
+
+63
+00:03:12,179 --> 00:03:15,689
+confiança dos clientes e dos investidores e ter garantia que
+
+64
+00:03:15,699 --> 00:03:19,088
+ele tá seguindo todos os regulamentos do setor financeiro e
+
+65
+00:03:19,099 --> 00:03:22,288
+outra coisa assim oh redução de custos associada a incidentes
+
+66
+00:03:22,300 --> 00:03:22,949
+de segurança.
+
+67
+00:03:22,960 --> 00:03:25,330
+Então ele colocou alguns objetivos.
+
+68
+00:03:25,338 --> 00:03:27,618
+Lembra que eu falei que nós precisamos de objetivos?
+
+69
+00:03:27,629 --> 00:03:31,569
+Esses são os objetivos dentro da desse banco.
+
+70
+00:03:31,580 --> 00:03:33,830
+Tá lá oh minimizar, incidentes tá.
+
+71
+00:03:34,110 --> 00:03:35,520
+EH como que ele vai minimizar.
+
+72
+00:03:35,528 --> 00:03:37,580
+Esse aí vem os aspectos importantes.
+
+73
+00:03:37,588 --> 00:03:40,500
+Vamos aqui abrir aqui, volta aqui alguns aspectos importantes,
+
+74
+00:03:40,508 --> 00:03:44,500
+como o mimimi ele, diminui a probabilidade de a
+
+75
+00:03:44,508 --> 00:03:46,969
+acontecer esse dentes firo.
+
+76
+00:03:46,979 --> 00:03:49,360
+A gente já deu uma olhada nas aulas da passada.
+
+77
+00:03:49,368 --> 00:03:51,319
+Ah, o que é um né? Então,
+
+78
+00:03:51,330 --> 00:03:55,159
+implementação de faro implementação de sistema de de detecção de
+
+79
+00:03:55,169 --> 00:03:57,929
+intrusão, monitoramento constante.
+
+80
+00:03:57,939 --> 00:04:00,368
+A gente, provavelmente nós provavelmente não, nós vamos
+
+81
+00:04:00,379 --> 00:04:02,229
+ver nas próximas aulas, porque é um soque,
+
+82
+00:04:02,240 --> 00:04:03,929
+tem que implementar um soque de qualidade.
+
+83
+00:04:03,939 --> 00:04:06,610
+Tá treinamento de funcionário que eu acabei de falar.
+
+84
+00:04:06,618 --> 00:04:09,449
+Precisamos treinar, precisamos treinar, precisamos treinar e precisamos
+
+85
+00:04:09,460 --> 00:04:10,808
+fazer testes de intrusão.
+
+86
+00:04:10,819 --> 00:04:13,929
+Precisa ter uma equipe que comece a testar as nossas
+
+87
+00:04:13,939 --> 00:04:14,849
+vulnerabilidades.
+
+88
+00:04:14,860 --> 00:04:17,769
+Quais são os nossos nossos? Onde a gente tem?
+
+89
+00:04:17,778 --> 00:04:20,189
+Eh, eh, eh, eh, sei lá.
+
+90
+00:04:20,199 --> 00:04:25,569
+Pontos fracos s onde o invasor pode eh utilizar aquele
+
+91
+00:04:25,579 --> 00:04:28,250
+aquela vulnerabilidade pra invadir os nossos dados.
+
+92
+00:04:28,259 --> 00:04:30,769
+Então a gente precisa ter testes de vulnerabilidade.
+
+93
+00:04:30,778 --> 00:04:33,988
+É importantíssimo pra isso? Tá bom, eh?
+
+94
+00:04:34,449 --> 00:04:36,678
+E a partir daí esse banco né? Que ele
+
+95
+00:04:36,689 --> 00:04:40,639
+traçou esses esses traço, esses esses objetivos ambiciosos.
+
+96
+00:04:40,649 --> 00:04:43,798
+Ele começa a de criar um norte pra essa política,
+
+97
+00:04:43,809 --> 00:04:46,660
+ou seja, ele precisa que essa política seja implementada.
+
+98
+00:04:46,670 --> 00:04:50,379
+É imperativo, ela precisa ser implementada pra seguir as
+
+99
+00:04:50,389 --> 00:04:54,139
+regulamentações pra ter credibilidade com os seus clientes e com
+
+100
+00:04:54,149 --> 00:04:55,778
+os seus investidores.
+
+101
+00:04:55,790 --> 00:05:01,000
+Acabou diminuir a questão dos seus riscos, diminuir os
+
+102
+00:05:01,088 --> 00:05:06,500
+custos coincidente e com isso eh eh aumentar a credibilidade
+
+103
+00:05:06,509 --> 00:05:06,899
+no mercado.
+
+104
+00:05:06,910 --> 00:05:09,519
+Como eu falei Tá, eh, Aí vem outras
+
+105
+00:05:09,528 --> 00:05:11,939
+coisas pra como é que ele pode fazer pra pra
+
+106
+00:05:11,949 --> 00:05:14,420
+for? Eh pra fortalecer, né? A questão
+
+107
+00:05:14,428 --> 00:05:17,019
+do do do, da confiança, do do,
+
+108
+00:05:17,028 --> 00:05:20,139
+com clientes e investidores, tá e informar pros clientes,
+
+109
+00:05:20,149 --> 00:05:22,980
+investidores, quais são as políticas que estão sendo estabelecidas
+
+110
+00:05:22,988 --> 00:05:26,040
+mostrar pra eles a política de segurança e forma os
+
+111
+00:05:26,048 --> 00:05:29,559
+planos que estão sendo seguidos? Tá? Eh como
+
+112
+00:05:29,569 --> 00:05:32,459
+que a gente pode cumprir a questão dos re eh
+
+113
+00:05:32,470 --> 00:05:36,278
+da conformidade das leis, das tramitações.
+
+114
+00:05:36,290 --> 00:05:40,459
+Tá monitorar regularmente ficar monitorando o que está sendo feito
+
+115
+00:05:41,399 --> 00:05:44,838
+criar Como eu falei criar um soque Não só monitorar
+
+116
+00:05:44,850 --> 00:05:48,329
+os dentes, mas fazer revisões da própria política é
+
+117
+00:05:48,338 --> 00:05:52,488
+fundamental para isso Tá bom, então na próxima aula
+
+118
+00:05:52,500 --> 00:05:53,569
+nós vamos continuar falando aqui.
+
+119
+00:05:53,579 --> 00:05:55,170
+A gente definiu o esse banco.
+
+120
+00:05:55,178 --> 00:05:57,730
+Ele definiu que ele precisa, sim, de uma
+
+121
+00:05:57,738 --> 00:06:00,069
+política e definiu os objetivos dessa política.
+
+122
+00:06:00,079 --> 00:06:02,410
+Então, nos próximos, na próxima aula nós vamos
+
+123
+00:06:02,420 --> 00:06:05,608
+falar um pouquinho mais sobre esses objetivos que o banco
+
+124
+00:06:05,619 --> 00:06:07,309
+definiu até a próxima aula.
+

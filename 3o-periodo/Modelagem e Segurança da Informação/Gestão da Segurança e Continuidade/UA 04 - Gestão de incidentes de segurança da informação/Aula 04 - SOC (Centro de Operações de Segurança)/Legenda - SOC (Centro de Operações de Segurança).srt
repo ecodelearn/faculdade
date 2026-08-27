@@ -1,0 +1,608 @@
+1
+00:00:05,860 --> 00:00:06,969
+sejam bem vindos.
+
+2
+00:00:06,980 --> 00:00:09,769
+Estamos aqui na nossa disciplina de segurança da informação e
+
+3
+00:00:09,778 --> 00:00:10,569
+continuidade.
+
+4
+00:00:10,579 --> 00:00:12,710
+Hoje vamos falar sobre um, um papel, uma
+
+5
+00:00:12,720 --> 00:00:16,089
+área muito importante dentro de toda a organização, que
+
+6
+00:00:16,100 --> 00:00:19,750
+é o SoC, que é o centro de operação
+
+7
+00:00:19,760 --> 00:00:22,309
+de segurança, é muito importante.
+
+8
+00:00:22,318 --> 00:00:24,969
+Então vamos aprender um pouco sobre o SOC.
+
+9
+00:00:26,839 --> 00:00:27,719
+Então, quando a gente tá falando ali, oh
+
+10
+00:00:27,728 --> 00:00:29,129
+centro de operações de segurança.
+
+11
+00:00:29,138 --> 00:00:32,090
+Soc, né? Que se opera center desempenha um
+
+12
+00:00:32,098 --> 00:00:36,250
+papel crucial, né? De salvaguarda da infraestrutura de
+
+13
+00:00:36,259 --> 00:00:40,090
+T I de organização contra ameaças cibernéticas, como o
+
+14
+00:00:40,098 --> 00:00:43,880
+núcleo operacional voltado para a segurança cibernética? O Soc
+
+15
+00:00:43,889 --> 00:00:48,408
+opera de maneira contínua, monitorando ativamente redes e sistemas
+
+16
+00:00:48,418 --> 00:00:52,709
+e aplicativo em busca de atividades suspeitas que possam indicar,
+
+17
+00:00:52,719 --> 00:00:55,319
+né? Potenciais ameaças segurança.
+
+18
+00:00:55,329 --> 00:00:57,359
+O que a gente falar primeiro em monitoramento de maneira
+
+19
+00:00:57,368 --> 00:00:59,060
+contínua? Um noc.
+
+20
+00:00:59,069 --> 00:01:02,459
+Geralmente é recomendável que seja vinte e quatro por sete.
+
+21
+00:01:02,469 --> 00:01:04,659
+E o que é isso? Vinte e quatro horas,
+
+22
+00:01:04,668 --> 00:01:06,058
+sete dias por semana.
+
+23
+00:01:06,069 --> 00:01:08,099
+Ou seja, um soque, Uma célula de centro
+
+24
+00:01:08,109 --> 00:01:11,500
+de operações de segurança? Não para nunca, nunca,
+
+25
+00:01:11,510 --> 00:01:16,510
+tá esse monitoramento contínuo de infra estrutura de T I
+
+26
+00:01:16,519 --> 00:01:20,469
+por meio de uma série de ferramentas e tecnologias avançadas.
+
+27
+00:01:20,480 --> 00:01:24,290
+Isso inclui sistema de detecção e prevenção de intrusão,
+
+28
+00:01:24,299 --> 00:01:28,750
+né? Que identifica padrões e comportamentos maliciosos na rede
+
+29
+00:01:28,760 --> 00:01:33,230
+e análise de log que examina e não registro de
+
+30
+00:01:33,239 --> 00:01:36,489
+eventos pra identificar atividades anônimas.
+
+31
+00:01:36,500 --> 00:01:40,400
+Além disso, o uso de inteligência é de ameaça
+
+32
+00:01:40,409 --> 00:01:46,370
+e monitoramento de comportamento análogo permite ao choque monólogo É
+
+33
+00:01:46,379 --> 00:01:49,849
+isso mesmo permite ao soque antecipar a e d TC
+
+34
+00:01:49,859 --> 00:01:53,469
+ameaças antes que causem significativos, né? Danos significativos.
+
+35
+00:01:53,480 --> 00:01:57,168
+Então, só que ele tem ferramentas, processos que
+
+36
+00:01:57,180 --> 00:02:01,549
+garantem, né? Que ali questão monitoramento contínuo para
+
+37
+00:02:01,558 --> 00:02:03,719
+prevenir ataques? Porque se não é, nem previne
+
+38
+00:02:03,730 --> 00:02:03,980
+ataque.
+
+39
+00:02:03,989 --> 00:02:06,939
+Os ataques podem até acontecer, mas eles possuem ali
+
+40
+00:02:06,948 --> 00:02:10,960
+barreiras, né? Barreiras de proteção que con eh
+
+41
+00:02:10,969 --> 00:02:14,199
+que e evitam que esses dados, ou seja,
+
+42
+00:02:14,210 --> 00:02:17,020
+que esses esses ataques tenham sucesso, ou seja,
+
+43
+00:02:17,028 --> 00:02:20,258
+adentrem a rede com através dos dados privados, Tá.
+
+44
+00:02:23,319 --> 00:02:28,288
+O Soque atua como hub centralizado para diversas atividades relacionadas
+
+45
+00:02:28,300 --> 00:02:30,069
+à segurança cibernética.
+
+46
+00:02:30,080 --> 00:02:33,569
+Ele não apenas detecta incidentes, mas também desempenha um
+
+47
+00:02:33,580 --> 00:02:38,250
+papel fundamental na análise aprofundada de ameaças.
+
+48
+00:02:38,258 --> 00:02:42,449
+A equipe Soc avalia a criticidade dos incidentes, determinando
+
+49
+00:02:42,460 --> 00:02:46,500
+sua gravidade e impacto potencial nos sistemas e operação da
+
+50
+00:02:46,508 --> 00:02:50,838
+organização e ciclo em análise de vulnerabilidade existentes e a
+
+51
+00:02:50,849 --> 00:02:56,618
+compressão de táticas, técnicas e procedimentos, utilizando utilizando
+
+52
+00:02:56,629 --> 00:03:00,639
+pelos utilizados pelos ataques adversários, né? Pelos pelos
+
+53
+00:03:00,649 --> 00:03:05,319
+maliciosos, Pelos adversários cibernéticos e a adaptação contínua das
+
+54
+00:03:05,330 --> 00:03:08,069
+estratégias de segurança para lidar com as ameaças e emergência.
+
+55
+00:03:08,080 --> 00:03:09,199
+Gente muda toda hora.
+
+56
+00:03:09,210 --> 00:03:13,750
+Eles precisam mudar as estratégias constantemente toda hora, neste
+
+57
+00:03:13,758 --> 00:03:17,409
+momento, tenha algum adversário cibernético, né? Esses
+
+58
+00:03:17,419 --> 00:03:20,849
+enfim, estar buscando uma nova tática, uma nova
+
+59
+00:03:20,860 --> 00:03:24,368
+forma, uma nova metodologia de prover uma invasão.
+
+60
+00:03:25,740 --> 00:03:26,669
+Além das atividades.
+
+61
+00:03:26,679 --> 00:03:30,490
+Operações diárias o SoC também desempenha um papel vital na
+
+62
+00:03:30,500 --> 00:03:33,469
+preparação da organização para incidentes futuros.
+
+63
+00:03:33,479 --> 00:03:36,250
+Isso envolve o desenvolvimento de programas de treinamento para a
+
+64
+00:03:36,258 --> 00:03:40,308
+equipe do soc, a realização de de exercícios simulados
+
+65
+00:03:40,319 --> 00:03:43,830
+para testar a prontidão da organização e lidar com incidentes
+
+66
+00:03:43,838 --> 00:03:44,528
+de segurança.
+
+67
+00:03:44,538 --> 00:03:48,449
+Com certeza você já passou ou já havia, por
+
+68
+00:03:48,460 --> 00:03:51,288
+exemplo, aquelas simulações de incêndio, né? Que
+
+69
+00:03:51,300 --> 00:03:53,919
+se geralmente se faz em prédios o sol, que
+
+70
+00:03:53,929 --> 00:03:57,629
+também tem que fazer a simulação pra ver como que?
+
+71
+00:03:57,639 --> 00:04:00,088
+Em caso de acidente grave, como que a eh
+
+72
+00:04:00,099 --> 00:04:04,099
+como vai ser a a DAP e o retorno da
+
+73
+00:04:04,110 --> 00:04:07,770
+organização frenteàquele problema? Isso é muito importante.
+
+74
+00:04:07,778 --> 00:04:10,229
+Ser feito, tá simular situações reais.
+
+75
+00:04:11,588 --> 00:04:16,199
+Função centralizadora A função centralizadora do Centro de Operações de
+
+76
+00:04:16,209 --> 00:04:20,629
+Segurança é um elemento crucial na eficácia da defesa cibernética
+
+77
+00:04:20,639 --> 00:04:21,579
+de organização.
+
+78
+00:04:21,588 --> 00:04:25,178
+Essa centralização implica que o soque serve para como um
+
+79
+00:04:25,189 --> 00:04:30,199
+ponto focal para diversas atividades relacionadasà segurança cibernética,
+
+80
+00:04:30,209 --> 00:04:36,199
+proporcionando uma abordagem coordenada integrada para enfrentar ameaças em constante
+
+81
+00:04:36,209 --> 00:04:37,139
+evolução.
+
+82
+00:04:37,790 --> 00:04:41,480
+Vamos explorar um dos aspectos dessa função centralizada, por
+
+83
+00:04:41,488 --> 00:04:45,699
+exemplo, de detecção e respostas unificadas.
+
+84
+00:04:45,709 --> 00:04:49,600
+O soque funciona como local unificado para detectar incidente de
+
+85
+00:04:49,608 --> 00:04:50,319
+segurança.
+
+86
+00:04:50,329 --> 00:04:53,769
+Reúne informações de várias fontes, inclui sistemas de detecção
+
+87
+00:04:53,778 --> 00:04:57,358
+de intrusão, análise de log, inteligência de ameaça
+
+88
+00:04:57,369 --> 00:04:59,338
+e outros seres de segurança.
+
+89
+00:05:00,259 --> 00:05:03,189
+Ao centralizar essas informações, o soque é capaz de
+
+90
+00:05:03,199 --> 00:05:05,298
+fornecer uma visão holística daquela visão.
+
+91
+00:05:05,309 --> 00:05:08,548
+Trezentos e sessenta das atividades em toda infraestrutura de T
+
+92
+00:05:08,559 --> 00:05:12,350
+I, identificando padrões e comportamentos suspeitos que podem indiciar
+
+93
+00:05:12,358 --> 00:05:14,670
+ameaças em potencial.
+
+94
+00:05:14,678 --> 00:05:20,350
+Outro ponto análise aprofundada Além da detecção inicial, o
+
+95
+00:05:20,358 --> 00:05:24,269
+soque desempenha um papel fundamental para a análise aprofundada das
+
+96
+00:05:24,278 --> 00:05:25,369
+ameaças.
+
+97
+00:05:25,379 --> 00:05:29,170
+A equipe do Soc conduz investigações detalhadas para compreender a
+
+98
+00:05:29,178 --> 00:05:34,358
+natureza, origem e métodos utilizados pelos adversários cibernéticos.
+
+99
+00:05:34,369 --> 00:05:36,480
+Até pra aprender, né? A partir do momento
+
+100
+00:05:36,488 --> 00:05:39,358
+que você você começa a entender aqueles métodos, você
+
+101
+00:05:39,369 --> 00:05:41,579
+consegue, consegue se defender deles.
+
+102
+00:05:43,149 --> 00:05:46,569
+A análise aprofundada permite ao soque não apenas identificar o
+
+103
+00:05:46,579 --> 00:05:49,759
+incidente em si, mas também entender o contexto mais
+
+104
+00:05:49,769 --> 00:05:53,720
+amplo, ajudando na implementação das medidas mais eficazes de
+
+105
+00:05:53,730 --> 00:05:58,480
+respostas edicação, mi indicação e o.
+
+106
+00:05:58,488 --> 00:06:02,338
+O fato de análise ser unificado significa que todas as
+
+107
+00:06:02,350 --> 00:06:06,959
+equipes possuem entendimento igual sobre os riscos e incidentes,
+
+108
+00:06:06,970 --> 00:06:10,178
+garantindo assim a resposta unificada.
+
+109
+00:06:11,088 --> 00:06:15,459
+Avaliação de idade Uma das responsabilidades centrais do Soque é
+
+110
+00:06:15,470 --> 00:06:18,459
+avaliar a criticidade dos acidentes detectados.
+
+111
+00:06:18,470 --> 00:06:21,459
+Isso envolve a categorização dos acidentes com base na sua
+
+112
+00:06:21,470 --> 00:06:26,619
+gravidade, impacto potencial nos sistemas e operação da organização
+
+113
+00:06:26,629 --> 00:06:30,119
+e na urgência de respostas necessárias.
+
+114
+00:06:30,500 --> 00:06:34,949
+Essa avaliação é essencial para priorizar a alocação de recursos
+
+115
+00:06:34,959 --> 00:06:38,309
+e garantir que medidas de resposta sejam proporcionais.
+
+116
+00:06:38,319 --> 00:06:40,579
+A ameaça eh enfrentada.
+
+117
+00:06:40,588 --> 00:06:44,420
+Então quando a gente começa, eh avaliar a criticidade,
+
+118
+00:06:44,428 --> 00:06:50,399
+categorizar essa criticidade a gente consegue colocar pessoas qualificadas eh
+
+119
+00:06:50,410 --> 00:06:52,160
+recursos qualificados.
+
+120
+00:06:52,170 --> 00:06:57,009
+Tecnologias qualificadas Então, qualificar né? Categorizar a criticidade
+
+121
+00:06:57,019 --> 00:06:59,899
+Cada incidente é fundamental pra você ter um catálogo de
+
+122
+00:06:59,910 --> 00:07:02,730
+de serviços, né, Catálogo de incidentes e você
+
+123
+00:07:02,738 --> 00:07:05,439
+conseguir normatizar isso da melhor forma possível.
+
+124
+00:07:06,350 --> 00:07:11,059
+Coordenação eficiente A função centralizada do soco permite uma coordenação
+
+125
+00:07:11,069 --> 00:07:14,920
+eficiente entre os membros da equipe e as partes interessadas.
+
+126
+00:07:14,928 --> 00:07:19,759
+As informações fluem de maneira integrada, facilitando a comunicação
+
+127
+00:07:19,769 --> 00:07:23,100
+rápida e precisa a coordenação eficiente.
+
+128
+00:07:23,108 --> 00:07:25,899
+É crucial principalmente em situações de crise, onde uma
+
+129
+00:07:25,910 --> 00:07:30,160
+resposta rápida pode ser determinante para minimizar os dados causados
+
+130
+00:07:30,170 --> 00:07:32,369
+para a segurança da informação, pra segurança dos seus
+
+131
+00:07:32,379 --> 00:07:33,869
+dados ali dentro eh.
+
+132
+00:07:33,879 --> 00:07:37,290
+Outro ponto importante é tomar a decisão baseada em dados.
+
+133
+00:07:37,298 --> 00:07:39,488
+Quando a gente começa a categorizar os nossos dados,
+
+134
+00:07:39,500 --> 00:07:41,488
+os nossos dentes, a gente tem dados e esses
+
+135
+00:07:41,500 --> 00:07:43,928
+dados, eles podem ser, a gente consegue ter
+
+136
+00:07:43,939 --> 00:07:46,970
+tomada de decisão,às vezes precisando ter artificial usando,
+
+137
+00:07:46,980 --> 00:07:51,048
+a gente, consegue ter predições e com essas predições
+
+138
+00:07:51,059 --> 00:07:54,350
+a gente tomar decisões baseadas nesses dados que foram gerados,
+
+139
+00:07:54,858 --> 00:07:58,309
+então o que é, né? O Centro de
+
+140
+00:07:58,319 --> 00:08:01,269
+Operações de Segurança é uma área importantíssima em todas as
+
+141
+00:08:01,278 --> 00:08:01,949
+organizações.
+
+142
+00:08:01,959 --> 00:08:04,209
+Uma uma área que trabalha vinte e quatro sete,
+
+143
+00:08:04,220 --> 00:08:06,949
+ou seja, uma área que trabalha continuamente e uma
+
+144
+00:08:06,959 --> 00:08:10,689
+área funda é uma área fundamental para garantir a segurança,
+
+145
+00:08:10,699 --> 00:08:13,119
+né? Dos dados daquela organização, porque eles estão
+
+146
+00:08:13,129 --> 00:08:16,528
+ali, né? Eles são a equipe de vigilância
+
+147
+00:08:16,540 --> 00:08:17,970
+de contra os acidentes.
+
+148
+00:08:17,980 --> 00:08:22,689
+Eles estão ali para prevenir qualquer intrusão, qualquer acesso
+
+149
+00:08:22,699 --> 00:08:26,428
+de de de adversários cibernéticos dentro da organização.
+
+150
+00:08:26,439 --> 00:08:28,988
+Tá bom! Entenda mais sobre Soque compreenda as suas
+
+151
+00:08:29,000 --> 00:08:33,029
+atividades Você vai ver como é fundamental essa área dentro
+
+152
+00:08:33,038 --> 00:08:35,250
+de qualquer organização até a próxima
+

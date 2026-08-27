@@ -1,0 +1,700 @@
+1
+00:00:06,400 --> 00:00:08,599
+Olá, eu sou professor Dani scp e nós vamos
+
+2
+00:00:08,609 --> 00:00:13,130
+falar um pouquinho sobre a implementação das opções de né?
+
+3
+00:00:13,140 --> 00:00:16,399
+E update de um crude eh no ambiente de um
+
+4
+00:00:16,408 --> 00:00:20,129
+servidor no ase e a construção do seu cliente Vamos
+
+5
+00:00:20,138 --> 00:00:26,158
+começar inicialmente eh As opções de update vão ter várias
+
+6
+00:00:26,170 --> 00:00:28,769
+eh chamadas com o ar, né? Tanto a
+
+7
+00:00:28,780 --> 00:00:32,310
+exclusão quanto a alteração você tem que saber o que
+
+8
+00:00:32,319 --> 00:00:34,848
+você vai excluir, o que você vai alterar,
+
+9
+00:00:34,859 --> 00:00:37,048
+senão você altera a base inteira.
+
+10
+00:00:37,060 --> 00:00:39,950
+Você eu quero alterar o nome do cliente, mas
+
+11
+00:00:39,959 --> 00:00:43,368
+de qual cliente? Então a cláusula vai ser importante
+
+12
+00:00:43,380 --> 00:00:43,969
+pra isso.
+
+13
+00:00:43,978 --> 00:00:46,868
+Logo a gente tem que entender as opções da cláusula
+
+14
+00:00:46,880 --> 00:00:49,700
+W e aqui a gente vai explorar um pouquinho disso,
+
+15
+00:00:49,709 --> 00:00:53,798
+né? Ah, essas opções da cláusula correspondem a
+
+16
+00:00:53,810 --> 00:00:55,959
+restrições do S T, L, né? Se
+
+17
+00:00:55,969 --> 00:00:58,859
+pensar em termos de álgebra relacional se tem a opção
+
+18
+00:00:58,868 --> 00:01:02,020
+de projeção e restrição a projeção, a seleção dos
+
+19
+00:01:02,029 --> 00:01:05,000
+campos e a restrição seria a cláusula were, né?
+
+20
+00:01:05,010 --> 00:01:07,900
+Eh onde você coloca as condições para a consulta,
+
+21
+00:01:07,909 --> 00:01:10,370
+o que você quer daquele conjunto? E qual é
+
+22
+00:01:10,379 --> 00:01:13,500
+a característica que vai que vai delimitar, né?
+
+23
+00:01:13,510 --> 00:01:16,299
+O que vai ser eh retornado daquele conjunto.
+
+24
+00:01:16,308 --> 00:01:19,659
+Inicialmente eh a sí tax é baseada no Jason,
+
+25
+00:01:19,668 --> 00:01:22,760
+então muda um pouquinho pra quem tá acostumado com S
+
+26
+00:01:22,769 --> 00:01:25,040
+q l muda a forma de escrever, né?
+
+27
+00:01:25,049 --> 00:01:28,719
+Vamos dizer o seguinte no Jason Ah, a operação
+
+28
+00:01:28,730 --> 00:01:32,519
+vem antes dos valores, então se por exemplo né
+
+29
+00:01:32,528 --> 00:01:36,969
+eh? Se eu tivesse na eh no s q
+
+30
+00:01:36,980 --> 00:01:42,028
+l nome é igual João, o nome igual Maria
+
+31
+00:01:42,790 --> 00:01:45,859
+Quando você vai pro Jason a coisa muda seria o
+
+32
+00:01:46,689 --> 00:01:50,519
+nome João vírgula nome mar tá por quê? Porque
+
+33
+00:01:50,528 --> 00:01:53,900
+o operador vem antes dos o dos operando né?
+
+34
+00:01:53,909 --> 00:01:55,939
+Então no s q l eu tenho operando o operador
+
+35
+00:01:55,948 --> 00:01:59,180
+operando E quando eu falo do Jason é operador em
+
+36
+00:01:59,189 --> 00:02:03,189
+seguida os operando, tá? Então muda a forma
+
+37
+00:02:03,198 --> 00:02:04,099
+de escrever.
+
+38
+00:02:04,109 --> 00:02:05,859
+Isso tem um impacto muito grande pra quem já tá
+
+39
+00:02:05,870 --> 00:02:08,569
+acostumado com o S Q L Ah! É o
+
+40
+00:02:08,580 --> 00:02:10,580
+estilo de escrito, então é próximo do do Mongo
+
+41
+00:02:10,588 --> 00:02:11,050
+d B.
+
+42
+00:02:11,058 --> 00:02:12,889
+Quem já trabalhou com o Mongo D B, que
+
+43
+00:02:12,899 --> 00:02:14,729
+é um banco de dados que não é relacional,
+
+44
+00:02:14,740 --> 00:02:20,528
+ele é q né eh significa que ele não significa
+
+45
+00:02:20,538 --> 00:02:23,129
+que ele não eh não tem possibilidade de q L,
+
+46
+00:02:23,139 --> 00:02:25,469
+mas ele não é apenas s q L é o
+
+47
+00:02:25,479 --> 00:02:28,889
+q, né? O Mongo trabalha com consultas nesse
+
+48
+00:02:28,899 --> 00:02:29,368
+estilo.
+
+49
+00:02:29,379 --> 00:02:32,288
+Você sabendo fazer consultas no Mongo, você consegue fazer
+
+50
+00:02:32,300 --> 00:02:35,020
+consultas aqui muito fácil E da mesma forma, se
+
+51
+00:02:35,028 --> 00:02:37,819
+você aprende a fazer as consultas no No JS,
+
+52
+00:02:37,830 --> 00:02:41,008
+quando você for trabalhar com o Mongo para um projeto
+
+53
+00:02:41,020 --> 00:02:43,699
+qualquer de big data, você vai saber trabalhar com
+
+54
+00:02:43,710 --> 00:02:45,778
+isso com facilidade, porque o estilo de escrita de
+
+55
+00:02:45,788 --> 00:02:49,699
+consulta é exatamente o mesmo, né? Bom,
+
+56
+00:02:49,710 --> 00:02:53,139
+ele é utilizado em diversos em diversas situações, né?
+
+57
+00:02:53,149 --> 00:02:57,020
+Os o Os operando vão ser pra destroy? Ah,
+
+58
+00:02:57,028 --> 00:02:59,819
+o sim.
+
+59
+00:02:59,830 --> 00:03:03,979
+Se você coloca com a condição você vai obter o
+
+60
+00:03:03,990 --> 00:03:08,580
+conjunto completo, dada aquela condição, mesma coisa do,
+
+61
+00:03:08,588 --> 00:03:12,729
+né? Pega o primeiro que achar dada daquela condição
+
+62
+00:03:12,740 --> 00:03:18,058
+e aqui eu tenho um exemplo O tá bom eh
+
+63
+00:03:18,069 --> 00:03:18,960
+aqui.
+
+64
+00:03:18,969 --> 00:03:24,300
+Eu estaria fazendo o seguinte pegando todos os objetos cujo
+
+65
+00:03:24,308 --> 00:03:27,199
+último nome é nulo, né? Ou seja não
+
+66
+00:03:27,210 --> 00:03:28,360
+foi preenchido.
+
+67
+00:03:28,368 --> 00:03:31,758
+Eh o sobrenome, Então eu estaria retornando as pessoas
+
+68
+00:03:31,770 --> 00:03:35,580
+em que o sobrenome não foi preenchido, né?
+
+69
+00:03:35,588 --> 00:03:43,000
+Bom operações A e o ah! Ah, quando?
+
+70
+00:03:43,008 --> 00:03:49,199
+Você fala das operações a o né? Autor?
+
+71
+00:03:49,210 --> 00:03:54,159
+Doze statu TV, né? Isso aqui seria a
+
+72
+00:03:54,169 --> 00:03:59,550
+mesma coisa que um Tá Por quê? Quando você
+
+73
+00:03:59,558 --> 00:04:01,689
+coloca autor doze status Act.
+
+74
+00:04:01,699 --> 00:04:05,868
+Você tá exigindo que ele encontre o cara que tenha
+
+75
+00:04:05,879 --> 00:04:10,360
+aqueles dois atributos, tanto o autor valendo doze Quanto
+
+76
+00:04:10,368 --> 00:04:15,058
+o status sendo, né? Agora eh se eu
+
+77
+00:04:15,069 --> 00:04:18,588
+colocasse um o P and seria igual o o P
+
+78
+00:04:18,600 --> 00:04:18,750
+O.
+
+79
+00:04:18,759 --> 00:04:20,379
+Mas se eu não quisesse isso, se eu não
+
+80
+00:04:20,389 --> 00:04:22,379
+quisesse um cara que tivesse as doze que ele fosse
+
+81
+00:04:22,389 --> 00:04:26,100
+ou autor com a de doze ou aquele com status
+
+82
+00:04:26,108 --> 00:04:28,619
+a aí, a operação não é ad não tem
+
+83
+00:04:28,629 --> 00:04:29,879
+que ter os dois, tem que ter um dos
+
+84
+00:04:29,889 --> 00:04:33,149
+dois, né? Aí seria a operação o aí
+
+85
+00:04:33,160 --> 00:04:36,778
+você usa o operador, o p o p dos
+
+86
+00:04:36,790 --> 00:04:43,220
+se né, esse né, Seria o p ponto
+
+87
+00:04:43,230 --> 00:04:46,629
+o autor doze vírgula status ATV Olha o que eu
+
+88
+00:04:46,639 --> 00:04:49,928
+tô fazendo aqui Oh, eu tenho um operador o
+
+89
+00:04:49,939 --> 00:04:55,569
+aplicado a um vetor um colchete e ali dentro as
+
+90
+00:04:55,579 --> 00:04:58,369
+opções que eu quero então todo mundo que tiver aí
+
+91
+00:04:58,379 --> 00:05:02,290
+de doze e todo mundo que tiver status ativ vai
+
+92
+00:05:02,298 --> 00:05:05,608
+ser retornado, né? Não é tendo as duas
+
+93
+00:05:05,619 --> 00:05:07,928
+características não é o a se eu quisesse.
+
+94
+00:05:07,939 --> 00:05:10,410
+Se eu colocasse invés de o a p ponto o
+
+95
+00:05:10,420 --> 00:05:13,769
+colocasse o p ponto a eu teria uma consulta que
+
+96
+00:05:13,778 --> 00:05:17,769
+retornaria apenas o cara que tivesse essas duas características,
+
+97
+00:05:17,778 --> 00:05:20,329
+né? Quando falasse assim eu quero o carro que
+
+98
+00:05:20,338 --> 00:05:21,250
+tenha, eh autom.
+
+99
+00:05:21,259 --> 00:05:26,149
+Assim eh o carro que tem a direção hidráulica e,
+
+100
+00:05:26,160 --> 00:05:28,988
+seja, da cor vermelha, é diferente de você
+
+101
+00:05:29,000 --> 00:05:32,329
+falar o carro que tem direção hidráulica ou é da
+
+102
+00:05:32,338 --> 00:05:34,939
+cor vermelha, né? Porque se eu pegar um
+
+103
+00:05:34,949 --> 00:05:37,269
+carro que é ou eu vou pegar um carro vermelho,
+
+104
+00:05:37,278 --> 00:05:42,660
+que não tem direção hidráulica, né? Bom operações
+
+105
+00:05:42,670 --> 00:05:46,139
+GT l, t GT e l t e várias
+
+106
+00:05:46,149 --> 00:05:47,319
+operações.
+
+107
+00:05:47,329 --> 00:05:49,459
+Tá o GT É.
+
+108
+00:05:49,470 --> 00:05:53,939
+Ou seja, se o valor é maior que tá
+
+109
+00:05:53,949 --> 00:05:58,009
+operador L t menor, que GT e maior ou
+
+110
+00:05:58,019 --> 00:06:01,199
+igual l t e menor ou igual são operadores numéricos
+
+111
+00:06:01,209 --> 00:06:04,358
+e o S é muito usado pro nulo.
+
+112
+00:06:04,369 --> 00:06:07,649
+Tá por quê? Eh o operador! Assim o
+
+113
+00:06:07,660 --> 00:06:09,428
+valor nulo ele não é zero.
+
+114
+00:06:09,439 --> 00:06:10,608
+Ele não é vazia.
+
+115
+00:06:10,619 --> 00:06:12,970
+Ele é nulo, É não preenchido, né?
+
+116
+00:06:12,980 --> 00:06:13,809
+É diferente.
+
+117
+00:06:13,819 --> 00:06:16,980
+Você pode ter uma vazia e uma não preenchida.
+
+118
+00:06:16,988 --> 00:06:19,809
+Você pode ter um valor zero e um valor nulo
+
+119
+00:06:19,819 --> 00:06:23,588
+Tá? Então, aqui eu tenho um exemplo a
+
+120
+00:06:24,278 --> 00:06:27,699
+o l T mil nu.
+
+121
+00:06:27,709 --> 00:06:30,809
+Ou seja, se o ranking dele for menor que
+
+122
+00:06:30,819 --> 00:06:35,899
+mil ou o ranking dele for nulo, ele retorna.
+
+123
+00:06:35,910 --> 00:06:38,338
+Olha que interessante, né? Então seria eh,
+
+124
+00:06:38,350 --> 00:06:40,730
+usa o operador! Se o ranking dele for ma,
+
+125
+00:06:40,738 --> 00:06:42,769
+é menor que mil ou o ranking nulo.
+
+126
+00:06:42,778 --> 00:06:45,809
+E se eu tenho a vírgula aqui implicitamente é um
+
+127
+00:06:45,819 --> 00:06:49,899
+e tenha sido criado numa data menor que a de
+
+128
+00:06:49,910 --> 00:06:53,559
+hoje e maior que vinte e quatro e sessenta maior
+
+129
+00:06:53,569 --> 00:06:56,119
+que um dia atrás, né? Vinte e quatro,
+
+130
+00:06:56,129 --> 00:07:00,059
+sessenta e sessenta vezes mil seria mil Mili segundos sessenta
+
+131
+00:07:00,069 --> 00:07:02,000
+segundos, sessenta minutos, vinte e quatro horas,
+
+132
+00:07:02,009 --> 00:07:04,259
+então o que ele tá fazendo é retornar.
+
+133
+00:07:04,269 --> 00:07:08,358
+Qualquer pessoa que tenha o ranking menor que mil ou
+
+134
+00:07:08,369 --> 00:07:11,920
+nulo tá e tenha sido criado nas últimas vinte e
+
+135
+00:07:11,928 --> 00:07:12,899
+quatro horas.
+
+136
+00:07:12,910 --> 00:07:15,819
+É isso que essa expressão aí que tá fazendo tá
+
+137
+00:07:15,829 --> 00:07:22,949
+bom operações like not like regate e Ben no caso
+
+138
+00:07:22,959 --> 00:07:25,709
+aí eu estaria fazendo o seguinte eu tô usando o
+
+139
+00:07:25,720 --> 00:07:30,199
+p o, né? O p b o pers
+
+140
+00:07:30,209 --> 00:07:32,528
+oh percent b o perce que que é isso é
+
+141
+00:07:32,540 --> 00:07:35,588
+a operação like do s q l no no primeiro
+
+142
+00:07:35,600 --> 00:07:38,910
+ali o like b o percent significa que começa com
+
+143
+00:07:38,920 --> 00:07:42,119
+o b o, e se eu pegar o segundo
+
+144
+00:07:42,129 --> 00:07:44,488
+que tem b o no nome, que é alguma
+
+145
+00:07:44,500 --> 00:07:47,879
+coisa antes pers, seguido de B O seguido de
+
+146
+00:07:47,889 --> 00:07:49,759
+percent e outra coisa depois.
+
+147
+00:07:49,769 --> 00:07:52,838
+Então aqui seria o uso do operador like seria aqueles
+
+148
+00:07:52,850 --> 00:07:54,838
+começados com b o ou que tenham b o no
+
+149
+00:07:54,850 --> 00:07:57,928
+meio eu ainda posso usar expressões regulares e eu tenho
+
+150
+00:07:57,939 --> 00:08:05,189
+o operador TRE entre dois valores Tá bom, Essas
+
+151
+00:08:05,199 --> 00:08:10,108
+são algumas! Eh alguns exemplos do operador dos operadores.
+
+152
+00:08:10,119 --> 00:08:14,428
+Eh em cláusulas que vão ser essenciais para consultas,
+
+153
+00:08:14,439 --> 00:08:17,209
+né? Chamo sempre a atenção pela forma com que
+
+154
+00:08:17,220 --> 00:08:17,910
+é utilizado.
+
+155
+00:08:17,920 --> 00:08:20,569
+A gente tá muito acostumado a falar A ou B,
+
+156
+00:08:21,278 --> 00:08:23,088
+né? E quando a gente fala aqui a gente
+
+157
+00:08:23,100 --> 00:08:25,730
+tá falando ou a vírgula b, ou seja o
+
+158
+00:08:25,738 --> 00:08:28,649
+operador que tava ali no meio ele veio pra frente,
+
+159
+00:08:28,660 --> 00:08:31,290
+ele saiu daquele meio ali e eu tenho.
+
+160
+00:08:31,298 --> 00:08:32,769
+Em vez de ser A ou B, eu tenho
+
+161
+00:08:32,779 --> 00:08:35,369
+ou a vírgula B parece muito com a escrita de
+
+162
+00:08:35,379 --> 00:08:36,690
+uma calculadora científica.
+
+163
+00:08:36,700 --> 00:08:40,048
+Você coloca primeiro a operação e depois os números?
+
+164
+00:08:40,058 --> 00:08:43,298
+Tá, então? Ah, aqui eu tenho essa
+
+165
+00:08:43,308 --> 00:08:45,109
+na verdade, científica é primeiro os números depois da
+
+166
+00:08:45,119 --> 00:08:47,820
+operação, mas aqui eu tô colocando o operador antes
+
+167
+00:08:47,830 --> 00:08:50,590
+Em seguida, operando a grande vantagem, por exemplo,
+
+168
+00:08:50,599 --> 00:08:53,548
+Se eu tiver um R que envolva três, quatro
+
+169
+00:08:53,558 --> 00:08:56,239
+situações, eu posso, em vez de ficar colocando
+
+170
+00:08:56,250 --> 00:09:00,658
+a ou B ou C colocar ou a vírgula b
+
+171
+00:09:00,668 --> 00:09:01,080
+vírgula C.
+
+172
+00:09:01,090 --> 00:09:03,739
+Eu escrevo o uma vez só então essa é a
+
+173
+00:09:03,750 --> 00:09:06,840
+forma de se escrever o operador, os operadores,
+
+174
+00:09:06,849 --> 00:09:10,288
+né? Nas cláusulas, quando a gente usa o
+
+175
+00:09:10,298 --> 00:09:10,399
+C.
+

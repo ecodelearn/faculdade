@@ -1,0 +1,760 @@
+1
+00:00:06,408 --> 00:00:09,839
+continuando falando sobre aspectos regulatórios, nós vamos falar sobre
+
+2
+00:00:09,849 --> 00:00:13,500
+eh mais alguns outros aspectos Quais são Marco civil da
+
+3
+00:00:13,509 --> 00:00:17,019
+Internet Data Protection que é é um americano, é
+
+4
+00:00:17,030 --> 00:00:21,219
+britânico a a lei de produção de dados da Europa
+
+5
+00:00:21,228 --> 00:00:21,859
+e do Brasil.
+
+6
+00:00:21,870 --> 00:00:24,458
+Então é algo bem legal e, principalmente porque a
+
+7
+00:00:24,469 --> 00:00:26,019
+lei de produção de dados e o Marco civil é
+
+8
+00:00:26,030 --> 00:00:29,949
+algo muito importante pra gente conhecer dentro do nosso aspecto
+
+9
+00:00:29,958 --> 00:00:30,458
+nacional.
+
+10
+00:00:30,469 --> 00:00:36,789
+Tá, vamos lá A Lei de produção de dados
+
+11
+00:00:36,798 --> 00:00:40,168
+do Reino Unido tá é um marco regulatório que desempenha
+
+12
+00:00:40,179 --> 00:00:44,450
+um papel essencial na proteção dos dados do contexto britânico.
+
+13
+00:00:44,459 --> 00:00:48,149
+Ela é a implementação da lei britânica da G D
+
+14
+00:00:48,158 --> 00:00:50,189
+PG D P R Tá Lei de Proteção de Dados
+
+15
+00:00:50,200 --> 00:00:53,880
+Europeia formulado após o brexit retirada do Reino Unido da
+
+16
+00:00:53,889 --> 00:00:54,560
+União Europeia.
+
+17
+00:00:54,569 --> 00:00:56,810
+Então, o que que é o da Protect ache
+
+18
+00:00:56,819 --> 00:01:00,478
+é é a nossa, é a lei de produção
+
+19
+00:01:00,490 --> 00:01:02,759
+de dados do Reino Unido, como o Reino Unido
+
+20
+00:01:02,770 --> 00:01:05,959
+saiu da União Europeia, né? No no,
+
+21
+00:01:05,969 --> 00:01:08,638
+no no, após o brexit Eles precisaram criar uma
+
+22
+00:01:08,650 --> 00:01:13,319
+lei específica para eles, porque a questão da produção
+
+23
+00:01:13,329 --> 00:01:17,028
+de dados a gente precisa ter acordo entre essas leis,
+
+24
+00:01:17,040 --> 00:01:22,129
+essas normas pra que a gente consiga ter dados confiáveis
+
+25
+00:01:22,138 --> 00:01:26,209
+entre cada organização entre cada país, entre cada sistema,
+
+26
+00:01:26,219 --> 00:01:27,150
+em cada empresa.
+
+27
+00:01:27,159 --> 00:01:30,549
+Então cada empresa, toda empresa precisa seguir essas leis
+
+28
+00:01:30,558 --> 00:01:31,609
+de proteção de dados.
+
+29
+00:01:32,198 --> 00:01:35,290
+Então, como a o Reino Unido saiu da União
+
+30
+00:01:35,299 --> 00:01:37,769
+Europeia, ele criou uma específica pra ele que é
+
+31
+00:01:37,778 --> 00:01:40,028
+essa essa d p a, né.
+
+32
+00:01:40,709 --> 00:01:45,959
+Garante que os dados pessoais serão usados de forma justa,
+
+33
+00:01:45,969 --> 00:01:51,099
+legal, transparente, usados para fins específicos explícitos,
+
+34
+00:01:51,109 --> 00:01:54,359
+manipulados de forma adequada, relevante, estrita, apenas
+
+35
+00:01:54,370 --> 00:01:58,879
+necessário precisas e quando necessárias, atualizadas, mantidas pelo
+
+36
+00:01:58,888 --> 00:02:01,409
+tempo extremamente necessário.
+
+37
+00:02:01,418 --> 00:02:04,838
+Tratamento, de forma a garantir a segurança apropriada,
+
+38
+00:02:04,849 --> 00:02:09,038
+incluída a proteção contra a processamento ilegal e não autorizado
+
+39
+00:02:09,050 --> 00:02:12,719
+acesso não autorizado, perda e destruição de dados ou
+
+40
+00:02:12,729 --> 00:02:15,599
+danos Se você ver gente, isso aqui é muito
+
+41
+00:02:15,610 --> 00:02:18,838
+parecido com a lei de proteção de dados da Europa
+
+42
+00:02:18,849 --> 00:02:21,679
+e a nossa brasileira, né? Usar de forma
+
+43
+00:02:21,689 --> 00:02:24,899
+justa, eh pra fins específicos.
+
+44
+00:02:24,909 --> 00:02:28,879
+Eh usar somente pro tempo necessário? Então eh as
+
+45
+00:02:28,889 --> 00:02:30,740
+leis, essas leis de produção de dados, elas
+
+46
+00:02:30,750 --> 00:02:32,460
+andam muito próximas.
+
+47
+00:02:33,149 --> 00:02:35,838
+Eh informação abaixo mais sensíveis.
+
+48
+00:02:35,849 --> 00:02:40,360
+Possui a as informações abaixo mais sensíveis possuem proteção legal
+
+49
+00:02:40,368 --> 00:02:44,300
+mais rigorosas também garantidas pela D P A, por
+
+50
+00:02:44,308 --> 00:02:48,758
+exemplo raça, origem, eh étnicas, opiniões políticas,
+
+51
+00:02:48,770 --> 00:02:54,580
+crenças religiosas filiações a sindicatos genética a biome a biometria,
+
+52
+00:02:54,808 --> 00:02:57,258
+saúde, a vida sexual e orientação sexual.
+
+53
+00:02:57,270 --> 00:03:00,139
+Então, algumas coisas são muito sensíveis e esses dados
+
+54
+00:03:00,149 --> 00:03:03,599
+aqui são os mais protegidos, né? Os mais
+
+55
+00:03:03,610 --> 00:03:05,939
+eh, eh, eh, eh sensíveis para as
+
+56
+00:03:05,949 --> 00:03:08,800
+nossas leis E nesse caso específico era de p.
+
+57
+00:03:09,639 --> 00:03:11,308
+Aí quando a gente tá falando dessas duas leis,
+
+58
+00:03:11,319 --> 00:03:13,199
+que agora vem a g D, P, R
+
+59
+00:03:13,210 --> 00:03:16,528
+e a G LGBT B d, que é a
+
+60
+00:03:16,538 --> 00:03:19,449
+Lei de proteção de dados tá? E a Lei
+
+61
+00:03:19,460 --> 00:03:21,588
+de proteção de Dados Europeia, que aí que é,
+
+62
+00:03:21,599 --> 00:03:26,088
+é questão de voltada, pros países europeus, a
+
+63
+00:03:26,099 --> 00:03:28,449
+gente qual qual é a diferença das duas? As
+
+64
+00:03:28,460 --> 00:03:29,330
+duas são muito próximas.
+
+65
+00:03:29,338 --> 00:03:31,080
+Tá, a gente vai falar agora aqui da primeira,
+
+66
+00:03:31,088 --> 00:03:33,979
+que é a G D P R GDP É O
+
+67
+00:03:33,990 --> 00:03:37,038
+Regulamento geral de proteção de dados da União Europeia.
+
+68
+00:03:37,050 --> 00:03:39,399
+Entrou em vigor em dois mil dezoito.
+
+69
+00:03:39,409 --> 00:03:42,778
+Sua principal finalidade é fortalecer e unificar a proteção de
+
+70
+00:03:42,788 --> 00:03:46,139
+dados pessoais dentro da União Europeia e garantir que os
+
+71
+00:03:46,149 --> 00:03:50,080
+indivíduos tenham maior controle sobre as suas informações pessoais.
+
+72
+00:03:51,429 --> 00:03:55,439
+Se aplica a todas as organizações que processam dados e
+
+73
+00:03:55,449 --> 00:03:59,159
+de residentes da União Europeia e, independente da organização,
+
+74
+00:03:59,169 --> 00:04:02,439
+está sediada na União europeia ou em qualquer outro lugar
+
+75
+00:04:02,449 --> 00:04:03,199
+do mundo.
+
+76
+00:04:03,210 --> 00:04:06,479
+Isso significa que a regulamentação tem um escopo global e
+
+77
+00:04:06,490 --> 00:04:10,460
+afeta empresas e entidades que tratam dados de cidadãos europeus.
+
+78
+00:04:10,469 --> 00:04:12,960
+Vocês entenderam o que tá aqui? Essa lei é
+
+79
+00:04:12,969 --> 00:04:14,038
+europeia.
+
+80
+00:04:14,050 --> 00:04:16,678
+Só que essa lei europeia só que ela ela tem
+
+81
+00:04:16,689 --> 00:04:18,178
+amplitude global.
+
+82
+00:04:18,189 --> 00:04:21,358
+Se você tem uma empresa de tecnologia aqui no Brasil,
+
+83
+00:04:21,369 --> 00:04:21,980
+tá bom.
+
+84
+00:04:21,988 --> 00:04:24,040
+Ah, a empresa é aqui.
+
+85
+00:04:24,048 --> 00:04:27,319
+Mas seus data vamos supor que tá tudo na nuvem.
+
+86
+00:04:27,329 --> 00:04:31,100
+Tá nos Estados Unidos e você possui? Eh vá
+
+87
+00:04:31,108 --> 00:04:36,639
+lá cem, cem, duzentos, um cliente europeu,
+
+88
+00:04:36,649 --> 00:04:39,939
+você precisa seguir essa lei? Ah, mas a
+
+89
+00:04:39,949 --> 00:04:41,910
+minha empresa sediada no Brasil, meus dados estão nos
+
+90
+00:04:41,920 --> 00:04:42,220
+Estados Unidos.
+
+91
+00:04:42,230 --> 00:04:44,238
+Eu preciso seguir essa lei, precisa seguir essa lei.
+
+92
+00:04:44,250 --> 00:04:48,639
+Essa lei é independente de onde está situada essa lei.
+
+93
+00:04:48,649 --> 00:04:52,278
+É pra qualquer cidadão europeu.
+
+94
+00:04:52,290 --> 00:04:53,920
+Tá bom, a gente precisa tomar muito cuidado sobre
+
+95
+00:04:53,928 --> 00:04:55,000
+isso que as pessoas pensam.
+
+96
+00:04:55,009 --> 00:04:57,338
+Que essa lei, ah, é somente pras empresas
+
+97
+00:04:57,350 --> 00:05:00,009
+europeias, não é pra qualquer empresa, porque ela
+
+98
+00:05:00,019 --> 00:05:03,160
+é focada no cidadão europeu, Não nas empresas europeias.
+
+99
+00:05:03,170 --> 00:05:05,350
+Tá bom já a nossa lei, né, Que
+
+100
+00:05:05,358 --> 00:05:07,720
+é a lei de proteção de dados, É uma
+
+101
+00:05:07,730 --> 00:05:09,798
+seleção brasileira que entrou em vigor em dois mil e
+
+102
+00:05:09,809 --> 00:05:10,459
+vinte.
+
+103
+00:05:11,019 --> 00:05:14,389
+Seu principal objetivo é regulamentar o tratamento de dados pessoais
+
+104
+00:05:14,399 --> 00:05:17,670
+no Brasil, bem como as organizações localizadas fora do
+
+105
+00:05:17,678 --> 00:05:20,730
+Brasil que tratam dados de residentes brasileiros.
+
+106
+00:05:20,738 --> 00:05:23,189
+Portanto, a nossa lei de proteção de dados tem
+
+107
+00:05:23,199 --> 00:05:26,939
+um alcance nacional e internacional, que é o espelho
+
+108
+00:05:26,949 --> 00:05:28,189
+da lei europeia.
+
+109
+00:05:28,199 --> 00:05:32,189
+Mesma coisa tá, não importa onde a empresa está,
+
+110
+00:05:32,199 --> 00:05:37,730
+se ela trata dados de né? De residentes brasileiro,
+
+111
+00:05:37,803 --> 00:05:40,494
+ela precisa seguir a lei de produção de dados?
+
+112
+00:05:40,504 --> 00:05:42,535
+É uma lei nova, é uma lei que as
+
+113
+00:05:42,545 --> 00:05:47,613
+empresas ainda estão aprendendo como ela se comporta.
+
+114
+00:05:47,625 --> 00:05:50,095
+Tem o papel de P o que é importantíssimo em
+
+115
+00:05:50,105 --> 00:05:51,053
+todas essas empresas.
+
+116
+00:05:51,064 --> 00:05:53,213
+Vai depender muito do tamanho da sua empresa, mas
+
+117
+00:05:53,225 --> 00:05:56,303
+é uma lei que nós precisamos seguir fielmente.
+
+118
+00:05:56,314 --> 00:05:59,173
+Tá se qualquer tipo de empresa, qualquer tipo de
+
+119
+00:05:59,184 --> 00:06:01,894
+empresa, aquela empresa que você vai comprar um par
+
+120
+00:06:01,903 --> 00:06:05,428
+de sapato que pede o seu CPF que pede seus
+
+121
+00:06:05,439 --> 00:06:07,988
+dados, ela precisa seguir a lei de produção de
+
+122
+00:06:08,000 --> 00:06:08,350
+dados.
+
+123
+00:06:08,358 --> 00:06:12,660
+Só pra você entender, tá? Repare como as
+
+124
+00:06:12,670 --> 00:06:13,600
+duas leis são.
+
+125
+00:06:13,608 --> 00:06:16,178
+Eh, Repare como as duas são parecidas.
+
+126
+00:06:16,189 --> 00:06:20,738
+Como ambas possuem semelhanças com a d P a britânica.
+
+127
+00:06:20,750 --> 00:06:22,778
+Isso não é por acaso, tá tanto a lei
+
+128
+00:06:22,790 --> 00:06:24,819
+e a Lei de produção da Europeia serviu como base
+
+129
+00:06:24,829 --> 00:06:27,059
+pra criação da D P A, como pra nossa
+
+130
+00:06:27,069 --> 00:06:29,980
+lei, então as três leis são muito parecidas,
+
+131
+00:06:29,988 --> 00:06:33,608
+né? Três possuem os mesmos objetivos proteção de dados
+
+132
+00:06:33,619 --> 00:06:37,889
+pessoais da sua população, porém atua de forma adaptada
+
+133
+00:06:37,899 --> 00:06:38,689
+a sua região.
+
+134
+00:06:38,699 --> 00:06:41,988
+A principal diferença entre elas é a jurisdição de cada
+
+135
+00:06:42,000 --> 00:06:46,088
+uma, sendo que a de P d para o
+
+136
+00:06:46,100 --> 00:06:49,028
+Reino Unido a GP a g d P para a
+
+137
+00:06:49,040 --> 00:06:52,048
+União Europeia e é a L g B D no
+
+138
+00:06:52,059 --> 00:06:56,088
+Brasil, então cada uma com os seus sua área
+
+139
+00:06:56,100 --> 00:06:58,540
+jurídica, Aí vou falar agora só um pouquinho sobre
+
+140
+00:06:58,548 --> 00:07:00,459
+o marco civil da internet, tá? O Marco
+
+141
+00:07:00,470 --> 00:07:02,540
+Civil da Internet é uma lei, é a lei
+
+142
+00:07:02,548 --> 00:07:05,778
+doze mil novecentos e novecentos e meia cinco de dois
+
+143
+00:07:05,790 --> 00:07:09,980
+mil e catorze é uma legislação brasileira que estabelece princípios,
+
+144
+00:07:09,988 --> 00:07:13,220
+direitos e deveres para o uso da internet no Brasil.
+
+145
+00:07:13,230 --> 00:07:16,750
+Tá sua origem remota no processo de consulta pública Tá?
+
+146
+00:07:16,759 --> 00:07:18,278
+Foi uma consulta pública que ocorreu em dois mil e
+
+147
+00:07:18,290 --> 00:07:20,079
+nove, dois mil e dez Tá Então é um.
+
+148
+00:07:20,088 --> 00:07:22,619
+Teve muita gente interessada, as empresas de tecnologia,
+
+149
+00:07:22,629 --> 00:07:25,858
+a sociedade civil, então uma lei que veio regulamentar
+
+150
+00:07:25,869 --> 00:07:29,459
+a a internet primeira coisa que ela fala aí alguns
+
+151
+00:07:29,470 --> 00:07:33,019
+aspectos importantes a neutralidade da rede tá a rede tem
+
+152
+00:07:33,028 --> 00:07:35,459
+que ser neutra, pra garantir os todos os provedores
+
+153
+00:07:35,470 --> 00:07:38,178
+de eh ter acesso de forma igual, sem discriminação
+
+154
+00:07:38,189 --> 00:07:39,678
+de conteúdo ou de aplicativo.
+
+155
+00:07:39,689 --> 00:07:42,579
+Então, a neutralidade da rede, outra coisa,
+
+156
+00:07:42,588 --> 00:07:45,480
+privacidade e proteção dos dados tá.
+
+157
+00:07:45,488 --> 00:07:47,500
+Então, é uma lei que tem que garantir essa
+
+158
+00:07:47,509 --> 00:07:47,699
+lei.
+
+159
+00:07:47,709 --> 00:07:48,220
+Garante.
+
+160
+00:07:48,230 --> 00:07:52,449
+Isso, liberdade de expressão e informação então, outro
+
+161
+00:07:52,459 --> 00:07:56,769
+ponto importante dessa lei, né, Responsabilidade por conteúdo,
+
+162
+00:07:56,778 --> 00:07:58,910
+Então, os provedores, né? Quem, quem
+
+163
+00:07:58,920 --> 00:08:00,819
+é o responsável? Por que então a lei estabelece
+
+164
+00:08:00,829 --> 00:08:03,428
+que os provedores de serviços de internet não podem ser
+
+165
+00:08:03,439 --> 00:08:06,949
+responsabilidades por conteúdo gerado por terceiro? Tá a menos
+
+166
+00:08:06,959 --> 00:08:08,949
+que cumpra ordem judicial? Então, isso é muito
+
+167
+00:08:08,959 --> 00:08:11,689
+legal, acesso universal.
+
+168
+00:08:11,699 --> 00:08:15,250
+Outro ponto muito importante, principalmente pro nosso Brasil o
+
+169
+00:08:15,259 --> 00:08:18,910
+marco civil Marco civil, promove o acesso universalà
+
+170
+00:08:18,920 --> 00:08:24,449
+internet como direito fundamental, incentivando a expansão da infraestrutura
+
+171
+00:08:24,459 --> 00:08:26,410
+de telecomunicação por todo o Brasil.
+
+172
+00:08:26,420 --> 00:08:29,569
+Tá, eh, e essa essa, esse acesso
+
+173
+00:08:29,579 --> 00:08:32,899
+universal é bem legal porque existem várias empresas, vários
+
+174
+00:08:32,908 --> 00:08:35,058
+organismos públicos que trabalham pra isso.
+
+175
+00:08:35,070 --> 00:08:36,869
+Então, a gente vem desde a rede acadêmica,
+
+176
+00:08:36,879 --> 00:08:40,308
+mas a rede comercial que trabalham para que esse acesso
+
+177
+00:08:40,320 --> 00:08:43,859
+universalà grande rede eh Eh seja possível pra todos
+
+178
+00:08:43,869 --> 00:08:44,619
+os brasileiros.
+
+179
+00:08:44,629 --> 00:08:47,629
+Tá Então se você existe algumas empresas, eh algumas
+
+180
+00:08:47,639 --> 00:08:52,580
+o s algumas alguns alguns projetos políticos trabalham para isso
+
+181
+00:08:52,590 --> 00:08:56,399
+para o acesso universal da da rede Eh, foi
+
+182
+00:08:56,408 --> 00:08:58,840
+isso, Então eh essa nossa nossa aula de hoje.
+
+183
+00:08:58,849 --> 00:09:02,779
+Trabalhamos e falamos sobre muitos aspectos da desde o início
+
+184
+00:09:02,788 --> 00:09:06,340
+ali na do conceitos básicos da segurança da informação,
+
+185
+00:09:06,349 --> 00:09:09,379
+passando quais são os seus pilares, né? São
+
+186
+00:09:09,389 --> 00:09:12,658
+aspectos regulatórios sobre no isos.
+
+187
+00:09:12,668 --> 00:09:16,219
+Falamos sobre duas isos e acredito que vocês aprenderam muito.
+
+188
+00:09:16,229 --> 00:09:19,570
+Hoje temos os nossos conteúdos programáticos, dar uma lida,
+
+189
+00:09:19,580 --> 00:09:22,700
+dar uma acompanhada e qualquer dúvida nos procure e é
+
+190
+00:09:22,710 --> 00:09:25,239
+isso aí, abraço e bons estudos para todos!
+

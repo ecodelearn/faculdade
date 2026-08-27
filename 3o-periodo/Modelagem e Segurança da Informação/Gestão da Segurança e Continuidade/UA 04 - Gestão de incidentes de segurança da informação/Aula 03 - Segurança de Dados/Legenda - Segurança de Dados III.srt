@@ -1,0 +1,676 @@
+1
+00:00:06,570 --> 00:00:09,380
+seja bem vindo ao nosso curso, Nossa disciplina de
+
+2
+00:00:09,390 --> 00:00:11,179
+segurança, informação e continuidade.
+
+3
+00:00:11,189 --> 00:00:12,380
+Hoje a gente tá falando de dados, né?
+
+4
+00:00:12,390 --> 00:00:15,140
+A gente falou sobre classificação de dados, a importância
+
+5
+00:00:15,148 --> 00:00:17,760
+de classificar os dados de forma correta, entender a
+
+6
+00:00:17,769 --> 00:00:21,679
+tecnologia que precisa aplicada a cada tipo de dado.
+
+7
+00:00:21,690 --> 00:00:24,859
+Falamos também sobre a questão da criptografia, a importância
+
+8
+00:00:24,870 --> 00:00:28,579
+de entender a criptografia, o poder da da criptografia
+
+9
+00:00:28,589 --> 00:00:30,920
+e a necessidade real da criptografia.
+
+10
+00:00:31,170 --> 00:00:32,700
+E agora a gente vai falar sobre um outro ponto
+
+11
+00:00:32,709 --> 00:00:34,939
+que é questão de políticas, né? De acesso
+
+12
+00:00:34,950 --> 00:00:36,520
+e controle de dados.
+
+13
+00:00:36,529 --> 00:00:39,478
+Então a gente precisa entender esse outro aspecto pra finalizar
+
+14
+00:00:39,490 --> 00:00:43,340
+essa esse conceito de dados, né? Políticas de
+
+15
+00:00:43,348 --> 00:00:46,459
+acesso e controle de dados são projetadas para garantir que
+
+16
+00:00:46,469 --> 00:00:50,840
+apenas usuários autorizados tenham acesso a dados específicos.
+
+17
+00:00:51,560 --> 00:00:54,908
+Ao mesmo tempo que que implementam medidas para monitorar e
+
+18
+00:00:54,918 --> 00:00:58,689
+responder as atividades suspeitas? Vamos ver alguns conceitos chave,
+
+19
+00:00:58,700 --> 00:01:00,848
+né? Pra essa área essa área de monitoramento de
+
+20
+00:01:00,859 --> 00:01:04,049
+políticas de acesso e controle de dados oh o princípio
+
+21
+00:01:04,058 --> 00:01:06,349
+do mínimo privilégio que? Que é isso? O
+
+22
+00:01:06,359 --> 00:01:10,370
+princípio do mínimo privilégio é uma base fundamental das políticas
+
+23
+00:01:10,379 --> 00:01:11,069
+de acesso.
+
+24
+00:01:11,439 --> 00:01:14,250
+Ela determina que os usuários devem ter o mínimo de
+
+25
+00:01:14,260 --> 00:01:17,519
+acesso necessário para realizar suas funções.
+
+26
+00:01:17,528 --> 00:01:22,088
+Isso reduz significamente o risco de exposição de dados sensíveis,
+
+27
+00:01:22,099 --> 00:01:26,180
+menos mesmo em casos de comprometimento de dados de usuários.
+
+28
+00:01:26,189 --> 00:01:29,049
+Então, o usuário só vai ter o acesso o
+
+29
+00:01:29,058 --> 00:01:33,088
+mínimo necessário para que ele consiga trabalhar ou para executar
+
+30
+00:01:33,099 --> 00:01:35,849
+suas ações necessárias o mínimo privilégio, o mínimo,
+
+31
+00:01:35,859 --> 00:01:39,448
+porque, a partir daí, ele diminui a probabilidade
+
+32
+00:01:39,459 --> 00:01:43,150
+de ter vazamento de dados, definições, né?
+
+33
+00:01:43,159 --> 00:01:48,948
+Definição de permissões As políticas de acesso estabelece claramente as
+
+34
+00:01:48,959 --> 00:01:52,069
+permissões de cada usuário ou grupo de usuário.
+
+35
+00:01:52,079 --> 00:01:56,569
+Isso inclui o acesso de sistema em pasta, arquivos
+
+36
+00:01:56,579 --> 00:01:59,409
+e outros recursos críticos.
+
+37
+00:02:00,010 --> 00:02:03,180
+A revisão periódica e a atualização de das permissões das
+
+38
+00:02:03,189 --> 00:02:04,579
+práticas são essenciais.
+
+39
+00:02:04,588 --> 00:02:06,459
+Não é só criar, né? Você não po
+
+40
+00:02:06,469 --> 00:02:10,000
+não pode só criar uma política ou uma uma norma
+
+41
+00:02:10,008 --> 00:02:12,939
+e deixar lá ela precisa ser revisada e, principalmente,
+
+42
+00:02:12,949 --> 00:02:16,758
+olhar pra essa base de dados de o usuário vê
+
+43
+00:02:16,770 --> 00:02:19,020
+se essa cena bem atualizada tem que tem que ter
+
+44
+00:02:19,028 --> 00:02:22,919
+processo de atualização dessas de dessa base, né?
+
+45
+00:02:22,929 --> 00:02:25,300
+Se um funcionário entrou, se o funcionário saiu,
+
+46
+00:02:25,308 --> 00:02:26,919
+qual é o processo que tá sendo? Isso tem
+
+47
+00:02:26,929 --> 00:02:30,558
+um processo de de inclusão e e exclusão de funcionários
+
+48
+00:02:30,569 --> 00:02:31,300
+da base.
+
+49
+00:02:31,308 --> 00:02:32,038
+Tem que ter isso.
+
+50
+00:02:32,050 --> 00:02:38,538
+Tá sistema de autenticação forte, além de senhas e
+
+51
+00:02:38,550 --> 00:02:43,469
+a autenticação forte é frequentemente implementada para aumentar a segurança.
+
+52
+00:02:43,479 --> 00:02:48,528
+A autenticação de dois fatores ou a autenticação multifatorial exige
+
+53
+00:02:48,538 --> 00:02:52,288
+que os usuários forneçam forneçam mais de uma forma de
+
+54
+00:02:52,300 --> 00:02:56,508
+identificação, adicionando uma camada adicional de segurança.
+
+55
+00:02:56,520 --> 00:03:00,088
+Autenticação de dois fatores é fundamental isso até pra seus
+
+56
+00:03:00,099 --> 00:03:01,349
+serviços básicos.
+
+57
+00:03:01,425 --> 00:03:02,014
+Sei lá um.
+
+58
+00:03:02,024 --> 00:03:03,735
+Uma rede social.
+
+59
+00:03:03,743 --> 00:03:08,064
+Você precisa ter fatores de dupla verificação em rede social
+
+60
+00:03:08,074 --> 00:03:08,743
+e e-mail.
+
+61
+00:03:08,754 --> 00:03:11,875
+Isso vai garantir a sua segurança, né? Clonagem
+
+62
+00:03:11,883 --> 00:03:14,675
+de rede social CNA de sistema de WhatsApp, por
+
+63
+00:03:14,683 --> 00:03:18,395
+exemplo, quando você tem dupla verificação, reduz gradativamente,
+
+64
+00:03:18,403 --> 00:03:22,754
+reduz muito a probabilidade de alguém conseguir hackear o seu
+
+65
+00:03:22,764 --> 00:03:29,679
+sistema pessoal também tá bom controle de acesso baseado em
+
+66
+00:03:29,689 --> 00:03:32,199
+funções, tá que é o r b.
+
+67
+00:03:32,210 --> 00:03:35,288
+Oba, né? É uma abordagem que associa permissões
+
+68
+00:03:35,300 --> 00:03:39,080
+de acesso a funções específicas dentro da organização.
+
+69
+00:03:39,088 --> 00:03:42,479
+Isso simplifica a administração, garantindo que as permissões,
+
+70
+00:03:42,490 --> 00:03:46,399
+se de forma lógica, com as responsabilidades dos usuários,
+
+71
+00:03:46,409 --> 00:03:50,479
+então vai ter a baseado em funções baseado na responsabilidade.
+
+72
+00:03:50,490 --> 00:03:53,300
+Vai ter um acesso específico pra cada funcionário.
+
+73
+00:03:54,419 --> 00:03:56,710
+Monitoramento e auditoria.
+
+74
+00:03:56,719 --> 00:04:01,110
+A implementação de sistemas de monitoramento e auditoria é essencial.
+
+75
+00:04:01,118 --> 00:04:05,469
+Essas ferramentas registram atividades de usuários, permitindo permitindo a
+
+76
+00:04:05,479 --> 00:04:11,270
+identificação de padrões normais e a detecção de comportamentos suspeitos.
+
+77
+00:04:11,278 --> 00:04:16,129
+Auditoria é crucial para conformidade regulatória e investigação de incidente.
+
+78
+00:04:16,139 --> 00:04:20,910
+Precisamos ter continuamente um monitoramento auditoria sobre todo o sistema
+
+79
+00:04:20,920 --> 00:04:27,629
+de de de autenticação tá proteção contra ameaças internas.
+
+80
+00:04:27,639 --> 00:04:31,858
+Políticas de controle de dados visam mitigar ameaças internas,
+
+81
+00:04:31,869 --> 00:04:35,199
+reconhecimentos que não são apenas de usuários externos, né?
+
+82
+00:04:35,209 --> 00:04:39,160
+Reconhecendo que não, apenas os usuários externos representam os
+
+83
+00:04:39,170 --> 00:04:39,540
+riscos.
+
+84
+00:04:39,548 --> 00:04:41,980
+Usuários internos também,às vezes clicam em coisas que
+
+85
+00:04:41,988 --> 00:04:44,750
+não deveriam clicar, né? O monitoramento de atividades,
+
+86
+00:04:44,759 --> 00:04:48,548
+juntamente com a revisão regular de permissões, ajuda a
+
+87
+00:04:48,559 --> 00:04:53,028
+identificar comportamentos potencialmente maliciosos dentro da organização.
+
+88
+00:04:53,040 --> 00:04:56,829
+A gente precisa e além disso, a questão já
+
+89
+00:04:56,838 --> 00:05:00,028
+foi falado nesse nosso curso aqui a questão da engenharia
+
+90
+00:05:00,040 --> 00:05:04,764
+social de qualificar os nossos usuários no quesito segurança,
+
+91
+00:05:04,774 --> 00:05:09,375
+Porque eles possam entender a importância de se se resguardar
+
+92
+00:05:09,384 --> 00:05:12,264
+a importância de saber onde clicar em que clicar,
+
+93
+00:05:12,274 --> 00:05:15,483
+que que tipo de meio é malicioso e que não
+
+94
+00:05:15,494 --> 00:05:18,504
+é malicioso e isso fortalece a segurança no seu ambiente,
+
+95
+00:05:19,959 --> 00:05:23,170
+criptografia de dados Além do controle do acesso, a
+
+96
+00:05:23,178 --> 00:05:28,088
+criptografia é frequentemente aplicada como medida adicional pra proteger dados
+
+97
+00:05:28,100 --> 00:05:28,899
+sensíveis.
+
+98
+00:05:28,910 --> 00:05:32,569
+Mesmo que o usuário tenha acesso autorizado, os dados
+
+99
+00:05:32,579 --> 00:05:38,819
+permanecem decifrados e in in in, sem a chave
+
+100
+00:05:38,829 --> 00:05:39,858
+adequada.
+
+101
+00:05:39,869 --> 00:05:44,259
+Então, criptografia, os dados aí só chave tem.
+
+102
+00:05:44,269 --> 00:05:46,619
+A chave geralmente é uma chave, a chave B.
+
+103
+00:05:46,629 --> 00:05:47,778
+Então, a mesmo.
+
+104
+00:05:47,790 --> 00:05:51,379
+Com o acesso a garante, né? Um segundo
+
+105
+00:05:51,389 --> 00:05:54,639
+fator garantindo, garantindo aí a segurança dos dados.
+
+106
+00:05:55,619 --> 00:05:59,750
+Políticas dinâmicas, as políticas de acesso e controle de
+
+107
+00:05:59,759 --> 00:06:01,350
+dados não são estáticos.
+
+108
+00:06:01,358 --> 00:06:02,889
+Não pode estar escrito em pedra, né? Que
+
+109
+00:06:02,899 --> 00:06:05,629
+o pessoal gosta de falar? Elas devem ser dinâmicas
+
+110
+00:06:05,639 --> 00:06:10,028
+e adaptáveis, ajustando a conformidade as mudanças operacionais na
+
+111
+00:06:10,040 --> 00:06:13,608
+estrutura organizacional e nas ameaças cibernéticas.
+
+112
+00:06:13,619 --> 00:06:17,000
+Isso inclui a revogação rápida de acesso para usuários que
+
+113
+00:06:17,009 --> 00:06:22,108
+mudaram de função ou deixaram a organização, treinamento e
+
+114
+00:06:22,119 --> 00:06:23,230
+conscientização.
+
+115
+00:06:23,238 --> 00:06:28,309
+A implementação eficaz de políticas de acesso requer treinamento contínuo
+
+116
+00:06:28,319 --> 00:06:30,410
+e conscientização dos usuários.
+
+117
+00:06:30,420 --> 00:06:33,309
+Isso inclui a compreensão das políticas, a importância da
+
+118
+00:06:33,319 --> 00:06:37,350
+segurança da informação e a prática segura para proteger para
+
+119
+00:06:37,358 --> 00:06:38,329
+proteger os seus dados.
+
+120
+00:06:38,949 --> 00:06:44,000
+Resposta incidente As políticas também devem abordar procedimentos para resposta
+
+121
+00:06:44,009 --> 00:06:48,119
+a excedentes e inclui a identificação rápida de violação de
+
+122
+00:06:48,129 --> 00:06:50,678
+segurança, a contenção de dados e a recuperação de
+
+123
+00:06:50,689 --> 00:06:52,858
+sistemas afetados.
+
+124
+00:06:52,869 --> 00:06:55,738
+Portanto, quando a gente tá falando de dados,
+
+125
+00:06:55,750 --> 00:06:58,509
+segurança é mu é é a parte fundamental e sim,
+
+126
+00:06:58,519 --> 00:07:01,009
+a gente precisa ter que ter tecnologia A gente precisa
+
+127
+00:07:01,019 --> 00:07:04,470
+classificar os dados, A gente precisa criar modelos de
+
+128
+00:07:04,480 --> 00:07:09,509
+segurança, mas também qualificar os usuários é fundamental pra
+
+129
+00:07:09,519 --> 00:07:11,048
+que a gente consiga ter essa cultura.
+
+130
+00:07:11,059 --> 00:07:13,709
+Essa conscientização de segurança tá bom.
+
+131
+00:07:13,720 --> 00:07:15,509
+Então, quando a gente fala em normas, em
+
+132
+00:07:15,519 --> 00:07:18,410
+políticas, essas normas precisam ser dinâmicas, elas precisam
+
+133
+00:07:18,420 --> 00:07:20,798
+ser, não podem ser estáticas, porque a cada
+
+134
+00:07:20,809 --> 00:07:25,108
+dia vem uma nova tecnologia, uma nova vulnerabilidade e
+
+135
+00:07:25,119 --> 00:07:27,189
+portanto, todas as normas.
+
+136
+00:07:27,199 --> 00:07:30,410
+Elas precisam ser estática, precisam ser dinâmicas e precisam
+
+137
+00:07:30,420 --> 00:07:32,790
+ser revisadas continuamente.
+
+138
+00:07:32,798 --> 00:07:36,910
+Você precisa ter um período obrigatório de revisão de políticas
+
+139
+00:07:36,920 --> 00:07:38,069
+e de normas.
+
+140
+00:07:38,139 --> 00:07:42,428
+Algumas técnicas são algumas dicas que são fundamentais para garantir
+
+141
+00:07:42,439 --> 00:07:44,988
+a segurança do seu ambiente, a segurança dos seus
+
+142
+00:07:45,000 --> 00:07:45,689
+dados.
+
+143
+00:07:45,699 --> 00:07:47,910
+Então você precisa entender, não é só eh,
+
+144
+00:07:47,920 --> 00:07:49,949
+eh, eh não! Acessar.
+
+145
+00:07:49,959 --> 00:07:51,790
+Ah, não vou acessar a internet não, não
+
+146
+00:07:51,798 --> 00:07:52,028
+é isso.
+
+147
+00:07:52,040 --> 00:07:55,428
+Todos nós acessamos e utilizamos a internet continuamente.
+
+148
+00:07:55,439 --> 00:07:56,949
+Mesmo sem você saber você.
+
+149
+00:07:56,959 --> 00:07:59,750
+Consequentemente você está usando a internet, então você precisa
+
+150
+00:07:59,759 --> 00:08:00,048
+ter.
+
+151
+00:08:00,298 --> 00:08:05,009
+É recomendável você ter autenticação de dois fatores pra qualquer
+
+152
+00:08:05,019 --> 00:08:08,509
+tipo, Não só não só dados corporativos, mas
+
+153
+00:08:08,519 --> 00:08:10,309
+pros seus acessos pessoais.
+
+154
+00:08:10,319 --> 00:08:13,829
+Você precisa entender a importância de todo esse né,
+
+155
+00:08:13,838 --> 00:08:18,250
+esse arcabouço de segurança pra sua vida evitando assim prejuízos
+
+156
+00:08:18,259 --> 00:08:21,269
+pra sua empresa, prejuízos pessoais e e você se
+
+157
+00:08:21,278 --> 00:08:23,730
+tornando uma pessoa cada vez mais segura.
+
+158
+00:08:23,738 --> 00:08:26,709
+E, principalmente, o conhecimento te leva a essa
+
+159
+00:08:26,720 --> 00:08:27,889
+segurança, né? A partir do momento que você
+
+160
+00:08:27,899 --> 00:08:31,338
+tem conhecimento, você começa a entender as vulnerabilidades e
+
+161
+00:08:31,350 --> 00:08:34,739
+as e a e a segurança de cada item.
+
+162
+00:08:34,750 --> 00:08:37,678
+Você começa a ser mais rígido com com você mesmo.
+
+163
+00:08:37,690 --> 00:08:39,899
+Deve ser muito mais fácil, Então, busque conhecimento,
+
+164
+00:08:39,908 --> 00:08:43,899
+entenda o que é cada coisa e consequentemente, né,
+
+165
+00:08:43,908 --> 00:08:47,519
+Consequentemente, né, você vai ser mais seguro.
+
+166
+00:08:47,529 --> 00:08:50,820
+Você vai ter buscar mais segurança pra você, pra
+
+167
+00:08:50,830 --> 00:08:53,178
+sua empresa, pra sua família, pros seus dados.
+
+168
+00:08:53,190 --> 00:08:54,719
+Isso é fundamental? Tá bom.
+
+169
+00:08:54,729 --> 00:08:57,960
+Muito obrigado e te vejo na próxima aula.
+

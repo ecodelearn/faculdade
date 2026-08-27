@@ -1,0 +1,620 @@
+1
+00:00:06,198 --> 00:00:09,089
+Olá, tudo bem, voltamos pro nosso curso,
+
+2
+00:00:09,099 --> 00:00:11,509
+a nossa disciplina de gestão, segurança da informação e
+
+3
+00:00:11,519 --> 00:00:12,579
+continuidade.
+
+4
+00:00:12,589 --> 00:00:14,909
+Tá, agora, nós vamos falar sobre o nosso
+
+5
+00:00:14,919 --> 00:00:18,158
+novo petróleo, o petróleo da tecnologia que se chama
+
+6
+00:00:18,170 --> 00:00:20,429
+dados tá os dados.
+
+7
+00:00:20,440 --> 00:00:23,208
+Eh é o que move a tecnologia, né?
+
+8
+00:00:23,219 --> 00:00:26,170
+A gente tá falando de ah, eh a genera!
+
+9
+00:00:26,179 --> 00:00:27,850
+Tudo é devido aos dados.
+
+10
+00:00:27,859 --> 00:00:32,298
+Os dados é é a parte fundamental de toda a
+
+11
+00:00:32,310 --> 00:00:33,899
+movimentação da internet.
+
+12
+00:00:33,908 --> 00:00:36,219
+Então a gente vai falar sobre classificação de dados sobre
+
+13
+00:00:36,228 --> 00:00:37,399
+os dados a partir de agora.
+
+14
+00:00:38,450 --> 00:00:42,139
+Então aí Classificação dos dados A classificação de dados é
+
+15
+00:00:42,149 --> 00:00:45,279
+um componente crítico na gestão da segurança da informação,
+
+16
+00:00:45,289 --> 00:00:50,259
+desempenhando um papel central na proteção e no controle adequado
+
+17
+00:00:50,270 --> 00:00:52,240
+das informações sensíveis.
+
+18
+00:00:52,250 --> 00:00:56,380
+Esse processo envolve a categorização sistemática dos dados com base
+
+19
+00:00:56,389 --> 00:01:01,700
+em sua importância, sua importância, confidencialidade, integridade
+
+20
+00:01:01,709 --> 00:01:02,759
+e disponibilidade.
+
+21
+00:01:03,250 --> 00:01:06,439
+Vamos explorar mais a fundo a importância e os aspectos
+
+22
+00:01:06,448 --> 00:01:09,058
+chaves da classificação dos dados.
+
+23
+00:01:09,069 --> 00:01:10,599
+Então a gente, a partir do momento que você
+
+24
+00:01:10,609 --> 00:01:13,638
+começa a classificar os dados, você consegue indexar,
+
+25
+00:01:13,650 --> 00:01:17,680
+consegue entender um pouco mais e é fundamental você entender
+
+26
+00:01:17,689 --> 00:01:21,099
+o poder que os dados têm na sociedade de hoje.
+
+27
+00:01:21,109 --> 00:01:24,569
+Tá, A identificação da natureza dos dados é o
+
+28
+00:01:24,579 --> 00:01:28,349
+primeiro passo crucial no processo de classificação, sendo um
+
+29
+00:01:28,359 --> 00:01:31,849
+processo que envolve a compressão profunda do tipo de informação
+
+30
+00:01:31,859 --> 00:01:33,668
+que está sendo manipulada.
+
+31
+00:01:34,198 --> 00:01:39,129
+Cada categoria de dados possui características únicas e demanda considerações
+
+32
+00:01:39,138 --> 00:01:40,790
+específicas de segurança.
+
+33
+00:01:40,799 --> 00:01:45,879
+Então a gente tem diversas características e tipos de dado
+
+34
+00:01:45,888 --> 00:01:51,049
+e cada dado tem a sua necessidade e sua particularidade
+
+35
+00:01:51,058 --> 00:01:53,569
+quando a gente abrange o o o, o tema,
+
+36
+00:01:53,579 --> 00:01:56,650
+segurança, os dados financeiros.
+
+37
+00:01:56,659 --> 00:02:01,290
+Esse tipo de dado inclui informações relacionadasàs transações financeiras,
+
+38
+00:02:01,299 --> 00:02:05,088
+contas bancárias, número de cartões de crédito e outros
+
+39
+00:02:05,099 --> 00:02:10,360
+detalhes sensíveis, né? A manipulação inadequada desses dados
+
+40
+00:02:10,368 --> 00:02:12,659
+pode resultar em fraudes financeiras.
+
+41
+00:02:12,669 --> 00:02:16,360
+Portanto, requer medidas de segurança rigorosas.
+
+42
+00:02:16,368 --> 00:02:18,240
+Quando a gente tá falando de dados financeiros olha só
+
+43
+00:02:18,250 --> 00:02:20,419
+a criticidade, né? A gente tá falando de
+
+44
+00:02:20,429 --> 00:02:22,800
+eh, eh informações de cartões de crédito, de
+
+45
+00:02:22,808 --> 00:02:26,419
+contas, bancárias, senhas E isso é muito,
+
+46
+00:02:26,493 --> 00:02:30,264
+muito, muito sensível porque está envolvendo ali.
+
+47
+00:02:30,274 --> 00:02:37,183
+Dinheiro eh situações riscos financeiros, Então a sensibilidade desses
+
+48
+00:02:37,194 --> 00:02:39,485
+dados é gigantesca.
+
+49
+00:02:39,493 --> 00:02:43,145
+Então cuidado o investimento que é feito para proteger dados
+
+50
+00:02:43,153 --> 00:02:45,125
+financeiros é muito forte.
+
+51
+00:02:46,058 --> 00:02:51,429
+Dados pessoais Informações pessoais abrangem dados, informações pessoais.
+
+52
+00:02:51,439 --> 00:02:55,990
+Abrange dados identificados de indevidos como nomes, endereços,
+
+53
+00:02:56,000 --> 00:03:00,429
+número de CPF, data de nascimento, informações biométricas.
+
+54
+00:03:00,439 --> 00:03:04,028
+A proteção desses dados é essencial para cumprir regulamentações de
+
+55
+00:03:04,038 --> 00:03:07,868
+privacidade e prevenir o uso indevido, voltando, por
+
+56
+00:03:07,879 --> 00:03:09,308
+exemplo, a lei, a nossa lei aqui no
+
+57
+00:03:09,319 --> 00:03:11,469
+Brasil, aqui, a lei de proteção de dados,
+
+58
+00:03:11,479 --> 00:03:15,750
+né? É uma lei que que veio pra poder
+
+59
+00:03:15,758 --> 00:03:21,830
+proteger esses nossos dados pessoais, tá propriedade intelectual?
+
+60
+00:03:21,838 --> 00:03:27,868
+Dados relacionadosà propriedade intelectual abrange patentes, segredos comerciais,
+
+61
+00:03:27,879 --> 00:03:33,129
+designers exclusivos e outros ativos de propriedade intelectual.
+
+62
+00:03:33,139 --> 00:03:36,409
+A perda ou o comprometimento desses dados pode ter vá,
+
+63
+00:03:36,419 --> 00:03:41,618
+pode ter sérias implicações para competitividade e inovação de organização.
+
+64
+00:03:41,629 --> 00:03:46,699
+Então, dados de saúde, informações de saúde inclui
+
+65
+00:03:46,710 --> 00:03:50,758
+dados médicos, históricos de tratamento, registros de saúde
+
+66
+00:03:50,770 --> 00:03:52,719
+mental, entre outros.
+
+67
+00:03:52,729 --> 00:03:55,719
+A proteção adequada desses dados é vital para garantir a
+
+68
+00:03:55,729 --> 00:03:59,960
+privacidade dos pacientes e cumprir regulamentações de saúde.
+
+69
+00:03:59,969 --> 00:04:01,909
+Então, como tem uma lei lá nos Estados Unidos
+
+70
+00:04:01,919 --> 00:04:05,210
+que essa e nos Estados Unidos, que ela é
+
+71
+00:04:05,219 --> 00:04:07,508
+a lei que protege, é como se fosse a
+
+72
+00:04:07,520 --> 00:04:09,550
+lei, expressão de dados do Brasil aqui, Mas
+
+73
+00:04:09,558 --> 00:04:12,990
+ela é voltada, vinculada, né, direcionada para
+
+74
+00:04:13,000 --> 00:04:17,980
+proteger os dados dos pacientes, dados do R h
+
+75
+00:04:17,988 --> 00:04:19,569
+e de recursos humanos.
+
+76
+00:04:19,579 --> 00:04:24,629
+Essa cate categoria engloba informações sobre salários sobre funcionários,
+
+77
+00:04:24,639 --> 00:04:27,509
+né? Sobre salários, avaliação de desempenho aos P
+
+78
+00:04:27,519 --> 00:04:30,910
+d I s, né dados de contatos, registros
+
+79
+00:04:30,920 --> 00:04:31,928
+de emprego.
+
+80
+00:04:31,939 --> 00:04:35,389
+A segurança desses dados é crucial pra proteger a privacidade
+
+81
+00:04:35,399 --> 00:04:38,269
+dos funcionários e evitar riscos legais.
+
+82
+00:04:38,278 --> 00:04:40,269
+Então, a partir do momento que a empresa protege
+
+83
+00:04:40,278 --> 00:04:43,189
+esses dados, ela evita, né? A probabilidade
+
+84
+00:04:43,199 --> 00:04:47,129
+de ter riscos né? Ações eh providas contra elas
+
+85
+00:04:48,309 --> 00:04:54,100
+dados operacionais, dados operacionais refere-se essas informações críticas para
+
+86
+00:04:54,108 --> 00:04:56,439
+o funcionamento diário de uma organização.
+
+87
+00:04:56,449 --> 00:05:00,639
+Inclui planos de negócio, né? Estratégias de Marte,
+
+88
+00:05:00,649 --> 00:05:05,199
+dados de produção A exposição desses dados pode impactar diretamente
+
+89
+00:05:05,209 --> 00:05:07,519
+a competitividade e a continuidade dos negócios.
+
+90
+00:05:07,528 --> 00:05:09,160
+Então tem, por exemplo, esse quando a gente
+
+91
+00:05:09,170 --> 00:05:10,720
+tá falando desses dados operacionais.
+
+92
+00:05:10,730 --> 00:05:12,480
+Quando a gente olha pra aí plano de negócio ou
+
+93
+00:05:12,488 --> 00:05:16,238
+estratégia de Marte, é fundamental que essas informações estejam
+
+94
+00:05:16,250 --> 00:05:17,639
+protegidas.
+
+95
+00:05:17,649 --> 00:05:19,559
+Tá por que que a pessoa tá protegida, porque
+
+96
+00:05:19,569 --> 00:05:22,600
+isso impacta diretamente no negócio da empresa, quando tem
+
+97
+00:05:22,608 --> 00:05:24,759
+um vazamento de de estratégia de marketing ou de um
+
+98
+00:05:24,769 --> 00:05:28,480
+plano de ação de uma empresa que possa vir futuramente
+
+99
+00:05:28,488 --> 00:05:29,920
+fazer, lançar um produto.
+
+100
+00:05:29,928 --> 00:05:33,298
+E isso afeta o cerne da empresa.
+
+101
+00:05:34,819 --> 00:05:38,850
+Dados sensíveis do governo, organizações que lidam com dados
+
+102
+00:05:38,858 --> 00:05:42,750
+governamentais precisam classificar e proteger essas informações.
+
+103
+00:05:42,759 --> 00:05:46,769
+De acordo com as regulamentações específicas do setor público,
+
+104
+00:05:48,238 --> 00:05:52,209
+a classificação incorreta desses dados pode resultar em viola violações
+
+105
+00:05:52,220 --> 00:05:54,369
+de segurança e consequências legais.
+
+106
+00:05:54,379 --> 00:05:56,670
+Então, a gente precisa entender que o governo tem
+
+107
+00:05:56,678 --> 00:05:59,949
+esses dados sensíveis, muito sensíveis para o governo,
+
+108
+00:06:00,608 --> 00:06:05,970
+outras características específicas, Dependendo do setor e das atividades
+
+109
+00:06:05,980 --> 00:06:11,379
+da organização, podem existir outras categorias específicas de dados
+
+110
+00:06:11,389 --> 00:06:14,579
+a serem identificados, como dados de pesquisas, instituições
+
+111
+00:06:14,588 --> 00:06:17,858
+acadêmicas, dados de clientes e gestores de varejo,
+
+112
+00:06:17,869 --> 00:06:18,238
+entre outros.
+
+113
+00:06:18,309 --> 00:06:21,000
+Ele colocou o exemplo aí da do da questão do
+
+114
+00:06:21,009 --> 00:06:21,220
+va-.
+
+115
+00:06:21,230 --> 00:06:22,939
+EH do acadêmico.
+
+116
+00:06:22,949 --> 00:06:25,939
+Então existe aquelas informações do dos alunos, né?
+
+117
+00:06:25,949 --> 00:06:28,488
+Eh Notas histórico escolar.
+
+118
+00:06:28,500 --> 00:06:31,480
+Então esses são os dados também bem sensíveis que precisam
+
+119
+00:06:31,488 --> 00:06:33,000
+ser protegidos pelas organizações.
+
+120
+00:06:33,009 --> 00:06:38,048
+Aí, nesse caso das organizações acadêmicas, a identificação
+
+121
+00:06:38,059 --> 00:06:41,588
+precisa da natureza dos dados, não apenas orienta a
+
+122
+00:06:41,600 --> 00:06:45,869
+classificação, mas também influencia diretamente as decisões sobre os
+
+123
+00:06:45,879 --> 00:06:50,189
+controles de segurança a serem implementados.
+
+124
+00:06:50,199 --> 00:06:54,548
+Compreender os diferentes tipos de dados permite que as organizações
+
+125
+00:06:54,559 --> 00:06:59,670
+personalize suas abordagens de segurança, garantindo que cada categoria
+
+126
+00:06:59,678 --> 00:07:05,189
+seja tratada de maneira apropriada para mitigar riscos associados a
+
+127
+00:07:05,199 --> 00:07:05,809
+ela.
+
+128
+00:07:06,369 --> 00:07:09,608
+Quando a gente tá falando de de de de dados,
+
+129
+00:07:09,619 --> 00:07:12,178
+concorda comigo que um dado bancário é diferente de um
+
+130
+00:07:12,189 --> 00:07:14,809
+dado pessoal que é diferente dum dado do R h.
+
+131
+00:07:14,819 --> 00:07:18,670
+Então até o investimento pra cuidar desses dados é é
+
+132
+00:07:18,678 --> 00:07:21,189
+diferente, a gente não é, não é qualquer
+
+133
+00:07:21,199 --> 00:07:23,988
+tipo de de de de de não é qualquer tipo
+
+134
+00:07:24,000 --> 00:07:26,509
+de informação, não é qualquer tipo de dado.
+
+135
+00:07:26,519 --> 00:07:28,750
+Ele tem que ser tratado de forma igual, todo
+
+136
+00:07:28,759 --> 00:07:30,949
+mundo da mesma forma, todo mundo da mesma,
+
+137
+00:07:30,959 --> 00:07:32,119
+com a mesma característica, não.
+
+138
+00:07:32,129 --> 00:07:36,798
+Você precisa entender que da entender, classificar aquele dado
+
+139
+00:07:36,809 --> 00:07:38,910
+e, a partir daquela classificação, você vai conseguir
+
+140
+00:07:38,920 --> 00:07:41,709
+entender qual é a legislação, qual é a norma
+
+141
+00:07:41,720 --> 00:07:43,178
+específica pra aquele dado.
+
+142
+00:07:43,189 --> 00:07:45,790
+A partir disso, você consegue determinar o nível de
+
+143
+00:07:45,798 --> 00:07:46,449
+segurança.
+
+144
+00:07:46,459 --> 00:07:50,108
+Foi a gente falou, dados de paciente tem uma
+
+145
+00:07:50,119 --> 00:07:53,269
+determinação, existe uma norma pra ela, dados pessoais
+
+146
+00:07:53,278 --> 00:07:55,069
+Tem a nossa lei de produção de dados.
+
+147
+00:07:55,079 --> 00:07:58,350
+Sistemas bancários tem as próprias normas e sistemas bancários,
+
+148
+00:07:58,358 --> 00:08:02,470
+então cada dado classificado tem o seu nível de segurança
+
+149
+00:08:02,480 --> 00:08:05,213
+adequado, Não existe um padrão para isso.
+
+150
+00:08:05,225 --> 00:08:08,934
+Então, a gente então primeiro ponto classificar os dados,
+
+151
+00:08:08,944 --> 00:08:11,855
+entender os dados e a partir daí você vai conseguir
+
+152
+00:08:11,863 --> 00:08:13,994
+escolher a melhor forma.
+
+153
+00:08:14,004 --> 00:08:16,334
+Eh, né? A a característica adequada para garantir
+
+154
+00:08:16,345 --> 00:08:18,855
+a segurança dessas informações Tá bom.
+
+155
+00:08:18,863 --> 00:08:21,314
+Muito obrigado e te beijo na próxima hora!
+

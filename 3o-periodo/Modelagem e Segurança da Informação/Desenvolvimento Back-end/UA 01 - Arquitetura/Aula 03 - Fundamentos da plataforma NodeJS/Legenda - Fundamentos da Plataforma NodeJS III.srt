@@ -1,0 +1,780 @@
+1
+00:00:06,690 --> 00:00:09,409
+Olá, vamos falar um pouquinho sobre a arquitetura geral
+
+2
+00:00:09,419 --> 00:00:13,659
+do JA, né? É uma plataforma bem interessante.
+
+3
+00:00:13,669 --> 00:00:16,500
+Bem rápida, né? Eh Ela é construída em
+
+4
+00:00:16,510 --> 00:00:19,019
+cima, bibliotecas de linguagem C e ela segue um
+
+5
+00:00:19,030 --> 00:00:20,458
+modelo de único.
+
+6
+00:00:20,469 --> 00:00:22,059
+Ah, eu só tenho uma não.
+
+7
+00:00:22,068 --> 00:00:24,280
+Ela tem uma que gerencia outras.
+
+8
+00:00:24,629 --> 00:00:26,728
+Mas é claro que esse modelo é chamado de hã.
+
+9
+00:00:26,739 --> 00:00:30,760
+Ou seja, tem uma principal que gerencia todo o
+
+10
+00:00:30,769 --> 00:00:34,270
+ambiente E aí você tem de pra não ficar distanciando
+
+11
+00:00:34,279 --> 00:00:36,520
+toda hora ou você deixa as num pa e ele
+
+12
+00:00:36,529 --> 00:00:39,158
+vai usando a o desse paul aquela que for mais
+
+13
+00:00:39,168 --> 00:00:41,098
+útil a cada momento vamos ver como é que funciona
+
+14
+00:00:43,319 --> 00:00:45,548
+então a relatora geral do JS.
+
+15
+00:00:47,399 --> 00:00:50,609
+Ele se baseia na Biblioteca Bil V, sem mais
+
+16
+00:00:50,618 --> 00:00:54,090
+mais essa biblioteca é o que permite o comportamento a
+
+17
+00:00:54,098 --> 00:00:56,189
+sí crono no modelo.
+
+18
+00:00:56,200 --> 00:00:58,770
+Traded, né? Ou seja, é um modelo
+
+19
+00:00:58,779 --> 00:01:00,329
+que trabalha com eventos.
+
+20
+00:01:00,340 --> 00:01:03,649
+Esses eventos vão sendo lançados e vão sendo tratados por
+
+21
+00:01:03,658 --> 00:01:05,010
+essa principal.
+
+22
+00:01:05,019 --> 00:01:08,239
+Então, assim, a função dessa dessa trad,
+
+23
+00:01:08,250 --> 00:01:11,760
+a principal, é escolher quem vai executar, né?
+
+24
+00:01:11,769 --> 00:01:14,198
+Então, aonde vai executar? Quem vai executar?
+
+25
+00:01:14,209 --> 00:01:16,120
+E eu vou assistir execuções que são SC e as
+
+26
+00:01:16,129 --> 00:01:20,540
+síndromes, né? Então ele vai eh definir vai
+
+27
+00:01:20,549 --> 00:01:24,799
+delegar para do Paul aquilo que elas precisam fazer,
+
+28
+00:01:24,808 --> 00:01:28,500
+né? Mas tudo passa por essa principal Eh é
+
+29
+00:01:28,510 --> 00:01:31,799
+um e soquetes a sí Cronos, né? E
+
+30
+00:01:31,808 --> 00:01:34,418
+o soquete aqui no caso ele pode ser um soquete
+
+31
+00:01:34,430 --> 00:01:37,219
+de software, né? Sistema interno ou pode ser
+
+32
+00:01:37,230 --> 00:01:40,379
+um soquete de eh internet, né? Seria um
+
+33
+00:01:40,388 --> 00:01:44,088
+SOC eh através da web soquete Na verdade pode ser
+
+34
+00:01:44,099 --> 00:01:47,250
+então assim uma conexão interna dentro do próprio aplicativo.
+
+35
+00:01:47,260 --> 00:01:49,668
+Os sistemas e únicos em geral usam muito soquete pra
+
+36
+00:01:49,680 --> 00:01:52,168
+isso né O Android, por exemplo, que é
+
+37
+00:01:52,180 --> 00:01:55,730
+baseado no Linux, ele trabalha com soquete diretamente,
+
+38
+00:01:55,739 --> 00:01:58,409
+né? Todo o modelo dele é baseado em soquete
+
+39
+00:01:58,418 --> 00:02:02,329
+na comunicação que seria da comunicação entre processos tá eh,
+
+40
+00:02:02,338 --> 00:02:07,650
+então aqui eu trabalho com e Socrates a síndromes né?
+
+41
+00:02:07,659 --> 00:02:10,729
+Eh Chrome v oito que é do ema Script Weber
+
+42
+00:02:10,740 --> 00:02:13,569
+é se esse crome v oito foi a biblioteca de
+
+43
+00:02:13,580 --> 00:02:16,710
+interpretação do Java script do cro né, e uma
+
+44
+00:02:16,719 --> 00:02:18,250
+coisa interessante dele é a tal da web.
+
+45
+00:02:18,258 --> 00:02:22,879
+A sar que ele consegue compactar consegue eh asser como
+
+46
+00:02:22,889 --> 00:02:25,969
+que eles chamam faz uma eh versão eh que seria
+
+47
+00:02:25,979 --> 00:02:28,889
+codificado pra você poder executar de forma mais rápida,
+
+48
+00:02:28,899 --> 00:02:31,808
+né? Então ele vai empacotar aquilo web se eh,
+
+49
+00:02:31,819 --> 00:02:35,520
+ele usa o EMAp, que é o e eh
+
+50
+00:02:35,528 --> 00:02:38,580
+modelo de único, né? Que chama de trade
+
+51
+00:02:39,250 --> 00:02:42,618
+eh sistema de eventos, tá trabalha com eventos essa,
+
+52
+00:02:42,629 --> 00:02:46,338
+né? Esse vai ficar eh recuperando e injetando eventos
+
+53
+00:02:46,349 --> 00:02:49,449
+ao longo de sua execução e trabalha com os comandos
+
+54
+00:02:49,460 --> 00:02:51,889
+n PM e n p x.
+
+55
+00:02:51,899 --> 00:02:54,250
+O n PM se refere aos módulos.
+
+56
+00:02:54,258 --> 00:02:57,129
+Se eh seria para a instalação de uma biblioteca,
+
+57
+00:02:57,139 --> 00:03:00,129
+seria alguma coisa que vai mudar o Jason, né?
+
+58
+00:03:00,139 --> 00:03:04,569
+O n p x é executar alguma coisa usando os
+
+59
+00:03:04,580 --> 00:03:08,808
+módulos instalados que o X é de e né?
+
+60
+00:03:08,819 --> 00:03:13,308
+Bom, como é que é o desenho dessa arquitetura,
+
+61
+00:03:13,319 --> 00:03:16,808
+né? Eh? De um lado eu tenho lá
+
+62
+00:03:16,819 --> 00:03:21,469
+uma aplicação que eu programei lá no no JS que
+
+63
+00:03:21,479 --> 00:03:24,808
+vai usar a script a v oito, que seria
+
+64
+00:03:24,819 --> 00:03:26,149
+a minha engine de script.
+
+65
+00:03:26,808 --> 00:03:29,338
+Eu tenho lá os né, Que seria a p
+
+66
+00:03:29,349 --> 00:03:32,330
+i do no JS que fala com o sistema operacional
+
+67
+00:03:32,338 --> 00:03:34,849
+e tal? E fala com a libio u V
+
+68
+00:03:34,860 --> 00:03:37,729
+através do evento Loop, né? Então o que
+
+69
+00:03:37,740 --> 00:03:40,330
+acontece? Eu tenho vários eventos, né? Abertura,
+
+70
+00:03:40,338 --> 00:03:44,569
+leitura de dados, fechamento de conexão cada situação pode
+
+71
+00:03:44,580 --> 00:03:45,550
+ter um evento qualquer.
+
+72
+00:03:46,300 --> 00:03:48,949
+Isso aí entra numa fila de eventos o evento?
+
+73
+00:03:48,960 --> 00:03:51,270
+Snoop, Ele vai ficar passando de tempos em tempos
+
+74
+00:03:51,278 --> 00:03:54,649
+ali, lê o evento e inicia a associada.
+
+75
+00:03:55,250 --> 00:03:58,300
+Então, assim você os seus, vários programas vão
+
+76
+00:03:58,308 --> 00:03:58,939
+jogando ali.
+
+77
+00:03:58,949 --> 00:04:01,969
+Os eventos tá é uma fila.
+
+78
+00:04:01,979 --> 00:04:03,699
+Quem entra primeiro tem prioridade.
+
+79
+00:04:03,710 --> 00:04:07,099
+Então você vai recebendo eventos ali de vários programas desse
+
+80
+00:04:07,110 --> 00:04:09,580
+servidor aí na audiência, né? EH, e
+
+81
+00:04:09,588 --> 00:04:14,460
+aí o que acontece? Essa essa vai passar pelo
+
+82
+00:04:14,469 --> 00:04:18,100
+evento e vai consumir aquele evento.
+
+83
+00:04:18,108 --> 00:04:23,170
+Ao consumir o evento ele vai iniciar uma que ela
+
+84
+00:04:23,178 --> 00:04:24,689
+pode ter finalidades diferentes.
+
+85
+00:04:24,699 --> 00:04:25,629
+Isso aqui é um.
+
+86
+00:04:25,639 --> 00:04:27,528
+Ele não fica distanciando toda hora.
+
+87
+00:04:27,540 --> 00:04:32,928
+Ao final da execução dessa, ele retorna a uma
+
+88
+00:04:32,939 --> 00:04:35,449
+cabe, né? Ou seja é um processamento ací.
+
+89
+00:04:35,459 --> 00:04:40,129
+Crono executa quando acabar executa uma cabe seria uma função
+
+90
+00:04:40,139 --> 00:04:43,088
+de resposta que que é isso uma função que fica
+
+91
+00:04:43,100 --> 00:04:45,809
+ali de boca aberta esperando acabar a execução pra ela
+
+92
+00:04:45,819 --> 00:04:50,459
+começar a executar Tá Quem controla todo esse ciclo é
+
+93
+00:04:50,470 --> 00:04:53,439
+o evento loop, né? Seria a minha sin
+
+94
+00:04:53,449 --> 00:04:58,009
+trade seria o cara que fica gerenciando quem vai executar
+
+95
+00:04:58,019 --> 00:05:01,319
+quem foi chamado e fica dando as respostas, né
+
+96
+00:05:01,329 --> 00:05:06,689
+Bom, vai, Então eu tenho um comportamento a
+
+97
+00:05:06,699 --> 00:05:09,920
+sí crono no g s! Naturalmente a sí crono
+
+98
+00:05:09,928 --> 00:05:13,548
+tá várias funções de Kel Beck, né Cê acabou
+
+99
+00:05:13,559 --> 00:05:14,019
+de executar.
+
+100
+00:05:14,028 --> 00:05:15,399
+Ele vai executar uma cabe.
+
+101
+00:05:15,410 --> 00:05:18,600
+Então cê tem a a trad acaba de executar acabando
+
+102
+00:05:18,608 --> 00:05:19,088
+de executar.
+
+103
+00:05:19,100 --> 00:05:21,319
+Vai mandar resposta pra alguém que vai executar como uma
+
+104
+00:05:21,329 --> 00:05:24,949
+Kel Back Tá cabe! É função de resposta.
+
+105
+00:05:24,959 --> 00:05:26,869
+É a função que vai esperar um dado chegar pra
+
+106
+00:05:26,879 --> 00:05:31,119
+poder trabalhar ele pra execução de o, ao invés
+
+107
+00:05:31,129 --> 00:05:33,720
+de ficar instancia toda hora eles fazem o quê?
+
+108
+00:05:33,730 --> 00:05:37,790
+Então aquelas satisfazem? Há várias requisições pra de determinados
+
+109
+00:05:37,798 --> 00:05:38,269
+meios.
+
+110
+00:05:38,278 --> 00:05:41,108
+Eu posso ter algumas pra h t p outras pra
+
+111
+00:05:41,119 --> 00:05:44,238
+então eu tenho ali eh de acordo com a minha
+
+112
+00:05:44,250 --> 00:05:46,129
+necessidade, eu tenho uma ali.
+
+113
+00:05:46,139 --> 00:05:49,670
+Já prepara pra poder executar de forma mais rápida,
+
+114
+00:05:49,678 --> 00:05:52,309
+tá E quem controla o uso, como sempre,
+
+115
+00:05:52,319 --> 00:05:54,170
+é o nosso modelo de eventos.
+
+116
+00:05:54,569 --> 00:05:55,738
+Tá o evento loop.
+
+117
+00:05:55,750 --> 00:05:59,899
+Ele é o responsável por gerenciar toda essa eh essa
+
+118
+00:05:59,910 --> 00:06:02,939
+bagunça que cê acaba acontecendo no node, né?
+
+119
+00:06:02,949 --> 00:06:05,649
+Por quê? Porque você tem de um lado requisições
+
+120
+00:06:05,660 --> 00:06:08,399
+de evento do outro lado, executando quando executa,
+
+121
+00:06:08,410 --> 00:06:10,579
+cabe, vai lá pra dentro daquelas requisições de quem
+
+122
+00:06:10,588 --> 00:06:11,230
+tem que executar.
+
+123
+00:06:11,238 --> 00:06:14,000
+Também então tem uma série de filas e pilhas que
+
+124
+00:06:14,009 --> 00:06:16,939
+são usadas, mas quem gerencia todo o maestro dessa
+
+125
+00:06:16,949 --> 00:06:19,079
+coisa? toda é o evento Loop, né?
+
+126
+00:06:19,449 --> 00:06:23,259
+Exemplos de eventos comuns data, e o data é
+
+127
+00:06:23,269 --> 00:06:25,819
+quando tem um tempo assim, algum dado disponível e
+
+128
+00:06:25,829 --> 00:06:29,259
+o é quando você fecha uma conexão por exemplo,
+
+129
+00:06:29,269 --> 00:06:33,678
+né Bom aqui eu tenho, por exemplo, uma
+
+130
+00:06:34,358 --> 00:06:37,048
+uma forma de trabalhar com esses caras, né?
+
+131
+00:06:37,059 --> 00:06:39,988
+Eu tenho ali eh h t p recuaria h t,
+
+132
+00:06:40,000 --> 00:06:42,619
+P h t P já é padrão, né?
+
+133
+00:06:42,629 --> 00:06:46,329
+E eu posso eh, seria uma biblioteca que já
+
+134
+00:06:46,338 --> 00:06:47,088
+vem no G S.
+
+135
+00:06:47,100 --> 00:06:48,889
+Ela não precisa ser instalada com a n PM.
+
+136
+00:06:48,899 --> 00:06:52,269
+Tá? Mas eu posso usar um código como esse
+
+137
+00:06:52,278 --> 00:06:55,088
+pra exibir uma página, né? Quando que a
+
+138
+00:06:55,100 --> 00:06:57,488
+página vai ser exibida, não sei, eu vou
+
+139
+00:06:57,500 --> 00:06:57,850
+pegar.
+
+140
+00:06:57,858 --> 00:07:00,309
+Vou chamar o endereço em algum momento que a informação
+
+141
+00:07:00,319 --> 00:07:01,009
+vai chegar.
+
+142
+00:07:01,019 --> 00:07:03,088
+Se você usar o crescimento sí crono, o seu
+
+143
+00:07:03,100 --> 00:07:04,069
+sistema vai ficar parado.
+
+144
+00:07:04,500 --> 00:07:07,069
+Não vai fazer mais nada até aquela página chegar.
+
+145
+00:07:07,079 --> 00:07:09,189
+Se você usa a síndrome, que é, inclusive
+
+146
+00:07:09,199 --> 00:07:12,548
+a base do Ajax, né? Eh! Você
+
+147
+00:07:12,559 --> 00:07:17,528
+vai pegar e vai conseguir Eh fazer outras coisas enquanto
+
+148
+00:07:17,540 --> 00:07:19,528
+a informação não chega E quando ela chegar, o
+
+149
+00:07:19,540 --> 00:07:22,028
+que que eu faço? Eu vou tratar na Cobec,
+
+150
+00:07:22,040 --> 00:07:25,608
+Então ele vai chamar uma U R L e depois
+
+151
+00:07:25,619 --> 00:07:29,250
+eh que essa u r l chegar, eu vou
+
+152
+00:07:29,259 --> 00:07:32,689
+chamar a cobec pra tratar isso, né? Então
+
+153
+00:07:32,699 --> 00:07:43,858
+aqui eu poderia ter algo assim né const recue h
+
+154
+00:07:43,869 --> 00:07:48,869
+T t P h t t, p ponto got
+
+155
+00:07:49,759 --> 00:07:52,509
+a u r l né, h, T t
+
+156
+00:07:52,519 --> 00:08:03,459
+P S h T t p padrão Achei que ele
+
+157
+00:08:03,470 --> 00:08:07,048
+fosse exigir SD PS dois pontos barra barra WWW ponto
+
+158
+00:08:07,059 --> 00:08:14,730
+google ponto com Site do Google vai receber esses dados
+
+159
+00:08:14,738 --> 00:08:19,778
+em algum momento Quando receber faz o quê console ponto
+
+160
+00:08:19,790 --> 00:08:24,250
+log dados simplesmente eu vou colocar a saída direta,
+
+161
+00:08:24,259 --> 00:08:27,488
+né? Poderia colocar ali um uma outra informação de
+
+162
+00:08:27,500 --> 00:08:31,088
+de outra forma que a requisição completa né? Então
+
+163
+00:08:31,100 --> 00:08:34,070
+assim aqui eu estaria chamando e eu não sei quando
+
+164
+00:08:34,080 --> 00:08:35,989
+vai chegar a resposta, mas quando chegar eu quero
+
+165
+00:08:36,000 --> 00:08:37,308
+que execute isso.
+
+166
+00:08:37,320 --> 00:08:39,629
+Isso é uma cabe, né? E é baseado
+
+167
+00:08:39,639 --> 00:08:42,590
+no sistema de eventos? Tá, se eu chamar
+
+168
+00:08:42,599 --> 00:08:48,149
+esse cara aqui, ele foi lá e retornou a
+
+169
+00:08:48,158 --> 00:08:52,849
+resposta do Google, todas as informações que ele veio
+
+170
+00:08:52,859 --> 00:08:55,899
+inclusive se foi algum erro de conexão, Tá então.
+
+171
+00:08:55,908 --> 00:08:57,298
+Assim eh.
+
+172
+00:08:57,308 --> 00:08:58,658
+Esse é o sistema de cabe.
+
+173
+00:08:58,668 --> 00:09:02,019
+Você inicia a execução de álcool, Aí tem aquela
+
+174
+00:09:02,029 --> 00:09:04,519
+coisa da você tem toda aquela coisa quando vai executar,
+
+175
+00:09:04,529 --> 00:09:06,279
+você não sabe quando vai acabar, de executar?
+
+176
+00:09:06,288 --> 00:09:08,259
+Nós não sabe, mas quando acabar de executar,
+
+177
+00:09:08,269 --> 00:09:09,019
+você quer que a cabe.
+
+178
+00:09:09,029 --> 00:09:10,019
+Cuide daquilo.
+
+179
+00:09:10,029 --> 00:09:13,349
+Então ele vai até o servidor pega a informação,
+
+180
+00:09:13,359 --> 00:09:15,950
+A informação chegou, tem a resposta, ele vai
+
+181
+00:09:15,960 --> 00:09:18,599
+ali, aí a cabeca executa e faz alguma coisa
+
+182
+00:09:18,609 --> 00:09:21,908
+nesse caso estaria só mandando no console as informações,
+
+183
+00:09:21,918 --> 00:09:32,830
+né? Bom, então essas são as características gerais
+
+184
+00:09:32,840 --> 00:09:36,029
+do G S, né? Uma plataforma bem interessante
+
+185
+00:09:36,038 --> 00:09:36,090
+eh.
+
+186
+00:09:36,099 --> 00:09:38,168
+É legal a gente saber como é que ela funciona
+
+187
+00:09:38,178 --> 00:09:40,450
+por dentro pra saber como é que tira proveito disso,
+
+188
+00:09:40,460 --> 00:09:42,288
+né? Ah,à medida que você vai se
+
+189
+00:09:42,298 --> 00:09:45,570
+aprofundando no estudo do G, você vai compreendendo melhor
+
+190
+00:09:45,580 --> 00:09:50,330
+essa característica sincronia e como isso aí pode impactar a
+
+191
+00:09:50,340 --> 00:09:53,099
+forma como você programa a forma como você trabalha.
+
+192
+00:09:53,109 --> 00:09:55,849
+Como é que se pode impactar a definição no sistema?
+
+193
+00:09:55,859 --> 00:09:57,369
+A gente fica, então por aqui.
+
+194
+00:09:57,379 --> 00:10:00,320
+Espero ter agregado conhecimento, bons estudos e até a
+
+195
+00:10:00,330 --> 00:10:00,700
+próxima
+

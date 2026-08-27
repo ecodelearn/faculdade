@@ -1,0 +1,848 @@
+1
+00:00:06,559 --> 00:00:09,689
+Olá, meu nome é Michel, Nós vamos continuar
+
+2
+00:00:09,698 --> 00:00:10,609
+aprendendo.
+
+3
+00:00:10,618 --> 00:00:17,129
+Modelagem de processo, A gente eh, vai observar
+
+4
+00:00:17,138 --> 00:00:21,010
+nesta aula, né? Começando uma parte introdutória do
+
+5
+00:00:21,019 --> 00:00:26,129
+que é, a modelagem de processo eh que tanto
+
+6
+00:00:26,138 --> 00:00:29,629
+utilizamos na nas nossas organizações mesmo.
+
+7
+00:00:29,638 --> 00:00:32,090
+Até sem perceber, né? Isso é bem importante
+
+8
+00:00:32,098 --> 00:00:33,168
+e relevante a gente falar.
+
+9
+00:00:33,179 --> 00:00:35,539
+Muitas vezes a gente faz alguma coisa da organização,
+
+10
+00:00:35,548 --> 00:00:38,250
+mas não associa que aquilo que a gente tá fazendo
+
+11
+00:00:38,259 --> 00:00:39,569
+tem um é um É um processo.
+
+12
+00:00:39,579 --> 00:00:42,520
+Na verdade, né? Segue um um um caminho,
+
+13
+00:00:42,529 --> 00:00:44,250
+né? Tem um início, tem um meio e
+
+14
+00:00:44,259 --> 00:00:47,314
+tem um fim, Então hoje nós vamos trabalhar com
+
+15
+00:00:47,325 --> 00:00:47,954
+a perspectiva.
+
+16
+00:00:47,965 --> 00:00:52,134
+Perspectiva de modelagem de processo, fazendo uma parte introdutória
+
+17
+00:00:52,145 --> 00:00:55,033
+eh desse assunto, né? Então primeira coisa é
+
+18
+00:00:55,043 --> 00:00:59,094
+que a modelagem de processo é uma estratégia que é
+
+19
+00:00:59,103 --> 00:01:04,114
+voltada pra otimização de operações okay voltada pra otimização de
+
+20
+00:01:04,125 --> 00:01:04,635
+operação.
+
+21
+00:01:04,644 --> 00:01:07,513
+Ou seja, eu estou fazendo um processo para operação,
+
+22
+00:01:07,525 --> 00:01:12,778
+né que vai garantir que aquela operação aconteça com início
+
+23
+00:01:12,790 --> 00:01:17,019
+com meio com fim Okay estratégia porque eu vou planejar
+
+24
+00:01:17,028 --> 00:01:18,558
+ela, porque eu vou definir ela.
+
+25
+00:01:18,569 --> 00:01:20,739
+Porque eu vou trabalhar com ela, né? E
+
+26
+00:01:20,750 --> 00:01:24,760
+aí ela envolve o quê Essa análise detalhada, então
+
+27
+00:01:24,769 --> 00:01:30,088
+eu não posso omitir nada do processo, então,
+
+28
+00:01:30,099 --> 00:01:31,849
+por isso, análise detalhada.
+
+29
+00:01:31,859 --> 00:01:35,010
+Ah, eu tenho que entender muito bem como esse
+
+30
+00:01:35,019 --> 00:01:38,409
+processo funciona, até pra garantir que ele aconteça de
+
+31
+00:01:38,418 --> 00:01:40,790
+forma eficiente, eficaz.
+
+32
+00:01:40,799 --> 00:01:43,930
+Ou seja, que ele atenda eh, vamos dizer
+
+33
+00:01:43,939 --> 00:01:47,808
+tenha uma excelência Okay, Ele também tem a parte
+
+34
+00:01:47,819 --> 00:01:48,959
+de documentação.
+
+35
+00:01:48,969 --> 00:01:52,849
+Então o processo eh é a modelagem de processo propor
+
+36
+00:01:52,859 --> 00:01:55,969
+propõe essa documentação, né? Que é que é
+
+37
+00:01:55,980 --> 00:01:59,430
+justamente essa formalização do processo.
+
+38
+00:01:59,760 --> 00:02:02,168
+E ela se dá por meio de uma representação gráfica
+
+39
+00:02:02,180 --> 00:02:07,049
+dos processos de negócio que muitas vezes facilitada por tecnologias
+
+40
+00:02:07,058 --> 00:02:07,609
+avançadas.
+
+41
+00:02:07,620 --> 00:02:11,788
+Então ela pode ser apoiada por tecnologias, né?
+
+42
+00:02:11,800 --> 00:02:16,849
+Avançadas? E e podemos usar claro, métodos e
+
+43
+00:02:16,860 --> 00:02:20,508
+softwares para garantir? Eh essa modalidade de processos,
+
+44
+00:02:20,520 --> 00:02:23,288
+né? Então nós temos aí ferra métodos pra isso
+
+45
+00:02:23,300 --> 00:02:27,449
+b p MB PM s, né eh, soa,
+
+46
+00:02:27,460 --> 00:02:32,278
+e tantos outros temos eh tecnologias ou softwares que nos
+
+47
+00:02:32,288 --> 00:02:35,460
+apoiam dentro dessas que estão dentro dessas metodologias.
+
+48
+00:02:35,469 --> 00:02:39,580
+Eh a b i Ah! A parte do BSA
+
+49
+00:02:39,588 --> 00:02:43,750
+eh eh Oracle! Enfim, uma série de outros
+
+50
+00:02:43,758 --> 00:02:47,254
+softwares que propõe a modelagem de processo.
+
+51
+00:02:47,264 --> 00:02:51,294
+E aí é claro que essa modelagem vai garantir exatamente
+
+52
+00:02:51,304 --> 00:02:54,274
+eh o que a gente eh, quer entregar pra
+
+53
+00:02:54,284 --> 00:02:57,413
+organização, que é um processo eh otimizado, que
+
+54
+00:02:57,425 --> 00:03:01,133
+é um processo que ele foi detalhado, eh,
+
+55
+00:03:01,145 --> 00:03:04,335
+eh na no no, no no e que pode
+
+56
+00:03:04,344 --> 00:03:09,153
+ser cumprido, pode ser utilizado pelas pessoas, ele
+
+57
+00:03:09,163 --> 00:03:11,335
+é entendido pelas pessoas.
+
+58
+00:03:11,344 --> 00:03:16,689
+Isso por meio de uma documentação formalizada por meio de
+
+59
+00:03:16,699 --> 00:03:21,008
+uma de uma de um modelo gráfico que permitiu enxergar
+
+60
+00:03:21,020 --> 00:03:21,990
+isso tudo Okay.
+
+61
+00:03:22,000 --> 00:03:26,389
+Então essa é a característica desse dessa modelagem de processo.
+
+62
+00:03:26,399 --> 00:03:29,469
+Um primeiro entendimento da modelagem de processo, né?
+
+63
+00:03:29,479 --> 00:03:32,528
+A modelagem de processo a gente conhece, como b.
+
+64
+00:03:32,538 --> 00:03:35,629
+PM, que é o processo de planejamento, né?
+
+65
+00:03:35,639 --> 00:03:39,569
+Ou seja é a parte de gerenciamento de processos de
+
+66
+00:03:39,580 --> 00:03:40,149
+negócio.
+
+67
+00:03:40,479 --> 00:03:46,368
+Okay Então essa essa prática? Esse B PM eh
+
+68
+00:03:46,379 --> 00:03:50,210
+ele tem esse poder de transformar de auto automatizar a
+
+69
+00:03:50,219 --> 00:03:54,969
+as atividades empresariais, né? Transformar óbvio, buscando
+
+70
+00:03:54,979 --> 00:03:58,050
+eficiência, buscando eficácia, buscando qualidade, buscando melhoria
+
+71
+00:03:58,058 --> 00:04:00,409
+contínua e tantos outros pressupostos.
+
+72
+00:04:00,419 --> 00:04:03,868
+A questão da auto de auto automatizar atividades empresariais,
+
+73
+00:04:03,879 --> 00:04:04,490
+por exemplo.
+
+74
+00:04:04,500 --> 00:04:07,889
+A gente tem vários várias perspectivas que podem ser,
+
+75
+00:04:07,899 --> 00:04:10,439
+eh eh, formatadas, por meio de processos bem
+
+76
+00:04:10,449 --> 00:04:11,008
+definidos.
+
+77
+00:04:11,020 --> 00:04:14,129
+Por exemplo, a assinatura de um contrato, né?
+
+78
+00:04:14,139 --> 00:04:16,338
+Um contrato entre entre partes.
+
+79
+00:04:16,350 --> 00:04:17,379
+Eu não preciso imprimir.
+
+80
+00:04:17,389 --> 00:04:18,519
+Não preciso gerar duas cópias.
+
+81
+00:04:18,528 --> 00:04:21,278
+Eu não preciso ir ao cartório, eu posso criar
+
+82
+00:04:21,290 --> 00:04:24,879
+um processo em que eu tenho assinatura digital.
+
+83
+00:04:24,889 --> 00:04:28,199
+Certificação digital, né? Eu tenho processos.
+
+84
+00:04:28,209 --> 00:04:30,298
+Por exemplo, automatiza atividades.
+
+85
+00:04:30,309 --> 00:04:35,278
+Eh de ah vendas de compra, né? Automaticamente?
+
+86
+00:04:35,290 --> 00:04:37,000
+Por exemplo o meu o meu sist.
+
+87
+00:04:37,009 --> 00:04:40,439
+Eu rodo uma rotina de processo em que ele observa
+
+88
+00:04:40,449 --> 00:04:41,238
+o meu estoque.
+
+89
+00:04:41,250 --> 00:04:45,238
+Meu estoque tá abaixo do esperado em conformidade com o
+
+90
+00:04:45,250 --> 00:04:47,959
+parâmetro que que eu defini, né? Meu estoque
+
+91
+00:04:47,970 --> 00:04:50,119
+tá abaixo do Eu precisava de cem peças.
+
+92
+00:04:50,129 --> 00:04:53,238
+Aliás, eu tenho lá quando meu estoque atingir,
+
+93
+00:04:53,250 --> 00:04:55,678
+por exemplo, cem peças automaticamente o meu sistema vai
+
+94
+00:04:55,689 --> 00:04:57,759
+lá, eh, entra em contato com o meu
+
+95
+00:04:57,769 --> 00:05:01,329
+fornecedor, solicita uma cotação, recebe essa cotação.
+
+96
+00:05:01,338 --> 00:05:03,230
+Pra mim, isso tudo pode ser automatizado por meio
+
+97
+00:05:03,238 --> 00:05:06,350
+desse processo, né? Pode ser feito um po
+
+98
+00:05:06,358 --> 00:05:09,119
+pode ter um, um processo eh que vai usar
+
+99
+00:05:09,129 --> 00:05:12,759
+todo um processo eh sistêmico, de de de sistema
+
+100
+00:05:12,769 --> 00:05:16,738
+mesmo de software automatizado ou um processo que vai combinar
+
+101
+00:05:16,750 --> 00:05:19,269
+essa automatização com uma intervenção humana.
+
+102
+00:05:19,278 --> 00:05:22,269
+Enfim, tem várias formas de se trabalhar e o
+
+103
+00:05:22,278 --> 00:05:24,850
+b PM, ou essa gestão de processo né?
+
+104
+00:05:24,858 --> 00:05:29,389
+Eh no nos permite automatizar e transformar a minha atividade.
+
+105
+00:05:29,399 --> 00:05:32,488
+Eh o EH empresarial, né? Isso é muito
+
+106
+00:05:32,500 --> 00:05:36,809
+importante para a melhoria da eficiência e ficará sem a
+
+107
+00:05:36,819 --> 00:05:40,244
+entrega de e agregação de valor das organizações.
+
+108
+00:05:40,254 --> 00:05:45,134
+Temos também que o modelo de processo aí já definido
+
+109
+00:05:45,144 --> 00:05:47,684
+pelo Devin Port, que é um modelo de processo,
+
+110
+00:05:47,694 --> 00:05:51,363
+é uma representação abstrata das atividades e fluxo de informação
+
+111
+00:05:51,375 --> 00:05:54,689
+em uma organização eh abstrata, porque ela é uma
+
+112
+00:05:54,699 --> 00:05:57,470
+representação, né? Ela se dá por meio de
+
+113
+00:05:57,480 --> 00:05:58,129
+um desenho.
+
+114
+00:05:58,139 --> 00:05:59,889
+Ela se dá por meio de um, de uma,
+
+115
+00:05:59,899 --> 00:06:02,269
+de um gráfico, de um fluxo em que eu
+
+116
+00:06:02,278 --> 00:06:05,670
+consigo entender o o, o, como é o
+
+117
+00:06:05,678 --> 00:06:11,350
+desenrolar desta desta atividade dentro da minha organização e como
+
+118
+00:06:11,358 --> 00:06:16,108
+ela, se as demais atividades da minha empresa como
+
+119
+00:06:16,119 --> 00:06:18,980
+elas, se como elas interagem entre si, então
+
+120
+00:06:18,988 --> 00:06:21,980
+a gente fala de abstrato, porque eu consigo ver
+
+121
+00:06:21,988 --> 00:06:26,850
+por meio de um modelo, fazendo simulações o acontecimento,
+
+122
+00:06:26,858 --> 00:06:29,858
+ou como vai acontecer aquilo dentro da minha empresa,
+
+123
+00:06:29,869 --> 00:06:32,209
+né? Então, essa é uma eh, eh,
+
+124
+00:06:32,220 --> 00:06:36,540
+eh, Essa é uma perspectiva maravilhosa em relação ao
+
+125
+00:06:36,548 --> 00:06:37,608
+que pressupõe.
+
+126
+00:06:37,619 --> 00:06:40,949
+Eh, eh o processo, né? O modelo
+
+127
+00:06:40,959 --> 00:06:42,910
+de processo, então olha só ele E o que
+
+128
+00:06:42,920 --> 00:06:45,230
+que ele mostra nessa visão abstrata que a gente acabou
+
+129
+00:06:45,238 --> 00:06:48,149
+de falar? Olha uma rota de uma uma rota
+
+130
+00:06:48,160 --> 00:06:51,009
+de forma mais completa e precisa.
+
+131
+00:06:51,019 --> 00:06:54,329
+O que que ela mostra a a situação atual,
+
+132
+00:06:55,028 --> 00:06:58,040
+né? Ela descreve a situação atual do trânsito a
+
+133
+00:06:58,048 --> 00:07:00,449
+rota de transporte público, o clima da região,
+
+134
+00:07:00,459 --> 00:07:02,559
+da ro-, o clima na região da rota,
+
+135
+00:07:02,569 --> 00:07:04,230
+além de fotos de avenida.
+
+136
+00:07:04,238 --> 00:07:05,850
+Então, se eu olhar eh, é isso que
+
+137
+00:07:05,858 --> 00:07:09,079
+eu acabei de falar nesse nesse emaranhado que tá aí,
+
+138
+00:07:09,088 --> 00:07:12,488
+né Então, vamos supor que eu tenho uma.
+
+139
+00:07:12,500 --> 00:07:15,399
+Vou olhar um um um um um, um modelo
+
+140
+00:07:15,410 --> 00:07:18,290
+de pro, de de de processo que vai checar,
+
+141
+00:07:18,298 --> 00:07:21,139
+por exemplo, uma rota que eu vou tomar no
+
+142
+00:07:21,149 --> 00:07:23,290
+no no meu caminho pro trabalho.
+
+143
+00:07:23,298 --> 00:07:27,970
+Então eu consigo, né? Entender este esse processo
+
+144
+00:07:27,980 --> 00:07:30,569
+esse modelo de processo ele me apresenta.
+
+145
+00:07:30,579 --> 00:07:33,278
+Não só a rota, mas ele me me comple.
+
+146
+00:07:33,290 --> 00:07:36,230
+Me me permite não só enxergar aonde eu estou e
+
+147
+00:07:36,238 --> 00:07:39,470
+pra onde eu vou, mas também agregando valor a
+
+148
+00:07:39,480 --> 00:07:40,369
+essa informação.
+
+149
+00:07:40,379 --> 00:07:44,410
+Qual seja o trânsito engarrafado, né? Eu tenho
+
+150
+00:07:44,420 --> 00:07:46,829
+transporte público pra usar, eu tenho.
+
+151
+00:07:46,838 --> 00:07:48,428
+Ah, o clima eh qual é o clima na
+
+152
+00:07:48,439 --> 00:07:51,470
+região dessa rota, né? Tá vai chover eh,
+
+153
+00:07:51,480 --> 00:07:55,569
+eh, tem eh, sei lá enche, eh
+
+154
+00:07:55,579 --> 00:07:59,588
+possibilidade de de de eh muito sol, eh qua
+
+155
+00:07:59,600 --> 00:08:01,980
+eu te posso ter a foto da avenida onde eu
+
+156
+00:08:01,988 --> 00:08:04,509
+vou trafegar? EH como é que é a forma
+
+157
+00:08:04,519 --> 00:08:05,048
+dela.
+
+158
+00:08:05,059 --> 00:08:08,069
+Enfim olha tão entendendo a brincadeira é muito bacana,
+
+159
+00:08:08,079 --> 00:08:10,350
+né? Olha só eu tenho um modelo de de
+
+160
+00:08:10,358 --> 00:08:12,329
+de de processo! Se eu aplicar isso a um
+
+161
+00:08:12,338 --> 00:08:16,720
+determinado processo, que é eh eh chegar a um
+
+162
+00:08:16,730 --> 00:08:20,028
+destino por meio de um um um de um de
+
+163
+00:08:20,040 --> 00:08:22,379
+um eh chegar ao destino por meio de um mapa,
+
+164
+00:08:22,389 --> 00:08:24,720
+né? De de, de de de trânsito Eu
+
+165
+00:08:24,730 --> 00:08:28,230
+consigo olhar para isso e entender que isso é um
+
+166
+00:08:28,238 --> 00:08:29,048
+processo.
+
+167
+00:08:29,059 --> 00:08:34,029
+E consigo usar isso de forma a atender aquela aquela
+
+168
+00:08:34,038 --> 00:08:36,428
+A aquele meu desejo do meu cliente, né?
+
+169
+00:08:36,440 --> 00:08:38,308
+E a gente tem várias ferramentas hoje que fazem isso
+
+170
+00:08:38,320 --> 00:08:40,509
+maravilhosamente bem, né? Antigamente a gente tinha que
+
+171
+00:08:40,519 --> 00:08:42,149
+pegar o mapa na mão lá e ficar.
+
+172
+00:08:42,158 --> 00:08:45,369
+Folha Hoje o celular já nos permite ver em tempo
+
+173
+00:08:45,379 --> 00:08:47,509
+real, onde eu estou, onde eu tô indo
+
+174
+00:08:47,519 --> 00:08:49,308
+deslocamento? Se tem trânsito, não tem trânsito,
+
+175
+00:08:49,320 --> 00:08:49,788
+tem batida.
+
+176
+00:08:49,798 --> 00:08:50,379
+Se não tem batido.
+
+177
+00:08:50,389 --> 00:08:51,950
+Enfim, o que quer que seja.
+
+178
+00:08:51,960 --> 00:08:53,629
+Tá bom aqui.
+
+179
+00:08:53,639 --> 00:08:55,229
+Nós temos, aqui um um, um, um
+
+180
+00:08:55,239 --> 00:08:58,349
+exemplo, um modelo de um processo, né,
+
+181
+00:08:58,359 --> 00:09:01,629
+que foi desenhado numa ferramenta chamada Bge, né?
+
+182
+00:09:01,639 --> 00:09:04,710
+E aqui é um processo que chama-se processo de venda
+
+183
+00:09:04,719 --> 00:09:05,469
+de veículos.
+
+184
+00:09:05,479 --> 00:09:07,349
+Isso aqui é um processo de venda de veículos aqui?
+
+185
+00:09:07,359 --> 00:09:09,288
+Tá, Não óbvio que isso aqui não representa a
+
+186
+00:09:09,298 --> 00:09:09,808
+verdade.
+
+187
+00:09:09,820 --> 00:09:12,529
+É um processo, né? Pode ser melhorado,
+
+188
+00:09:12,538 --> 00:09:14,450
+vai depender da organização, pode ser que o processo
+
+189
+00:09:14,460 --> 00:09:16,408
+de venda seja diferente, mas ele envolve aqui.
+
+190
+00:09:16,418 --> 00:09:18,928
+Oh, que o cliente vai entrar na loja que
+
+191
+00:09:18,940 --> 00:09:21,830
+eu vou apresentar o veículo, né? Que eh
+
+192
+00:09:21,840 --> 00:09:24,168
+se eu eh ele pode entrar na loja, eu
+
+193
+00:09:24,178 --> 00:09:25,609
+apresento o veículo, mas ele não quer comprar,
+
+194
+00:09:25,619 --> 00:09:27,389
+Então ele já encerra aqui o processo.
+
+195
+00:09:27,399 --> 00:09:28,668
+Ah, não, ele quer comprar.
+
+196
+00:09:28,678 --> 00:09:31,259
+Então eu vou cadastrar o cliente aí oh, essa
+
+197
+00:09:31,269 --> 00:09:33,178
+ca-, esse cadastro do cliente Oh, interage com
+
+198
+00:09:33,190 --> 00:09:37,219
+esse com o cliente, né? Olha só quando
+
+199
+00:09:37,229 --> 00:09:39,599
+eu aí eu vou emitir a proposta de venda Oh
+
+200
+00:09:39,609 --> 00:09:42,298
+tudo aqui, oh proposta de venda é um documento
+
+201
+00:09:42,308 --> 00:09:43,519
+aqui eu tenho um documento.
+
+202
+00:09:43,529 --> 00:09:46,190
+Aí eu vou fazer aqui liberar o crédito? Vou
+
+203
+00:09:46,200 --> 00:09:47,259
+verificar no Serasa.
+
+204
+00:09:47,269 --> 00:09:49,139
+Vou verificar no banco Isso é um processo.
+
+205
+00:09:49,149 --> 00:09:50,279
+E o final do processo é o quê? Oh,
+
+206
+00:09:50,288 --> 00:09:54,178
+a compra realizada é entregar o automóvel pro cara.
+
+207
+00:09:54,190 --> 00:09:55,399
+E depois eu finalizo a compra.
+
+208
+00:09:55,408 --> 00:09:57,058
+Esse é um processo, né.
+
+209
+00:09:57,070 --> 00:09:59,639
+Que a gente vai detalhar ao longo da nossa caminhada,
+
+210
+00:09:59,869 --> 00:10:03,399
+né? Então eh, esse é a primeira que
+
+211
+00:10:03,408 --> 00:10:04,940
+a gente vai ter em relação ao processo.
+
+212
+00:10:04,950 --> 00:10:06,500
+Te aguardo nas próximas aulas
+

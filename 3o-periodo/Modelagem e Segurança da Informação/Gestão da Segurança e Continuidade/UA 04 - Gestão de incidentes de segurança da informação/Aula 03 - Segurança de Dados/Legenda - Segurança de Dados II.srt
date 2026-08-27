@@ -1,0 +1,584 @@
+1
+00:00:06,500 --> 00:00:09,679
+continuando nosso curso, né? Nossa disciplina de segurança,
+
+2
+00:00:09,689 --> 00:00:13,409
+da informação e continuidade, falamos de da classificação aos
+
+3
+00:00:13,419 --> 00:00:16,850
+dados, a importância de classificar os dados pra entender
+
+4
+00:00:16,859 --> 00:00:20,708
+a melhor solução de segurança apropriada para aquela pra aquele
+
+5
+00:00:20,719 --> 00:00:21,298
+dado.
+
+6
+00:00:21,309 --> 00:00:24,228
+E agora a gente vai falar sobre modelos de segurança,
+
+7
+00:00:24,239 --> 00:00:26,589
+um modelo de segurança que é a questão do método
+
+8
+00:00:26,600 --> 00:00:29,629
+de criptografia, como o que que é grafia,
+
+9
+00:00:29,638 --> 00:00:31,408
+como que são esses métodos? Então a gente vai
+
+10
+00:00:31,420 --> 00:00:32,509
+falar um pouco sobre isso.
+
+11
+00:00:32,520 --> 00:00:38,118
+Tá bom método de criptografia a história da criptografia remota
+
+12
+00:00:38,130 --> 00:00:42,478
+de milhares de anos e está entrelaçada com o desenvolvimento
+
+13
+00:00:42,490 --> 00:00:45,918
+da comunicação, os avanços tecnológicos e a necessidade de
+
+14
+00:00:45,929 --> 00:00:48,098
+proteção de informações sensíveis.
+
+15
+00:00:48,109 --> 00:00:52,819
+A criptografia desempenha um papel crucial na segurança da informação,
+
+16
+00:00:52,829 --> 00:00:57,200
+fornecendo um meio eficaz de proteger a confi fidelidade e
+
+17
+00:00:57,209 --> 00:00:58,658
+a integridade dos dados.
+
+18
+00:00:59,259 --> 00:01:03,990
+Existem diversas técnicas de de criptografia que são aplicadas em
+
+19
+00:01:04,000 --> 00:01:08,189
+divers diferentes contextos, como dados em repousos e dados
+
+20
+00:01:08,198 --> 00:01:08,948
+em trânsito.
+
+21
+00:01:08,959 --> 00:01:12,150
+A criptografia gente, é de milhares e milhares e
+
+22
+00:01:12,159 --> 00:01:14,150
+milhares de anos, desde os egípcios.
+
+23
+00:01:14,159 --> 00:01:17,790
+Enfim, é uma coisa muito remota, sempre o
+
+24
+00:01:17,799 --> 00:01:21,668
+ser humano, né? Teve essa necessidade de ocultar
+
+25
+00:01:21,680 --> 00:01:27,698
+as informações que são passadas de dados em repouso.
+
+26
+00:01:27,709 --> 00:01:32,338
+É uma medida essencial para proteger informações armazenadas em diversos
+
+27
+00:01:32,349 --> 00:01:38,260
+meios desses dispositivos físicos, como laptops smartphone, até
+
+28
+00:01:38,269 --> 00:01:42,180
+servidores, banco de dados e ambiente de armazenamento em
+
+29
+00:01:42,189 --> 00:01:42,579
+nuvem.
+
+30
+00:01:42,588 --> 00:01:46,260
+A aplicação dessa técnica tem como objetivo principal permitir o
+
+31
+00:01:46,269 --> 00:01:46,808
+acesso.
+
+32
+00:01:46,819 --> 00:01:51,519
+Não permitir eh o acesso não autorizado a dados sensíveis,
+
+33
+00:01:51,528 --> 00:01:54,579
+né? Caso um dispositivo seja perdido, roubado ou
+
+34
+00:01:54,588 --> 00:01:57,879
+acessado indevidamente, quando a gente fala em dados em
+
+35
+00:01:57,888 --> 00:01:59,198
+repouso eh o próprio nome.
+
+36
+00:01:59,209 --> 00:02:02,079
+Já tá bem claro isso são os dados armazenados.
+
+37
+00:02:02,088 --> 00:02:04,159
+Não são aqueles dados que tão que a gente vai
+
+38
+00:02:04,168 --> 00:02:07,099
+ver agora em trânsito, que tão trafegando na internet
+
+39
+00:02:07,109 --> 00:02:09,139
+são dados que estão no seu celular, né?
+
+40
+00:02:09,149 --> 00:02:11,479
+No seu servidor, tão ali em repouso.
+
+41
+00:02:11,490 --> 00:02:13,879
+Então, a gente tem que existe técnicas e maneiras
+
+42
+00:02:13,889 --> 00:02:16,740
+de guardar criptografar aqueles dados.
+
+43
+00:02:18,610 --> 00:02:23,979
+Cada dispositivo eh seja fisicamente pronto, caso um dispositivo
+
+44
+00:02:23,990 --> 00:02:26,159
+seja fisicamente comprometido.
+
+45
+00:02:26,169 --> 00:02:30,778
+A grafia garante que os dados armazenados permaneçam ilegíveis sem
+
+46
+00:02:30,788 --> 00:02:32,360
+a chave adequada.
+
+47
+00:02:32,368 --> 00:02:37,300
+Isso reduz significativamente o risco associadoà perda ou roubo
+
+48
+00:02:37,308 --> 00:02:41,419
+de dispositivos a pro, proporcionando uma camada adicional de
+
+49
+00:02:41,429 --> 00:02:42,118
+proteção.
+
+50
+00:02:43,868 --> 00:02:46,479
+À medida que os dados são armazenados em ambientes de
+
+51
+00:02:46,490 --> 00:02:49,960
+nuvens, a criptografia de dados em repouso torna-se,
+
+52
+00:02:49,969 --> 00:02:54,479
+ainda mais crucial provedor de serviços em nuvem, frequentemente
+
+53
+00:02:54,490 --> 00:02:58,159
+oferece opções de criptografia para garantir que os dados permaneçam
+
+54
+00:02:58,169 --> 00:03:02,099
+seguros, mesmo quando armazenado em servidores remotos.
+
+55
+00:03:03,159 --> 00:03:06,330
+A criptografia também é aplicada em processo de custódia e
+
+56
+00:03:06,338 --> 00:03:08,469
+banco e de dados.
+
+57
+00:03:09,508 --> 00:03:14,199
+Garantir que cópias de segurança estejam igualmente protegidas é fundamental
+
+58
+00:03:14,210 --> 00:03:18,278
+para evitar a exposição de dados sensíveis mesmo em situações
+
+59
+00:03:18,288 --> 00:03:19,860
+de recuperação de desastres.
+
+60
+00:03:21,038 --> 00:03:23,649
+Já aí aquela outra tipo de biografia a gente falou
+
+61
+00:03:23,659 --> 00:03:25,929
+da remota, né? Os dados, os dados
+
+62
+00:03:25,939 --> 00:03:27,538
+R repouso, Agora a gente vai falar.
+
+63
+00:03:27,550 --> 00:03:29,909
+São aqueles dados em trânsito.
+
+64
+00:03:29,919 --> 00:03:34,050
+Já a criptografia de dados em trânsito é essencial pra
+
+65
+00:03:34,058 --> 00:03:37,588
+proteger informações durante a transição, né? Pela rede,
+
+66
+00:03:38,379 --> 00:03:41,008
+seja ela em redes locais ou pela internet.
+
+67
+00:03:41,750 --> 00:03:45,360
+Essa forma de criptografia visa garantir que, mesmo em
+
+68
+00:03:45,368 --> 00:03:49,080
+em, né, eh se interceptados por terceiros maliciosos,
+
+69
+00:03:49,088 --> 00:03:51,419
+os dados permaneçam ilegíveis.
+
+70
+00:03:53,278 --> 00:03:57,649
+A criptografia é fundamental para para a segurança em transação
+
+71
+00:03:57,659 --> 00:04:01,770
+online, como compras serviços bancários pela internet.
+
+72
+00:04:01,778 --> 00:04:06,129
+Protocolos como o SSL e T L são amplamente utilizados
+
+73
+00:04:06,139 --> 00:04:10,250
+para criar conexões seguras entre navegadores e servidores web.
+
+74
+00:04:10,258 --> 00:04:14,028
+Proteger informações sensíveis durante a transmissão.
+
+75
+00:04:14,500 --> 00:04:21,629
+Protocolo de criptografia como eh a cri internet email eh
+
+76
+00:04:21,639 --> 00:04:24,670
+stations e a aí A P GP, né?
+
+77
+00:04:24,678 --> 00:04:29,230
+Que é good priva são usados pra proteger comunicações por
+
+78
+00:04:29,238 --> 00:04:29,850
+e-mail.
+
+79
+00:04:29,858 --> 00:04:32,869
+Isso impede que os e-mails sejam lidos por terceiros durante
+
+80
+00:04:32,879 --> 00:04:34,290
+a sua transmissão.
+
+81
+00:04:36,230 --> 00:04:41,160
+Acto A criptografia é empregada em comunicações entre navegadores e
+
+82
+00:04:41,170 --> 00:04:45,278
+aplicativos baseados em web para garantir que os dados eh
+
+83
+00:04:45,290 --> 00:04:47,759
+como credencias.
+
+84
+00:04:48,088 --> 00:04:51,338
+Informações pessoais permanecem seguros durante toda a sua transmissão.
+
+85
+00:04:52,488 --> 00:04:54,178
+As v PM que a gente já falou tá que
+
+86
+00:04:54,189 --> 00:04:56,259
+é virtual Private Network.
+
+87
+00:04:56,269 --> 00:05:00,019
+São as redes privadas, né? Utilizam criptografia pra
+
+88
+00:05:00,028 --> 00:05:04,660
+criar túneis seguros através dos quais os dados são transmitidos
+
+89
+00:05:04,670 --> 00:05:05,540
+pela internet.
+
+90
+00:05:05,548 --> 00:05:09,500
+Isso é particularmente importante pra proteger a privacidade e a
+
+91
+00:05:09,509 --> 00:05:13,319
+segurança dos dados quando se acessa a rede pública,
+
+92
+00:05:13,329 --> 00:05:15,579
+né, como wi-fi em locais públicos quando cê tá
+
+93
+00:05:15,588 --> 00:05:17,920
+aí acessando a G é muito importante.
+
+94
+00:05:18,480 --> 00:05:21,809
+Quando você está não está dentro da sua, da
+
+95
+00:05:21,819 --> 00:05:24,290
+da sua empresa, você tá acessando uma, wi-fi
+
+96
+00:05:24,298 --> 00:05:25,629
+uma rede pública.
+
+97
+00:05:25,639 --> 00:05:28,209
+Elas eh só te obriga você a usar uma VPN
+
+98
+00:05:28,220 --> 00:05:31,329
+pra você criar um túnel seguro pra ir Assim aten
+
+99
+00:05:31,338 --> 00:05:36,069
+adentrar dentro da rede da sua companhia durante a transmissão
+
+100
+00:05:36,079 --> 00:05:36,689
+de dados.
+
+101
+00:05:36,699 --> 00:05:40,738
+Chaves de sessões são frequentemente utilizadas para garantir a segurança
+
+102
+00:05:40,750 --> 00:05:41,720
+da comunicação.
+
+103
+00:05:41,730 --> 00:05:48,069
+Essas chaves são geradas dinamicamente e são validadas válidas apenas
+
+104
+00:05:48,079 --> 00:05:50,750
+para para durante essa né? Específicas da sessão.
+
+105
+00:05:50,759 --> 00:05:54,428
+Então são chaves que são criadas dinamicamente e a validade
+
+106
+00:05:54,439 --> 00:05:57,108
+dela é só pra aquela sessão, então fechou aquela
+
+107
+00:05:57,119 --> 00:05:59,608
+sessão são, tem que ser criadas novas chaves.
+
+108
+00:05:59,619 --> 00:06:01,389
+Então, quando a gente tá falando de criptografia,
+
+109
+00:06:01,399 --> 00:06:05,079
+segurança sobre os dados, é fundamental entender isso.
+
+110
+00:06:05,088 --> 00:06:07,720
+Então a gente tem dois tipos de criptografia, né?
+
+111
+00:06:07,730 --> 00:06:09,399
+Que a gente tá falando de dados que é os
+
+112
+00:06:09,410 --> 00:06:12,649
+dados de de trânsito que é aquele dado de tráfico?
+
+113
+00:06:12,660 --> 00:06:15,079
+Aonde você tá quando você passa o cartão de crédito
+
+114
+00:06:15,088 --> 00:06:17,869
+numa compra eco ou quando você tá acessando o seu
+
+115
+00:06:17,879 --> 00:06:20,519
+banco online ali, cê tá traficando os dados?
+
+116
+00:06:20,528 --> 00:06:22,769
+Então é tráfico, eh dados em tráfico ali.
+
+117
+00:06:22,778 --> 00:06:26,028
+A gente tem que garantir que aqueles dados eh,
+
+118
+00:06:26,040 --> 00:06:30,358
+sejam criptografados e ninguém né? Com com atos maliciosos,
+
+119
+00:06:30,369 --> 00:06:32,199
+consigam acessar essas informações.
+
+120
+00:06:32,209 --> 00:06:34,970
+E também tem os dados de repouso, que são
+
+121
+00:06:34,980 --> 00:06:37,160
+os dados que estão armazenados na sua máquina no seu
+
+122
+00:06:37,170 --> 00:06:40,250
+servidor, no seu celular que também precisam ter criptografia.
+
+123
+00:06:40,259 --> 00:06:42,798
+Então, se alguém acessar, se alguém roubar esse
+
+124
+00:06:42,809 --> 00:06:46,238
+seu celular ou o seu desktop o seu laptop,
+
+125
+00:06:46,250 --> 00:06:48,399
+ele não vai conseguir ter acesso a esses dados porque
+
+126
+00:06:48,410 --> 00:06:51,600
+eles estão quedos então de forma precisa de chave de
+
+127
+00:06:51,608 --> 00:06:53,149
+segurança pra proteger.
+
+128
+00:06:53,160 --> 00:06:57,278
+Então essa é uma forma muito fundamental para garantir a
+
+129
+00:06:57,290 --> 00:07:01,519
+transmissão ou a garantir a confiabilidade dos seus dados.
+
+130
+00:07:01,528 --> 00:07:03,920
+Então, pra você entender o que é, né
+
+131
+00:07:03,928 --> 00:07:07,420
+CRIPTOGRAFIA, como funciona e qual a sua necessidade?
+
+132
+00:07:07,428 --> 00:07:09,238
+Então isso é fundamental.
+
+133
+00:07:09,250 --> 00:07:13,838
+Entenda como funciona a questão da criptografia são em relação
+
+134
+00:07:13,850 --> 00:07:16,959
+a dados em repousos ou dados em trânsito.
+
+135
+00:07:16,970 --> 00:07:19,160
+Isso é um conceito que você já aprendeu hoje,
+
+136
+00:07:19,170 --> 00:07:21,379
+que você pode começar a pensar nisso.
+
+137
+00:07:21,389 --> 00:07:24,759
+Poxa, a parte eu tô usando aqui eh eh!
+
+138
+00:07:24,769 --> 00:07:26,939
+Tô acessando o meu banco que dado é isso É
+
+139
+00:07:26,949 --> 00:07:28,899
+um dado repouso ou um dado em trânsito.
+
+140
+00:07:28,910 --> 00:07:30,540
+É um dado em trânsito? Poxa, eu tenho
+
+141
+00:07:30,548 --> 00:07:34,379
+aqui um documento é armazenado no meu servidor.
+
+142
+00:07:34,389 --> 00:07:36,899
+Isso é um dado em repouso e todos esses dados
+
+143
+00:07:36,910 --> 00:07:40,819
+tem processos e tecnologias de ferramentas que contribuem com a
+
+144
+00:07:40,829 --> 00:07:43,459
+Crito de cada um, né? Então é fundamental
+
+145
+00:07:43,470 --> 00:07:46,420
+entender isso tá bom, muito obrigado e te encontro
+
+146
+00:07:46,428 --> 00:07:47,238
+na próxima aula.
+

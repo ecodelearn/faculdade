@@ -1,0 +1,648 @@
+1
+00:00:06,530 --> 00:00:09,778
+continuando falando da nossa política de segurança da informação,
+
+2
+00:00:09,788 --> 00:00:12,019
+tá ele, esse documento é tão importante que tem
+
+3
+00:00:12,028 --> 00:00:14,868
+uma unidade falando dele de de dentro, dessa nossa
+
+4
+00:00:14,880 --> 00:00:16,739
+disciplina, esse documento é muito importante.
+
+5
+00:00:16,750 --> 00:00:18,978
+Então a gente precisa entender cada vez mais.
+
+6
+00:00:18,989 --> 00:00:20,620
+E quando a gente tá falando dele ele é um
+
+7
+00:00:20,629 --> 00:00:22,458
+documento formal dentro da organização.
+
+8
+00:00:22,469 --> 00:00:24,199
+Esse é o primeiro ponto que você precisa entender.
+
+9
+00:00:24,208 --> 00:00:26,670
+É um documento formal dentro da organização e que a
+
+10
+00:00:26,679 --> 00:00:27,989
+gente quer ir direto ao ponto, né? Vamos
+
+11
+00:00:28,000 --> 00:00:30,318
+direto ao ponto, além da definição do que é
+
+12
+00:00:30,329 --> 00:00:32,149
+um um, um psic, que é um de
+
+13
+00:00:32,158 --> 00:00:35,590
+novo, hein? Plano de segurança e de informação
+
+14
+00:00:35,598 --> 00:00:37,750
+e comunicação, né? O plano não desculpa é
+
+15
+00:00:37,759 --> 00:00:41,798
+uma política política de segurança da informação e comunicação.
+
+16
+00:00:41,810 --> 00:00:46,270
+É necessário estabelecer que é formado esse alicerce tá destacando
+
+17
+00:00:46,279 --> 00:00:48,630
+seu status como um documento.
+
+18
+00:00:48,639 --> 00:00:53,310
+Documento oficial tá bom e a forma e é formalmente
+
+19
+00:00:53,319 --> 00:00:54,908
+estabelecido na organização.
+
+20
+00:00:54,918 --> 00:00:56,389
+Então, a gente precisa que esse documento seja um
+
+21
+00:00:56,399 --> 00:01:02,130
+documento formal e formalmente conhecido e estabelecido dentro da organização.
+
+22
+00:01:02,450 --> 00:01:05,719
+A aprovação da auto organização é um passo crítico,
+
+23
+00:01:05,730 --> 00:01:08,730
+precisamos alunos.
+
+24
+00:01:08,739 --> 00:01:16,058
+Precisamos que a alta direção esteja totalmente envolvida nesse plano
+
+25
+00:01:16,069 --> 00:01:17,028
+de comunicação.
+
+26
+00:01:17,040 --> 00:01:19,629
+Tá bom, é um passo crítico, assegurando que
+
+27
+00:01:19,638 --> 00:01:23,629
+a posse que seja reconhecida e respeitada por todos os
+
+28
+00:01:23,638 --> 00:01:26,709
+membros da equipe, incluindo os líderes da organização em
+
+29
+00:01:26,719 --> 00:01:31,109
+questão, sem o patrocínio tá bom sem a A,
+
+30
+00:01:31,120 --> 00:01:34,469
+A, A, a aprovação da alta direção É
+
+31
+00:01:34,480 --> 00:01:39,558
+impossível a gente ter esse documento permeando por toda a
+
+32
+00:01:39,569 --> 00:01:40,260
+organização.
+
+33
+00:01:40,269 --> 00:01:43,519
+É impossível a gente ter esse esse documento, essa
+
+34
+00:01:43,528 --> 00:01:48,665
+política sendo respeita por todos por toda a gestão da
+
+35
+00:01:48,674 --> 00:01:51,775
+da auto organização se da da organização.
+
+36
+00:01:51,784 --> 00:01:55,704
+Se a alta administração tá se os diretores executivos,
+
+37
+00:01:55,713 --> 00:01:59,944
+se o presidente dessa organização não apoiar essa política,
+
+38
+00:01:59,954 --> 00:02:03,504
+então o apoio da alta direção para essa política é
+
+39
+00:02:03,513 --> 00:02:08,625
+fundamental para o sucesso da implementação da disciplina de segurança
+
+40
+00:02:08,633 --> 00:02:13,133
+da informação dentro de qualquer organização, princípios, regras
+
+41
+00:02:13,145 --> 00:02:14,004
+e diretrizes.
+
+42
+00:02:14,629 --> 00:02:19,838
+A PSI fornece diretrizes gerais que descreve como as informações
+
+43
+00:02:19,849 --> 00:02:24,819
+devem ser tratadas, protegidas e utilizadas na organização.
+
+44
+00:02:24,830 --> 00:02:28,199
+Então esse documento ele vai ter as diretrizes, como
+
+45
+00:02:28,210 --> 00:02:30,979
+as informações da sua empresa, da empresa.
+
+46
+00:02:30,990 --> 00:02:37,139
+Quando você trabalha precisam ser protegidas, tratadas, protegidas
+
+47
+00:02:37,149 --> 00:02:38,058
+e utilizadas.
+
+48
+00:02:38,639 --> 00:02:44,409
+O comitê responsável pela produção deste documento deve regulamentar vários
+
+49
+00:02:44,419 --> 00:02:48,879
+aspectos da segurança da informação de acordo com as necessidades
+
+50
+00:02:48,889 --> 00:02:49,729
+da organização.
+
+51
+00:02:49,740 --> 00:02:51,969
+Cada organização nós tem a sua necessidade.
+
+52
+00:02:51,979 --> 00:02:54,969
+Quando a gente tá falando de organização do agronegócio,
+
+53
+00:02:54,979 --> 00:02:57,849
+tem as suas necessidades com a gente.
+
+54
+00:02:57,860 --> 00:03:01,149
+Nós estamos falando de instituições financeiras, tem as suas
+
+55
+00:03:01,159 --> 00:03:05,990
+necessidades bem específicas, empresas de tecnologias, outras necessidades.
+
+56
+00:03:06,000 --> 00:03:10,050
+Então, não podemos ter a mesma política de formação
+
+57
+00:03:10,058 --> 00:03:12,649
+para qualquer tipo de empresa, ela vai depender do
+
+58
+00:03:12,659 --> 00:03:16,028
+ramo e das necessidades específicas de cada organização.
+
+59
+00:03:17,439 --> 00:03:24,008
+Essa regulamentação é feita com definição de políticas, normas
+
+60
+00:03:24,020 --> 00:03:26,868
+e processos a seres implementado.
+
+61
+00:03:26,879 --> 00:03:28,330
+Então, a gente, nós vamos ver, nós
+
+62
+00:03:28,338 --> 00:03:31,179
+vamos ter a nossa política, né? A nossa
+
+63
+00:03:31,189 --> 00:03:34,879
+política de de de formação e com isso nós vamos
+
+64
+00:03:34,889 --> 00:03:38,129
+ter a política, ela vai derivar outros documentos,
+
+65
+00:03:38,139 --> 00:03:39,830
+vamos derivar as normas.
+
+66
+00:03:39,838 --> 00:03:41,969
+Nós vamos derivar os processos.
+
+67
+00:03:41,979 --> 00:03:47,419
+Nós vamos de outros documentos que vão ser resultados desse
+
+68
+00:03:47,429 --> 00:03:49,250
+documento que é a política da informação.
+
+69
+00:03:49,258 --> 00:03:52,449
+Tá bom C.
+
+70
+00:03:53,659 --> 00:03:56,050
+Continue dando continuidade, eh.
+
+71
+00:03:56,058 --> 00:03:59,710
+Confira abaixo a lista das prioridades, segundo né?
+
+72
+00:03:59,719 --> 00:04:02,990
+Uma po a gente, a gente, colocamos essa
+
+73
+00:04:03,000 --> 00:04:06,669
+política aqui do Instituto Nacional do Câncer como um exemplo
+
+74
+00:04:06,679 --> 00:04:10,649
+tá e eles colocaram esses esses essa lista de prioridades
+
+75
+00:04:10,659 --> 00:04:13,788
+dentro dentro da sua organização, dentro daquele exemplo desse
+
+76
+00:04:13,800 --> 00:04:15,770
+Que que nós pegamos aqui, Eles colocaram assim oh,
+
+77
+00:04:15,778 --> 00:04:18,790
+que que eles priorizaram lá a classificação tá e o
+
+78
+00:04:18,798 --> 00:04:21,949
+tratamento da informação, o tratamento de incidentes de segurança
+
+79
+00:04:21,959 --> 00:04:22,670
+da informação.
+
+80
+00:04:22,678 --> 00:04:25,829
+Então, além de classificar e tratar a informação,
+
+81
+00:04:25,838 --> 00:04:27,588
+eles também estão tratando.
+
+82
+00:04:27,600 --> 00:04:30,028
+Quais são os tipos de acidentes? Isso é fundamental
+
+83
+00:04:30,040 --> 00:04:33,079
+até você ter uma base de erros conhecidos, dissidentes
+
+84
+00:04:33,088 --> 00:04:35,329
+conhecidos para evitar.
+
+85
+00:04:35,338 --> 00:04:38,028
+Ou melhor, para melhorar a probabilidade, né,
+
+86
+00:04:38,040 --> 00:04:41,790
+abaixar ainda mais a probabilidade de incidência futuro gestão de
+
+87
+00:04:41,798 --> 00:04:42,149
+risco.
+
+88
+00:04:42,160 --> 00:04:45,028
+A gente precisa ter todos os nossos riscos Mir Risco,
+
+89
+00:04:45,040 --> 00:04:47,649
+Enfim, gestão de continuidade de negócio.
+
+90
+00:04:47,660 --> 00:04:52,028
+Auditoria, monitoramento e controle dos recursos tecnológicos.
+
+91
+00:04:52,738 --> 00:04:57,619
+O controle de acesso físico e virtual uso de serviços
+
+92
+00:04:57,629 --> 00:05:02,329
+da internet, uso de serviços de e-mails institucional,
+
+93
+00:05:02,338 --> 00:05:06,939
+uso de serviços e sistemas legados, uso institucional das
+
+94
+00:05:06,949 --> 00:05:12,449
+de redes sociais, o uso institucional da computação em
+
+95
+00:05:12,459 --> 00:05:12,928
+nuvem.
+
+96
+00:05:12,939 --> 00:05:16,649
+Então isso aqui é um exemplo de itens que podem
+
+97
+00:05:16,660 --> 00:05:21,189
+ser prioridades dentro de uma política da informação, né?
+
+98
+00:05:21,199 --> 00:05:24,949
+Da segurança da informação, lembrando se todos esses itens
+
+99
+00:05:24,959 --> 00:05:27,238
+são obrigatórios? Não.
+
+100
+00:05:27,250 --> 00:05:30,949
+Neste caso, é um caso específico que nós pegamos
+
+101
+00:05:30,959 --> 00:05:32,790
+para dar exemplos pra vocês.
+
+102
+00:05:32,798 --> 00:05:35,588
+Tá bom, mas a grande maioria aqui é usada.
+
+103
+00:05:35,600 --> 00:05:38,269
+Eu posso te garantir que noventa por cento dessas li-
+
+104
+00:05:38,278 --> 00:05:41,829
+de desses itens dessa lista são usada usadas, né?
+
+105
+00:05:41,838 --> 00:05:47,149
+Em quase todas as empresas muito parecido, muito próximo,
+
+106
+00:05:47,160 --> 00:05:47,608
+Tá.
+
+107
+00:05:48,639 --> 00:05:52,528
+A lista não é absoluta, cada empresa deve levar
+
+108
+00:05:52,540 --> 00:05:57,129
+em consideração a sua realidade e necessidade.
+
+109
+00:05:57,139 --> 00:06:02,170
+Outras empresas podem necessitar de gestão de dispositivos móveis políticas
+
+110
+00:06:02,178 --> 00:06:05,108
+de terceirização de serviços que lidam com ativos.
+
+111
+00:06:05,119 --> 00:06:09,369
+Cada organização pode adaptar as suas diretrizes com base em
+
+112
+00:06:09,379 --> 00:06:17,548
+seus requisitos específicos regulamentações aplicáveis em ambiente de ameaças.
+
+113
+00:06:18,069 --> 00:06:21,759
+Essas diretrizes são projetadas para proteger os ativos da informação
+
+114
+00:06:21,769 --> 00:06:25,738
+da organização, garantindo os princípios da segurança da informação.
+
+115
+00:06:25,750 --> 00:06:30,410
+Como eu falei agora, vai depender de cada de
+
+116
+00:06:30,420 --> 00:06:32,369
+cada empresa, aquela lista.
+
+117
+00:06:32,379 --> 00:06:38,069
+Essa lista anterior que ela não é uma lista obrigatória
+
+118
+00:06:38,079 --> 00:06:39,910
+vai depender da sua organização.
+
+119
+00:06:39,920 --> 00:06:41,379
+Vai depender da organização que você trabalha.
+
+120
+00:06:41,389 --> 00:06:44,028
+Enfim, vai depender da organização que você quer implementar.
+
+121
+00:06:44,040 --> 00:06:47,028
+A política da segurança, da informação não é uma
+
+122
+00:06:47,040 --> 00:06:48,350
+lista absoluta.
+
+123
+00:06:48,358 --> 00:06:50,189
+Como tá dizendo aqui, vai depender muito de cada
+
+124
+00:06:50,199 --> 00:06:50,649
+cenário.
+
+125
+00:06:51,290 --> 00:06:54,040
+Além das diretrizes, tá desse documento.
+
+126
+00:06:54,048 --> 00:06:57,439
+Eh, dentro de uma organização devemos estabelecer, garantir
+
+127
+00:06:57,449 --> 00:07:00,619
+princípios fundamentais quais são? Lembra que isso que nós
+
+128
+00:07:00,629 --> 00:07:04,980
+falamos na unidade um Tá confidencialidade? Que é garantir
+
+129
+00:07:04,988 --> 00:07:08,139
+que as informações sejam a seja acessível apenas pelas pessoas
+
+130
+00:07:08,149 --> 00:07:09,100
+autorizadas.
+
+131
+00:07:09,108 --> 00:07:12,673
+Somente pessoas autorizadas podem ter acesso a informação.
+
+132
+00:07:12,684 --> 00:07:16,994
+Com isso, a gente garante a confidencialidade integridade.
+
+133
+00:07:17,004 --> 00:07:20,634
+Tá bom garantir que as informações não sejam alteradas ou
+
+134
+00:07:20,644 --> 00:07:24,733
+cumpridas de forma não autorizada e disponibilidade, que é
+
+135
+00:07:24,744 --> 00:07:27,795
+o que é assegurar que as informações estejam disponíveis para
+
+136
+00:07:27,803 --> 00:07:28,795
+as partes autorizadas.
+
+137
+00:07:28,803 --> 00:07:34,173
+Quando necessário, gente novamente nós iremos ver essas três.
+
+138
+00:07:34,850 --> 00:07:39,319
+Essas esses três princípios fundamentais pra qualquer disciplina de segurança
+
+139
+00:07:39,329 --> 00:07:44,399
+e formação durante todo o nosso curso tá confi confidencialidade,
+
+140
+00:07:44,410 --> 00:07:46,358
+integridade e disponibilidade.
+
+141
+00:07:52,028 --> 00:07:53,269
+Eh, vamos cal mais rapidinho.
+
+142
+00:07:53,278 --> 00:07:56,379
+Então eu quero voltar aqui nessa questão da da da,
+
+143
+00:07:56,389 --> 00:07:59,798
+da como que a gente consegue garantir? Tá a
+
+144
+00:07:59,809 --> 00:08:02,778
+confi fidelidade a integridade e a disponibilidade pelo documento.
+
+145
+00:08:02,790 --> 00:08:07,600
+Como eu falei através através das nossas normas, essa
+
+146
+00:08:07,608 --> 00:08:09,399
+política é uma política clara.
+
+147
+00:08:09,410 --> 00:08:12,160
+Claramente, a política é, ela é diretrizes,
+
+148
+00:08:12,170 --> 00:08:14,600
+tá, ela não vai desenhar processos, ela não
+
+149
+00:08:14,608 --> 00:08:17,338
+vai entrar em implementações técnicas.
+
+150
+00:08:17,350 --> 00:08:21,559
+Ela não vai explicar para para a organização ou para
+
+151
+00:08:21,569 --> 00:08:23,160
+a equipe técnica como fazer.
+
+152
+00:08:23,170 --> 00:08:27,678
+Ela vai colocar diretrizes de alto nível, vai depender
+
+153
+00:08:27,689 --> 00:08:29,319
+do que vai depender das normas.
+
+154
+00:08:29,329 --> 00:08:33,658
+Vai depender das políticas internas, específicas, de cada
+
+155
+00:08:33,668 --> 00:08:37,080
+diretriz e, principalmente, dos processos.
+
+156
+00:08:37,090 --> 00:08:40,399
+Então quando a gente for desenhar, escrever em várias
+
+157
+00:08:40,408 --> 00:08:42,558
+mãos, esse documento a gente precisa ter isso bem
+
+158
+00:08:42,570 --> 00:08:46,038
+claro, tá, Esse documento é um documento com
+
+159
+00:08:46,048 --> 00:08:50,259
+altas diretrizes, e desse documento vai se derivar outras
+
+160
+00:08:50,269 --> 00:08:53,719
+outros documentos, outros processos, outros artefatos que vai
+
+161
+00:08:53,729 --> 00:08:57,269
+fortalecer a nossa política de segurança tá bom até a
+
+162
+00:08:57,279 --> 00:08:57,908
+próxima aula.
+

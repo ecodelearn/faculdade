@@ -1,0 +1,524 @@
+1
+00:00:06,368 --> 00:00:09,179
+Olá, vamos falar um pouquinho sobre comunicação em rede
+
+2
+00:00:09,189 --> 00:00:09,579
+a sí.
+
+3
+00:00:09,589 --> 00:00:11,659
+Krona, né? Ah, e quando eu falo
+
+4
+00:00:11,669 --> 00:00:13,800
+de conexão em comunicação em rede, a sí não
+
+5
+00:00:13,810 --> 00:00:17,079
+é só h t t t eh o net é
+
+6
+00:00:17,089 --> 00:00:20,138
+um pacote que permite definir Socrates, Ah, mas
+
+7
+00:00:20,149 --> 00:00:21,798
+pra que que eu quero Socrates? Eu quero fazer
+
+8
+00:00:21,809 --> 00:00:24,359
+páginas Nem sempre, né? Vamos dizer que você
+
+9
+00:00:24,370 --> 00:00:25,958
+faça uma página pra bolsa de valores.
+
+10
+00:00:25,969 --> 00:00:28,620
+Você tem cotação em tempo real das ações variando na
+
+11
+00:00:28,629 --> 00:00:29,158
+bolsa.
+
+12
+00:00:29,170 --> 00:00:31,199
+Você vai precisar de um soquete pra isso, né?
+
+13
+00:00:31,208 --> 00:00:33,728
+Se você vai trabalhar com jogos, você vai precisar
+
+14
+00:00:33,740 --> 00:00:36,630
+de muitos socas, né? Só pra transferir dados
+
+15
+00:00:36,639 --> 00:00:40,168
+de jogadores? Sprays online né? Ou qualquer eh
+
+16
+00:00:40,179 --> 00:00:43,109
+streaming de áudio ou algo do tipo trabalha basicamente com
+
+17
+00:00:43,118 --> 00:00:46,368
+comunicações que são via soc não h t p porque
+
+18
+00:00:46,380 --> 00:00:48,149
+você não tá transferindo páginas.
+
+19
+00:00:48,158 --> 00:00:51,270
+Tá transferindo informação pode ser texto pode ser binária.
+
+20
+00:00:51,279 --> 00:00:53,189
+Pode ser qualquer tipo de informação.
+
+21
+00:00:53,200 --> 00:00:54,649
+Vamos ver como é que isso funciona.
+
+22
+00:00:56,380 --> 00:01:00,200
+Comunicação em rede a sí crono as bibliotecas net h
+
+23
+00:01:00,209 --> 00:01:01,959
+t t P são as mais usadas, né?
+
+24
+00:01:01,969 --> 00:01:04,198
+A net seria pra parte só c h t p
+
+25
+00:01:04,209 --> 00:01:07,519
+pra fazer a parte de servidores eh h T P,
+
+26
+00:01:07,528 --> 00:01:09,620
+né? Se o protocolo h t p em si
+
+27
+00:01:10,319 --> 00:01:14,888
+eh server, você pode dar um, né?
+
+28
+00:01:14,900 --> 00:01:17,569
+Quando você usa o net com, tá criando um
+
+29
+00:01:17,579 --> 00:01:21,260
+servidor e você vai te mandar ele escutar uma porta
+
+30
+00:01:21,269 --> 00:01:23,650
+qualquer, tá e pode terminar ele com tá,
+
+31
+00:01:23,659 --> 00:01:28,969
+o cliente é um tion você criar uma conexão com
+
+32
+00:01:28,980 --> 00:01:32,180
+aquele servidor e você pode dar um destrói a qualquer
+
+33
+00:01:32,189 --> 00:01:36,588
+momento pra poder fechar tá? Eh eventos! Isso
+
+34
+00:01:36,599 --> 00:01:38,959
+aí vai trabalhar muito com eventos né? É aquele
+
+35
+00:01:38,969 --> 00:01:42,680
+modelo de eventos né, EH enquanto outras coisas trabalham
+
+36
+00:01:42,689 --> 00:01:46,329
+muito com esse aí também pode trabalhar com os modelos
+
+37
+00:01:46,338 --> 00:01:49,278
+eh de eventos usando data pra recepção de dados e
+
+38
+00:01:49,290 --> 00:01:52,308
+o e pra término eh da recepção o término da
+
+39
+00:01:52,319 --> 00:01:52,849
+conexão.
+
+40
+00:01:53,730 --> 00:01:56,250
+Servidores e clientes h T P são através da própria
+
+41
+00:01:56,260 --> 00:01:59,838
+biblioteca h T T P né Bom, é um
+
+42
+00:01:59,849 --> 00:02:06,359
+primeiro exemplo, né? Então ele tá criando um
+
+43
+00:02:06,370 --> 00:02:10,490
+servidor né? Ao criar o servidor ele retorna aqui
+
+44
+00:02:10,500 --> 00:02:11,300
+a um soquete.
+
+45
+00:02:12,419 --> 00:02:14,629
+Então tem aqui que que é o soc é o
+
+46
+00:02:14,639 --> 00:02:17,580
+i p mais a porta, né? Então serve
+
+47
+00:02:17,588 --> 00:02:21,308
+é soquete, soquete ponto ad ora no servidor esse
+
+48
+00:02:21,319 --> 00:02:24,308
+ed aqui na verdade não é o ele tá enviando
+
+49
+00:02:24,319 --> 00:02:27,929
+informação para o cliente? Tá? podia também ter
+
+50
+00:02:27,939 --> 00:02:32,699
+vários depois um ed eh ora, no servidor o
+
+51
+00:02:32,710 --> 00:02:36,838
+ponto o erro e R R t r r nota
+
+52
+00:02:36,849 --> 00:02:39,679
+que já tem aqui um evento o evento de erro.
+
+53
+00:02:39,689 --> 00:02:43,479
+Caso aconteça um erro qualquer nessa comunicação vai executar essa
+
+54
+00:02:43,490 --> 00:02:46,080
+cabe aqui no momento adequado, de acordo com o
+
+55
+00:02:46,088 --> 00:02:49,610
+loop de eventos fica lá sempre circulando pra saber qual
+
+56
+00:02:49,618 --> 00:02:52,058
+vai ser o próximo cara a ser executado, né
+
+57
+00:02:52,788 --> 00:02:55,038
+server? Liste um, dois, três, quatro
+
+58
+00:02:55,050 --> 00:02:57,278
+tá mandando eh escutar na porta um, dois,
+
+59
+00:02:57,288 --> 00:02:57,719
+três, quatro.
+
+60
+00:02:57,729 --> 00:03:01,319
+Quando ele escuta nessa porta ele vai executar, vai
+
+61
+00:03:01,330 --> 00:03:05,639
+ficar escutando e aí vai entrar? Eh nesse tipo
+
+62
+00:03:05,649 --> 00:03:10,719
+de procedimento aqui Bom, eu posso ter o cliente
+
+63
+00:03:10,729 --> 00:03:15,000
+do outro lado onde eu tenho Negra Connection um,
+
+64
+00:03:15,008 --> 00:03:17,439
+dois, três, quatro local, cliente ou data,
+
+65
+00:03:17,449 --> 00:03:20,338
+ou seja, cada vez que ele receber data eh
+
+66
+00:03:20,349 --> 00:03:24,139
+dados, né? O evento é data ao ter
+
+67
+00:03:24,149 --> 00:03:26,379
+um evento data, significa que recebeu dados.
+
+68
+00:03:26,389 --> 00:03:28,849
+Então eu vou capturar esses dados na Cobec E vou
+
+69
+00:03:28,860 --> 00:03:31,758
+fazer alguma coisa com esses dados, né? Nesse
+
+70
+00:03:31,770 --> 00:03:34,210
+caso aqui eu tô colocando o os dados, essa
+
+71
+00:03:34,219 --> 00:03:37,058
+é uma classe buffer tá, Eu tô imprimindo esses
+
+72
+00:03:37,069 --> 00:03:41,819
+dados no console com tre, né? Assim quando
+
+73
+00:03:41,830 --> 00:03:46,338
+finalizou o envio de dados clientes eh c ponto destrói
+
+74
+00:03:46,349 --> 00:03:49,460
+vou destruir o cliente aí eu termino a conexão.
+
+75
+00:03:50,038 --> 00:03:51,520
+Ah, bom.
+
+76
+00:03:52,770 --> 00:03:59,649
+Esse tipo de exemplo seria Ah, sim.
+
+77
+00:04:00,449 --> 00:04:01,618
+Aqui eu tô criando o Server.
+
+78
+00:04:01,629 --> 00:04:04,860
+Soc, né? E aqui eu tô criando vários
+
+79
+00:04:04,868 --> 00:04:09,899
+clientes cada cliente fazendo a sua conexão eh é o
+
+80
+00:04:09,909 --> 00:04:12,719
+net, na verdade faz parte do núcleo do no
+
+81
+00:04:12,729 --> 00:04:16,079
+G S, então não precisa de bibliotecas externas que
+
+82
+00:04:16,088 --> 00:04:16,829
+que eu vou fazer aqui.
+
+83
+00:04:16,838 --> 00:04:23,809
+Vamos executar esse cara hum é aquele código ali e
+
+84
+00:04:23,819 --> 00:04:33,899
+eu vou fazer isso aqui eh no um Tá aqui
+
+85
+00:04:33,910 --> 00:04:36,519
+tá ali c um dois, três quatro Ele conectou
+
+86
+00:04:37,379 --> 00:04:41,108
+e pegou os quatro clientes, tá Então a comunicação
+
+87
+00:04:41,119 --> 00:04:44,069
+via soquete não é comunicação h t P, né?
+
+88
+00:04:44,079 --> 00:04:47,750
+Eu poderia enviar qualquer coisa pelo soquete binário que eu
+
+89
+00:04:47,759 --> 00:04:51,309
+quisesse tá e notou uma coisa interessante? Ele não
+
+90
+00:04:51,319 --> 00:04:52,509
+voltou ao meu console aqui.
+
+91
+00:04:52,519 --> 00:04:55,889
+Por quê? Porque o servidor continua escutando ele tá
+
+92
+00:04:55,899 --> 00:04:59,309
+o tempo todo ali pega responde pega responde cada ed
+
+93
+00:04:59,319 --> 00:05:02,129
+que dá o cliente se destrói, então já fecha
+
+94
+00:05:02,139 --> 00:05:05,129
+a conexão tá quando der um c aqui é que
+
+95
+00:05:05,139 --> 00:05:08,209
+ele vai parar contra o C para a execução do
+
+96
+00:05:08,220 --> 00:05:13,088
+servidor Bom beleza! Isso aqui seria a parte de
+
+97
+00:05:13,100 --> 00:05:17,338
+Socrates Cliente e servidor e o h t t p,
+
+98
+00:05:17,350 --> 00:05:19,899
+que é usado pra fazer servidores h t P,
+
+99
+00:05:19,910 --> 00:05:25,889
+né? Aqui eu tô colocando status duzentos um um
+
+100
+00:05:25,899 --> 00:05:27,379
+a olam lista em três mil seria um servidor h
+
+101
+00:05:27,389 --> 00:05:29,829
+T P na porta três mil, Quando acessar pelo
+
+102
+00:05:29,838 --> 00:05:33,439
+browser, ele vai mostrar um olam, né?
+
+103
+00:05:33,449 --> 00:05:37,379
+Eh e nota que tem sempre aqui as cabe,
+
+104
+00:05:37,389 --> 00:05:39,879
+né? Prontinhas ali pra responder na hora que é
+
+105
+00:05:39,889 --> 00:05:40,420
+necessário.
+
+106
+00:05:40,428 --> 00:05:44,269
+Ah, aqui eu tenho um servidor, recolhe h
+
+107
+00:05:44,278 --> 00:05:47,899
+t p reconhece isso é um tratamento qualquer, né?
+
+108
+00:05:48,608 --> 00:05:53,869
+Eh o data d console logo d ponto tre o
+
+109
+00:05:53,879 --> 00:05:55,389
+que que eu tô fazendo aqui aqui? Já não
+
+110
+00:05:55,399 --> 00:05:58,108
+é um servidor, eu tinha um cliente serve pra
+
+111
+00:05:58,119 --> 00:06:00,670
+criar o servidor aqui eu tenho um pra criar um
+
+112
+00:06:00,678 --> 00:06:03,629
+cliente aqui é uma conexão h t P cliente no
+
+113
+00:06:03,639 --> 00:06:07,709
+caso e quando tiver um dado qualquer vindo do servidor
+
+114
+00:06:07,720 --> 00:06:09,588
+esse dado que eu vou chamar de D vai ser
+
+115
+00:06:09,600 --> 00:06:14,548
+impresso, tem esse exemplo aqui é muito parecido com
+
+116
+00:06:14,559 --> 00:06:17,129
+esse, só que aí no caso usando o h
+
+117
+00:06:17,139 --> 00:06:23,910
+T T aqui eu tenho meu servidor e aqui eu
+
+118
+00:06:23,920 --> 00:06:28,059
+tenho o meu cliente e nota o uso de eventos.
+
+119
+00:06:28,069 --> 00:06:30,980
+O evento data pra poder reconhecer, né? Nesse
+
+120
+00:06:30,988 --> 00:06:32,399
+caso aqui é o Index dois.
+
+121
+00:06:35,079 --> 00:06:40,449
+Ah, ele já pegou lá, Já mostrou a
+
+122
+00:06:40,459 --> 00:06:46,189
+informação, né? E eh continuou executando bom,
+
+123
+00:06:49,379 --> 00:06:53,569
+Então, quando se fala de tratamento de redes,
+
+124
+00:06:53,579 --> 00:06:56,970
+né? De forma síndroma, você pode ter a
+
+125
+00:06:56,980 --> 00:06:59,250
+e o uso de eventos, né? No caso
+
+126
+00:06:59,259 --> 00:07:01,329
+do soc, é mais abrangente você tem que criar
+
+127
+00:07:01,338 --> 00:07:03,209
+tudo do zero, mas você pode definir seu próprio
+
+128
+00:07:03,220 --> 00:07:05,449
+protocolo que é o h t t que tá preparado
+
+129
+00:07:05,459 --> 00:07:08,088
+pra toda a parte de eh hiper links da parte
+
+130
+00:07:08,100 --> 00:07:09,869
+do h t ML h t p, né?
+
+131
+00:07:09,879 --> 00:07:14,428
+Já trabalha já com esse foco no protocolo de navegação.
+

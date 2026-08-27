@@ -1,0 +1,692 @@
+1
+00:00:06,669 --> 00:00:10,560
+Olá, vamos ver como seria a criação de um
+
+2
+00:00:10,569 --> 00:00:14,439
+serviço de forma simples, né? Serviço bem básico
+
+3
+00:00:14,448 --> 00:00:17,920
+só de consulta e inclusão Não é o completo?
+
+4
+00:00:17,929 --> 00:00:22,399
+Tá, Mas só demonstrando essa esse uso do do
+
+5
+00:00:22,408 --> 00:00:24,589
+do post, né? Dos métodos l, T
+
+6
+00:00:24,600 --> 00:00:27,940
+P e dos códigos de resposta tá bom.
+
+7
+00:00:29,568 --> 00:00:33,490
+Então vamos lá para fazer um novo servidor e o
+
+8
+00:00:33,500 --> 00:00:36,908
+cliente eh h t P Eu posso usar a biblioteca
+
+9
+00:00:36,918 --> 00:00:39,569
+h t t p né? Ela permite criar tanto
+
+10
+00:00:39,579 --> 00:00:41,029
+o cliente quanto servidor.
+
+11
+00:00:41,039 --> 00:00:43,048
+Eu não preciso de um r que nada disso tem.
+
+12
+00:00:43,060 --> 00:00:46,009
+Tudo isso aí já pronto no no JS sem importações?
+
+13
+00:00:46,020 --> 00:00:47,368
+Tá sem n PM.
+
+14
+00:00:47,380 --> 00:00:49,908
+Por porque ele já faz parte do núcleo do JS.
+
+15
+00:00:50,598 --> 00:00:54,529
+Os parâmetros se referemà requisição e a resposta,
+
+16
+00:00:54,539 --> 00:00:57,408
+né? Eh que seria a requisição feita pelo usuário
+
+17
+00:00:57,418 --> 00:00:59,408
+e a resposta que será dada pelo servidor.
+
+18
+00:00:59,418 --> 00:01:03,609
+Os dados da requisição podem ser pegos no evento data.
+
+19
+00:01:03,618 --> 00:01:07,448
+Da mesma forma que eu posso pegar os dados lá
+
+20
+00:01:07,459 --> 00:01:10,349
+no cliente no evento data no servidor, eu pego
+
+21
+00:01:10,359 --> 00:01:13,609
+também que a comunicação é a sincronia, né.
+
+22
+00:01:13,620 --> 00:01:15,790
+Cê não sabe se não vai travar o servidor esperando
+
+23
+00:01:15,799 --> 00:01:17,269
+o dado chegar do cliente.
+
+24
+00:01:17,510 --> 00:01:20,120
+Você deixa lá chegou dado ele trata, né?
+
+25
+00:01:20,129 --> 00:01:23,930
+Então o evento data serve pra isso, também operações
+
+26
+00:01:23,939 --> 00:01:26,269
+de consulta e criação que a gente vai demonstrar que
+
+27
+00:01:27,650 --> 00:01:32,150
+então aqui eu tenho o sever Crede Sever, né?
+
+28
+00:01:32,159 --> 00:01:33,849
+Eu tô criando serva do h t P.
+
+29
+00:01:34,829 --> 00:01:37,739
+Requisição e resposta Se a RL é produtos e o
+
+30
+00:01:37,750 --> 00:01:41,918
+método é got obter todos, aí eu já estou
+
+31
+00:01:41,930 --> 00:01:45,459
+usando uma chamada pra poder pegar do banco de dados,
+
+32
+00:01:45,469 --> 00:01:50,689
+né? Jason Fi dados, né? Ou seja,
+
+33
+00:01:50,698 --> 00:01:53,909
+eh, quando eu tô pegando, o Gatt,
+
+34
+00:01:53,918 --> 00:01:58,939
+os meus dados né que eu obtive, né?
+
+35
+00:01:58,948 --> 00:02:01,500
+A partir do banco de dados, né? Obter
+
+36
+00:02:01,510 --> 00:02:05,120
+todos do banco de dados! Então pegue esses dados
+
+37
+00:02:05,129 --> 00:02:09,699
+e envie pela resposta no formato jason né O fi
+
+38
+00:02:09,710 --> 00:02:12,500
+porque ele já é Jason naturalmente um objeto de Java
+
+39
+00:02:12,508 --> 00:02:13,058
+script.
+
+40
+00:02:13,069 --> 00:02:15,679
+O stre fi vai colocar no formato de texto,
+
+41
+00:02:15,689 --> 00:02:16,979
+né? É o C f.
+
+42
+00:02:16,990 --> 00:02:23,258
+Se for produtos e método st eu vou fazer dados
+
+43
+00:02:23,270 --> 00:02:23,778
+vazios.
+
+44
+00:02:23,788 --> 00:02:24,599
+Vou esperar.
+
+45
+00:02:25,610 --> 00:02:29,460
+Tá rack o data x dados mais igual x Ele
+
+46
+00:02:29,469 --> 00:02:31,379
+vai esperando chegando os dados, que pode ser uma
+
+47
+00:02:31,389 --> 00:02:32,618
+stream, pode demorar a chegar.
+
+48
+00:02:32,629 --> 00:02:36,258
+Então ele vai montando a dos dados.
+
+49
+00:02:36,270 --> 00:02:38,679
+Tá? Então o que tá fazendo? Vamos dizer
+
+50
+00:02:38,689 --> 00:02:41,379
+que se tivesse lá um Jason gigantesco, ele não
+
+51
+00:02:41,389 --> 00:02:43,659
+vai chegar de uma vez o pacote h t p
+
+52
+00:02:43,669 --> 00:02:45,338
+ele tem um tamanho máximo.
+
+53
+00:02:45,349 --> 00:02:47,000
+Então, se você for uma string gigantesca vai.
+
+54
+00:02:47,008 --> 00:02:49,778
+Vim vários pacotinhos, Então vai, Vim vários eventos
+
+55
+00:02:49,788 --> 00:02:52,399
+data pra cada pacote que vai chegando, né?
+
+56
+00:02:52,819 --> 00:02:55,028
+E o que que vai acontecendo? Você vai montando
+
+57
+00:02:55,038 --> 00:02:57,629
+dados mais igual x? Chegou um pacote, acrescentou.
+
+58
+00:02:57,639 --> 00:02:59,949
+Chegou Outro pacote, acrescentou e vai acrescentando com isso
+
+59
+00:02:59,960 --> 00:03:02,849
+Você vai ter a TRE completa no final, né?
+
+60
+00:03:03,490 --> 00:03:06,088
+Bom, o ed O AD é quando acabou.
+
+61
+00:03:06,099 --> 00:03:06,500
+Chegou o último.
+
+62
+00:03:06,508 --> 00:03:08,659
+Um pacote, então, a cada pacote que vai
+
+63
+00:03:08,669 --> 00:03:10,939
+chegando é data, data, data, data no
+
+64
+00:03:10,949 --> 00:03:13,860
+final and, quando chegar o Ed que ele faz
+
+65
+00:03:13,868 --> 00:03:15,979
+Eu já sei que não vem mais nenhum pacote.
+
+66
+00:03:15,990 --> 00:03:17,929
+Eu já tô com a string completa.
+
+67
+00:03:17,939 --> 00:03:21,939
+Produto vai ser Jason s dados, né Nota Inter
+
+68
+00:03:21,949 --> 00:03:24,939
+eh como é interessante protocolo h t P vai trabalhar
+
+69
+00:03:24,949 --> 00:03:27,338
+basicamente com um texto, Então eu tenho que usar
+
+70
+00:03:27,349 --> 00:03:30,659
+Jason FI que é o quê transformar o objeto em
+
+71
+00:03:30,669 --> 00:03:31,080
+texto.
+
+72
+00:03:31,558 --> 00:03:33,929
+Quando você recebe dele, ele é texto, eu
+
+73
+00:03:33,939 --> 00:03:36,409
+tenho que transformar num objeto Java script, Então eu
+
+74
+00:03:36,419 --> 00:03:39,689
+uso jason pars, né? Então assim a forma
+
+75
+00:03:39,699 --> 00:03:42,889
+é muito parecida, é quase igual, mas só
+
+76
+00:03:42,899 --> 00:03:44,830
+que ele vai interpretar de forma diferente se vai ser
+
+77
+00:03:44,838 --> 00:03:47,889
+como texto ou como Jason, como objeto, né?
+
+78
+00:03:47,899 --> 00:03:51,080
+Então aqui ele faz um par e depois ele chama
+
+79
+00:03:51,088 --> 00:03:53,758
+essa função criar produto que vai falar com a minha
+
+80
+00:03:53,770 --> 00:03:56,330
+base de dado, né? E vai dar um
+
+81
+00:03:56,338 --> 00:04:00,038
+status K de duzentos e um tá? Então vai
+
+82
+00:04:00,050 --> 00:04:01,830
+falar com a minha base de dados Criar produto,
+
+83
+00:04:01,838 --> 00:04:04,550
+vai criar lá na base eh esse produto com o
+
+84
+00:04:04,558 --> 00:04:07,508
+nome e a quantidade e com o código que retorna
+
+85
+00:04:07,520 --> 00:04:09,610
+que seria o i D do produto que foi criado
+
+86
+00:04:10,308 --> 00:04:13,719
+status de duzentos e um produto criado com código tal,
+
+87
+00:04:13,729 --> 00:04:16,519
+né? Então, assim essa aqui é esse é
+
+88
+00:04:16,528 --> 00:04:20,399
+o comportamento do servidor, né? Seria esse servidor
+
+89
+00:04:20,410 --> 00:04:23,569
+aqui obter todos? Se a gente for olhar um
+
+90
+00:04:23,579 --> 00:04:24,850
+pouquinho mais a fundo, a gente vai ver que
+
+91
+00:04:24,858 --> 00:04:27,759
+esse obter todos, na verdade vai ser em cima
+
+92
+00:04:27,769 --> 00:04:33,559
+de sequela, usando o né? É só ah,
+
+93
+00:04:33,569 --> 00:04:36,319
+o clique faz com que você consiga navegar rapidamente.
+
+94
+00:04:36,329 --> 00:04:39,629
+Assim tá eh se eu dor.
+
+95
+00:04:39,639 --> 00:04:41,129
+E na hora que eu passo em cima de um
+
+96
+00:04:41,139 --> 00:04:44,079
+método ele mostra e o clique junto ele vai pra
+
+97
+00:04:44,088 --> 00:04:45,290
+onde eu preciso.
+
+98
+00:04:45,298 --> 00:04:47,488
+Tá então, com isso aqui, ele estaria chamando
+
+99
+00:04:47,500 --> 00:04:50,170
+os repositórios, criando no banco, né? Mas
+
+100
+00:04:50,178 --> 00:04:53,088
+aqui o foco maior é no servidor, né?
+
+101
+00:04:53,100 --> 00:04:55,488
+Então, assim a cada fragmento de dado que vai
+
+102
+00:04:55,500 --> 00:04:58,689
+chegando ele vai montando quando chegam todos os fragmentos ele
+
+103
+00:04:58,699 --> 00:05:01,730
+transforma em Jason, né? Faz o Jason pars,
+
+104
+00:05:01,738 --> 00:05:04,819
+chama ou criar produtos e daí manda um status co
+
+105
+00:05:04,829 --> 00:05:07,048
+de duzentos e um com o código do produto criado,
+
+106
+00:05:07,059 --> 00:05:10,178
+o duzentos e um indicando que teve um acréscimo de
+
+107
+00:05:10,189 --> 00:05:13,129
+um recurso no servidor Tá, essa aqui seria a
+
+108
+00:05:13,139 --> 00:05:16,639
+resposta mais adequada pra um post, né? E
+
+109
+00:05:16,649 --> 00:05:19,910
+se não for nenhuma nada do que foi previsto aqui
+
+110
+00:05:21,209 --> 00:05:24,420
+eu coloco quatrocentos e quatro, eu poderia também colocar
+
+111
+00:05:24,428 --> 00:05:25,509
+recurso inexistente.
+
+112
+00:05:25,519 --> 00:05:29,420
+Qualquer coisa do tipo tá, Mas eh é só
+
+113
+00:05:29,428 --> 00:05:30,699
+pra mostrar nesse servidor.
+
+114
+00:05:30,709 --> 00:05:34,670
+Qualquer coisa diferente dessas duas rotas seria a mesma rota
+
+115
+00:05:34,678 --> 00:05:35,019
+com post.
+
+116
+00:05:35,028 --> 00:05:38,660
+Na verdade você teria eh é o mesmo point.
+
+117
+00:05:38,670 --> 00:05:41,338
+Duas rotas, uma porte, uma por post eh
+
+118
+00:05:41,350 --> 00:05:46,619
+você teria que eh um erro quatrocentos e quatro de
+
+119
+00:05:46,629 --> 00:05:49,528
+no font, né? Então assim, se eu
+
+120
+00:05:49,540 --> 00:05:52,569
+executar esse cara eu vou ter um cliente, né?
+
+121
+00:05:52,579 --> 00:05:58,809
+Eu posso anular essa chamada aqui? Seria só um
+
+122
+00:05:58,819 --> 00:06:01,869
+cliente chamando os dados através do próprio No JS,
+
+123
+00:06:03,269 --> 00:06:04,819
+vou colocar só o servidor rodando.
+
+124
+00:06:08,869 --> 00:06:11,738
+Ah, eu acho que eu não só deixa eu
+
+125
+00:06:11,750 --> 00:06:22,189
+usar bom primeiro pela forma tradicional.
+
+126
+00:06:28,079 --> 00:06:29,869
+Ah demais.
+
+127
+00:06:31,838 --> 00:06:35,428
+Três mil no aquela resposta dele e barra produtos,
+
+128
+00:06:38,369 --> 00:06:42,160
+bom beleza eh esse cara aí tá acessando lá meu
+
+129
+00:06:42,170 --> 00:06:45,108
+servidor, Só que olha é o seguinte vai ter
+
+130
+00:06:45,119 --> 00:06:47,209
+uma situação em que eu não vou conseguir fazer isso.
+
+131
+00:06:47,220 --> 00:06:50,069
+Por exemplo, se eu quiser incluir um cara,
+
+132
+00:06:50,079 --> 00:06:52,048
+ou eu faço via código, ou eu faço um
+
+133
+00:06:52,059 --> 00:06:56,259
+formulário, ou eu uso alguma coisa que me permita
+
+134
+00:06:56,269 --> 00:07:00,059
+testar o web do tipo, né? Uma das
+
+135
+00:07:00,069 --> 00:07:03,298
+opções muito interessantes é o plugin Boomerang, né?
+
+136
+00:07:03,309 --> 00:07:08,949
+Você pode postar no Google plugin Boomerang Soup Clint Tá,
+
+137
+00:07:08,959 --> 00:07:12,309
+Ele adiciona no Google? Então é no Chrome e
+
+138
+00:07:12,319 --> 00:07:14,670
+você simplesmente tem que ativar ele por aqui.
+
+139
+00:07:14,678 --> 00:07:19,769
+Ele abre aqui e você pode gerenciar requisições ou post.
+
+140
+00:07:19,778 --> 00:07:22,798
+Por exemplo, aqui eu vou criar aqui um uma
+
+141
+00:07:22,809 --> 00:07:23,949
+nova requisição.
+
+142
+00:07:25,009 --> 00:07:31,759
+Vou colocar aquele mesmo endereço da outra, só que
+
+143
+00:07:31,769 --> 00:07:32,730
+em modo post.
+
+144
+00:07:33,480 --> 00:07:35,709
+E aí eu vou passar aqui no corpo.
+
+145
+00:07:35,720 --> 00:07:45,319
+Jason a informação que eu preciso Nome um nome qualquer,
+
+146
+00:07:45,329 --> 00:07:51,509
+sei lá abacaxi e a quantidade se eu não me
+
+147
+00:07:51,519 --> 00:07:59,100
+engano ali, oh, olha o código Duzentos e
+
+148
+00:07:59,108 --> 00:08:02,608
+um o próprio Boomerang já reconhece o duzentos e um
+
+149
+00:08:02,619 --> 00:08:04,100
+como created.
+
+150
+00:08:04,858 --> 00:08:07,108
+Se fosse um código de duzentos, ele escreveria XA
+
+151
+00:08:07,119 --> 00:08:14,100
+quer ver duzentos Okay, Okay mas aqui ele já
+
+152
+00:08:14,108 --> 00:08:14,819
+sabe que é um código.
+
+153
+00:08:14,829 --> 00:08:18,838
+Duzentos e um tá o produto criado sete E se
+
+154
+00:08:18,850 --> 00:08:22,358
+eu puder, fizer novamente a pesquisa? Ah,
+
+155
+00:08:23,588 --> 00:08:30,689
+aqui eh é aqui porque eu não coloquei no boy.
+
+156
+00:08:30,699 --> 00:08:32,710
+O fo eh dizendo que esse cara é um Jason,
+
+157
+00:08:32,719 --> 00:08:35,629
+senão ele já quebraria também, mas ele tá ali
+
+158
+00:08:35,639 --> 00:08:39,038
+oh, código sete, que foi criado ou posso
+
+159
+00:08:39,048 --> 00:08:44,139
+testar por aqui? Tá Então assim eh com isso
+
+160
+00:08:44,149 --> 00:08:46,739
+a gente tem um funcionamento de um servi, um
+
+161
+00:08:46,750 --> 00:08:52,200
+serviço bem básico, tá, Esse é um serviço,
+
+162
+00:08:52,210 --> 00:08:54,558
+não é completo, não tem o.
+
+163
+00:08:54,570 --> 00:08:56,678
+Se eu for fazer um serviço completo, eu vou
+
+164
+00:08:56,690 --> 00:09:00,038
+ter que colocar todos os quatro metros o mas aqui
+
+165
+00:09:00,048 --> 00:09:01,779
+é só o princípio de funcionamento.
+
+166
+00:09:01,788 --> 00:09:04,158
+E qual o tipo de resposta adequada em cada situação,
+
+167
+00:09:04,168 --> 00:09:06,599
+né? E como alguém como o Boomerang, por
+
+168
+00:09:06,609 --> 00:09:08,719
+exemplo, já reconhece isso, ali já consegue.
+
+169
+00:09:08,729 --> 00:09:10,000
+Já tem facilidades.
+
+170
+00:09:10,009 --> 00:09:13,269
+Quando você usa a forma de codificação correta, a
+
+171
+00:09:13,279 --> 00:09:14,639
+gente fica então por aqui.
+
+172
+00:09:14,649 --> 00:09:17,759
+Espero ter agregado conhecimento, bons estudos e até a
+
+173
+00:09:17,769 --> 00:09:18,139
+próxima
+

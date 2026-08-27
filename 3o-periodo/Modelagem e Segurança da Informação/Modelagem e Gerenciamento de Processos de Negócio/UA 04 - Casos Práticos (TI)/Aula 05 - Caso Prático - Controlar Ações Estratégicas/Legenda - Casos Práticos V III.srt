@@ -1,0 +1,908 @@
+1
+00:00:06,320 --> 00:00:11,859
+Olá, seja bem vindo novamente Michel, nos casos
+
+2
+00:00:11,868 --> 00:00:15,659
+práticos e agora na nossa terceira parte, considerando aquele
+
+3
+00:00:15,669 --> 00:00:18,638
+caso lá do do desdobramento do PDT I, que
+
+4
+00:00:18,649 --> 00:00:21,620
+a gente falou do do pay da da empresa e
+
+5
+00:00:21,629 --> 00:00:26,579
+aí elencamos lá treze atividades pra aquele processo, né?
+
+6
+00:00:26,589 --> 00:00:31,658
+Treze eh, Eh perspectivas que se realizam no processo,
+
+7
+00:00:31,670 --> 00:00:36,560
+com as suas respectivas descrições, mostrando quais são as
+
+8
+00:00:36,569 --> 00:00:38,939
+entradas, as saídas, quem é o responsável?
+
+9
+00:00:38,950 --> 00:00:41,560
+Qual é o tempo de duração da atividade, né?
+
+10
+00:00:41,569 --> 00:00:46,469
+Falamos do escopo cara, é muito interessante essa perspectiva.
+
+11
+00:00:46,478 --> 00:00:49,700
+Aí eh dessa interação.
+
+12
+00:00:49,709 --> 00:00:53,500
+Eu, particularmente acho que nós trabalhamos, tá lembrando
+
+13
+00:00:53,509 --> 00:00:55,658
+que a a melhoria é sua! Você vai fazer
+
+14
+00:00:55,668 --> 00:00:57,598
+do jeito que você achar pra tua organização.
+
+15
+00:00:57,609 --> 00:00:59,679
+Eh no seu entendimento.
+
+16
+00:00:59,689 --> 00:01:00,740
+Okay, vamos lá.
+
+17
+00:01:00,750 --> 00:01:03,459
+Vamos falar do do da última parte, como conforme
+
+18
+00:01:03,469 --> 00:01:05,819
+eu falei, nossa última parte S é é justamente
+
+19
+00:01:05,829 --> 00:01:09,888
+a tradução daquilo tudo nisso aqui Tá que lindo maravilhoso!
+
+20
+00:01:09,900 --> 00:01:13,299
+Olha que beleza, quantidade de processo de atividade que
+
+21
+00:01:13,308 --> 00:01:16,230
+nós temos aí, né? O que que a
+
+22
+00:01:16,239 --> 00:01:18,918
+gente pretende? Então eu vou traduzir aqui.
+
+23
+00:01:18,930 --> 00:01:21,588
+O objetivo é traduzir tudo aquilo que a gente escreveu
+
+24
+00:01:21,599 --> 00:01:25,469
+lá naquelas caixinhas, né? Do item do item
+
+25
+00:01:25,480 --> 00:01:29,609
+eh sete Tá aqui oh como vocês podem ver vamos
+
+26
+00:01:29,620 --> 00:01:32,349
+lá aqui Oh, a gente começou a falar eh
+
+27
+00:01:32,359 --> 00:01:35,870
+do subprocessos da documentação e aqui a gente começou a
+
+28
+00:01:35,879 --> 00:01:40,290
+falar do item sete Subprocessos todas essas atividades aqui do
+
+29
+00:01:40,299 --> 00:01:45,948
+subprocessos todas as atividades Okay todas as atividades, terminamos
+
+30
+00:01:45,959 --> 00:01:48,129
+eh, eh, são treze ao todo, elas
+
+31
+00:01:48,138 --> 00:01:50,769
+vão ter vão desaguar nisso aqui.
+
+32
+00:01:50,778 --> 00:01:54,370
+Oh desse cara aqui que é a A a a
+
+33
+00:01:54,379 --> 00:01:57,808
+minha representação, a minha representação por meio de uma
+
+34
+00:01:57,819 --> 00:02:01,290
+abstração, usando a anotação b PM pra poder mostrar
+
+35
+00:02:01,299 --> 00:02:02,808
+exatamente como acontece o processo.
+
+36
+00:02:02,819 --> 00:02:04,189
+Tá? Então vamos lá.
+
+37
+00:02:04,769 --> 00:02:07,668
+Olha que interessante o início do nosso processo aqui,
+
+38
+00:02:07,680 --> 00:02:11,159
+oh, olha, aqui o processo já começa nessa
+
+39
+00:02:11,169 --> 00:02:11,939
+identificação aqui.
+
+40
+00:02:11,949 --> 00:02:13,800
+Veja que é um símbolo um pouco diferente.
+
+41
+00:02:13,808 --> 00:02:17,139
+Então vou até que que eu acabei ando a equipe
+
+42
+00:02:17,149 --> 00:02:24,080
+de monitoramento semanalmente representando por esse reloginho, começa o
+
+43
+00:02:24,088 --> 00:02:25,610
+processo semanalmente.
+
+44
+00:02:25,618 --> 00:02:29,058
+O que que eles fazem? Solicitam? Documentação Tá
+
+45
+00:02:29,069 --> 00:02:29,689
+aqui.
+
+46
+00:02:29,699 --> 00:02:32,460
+Tá falando que essa solita eh documentação é um processo
+
+47
+00:02:32,469 --> 00:02:34,020
+que acontece de forma manual.
+
+48
+00:02:34,028 --> 00:02:37,179
+Eu poder ter aqui eh um processo automatizado pra isso
+
+49
+00:02:37,189 --> 00:02:39,758
+enviar um e-mail O que quer que seja, tá,
+
+50
+00:02:39,770 --> 00:02:44,038
+e olha que interessante, né? E a a
+
+51
+00:02:44,050 --> 00:02:47,758
+a a medida que eles estão copiando os relatórios e
+
+52
+00:02:47,770 --> 00:02:48,460
+sumários.
+
+53
+00:02:48,469 --> 00:02:52,419
+Eles também estão solicitando relatório de acompanhamento para os gestores
+
+54
+00:02:52,429 --> 00:02:53,338
+da carteira.
+
+55
+00:02:53,349 --> 00:02:55,058
+Então isso aqui cê vê que é uma atividade que
+
+56
+00:02:55,069 --> 00:02:57,580
+a gente puder entender aqui, que elas rolam de
+
+57
+00:02:57,588 --> 00:03:01,399
+forma que, meio que paralelas parece tá legal.
+
+58
+00:03:01,409 --> 00:03:05,629
+Bom, enfim, feito isso, né.
+
+59
+00:03:05,639 --> 00:03:08,889
+O gestor da carteira solicita o acompanhamento, o responsável
+
+60
+00:03:08,899 --> 00:03:10,088
+pela ação.
+
+61
+00:03:10,099 --> 00:03:13,028
+Ele elabora o relatório de acompanhamento, uma vez que
+
+62
+00:03:13,038 --> 00:03:16,788
+ele elaborou, ele manda pro gestor da carteira,
+
+63
+00:03:16,800 --> 00:03:19,469
+Gente, esses nomes aqui foram dados aqui.
+
+64
+00:03:19,479 --> 00:03:22,788
+Em relação ao processo, Tá Você pode falar que
+
+65
+00:03:22,800 --> 00:03:24,679
+o gestor da carteira aqui é o chefe e o
+
+66
+00:03:24,689 --> 00:03:27,179
+e o responsável pela ação é o técnico, não
+
+67
+00:03:27,189 --> 00:03:27,860
+tem problema.
+
+68
+00:03:27,868 --> 00:03:30,399
+Tá os no os nomes aqui, dessas raias,
+
+69
+00:03:30,409 --> 00:03:33,338
+as propo, as proposições das raias, dessas interações
+
+70
+00:03:33,349 --> 00:03:33,979
+é com você.
+
+71
+00:03:33,990 --> 00:03:36,020
+Eu coloquei aqui, equipe, eh, nós sugerimos
+
+72
+00:03:36,028 --> 00:03:36,179
+aqui.
+
+73
+00:03:36,189 --> 00:03:38,618
+Equipe de monitoramento gestor da carteira, que a gente
+
+74
+00:03:38,629 --> 00:03:40,618
+tá falando, de de aço, né? Então,
+
+75
+00:03:40,629 --> 00:03:43,088
+a gente fala que cada ação é uma carteira,
+
+76
+00:03:43,099 --> 00:03:45,580
+então é o dono daquela ação, é o dono
+
+77
+00:03:45,588 --> 00:03:47,580
+daquela carteira e eu tenho o gestor daquela carteira.
+
+78
+00:03:47,588 --> 00:03:49,618
+Tá então o responsável pela ação e o gestor da
+
+79
+00:03:49,629 --> 00:03:50,080
+carteira.
+
+80
+00:03:50,088 --> 00:03:52,979
+Então, uma vez que o técnico lá o responsável
+
+81
+00:03:52,990 --> 00:03:54,919
+pela ação, elaborou o relatório.
+
+82
+00:03:54,929 --> 00:03:58,479
+Ele manda pro gestor que vai revisar esse cara tá?
+
+83
+00:03:58,490 --> 00:04:01,610
+Vai revisar esse relatório de acompanhamento, claro, pessoal,
+
+84
+00:04:01,618 --> 00:04:02,778
+que aqui, se você fala assim, poxa,
+
+85
+00:04:02,788 --> 00:04:04,868
+mas e e se não tiver legal o que que
+
+86
+00:04:04,879 --> 00:04:07,580
+vai acontecer? Vamos supor que o cara revisou essa
+
+87
+00:04:07,588 --> 00:04:09,419
+revisão, não tá okay? Ah, o que
+
+88
+00:04:09,429 --> 00:04:11,460
+que vai acontecer? Gente, melhoria de processo,
+
+89
+00:04:11,469 --> 00:04:14,979
+podia ter aqui? Oh, né? Aqui eu
+
+90
+00:04:14,990 --> 00:04:18,959
+revisei revisão aí vem aqui a revisão pra cá revisão
+
+91
+00:04:18,970 --> 00:04:24,750
+Okay pra cá Okay revisão, não! Okay elabora
+
+92
+00:04:24,759 --> 00:04:27,379
+relatório de novo, Tem problema? Nenhum.
+
+93
+00:04:27,389 --> 00:04:31,559
+Melhoria de processo tá? Poderia colocar eh, eh
+
+94
+00:04:31,569 --> 00:04:35,600
+uma forma diferente Enfim, você que vai definir tá,
+
+95
+00:04:35,608 --> 00:04:37,970
+Então eu vou apagar aqui pra gente continuar a nossa
+
+96
+00:04:37,980 --> 00:04:38,439
+interação.
+
+97
+00:04:38,449 --> 00:04:40,920
+Tá lá revisar o relatório legal.
+
+98
+00:04:40,928 --> 00:04:44,759
+Tá? Okay? Vou consolidar eh no sumário executivo?
+
+99
+00:04:44,769 --> 00:04:46,319
+Então, revisar o relatório é uma coisa.
+
+100
+00:04:46,329 --> 00:04:48,678
+Consolidar é um processo diferente.
+
+101
+00:04:48,689 --> 00:04:53,298
+Então, vai ter a essa eh essa essa consolidação.
+
+102
+00:04:53,309 --> 00:04:56,059
+Uma vez consolidado né, o que que ele vai
+
+103
+00:04:56,069 --> 00:04:59,178
+fazer? Ele vai mandar isso aqui pra pro pessoal
+
+104
+00:04:59,189 --> 00:05:02,220
+criticar, né? Quem vai criticar a equipe que
+
+105
+00:05:02,230 --> 00:05:04,238
+faz o monitoramento, a equipe de monitoramento, tu
+
+106
+00:05:04,250 --> 00:05:07,420
+olha essa essa, essa consolidação e vai avaliar opa
+
+107
+00:05:07,428 --> 00:05:09,329
+pera, aí tá legal, não tá legal isso!
+
+108
+00:05:09,338 --> 00:05:11,689
+Ele o ele tem um documento de entrada, que
+
+109
+00:05:11,699 --> 00:05:13,689
+é o a ata de reunião, né? Com
+
+110
+00:05:13,699 --> 00:05:16,100
+E-mail com críticas anteriores, então ele faz aqui um
+
+111
+00:05:16,108 --> 00:05:16,850
+casamento.
+
+112
+00:05:16,858 --> 00:05:19,889
+Ele busca informações pra fazer essa crítica.
+
+113
+00:05:19,899 --> 00:05:23,649
+Adequadamente, né? Pra fazer essa crítica adequadamente e
+
+114
+00:05:23,660 --> 00:05:28,048
+observe que interessante eh uma vez criticado! Se não
+
+115
+00:05:28,059 --> 00:05:30,189
+tem ajuste, sigo adiante.
+
+116
+00:05:30,199 --> 00:05:33,290
+Se tem ajuste, eu mando providenciar o ajuste.
+
+117
+00:05:33,298 --> 00:05:35,809
+E aí olha só essa providência ajuste.
+
+118
+00:05:35,819 --> 00:05:39,250
+Veja que ela volta pra cá, né? E
+
+119
+00:05:39,259 --> 00:05:42,928
+aqui a gente vai pro providenciar ajuste O ajuste foi
+
+120
+00:05:42,939 --> 00:05:46,410
+providenciado v Sobe de novo, oh, sobe de
+
+121
+00:05:46,420 --> 00:05:49,689
+novo, tá legal, Eu poderia aqui mandar pro
+
+122
+00:05:49,699 --> 00:05:53,649
+gestor da da carteira, providenciar ajuste e pedir aqui
+
+123
+00:05:53,660 --> 00:05:58,410
+pro técnico, né? Uma outra atividade realizar ajuste,
+
+124
+00:05:58,420 --> 00:06:01,970
+volto pra ele consolidar, volto pra cá, ou
+
+125
+00:06:01,980 --> 00:06:05,858
+seja, poderia estabelecer estratégias diferentes em relação ao fluxo,
+
+126
+00:06:05,869 --> 00:06:07,809
+à percepção da minha estrutura aqui.
+
+127
+00:06:07,819 --> 00:06:10,189
+Tá então também por que que eu tô fazendo esse
+
+128
+00:06:10,199 --> 00:06:13,369
+exercício pra mostrar pra vocês que eu tô pensando em
+
+129
+00:06:13,379 --> 00:06:17,134
+outras perspectivas que podem ocorrer? Também? Tá lembrando
+
+130
+00:06:17,144 --> 00:06:19,574
+que esse fluxo representa aquela verdade.
+
+131
+00:06:19,584 --> 00:06:21,975
+Mas aqui a gente tá fazendo uma análise, tá
+
+132
+00:06:21,983 --> 00:06:24,814
+até pra pra mostrar pra vocês que além de representar
+
+133
+00:06:24,824 --> 00:06:27,553
+a verdade, eu posso, claro, pensar também
+
+134
+00:06:27,564 --> 00:06:31,053
+em perspectivas um pouco diferenciadas aqui eh com o objetivo
+
+135
+00:06:31,064 --> 00:06:32,213
+da da da melhoria.
+
+136
+00:06:32,225 --> 00:06:34,975
+Tá legal, Então olha, só não necessita de
+
+137
+00:06:34,983 --> 00:06:39,278
+ajuste que que eu faço publico publico o meu relatório.
+
+138
+00:06:39,290 --> 00:06:41,238
+Então eh publicar.
+
+139
+00:06:41,250 --> 00:06:44,259
+Tá aqui, Oh relatório é o eu Gero um
+
+140
+00:06:44,269 --> 00:06:45,500
+documento chamado relatório.
+
+141
+00:06:46,129 --> 00:06:50,579
+Uma vez publicado o relatório, eu consolida o sumário
+
+142
+00:06:50,588 --> 00:06:53,238
+executivo tá aqui, oh, presta atenção, Cê
+
+143
+00:06:53,250 --> 00:06:53,420
+vai falar.
+
+144
+00:06:53,428 --> 00:06:54,379
+Ah, pô, mas eu já não fiz isso,
+
+145
+00:06:54,389 --> 00:06:57,278
+não, aqui é sumário da carteira só de uma
+
+146
+00:06:57,290 --> 00:06:57,959
+ação.
+
+147
+00:06:57,970 --> 00:07:00,798
+Aqui é o sumário de todas as ações.
+
+148
+00:07:00,809 --> 00:07:03,319
+Eu tô falando do monitoramento, então todas as a
+
+149
+00:07:03,329 --> 00:07:06,720
+as ações vão ser consolidadas em um único sumário Se
+
+150
+00:07:06,730 --> 00:07:09,199
+a se se se se a sua estratégia de diretor
+
+151
+00:07:09,209 --> 00:07:11,439
+de de do PDT i, né do seu plano
+
+152
+00:07:11,449 --> 00:07:15,612
+diretor de de Tecnologia tiver lá cinco seis, sete,
+
+153
+00:07:15,622 --> 00:07:18,952
+oito nove ações, as nove serão monitoradas.
+
+154
+00:07:18,963 --> 00:07:23,122
+As nove terão gestores de carteiras, as nove terão
+
+155
+00:07:23,132 --> 00:07:26,932
+relatórios eh, eh relativos da carteira.
+
+156
+00:07:26,942 --> 00:07:29,552
+Essa consolidação envolve o dado de hoje.
+
+157
+00:07:29,562 --> 00:07:31,971
+Envolve o dado de de, do, da da
+
+158
+00:07:31,983 --> 00:07:33,471
+da semana passada, e assim em diante.
+
+159
+00:07:33,483 --> 00:07:36,012
+Por isso a consolidação ajuste e tudo mais.
+
+160
+00:07:36,023 --> 00:07:38,791
+Isso aí vai depender de cada organização e da tratativa
+
+161
+00:07:38,802 --> 00:07:40,372
+em relação a isso aqui a gente tá falando do
+
+162
+00:07:40,382 --> 00:07:42,704
+nível um pouco mais macro, né? Sem entrar
+
+163
+00:07:42,716 --> 00:07:45,165
+no detalhe, exatamente como é feita essa consolidação.
+
+164
+00:07:45,175 --> 00:07:47,985
+Como é feita essa publicação? E et cetera tá.
+
+165
+00:07:47,995 --> 00:07:50,665
+E uma vez juntando todas essas carteiras, eu tenho
+
+166
+00:07:50,675 --> 00:07:53,365
+um sumário só que é essa última atividade.
+
+167
+00:07:53,375 --> 00:07:55,574
+Essa atividade que tá aqui em cima consolidar o sumário
+
+168
+00:07:55,584 --> 00:07:58,745
+executivo uma vez consolidado é sumário, Aí eu faço
+
+169
+00:07:58,755 --> 00:07:59,935
+a publicação.
+
+170
+00:07:59,946 --> 00:08:02,384
+Então eu tenho aqui um for um documento chamado sumário
+
+171
+00:08:02,394 --> 00:08:05,105
+executivo que aqui já publicado, ou seja, já
+
+172
+00:08:05,115 --> 00:08:09,139
+está formalizado e a forma de eu formalizar então publiquei
+
+173
+00:08:09,149 --> 00:08:09,939
+o sumário.
+
+174
+00:08:09,949 --> 00:08:13,399
+Eu vou comunicar a a a publicação dessa documentação pra
+
+175
+00:08:13,410 --> 00:08:15,199
+que que eu vou comunicar? Porque uma coisa assim
+
+176
+00:08:15,209 --> 00:08:17,540
+oh, tá, publiquei, tá então agora eu
+
+177
+00:08:17,548 --> 00:08:20,298
+vou comunicar então olha só pessoal, o sumário já
+
+178
+00:08:20,309 --> 00:08:23,139
+está disponível na nossa intranet.
+
+179
+00:08:23,149 --> 00:08:26,790
+O sumário já está dispo disponível no no, no
+
+180
+00:08:26,798 --> 00:08:29,329
+servidor tal na pasta tal tá ali dentro, o
+
+181
+00:08:29,338 --> 00:08:32,029
+cara vai lá e consulta, né? Então então
+
+182
+00:08:32,038 --> 00:08:34,788
+a eu publico com lico pra aqui, pra gente
+
+183
+00:08:34,798 --> 00:08:38,590
+pressupõe uma atividade, eh, eh distinta, tá,
+
+184
+00:08:38,599 --> 00:08:41,369
+eu poderia por exemplo, como uma melhoria, colocar
+
+185
+00:08:41,379 --> 00:08:43,908
+um um um nesse, publicar um sumário aqui e
+
+186
+00:08:43,918 --> 00:08:47,229
+colocar um Mazinho aqui oh entender que essa atividade aqui
+
+187
+00:08:47,239 --> 00:08:50,349
+tem outra sub sub esse e esse processo né?
+
+188
+00:08:50,359 --> 00:08:53,308
+Teria um um subprocessos teria outras atividades aqui dentro?
+
+189
+00:08:53,320 --> 00:08:54,288
+Tá legal.
+
+190
+00:08:54,298 --> 00:08:59,119
+Posteriormente publiquei, comuniquei todo mundo aí eu vou preparar
+
+191
+00:08:59,129 --> 00:09:00,668
+a reunião de coordenação.
+
+192
+00:09:00,678 --> 00:09:02,269
+Ou seja, tá tudo publicado.
+
+193
+00:09:02,279 --> 00:09:04,509
+Todo mundo já sabe onde tá, todo mundo já
+
+194
+00:09:04,519 --> 00:09:04,668
+tem.
+
+195
+00:09:04,678 --> 00:09:07,288
+O conhecimento já tá formalizado.
+
+196
+00:09:07,298 --> 00:09:09,710
+Enfim, já tá tudo esquematizado, Já levantei,
+
+197
+00:09:09,719 --> 00:09:12,690
+já fiz tudo, toda a preparação, a última
+
+198
+00:09:12,700 --> 00:09:17,250
+coisa desse processo é a apresentação de tudo aquilo que
+
+199
+00:09:17,259 --> 00:09:22,450
+foi coletado monitorado, numa reunião de coordenação e aí
+
+200
+00:09:22,460 --> 00:09:25,989
+tá lá providenciar a apresentação para a reunião de coordenação.
+
+201
+00:09:26,469 --> 00:09:27,820
+Aí cê vai falar assim? Pô, Mas isso
+
+202
+00:09:27,830 --> 00:09:30,418
+aqui tem mais coisa, né? Com certeza esse
+
+203
+00:09:30,428 --> 00:09:31,879
+aqui poderia ter um mais i! Q o que
+
+204
+00:09:31,889 --> 00:09:33,359
+que significa providenciar.
+
+205
+00:09:33,369 --> 00:09:36,719
+Eu posso pegar essa essa reunião aqui, essa apresentação
+
+206
+00:09:36,729 --> 00:09:40,139
+mandar pro meu pro gestor pro chefe de de de
+
+207
+00:09:40,149 --> 00:09:42,759
+geral pra poder avaliar essa apresentação.
+
+208
+00:09:42,769 --> 00:09:45,479
+Pode ser que ela tenha sido corrigida, pode ser
+
+209
+00:09:45,489 --> 00:09:48,840
+que tenha, eh ter sido acrescido mais.
+
+210
+00:09:48,849 --> 00:09:50,798
+Enfim, uma série de perspectivas.
+
+211
+00:09:50,808 --> 00:09:54,399
+E pode que isso aqui pode gerar um outro processo
+
+212
+00:09:54,408 --> 00:09:59,149
+aqui, oh, tá um outro processo diferente.
+
+213
+00:09:59,158 --> 00:10:02,969
+Por fim, quando quando ele providencia tá tudo certinho
+
+214
+00:10:02,979 --> 00:10:05,928
+aqui, finaliza, por meio do envio de uma
+
+215
+00:10:05,940 --> 00:10:10,070
+mensagem aí pra pra pra pros envolvidos que esse processo
+
+216
+00:10:10,080 --> 00:10:14,808
+terminou? Tá pessoal? Esse foi nosso quinto caso,
+
+217
+00:10:14,820 --> 00:10:19,399
+nosso eh derradeiro! Mostramos aqui uma perspectiva diferente.
+
+218
+00:10:19,408 --> 00:10:21,658
+Volto a dizer não tem certo, não tem errado,
+
+219
+00:10:21,668 --> 00:10:25,739
+É simplesmente efeito didático da estruturação de toda a ideia
+
+220
+00:10:25,750 --> 00:10:28,619
+que a gente vem construindo ao longo da disciplina.
+
+221
+00:10:28,629 --> 00:10:31,500
+Eh de pro eh gerenciamento moderado de negócio, tá
+
+222
+00:10:31,509 --> 00:10:32,158
+legal.
+
+223
+00:10:32,168 --> 00:10:33,139
+Obrigado por você.
+
+224
+00:10:33,149 --> 00:10:37,200
+Ter participado com a gente eh nos e nos estudos
+
+225
+00:10:37,210 --> 00:10:37,869
+de caso.
+
+226
+00:10:37,879 --> 00:10:41,678
+Obrigado pela sua presença e até uma próxima! Um
+
+227
+00:10:41,690 --> 00:10:42,899
+abraço! Até mais!
+

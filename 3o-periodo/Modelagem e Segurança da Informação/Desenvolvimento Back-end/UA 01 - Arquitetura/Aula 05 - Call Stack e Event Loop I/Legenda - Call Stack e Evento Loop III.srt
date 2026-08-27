@@ -1,0 +1,524 @@
+1
+00:00:06,309 --> 00:00:09,398
+Olá, vamos falar um pouquinho sobre e event loop,
+
+2
+00:00:09,409 --> 00:00:13,159
+né? Eh quando você trabalha com funções, sinc,
+
+3
+00:00:13,169 --> 00:00:15,079
+né? Você usa o modelo de pilha Por quê?
+
+4
+00:00:15,089 --> 00:00:18,620
+Porque você tá sempre chamando a função anterior, então
+
+5
+00:00:18,629 --> 00:00:20,179
+você tem que empilhar e desempenhar.
+
+6
+00:00:20,879 --> 00:00:25,789
+Quando você vai tratar a saída de são eventos tem
+
+7
+00:00:25,798 --> 00:00:28,289
+que ser na ordem que acontece, né? Então
+
+8
+00:00:28,298 --> 00:00:31,769
+existe uma coisa chamada, né? Que seria fila
+
+9
+00:00:31,780 --> 00:00:35,889
+de cabe elas são executadas na ordem em que são
+
+10
+00:00:35,899 --> 00:00:39,009
+geradas, né? E o que acontece no evento?
+
+11
+00:00:39,020 --> 00:00:42,649
+LOOP? O evento loop vai consumir uma cabe dessa
+
+12
+00:00:42,658 --> 00:00:46,389
+fila e vai jogar para a execução uma de cada
+
+13
+00:00:46,399 --> 00:00:51,399
+vez, né, Bom, então, como é
+
+14
+00:00:51,408 --> 00:00:55,009
+que a gente vai fazer? A estrutura que a
+
+15
+00:00:55,020 --> 00:00:58,149
+gente tem é a estrutura de fila F f não.
+
+16
+00:00:58,158 --> 00:01:00,329
+Ou seja, quem entra primeiro é executado primeiro.
+
+17
+00:01:01,469 --> 00:01:04,448
+Ah, eu tenho as funções de cobec pra cada
+
+18
+00:01:04,459 --> 00:01:05,198
+que eu tenho ali.
+
+19
+00:01:05,209 --> 00:01:08,000
+Por exemplo, se eu tiver que ler um arquivo,
+
+20
+00:01:08,010 --> 00:01:10,379
+né um f s eu vou ter uma que vai
+
+21
+00:01:10,388 --> 00:01:13,719
+fazer a leitura desse arquivo e quando esse valor retornar,
+
+22
+00:01:13,730 --> 00:01:15,159
+eu vou cuidar desse valor.
+
+23
+00:01:15,168 --> 00:01:18,040
+Então eu tenho uma cobec pra aquilo né? Então,
+
+24
+00:01:18,049 --> 00:01:21,359
+assim aquela cobec tá preparada pra ser executada quando ela
+
+25
+00:01:21,370 --> 00:01:22,120
+acaba de executar.
+
+26
+00:01:22,129 --> 00:01:23,689
+Ela coloca, olha, executa com o valor,
+
+27
+00:01:23,698 --> 00:01:26,388
+tal e manda pra fila, né? Então,
+
+28
+00:01:26,400 --> 00:01:29,400
+cada vez que uma termina, ela pega aquela cabe
+
+29
+00:01:29,409 --> 00:01:31,250
+que tá associada a ela e fala assim Oh,
+
+30
+00:01:31,260 --> 00:01:34,308
+o valor é esse tom vai executar, mas só
+
+31
+00:01:34,319 --> 00:01:36,028
+que ela vai entrar na fila que tem outras executando
+
+32
+00:01:36,040 --> 00:01:39,790
+também, Tá? Ah, a vazia.
+
+33
+00:01:39,799 --> 00:01:42,230
+Como assim? Sempre que a tá vazia a próxima
+
+34
+00:01:42,239 --> 00:01:44,769
+cabeca executa, né? Então que que ah!
+
+35
+00:01:44,778 --> 00:01:46,709
+Esse cara fica olhando o evento loop, Ele fica
+
+36
+00:01:46,719 --> 00:01:49,109
+olhando, olha, tem alguém executando, o principal
+
+37
+00:01:49,120 --> 00:01:51,859
+tem, então não faz nada, acabou de executar
+
+38
+00:01:51,870 --> 00:01:52,388
+no meu principal.
+
+39
+00:01:52,400 --> 00:01:53,278
+Acabou beleza.
+
+40
+00:01:53,290 --> 00:01:57,620
+Então esse cara entra pra execução e vai pegar qualquer
+
+41
+00:01:57,629 --> 00:01:58,430
+chance que tenha.
+
+42
+00:01:58,439 --> 00:02:00,969
+Vai executando uma cabe, porque as como sendo as
+
+43
+00:02:00,980 --> 00:02:03,489
+cinco, Mas elas não têm prioridade sobre a execução.
+
+44
+00:02:03,500 --> 00:02:07,150
+Principal, né? O uso de o único E
+
+45
+00:02:07,159 --> 00:02:09,349
+que é o que seria o evento loop? E
+
+46
+00:02:09,360 --> 00:02:15,550
+o que seria aquele pra poder acessar Principalmente operações o,
+
+47
+00:02:15,558 --> 00:02:18,669
+né? Sistema de Sócrates across isso por causa lib.
+
+48
+00:02:18,679 --> 00:02:21,490
+U v e modelo de eventos com eventos? Loop,
+
+49
+00:02:21,500 --> 00:02:25,110
+né? Então, assim é sempre interessante observar esse
+
+50
+00:02:25,118 --> 00:02:26,069
+modelo, né.
+
+51
+00:02:26,080 --> 00:02:27,569
+O que a gente tem lá é o evento loop
+
+52
+00:02:28,379 --> 00:02:34,919
+que tá consumindo tá, os eventos as executam e
+
+53
+00:02:34,929 --> 00:02:36,899
+mandam executar Cobec.
+
+54
+00:02:36,909 --> 00:02:39,449
+Como tem muita gente ali em paralelo, essas COBE
+
+55
+00:02:39,460 --> 00:02:42,618
+vão entrar numa fila porque não conseguem executar todas.
+
+56
+00:02:42,629 --> 00:02:45,139
+Então, assim geraram três, quatro na ordem de
+
+57
+00:02:45,149 --> 00:02:47,379
+entrada, vão entrando na fila e daí vão sendo
+
+58
+00:02:47,389 --> 00:02:48,338
+executadas.
+
+59
+00:02:48,349 --> 00:02:55,580
+Tá, bom, Eu tenho vários elementos no eh
+
+60
+00:02:55,588 --> 00:02:58,979
+no ciclo de vida, né? Desse cara,
+
+61
+00:02:58,990 --> 00:03:02,740
+eu tenho lá sete ou sete intervalo, né?
+
+62
+00:03:02,750 --> 00:03:04,308
+Que isso aí seria todo o ciclo de vida que
+
+63
+00:03:04,319 --> 00:03:08,819
+ocorre dentro desse evento loop nos times sete, sete
+
+64
+00:03:08,830 --> 00:03:10,618
+intervalo são os primeiros a serem executados.
+
+65
+00:03:10,629 --> 00:03:16,409
+Depois é seriam as COBE adiadas depois uso interno.
+
+66
+00:03:16,419 --> 00:03:19,308
+Paul O e Cobe, né? Seria eventos de
+
+67
+00:03:19,319 --> 00:03:22,750
+data, né? Aqueles eventos de data recebeu dados
+
+68
+00:03:22,758 --> 00:03:26,199
+e vai passar a chamar as COBE de O EH
+
+69
+00:03:26,210 --> 00:03:31,639
+Cheque sete, Mediate C Então assim o loop de
+
+70
+00:03:31,649 --> 00:03:35,479
+eventos ele Na verdade ele passa por todas essas fases
+
+71
+00:03:35,490 --> 00:03:39,838
+e cada uma das fases tem uma fila, Então
+
+72
+00:03:39,849 --> 00:03:44,800
+não é uma, são várias! São várias filas
+
+73
+00:03:44,808 --> 00:03:47,538
+de eventos, né? De Cox.
+
+74
+00:03:47,550 --> 00:03:49,919
+E aí, de acordo com o evento que tá
+
+75
+00:03:49,929 --> 00:03:53,319
+sendo tratado, ele vai chamar de uma dessas uma
+
+76
+00:03:53,330 --> 00:03:56,580
+dessas filas de Cox, né? Porque algumas coisas
+
+77
+00:03:56,588 --> 00:03:57,819
+têm mais prioridade que outras.
+
+78
+00:03:58,038 --> 00:04:01,129
+O timer ele tem prioridade o pending logo em seguida,
+
+79
+00:04:01,139 --> 00:04:05,520
+depois o os internos depois o Pauly O depois o
+
+80
+00:04:05,528 --> 00:04:09,868
+s sete por último que é aquele evento que é
+
+81
+00:04:09,879 --> 00:04:12,399
+o evento que a gente tem Então, de acordo
+
+82
+00:04:12,409 --> 00:04:14,610
+com o tipo de evento, ele vai executar antes
+
+83
+00:04:14,618 --> 00:04:18,488
+ou depois esse loop fica girando ali, cada um
+
+84
+00:04:18,500 --> 00:04:24,088
+tem uma, né? Ah, aqui eu tenho
+
+85
+00:04:24,100 --> 00:04:28,838
+um exemplo de eventos, né, Esse evento seria
+
+86
+00:04:28,850 --> 00:04:30,920
+o emissor de eventos, ele vai jogar os eventos
+
+87
+00:04:30,928 --> 00:04:32,480
+lá e vou tratar esses eventos.
+
+88
+00:04:32,488 --> 00:04:38,269
+Então aqui eu tenho o evento ne e eu falo
+
+89
+00:04:38,278 --> 00:04:45,750
+o seguinte olha quando for emitido o evento valor execute
+
+90
+00:04:45,759 --> 00:04:49,939
+console logo emitido o valor X e aqui eu vou
+
+91
+00:04:49,949 --> 00:04:53,160
+gerar vários eventos, oh evento em ponto em t
+
+92
+00:04:53,949 --> 00:04:57,269
+valor e tá Eu tô aqui eu tô fazendo o
+
+93
+00:04:57,278 --> 00:05:00,129
+seguinte Oh, um valor executa isso.
+
+94
+00:05:00,139 --> 00:05:04,220
+Associe ao evento valor aquela função.
+
+95
+00:05:05,019 --> 00:05:08,750
+Aqui eu tô colocando, emite valor e emita o
+
+96
+00:05:08,759 --> 00:05:12,988
+evento, valor passando valor e que aí vai ser
+
+97
+00:05:13,000 --> 00:05:16,069
+de um a cem ou alguma coisa próxima disso.
+
+98
+00:05:16,079 --> 00:05:18,709
+Tá? Então assim é o que acontece aqui,
+
+99
+00:05:18,720 --> 00:05:24,108
+oh, Quando acontecer o valor imprime emitido o valor
+
+100
+00:05:24,119 --> 00:05:28,559
+tal aqui tá emitindo e aqui Tá que trata.
+
+101
+00:05:28,569 --> 00:05:30,879
+Então, cada vez que eu mando emitir uma coisa
+
+102
+00:05:30,889 --> 00:05:33,220
+dessas aqui vai ter uma que vai fazer alguma coisa
+
+103
+00:05:33,819 --> 00:05:36,769
+E aí eu vou no final usar Cobec tá.
+
+104
+00:05:36,778 --> 00:05:39,790
+É assim que funciona esse processo, né? Nota
+
+105
+00:05:39,798 --> 00:05:41,988
+que é bem rápido ele que tá imprimindo muita coisa.
+
+106
+00:05:42,000 --> 00:05:44,149
+Mas eu também não tenho nenhum processo de o na,
+
+107
+00:05:44,160 --> 00:05:47,959
+no cara que tá emitindo os eventos, né?
+
+108
+00:05:47,970 --> 00:05:54,988
+Bom, eu também posso pegar Eh, né?
+
+109
+00:05:55,000 --> 00:05:58,649
+Isso é o seguinte eu posso pegar, por exemplo,
+
+110
+00:05:58,660 --> 00:06:01,428
+a leitura de um arquivo através de streams, né?
+
+111
+00:06:01,439 --> 00:06:05,149
+Você vai lendo por demanda e E é importante também,
+
+112
+00:06:05,160 --> 00:06:09,108
+quando você tem uma leitura por stream de um protocolo
+
+113
+00:06:09,119 --> 00:06:11,829
+qualquer na internet, pode ser que eu esteja lendo.
+
+114
+00:06:11,838 --> 00:06:15,389
+Eh assim dados num fluxo que não envolve o fechamento
+
+115
+00:06:15,399 --> 00:06:16,329
+de uma conexão.
+
+116
+00:06:16,338 --> 00:06:19,790
+Por exemplo, quando você tem um gráfico que é
+
+117
+00:06:19,798 --> 00:06:23,119
+autorizado em tempo real e aí é interessante você ter
+
+118
+00:06:23,129 --> 00:06:24,699
+o on data.
+
+119
+00:06:24,709 --> 00:06:27,720
+Por quê? A cada vez que chegam novos dados,
+
+120
+00:06:27,730 --> 00:06:28,660
+ele vai lá.
+
+121
+00:06:28,670 --> 00:06:31,579
+O que tá ali seria o fragmento do dado,
+
+122
+00:06:31,588 --> 00:06:35,100
+vai ser impresso lá no console, Tá, Então,
+
+123
+00:06:35,108 --> 00:06:39,139
+assim, as TRE vão ser muito importantes pra trabalhar
+
+124
+00:06:39,149 --> 00:06:42,298
+com eh dados sobre demanda e o evento que vai
+
+125
+00:06:42,309 --> 00:06:44,838
+usar vai ser o evento o data, né?
+
+126
+00:06:45,910 --> 00:06:51,449
+Bom, então esses aí são alguns elementos Eh de
+
+127
+00:06:51,459 --> 00:06:55,319
+tratamento! A sí crono tá, eh essa ideia
+
+128
+00:06:55,329 --> 00:06:58,730
+de você ter as cê ter como você funciona,
+
+129
+00:06:58,738 --> 00:07:01,970
+o sistema de o sistema de geração de eventos tá
+
+130
+00:07:01,980 --> 00:07:04,449
+e isso aí já dá uma visão geral de como
+
+131
+00:07:04,459 --> 00:07:06,988
+o evento vai trabalhar com esses eventos.
+

@@ -1,0 +1,552 @@
+1
+00:00:06,099 --> 00:00:09,269
+Olá aluno, sou professor Fabrício Melo, estamos com
+
+2
+00:00:09,278 --> 00:00:13,310
+a matéria aí de fundamentos da comunicação e entraremos agora
+
+3
+00:00:13,319 --> 00:00:17,068
+no conceito de topologias de rede.
+
+4
+00:00:17,079 --> 00:00:19,789
+O que que são essas topologias de rede? Vamos
+
+5
+00:00:19,798 --> 00:00:21,670
+a elas Vamos estudar o que que seria? Quais
+
+6
+00:00:21,679 --> 00:00:24,350
+são os conceitos, o que que faz parte aí
+
+7
+00:00:24,359 --> 00:00:27,750
+desse tema tão interessante aí da parte sobre redes de
+
+8
+00:00:27,760 --> 00:00:30,510
+computadores? Olha lá nós temos ali o diagrama de
+
+9
+00:00:30,519 --> 00:00:31,649
+topologia física.
+
+10
+00:00:31,658 --> 00:00:34,609
+Primeiramente vamos definir o que que são as topologias oh
+
+11
+00:00:34,618 --> 00:00:34,999
+lá.
+
+12
+00:00:35,008 --> 00:00:39,957
+As topologias são usadas pra representar como os dispositivos,
+
+13
+00:00:39,969 --> 00:00:42,597
+né? De uma rede e as redes se conectam.
+
+14
+00:00:42,609 --> 00:00:45,097
+Ou seja, são representa através de diagrama.
+
+15
+00:00:45,109 --> 00:00:47,448
+Você vai ver muito isso aí durante o seu curso,
+
+16
+00:00:47,457 --> 00:00:51,118
+né? De topologia e são o quê documentação obrigatória
+
+17
+00:00:51,128 --> 00:00:54,277
+em qualquer rede? Então quando você vai montar uma
+
+18
+00:00:54,289 --> 00:00:57,719
+rede, você tem que ter uma topologia definida pra
+
+19
+00:00:57,728 --> 00:01:00,639
+essa rede, Então você vai observar, por exemplo,
+
+20
+00:01:00,649 --> 00:01:03,439
+esse essa imagem que está aí no seu e você
+
+21
+00:01:03,450 --> 00:01:06,278
+vai perceber que isso é um que é uma diagrama
+
+22
+00:01:06,290 --> 00:01:10,480
+de topologia e as topologias elas podem ser físicas e
+
+23
+00:01:10,489 --> 00:01:12,079
+topologias lógicas.
+
+24
+00:01:12,088 --> 00:01:15,120
+Tá no caso aqui oh temos um diagrama de topologia
+
+25
+00:01:15,129 --> 00:01:18,058
+física, o que que são topologia física Oh lá,
+
+26
+00:01:18,069 --> 00:01:21,819
+ela apresenta o layout físico da rede, Isto é,
+
+27
+00:01:21,829 --> 00:01:25,418
+oh lá, como os dispositivos estão conectados entre si,
+
+28
+00:01:25,659 --> 00:01:28,469
+Então quando você vê a ideia da conexão física dos
+
+29
+00:01:28,480 --> 00:01:34,150
+dispositivos L físico, você vai entender ele tá aqui
+
+30
+00:01:34,159 --> 00:01:36,709
+me pedindo uma topologia física.
+
+31
+00:01:36,719 --> 00:01:38,620
+Eu tenho então esse exemplo aí, Oh de um
+
+32
+00:01:38,629 --> 00:01:41,829
+diagrama de uma topologia física tá vendo? Nós temos
+
+33
+00:01:41,838 --> 00:01:42,980
+equipamentos.
+
+34
+00:01:42,989 --> 00:01:46,299
+Como é que esses equipamentos estão conectados E o mais
+
+35
+00:01:46,308 --> 00:01:49,338
+interessante? Você tem que documentar tudo, até por
+
+36
+00:01:49,349 --> 00:01:52,620
+exemplo, a sala dos equipamentos fazer identificação.
+
+37
+00:01:52,629 --> 00:01:54,939
+Tá vendo lá o armário, o terceiro andar,
+
+38
+00:01:54,948 --> 00:01:57,189
+qual é o número do do do rack? Tá
+
+39
+00:01:57,198 --> 00:01:59,930
+vendo o nome dos equipamentos tipo de cabo que tá
+
+40
+00:01:59,939 --> 00:02:02,019
+usando, então isso tudo tem que fazer parte do
+
+41
+00:02:02,028 --> 00:02:05,028
+seu diagrama, porque isso é uma documentação necessária,
+
+42
+00:02:05,040 --> 00:02:09,270
+senão você não consegue desenvolver implementar a sua rede.
+
+43
+00:02:09,278 --> 00:02:11,629
+Se você não tem um mapeamento, não tem um
+
+44
+00:02:11,639 --> 00:02:14,770
+desenho da sua topologia, Tá bom o que que
+
+45
+00:02:14,778 --> 00:02:16,949
+pode fazer parte aí da topologia? O que que
+
+46
+00:02:16,960 --> 00:02:19,250
+você tem que identificar? Oh muito cuidado com isso
+
+47
+00:02:19,258 --> 00:02:21,558
+oh o nome do dispositivo, então tem que ser
+
+48
+00:02:21,569 --> 00:02:24,875
+identificado, né? O número das más os nomes
+
+49
+00:02:24,883 --> 00:02:28,574
+das mágoas, equipamentos, suítes por exemplo, Localização
+
+50
+00:02:28,585 --> 00:02:32,854
+do dispositivo Isso também é importantíssimo Oh o endereço,
+
+51
+00:02:32,865 --> 00:02:37,534
+o andar, o número da sala, a localização
+
+52
+00:02:37,544 --> 00:02:40,054
+do rack, né? O rack é aquele armário
+
+53
+00:02:40,064 --> 00:02:43,014
+onde você vai acoplar aí, por exemplo, os
+
+54
+00:02:43,024 --> 00:02:44,774
+suítes, os equipamentos da sua rede.
+
+55
+00:02:44,784 --> 00:02:46,974
+Já pensou se você não tem endereçamento? Cê tem
+
+56
+00:02:46,985 --> 00:02:50,974
+um prédio aí enorme e você não tem a identificação
+
+57
+00:02:50,985 --> 00:02:51,794
+dos hacks.
+
+58
+00:02:52,219 --> 00:02:54,960
+Aí você vai dar uma manutenção no andar.
+
+59
+00:02:54,969 --> 00:02:57,629
+Tem lá vinte e três hacks, mas você não
+
+60
+00:02:57,639 --> 00:03:00,819
+sabe qual a numeração de cada um, então você
+
+61
+00:03:00,830 --> 00:03:03,349
+não tem uma localização, isso a sua rede se
+
+62
+00:03:03,360 --> 00:03:07,629
+torna o quê? Totalmente desorganizada não pode ser sim,
+
+63
+00:03:07,639 --> 00:03:10,729
+você tem que ter uma organização e a organização ela
+
+64
+00:03:10,740 --> 00:03:15,599
+começa a partir da identificação e a identificação faz parte
+
+65
+00:03:15,610 --> 00:03:15,800
+dessa.
+
+66
+00:03:15,808 --> 00:03:18,800
+A topologia física desse layout físico tá oh lá,
+
+67
+00:03:18,808 --> 00:03:23,240
+interface e portas que são usadas também tem que ter
+
+68
+00:03:23,250 --> 00:03:27,360
+identificação Antropologia física O tipo de cabo que você tá
+
+69
+00:03:27,368 --> 00:03:30,800
+usando cê tá usando o quê? Xi praticamente não
+
+70
+00:03:30,808 --> 00:03:32,979
+é mais usado aí em redes locais, mas cê
+
+71
+00:03:32,990 --> 00:03:34,838
+tá usando o u t p o t p que
+
+72
+00:03:34,849 --> 00:03:39,062
+são os famosos cabos aí os trançados ou você tá
+
+73
+00:03:39,072 --> 00:03:41,542
+usando fibra óptica? Você pode observar aqui oh na
+
+74
+00:03:41,551 --> 00:03:44,703
+no nosso diagrama aqui oh lá eu tenho a identificação
+
+75
+00:03:44,711 --> 00:03:48,203
+do cabo Oh oh cabo u t p categoria cinco
+
+76
+00:03:48,211 --> 00:03:50,143
+e ou seja, ele tá usando um cabo sem
+
+77
+00:03:50,151 --> 00:03:53,461
+blindagem né? Da categoria cinco e tá vendo oh,
+
+78
+00:03:53,473 --> 00:03:56,562
+tá identificado oh! O tipo de cabeamento que tá
+
+79
+00:03:56,572 --> 00:04:00,181
+sendo utilizado pode ver também que tá identificado Oh Armário
+
+80
+00:04:00,192 --> 00:04:04,534
+telecom segundo andar rack quatro Então se eu precisar ir
+
+81
+00:04:04,545 --> 00:04:09,205
+lá tá identificado oh lá Armário telecom terceiro andar rack
+
+82
+00:04:09,216 --> 00:04:13,365
+quatro Sala de equipamentos térreo cento e um Aí eu
+
+83
+00:04:13,376 --> 00:04:15,545
+tenho um painel de utilidades que tá o ra o
+
+84
+00:04:15,555 --> 00:04:18,485
+rack número dois tá vendo? É uma identificação que
+
+85
+00:04:18,495 --> 00:04:19,846
+fica muito mais fácil.
+
+86
+00:04:19,855 --> 00:04:23,966
+Quando você pega esse mapa, você consegue enxergar cada
+
+87
+00:04:23,975 --> 00:04:27,798
+um dos dispositivos cabeamento ou seja, tudo que é
+
+88
+00:04:27,809 --> 00:04:31,019
+organizado é mais fácil de sempre disso a rede,
+
+89
+00:04:31,028 --> 00:04:34,738
+quando bem organizada é mais fácil de gerir, é
+
+90
+00:04:34,750 --> 00:04:38,230
+mais fácil de montar, Então você precisa ter essa
+
+91
+00:04:38,238 --> 00:04:43,459
+organização através aí da topologia física okay agora e a
+
+92
+00:04:43,470 --> 00:04:46,540
+topologia lógica é a topologia.
+
+93
+00:04:46,548 --> 00:04:49,579
+Também pode ser lógica a topologia de rede lógico.
+
+94
+00:04:49,588 --> 00:04:52,819
+Ela mostra como os dispositivos são conectados.
+
+95
+00:04:52,829 --> 00:04:56,379
+Logicamente a rede, ou seja, é sobre como
+
+96
+00:04:56,389 --> 00:05:01,338
+os dados são transferidos pela rede seus fluxos e conexões.
+
+97
+00:05:01,350 --> 00:05:04,500
+Então, você já tem uma ideia dos dados da
+
+98
+00:05:04,509 --> 00:05:08,619
+lógica de como eles serão transferidos aí das máquinas.
+
+99
+00:05:08,629 --> 00:05:11,619
+As máquinas foram identificadas de maneira física.
+
+100
+00:05:11,629 --> 00:05:15,160
+Agora você precisa fazer a identificação de maneira lógica,
+
+101
+00:05:15,170 --> 00:05:16,939
+como é a identificação? Tá vendo? Oh!
+
+102
+00:05:16,949 --> 00:05:20,369
+E você tem aí no nosso diagrama eh como que
+
+103
+00:05:20,379 --> 00:05:22,528
+é feito o fluxo de dados.
+
+104
+00:05:22,540 --> 00:05:26,910
+Tá vendo oh nativa vel Tá vendo voz Aí você
+
+105
+00:05:26,920 --> 00:05:29,250
+trava o protocolo que você tá Tá usando? Tá
+
+106
+00:05:29,259 --> 00:05:31,088
+vendo oh essa máquina aí tá usando o d HC
+
+107
+00:05:31,100 --> 00:05:35,250
+p Provavelmente é uma máquina que pode fazer aí né?
+
+108
+00:05:35,259 --> 00:05:38,579
+A origem dos IPs das máquinas que vão conectar a
+
+109
+00:05:38,588 --> 00:05:41,178
+rede tá tá ou tá recebendo, né? O
+
+110
+00:05:41,189 --> 00:05:43,369
+i p pelo d HC p Então você tem uma
+
+111
+00:05:43,379 --> 00:05:47,819
+identificação lógica de endereçamento lógico da máquina que aí você
+
+112
+00:05:47,829 --> 00:05:52,238
+consegue saber como que essas máquinas estão se comunicando.
+
+113
+00:05:52,250 --> 00:05:54,899
+Olha lá o que que você tem na topologia l
+
+114
+00:05:54,910 --> 00:05:59,790
+o nome do dispositivo oh os endereços i p pode
+
+115
+00:05:59,798 --> 00:06:01,290
+ver que aqui no nosso diagrama oh lá, oh,
+
+116
+00:06:01,298 --> 00:06:05,769
+as máquinas são constituídas, identificadas pelos ipês, que
+
+117
+00:06:05,778 --> 00:06:09,750
+são esses números aí números lógicos que fazem a identificação
+
+118
+00:06:09,759 --> 00:06:13,670
+de cada dispositivo que está na sua rede Okay,
+
+119
+00:06:13,678 --> 00:06:18,204
+oh lá os identificadores de interface velocidade dos links,
+
+120
+00:06:18,213 --> 00:06:22,975
+os modos do, né, Tá usando o quê?
+
+121
+00:06:22,983 --> 00:06:27,184
+Um duplex pô r r é quando você tem uma
+
+122
+00:06:27,194 --> 00:06:31,165
+comunicação nos dois sentidos sobe de maneira alternada a máquina
+
+123
+00:06:31,173 --> 00:06:31,625
+envia.
+
+124
+00:06:32,309 --> 00:06:35,879
+Depois que ela envia a outra vai poder também enviar.
+
+125
+00:06:35,889 --> 00:06:37,920
+Então cê tem um fluxo, ida e vinda,
+
+126
+00:06:37,928 --> 00:06:41,238
+mas de maneira alternado e temos o duplex que é
+
+127
+00:06:41,250 --> 00:06:44,959
+quando ambos podem enviar e receber ao mesmo tempo Tá
+
+128
+00:06:44,970 --> 00:06:46,439
+oh lá as vãs, né? Que são as
+
+129
+00:06:46,449 --> 00:06:49,949
+as redes locais virtuais, os troncos, o éter
+
+130
+00:06:49,959 --> 00:06:52,639
+chames e os o padrão e rota.
+
+131
+00:06:52,649 --> 00:06:54,838
+Ou seja, Gate é o portal é uma espécie
+
+132
+00:06:54,850 --> 00:06:57,494
+de roteador, Então tá vendo que são eh,
+
+133
+00:06:57,504 --> 00:07:02,153
+eh informações relacionadas ao que a parte lógica, como
+
+134
+00:07:02,165 --> 00:07:05,074
+os computadores, como os dispositivos irão se comunicar.
+
+135
+00:07:05,084 --> 00:07:07,875
+Obviamente, você vai ver isso aí? Essas identificações
+
+136
+00:07:07,884 --> 00:07:12,314
+com mais detalhes, tá bom, tranquilo, entendido.
+
+137
+00:07:12,324 --> 00:07:16,113
+Então, fechamos esse conteúdo aí das topologias de redes
+
+138
+00:07:16,125 --> 00:07:20,375
+física e lógica e até o próximo conteúdo
+

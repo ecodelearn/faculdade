@@ -1,0 +1,552 @@
+1
+00:00:06,379 --> 00:00:09,189
+vamos continuar? Tá, Nós falamos no primeiro bloco
+
+2
+00:00:09,198 --> 00:00:11,939
+sobre a questão da história, né? Da segurança
+
+3
+00:00:11,948 --> 00:00:12,509
+da informação.
+
+4
+00:00:12,519 --> 00:00:13,939
+E agora a gente vai falar sobre um, vamos
+
+5
+00:00:13,948 --> 00:00:16,850
+entrar na segurança da informação em si? Tá okay!
+
+6
+00:00:16,859 --> 00:00:21,958
+Eh, vamos lá! A segurança da informação é
+
+7
+00:00:21,969 --> 00:00:25,280
+uma disciplina dedicada a proteger a FIDE.
+
+8
+00:00:25,289 --> 00:00:29,039
+Fidelidade a integridade, disponibilidade de todos os dados e
+
+9
+00:00:29,048 --> 00:00:30,670
+sistemas da informação de organização.
+
+10
+00:00:30,679 --> 00:00:33,598
+Gente é uma disciplina muito, muito importante.
+
+11
+00:00:33,609 --> 00:00:37,179
+É uma área multidisciplinar dentro da da organização.
+
+12
+00:00:37,189 --> 00:00:39,490
+É isso que você precisa entender, a gente começa
+
+13
+00:00:39,500 --> 00:00:42,368
+a lidar com o quê, com ameaças, ameaças,
+
+14
+00:00:42,380 --> 00:00:45,029
+tanto internas como externas.
+
+15
+00:00:45,039 --> 00:00:48,590
+Então, é uma área importantíssima, dentro de qualquer
+
+16
+00:00:48,598 --> 00:00:49,310
+organização.
+
+17
+00:00:49,319 --> 00:00:51,289
+Essa área de sistema de informação, nós vamos ter
+
+18
+00:00:51,298 --> 00:00:55,969
+equipes dedicadas, processos dedicados, metodologias dedicadas, normas
+
+19
+00:00:55,978 --> 00:00:58,548
+dedicadas para a segurança da informação.
+
+20
+00:00:58,859 --> 00:00:59,950
+Quando a gente tá falando de informação, a gente
+
+21
+00:00:59,959 --> 00:01:01,450
+tá falando de dados dados.
+
+22
+00:01:01,459 --> 00:01:03,709
+Eh é o novo petróleo da humanidade.
+
+23
+00:01:03,719 --> 00:01:07,709
+Nós precisamos entender a importância de proteger os nossos dados
+
+24
+00:01:07,719 --> 00:01:11,709
+dados, conseguem elevar empresas e como pode levar empresas,
+
+25
+00:01:11,719 --> 00:01:13,989
+a ruína, quando a gente perde os nossos dados,
+
+26
+00:01:14,000 --> 00:01:15,510
+então essa disciplina é muito importante.
+
+27
+00:01:15,519 --> 00:01:18,269
+A gente precisa ter confidencialidade dos dados.
+
+28
+00:01:18,278 --> 00:01:21,528
+A gente precisa ter integridade dos dados e disponibilidade dos
+
+29
+00:01:21,540 --> 00:01:21,829
+dados.
+
+30
+00:01:21,838 --> 00:01:24,668
+Isso é fundamental pra qualquer empresa.
+
+31
+00:01:24,680 --> 00:01:26,388
+E quando a gente tá falando de de oh,
+
+32
+00:01:26,400 --> 00:01:30,109
+Oh, essa área é uma área multi faça,
+
+33
+00:01:30,120 --> 00:01:35,769
+né? Face multitarefas que que lida com a implementação
+
+34
+00:01:35,778 --> 00:01:38,650
+de medidas e políticas para garantir que as informações sejam
+
+35
+00:01:38,659 --> 00:01:43,609
+protegidas contra ameaças, ou seja, sejam elas internas
+
+36
+00:01:43,620 --> 00:01:46,930
+ou externas? Sim! Nós temos ameaças internas e
+
+37
+00:01:46,939 --> 00:01:50,469
+principalmente as as externas, né? EH E quando
+
+38
+00:01:50,480 --> 00:01:52,129
+a gente tá falando de, de de de,
+
+39
+00:01:52,138 --> 00:01:56,549
+dessa área de sistema de informação tem quatro pilares importantíssimos!
+
+40
+00:01:56,558 --> 00:01:57,909
+Tá que são esses aqui, oh! Quando a
+
+41
+00:01:57,918 --> 00:02:02,308
+gente tá falando de disponibilidade, autenticação, confidencialidade e
+
+42
+00:02:02,319 --> 00:02:04,629
+integridade, a gente vai falar sobre cada um ponto
+
+43
+00:02:04,638 --> 00:02:04,989
+a ponto.
+
+44
+00:02:05,000 --> 00:02:07,790
+Tá então? Mas esses são os pilares pra qualquer
+
+45
+00:02:07,799 --> 00:02:10,679
+sistema de segurança de qualquer empresa.
+
+46
+00:02:10,689 --> 00:02:13,969
+Esses são os pilares principais pra qualquer empresa.
+
+47
+00:02:13,979 --> 00:02:17,610
+E quando a gente tá falando de CD L confidencialidade
+
+48
+00:02:17,675 --> 00:02:20,304
+é o primeiro pilar que costuma ser a primeira a
+
+49
+00:02:20,314 --> 00:02:20,585
+coisa.
+
+50
+00:02:20,594 --> 00:02:23,163
+Uma das coisas mais importantes e mais preocupantes em qualquer
+
+51
+00:02:23,175 --> 00:02:26,085
+ambiente digital seguro, porque a gente tem que garantir
+
+52
+00:02:26,094 --> 00:02:29,425
+que aquela informação que você precisa que a organização precise
+
+53
+00:02:29,433 --> 00:02:33,645
+seja esteja confidencial, ou seja, somente as pessoas
+
+54
+00:02:33,653 --> 00:02:37,645
+que possuem acessoà aquela informação irão acessar por isso
+
+55
+00:02:37,653 --> 00:02:41,024
+vem de confis de confidencialidade.
+
+56
+00:02:41,034 --> 00:02:42,814
+Tem que ser perfeita essa informação.
+
+57
+00:02:42,824 --> 00:02:45,585
+Ninguém pode ter acesso a essa informação sem ter.
+
+58
+00:02:45,649 --> 00:02:50,080
+Então, esse é o primeiro pilar a toda informação
+
+59
+00:02:50,088 --> 00:02:53,169
+da sua empresa precisa ter confidencialidade.
+
+60
+00:02:53,179 --> 00:02:58,939
+Segundo Pilar integridade a integridade visa manter a precisão e
+
+61
+00:02:58,949 --> 00:03:00,460
+a consistência dos dados.
+
+62
+00:03:00,469 --> 00:03:03,080
+Isso significa que os dados não devem ser corrompidos ou
+
+63
+00:03:03,088 --> 00:03:05,308
+alterados de forma não autorizada.
+
+64
+00:03:05,319 --> 00:03:08,258
+Lembra que eu falei que somente as pessoas podem ter
+
+65
+00:03:08,270 --> 00:03:12,819
+acesso? As pessoas autorizadas podem ter acesso a esses
+
+66
+00:03:12,830 --> 00:03:15,585
+dados? E para garantir que a gente possa garantir
+
+67
+00:03:15,594 --> 00:03:21,235
+a integridade desses dados, somente pessoas autorizadas podem alterar
+
+68
+00:03:21,243 --> 00:03:22,194
+o documento.
+
+69
+00:03:22,205 --> 00:03:24,955
+Então, algum documento, alguma informação? Ela precisa
+
+70
+00:03:24,963 --> 00:03:27,913
+ter integridade, ou seja, ela tem que tá
+
+71
+00:03:27,925 --> 00:03:29,395
+íntegra, ou o que quer.
+
+72
+00:03:29,403 --> 00:03:31,335
+Que a gente quer falar falar com isso.
+
+73
+00:03:31,344 --> 00:03:35,194
+Ela precisa estar eh, sem nenhuma alteração, sem
+
+74
+00:03:35,205 --> 00:03:39,235
+nenhum nada corrompido, que não seja autorizado que não
+
+75
+00:03:39,243 --> 00:03:39,913
+seja autorizado.
+
+76
+00:03:39,925 --> 00:03:41,074
+Isso é importantíssimo.
+
+77
+00:03:41,085 --> 00:03:43,879
+Tá bom? Terceiro que a gente tá falando aqui.
+
+78
+00:03:43,889 --> 00:03:48,338
+Agora, sobre disponibilidade a informação precisa estar disponível quando
+
+79
+00:03:48,349 --> 00:03:49,278
+necessário.
+
+80
+00:03:49,288 --> 00:03:52,919
+A disponibilidade é essencial para garantir que as informações e
+
+81
+00:03:52,929 --> 00:03:57,419
+os sistemas sejam acessíveis sempre que se fazem necessário.
+
+82
+00:03:57,429 --> 00:04:00,240
+Ou seja, gente, eu preciso da informação.
+
+83
+00:04:00,250 --> 00:04:04,629
+Agora eu vou estar com ela disponível para tomada de
+
+84
+00:04:04,639 --> 00:04:05,460
+decisão.
+
+85
+00:04:05,469 --> 00:04:09,210
+É muito importante isso pauta, gestão pra operação.
+
+86
+00:04:09,219 --> 00:04:12,409
+Imagine só em um cenário que a empresa vai fazer.
+
+87
+00:04:12,419 --> 00:04:16,389
+Uma vai fazer alguma negociação e precisa aquela informação naquele
+
+88
+00:04:16,399 --> 00:04:19,910
+segundo para que não possa que possa ganhar milhões ou
+
+89
+00:04:19,920 --> 00:04:21,809
+ou ou não perder milhões.
+
+90
+00:04:22,117 --> 00:04:24,408
+E a informação não está disponível naquele momento.
+
+91
+00:04:24,418 --> 00:04:27,728
+Então a disponibilidade é importantíssima.
+
+92
+00:04:27,738 --> 00:04:30,728
+Autenticação tá autenticação.
+
+93
+00:04:30,738 --> 00:04:33,338
+É um componente crítico na segurança da informação que se
+
+94
+00:04:33,348 --> 00:04:36,769
+considera na verificação da identidade dos usuários do sistema.
+
+95
+00:04:36,778 --> 00:04:38,889
+Tá? Lembra que eu tenho quando, quando a
+
+96
+00:04:38,898 --> 00:04:41,978
+gente falou lá no começo tem que ter as pessoas.
+
+97
+00:04:41,988 --> 00:04:46,278
+Somente pessoas autorizadas precisa possam ter acesso a informação.
+
+98
+00:04:46,288 --> 00:04:50,129
+Isso vai ao encontro da autenticação.
+
+99
+00:04:50,139 --> 00:04:55,759
+Nós precisamos garantir que toda informação precisa ter um elementos
+
+100
+00:04:55,769 --> 00:04:59,879
+de autenticação, pra pra garantir que aquela pessoa tenha
+
+101
+00:04:59,889 --> 00:05:03,199
+permissão viáveis para acessar aquela informação.
+
+102
+00:05:03,209 --> 00:05:04,238
+E aí a gente, quando a gente fala de
+
+103
+00:05:04,250 --> 00:05:06,678
+autenticação? Hoje a gente tem vários tipos de autenticações,
+
+104
+00:05:06,689 --> 00:05:10,319
+né? Aquelas ações simples? Temos aquelas autenticações de
+
+105
+00:05:10,329 --> 00:05:11,079
+dois fatores.
+
+106
+00:05:11,088 --> 00:05:13,399
+Hoje que você consegue, por exemplo, isso até
+
+107
+00:05:13,410 --> 00:05:14,709
+é até recomendável.
+
+108
+00:05:14,720 --> 00:05:16,358
+Se você usa, por exemplo, o Instagram é
+
+109
+00:05:16,369 --> 00:05:19,720
+recomendável que você tenha uma ou qualquer qualquer, eh
+
+110
+00:05:19,730 --> 00:05:24,379
+qualquer ferramenta, eh qualquer, eh meio social qualquer.
+
+111
+00:05:24,463 --> 00:05:26,834
+Enfim, seu E-MAIL é recomendável.
+
+112
+00:05:26,845 --> 00:05:28,634
+Você tem uma dupla verificação que que é isso?
+
+113
+00:05:28,644 --> 00:05:31,303
+Além da sua senha, você vai eh, ele
+
+114
+00:05:31,314 --> 00:05:33,795
+vai pedir uma dupla, uma dupla crição pelo seu
+
+115
+00:05:33,803 --> 00:05:38,634
+celular mandar um código via SMS tem a biometria tem
+
+116
+00:05:38,644 --> 00:05:41,134
+biometria, tanto eh facial.
+
+117
+00:05:41,144 --> 00:05:45,088
+Enfim, temos vários tipos de autenticação hoje em dia
+
+118
+00:05:45,100 --> 00:05:47,689
+isso é importantíssimo, tá? É importantíssimo.
+
+119
+00:05:47,699 --> 00:05:48,548
+A gente garante isso.
+
+120
+00:05:48,559 --> 00:05:50,809
+Então, quando a gente fala da vamos voltar aqui
+
+121
+00:05:50,819 --> 00:05:53,309
+rapidinho, quando a gente fala de segurança da informação,
+
+122
+00:05:53,319 --> 00:05:57,569
+esses são os grandes pilares, importantíssimos e fundamentais para
+
+123
+00:05:57,579 --> 00:06:04,048
+garantir qualquer eh segurança básica pra dentro de organização Tá
+
+124
+00:06:04,059 --> 00:06:10,009
+bom disponibilidade a autenticação, confidencialidade e integridade.
+
+125
+00:06:10,019 --> 00:06:12,588
+Isso aqui tem que trabalhar junto.
+
+126
+00:06:12,600 --> 00:06:15,048
+Não adianta gente cê ter garantir uma coisa e não
+
+127
+00:06:15,059 --> 00:06:18,470
+garantir outra não é? Não adianta Você eh garantir
+
+128
+00:06:18,480 --> 00:06:21,738
+que o o dado esteja esteja sempre disponível.
+
+129
+00:06:21,750 --> 00:06:23,548
+Só que ele não tem integridade.
+
+130
+00:06:23,559 --> 00:06:26,319
+Não adianta você garantir que ele esteja seja íntegro ou
+
+131
+00:06:26,329 --> 00:06:30,108
+se você não disponibiliza ele na hora que a organização
+
+132
+00:06:30,119 --> 00:06:30,819
+precisa.
+
+133
+00:06:30,829 --> 00:06:33,879
+Então pense, Dá uma olhada sobre isso.
+
+134
+00:06:33,889 --> 00:06:36,040
+Olhe os nossos, os nossos materiais que você vai
+
+135
+00:06:36,048 --> 00:06:36,238
+ver.
+
+136
+00:06:36,250 --> 00:06:40,738
+Como é importante garantir esses quatro elementos para toda a
+
+137
+00:06:40,750 --> 00:06:41,519
+organização.
+
+138
+00:06:41,528 --> 00:06:43,778
+Tá bom, então veremos no próximo bloco!
+

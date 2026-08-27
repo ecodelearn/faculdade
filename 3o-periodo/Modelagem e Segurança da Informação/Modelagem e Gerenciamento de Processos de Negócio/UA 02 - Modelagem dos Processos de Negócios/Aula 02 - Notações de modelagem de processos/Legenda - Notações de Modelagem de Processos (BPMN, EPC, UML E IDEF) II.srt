@@ -1,0 +1,856 @@
+1
+00:00:06,589 --> 00:00:11,239
+olá, seja bem-vindo! Eh dando continuidade ao nosso
+
+2
+00:00:11,250 --> 00:00:13,919
+entendimento acerca de anotações de modelagem, né? Nós
+
+3
+00:00:13,929 --> 00:00:16,719
+vimos que vimos alguns alguns modelos, né.
+
+4
+00:00:16,728 --> 00:00:19,079
+Que é o b PM n o e PC o
+
+5
+00:00:19,089 --> 00:00:20,138
+ML e o e PM.
+
+6
+00:00:20,149 --> 00:00:23,839
+Falamos sobre ele lá no izinho, mostrando a característica
+
+7
+00:00:23,850 --> 00:00:26,579
+de cada um, né? Na no primeiro módulo
+
+8
+00:00:26,589 --> 00:00:29,888
+lá? Agora, eh em que tese eu eu
+
+9
+00:00:29,899 --> 00:00:32,289
+ter falado, né? Que ah, quando a
+
+10
+00:00:32,298 --> 00:00:34,000
+gente fala de gestão de processo, a gente vai
+
+11
+00:00:34,009 --> 00:00:37,329
+usar aqui muito recorrentemente a questão do b PM n,
+
+12
+00:00:37,340 --> 00:00:38,368
+que é a anotação do B.
+
+13
+00:00:38,380 --> 00:00:41,048
+PM, né? Nós vamos ver agora o,
+
+14
+00:00:41,060 --> 00:00:44,009
+o, O e PC e, posteriormente vamos ver
+
+15
+00:00:44,020 --> 00:00:46,429
+o o o os outros modelos, pra gente aprender
+
+16
+00:00:46,439 --> 00:00:49,368
+a entender como é que essa caracterização desse modelo,
+
+17
+00:00:49,380 --> 00:00:52,408
+né, De outros modelos trabalhados.
+
+18
+00:00:52,418 --> 00:00:54,168
+Então a gente vai vai ver aqui agora o e
+
+19
+00:00:54,179 --> 00:00:57,189
+PC, que é o even proces.
+
+20
+00:00:57,200 --> 00:01:00,728
+Cha, né? Então, esse esse, eh,
+
+21
+00:01:00,740 --> 00:01:03,848
+esse modelo foi desenvolvido lá em noventa, né?
+
+22
+00:01:03,859 --> 00:01:08,689
+Eh no ambiente Aris pelo professor August, né?
+
+23
+00:01:08,698 --> 00:01:08,709
+Ah.
+
+24
+00:01:08,719 --> 00:01:11,230
+E ele, essa é uma anotação E PC Então
+
+25
+00:01:11,239 --> 00:01:12,719
+veja que é uma anotação.
+
+26
+00:01:12,730 --> 00:01:17,189
+Anotação! Ele é focado na modelagem de processos orientados.
+
+27
+00:01:17,198 --> 00:01:21,528
+A evento oferece uma estrutura pra entender como as atividades
+
+28
+00:01:21,540 --> 00:01:26,308
+são desencadeadas e controladas, né? Um dos pontos
+
+29
+00:01:26,319 --> 00:01:29,058
+fortes do E PC, Um dos pontos fortes do
+
+30
+00:01:29,069 --> 00:01:33,870
+E PC é a simplicidade dela em relação a outras
+
+31
+00:01:33,879 --> 00:01:34,790
+notações.
+
+32
+00:01:34,799 --> 00:01:39,028
+Visto que o símbolos é mais, o conjunto de
+
+33
+00:01:39,040 --> 00:01:41,010
+símbolos que ele utiliza é mais limitado.
+
+34
+00:01:41,500 --> 00:01:46,829
+Ele inclui eventos, funções e conectores lógicos, né?
+
+35
+00:01:46,838 --> 00:01:50,750
+Então eh eh mesmo os os especialistas em modelagem,
+
+36
+00:01:50,760 --> 00:01:53,948
+né? Quem não é especialista em modelagem consegue facilmente
+
+37
+00:01:53,959 --> 00:01:58,198
+perceber por meio dessa anotação, né? Ele tem
+
+38
+00:01:58,209 --> 00:02:02,138
+integração com sistemas organizacionais.
+
+39
+00:02:02,150 --> 00:02:05,980
+Por exemplo, o os r PS das organizações né?
+
+40
+00:02:05,989 --> 00:02:10,460
+R P Quer dizer que são sistemas de gestão empresarial
+
+41
+00:02:10,469 --> 00:02:12,860
+que a que as organizações tem? Então? Um
+
+42
+00:02:12,868 --> 00:02:16,118
+sistema que faz folha de pagamento financeiro, compras,
+
+43
+00:02:16,129 --> 00:02:18,879
+estoque, contabilidade, tudo integrado, né? A
+
+44
+00:02:18,889 --> 00:02:20,819
+gente fala que é um um grande, eh eh
+
+45
+00:02:20,830 --> 00:02:24,719
+um um um Um grande conjunto de vários softwares que
+
+46
+00:02:24,729 --> 00:02:27,679
+se integram, né? Você compra aqui automaticamente G
+
+47
+00:02:27,689 --> 00:02:31,588
+registra na contabilidade automaticamente eh, eh, cai no
+
+48
+00:02:31,599 --> 00:02:33,960
+estoque automaticamente geram contas a pagar.
+
+49
+00:02:33,969 --> 00:02:35,000
+Um contas a receber, isso é o que a
+
+50
+00:02:35,008 --> 00:02:35,879
+gente chama de R P.
+
+51
+00:02:35,889 --> 00:02:37,399
+Então, por exemplo, o e PC, ele
+
+52
+00:02:37,409 --> 00:02:40,118
+se integra com um R P, chamado sap,
+
+53
+00:02:40,129 --> 00:02:44,288
+né Que é um R P eh muito, eh
+
+54
+00:02:44,300 --> 00:02:45,288
+importante.
+
+55
+00:02:45,300 --> 00:02:48,008
+Aí dentro das organizações, muitos usam esse esse.
+
+56
+00:02:48,020 --> 00:02:50,689
+Esse esse R p tá o e PC pessoal.
+
+57
+00:02:50,699 --> 00:02:54,288
+Envolve aqui a primeiro né? Envolve a perspectiva de
+
+58
+00:02:54,300 --> 00:02:57,750
+eh simplicidade, né? Então, ele considera eh
+
+59
+00:02:57,758 --> 00:03:00,969
+algumas características básicas pra ele Primeiro, é a simplicidade
+
+60
+00:03:00,979 --> 00:03:03,409
+leal, né? Por que a simplicidade, Porque
+
+61
+00:03:03,419 --> 00:03:05,849
+ele é o conjunto de símbolos que ele utiliza é
+
+62
+00:03:05,860 --> 00:03:08,169
+é, é pequeno, é limitado, né?
+
+63
+00:03:08,179 --> 00:03:10,770
+Então é como eu já falei, tem po,
+
+64
+00:03:10,778 --> 00:03:13,338
+são eventos, são funções, são conectores.
+
+65
+00:03:13,349 --> 00:03:15,778
+Outro ele é orientado a evento.
+
+66
+00:03:15,788 --> 00:03:18,939
+O que quer dizer orientado do evento é ele olha
+
+67
+00:03:18,949 --> 00:03:23,080
+como o evento acontece, como isso se desencadeia dentro
+
+68
+00:03:23,088 --> 00:03:26,740
+da atividade em processo? Então? Ah, o
+
+69
+00:03:26,750 --> 00:03:29,360
+que seria um evento, né? Então o evento
+
+70
+00:03:29,368 --> 00:03:32,449
+é eh solicitação de pedido, de compra, Isso
+
+71
+00:03:32,460 --> 00:03:33,058
+é um evento.
+
+72
+00:03:33,069 --> 00:03:37,000
+Esse evento vai se desdobrar em processos em atividades que
+
+73
+00:03:37,008 --> 00:03:38,179
+serão executadas.
+
+74
+00:03:38,189 --> 00:03:40,689
+Okay, tá, outro que a gente falou é
+
+75
+00:03:40,699 --> 00:03:41,929
+a integração com o R P.
+
+76
+00:03:41,939 --> 00:03:42,770
+Ou seja, eh o.
+
+77
+00:03:42,778 --> 00:03:45,788
+Os contextos de R, p se integram com ele,
+
+78
+00:03:45,800 --> 00:03:47,229
+como, por exemplo, o SAP, né?
+
+79
+00:03:47,240 --> 00:03:51,669
+Então eu olho o como acontece e e represento isso
+
+80
+00:03:51,679 --> 00:03:54,750
+e consigo trazer isso pra dentro do meu sistema de
+
+81
+00:03:54,758 --> 00:03:57,788
+de de de de de de R P de gestão
+
+82
+00:03:57,800 --> 00:04:02,360
+empresarial, né? E também ele permite uma visão
+
+83
+00:04:02,368 --> 00:04:03,240
+de alto nível.
+
+84
+00:04:03,250 --> 00:04:04,899
+O que que é essa visão de alto nível?
+
+85
+00:04:04,909 --> 00:04:07,460
+Ele ope, eh, permite ver uma uma visão
+
+86
+00:04:07,469 --> 00:04:10,639
+eh macroscópica do meu processo, né? Então ele
+
+87
+00:04:10,649 --> 00:04:13,288
+permite ver ter uma compreensão geral de como o meu
+
+88
+00:04:13,300 --> 00:04:15,800
+processo eh se desdobra.
+
+89
+00:04:15,808 --> 00:04:19,678
+Tá legal quando é quando é que eu vou usar
+
+90
+00:04:19,689 --> 00:04:21,774
+este cara tá aqui, oh quando aqui tem duas
+
+91
+00:04:21,785 --> 00:04:23,903
+representações, né? A primeira que a gente vai
+
+92
+00:04:23,915 --> 00:04:27,514
+enxergar aqui é justamente o o desenho do e PC
+
+93
+00:04:27,524 --> 00:04:31,415
+o fluxo do e PC tá? E e também
+
+94
+00:04:31,423 --> 00:04:35,375
+aqui nós temos a questão do do de quando usar
+
+95
+00:04:35,384 --> 00:04:36,494
+o PC quando é que você vai usar o e
+
+96
+00:04:36,504 --> 00:04:36,975
+PC aqui.
+
+97
+00:04:36,983 --> 00:04:38,863
+Olha que interessante, oh! Quando você for implementa
+
+98
+00:04:38,875 --> 00:04:42,144
+vamos fazer uma implementação de r p eh Pô,
+
+99
+00:04:42,153 --> 00:04:44,264
+legal, você usar o R o você pode usar
+
+100
+00:04:44,274 --> 00:04:47,639
+o e PC é importante, né eh Processos orientados
+
+101
+00:04:47,649 --> 00:04:50,439
+a eventos? É um segundo item e análise de
+
+102
+00:04:50,449 --> 00:04:54,028
+alto nível, né? Então olha aqui são,
+
+103
+00:04:54,040 --> 00:04:56,220
+veja que são se a gente olhar aqui são poucos
+
+104
+00:04:56,230 --> 00:04:58,899
+fluxos, né? São poucos fluxos, não tem
+
+105
+00:04:58,910 --> 00:05:00,048
+muita no fluxo.
+
+106
+00:05:00,059 --> 00:05:01,319
+Perdão são poucos.
+
+107
+00:05:01,329 --> 00:05:04,019
+Eh símbolos utilizados, né? Então, aqui oh,
+
+108
+00:05:04,028 --> 00:05:05,519
+eu tenho uma ordem aqui.
+
+109
+00:05:05,528 --> 00:05:06,980
+Essa ordem é avaliada.
+
+110
+00:05:06,988 --> 00:05:10,319
+Ou sei oh, veja o evento ocorreu, né?
+
+111
+00:05:10,329 --> 00:05:14,720
+Oh eu o o O o recebi uma ordem,
+
+112
+00:05:15,720 --> 00:05:17,869
+né? Uma ordem foi recebida? Então! E
+
+113
+00:05:17,879 --> 00:05:20,829
+essa ordem recebida é o quê Um evento Então,
+
+114
+00:05:20,838 --> 00:05:24,389
+esse evento estar uma atividade? Qual é a atividade,
+
+115
+00:05:24,399 --> 00:05:29,869
+checar a viabilidade dessa dessa dessa ordem, né?
+
+116
+00:05:29,879 --> 00:05:32,528
+Então, meu cliente mandou uma ordem, recebeu uma
+
+117
+00:05:32,540 --> 00:05:34,480
+ordem Então eu vou checar.
+
+118
+00:05:34,488 --> 00:05:37,699
+Aí oh, quem é que vai checar o meu
+
+119
+00:05:38,519 --> 00:05:42,858
+empregado okay e aí pra pra? Ele checar a
+
+120
+00:05:42,869 --> 00:05:45,889
+V A, A, A A a viabilidade daquilo
+
+121
+00:05:45,899 --> 00:05:48,569
+que ele recebeu ele vai mostrar os artigos.
+
+122
+00:05:48,579 --> 00:05:51,528
+Esses artigos aqui são os documentos da empresa, né?
+
+123
+00:05:51,540 --> 00:05:53,009
+Eu vou olhar lá pô, chegou essa ordem,
+
+124
+00:05:53,019 --> 00:05:54,819
+aqui tá, Mas beleza isso aqui tá em conformidade
+
+125
+00:05:54,829 --> 00:05:55,730
+com a minha empresa.
+
+126
+00:05:55,738 --> 00:05:57,649
+Você está em conformidade com as minhas regras? Tá
+
+127
+00:05:57,660 --> 00:06:00,588
+faltando alguma coisa então aí eu consigo representar.
+
+128
+00:06:01,350 --> 00:06:04,298
+Tá legal? E olha que interessante aqui ele coloca
+
+129
+00:06:04,309 --> 00:06:07,160
+tipo uma, uma, uma, uma, um
+
+130
+00:06:07,170 --> 00:06:10,439
+símbolo pra entender que o ele pode seguir dois caminhos
+
+131
+00:06:10,449 --> 00:06:13,199
+aqui, né? O primeiro caminho é olha esse
+
+132
+00:06:13,209 --> 00:06:17,079
+artigo, né? ele preci ele ele ele tá
+
+133
+00:06:17,088 --> 00:06:19,459
+legal, né, Ele tá então e e ou
+
+134
+00:06:19,470 --> 00:06:21,559
+ele precisa, eh ser avaliado.
+
+135
+00:06:21,569 --> 00:06:23,238
+Ou ele precisa ser produzido.
+
+136
+00:06:23,250 --> 00:06:26,778
+E aí ele vai desdobrando pra cada um dos eventos.
+
+137
+00:06:27,178 --> 00:06:31,869
+Cada um dos eventos ele desdobra uma atividade, uma
+
+138
+00:06:31,879 --> 00:06:36,509
+atividade evento, atividade então desdobra evento, atividade e
+
+139
+00:06:36,519 --> 00:06:40,988
+a even atividade até o final lá do evento que
+
+140
+00:06:41,000 --> 00:06:44,629
+é a produção final, tá ou aqui.
+
+141
+00:06:44,639 --> 00:06:47,988
+A ordem completa tá legal.
+
+142
+00:06:48,000 --> 00:06:51,689
+Então você consegue representar de forma? Eh fácil,
+
+143
+00:06:51,699 --> 00:06:56,439
+né? Tranquila aí esse esse, esse esse processo
+
+144
+00:06:56,449 --> 00:06:59,959
+como ele ocorre, né? Isso é bem interessante
+
+145
+00:06:59,970 --> 00:07:02,399
+dentro de uma perspectiva organizacional em que eu olho o
+
+146
+00:07:02,410 --> 00:07:03,119
+evento.
+
+147
+00:07:03,129 --> 00:07:06,480
+O evento me dispara uma atividade e e aquela atividade
+
+148
+00:07:06,488 --> 00:07:10,519
+é suportada por eh processos né? Ou por pessoas,
+
+149
+00:07:10,528 --> 00:07:12,819
+ou por algum documento? Ou ou é, ou
+
+150
+00:07:12,829 --> 00:07:16,079
+ou precisa de algum tipo de de entrada, pra
+
+151
+00:07:16,088 --> 00:07:19,798
+que ela possa ser trabalhada, né? Então a
+
+152
+00:07:19,809 --> 00:07:23,379
+interação entre ela ocorre tá legal.
+
+153
+00:07:24,139 --> 00:07:25,379
+Isso é muito interessante.
+
+154
+00:07:25,389 --> 00:07:27,970
+Quando a gente olha essa perspectiva do e PC,
+
+155
+00:07:27,980 --> 00:07:30,389
+é claro que nem tudo são flores, né?
+
+156
+00:07:30,399 --> 00:07:33,730
+O e PC tem eh as suas vantagens e desvantagens.
+
+157
+00:07:33,738 --> 00:07:35,250
+Quais são as vantagens que a gente viu no É
+
+158
+00:07:35,259 --> 00:07:37,869
+que a gente percebe e pode perceber em relação a
+
+159
+00:07:37,879 --> 00:07:38,889
+olhar isso aqui tudo.
+
+160
+00:07:38,899 --> 00:07:42,088
+Primeiro facilidade, de uso, né? Já falamos
+
+161
+00:07:42,100 --> 00:07:45,269
+eh eficaz com o R P ele tem a abordagem
+
+162
+00:07:45,278 --> 00:07:47,509
+de alto nível e é um padrão estabelecido.
+
+163
+00:07:47,519 --> 00:07:50,629
+Isso são as vantagens pra esse cara aqui pra esse
+
+164
+00:07:50,639 --> 00:07:54,129
+pra utilização e a representação do fluxo eh por meio
+
+165
+00:07:54,139 --> 00:07:55,709
+de um de um de um e PC, né?
+
+166
+00:07:55,720 --> 00:07:58,699
+Então isso aqui fica bem notório quando a gente olha
+
+167
+00:07:58,709 --> 00:08:01,358
+esse desenho aqui agora, quais são as desvantagens?
+
+168
+00:08:01,369 --> 00:08:04,769
+Falta de detalhe Então quando cê quer de usar eh,
+
+169
+00:08:04,778 --> 00:08:08,889
+eh aspectos mais detalhados, mais simples e mais complexo
+
+170
+00:08:08,899 --> 00:08:11,829
+não fica muito bom de você observar aqui dentro,
+
+171
+00:08:11,838 --> 00:08:13,290
+né? Então por exemplo, aqui, oh o
+
+172
+00:08:13,298 --> 00:08:15,290
+que que é checar a va a a a a
+
+173
+00:08:15,298 --> 00:08:17,798
+viabilidade a va a eh o que que que que
+
+174
+00:08:17,809 --> 00:08:19,730
+isso aí? Qual é o detalhe disso aqui não
+
+175
+00:08:19,738 --> 00:08:22,509
+tem não tá escrito aqui não tá descrito.
+
+176
+00:08:22,519 --> 00:08:26,730
+Então tem uma dificuldade, limitação de paralelismo e concorrência.
+
+177
+00:08:26,738 --> 00:08:30,410
+Não é melhor pra eh, eh processos que tem
+
+178
+00:08:30,420 --> 00:08:35,109
+eh formas paralelas de ocorrer, processos que que precisam
+
+179
+00:08:35,119 --> 00:08:37,359
+eh que ocorre de forma paralela, por exemplo.
+
+180
+00:08:37,369 --> 00:08:41,349
+Então enquanto eu estou eh, por exemplo, vamos
+
+181
+00:08:41,359 --> 00:08:44,000
+ver, vamos pensar aqui num num processo paralelo eh
+
+182
+00:08:44,009 --> 00:08:46,479
+de fabricação de um carro, enquanto eu estou pintando
+
+183
+00:08:46,489 --> 00:08:47,058
+o carro.
+
+184
+00:08:47,070 --> 00:08:49,119
+Eu estou compra, eu estou fazendo.
+
+185
+00:08:49,129 --> 00:08:52,779
+O Cha eh eh, eh, eh separando as
+
+186
+00:08:52,788 --> 00:08:55,139
+peças, Então são processos paralelos, então ele já
+
+187
+00:08:55,149 --> 00:09:00,433
+dificulta outro atualização e manutenção, né? Então,
+
+188
+00:09:00,445 --> 00:09:02,354
+eh ele, hoje ele não tem como.
+
+189
+00:09:02,364 --> 00:09:03,994
+É uma ferramenta um pouco mais antiga, ele não
+
+190
+00:09:04,004 --> 00:09:06,114
+tem um suporte, por exemplo, hoje, que
+
+191
+00:09:06,125 --> 00:09:08,474
+tem uma ferramenta mais moderna como o B PM.
+
+192
+00:09:08,484 --> 00:09:11,474
+N, né? Então o suporte dele, a
+
+193
+00:09:11,484 --> 00:09:13,114
+manutenção dele é mais difícil.
+
+194
+00:09:13,125 --> 00:09:15,575
+E a curva de A, de aprendizado, né?
+
+195
+00:09:16,469 --> 00:09:17,080
+Eh.
+
+196
+00:09:17,090 --> 00:09:19,759
+Eh por que essa curva de aprendizado! Ah,
+
+197
+00:09:19,769 --> 00:09:21,639
+mas cê não falou que ele era simples sim,
+
+198
+00:09:21,649 --> 00:09:23,038
+mas aí você tem que mudar um pouco a sua
+
+199
+00:09:23,048 --> 00:09:26,440
+perspectiva mental, né? Eh de não enxergar a
+
+200
+00:09:26,450 --> 00:09:28,719
+atividade, mas sim enxergar por meio de evento e
+
+201
+00:09:28,729 --> 00:09:33,250
+até você entender como esse evento ele estar um processo
+
+202
+00:09:33,259 --> 00:09:35,840
+ou uma atividade como ele se interage, tem uma
+
+203
+00:09:35,849 --> 00:09:38,298
+curva de aprendizado que você vai ter que vai.
+
+204
+00:09:38,308 --> 00:09:40,700
+Você vai ter que assimilar, né? Porque não
+
+205
+00:09:40,710 --> 00:09:43,109
+é o natural? O natural é a gente Olha
+
+206
+00:09:43,119 --> 00:09:45,210
+isso aqui eh! Eh ver aquela caixinha que cê
+
+207
+00:09:45,219 --> 00:09:46,950
+sabe o que faz aquela caixinha e não o que
+
+208
+00:09:46,960 --> 00:09:49,529
+um evento gerou aquilo, né? Eh, Eh,
+
+209
+00:09:49,538 --> 00:09:52,538
+hoje a gente vem sendo direcionado pra essa perspectiva,
+
+210
+00:09:52,548 --> 00:09:55,889
+muito mais do que simplesmente olhar como a atividade ocorre,
+
+211
+00:09:55,899 --> 00:09:58,570
+não eh focado no evento em si, então você
+
+212
+00:09:58,580 --> 00:10:00,070
+tem que mudar um pouco o seu pensamento.
+
+213
+00:10:00,080 --> 00:10:02,928
+Okay Então esse é o e PC até a próxima
+
+214
+00:10:02,940 --> 00:10:03,389
+aula!
+

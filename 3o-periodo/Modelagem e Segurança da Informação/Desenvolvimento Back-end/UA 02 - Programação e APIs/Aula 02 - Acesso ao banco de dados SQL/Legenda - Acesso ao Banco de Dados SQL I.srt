@@ -1,0 +1,512 @@
+1
+00:00:06,559 --> 00:00:08,050
+Olá, sou professor da COP.
+
+2
+00:00:08,060 --> 00:00:11,019
+A gente vai falar um pouquinho sobre eh acesso a
+
+3
+00:00:11,028 --> 00:00:14,228
+banco de dados S K L, né? Eh
+
+4
+00:00:14,239 --> 00:00:17,250
+usando uma audiência, e nesse caso a gente vai
+
+5
+00:00:17,260 --> 00:00:19,670
+tá trabalhando com um banco de dados relacional bem conhecido
+
+6
+00:00:19,679 --> 00:00:22,170
+que é o uma S Q l né? Primeiramente
+
+7
+00:00:22,179 --> 00:00:24,370
+a gente precisa saber as características do uma K L,
+
+8
+00:00:24,379 --> 00:00:25,929
+como é que a gente coloca ali pra funcionar.
+
+9
+00:00:25,940 --> 00:00:30,289
+Vamos ver como isso funciona, então? Instalação e
+
+10
+00:00:30,298 --> 00:00:34,719
+configuração do MCA eu tenho lá o uma S Q
+
+11
+00:00:34,728 --> 00:00:37,399
+L é um servidor de banco de dados nacional,
+
+12
+00:00:37,408 --> 00:00:39,618
+né? A gente fala de S g B d
+
+13
+00:00:39,630 --> 00:00:43,039
+porque ele pode gerenciar vários bancos ao mesmo tempo.
+
+14
+00:00:43,048 --> 00:00:46,000
+Eu posso ter vários bancos no mesmo servidor, né?
+
+15
+00:00:46,009 --> 00:00:47,840
+Eh? A sx usada é o S Q L,
+
+16
+00:00:47,848 --> 00:00:50,719
+que é o padrão de um banco nacional E o
+
+17
+00:00:50,728 --> 00:00:53,798
+download pode ser feito no k l ponto com,
+
+18
+00:00:53,810 --> 00:00:57,240
+né? Eh modo de instalação que é sugerida,
+
+19
+00:00:57,250 --> 00:01:00,539
+ou seja, a instalação completa com work.
+
+20
+00:01:01,069 --> 00:01:04,000
+Ah, a senha do Ruth é definida na instalação.
+
+21
+00:01:04,010 --> 00:01:07,439
+Muita gente usa HT senha Ruth h senha de mim,
+
+22
+00:01:07,448 --> 00:01:10,799
+mas ela é definida na hora da instalação e a
+
+23
+00:01:10,808 --> 00:01:14,000
+melhor forma é a execução como serviço, Porque cada
+
+24
+00:01:14,010 --> 00:01:16,739
+uma dessas coisas primeiro que a execução como serviço.
+
+25
+00:01:16,750 --> 00:01:18,879
+Se você não quiser que ele fique executando, você
+
+26
+00:01:18,888 --> 00:01:20,838
+vai lá no serviço e manda parar a execução e
+
+27
+00:01:20,849 --> 00:01:24,808
+não iniciar eh quando iniciar a máquina então ele eh
+
+28
+00:01:24,819 --> 00:01:27,088
+você tem um controle maior, pode ser que seu
+
+29
+00:01:27,099 --> 00:01:28,689
+m S Q L não seja um banco pra rodar
+
+30
+00:01:28,698 --> 00:01:31,049
+direto, seja pra pra testes e ele vai ficar
+
+31
+00:01:31,058 --> 00:01:33,969
+ocupando a sua máquina cada vez que ele entrar eh
+
+32
+00:01:33,980 --> 00:01:36,370
+eu minhas máquinas de teste normalmente eu coloco eles como
+
+33
+00:01:36,379 --> 00:01:40,930
+serviço e eu paro esses serviços e só estar manualmente
+
+34
+00:01:40,939 --> 00:01:42,849
+quando eu quero usar aquele banco específico.
+
+35
+00:01:42,859 --> 00:01:44,448
+No caso do m s Q L do post,
+
+36
+00:01:44,459 --> 00:01:48,180
+vários deles eh a instalação do mais cara Tá tomando
+
+37
+00:01:48,189 --> 00:01:52,180
+certo cuidado porque o M k foi comprado pela oco,
+
+38
+00:01:52,189 --> 00:01:55,859
+então existe uma versão e existe uma versão que não
+
+39
+00:01:55,870 --> 00:01:56,120
+é.
+
+40
+00:01:56,129 --> 00:01:59,180
+Eh não é, né? Seria uma versão com
+
+41
+00:01:59,189 --> 00:02:02,459
+licença EH? Existe uma série de critérios aí pela
+
+42
+00:02:02,469 --> 00:02:06,870
+oco! Tá bom usando o nu aqui com se
+
+43
+00:02:06,879 --> 00:02:11,689
+tá na hora de instalar, né? Eu tenho
+
+44
+00:02:11,699 --> 00:02:14,969
+que habilitar conexões TC p i p Isso também é
+
+45
+00:02:14,979 --> 00:02:18,610
+um outro detalhe também eh que tem que ser observado
+
+46
+00:02:18,618 --> 00:02:20,649
+se você não habilitar as conexões TC p i p
+
+47
+00:02:20,659 --> 00:02:23,528
+Você não vai conseguir conectar de forma externa, né,
+
+48
+00:02:23,538 --> 00:02:26,050
+ele, por padrão ele trabalha com sistema de pipes,
+
+49
+00:02:26,058 --> 00:02:28,969
+então ele ele é bloqueado em termos de i PS,
+
+50
+00:02:28,979 --> 00:02:31,278
+então pra isso é uma questão de segurança.
+
+51
+00:02:31,288 --> 00:02:33,149
+Eles colocam o máximo de segurança que eles puderem,
+
+52
+00:02:33,538 --> 00:02:35,349
+mas a gente precisa ter C P i P senão
+
+53
+00:02:35,360 --> 00:02:37,469
+a gente não vai acessar por fora por fora Eu
+
+54
+00:02:37,479 --> 00:02:39,669
+digo o note né o próprio node já é um
+
+55
+00:02:39,679 --> 00:02:42,210
+ambiente externo? Eu tô fora desse cara, né?
+
+56
+00:02:42,219 --> 00:02:44,659
+E eu estando fora do meu servidor ali do banco
+
+57
+00:02:44,669 --> 00:02:46,929
+de dados, eu preciso conectar com ele através de
+
+58
+00:02:46,939 --> 00:02:49,689
+TC p i P né? Ah, a porta
+
+59
+00:02:49,699 --> 00:02:53,389
+padrão é três, três zero meia, tá bom,
+
+60
+00:02:55,399 --> 00:02:58,689
+Mas se eu quiser criar um banco com uma tabela,
+
+61
+00:02:58,699 --> 00:03:06,409
+né? Eh, eu vou pegar aqui, Esse
+
+62
+00:03:06,419 --> 00:03:10,889
+aqui é o work, né? Se eu pegar
+
+63
+00:03:10,899 --> 00:03:15,849
+aqui eh ou até fechar ele, abri uma conexão,
+
+64
+00:03:18,409 --> 00:03:21,618
+tá, ele abre esse ambiente aqui onde eu posso
+
+65
+00:03:21,629 --> 00:03:26,490
+estancia queri, Tá? Posso colocar aqui uma nova
+
+66
+00:03:26,500 --> 00:03:29,770
+janela s q l e eu posso fazer aqui.
+
+67
+00:03:29,778 --> 00:03:32,629
+Eu acho mais simples criar banco de dados por aqui.
+
+68
+00:03:33,520 --> 00:03:37,778
+tá eh aqui Oh, eu tenho banco Loja Note
+
+69
+00:03:37,788 --> 00:03:39,819
+Como é que eu criei esse banco? Eh,
+
+70
+00:03:39,830 --> 00:03:41,449
+eu usei loja.
+
+71
+00:03:41,460 --> 00:03:44,899
+Note Então quando CTO, talvez eu tô criando o
+
+72
+00:03:44,909 --> 00:03:48,069
+banco, né? E em seguida eu quero criar
+
+73
+00:03:48,080 --> 00:03:49,669
+uma tabela dentro desse banco.
+
+74
+00:03:49,679 --> 00:03:53,080
+O que que eu vou fazer? Use loja?
+
+75
+00:03:53,088 --> 00:03:56,058
+Note, né eu tô dizendo assim trabalhe com o
+
+76
+00:03:56,069 --> 00:03:56,960
+banco ou loja notes.
+
+77
+00:03:56,969 --> 00:03:58,599
+Eu posso ter vários bancos de dados ali.
+
+78
+00:03:58,610 --> 00:04:01,080
+Então depois de criar esse banco, eu tô mandando
+
+79
+00:04:01,088 --> 00:04:03,899
+utilizar ele pra poder fazer a execução.
+
+80
+00:04:04,469 --> 00:04:06,278
+O que que eu vou fazer nele depois do uso?
+
+81
+00:04:06,288 --> 00:04:12,849
+Loja no Crea Tabo produtos código que incremente.
+
+82
+00:04:12,860 --> 00:04:15,569
+Ou seja, eu tô criando uma chave primária chamada
+
+83
+00:04:15,580 --> 00:04:16,939
+código inteira.
+
+84
+00:04:16,949 --> 00:04:18,569
+É auto incremento nome.
+
+85
+00:04:18,579 --> 00:04:21,329
+Vou achar de cinquenta a quantidade in, né?
+
+86
+00:04:21,338 --> 00:04:23,449
+Então, aqui eu tô configurando a minha tabela.
+
+87
+00:04:23,459 --> 00:04:26,689
+Quando eu executar isso vai aparecer a tabelinha aqui do
+
+88
+00:04:26,699 --> 00:04:30,189
+lado, né? Isso está na tabela pronta.
+
+89
+00:04:31,338 --> 00:04:33,449
+Eu posso consultar os dados dela.
+
+90
+00:04:34,119 --> 00:04:35,709
+Vou colocar um W.
+
+91
+00:04:36,428 --> 00:04:40,899
+Ah, aqui eu posso configurar o que eu quiser.
+
+92
+00:04:40,910 --> 00:04:51,540
+Eu posso, eh mudar, não, não laranja.
+
+93
+00:04:56,040 --> 00:04:59,028
+E com isso eu tenho ali, ele vai dar
+
+94
+00:04:59,040 --> 00:05:01,488
+os updates, ele sozinho já gera pra mim os
+
+95
+00:05:01,500 --> 00:05:03,829
+comandos s K l, que eu preciso já vai
+
+96
+00:05:03,838 --> 00:05:06,309
+alterar no banco? Tá? Então aqui eu tenho
+
+97
+00:05:06,319 --> 00:05:12,028
+a gerência desse banco de dados através do né?
+
+98
+00:05:12,040 --> 00:05:15,108
+Tudo que eu precisar ali eu consigo trabalhar através dessa
+
+99
+00:05:15,119 --> 00:05:16,428
+eh dessa fermentada.
+
+100
+00:05:16,439 --> 00:05:18,588
+Se eu precisar criar alguma coisa até criar usuário e
+
+101
+00:05:18,600 --> 00:05:22,108
+tudo mais né? Eh inserção de dados eu posso
+
+102
+00:05:22,119 --> 00:05:25,389
+usar um comando em sete, né? Por exemplo,
+
+103
+00:05:25,399 --> 00:05:28,689
+aqui inset entre produtos, nome, quantidade, veu,
+
+104
+00:05:28,699 --> 00:05:31,350
+laranja, quinhentos banana mil Posso colocar ali vários.
+
+105
+00:05:31,358 --> 00:05:33,608
+Ah, mas eu não coloquei aqui o código porque
+
+106
+00:05:33,619 --> 00:05:36,129
+ele é alto incremento Quando o campo é alto,
+
+107
+00:05:36,139 --> 00:05:39,649
+incremento ele recebendo ou não sendo informado no inset,
+
+108
+00:05:39,660 --> 00:05:43,048
+ele vai automaticamente chamar a chave de auto incremento.
+
+109
+00:05:43,059 --> 00:05:46,088
+Vai pegar o próximo valor, eh disponível pra aquele
+
+110
+00:05:46,100 --> 00:05:46,569
+campo.
+
+111
+00:05:46,579 --> 00:05:49,209
+Então aqui eu estarei inserindo dois valores ao mesmo tempo
+
+112
+00:05:49,220 --> 00:05:50,809
+uma e SP L permite essa inserção.
+
+113
+00:05:50,819 --> 00:05:55,850
+Múltipla, né? EH e basicamente com isso aí
+
+114
+00:05:57,338 --> 00:06:00,928
+eu tenho o meu banco configurado não é? Difere
+
+115
+00:06:00,939 --> 00:06:03,588
+muito difícil na verdade, só que instalar na s
+
+116
+00:06:03,600 --> 00:06:06,949
+q l configurar certinho lá pra ele debilitar o TC
+
+117
+00:06:06,959 --> 00:06:10,670
+P eh colocar a senha do HT e depois você
+
+118
+00:06:10,678 --> 00:06:14,790
+eh configurar basicamente a criação do banco e criar a
+
+119
+00:06:14,798 --> 00:06:18,428
+tabela, né? Com seus respectivos campos e daí
+
+120
+00:06:18,439 --> 00:06:19,769
+inserir alguns valores.
+
+121
+00:06:19,778 --> 00:06:21,980
+Por que eu preciso disso? Preciso disso, pra
+
+122
+00:06:21,988 --> 00:06:24,209
+depois poder acessar a partir do meu, né?
+
+123
+00:06:24,220 --> 00:06:28,939
+A acessar a partir do node aquele banco de dados
+
+124
+00:06:28,949 --> 00:06:30,129
+que foi criado em cima de uma e S t
+
+125
+00:06:30,139 --> 00:06:30,500
+L.
+
+126
+00:06:30,509 --> 00:06:33,480
+Então esses são os passos necessários pra gente poder,
+
+127
+00:06:33,488 --> 00:06:36,500
+minimamente, configurar o que a gente precisa pra poder
+
+128
+00:06:36,509 --> 00:06:38,238
+acessar a partir do de
+

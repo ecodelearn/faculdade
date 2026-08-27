@@ -1,0 +1,828 @@
+1
+00:00:05,788 --> 00:00:07,719
+Olá, aluno seja muito bemvindo.
+
+2
+00:00:07,730 --> 00:00:10,679
+Professor Fabrício Melo É um prazer estar aqui e vamos
+
+3
+00:00:10,689 --> 00:00:15,099
+continuar tratando aí a matéria sobre segurança da informação,
+
+4
+00:00:15,108 --> 00:00:17,519
+né? Uma matéria importantíssima aí, pro nosso dia-a-dia,
+
+5
+00:00:17,530 --> 00:00:21,219
+inclusive pra o dia-a-dia das empresas usuários domésticos, né?
+
+6
+00:00:21,295 --> 00:00:23,423
+Todo mundo aí no geral, que obviamente vai trabalhar
+
+7
+00:00:23,434 --> 00:00:25,344
+com algum sistema, vai ter algum computador, vai
+
+8
+00:00:25,353 --> 00:00:27,504
+ter algum acesso, aí? A tecnologia não é
+
+9
+00:00:27,513 --> 00:00:28,024
+isso.
+
+10
+00:00:28,033 --> 00:00:30,263
+E aí nós vamos falar agora sobre as ameaças,
+
+11
+00:00:30,274 --> 00:00:33,344
+ameaças, vulnerabilidades e risco o que que a gente
+
+12
+00:00:33,353 --> 00:00:36,844
+pode dizer sobre as ameaças? Olha só aluno!
+
+13
+00:00:36,853 --> 00:00:40,904
+Paraíso vinte e sete zero zero dois ameaça.
+
+14
+00:00:40,914 --> 00:00:45,168
+Vai ser uma causa potencial de um incidente indesejado que
+
+15
+00:00:45,179 --> 00:00:49,209
+pode o que resultar em dano para um sistema organização?
+
+16
+00:00:49,219 --> 00:00:50,219
+Então pega isso.
+
+17
+00:00:50,228 --> 00:00:51,770
+Então, a partir do momento que eu tenho ali
+
+18
+00:00:51,779 --> 00:00:54,668
+uma causa potencial de um incidente, né? Que
+
+19
+00:00:54,679 --> 00:00:55,789
+seja indesejado.
+
+20
+00:00:55,798 --> 00:00:58,590
+Obviamente a gente não quer desejar esse incidente, né?
+
+21
+00:00:58,819 --> 00:01:00,789
+E vai poder resultar em um dano para um sistema
+
+22
+00:01:00,798 --> 00:01:02,990
+de fo- de odio da organização.
+
+23
+00:01:03,000 --> 00:01:05,969
+A gente define isso aí como uma ameaça E obviamente,
+
+24
+00:01:05,980 --> 00:01:11,069
+as principais ameaças são os wa né Maués vende mals
+
+25
+00:01:11,079 --> 00:01:14,388
+software, ou seja, softwares maliciosos.
+
+26
+00:01:14,400 --> 00:01:16,150
+É o que a gente conhece quando a gente traduz
+
+27
+00:01:16,159 --> 00:01:21,150
+pro português e dentro da da do ecossistema de ma.
+
+28
+00:01:21,159 --> 00:01:24,359
+Nós temos vários tipos de Maués, que são definidos
+
+29
+00:01:24,370 --> 00:01:27,239
+aí por cartilha do sete BR, por vários e
+
+30
+00:01:27,250 --> 00:01:27,918
+vários autores.
+
+31
+00:01:27,930 --> 00:01:29,918
+Vamos começar, por exemplo, pelo vírus.
+
+32
+00:01:29,930 --> 00:01:32,558
+O vírus é o mawé mais famoso que nós temos
+
+33
+00:01:32,569 --> 00:01:33,698
+aí no mercado.
+
+34
+00:01:33,709 --> 00:01:35,680
+Qual é o objetivo do vírus? Aluno? O
+
+35
+00:01:35,689 --> 00:01:38,379
+vírus é uma praga, né? Um código ali
+
+36
+00:01:38,388 --> 00:01:42,069
+eh eh malicioso que tem que infectar alguém tá,
+
+37
+00:01:42,079 --> 00:01:44,799
+ele tem que usar alguém como hospedeiro, senão ele
+
+38
+00:01:44,808 --> 00:01:45,879
+não vai agir.
+
+39
+00:01:45,888 --> 00:01:48,299
+É igual você lembrar do vírus orgânico, né?
+
+40
+00:01:48,308 --> 00:01:49,918
+Quando a gente pega um vírus da covid, ele
+
+41
+00:01:49,930 --> 00:01:52,760
+infecta gente, o vírus não vai ficar voando aí,
+
+42
+00:01:52,769 --> 00:01:54,760
+sobrevoando né? Sozinho não.
+
+43
+00:01:54,769 --> 00:01:57,040
+Ele tem que ter um organismo pra infectar.
+
+44
+00:01:57,049 --> 00:01:58,778
+E um vírus de computador é assim.
+
+45
+00:01:58,790 --> 00:02:01,359
+Ele precisa de alguém pra infectar e, a partir
+
+46
+00:02:01,370 --> 00:02:02,799
+do momento que ele infecta, um, arquiva um
+
+47
+00:02:02,808 --> 00:02:05,918
+programa e esse arquivo é executado pelo usuário.
+
+48
+00:02:05,930 --> 00:02:09,830
+Esse vírus vai agir apagando dados, deixando sua máquina
+
+49
+00:02:09,838 --> 00:02:13,149
+lenta, reiniciando o seu computador, até mesmo botando
+
+50
+00:02:13,159 --> 00:02:15,849
+ali mensagens indesejadas pro usuário.
+
+51
+00:02:15,860 --> 00:02:18,389
+Essa é a grande finalidade aí dos vírus.
+
+52
+00:02:18,399 --> 00:02:21,088
+Depois temos aí o WMS, que seria o famoso
+
+53
+00:02:21,099 --> 00:02:23,949
+verme que há uma confusão com o vírus, mas
+
+54
+00:02:23,960 --> 00:02:25,028
+tem diferença.
+
+55
+00:02:25,038 --> 00:02:27,800
+Qual é a grande diferença do verme pro vírus que
+
+56
+00:02:27,808 --> 00:02:31,149
+o WM não precisa de hospedeiro? Ele não vai
+
+57
+00:02:31,159 --> 00:02:33,919
+infectar um arquivo ou um programa? Ele não trabalha
+
+58
+00:02:33,929 --> 00:02:36,000
+com essa infecção, o warm ele já é um
+
+59
+00:02:36,008 --> 00:02:37,538
+próprio executável.
+
+60
+00:02:37,550 --> 00:02:40,538
+Ele já é um arquivo propriamente executável que tem a
+
+61
+00:02:40,550 --> 00:02:43,830
+função de quê de ficar se auto replicando no seu
+
+62
+00:02:43,838 --> 00:02:44,439
+computador.
+
+63
+00:02:44,449 --> 00:02:47,319
+Então, de tanto ele se auto reproduzir, vai
+
+64
+00:02:47,330 --> 00:02:50,319
+exaurir os recursos da sua máquina até travar o seu
+
+65
+00:02:50,330 --> 00:02:50,899
+computador.
+
+66
+00:02:50,909 --> 00:02:53,399
+Se você estiver em uma rede, ele vai explorando
+
+67
+00:02:53,409 --> 00:02:57,146
+brechas, vai se espalhando por toda a rede,
+
+68
+00:02:57,156 --> 00:03:00,406
+até exaurir a rede ficar lenta e travar.
+
+69
+00:03:00,417 --> 00:03:02,026
+Esse é o grande objetivo do homem.
+
+70
+00:03:02,037 --> 00:03:04,706
+Temos os Hanson, né? Que são aí as
+
+71
+00:03:04,716 --> 00:03:08,825
+pragas hoje, queridinhas aí do mercado aí? Mercado
+
+72
+00:03:08,836 --> 00:03:11,186
+né? Eh! Eh malicioso, Hanson vem de
+
+73
+00:03:11,197 --> 00:03:12,265
+resgate.
+
+74
+00:03:12,276 --> 00:03:13,746
+Hanson era é uma praga muito perigosa.
+
+75
+00:03:13,757 --> 00:03:16,186
+Por quê? Porque tem a função de criptografar os
+
+76
+00:03:16,197 --> 00:03:19,612
+dados da sua máquina, Pode criptografar todos os dados
+
+77
+00:03:19,622 --> 00:03:22,574
+que seria aí O Hanson, chamado de Loke ou
+
+78
+00:03:22,582 --> 00:03:26,633
+criptografar parte dos seus dados que é o cripto criptografado.
+
+79
+00:03:26,643 --> 00:03:29,173
+Você não tem mais acesso aos seus dados aí o
+
+80
+00:03:29,183 --> 00:03:32,002
+bandido, o invasor vai te mandar uma mensagem te
+
+81
+00:03:32,014 --> 00:03:34,173
+pedindo o quê, Grana, essa grana é em
+
+82
+00:03:34,183 --> 00:03:36,092
+Bitcoin, tá? É um resgate.
+
+83
+00:03:36,104 --> 00:03:38,312
+Aí vale a pena pagar professor.
+
+84
+00:03:38,324 --> 00:03:38,643
+Não.
+
+85
+00:03:38,653 --> 00:03:41,092
+Já é comprovado que o pagamento não é garantia que
+
+86
+00:03:41,104 --> 00:03:42,713
+você vai ter seus dados de volta.
+
+87
+00:03:42,723 --> 00:03:45,240
+Então Hanson é hoje é uma praga muito perigosa.
+
+88
+00:03:45,251 --> 00:03:48,240
+Por isso você pode simplesmente não ter acesso mais seus
+
+89
+00:03:48,251 --> 00:03:49,879
+dados de um dia pra noite.
+
+90
+00:03:49,890 --> 00:03:52,159
+Por isso que o ideal é sempre ter boas políticas
+
+91
+00:03:52,170 --> 00:03:53,719
+de backup backup.
+
+92
+00:03:53,730 --> 00:03:55,719
+É muito necessário hoje, porque se você pegar uma
+
+93
+00:03:55,730 --> 00:03:57,719
+praga dessa, você recupera o backup.
+
+94
+00:03:57,730 --> 00:03:59,719
+Por exemplo, tá, temos o cavalo, os
+
+95
+00:03:59,730 --> 00:04:02,200
+cavalos de Troia, o famoso Trojan que seria a
+
+96
+00:04:02,210 --> 00:04:04,860
+praga virtual que tem qual função? A função de
+
+97
+00:04:04,871 --> 00:04:09,449
+entrar escondido presente de grego? Ele vem disfarçado por
+
+98
+00:04:09,460 --> 00:04:12,169
+um programa legítimo, Então você tem ali você vai
+
+99
+00:04:12,179 --> 00:04:16,488
+baixar na internet aqueles cartõezinhos de visita aqueles joguinhos gratuitos
+
+100
+00:04:16,500 --> 00:04:19,250
+e a hora que você baixa e vai instalar dentro
+
+101
+00:04:19,259 --> 00:04:23,129
+vai ter um cavalinho de Troia que vai ser executado
+
+102
+00:04:23,139 --> 00:04:25,108
+tá? E no que ele foi executado ele pode
+
+103
+00:04:25,119 --> 00:04:25,819
+liberar qualquer outra.
+
+104
+00:04:25,829 --> 00:04:28,290
+Praga virtual O cavalo de Troia pode trazer vírus pro
+
+105
+00:04:28,298 --> 00:04:31,170
+seu computador, pode trazer spyware pro seu computador e
+
+106
+00:04:31,178 --> 00:04:33,790
+pode trazer o do Oh que tá aqui o que
+
+107
+00:04:33,798 --> 00:04:35,428
+que é o Back Down? O famoso Porta dos
+
+108
+00:04:35,439 --> 00:04:39,488
+fundos que permite? Ele fica ali incubado de liberado.
+
+109
+00:04:39,500 --> 00:04:42,028
+Ele é liberado pelo cavalo de Troia, fica ali
+
+110
+00:04:42,040 --> 00:04:44,389
+incubado e toda vez que o invasor quiser entra na
+
+111
+00:04:44,399 --> 00:04:45,028
+sua máquina.
+
+112
+00:04:45,040 --> 00:04:46,069
+Ele ativa o Bac Down.
+
+113
+00:04:46,079 --> 00:04:49,329
+Aí o BAC do abre Portas da rede o invasor
+
+114
+00:04:49,338 --> 00:04:52,079
+entra e aí meu amigo aí ele vai ficar acessando
+
+115
+00:04:52,088 --> 00:04:54,980
+o seu computador sempre que necessário.
+
+116
+00:04:54,988 --> 00:04:57,338
+Tá o spam também pode ser uma ameaça.
+
+117
+00:04:57,350 --> 00:04:59,858
+Por mais que span, não seja um mae necessariamente,
+
+118
+00:04:59,869 --> 00:05:03,019
+né? Nós sabemos que spam aí eh Os span
+
+119
+00:05:03,028 --> 00:05:07,259
+são e-mails enviados em massa uma grande quantidade de pessoas
+
+120
+00:05:07,269 --> 00:05:10,139
+sem a solicitação dessas pessoas, ou seja, é
+
+121
+00:05:10,149 --> 00:05:11,600
+e-mails publicitários.
+
+122
+00:05:11,696 --> 00:05:14,884
+Porém os spans são muito utilizados pra fazer o mal
+
+123
+00:05:14,894 --> 00:05:20,625
+também enviando propagandas falsas enviando promessas falsas aí para os
+
+124
+00:05:20,634 --> 00:05:21,185
+usuários.
+
+125
+00:05:21,196 --> 00:05:22,355
+Tá, temos os srs.
+
+126
+00:05:22,365 --> 00:05:25,755
+Que é o tal do farejador que seria aí softwares
+
+127
+00:05:25,764 --> 00:05:29,805
+que tem a função de ficar farejando a rede e
+
+128
+00:05:29,815 --> 00:05:32,505
+capturando os pacotes de dados da rede.
+
+129
+00:05:32,514 --> 00:05:34,790
+E aí a pessoa captura, Eu tenho acesso ao
+
+130
+00:05:34,802 --> 00:05:36,081
+que está sendo trocado ali.
+
+131
+00:05:36,091 --> 00:05:39,771
+Engenharia social que é o famoso golpe de persuasão É
+
+132
+00:05:39,781 --> 00:05:43,190
+eu conseguir enganar alguém com o meu gogó, né?
+
+133
+00:05:43,201 --> 00:05:44,831
+O famoso um, sete e um ali.
+
+134
+00:05:44,841 --> 00:05:46,992
+E na hora que eu engano essa pessoa eu consigo
+
+135
+00:05:47,002 --> 00:05:48,161
+pegar os dados dela.
+
+136
+00:05:48,170 --> 00:05:50,350
+Então ela vai ser vítima disso.
+
+137
+00:05:50,360 --> 00:05:53,880
+Desse golpe de persuasão é engenharia social em cima da
+
+138
+00:05:53,891 --> 00:05:58,928
+engenharia social nasceu quem nasceu aí? O que é
+
+139
+00:05:58,939 --> 00:06:01,579
+a engenharia social moderna que já seria o quê?
+
+140
+00:06:01,588 --> 00:06:07,259
+Eu enviar e-mails falsos sites falsos pedindo dados pessoais através
+
+141
+00:06:07,269 --> 00:06:10,619
+desses sites desses? E-mails é uma engenharia social moderna
+
+142
+00:06:10,629 --> 00:06:12,639
+que a gente fala aí E o fake news é
+
+143
+00:06:12,649 --> 00:06:16,108
+um fake news aí também tomando conta aí de e-mails
+
+144
+00:06:16,119 --> 00:06:19,170
+de redes sociais que aquela ideia de você denegrir a
+
+145
+00:06:19,178 --> 00:06:24,230
+imagem de uma pessoa inventar ali, mentiras histórias falsas
+
+146
+00:06:24,238 --> 00:06:28,809
+e pra prejudicar demais pessoas, né Tá muito aí
+
+147
+00:06:28,819 --> 00:06:31,488
+eh, eh, tá atual, né? É,
+
+148
+00:06:31,500 --> 00:06:31,569
+um é um.
+
+149
+00:06:31,579 --> 00:06:34,389
+É uma história muito atual aí hoje, esse tema
+
+150
+00:06:34,399 --> 00:06:36,910
+fake news, okay, aí eu coloquei pra gente
+
+151
+00:06:36,920 --> 00:06:40,879
+dar uma treinado aqui nesses termos.
+
+152
+00:06:40,889 --> 00:06:44,119
+Olha só que interessante um vírus pode ser definido como
+
+153
+00:06:44,129 --> 00:06:46,899
+um programa de computador malicioso cujo objetivo é interromper o
+
+154
+00:06:46,910 --> 00:06:50,838
+funcionamento normal de um sistema de computador sem o conhecimento
+
+155
+00:06:50,850 --> 00:06:51,720
+do seu proprietário.
+
+156
+00:06:51,730 --> 00:06:53,319
+Existem diferentes tipos de vírus.
+
+157
+00:06:53,329 --> 00:06:56,738
+Olha só aqui, define diferentes tipos de vírus.
+
+158
+00:06:56,750 --> 00:07:00,329
+Assim existe uma polêmica, né? De generalizar o
+
+159
+00:07:00,338 --> 00:07:02,838
+termo vírus, mas aí oh o termo correto seria
+
+160
+00:07:02,850 --> 00:07:04,548
+malware, né? O vírus é um tipo de
+
+161
+00:07:04,559 --> 00:07:05,738
+mae, mas tudo bem.
+
+162
+00:07:06,209 --> 00:07:08,619
+Aí ele fala considerando os tipos de vírus de características
+
+163
+00:07:08,629 --> 00:07:12,298
+que correlaciona as colunas esta alternativa correta.
+
+164
+00:07:12,309 --> 00:07:16,949
+Aí ele colocou o W e a um ele falou
+
+165
+00:07:16,959 --> 00:07:19,319
+que cria uma cópia de si mesmo e envia as
+
+166
+00:07:19,329 --> 00:07:20,678
+aos outros usuários.
+
+167
+00:07:20,689 --> 00:07:23,129
+Oh dos que criam uma cópia aqui de si mesmo
+
+168
+00:07:23,139 --> 00:07:25,939
+é o, não é isso, engana o usuário
+
+169
+00:07:25,949 --> 00:07:28,588
+para conseguir informações confidenciais, como senhas, números,
+
+170
+00:07:28,600 --> 00:07:31,778
+cartões de crédito, enganar usuário é quem é a
+
+171
+00:07:31,790 --> 00:07:34,699
+pescaria que eu acabei de citar É o que vem
+
+172
+00:07:34,709 --> 00:07:37,569
+da ideia aí, né? Da engenharia social existe
+
+173
+00:07:37,579 --> 00:07:40,069
+uma grande quantidade de anúncios indesejados sem a permissão do
+
+174
+00:07:40,079 --> 00:07:40,889
+usuário.
+
+175
+00:07:40,899 --> 00:07:42,470
+Oh, nós o citamos, mas eu vou te
+
+176
+00:07:42,480 --> 00:07:47,048
+ensinar isso aqui agora é o são aquelas janelinhas que
+
+177
+00:07:47,059 --> 00:07:51,088
+ficam aparecendo em aplicativos fazendo propaganda é quase igual a
+
+178
+00:07:51,100 --> 00:07:55,369
+ideia do spam o não necessariamente é malicioso tá,
+
+179
+00:07:55,379 --> 00:07:58,069
+mas ela pode ser usada como um tipo de spyware
+
+180
+00:07:58,079 --> 00:08:01,209
+pra coletar dados da sua máquina e ficar aparecendo aquelas
+
+181
+00:08:01,220 --> 00:08:02,449
+propagandas indesejadas.
+
+182
+00:08:02,459 --> 00:08:04,689
+Tá, permite que os usuários acessem o sistema,
+
+183
+00:08:04,699 --> 00:08:07,970
+rede ou software ignorando as leis de seguranças convencionais,
+
+184
+00:08:07,980 --> 00:08:09,230
+ou então aqui é o do.
+
+185
+00:08:09,509 --> 00:08:12,600
+Então, nós tivemos aqui um, quatro, três
+
+186
+00:08:12,608 --> 00:08:16,160
+e dois como definido aí na letra A, Tá
+
+187
+00:08:16,170 --> 00:08:17,778
+bom só mais um pra gente treinar.
+
+188
+00:08:17,790 --> 00:08:22,548
+Olha só códigos maliciosos podem executar ações danosas e atividades
+
+189
+00:08:22,559 --> 00:08:25,858
+maliciosas em equipamentos como roteadores.
+
+190
+00:08:25,869 --> 00:08:28,439
+E aí, geralmente a gente tá acostumado a ver
+
+191
+00:08:28,449 --> 00:08:33,239
+códigos maliciosos em computadores e muita gente tá descobrindo recentemente
+
+192
+00:08:33,250 --> 00:08:37,678
+que também os smartphones são aptos a pegar códigos maliciosos.
+
+193
+00:08:37,690 --> 00:08:40,629
+Aluno ideia é o seguinte a partir do momento que
+
+194
+00:08:40,638 --> 00:08:44,817
+o equipamento tenha um sistema que pode ser acessado,
+
+195
+00:08:44,827 --> 00:08:46,778
+que pode ser explorado.
+
+196
+00:08:46,788 --> 00:08:49,337
+E aquele sistema pode estar apto a pegar um mae
+
+197
+00:08:49,347 --> 00:08:51,457
+e o roteador, ele tem um sistema, né?
+
+198
+00:08:51,467 --> 00:08:54,658
+Ele tem um firme tipo um mini sistema operacional que
+
+199
+00:08:54,668 --> 00:08:57,538
+vai gerir ele, onde você faz as configurações da
+
+200
+00:08:57,548 --> 00:08:59,619
+senha da rede W.
+
+201
+00:08:59,629 --> 00:09:02,138
+Tem roteador aí que tem como se fosse um Windows
+
+202
+00:09:02,148 --> 00:09:04,119
+lá dentro, um wino lá dentro, um filme.
+
+203
+00:09:04,219 --> 00:09:08,149
+Então se ele tem um sistema ele é sim capaz
+
+204
+00:09:08,158 --> 00:09:11,509
+de ser contaminado aí por tá.
+
+205
+00:09:11,519 --> 00:09:14,830
+Então, só aí um complemento pra você pegar bem
+
+206
+00:09:14,840 --> 00:09:19,070
+a ideia do que são essas pragas virtuais tranquilidade.
+
+207
+00:09:19,080 --> 00:09:21,609
+Então tá aí fechamos um grande abraço
+

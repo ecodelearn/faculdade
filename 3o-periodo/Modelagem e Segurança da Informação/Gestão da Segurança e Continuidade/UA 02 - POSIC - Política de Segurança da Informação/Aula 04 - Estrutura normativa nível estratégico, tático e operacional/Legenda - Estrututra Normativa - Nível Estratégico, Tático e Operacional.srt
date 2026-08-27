@@ -1,0 +1,552 @@
+1
+00:00:06,019 --> 00:00:06,948
+sejam bem-vindos.
+
+2
+00:00:06,960 --> 00:00:09,669
+Vamos continuar falando sobre a nossa política de segurança da
+
+3
+00:00:09,679 --> 00:00:12,148
+informação e comunicação nessa aula.
+
+4
+00:00:12,159 --> 00:00:16,510
+Vamos falar sobre estrutura normativa, níveis estratégicos, táticos
+
+5
+00:00:16,519 --> 00:00:17,329
+e operacional.
+
+6
+00:00:17,339 --> 00:00:19,388
+O que é isso tá que é isso, né?
+
+7
+00:00:19,399 --> 00:00:20,170
+De onde vive.
+
+8
+00:00:20,179 --> 00:00:24,609
+Então, vamos lá, estrutura da segurança da informação,
+
+9
+00:00:25,399 --> 00:00:29,530
+a capacidade de proteger dados sensíveis, informações críticas,
+
+10
+00:00:29,539 --> 00:00:31,728
+esses temas contra ameaças crescentes.
+
+11
+00:00:31,739 --> 00:00:35,789
+É vital, para a confiança dos clientes a conformidade
+
+12
+00:00:35,798 --> 00:00:38,389
+regulatória e a continuidade dos negócios.
+
+13
+00:00:38,399 --> 00:00:42,289
+Para alcançar essa segurança de maneira eficaz e abrangente,
+
+14
+00:00:42,298 --> 00:00:45,139
+as organizações adotam a política, né? De segurança
+
+15
+00:00:45,149 --> 00:00:49,889
+da informação Essa abordagem estruturada garante os princípios básicos,
+
+16
+00:00:49,899 --> 00:00:51,889
+né? Aquele segurança da se aqueles princípios básicos que
+
+17
+00:00:51,899 --> 00:00:53,609
+a gente tá falando desde o início? Que é?
+
+18
+00:00:53,618 --> 00:00:59,098
+Vamos lá, irrite integridade, deixa eu vou apagar
+
+19
+00:00:59,109 --> 00:01:02,560
+aqui e fazer direitinho! Calma, aí! Integridade,
+
+20
+00:01:03,380 --> 00:01:08,150
+disponibilidade e lidade sempre, né, gente? Nós,
+
+21
+00:01:08,159 --> 00:01:11,239
+quando estamos falando sobre nossa disciplina, segurança e informação,
+
+22
+00:01:11,250 --> 00:01:15,168
+esses são os três princípios básicos da segurança.
+
+23
+00:01:15,180 --> 00:01:17,388
+Então, quando a gente tá falando, aí a
+
+24
+00:01:17,400 --> 00:01:18,709
+política não foge disso.
+
+25
+00:01:18,719 --> 00:01:18,769
+Tá.
+
+26
+00:01:19,290 --> 00:01:22,439
+Então na política é muito mais do que a política.
+
+27
+00:01:22,448 --> 00:01:24,939
+É muito mais do que um simples documento, ela
+
+28
+00:01:24,948 --> 00:01:28,058
+é a espinha dorsal que orienta as decisões.
+
+29
+00:01:28,069 --> 00:01:33,819
+Olha só as decisões, as ações e responsabilidades relacionadas
+
+30
+00:01:33,829 --> 00:01:34,900
+à segurança da informação.
+
+31
+00:01:34,909 --> 00:01:37,500
+Então esse documento é a espinha.
+
+32
+00:01:37,510 --> 00:01:42,750
+Dol pra decisão pras ações e pras responsabilidades Tá Uma
+
+33
+00:01:42,760 --> 00:01:46,769
+parte essencial dessa política é a sua estrutura hierárquica,
+
+34
+00:01:46,778 --> 00:01:52,269
+que define claramente os níveis de responsabilidades pra cada setores
+
+35
+00:01:52,278 --> 00:01:52,709
+da empresa.
+
+36
+00:01:52,719 --> 00:01:54,230
+Então, a gente vai dar uma olhada nesses níveis
+
+37
+00:01:54,239 --> 00:01:56,069
+tá o nível mais alto.
+
+38
+00:01:56,079 --> 00:02:00,230
+Encontra essa aula de direção encarregada de estabelecer as diretrizes
+
+39
+00:02:00,239 --> 00:02:03,359
+estratégicas da política, né? Que eh pra que
+
+40
+00:02:03,370 --> 00:02:05,939
+ela possa tá alinhada com os objetivos do negócio,
+
+41
+00:02:05,948 --> 00:02:08,479
+no nível tático, Tá? Eles são gerentes equipe
+
+42
+00:02:08,490 --> 00:02:12,050
+de T I traduzem que as diretrizes ali falaram tá
+
+43
+00:02:12,058 --> 00:02:14,139
+e depois a gente tem em nível operacional que são
+
+44
+00:02:14,149 --> 00:02:14,800
+os usuários.
+
+45
+00:02:14,808 --> 00:02:16,338
+A gente vai ver isso claramente aqui.
+
+46
+00:02:16,349 --> 00:02:17,439
+Agora, mais pra frente.
+
+47
+00:02:17,449 --> 00:02:18,149
+Olha só.
+
+48
+00:02:18,159 --> 00:02:21,125
+Então aqui a gente tem o nível estratégico, né.
+
+49
+00:02:21,133 --> 00:02:22,784
+Que é a alta direção, tá aqui, oh,
+
+50
+00:02:22,794 --> 00:02:26,284
+nível estratégico, Aqui eles vão definir, ver se
+
+51
+00:02:26,294 --> 00:02:29,284
+a política está muito vinculada.
+
+52
+00:02:29,294 --> 00:02:33,564
+Tá aos objetivos do negócio e nós precisamos da aprovação
+
+53
+00:02:33,574 --> 00:02:36,618
+desse nível estratégico, Aí vem o tático aqui oh,
+
+54
+00:02:36,629 --> 00:02:40,278
+que vai o quê? Implementar? A nossa política
+
+55
+00:02:40,288 --> 00:02:42,919
+tá aqui, A gente precisa da aprovação.
+
+56
+00:02:42,929 --> 00:02:48,929
+Aprovação aqui é implementação e aqui é operacional! Onde
+
+57
+00:02:48,939 --> 00:02:51,838
+é o dia-a-dia? É o dia-a-dia, né?
+
+58
+00:02:51,849 --> 00:02:54,058
+O dia-a-dia aqui da da nossa política.
+
+59
+00:02:54,069 --> 00:02:57,520
+Então esses essa aqui é a nossa pirâmide onde a
+
+60
+00:02:57,528 --> 00:02:58,500
+gente vem.
+
+61
+00:02:58,508 --> 00:03:04,979
+Precisamos dela toda essa pirâmide envolvida na nossa política de
+
+62
+00:03:04,990 --> 00:03:06,139
+segurança da informação.
+
+63
+00:03:06,149 --> 00:03:08,058
+Tá? E o patrocínio do que a gente tá
+
+64
+00:03:08,069 --> 00:03:11,330
+falando, desde o início vai Vim daqui dos no
+
+65
+00:03:11,338 --> 00:03:15,710
+olha aqui, oh daqui aqui Audio direção audio direção,
+
+66
+00:03:15,719 --> 00:03:19,919
+Patrocina os nossos a nossa política, sem esse patrocínio,
+
+67
+00:03:19,929 --> 00:03:24,618
+aqui é complicadíssimo! Atingir a base da nossa pirâmide
+
+68
+00:03:24,629 --> 00:03:25,639
+é quase impossível.
+
+69
+00:03:25,649 --> 00:03:27,778
+Então eu vamos falar um pouquinho sobre a responsabilidade de
+
+70
+00:03:27,788 --> 00:03:31,399
+cada, né? Cada de um desse aqui da
+
+71
+00:03:31,409 --> 00:03:31,919
+pirâmide.
+
+72
+00:03:31,929 --> 00:03:33,258
+Então a gente tá falando quando a gente tá falando
+
+73
+00:03:33,270 --> 00:03:35,538
+lá do alto do estratégico.
+
+74
+00:03:35,550 --> 00:03:38,558
+O nível estratégico que envolve a alta direção de uma
+
+75
+00:03:38,569 --> 00:03:42,278
+organização desempenha um papel crucial na construção da base sólida
+
+76
+00:03:42,288 --> 00:03:43,419
+para a segurança da informação.
+
+77
+00:03:43,429 --> 00:03:47,058
+Esse nível é a base fundamental das iniciativas de segurança,
+
+78
+00:03:47,979 --> 00:03:51,349
+uma vez que estabelece a direção geral e o comprometimento
+
+79
+00:03:51,360 --> 00:03:54,270
+com a proteção das informações do ativos valiosos.
+
+80
+00:03:54,278 --> 00:03:58,028
+Vamos explorar, né? Que a gente entende que
+
+81
+00:03:58,038 --> 00:04:01,770
+nós falamos várias vezes o papel fundamental da direção,
+
+82
+00:04:01,778 --> 00:04:03,838
+o patrocínio da da da alta direção.
+
+83
+00:04:03,849 --> 00:04:06,868
+Entendemos que a O que a alta direção ela tem
+
+84
+00:04:06,879 --> 00:04:11,288
+que vincular essa política com os objetivos estratégicos da organização
+
+85
+00:04:11,300 --> 00:04:15,550
+próximo Nível é um nível tático, tá compreende gerentes
+
+86
+00:04:15,558 --> 00:04:18,738
+e equipes de tique, que é a tecnologia de
+
+87
+00:04:18,750 --> 00:04:19,858
+informação e comunicação.
+
+88
+00:04:19,869 --> 00:04:23,129
+Esse nível está na linha de frente das transformações,
+
+89
+00:04:23,139 --> 00:04:25,600
+da diretriz estratégica em ações concretas e efetivas.
+
+90
+00:04:25,608 --> 00:04:29,220
+Ou seja, o que a alta direção definiu o
+
+91
+00:04:29,230 --> 00:04:32,540
+que a alta direção alinhou com a estratégia de negócio
+
+92
+00:04:32,548 --> 00:04:37,139
+aqui nós vamos colocar em ações concretas, vamos implementar
+
+93
+00:04:37,149 --> 00:04:37,759
+e operar.
+
+94
+00:04:38,220 --> 00:04:41,509
+Nesse contexto, exploramos as funções e responsabilidades dos níveis
+
+95
+00:04:41,519 --> 00:04:45,588
+táticos, destacando a importância desse nível na proteção das
+
+96
+00:04:45,600 --> 00:04:47,548
+informações e dos ativos da organização.
+
+97
+00:04:47,559 --> 00:04:51,709
+Então, aqui oh é a hora que coloca a
+
+98
+00:04:51,720 --> 00:04:54,629
+política aí em na prática aqui nós vamos começar a
+
+99
+00:04:54,639 --> 00:04:55,149
+colocar ela.
+
+100
+00:04:55,160 --> 00:04:58,750
+A implementação da nossa política é nesse nível tático,
+
+101
+00:04:58,759 --> 00:05:01,230
+aqui tá bom, e aí vamos pro nível operacional,
+
+102
+00:05:01,238 --> 00:05:02,569
+que são os nossos usuários finais.
+
+103
+00:05:02,869 --> 00:05:05,619
+Foi dada a partida, os dados estão lançados.
+
+104
+00:05:05,629 --> 00:05:09,379
+É somente executar o plano de desenvolvido previamente.
+
+105
+00:05:10,129 --> 00:05:15,629
+O nível operacional representa a implementação prática e a execução
+
+106
+00:05:15,639 --> 00:05:18,199
+das políticas de segurança.
+
+107
+00:05:18,209 --> 00:05:21,819
+Os usuários finais podem ser funcionários de todo o departamento
+
+108
+00:05:21,829 --> 00:05:24,778
+da organização, Esse desempenha um papel essencial para a
+
+109
+00:05:24,790 --> 00:05:26,759
+manutenção de um ambiente seguro.
+
+110
+00:05:26,769 --> 00:05:31,298
+Nesse nível, destacamos as responsabilidades e a importância dos
+
+111
+00:05:31,309 --> 00:05:34,238
+usuários finais para proteção dos ativos da organização.
+
+112
+00:05:34,850 --> 00:05:38,619
+Então, são três os nossos, os nossos pilares,
+
+113
+00:05:38,629 --> 00:05:40,519
+da da, da, da nossa hierarquia.
+
+114
+00:05:40,528 --> 00:05:43,540
+Primeiro o lá, o estratégico, que é a
+
+115
+00:05:43,548 --> 00:05:45,399
+alta direção vai definir.
+
+116
+00:05:45,858 --> 00:05:47,910
+O que nós vamos fazer vai definir.
+
+117
+00:05:47,920 --> 00:05:50,809
+Alinhar a política com a estratégia do negócio.
+
+118
+00:05:50,819 --> 00:05:52,588
+Aí depois vem, né? O tático, o
+
+119
+00:05:52,600 --> 00:05:54,519
+tático e são gerentes a equipe de T I que
+
+120
+00:05:54,528 --> 00:05:58,548
+vai implementar aquilo que foi desenhado pela alta direção pelo
+
+121
+00:05:58,559 --> 00:06:01,178
+nível estratégico e depois tem os usuários finais, que
+
+122
+00:06:01,189 --> 00:06:02,509
+é o dia-a-dia que ali é.
+
+123
+00:06:02,519 --> 00:06:05,309
+Uma equipe é talvez um dos mais importantes de toda
+
+124
+00:06:05,319 --> 00:06:08,309
+essa dessa pirâmide, Porque são eles que vão garantir
+
+125
+00:06:08,319 --> 00:06:10,625
+a segurança da informação, porque eles vão seguir as
+
+126
+00:06:10,634 --> 00:06:14,545
+normas, as determinações, os procedimentos com senhas seguras,
+
+127
+00:06:14,553 --> 00:06:18,004
+entender todo o cenário dessa dessa, dessa nossa política.
+
+128
+00:06:18,014 --> 00:06:20,105
+Então, esses são os três pilares são os três
+
+129
+00:06:20,113 --> 00:06:24,545
+os três níveis, Tá melhor dizendo operacional, tá
+
+130
+00:06:24,553 --> 00:06:28,084
+bom o tático e o estratégico.
+
+131
+00:06:28,095 --> 00:06:31,744
+Sem eles, nós não teremos sucesso sem o comprometimento
+
+132
+00:06:31,754 --> 00:06:35,899
+de todos, sem o comprometimento de todos desse dessa
+
+133
+00:06:35,910 --> 00:06:37,769
+pirâmide ou nós não temos.
+
+134
+00:06:37,778 --> 00:06:40,470
+Não teremos sucesso da implementação da nossa política de segurança
+
+135
+00:06:40,480 --> 00:06:41,009
+da informação.
+
+136
+00:06:41,019 --> 00:06:44,389
+Precisamos todos comprometidos pra que a gente consiga entregar uma
+
+137
+00:06:44,399 --> 00:06:48,790
+política que venha garantir uma boa segurança da informação.
+
+138
+00:06:48,798 --> 00:06:49,850
+Te vejo na próxima hora.
+

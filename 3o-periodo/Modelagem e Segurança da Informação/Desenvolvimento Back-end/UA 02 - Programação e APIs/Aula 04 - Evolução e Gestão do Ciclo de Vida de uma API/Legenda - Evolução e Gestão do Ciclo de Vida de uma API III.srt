@@ -1,0 +1,672 @@
+1
+00:00:06,339 --> 00:00:08,948
+Olá, vamos falar um pouquinho sobre a evolução e
+
+2
+00:00:08,960 --> 00:00:11,349
+o ciclo de vida de um A P I né?
+
+3
+00:00:11,359 --> 00:00:13,609
+Ah, as a p i A evolução da T
+
+4
+00:00:13,618 --> 00:00:16,649
+I, né? Daquela parte desde o planejamento até
+
+5
+00:00:16,658 --> 00:00:19,789
+a implantação, né? Define seu ciclo de vida?
+
+6
+00:00:19,798 --> 00:00:23,219
+Eh! Você também tem a questão de as mudanças
+
+7
+00:00:23,228 --> 00:00:24,530
+dela ao longo do tempo.
+
+8
+00:00:24,539 --> 00:00:26,649
+Elas tem que ser muito bem planejadas, né?
+
+9
+00:00:26,658 --> 00:00:30,728
+Porque senão você tem? Eh problemas de quebra de
+
+10
+00:00:30,739 --> 00:00:34,009
+software? Você tem problemas de quebra de compatibilidade,
+
+11
+00:00:34,020 --> 00:00:36,889
+né? Isso é sempre um grande problema! Tá
+
+12
+00:00:36,899 --> 00:00:38,939
+bom? Então, vamos começar a falar um pouco
+
+13
+00:00:38,950 --> 00:00:39,469
+disso.
+
+14
+00:00:40,098 --> 00:00:40,848
+Ciclo de vida.
+
+15
+00:00:40,859 --> 00:00:42,618
+Da pay, né? Como é que a a
+
+16
+00:00:42,630 --> 00:00:44,389
+pay como é que a appa surge? Como é
+
+17
+00:00:44,399 --> 00:00:45,950
+que a pa eh? Chega até lá pra tá
+
+18
+00:00:45,959 --> 00:00:49,109
+disponível pra alguém usar, né? Inicialmente eu tenho
+
+19
+00:00:49,118 --> 00:00:51,270
+em planejamento, né? No planejamento, eu quero
+
+20
+00:00:51,279 --> 00:00:52,029
+as funcionalidades.
+
+21
+00:00:52,039 --> 00:00:53,469
+Eu quero saber o que que eu vou fornecer nessa
+
+22
+00:00:53,478 --> 00:00:56,270
+pay, né? É uma fase muito de análise.
+
+23
+00:00:56,279 --> 00:00:59,069
+Ainda tá, É a fase em que você tem,
+
+24
+00:00:59,079 --> 00:01:00,789
+eh E, de repente, eu tenho um sistema
+
+25
+00:01:00,798 --> 00:01:02,719
+pronto, né? Eu tenho o nosso sistema web
+
+26
+00:01:02,728 --> 00:01:04,760
+pronto, vamos dizer que eu tenho um cadastro de
+
+27
+00:01:04,769 --> 00:01:07,930
+alunos e uma série de outras coisas, mas eu
+
+28
+00:01:07,939 --> 00:01:11,849
+quero colocar uma a p I para fornecimento de notas
+
+29
+00:01:11,859 --> 00:01:14,388
+ou fornecimento de avisos de curso.
+
+30
+00:01:15,260 --> 00:01:16,750
+Se eu vou fazer essa t i, né?
+
+31
+00:01:16,760 --> 00:01:18,338
+Eu tenho que planejar ela.
+
+32
+00:01:18,349 --> 00:01:20,430
+Falo assim o que que eu vou oferecer de informações,
+
+33
+00:01:20,439 --> 00:01:23,109
+ainda mais se eu tiver por baixo, pensando por
+
+34
+00:01:23,120 --> 00:01:25,808
+exemplo, na lei geral de processão de dados que
+
+35
+00:01:25,819 --> 00:01:28,439
+é L GP d eh, eu não posso fornecer
+
+36
+00:01:28,448 --> 00:01:30,430
+qualquer coisa, né? Então eu vou ter,
+
+37
+00:01:30,439 --> 00:01:33,058
+de repente, um serviço que vai me mostrar.
+
+38
+00:01:33,069 --> 00:01:36,510
+Algumas informações que não tenha implicação na L GP D,
+
+39
+00:01:36,519 --> 00:01:38,930
+mas eu não posso dar acesso a todas as funcionalidades
+
+40
+00:01:38,939 --> 00:01:39,629
+do meu sistema.
+
+41
+00:01:39,638 --> 00:01:42,430
+Então tem a fase de planejamento, análise do que
+
+42
+00:01:42,439 --> 00:01:45,778
+vai ser feito depois do desenvolvimento que é quando você
+
+43
+00:01:45,790 --> 00:01:47,698
+implementa pode ser no JS Spring.
+
+44
+00:01:47,709 --> 00:01:50,698
+Pode ser alguma coisa do tipo teste, né?
+
+45
+00:01:50,709 --> 00:01:52,900
+Tem sempre que fazer os testes antes de deixar eh
+
+46
+00:01:52,909 --> 00:01:58,159
+a execução, né? Eh implementação que diz aqui
+
+47
+00:01:58,168 --> 00:02:01,709
+a implementação? Ah, disponibilização, né? A
+
+48
+00:02:01,719 --> 00:02:03,448
+implementação que cê diz aqui oh eu, tô implementando
+
+49
+00:02:03,459 --> 00:02:08,229
+que eu tô eh disponibilizando Tá essa essa a p
+
+50
+00:02:08,240 --> 00:02:11,270
+i em algum momento e a descontinuação, quando ela
+
+51
+00:02:11,278 --> 00:02:14,949
+para de funcionar tá? bom, isso aí é
+
+52
+00:02:14,960 --> 00:02:16,028
+o ciclo de vida.
+
+53
+00:02:16,038 --> 00:02:17,229
+Ela é planejada.
+
+54
+00:02:17,240 --> 00:02:20,979
+Desenvolvida, né? É codificada teste faz os testes,
+
+55
+00:02:20,990 --> 00:02:24,179
+ela é implementada, coloca, ela eh disponível descontinuada
+
+56
+00:02:24,189 --> 00:02:27,179
+quando não precisa mais dela, né? Bom,
+
+57
+00:02:27,189 --> 00:02:29,819
+isso aí é um pouquinho parecido com o ciclo de
+
+58
+00:02:29,830 --> 00:02:30,099
+ops.
+
+59
+00:02:30,110 --> 00:02:32,659
+Na verdade faz parte desse ciclo, né? Cê
+
+60
+00:02:32,669 --> 00:02:35,099
+tem a parte de um ciclo de desenvolvimento ciclo de
+
+61
+00:02:35,110 --> 00:02:37,740
+operação! E você tem esse símbolo de o,
+
+62
+00:02:37,750 --> 00:02:42,639
+né? Você tem lá planejamento, design, desenvolvimento,
+
+63
+00:02:42,649 --> 00:02:45,479
+teste, publicação, monitoramento e descontinuação.
+
+64
+00:02:45,490 --> 00:02:47,360
+Isso aí é o tal do ciclo da Ops.
+
+65
+00:02:47,368 --> 00:02:54,099
+Tá bom necessidade de interface sólida e consistente.
+
+66
+00:02:54,110 --> 00:02:57,520
+Tem que ter uma interface que seja padronizada, Que
+
+67
+00:02:57,528 --> 00:02:59,500
+seja sólida, que não vai ficar modificando.
+
+68
+00:02:59,508 --> 00:03:01,778
+Então você tem que ter pelo menos a garantia de
+
+69
+00:03:01,788 --> 00:03:03,000
+um certo prazo de validade.
+
+70
+00:03:03,819 --> 00:03:06,929
+Tem que ter questionamento de dados e serviços.
+
+71
+00:03:07,659 --> 00:03:10,308
+Então eu posso ter o mesmo serviço com dados diferentes
+
+72
+00:03:10,319 --> 00:03:14,649
+assim agora? Ah, o nome de usuário inclui
+
+73
+00:03:14,659 --> 00:03:16,110
+também o seu CEP.
+
+74
+00:03:16,118 --> 00:03:20,508
+Então você tem lá uma informação a mais? Tá?
+
+75
+00:03:20,520 --> 00:03:20,528
+Eh.
+
+76
+00:03:20,538 --> 00:03:26,129
+Então você tem version de dados e version de serviços,
+
+77
+00:03:26,139 --> 00:03:30,149
+né? Quando você esse version, ele não oferece
+
+78
+00:03:30,159 --> 00:03:30,588
+quebra.
+
+79
+00:03:30,599 --> 00:03:34,000
+Ou seja, se aquele serviço nessa nova versão continua
+
+80
+00:03:34,008 --> 00:03:36,110
+funcionando para as versões antigas.
+
+81
+00:03:36,118 --> 00:03:38,990
+Para os sistemas antigos, você não não muda o
+
+82
+00:03:39,000 --> 00:03:39,778
+número principal.
+
+83
+00:03:39,788 --> 00:03:41,849
+Então fica um ponto um ponto dois, um ponto
+
+84
+00:03:41,860 --> 00:03:42,710
+três um ponto X.
+
+85
+00:03:42,719 --> 00:03:45,229
+Quando tem quebra, você muda o número.
+
+86
+00:03:45,240 --> 00:03:48,199
+Agora é a versão dois, porque agora teve quebra.
+
+87
+00:03:48,210 --> 00:03:50,419
+Por isso, que tem aquelas numerações tão loucas quando
+
+88
+00:03:50,429 --> 00:03:51,838
+a gente pega um software qualquer.
+
+89
+00:03:51,849 --> 00:03:53,899
+Tá sempre que a numeração é quebrada, porque não
+
+90
+00:03:53,909 --> 00:03:56,038
+teve quebra ainda, né? Assim eh quando a
+
+91
+00:03:56,050 --> 00:03:59,879
+numeração é ponto alguma coisa não teve quebra de software?
+
+92
+00:03:59,889 --> 00:04:01,520
+Não teve quebra de funcionalidade.
+
+93
+00:04:01,528 --> 00:04:04,819
+Se a numeração salta pro seguinte, o anterior é
+
+94
+00:04:04,830 --> 00:04:05,960
+incompatível.
+
+95
+00:04:05,969 --> 00:04:07,838
+Tá correção de BG.
+
+96
+00:04:07,849 --> 00:04:10,500
+Não deve alterar a interface, né? De preferência
+
+97
+00:04:11,159 --> 00:04:12,689
+tem que ter um prazo de validade pra a p.
+
+98
+00:04:12,699 --> 00:04:14,849
+I, né? Assim o ideal que você tenha
+
+99
+00:04:14,860 --> 00:04:16,588
+assim, pelo menos até tal ano, isso vai
+
+100
+00:04:16,600 --> 00:04:17,069
+funcionar.
+
+101
+00:04:17,807 --> 00:04:22,117
+Compromisso com a continuidade dos serviços não pode ter quebra,
+
+102
+00:04:22,127 --> 00:04:22,148
+né.
+
+103
+00:04:22,158 --> 00:04:24,459
+E cliente não deve ser afetado por mudanças.
+
+104
+00:04:24,468 --> 00:04:26,778
+Ou seja, se você coloca um sistema, uma
+
+105
+00:04:26,788 --> 00:04:29,057
+versão nova dessa p i, o ideal é que
+
+106
+00:04:29,069 --> 00:04:31,699
+o cliente continue sem perceber isso.
+
+107
+00:04:31,709 --> 00:04:35,259
+Tá, eh Sendo avisado, olha se, de
+
+108
+00:04:35,269 --> 00:04:37,579
+repente ele vai, vai ter essa percepção daqui a
+
+109
+00:04:37,588 --> 00:04:37,937
+algum tempo.
+
+110
+00:04:37,949 --> 00:04:39,738
+avisar Olha, essa P i só vai funcionar até
+
+111
+00:04:39,747 --> 00:04:40,238
+tal dia.
+
+112
+00:04:40,858 --> 00:04:42,790
+Isso aconteceu, por exemplo, no A P I
+
+113
+00:04:42,798 --> 00:04:46,509
+do do Android com o Google Play.
+
+114
+00:04:46,519 --> 00:04:49,588
+Bill, né? O play Bill eh que é
+
+115
+00:04:49,600 --> 00:04:51,329
+o sistema de pagamentos.
+
+116
+00:04:51,338 --> 00:04:54,149
+Ele funcionou durante um bom tempo, mas em algum
+
+117
+00:04:54,160 --> 00:04:57,069
+momento ele falou a partir de tal eh data,
+
+118
+00:04:57,079 --> 00:04:59,238
+A gente vai usar esse modelo, né? E
+
+119
+00:04:59,250 --> 00:05:01,639
+a par eh nessa data, as versões anteriores vão
+
+120
+00:05:01,649 --> 00:05:04,980
+parar de funcionar e parou, né? Mas é
+
+121
+00:05:04,988 --> 00:05:07,540
+assim eles deram um prazo de dois anos pra mudar.
+
+122
+00:05:07,548 --> 00:05:13,459
+Tá bom algumas formas de documentar a P i A,
+
+123
+00:05:13,470 --> 00:05:15,278
+p i tem que ser bem documentadas.
+
+124
+00:05:15,290 --> 00:05:17,500
+Quem for usar vai ter que ter uma boa noção
+
+125
+00:05:17,509 --> 00:05:19,920
+de quais são os serviços, quais são os dados
+
+126
+00:05:19,928 --> 00:05:23,699
+e com bons exemplos de como utilizá-los tá em geral.
+
+127
+00:05:23,709 --> 00:05:27,338
+A p i mostra nossos dados são esses nossos serviços
+
+128
+00:05:27,350 --> 00:05:30,000
+são esses e aqui estão alguns exemplos pra você ver
+
+129
+00:05:30,009 --> 00:05:32,028
+como é que se utiliza, né? Um exemplo
+
+130
+00:05:32,040 --> 00:05:35,619
+clássico disso assim, dessa boa documentação é nos pacotes
+
+131
+00:05:35,629 --> 00:05:36,540
+do n PM.
+
+132
+00:05:36,548 --> 00:05:39,079
+Cê pega lá no get, né? O hub
+
+133
+00:05:39,088 --> 00:05:40,389
+em geral tem muito disso.
+
+134
+00:05:40,399 --> 00:05:42,480
+Tá os pacotes da C n PM Eles mostram quais
+
+135
+00:05:42,488 --> 00:05:45,480
+são os elementos que mostram qual é a funcionalidade coloca
+
+136
+00:05:45,488 --> 00:05:50,220
+exemplos O ideal é colocar exemplos tá existem padrões pra
+
+137
+00:05:50,230 --> 00:05:52,579
+isso eh a documentação do A p i Hoje em
+
+138
+00:05:52,588 --> 00:05:54,699
+dia ela é feita muito pela o p a p
+
+139
+00:05:54,709 --> 00:05:55,100
+i né.
+
+140
+00:05:55,108 --> 00:05:57,678
+Assim um padrão utilizado pela o p a p i
+
+141
+00:05:58,399 --> 00:06:01,730
+é uma iniciativa que facilita muito a documentação, principalmente
+
+142
+00:06:01,738 --> 00:06:05,209
+a P i tá e existe um com um software
+
+143
+00:06:05,220 --> 00:06:09,709
+chamado sge que ele consegue documentar usando esse padrão open
+
+144
+00:06:09,720 --> 00:06:12,369
+e p i né? Inclusive tem formas de documentação
+
+145
+00:06:12,379 --> 00:06:17,048
+automática dentro do próprio j hum, Então assim essa
+
+146
+00:06:17,059 --> 00:06:20,269
+aqui é uma documentação feita no padrão open a p
+
+147
+00:06:20,278 --> 00:06:23,209
+i né? Então assim você tem lá o título,
+
+148
+00:06:23,220 --> 00:06:25,528
+né? Seria o nome da sua A p i
+
+149
+00:06:25,540 --> 00:06:29,838
+do seu aplicativo sumário descrição Termo de serviço até o
+
+150
+00:06:29,850 --> 00:06:35,238
+endereço pros termos de serviço contato nome, então os
+
+151
+00:06:35,250 --> 00:06:38,259
+contatos pra poder falar com quem fez a p i
+
+152
+00:06:38,269 --> 00:06:42,028
+versão isso aí é só a primeira parte.
+
+153
+00:06:42,040 --> 00:06:44,470
+Tá então assim o open a p i ele tem
+
+154
+00:06:44,480 --> 00:06:47,910
+uma série de padrões pra criação de eh Descrição de
+
+155
+00:06:47,920 --> 00:06:51,309
+A P i Descrição de caminho Descrição de como você
+
+156
+00:06:51,319 --> 00:06:53,829
+vai usar o serviço e é enorme? Tá,
+
+157
+00:06:53,838 --> 00:06:56,709
+tem todo um esquema já definido que o sr.
+
+158
+00:06:56,720 --> 00:07:01,149
+Consegue reconhecer e expressar de forma gráfica, coloridinho falando
+
+159
+00:07:01,160 --> 00:07:05,660
+que é cada coisa, né? Bom? Então!
+
+160
+00:07:07,088 --> 00:07:09,939
+Basicamente esses são os elementos principais, tá, eh
+
+161
+00:07:09,949 --> 00:07:12,449
+do ciclo de vida da A t I essa ideia
+
+162
+00:07:12,459 --> 00:07:14,928
+de que você tem que ter esse caminho, mas
+
+163
+00:07:14,939 --> 00:07:19,019
+com a preocupação sempre de não cometer nenhuma quebra em
+
+164
+00:07:19,028 --> 00:07:20,298
+termos de funcionalidade.
+
+165
+00:07:20,309 --> 00:07:23,778
+Uma quebra que não tenha sido pelo menos avisada anteriormente,
+
+166
+00:07:23,790 --> 00:07:25,100
+a gente fica então por aqui.
+
+167
+00:07:25,108 --> 00:07:28,199
+Espero ter agregado conhecimento, bons estudos e até a
+
+168
+00:07:28,209 --> 00:07:28,600
+próxima.
+

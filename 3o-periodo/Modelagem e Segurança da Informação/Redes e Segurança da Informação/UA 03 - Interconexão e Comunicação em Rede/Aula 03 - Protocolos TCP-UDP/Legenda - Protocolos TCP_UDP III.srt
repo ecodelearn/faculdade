@@ -1,0 +1,644 @@
+1
+00:00:05,980 --> 00:00:09,390
+Olá aluno! Professor Fabrício Melo, vamos a sequência
+
+2
+00:00:09,398 --> 00:00:12,788
+aí aos nossos protocolos de transporte TC p e u
+
+3
+00:00:12,800 --> 00:00:15,228
+d P vimos o protocolo TC P Como é que
+
+4
+00:00:15,239 --> 00:00:18,949
+ele age né? O famoso aperto de mão ele
+
+5
+00:00:18,958 --> 00:00:21,658
+faz o controle, deu erro, vai ter o
+
+6
+00:00:21,670 --> 00:00:24,298
+reenvio, aí vi aquela parte que faz o envio
+
+7
+00:00:24,309 --> 00:00:27,350
+duplicado o envio seletivo muito interessante.
+
+8
+00:00:27,359 --> 00:00:29,449
+Agora a gente vai ver o próximo protocolo que é
+
+9
+00:00:29,458 --> 00:00:30,908
+o famoso U D P.
+
+10
+00:00:30,920 --> 00:00:33,908
+É o famoso protocolo de data grama.
+
+11
+00:00:33,918 --> 00:00:36,789
+O protocolo do D P é um protocolo não confiável,
+
+12
+00:00:36,798 --> 00:00:39,348
+é um protocolo que não estabelece a conexão, é
+
+13
+00:00:39,359 --> 00:00:43,548
+um protocolo que não dá garantia de entrega desses pacotes,
+
+14
+00:00:43,560 --> 00:00:47,164
+aí é um protocolo aí concorrente ao TC P a
+
+15
+00:00:47,173 --> 00:00:49,543
+gente vai depender do tipo de aplicação que você vai
+
+16
+00:00:49,554 --> 00:00:53,704
+precisar pra tá utilizando esse famoso protocolo aí? Então
+
+17
+00:00:53,715 --> 00:00:55,825
+vamos que vamos tá vai? TÁ aí na sua
+
+18
+00:00:55,834 --> 00:00:59,064
+telinha? Pra gente já começar a ver o cabeçalho,
+
+19
+00:00:59,075 --> 00:01:01,825
+né O campo os campos de cabeça do protocolo D
+
+20
+00:01:01,834 --> 00:01:05,183
+P Olha só as p d u s de comunicação
+
+21
+00:01:05,194 --> 00:01:07,763
+no d p são chamados de data gramas, né?
+
+22
+00:01:07,775 --> 00:01:10,305
+A gente viu que o TC P são os pacotes,
+
+23
+00:01:10,314 --> 00:01:14,769
+né? E aí enviados quando a gente como fala
+
+24
+00:01:14,778 --> 00:01:18,028
+comumente, né? Assim popularmente a ideia do melhor
+
+25
+00:01:18,040 --> 00:01:20,980
+esforço, né? Pelo protocolo da cama de transporte
+
+26
+00:01:20,989 --> 00:01:22,549
+tá vendo sua cabeça, ela é muito mais simples
+
+27
+00:01:22,558 --> 00:01:24,790
+que o TC P porque não tem aquela série lá
+
+28
+00:01:24,799 --> 00:01:27,510
+de controles, né? De confirmações Como tem o
+
+29
+00:01:27,519 --> 00:01:30,183
+o TC p só tem quatro campus, tá vendo
+
+30
+00:01:30,194 --> 00:01:33,745
+no cabe e requer oito bits apenas, ou seja
+
+31
+00:01:33,754 --> 00:01:35,713
+sessenta e quatro bits.
+
+32
+00:01:35,724 --> 00:01:39,463
+Então um cabe aí bem menor do que o TC
+
+33
+00:01:39,474 --> 00:01:42,064
+p que nós já estudamos, Perceba o que que
+
+34
+00:01:42,073 --> 00:01:44,025
+a gente tem no campo do cabeçalho? O d
+
+35
+00:01:44,034 --> 00:01:47,543
+p nós temos a porta de origem precisa ter,
+
+36
+00:01:47,555 --> 00:01:49,463
+né, tamanho de dezesseis bits Tá vendo? É
+
+37
+00:01:49,474 --> 00:01:52,954
+identificado para ideia, é usado pra identificar a porta,
+
+38
+00:01:52,963 --> 00:01:54,263
+obviamente de origem.
+
+39
+00:01:54,275 --> 00:01:57,025
+Temos a porta de destino.
+
+40
+00:01:57,034 --> 00:02:00,448
+Identifica a porta, né? Da da eh do
+
+41
+00:02:00,459 --> 00:02:04,168
+destinatário! E temos o tamanho que indica o comprimento
+
+42
+00:02:04,180 --> 00:02:05,088
+do cabelo do data.
+
+43
+00:02:05,099 --> 00:02:05,888
+Grama O D P.
+
+44
+00:02:05,900 --> 00:02:08,729
+Então você tem que fazer a identificação desse tamanho.
+
+45
+00:02:08,740 --> 00:02:11,028
+E obviamente, temos o cheque Sun, né?
+
+46
+00:02:11,038 --> 00:02:14,210
+Você falou aí, opcionalmente Sun, que é usado
+
+47
+00:02:14,219 --> 00:02:17,288
+também para detecção de erros do cabe de estados do
+
+48
+00:02:17,300 --> 00:02:18,069
+data.
+
+49
+00:02:19,149 --> 00:02:23,038
+Então você tem ainda o campo de também presente no
+
+50
+00:02:23,050 --> 00:02:23,879
+protocolo.
+
+51
+00:02:23,889 --> 00:02:24,800
+Aí o D P.
+
+52
+00:02:24,808 --> 00:02:27,558
+Então, se você comparar com o estudo do TC
+
+53
+00:02:27,569 --> 00:02:30,469
+P, você vai perceber que é mais simples.
+
+54
+00:02:30,479 --> 00:02:33,368
+É mais compacto aí o cabeça.
+
+55
+00:02:33,379 --> 00:02:35,240
+Por quê? Porque ele é um protocolo mais simples,
+
+56
+00:02:35,250 --> 00:02:38,189
+ele é um protocolo que não exige confiabilidade.
+
+57
+00:02:38,199 --> 00:02:39,719
+É a ideia que foi falada aqui, Oh,
+
+58
+00:02:39,729 --> 00:02:42,919
+é o protocolo do menor esforço, ou seja,
+
+59
+00:02:42,929 --> 00:02:46,979
+eu quero ali enviar eh pacotes, fazer uma transmissão.
+
+60
+00:02:47,074 --> 00:02:50,224
+Mas eu não preciso ali de confiabilidade.
+
+61
+00:02:50,235 --> 00:02:52,963
+Eu não preciso da garantia de entrega, né?
+
+62
+00:02:52,974 --> 00:02:55,054
+Se entregar a beleza e não entregar, a gente
+
+63
+00:02:55,064 --> 00:02:56,383
+continua transmitindo.
+
+64
+00:02:56,395 --> 00:02:58,163
+Por isso que ele vai ser um protocolo aluno muito
+
+65
+00:02:58,175 --> 00:03:00,205
+utilizado em sistemas.
+
+66
+00:03:00,213 --> 00:03:04,004
+O quê de comunicação em tempo real, como chat,
+
+67
+00:03:04,014 --> 00:03:07,243
+como vídeo, chamada, por exemplo Tudo isso é
+
+68
+00:03:07,254 --> 00:03:09,963
+feito aí no transporte pelo U D P.
+
+69
+00:03:09,974 --> 00:03:12,324
+Tá olha só tá vendo as aplicações dele.
+
+70
+00:03:12,335 --> 00:03:14,365
+Oh, tá vendo aplicativo de vídeo e multimídia ao
+
+71
+00:03:14,375 --> 00:03:14,944
+vivo.
+
+72
+00:03:15,258 --> 00:03:17,990
+Eles podem tolerar a perda de dados, mas requerem
+
+73
+00:03:18,000 --> 00:03:19,469
+pouco ou nenhum atraso.
+
+74
+00:03:19,479 --> 00:03:21,520
+Então, quando você tá ali numa comunicação em tempo
+
+75
+00:03:21,528 --> 00:03:25,710
+real, se houver alguma perda de pacotes cara não
+
+76
+00:03:25,719 --> 00:03:28,149
+vai dar pra gerar um erro, né? Não,
+
+77
+00:03:28,159 --> 00:03:31,000
+vai dar pra gerar uma retransmissão não o que que
+
+78
+00:03:31,008 --> 00:03:33,189
+vai acontecer? O vídeo vai dar uma tremida,
+
+79
+00:03:33,199 --> 00:03:35,219
+Se vai ter uma perda de pix, já deve
+
+80
+00:03:35,229 --> 00:03:36,028
+ter notado isso.
+
+81
+00:03:36,038 --> 00:03:39,028
+A voz pode dar uma uma travada, mas a
+
+82
+00:03:39,038 --> 00:03:43,028
+gente continua transmitindo porque esse é o objetivo do o
+
+83
+00:03:43,038 --> 00:03:44,788
+d p tá vendo oh, ele requer pouco ou
+
+84
+00:03:44,800 --> 00:03:46,028
+nenhum atraso.
+
+85
+00:03:46,038 --> 00:03:48,868
+A transmissão tem que continuar, então esse tipo de
+
+86
+00:03:48,879 --> 00:03:50,909
+transmissão aí quando a gente trabalha com o sistema ao
+
+87
+00:03:50,919 --> 00:03:55,389
+vivo é comumente utilizado aí no transporte o d P
+
+88
+00:03:55,399 --> 00:03:59,210
+então quando você tá ali num num num VoIP cê
+
+89
+00:03:59,219 --> 00:04:03,399
+tá usando ali uma vídeochamada que seja transporte o d
+
+90
+00:04:03,409 --> 00:04:07,710
+p tá oh lá Solicitações simples e aplicativo de resposta
+
+91
+00:04:07,719 --> 00:04:10,649
+lembra do d M s Oh lá transações simples em
+
+92
+00:04:10,659 --> 00:04:13,610
+que um rosto envia uma solicitação e ele pode ou
+
+93
+00:04:13,618 --> 00:04:16,449
+não receber uma resposta, então os exemplos disso inclui
+
+94
+00:04:16,459 --> 00:04:18,129
+d m SD HC p que a gente até já
+
+95
+00:04:18,139 --> 00:04:20,569
+viu naquela tabela de portas.
+
+96
+00:04:20,579 --> 00:04:24,259
+Cê viu que o DNS pra fazer requisição? Ele
+
+97
+00:04:24,269 --> 00:04:27,858
+utiliza o D P aí depois pra fazer o trabalho
+
+98
+00:04:27,869 --> 00:04:31,500
+dele que ele requer confiabilidade vai para o TC P
+
+99
+00:04:31,509 --> 00:04:35,220
+Então quando você tem essas solicitações mais simples de respostas,
+
+100
+00:04:35,230 --> 00:04:37,540
+você pode jogar na porta o D P, né?
+
+101
+00:04:37,548 --> 00:04:40,149
+Porque vai ser rápido E você não vai ter uma
+
+102
+00:04:40,160 --> 00:04:42,269
+garantia né? Pode ou não receber a resposta,
+
+103
+00:04:42,278 --> 00:04:44,428
+mas a hora que começar a operar, mesmo com
+
+104
+00:04:44,439 --> 00:04:47,069
+a funcionalidade dele, vai para o TC p,
+
+105
+00:04:47,079 --> 00:04:49,730
+que foi que a gente viu que alguns protocolos podem
+
+106
+00:04:49,738 --> 00:04:53,350
+operar em duas portas? Tá e olha aplicativos que
+
+107
+00:04:53,358 --> 00:04:57,170
+lidam com a confiabilidade, então lá comunicações unidirecionais oh
+
+108
+00:04:57,178 --> 00:04:59,670
+em que o controle de fluxo, a detecção de
+
+109
+00:04:59,678 --> 00:05:04,428
+erros não são necessários ou podem ser gerenciados pela camada
+
+110
+00:05:04,439 --> 00:05:07,519
+de aplicação, que é a camada sete pelo software,
+
+111
+00:05:07,528 --> 00:05:09,949
+o software pode gerenciar isso, então a gente tem,
+
+112
+00:05:09,959 --> 00:05:13,028
+por exemplo, protocolo S n MP, né?
+
+113
+00:05:13,040 --> 00:05:15,189
+Que é o famoso protocolo de gerenciamento de rede que
+
+114
+00:05:15,199 --> 00:05:16,420
+a gente já viu.
+
+115
+00:05:16,428 --> 00:05:18,329
+E o protocolo t f t P, que é
+
+116
+00:05:18,338 --> 00:05:20,869
+o f t p trivial que o f t P
+
+117
+00:05:20,879 --> 00:05:24,119
+tradicional trabalha com o TC p Agora nós temos o
+
+118
+00:05:24,129 --> 00:05:25,629
+t F T P, que é um protocolo até
+
+119
+00:05:25,639 --> 00:05:29,069
+menos usado de transferência de arquivos mais simples.
+
+120
+00:05:29,079 --> 00:05:31,069
+Famoso protocolo trivial.
+
+121
+00:05:31,079 --> 00:05:33,509
+Tá aí, a gente utiliza no caso aí o
+
+122
+00:05:33,519 --> 00:05:36,369
+D P tá vendo tem aplicativos que lidam, né?
+
+123
+00:05:36,379 --> 00:05:39,230
+Com sem a ideia de detecção de erros, né?
+
+124
+00:05:39,238 --> 00:05:42,269
+Eh? Pode ser gerenciado pela camada sete sem problema
+
+125
+00:05:42,278 --> 00:05:46,809
+algum também vai ser utilizado o D P tá aí
+
+126
+00:05:46,819 --> 00:05:49,608
+pra você dar uma treinada como de costume.
+
+127
+00:05:49,619 --> 00:05:55,074
+Olha só essa questãozinha que interessante Olha lá o protocolo
+
+128
+00:05:55,084 --> 00:05:59,105
+d P da pilha zoo ele tá pedindo lá sete
+
+129
+00:05:59,113 --> 00:06:03,384
+camadas ele atua em qual camada aluno Qual é a
+
+130
+00:06:03,394 --> 00:06:08,264
+camada que a gente tá focando aí no nosso andamento
+
+131
+00:06:08,274 --> 00:06:11,975
+das nossas aulas aqui pelo Gran, pela Gran faculdade
+
+132
+00:06:11,983 --> 00:06:16,084
+é a camada de rede que é a camada três
+
+133
+00:06:16,399 --> 00:06:19,009
+Não né? Esse protocolo não é a camada três,
+
+134
+00:06:19,019 --> 00:06:23,129
+é a camada de sessão camada cinco também? Não,
+
+135
+00:06:23,139 --> 00:06:25,869
+né? Opa é a camada de transporte que é
+
+136
+00:06:25,879 --> 00:06:30,608
+a camada quatro exatamente é a camada de enlace camada
+
+137
+00:06:30,619 --> 00:06:34,790
+dois não então o d p, assim como o
+
+138
+00:06:34,798 --> 00:06:39,088
+TC p são protocolos que operam na camada quatro vamos
+
+139
+00:06:39,100 --> 00:06:42,420
+mais uma aí pra você pegar olha que legal conse
+
+140
+00:06:42,428 --> 00:06:45,660
+algumas propriedades e definições de um protocolo do conjunto de
+
+141
+00:06:45,670 --> 00:06:48,160
+protocolos TC p barra r i p Ele é um
+
+142
+00:06:48,170 --> 00:06:50,480
+protocolo da camada de transporte.
+
+143
+00:06:50,488 --> 00:06:55,129
+Tu não é um protocolo Camada quatro implementa um serviço
+
+144
+00:06:55,139 --> 00:07:00,369
+de entrega sem conexão, hein? Tem um não
+
+145
+00:07:00,379 --> 00:07:03,608
+usa confirmações para garantir que as mensagens chegaram ao destino.
+
+146
+00:07:03,619 --> 00:07:06,410
+Tá vendo? Não tem lá pra secar a confirmação,
+
+147
+00:07:06,420 --> 00:07:09,250
+né? As mensagens de protocolo contém o número de
+
+148
+00:07:09,259 --> 00:07:13,048
+porta de destino e o número de porta de origem,
+
+149
+00:07:13,059 --> 00:07:16,209
+né? A gente viu isso aí ele segue o
+
+150
+00:07:16,220 --> 00:07:19,730
+protocolo referido? É quem aí ele entrar.
+
+151
+00:07:19,738 --> 00:07:22,048
+Ele vai botar o TC p só que o TC
+
+152
+00:07:22,059 --> 00:07:24,949
+P é o contrário do que ele tá pedindo.
+
+153
+00:07:24,959 --> 00:07:27,379
+Aí como a gente viu, né i p não
+
+154
+00:07:27,389 --> 00:07:28,778
+tem relação a isso porque o i p não é
+
+155
+00:07:28,790 --> 00:07:32,699
+de transporte é um protocolo de rede aqui temos o
+
+156
+00:07:32,709 --> 00:07:35,420
+d P r data Gran protocolo é essa que é
+
+157
+00:07:35,428 --> 00:07:38,858
+a resposta tá bom, Então tá aí exemplo de
+
+158
+00:07:38,869 --> 00:07:42,588
+como você conhece o protocolo d p como você lida
+
+159
+00:07:42,600 --> 00:07:46,879
+com aí o protocolo concorrente do TC p ou primus
+
+160
+00:07:46,889 --> 00:07:50,238
+do jeito que você quiser, aí eh classificá lo
+
+161
+00:07:50,250 --> 00:07:52,879
+okay Grande abraço até a próxima!
+

@@ -1,0 +1,544 @@
+1
+00:00:06,780 --> 00:00:07,549
+e eu vamos.
+
+2
+00:00:07,559 --> 00:00:10,009
+Agora vamos tratar de um outro aspecto muito importante quando
+
+3
+00:00:10,019 --> 00:00:11,829
+a gente tá falando, já falando de de uma
+
+4
+00:00:11,839 --> 00:00:14,310
+política de segurança, de forma essa política tem que
+
+5
+00:00:14,319 --> 00:00:15,589
+tá muito bem integrada.
+
+6
+00:00:15,599 --> 00:00:18,908
+Ela tem que tá muito bem próxima de um a
+
+7
+00:00:18,920 --> 00:00:21,469
+de algo muito bem, muito bem específico, muito
+
+8
+00:00:21,478 --> 00:00:24,388
+importante dentro da organização, que é a estratégia de
+
+9
+00:00:24,399 --> 00:00:27,269
+tique, que é cara a política de formação.
+
+10
+00:00:27,280 --> 00:00:30,109
+Ela tem que tá muito próximo da equipe técnica de
+
+11
+00:00:30,120 --> 00:00:31,789
+de de de da, da, A t I
+
+12
+00:00:31,798 --> 00:00:34,899
+Vamos pô sim da t I A T I precisa
+
+13
+00:00:34,908 --> 00:00:39,649
+entender claramente como funciona a nossa política de segurança da
+
+14
+00:00:39,658 --> 00:00:40,250
+informação.
+
+15
+00:00:40,259 --> 00:00:43,649
+E a política de forma precisa compreender como é a
+
+16
+00:00:43,658 --> 00:00:44,048
+nossa.
+
+17
+00:00:44,060 --> 00:00:47,590
+T i são oh, são aspectos muito próximos.
+
+18
+00:00:47,598 --> 00:00:50,090
+Um não anda sem o outro, é fundamental entender
+
+19
+00:00:50,098 --> 00:00:50,209
+isso.
+
+20
+00:00:50,219 --> 00:00:56,158
+Tá integração da nossa política com a estratégia de tique.
+
+21
+00:00:56,168 --> 00:01:01,098
+Tá lembrando TIC tecnologia de segurança de informação e comunicação
+
+22
+00:01:01,750 --> 00:01:03,728
+ser verdadeiramente eficaz.
+
+23
+00:01:03,740 --> 00:01:07,558
+A integração da política com a Estratégia de Tecnologia da
+
+24
+00:01:07,569 --> 00:01:11,918
+Informação e comunicação da organização desempenha um papel crítico na
+
+25
+00:01:11,930 --> 00:01:14,379
+proteção dos ativos, da informação, da organização.
+
+26
+00:01:14,388 --> 00:01:18,558
+Essa integração não apenas garante que a segurança da informação
+
+27
+00:01:18,569 --> 00:01:22,079
+seja abordada de maneira abrangente, mas também que a
+
+28
+00:01:22,088 --> 00:01:25,519
+estratégia da segurança esteja alinhada com os objetivos mais amplos.
+
+29
+00:01:25,528 --> 00:01:28,959
+Olha só então a integração, ela tem que garantir
+
+30
+00:01:28,969 --> 00:01:32,948
+que seja, eh a de forma abrangente, né,
+
+31
+00:01:32,959 --> 00:01:36,909
+de maneira abrangente, mas também que a estratégia esteja
+
+32
+00:01:36,918 --> 00:01:39,138
+alinhada com os objetivos do negócio.
+
+33
+00:01:39,150 --> 00:01:42,799
+Então precisamos entender que as estratégias da t i,
+
+34
+00:01:42,808 --> 00:01:46,519
+as estratégias da TC, elas precisam estar muito alinhada
+
+35
+00:01:46,528 --> 00:01:48,620
+à política da segurança da informação.
+
+36
+00:01:48,629 --> 00:01:52,379
+É fundamental, tá? A política não pode ser
+
+37
+00:01:52,388 --> 00:01:55,849
+considerada uma entidade isolada, não pode andar sozinha um
+
+38
+00:01:55,859 --> 00:01:58,849
+corpo perdido no espaço, né? Ela tem que
+
+39
+00:01:58,859 --> 00:02:02,000
+ser desenvolvida de forma a atender os objetivos do negócio,
+
+40
+00:02:02,010 --> 00:02:02,709
+da organização.
+
+41
+00:02:03,388 --> 00:02:06,040
+A segurança da informação é um meio para alcançar esses
+
+42
+00:02:06,049 --> 00:02:06,599
+objetivos.
+
+43
+00:02:06,609 --> 00:02:08,300
+Não um fim, né? Não, É um
+
+44
+00:02:08,308 --> 00:02:09,580
+fim a si mesmo.
+
+45
+00:02:09,588 --> 00:02:12,439
+Isso significa que as políticas e as práticas de segurança
+
+46
+00:02:12,449 --> 00:02:16,399
+devem ser moldadas para apoiar e fortalecer a missão e
+
+47
+00:02:16,409 --> 00:02:18,258
+os objetivos da organização.
+
+48
+00:02:19,099 --> 00:02:22,189
+Essa integração garante que a segurança não seja vista como
+
+49
+00:02:22,199 --> 00:02:25,028
+uma barreira, mas sim como um habilitar de sucesso
+
+50
+00:02:25,038 --> 00:02:26,189
+da organização.
+
+51
+00:02:26,199 --> 00:02:28,149
+A gente precisa entender que a política de segurança da
+
+52
+00:02:28,159 --> 00:02:31,550
+informação não é não é uma barreira, não é
+
+53
+00:02:31,558 --> 00:02:36,830
+um documento que venha prejudicar a inovação, a criatividade,
+
+54
+00:02:36,838 --> 00:02:39,508
+a criação de novos serviços.
+
+55
+00:02:39,520 --> 00:02:42,669
+Pelo contrário, ela vai habilitar ela vai dar garantia,
+
+56
+00:02:42,679 --> 00:02:46,419
+ela vai dar conformidade a esses elementos fundamentais pra dentro
+
+57
+00:02:46,429 --> 00:02:47,250
+da organização.
+
+58
+00:02:48,659 --> 00:02:52,189
+A estratégia de segurança deve estar em harmonia com as
+
+59
+00:02:52,199 --> 00:02:54,469
+tecnologias utilizadas pela organização.
+
+60
+00:02:54,479 --> 00:02:57,189
+Isso envolve a seleção e a implementação de soluções de
+
+61
+00:02:57,199 --> 00:03:02,229
+segurança que estejam alinhadas com sistemas, aplicativos e infraestrutura
+
+62
+00:03:02,240 --> 00:03:02,689
+de T I.
+
+63
+00:03:03,469 --> 00:03:07,080
+A tecnologia desempenha um papel crucial na proteção da informação,
+
+64
+00:03:07,088 --> 00:03:11,599
+e a estratégia de segurança deve garantir que as ferramentas
+
+65
+00:03:11,610 --> 00:03:15,599
+e os sistemas escolhidos sejam eficazes na mitigação de ameaças
+
+66
+00:03:15,610 --> 00:03:20,099
+e conformidade com padrões de segurança a A e a
+
+67
+00:03:20,110 --> 00:03:23,599
+política de segurança e informação e a estratégia de T
+
+68
+00:03:23,610 --> 00:03:23,679
+I.
+
+69
+00:03:23,689 --> 00:03:26,409
+Elas precisam estar muito próximas porque você a empresa vai
+
+70
+00:03:26,419 --> 00:03:30,679
+adquirir ferramentas, vai adquirir soluções, vai adquirir serviços
+
+71
+00:03:30,689 --> 00:03:33,879
+e esses serviços é soluções, né? Eh essas
+
+72
+00:03:33,889 --> 00:03:36,250
+pessoas tá está vinculadas.
+
+73
+00:03:36,258 --> 00:03:40,088
+Ou melhor está, elas precisam estar alinhadas com a
+
+74
+00:03:40,099 --> 00:03:43,449
+política de segurança da informação porque senão vai gerar um
+
+75
+00:03:43,460 --> 00:03:46,210
+desgaste ou vai, talvez vai gerar uma implemen.
+
+76
+00:03:46,219 --> 00:03:49,409
+Eh? Eh? Ah, implementar recursos em outras
+
+77
+00:03:49,419 --> 00:03:51,849
+áreas que não vão vão ser desnecessárias.
+
+78
+00:03:51,860 --> 00:03:54,409
+Vão ser recursos que vão ser gastos de forma eh
+
+79
+00:03:54,419 --> 00:03:57,770
+de forma errada, então precisa tá bem integrado.
+
+80
+00:03:57,778 --> 00:04:00,008
+Muitas empresas tem o seu p d i esse P
+
+81
+00:04:00,020 --> 00:04:03,288
+d i precisa tá muito vinculado e tá muito próximo
+
+82
+00:04:03,300 --> 00:04:04,990
+da política de segurança da informação.
+
+83
+00:04:05,508 --> 00:04:07,710
+Muitas vezes o p d i é o recomendável,
+
+84
+00:04:07,719 --> 00:04:09,360
+esse p d i que é o plano de desenvolvimento
+
+85
+00:04:09,368 --> 00:04:10,960
+de da da T I, né.
+
+86
+00:04:10,969 --> 00:04:14,419
+Ele precisa estar alinhado com a estratégia de T I
+
+87
+00:04:14,429 --> 00:04:16,759
+que está alinhado com a política de segurança da informação
+
+88
+00:04:16,769 --> 00:04:19,619
+que está alinhada com a estratégia de negócios da organização,
+
+89
+00:04:19,629 --> 00:04:22,160
+que é muito é acima de tudo, né a
+
+90
+00:04:22,170 --> 00:04:25,019
+integração dessa política, né? A segurança da informação?
+
+91
+00:04:25,619 --> 00:04:28,689
+Não! Uma camada separada, mas sim um componente
+
+92
+00:04:28,699 --> 00:04:32,949
+um com um um componente integrado nas operações diárias de
+
+93
+00:04:32,959 --> 00:04:33,470
+chique.
+
+94
+00:04:33,480 --> 00:04:36,920
+Isso inclui a incorporação de prática de segurança, desde
+
+95
+00:04:36,928 --> 00:04:39,829
+o desenvolvimento de aplicativos até a administração de redes e
+
+96
+00:04:39,838 --> 00:04:40,470
+sistemas.
+
+97
+00:04:40,480 --> 00:04:43,428
+Ou seja, gente vai ter desde o desenvolvimento até
+
+98
+00:04:43,439 --> 00:04:47,028
+a rede, Então vai software A infraestrutura tá bom,
+
+99
+00:04:47,040 --> 00:04:49,928
+vai desde do do do, do Java, aos
+
+100
+00:04:49,939 --> 00:04:52,588
+equipamentos de redes, aos servidores, aos roteadores.
+
+101
+00:04:52,600 --> 00:04:54,048
+Aí abrange tudo.
+
+102
+00:04:54,649 --> 00:04:58,420
+Os processos operacionais devem ser projetados com a segurança em
+
+103
+00:04:58,428 --> 00:05:01,759
+mente, garantindo que os riscos sejam minimizados em cada
+
+104
+00:05:01,769 --> 00:05:03,980
+etapa então é fundamental entender isso.
+
+105
+00:05:03,988 --> 00:05:07,369
+A segurança, a informação é vai de ponta a
+
+106
+00:05:07,379 --> 00:05:09,420
+ponta de ponta a ponta de ponta.
+
+107
+00:05:09,428 --> 00:05:11,459
+A ponta tá em resumo tá bom.
+
+108
+00:05:11,470 --> 00:05:13,139
+Então o que que a gente pode falar? A
+
+109
+00:05:13,149 --> 00:05:16,139
+integração dessa política, né? Com a estratégia de
+
+110
+00:05:16,149 --> 00:05:19,619
+tique da organização é fundamental para uma abordagem eficaz da
+
+111
+00:05:19,629 --> 00:05:20,858
+segurança da informação.
+
+112
+00:05:20,869 --> 00:05:22,980
+E isso requer um alinhamento com os objetivos do negócio.
+
+113
+00:05:22,988 --> 00:05:24,540
+Lembra que eu falei a gente tem que tá com
+
+114
+00:05:24,548 --> 00:05:27,019
+os objetivos do negócio bem alinhado, alinhado com a
+
+115
+00:05:27,028 --> 00:05:29,778
+política alinhado com a estratégia de T I tá bom,
+
+116
+00:05:29,790 --> 00:05:33,139
+Eh E essa abordagem que é onde a gente tá
+
+117
+00:05:33,149 --> 00:05:35,019
+falando de segurança da informação, ela tem que ser
+
+118
+00:05:35,028 --> 00:05:37,220
+uma parte da cultura organizacional.
+
+119
+00:05:37,230 --> 00:05:39,500
+Tá pra que? Pra que contribua com o sucesso
+
+120
+00:05:39,509 --> 00:05:41,619
+da organização? A partir do momento que todos da
+
+121
+00:05:41,629 --> 00:05:42,838
+organização entendem.
+
+122
+00:05:42,850 --> 00:05:46,459
+Tá que a segurança da informação que a política é
+
+123
+00:05:46,470 --> 00:05:48,290
+impor das política, da segurança, da informação,
+
+124
+00:05:48,298 --> 00:05:51,639
+é importante para a organização.
+
+125
+00:05:51,649 --> 00:05:55,798
+O sucesso, as metas, os objetivos definidos pela
+
+126
+00:05:55,809 --> 00:05:58,079
+empresa vão provavelmente vão ter.
+
+127
+00:05:58,088 --> 00:06:00,000
+Vão ser mais, vão ser atingidos de forma mais
+
+128
+00:06:00,009 --> 00:06:02,959
+fácil, Tá, É muito importante a gente vincular
+
+129
+00:06:02,970 --> 00:06:06,250
+o sucesso da organização ao sucesso dos dados ao sucesso
+
+130
+00:06:06,259 --> 00:06:09,824
+da segurança ao o sucesso da tecnologia é fundamental isso.
+
+131
+00:06:09,834 --> 00:06:11,704
+Isso é um trabalho de cultura que tem que ser
+
+132
+00:06:11,713 --> 00:06:15,064
+trabalhado constantemente através de treinamento.
+
+133
+00:06:15,074 --> 00:06:19,045
+Comunicação é um trabalho, é um trabalho de formiguinha
+
+134
+00:06:19,053 --> 00:06:20,903
+e constante de cada organização.
+
+135
+00:06:20,915 --> 00:06:23,415
+Tá bom, Muito obrigado te vídeo E na próxima
+
+136
+00:06:23,423 --> 00:06:23,764
+aula.
+

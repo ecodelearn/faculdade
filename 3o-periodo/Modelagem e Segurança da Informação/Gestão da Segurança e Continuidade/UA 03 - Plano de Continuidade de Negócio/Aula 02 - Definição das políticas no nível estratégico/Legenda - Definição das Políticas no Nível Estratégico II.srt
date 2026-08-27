@@ -1,0 +1,800 @@
+1
+00:00:06,000 --> 00:00:06,969
+sejam bem-vindos.
+
+2
+00:00:06,980 --> 00:00:09,909
+Tá bom nossa matéria aí, nossa disciplinas de gestão
+
+3
+00:00:09,919 --> 00:00:12,528
+eh de segurança e continuidade! A gente tem algum
+
+4
+00:00:12,538 --> 00:00:13,648
+outro ponto bem específico.
+
+5
+00:00:13,659 --> 00:00:15,970
+Agora que a gente vai falar sobre como alinhar tá
+
+6
+00:00:15,978 --> 00:00:18,449
+os nossos objetivos estratégicos da segurança.
+
+7
+00:00:18,458 --> 00:00:20,929
+Tá os objetivos da segurança com os objetivos maiores,
+
+8
+00:00:20,940 --> 00:00:22,149
+que é a visão da organização.
+
+9
+00:00:22,158 --> 00:00:24,818
+Então, esse vai ser o nosso bate-papo de hoje.
+
+10
+00:00:24,829 --> 00:00:28,489
+Vamos lá, Então assim eh voltando aqui, né?
+
+11
+00:00:28,500 --> 00:00:31,708
+Como alinhar o objetivo estratégico da segurança com a visão
+
+12
+00:00:31,719 --> 00:00:35,069
+da organização? Então, o estabelecimento de metas de
+
+13
+00:00:35,079 --> 00:00:38,548
+segurança alinhadas com a missão e a visão da organização
+
+14
+00:00:38,560 --> 00:00:42,668
+é um componente essencial na definição dos objetivos estratégicos da
+
+15
+00:00:42,679 --> 00:00:43,978
+política e da segurança da informação.
+
+16
+00:00:43,990 --> 00:00:47,215
+Gente, eu já falei isso e algumas vezes não
+
+17
+00:00:47,223 --> 00:00:49,493
+tem como a galera, né, O time de
+
+18
+00:00:49,505 --> 00:00:56,154
+segurança sair desenhando um plano de segurança da informação sem
+
+19
+00:00:56,164 --> 00:01:01,194
+estar alinhada com o negócio, não tem como.
+
+20
+00:01:01,204 --> 00:01:03,134
+Não vai dar certo, não vai dar certo,
+
+21
+00:01:03,145 --> 00:01:05,694
+não vai dar certo, precisa estar muito bem alinhado.
+
+22
+00:01:05,704 --> 00:01:10,308
+Tá bom Essa prática assegura que assegura que a segurança
+
+23
+00:01:10,319 --> 00:01:14,819
+da informação seja integrada com a estratégia global da organização
+
+24
+00:01:14,829 --> 00:01:16,558
+e não uma entidade separada.
+
+25
+00:01:16,569 --> 00:01:19,849
+Tá bom? Então no jamais você pode criar um
+
+26
+00:01:19,859 --> 00:01:23,230
+plano de segurança da informação, separado da da,
+
+27
+00:01:23,239 --> 00:01:26,040
+da, da estratégia global, da organização, que
+
+28
+00:01:26,049 --> 00:01:28,000
+às vezes isso pode ser um impedimento pra que a
+
+29
+00:01:28,010 --> 00:01:31,349
+empresa cresça E vai acabar prejudicando o plano de segurança
+
+30
+00:01:31,359 --> 00:01:33,638
+da informação que as pessoas vão parar de seguir porque
+
+31
+00:01:33,650 --> 00:01:35,540
+tá ali atrapalhando o dia-a-dia.
+
+32
+00:01:35,549 --> 00:01:38,400
+Então tem que tá bem integrado e bem sincronizado.
+
+33
+00:01:38,409 --> 00:01:40,918
+Esses dois elementos tá, então vamos lá alguns pontos
+
+34
+00:01:40,930 --> 00:01:41,739
+importantes.
+
+35
+00:01:41,750 --> 00:01:44,069
+Primeiro, o alinhamento com a visão e com a
+
+36
+00:01:44,079 --> 00:01:44,739
+com a missão.
+
+37
+00:01:45,109 --> 00:01:48,250
+Ah, a missão de a missão de uma organização
+
+38
+00:01:48,260 --> 00:01:52,918
+define seu propósito fundamental enquanto a visão representa o futuro
+
+39
+00:01:52,930 --> 00:01:53,480
+desejado.
+
+40
+00:01:53,489 --> 00:01:55,959
+Ou seja, né? Todas as empresas eh aí!
+
+41
+00:01:55,969 --> 00:01:58,079
+Com certeza, a empresa que você tá que você
+
+42
+00:01:58,088 --> 00:02:00,959
+trabalha ou que você vai trabalhar, tem uma visão
+
+43
+00:02:00,969 --> 00:02:01,739
+e uma missão.
+
+44
+00:02:01,750 --> 00:02:04,040
+Qual é a qual é a visão da sua empresa?
+
+45
+00:02:04,049 --> 00:02:06,760
+Então a missão? Ela é o propósito fundamental,
+
+46
+00:02:06,769 --> 00:02:08,960
+Tá aquela coisa assim? Nossa, somos isso e
+
+47
+00:02:08,969 --> 00:02:11,139
+a visão é onde ela quer chegar.
+
+48
+00:02:11,149 --> 00:02:12,300
+Representa o futuro.
+
+49
+00:02:12,308 --> 00:02:13,520
+Ah, em dois mil e vinte e cinco,
+
+50
+00:02:13,528 --> 00:02:18,399
+queremos tá entre os três melhores empresas do ramo específico.
+
+51
+00:02:18,409 --> 00:02:18,960
+É isso.
+
+52
+00:02:18,969 --> 00:02:23,020
+Tá? Os objetivos de segurança podem estar em harmonia
+
+53
+00:02:23,028 --> 00:02:24,099
+com esses princípios.
+
+54
+00:02:24,110 --> 00:02:26,538
+tá, devem estar, podem estar.
+
+55
+00:02:26,550 --> 00:02:29,179
+Não devem estar, por exemplo, se a missão
+
+56
+00:02:29,189 --> 00:02:33,050
+da empresa é fornecer produtos de alta qualidade, a
+
+57
+00:02:33,058 --> 00:02:36,610
+segurança da informação deve estar projetada para garantir que os
+
+58
+00:02:36,618 --> 00:02:39,288
+dados do cliente não seja comprometido, afetando a qualidade
+
+59
+00:02:39,300 --> 00:02:40,808
+dos produtos e a confiança nele.
+
+60
+00:02:40,819 --> 00:02:41,469
+Tá, então.
+
+61
+00:02:41,479 --> 00:02:42,819
+Ah, se a empresa quer que a visão,
+
+62
+00:02:42,830 --> 00:02:46,258
+na visão que cê que, por exemplo, Ah,
+
+63
+00:02:46,270 --> 00:02:49,580
+eu nós queremos estar em top três das melhores fintechs
+
+64
+00:02:49,588 --> 00:02:50,899
+do Brasil, só que voc.
+
+65
+00:02:50,909 --> 00:02:52,649
+Só que a linha, a Polícia de segurança da
+
+66
+00:02:52,659 --> 00:02:54,528
+informação, ela não tá alinhada com esse negócio e
+
+67
+00:02:54,538 --> 00:02:58,069
+teve vazamento de dados, comprometeu a imagem da empresa.
+
+68
+00:02:58,080 --> 00:03:00,129
+Será que essa empresa vai estar entre as top?
+
+69
+00:03:00,139 --> 00:03:03,288
+Três, né? As melhores empresas do Brasil nos
+
+70
+00:03:03,300 --> 00:03:06,288
+próximos anos? Provavelmente não, Então tem que tá
+
+71
+00:03:06,300 --> 00:03:06,808
+bem alinhado.
+
+72
+00:03:06,819 --> 00:03:08,449
+Tem que entender qual é a missão, Qual é
+
+73
+00:03:08,460 --> 00:03:11,008
+a visão da empresa e integrar isso no seu plano
+
+74
+00:03:11,020 --> 00:03:13,028
+de eh Segurança da informação.
+
+75
+00:03:14,008 --> 00:03:18,258
+Contribuição nos objetivos globais, os objetivos da segurança não
+
+76
+00:03:18,270 --> 00:03:21,258
+deve ser estabelecido isoladamente? Em vez disso, eles
+
+77
+00:03:21,270 --> 00:03:24,659
+devem ser formulados para apoiar e contribuir com os objetivos
+
+78
+00:03:24,669 --> 00:03:26,219
+globais da organização.
+
+79
+00:03:26,229 --> 00:03:29,058
+Isso significa que a segurança da informação não pode ser
+
+80
+00:03:29,069 --> 00:03:32,099
+vista apenas como despesa ou obstáculo.
+
+81
+00:03:32,110 --> 00:03:35,524
+Mas como facilitador do sucesso organizacional, né? E
+
+82
+00:03:35,534 --> 00:03:37,804
+muitas vezes a gente acha que a A o time
+
+83
+00:03:37,814 --> 00:03:40,224
+de segurança só gasta não é um.
+
+84
+00:03:40,235 --> 00:03:40,804
+É um investi.
+
+85
+00:03:40,814 --> 00:03:42,633
+Não é nem o investimento, não são.
+
+86
+00:03:42,645 --> 00:03:44,743
+São gastos desnecessário.
+
+87
+00:03:44,754 --> 00:03:46,844
+Não é isso, Mas também para que a gente
+
+88
+00:03:46,854 --> 00:03:49,534
+prove pra organização que não é um gasto necessário.
+
+89
+00:03:49,544 --> 00:03:51,963
+A gente tem que mostrar o valor que tem uma
+
+90
+00:03:51,974 --> 00:03:53,963
+política de segurança da informação, que um time de
+
+91
+00:03:53,974 --> 00:03:58,110
+segurança, informação entrega para a organização, proteção de
+
+92
+00:03:58,118 --> 00:04:02,189
+ativos estratégicos, os ativos de informações críticos, né?
+
+93
+00:04:02,199 --> 00:04:05,028
+Os ativos de informações críticos para a realização da missão
+
+94
+00:04:05,038 --> 00:04:09,189
+e da visão da organização devem ser identificados e protegidos.
+
+95
+00:04:09,199 --> 00:04:14,189
+Isso pode incluir informações confidenciais, propriedades intelectuais, dados
+
+96
+00:04:14,199 --> 00:04:17,588
+de clientes, sistemas essenciais e outros recursos que são
+
+97
+00:04:17,600 --> 00:04:19,290
+fundamentais para o negócio.
+
+98
+00:04:19,367 --> 00:04:22,858
+Então, primeiro antes de cê proteger os ativos necessários,
+
+99
+00:04:22,867 --> 00:04:25,978
+você precisa conhecer esses ativos necessários.
+
+100
+00:04:25,988 --> 00:04:28,639
+Você conhece os ativos necessários da sua empresa? Se
+
+101
+00:04:28,648 --> 00:04:30,898
+não é um, é uma pergunta que nós precisamos
+
+102
+00:04:30,908 --> 00:04:35,617
+É respostas? Quais são os ativos estratégicos necessários para
+
+103
+00:04:35,627 --> 00:04:37,937
+a minha empresa? A partir daí, você vai
+
+104
+00:04:37,949 --> 00:04:40,738
+conseguir criar um plano de proteção desses ativos, né?
+
+105
+00:04:40,747 --> 00:04:47,738
+Estratégicos Consideração de ameaças estratégicas as metas de segurança devem
+
+106
+00:04:47,750 --> 00:04:52,540
+ser levadas em consideração as ameaças estratégicas que podem afetar
+
+107
+00:04:52,548 --> 00:04:55,548
+a organização, por exemplo, em um ambiente de
+
+108
+00:04:55,559 --> 00:04:57,000
+negócio globalizado.
+
+109
+00:04:57,009 --> 00:05:00,858
+As ameaças cibernéticas podem afetar uma preocupação estratégica.
+
+110
+00:05:00,869 --> 00:05:04,040
+Portanto, a meta de segurança deve incluir a proteção
+
+111
+00:05:04,048 --> 00:05:05,879
+contra essas ameaças.
+
+112
+00:05:05,889 --> 00:05:08,579
+Então, são Tem que ter um plano bem estabelecido
+
+113
+00:05:08,588 --> 00:05:12,059
+com que a gente consiga tentar vincular todas as ameaças
+
+114
+00:05:12,069 --> 00:05:12,738
+possíveis.
+
+115
+00:05:12,750 --> 00:05:16,178
+Tá, sustentabilidade e crescimento.
+
+116
+00:05:16,189 --> 00:05:19,720
+As metas de segurança devem ser formuladas de maneira a
+
+117
+00:05:19,730 --> 00:05:23,319
+permitir a sustentabilidade e o crescimento da organização.
+
+118
+00:05:23,329 --> 00:05:26,759
+Isso significa que a segurança não deve ser impedimento a
+
+119
+00:05:26,769 --> 00:05:30,040
+inovação e a expansão, mas sim, uma garantia
+
+120
+00:05:30,048 --> 00:05:34,024
+que os riscos são gerenciados de forma adequada durante todo
+
+121
+00:05:34,035 --> 00:05:34,944
+o processo pessoal.
+
+122
+00:05:34,954 --> 00:05:38,024
+Muitas empresas já vi isso que a o A,
+
+123
+00:05:38,035 --> 00:05:40,213
+o time de segurança, né? Ali o plano
+
+124
+00:05:40,225 --> 00:05:43,475
+de segurança consegue engessar, de uma certa forma,
+
+125
+00:05:43,483 --> 00:05:45,665
+que não se tem inovação, não tem crescimento,
+
+126
+00:05:45,673 --> 00:05:48,303
+não se sustenta e com isso a empresa não vai,
+
+127
+00:05:48,314 --> 00:05:50,725
+não consegue inovar, não consegue criar.
+
+128
+00:05:51,129 --> 00:05:53,178
+Então o plano, né? O plano de de
+
+129
+00:05:53,189 --> 00:05:56,220
+segurança e informação não pode ser um impeditivo.
+
+130
+00:05:56,230 --> 00:05:58,178
+Ele precisa entender que vai tudo.
+
+131
+00:05:58,189 --> 00:06:00,500
+Todos, sempre a gente vai ter risco.
+
+132
+00:06:00,509 --> 00:06:01,639
+Qual o risco que a gente vai correr e,
+
+133
+00:06:01,649 --> 00:06:03,858
+principalmente identificar os riscos.
+
+134
+00:06:03,869 --> 00:06:05,619
+A partir do momento que a gente identifica os riscos
+
+135
+00:06:05,629 --> 00:06:06,619
+fica mais fácil.
+
+136
+00:06:06,629 --> 00:06:09,500
+Porque aí a gente consegue eh, eh trabalhar em
+
+137
+00:06:09,509 --> 00:06:11,119
+cima desses riscos identificados.
+
+138
+00:06:12,278 --> 00:06:18,959
+Continuando comunicação e conscientização, além de estabelecer metas,
+
+139
+00:06:18,970 --> 00:06:22,338
+é essencial comunicá las e criar conscientização em toda a
+
+140
+00:06:22,350 --> 00:06:23,040
+organização.
+
+141
+00:06:23,048 --> 00:06:26,879
+Os funcionários devem entender como as como suas ações estão
+
+142
+00:06:26,889 --> 00:06:30,358
+alinhadas com os objetivos estratégicos da segurança e como contribui
+
+143
+00:06:30,369 --> 00:06:31,660
+para o sucesso geral.
+
+144
+00:06:31,670 --> 00:06:32,889
+Um plano de continuidade.
+
+145
+00:06:32,899 --> 00:06:36,803
+O plano de segurança informação pessoal é a organização precisa
+
+146
+00:06:36,814 --> 00:06:41,303
+ser comunicado, precisa ser treinado, precisa ser treinado,
+
+147
+00:06:41,314 --> 00:06:45,653
+senão não vai ter eh eh os colaboradores não vão
+
+148
+00:06:45,665 --> 00:06:50,244
+comprar ideia precisa ser comunicado divulgado e treinado Tá?
+
+149
+00:06:50,254 --> 00:06:55,444
+Existe diversas ferramentas que treinam os colaboradores e segurança da
+
+150
+00:06:55,454 --> 00:06:55,983
+informação.
+
+151
+00:06:56,540 --> 00:07:01,149
+Métricas de avaliação As metas de segurança devem ser mensuradas
+
+152
+00:07:01,160 --> 00:07:05,428
+e métricas e métricas apropriadas devem ser estabelecidas para avaliar
+
+153
+00:07:05,439 --> 00:07:08,108
+o progresso em geração as suas metas.
+
+154
+00:07:08,119 --> 00:07:11,108
+E isso permite que a organização acompanhe e ajuste suas
+
+155
+00:07:11,119 --> 00:07:15,170
+a iniciativa de segurança, conforme necessário.
+
+156
+00:07:15,649 --> 00:07:19,939
+Às vezes você precisa entender que as metas precisam ter
+
+157
+00:07:19,949 --> 00:07:21,819
+eh, Eh, precisam ser todas as metas que
+
+158
+00:07:21,829 --> 00:07:23,500
+você coloca pra você, ter métricas, porque a
+
+159
+00:07:23,509 --> 00:07:25,379
+partir do momento que você coloca cria uma meta e
+
+160
+00:07:25,389 --> 00:07:26,678
+não tem como medir.
+
+161
+00:07:26,689 --> 00:07:27,579
+É difícil.
+
+162
+00:07:27,588 --> 00:07:31,178
+Não vai ser quase impossível as pessoas irem em busca
+
+163
+00:07:31,189 --> 00:07:32,579
+dessa meta, porque não tem como medir.
+
+164
+00:07:32,588 --> 00:07:34,160
+Se você não tem como medir você não tem como
+
+165
+00:07:34,170 --> 00:07:34,899
+fazer gestão.
+
+166
+00:07:34,910 --> 00:07:38,579
+Então faça métricas para todas as metas que você tem
+
+167
+00:07:38,588 --> 00:07:43,290
+dentro da sua organização, eh avaliar as consequências.
+
+168
+00:07:43,298 --> 00:07:44,910
+Tá? Então a gente tem que definir ali,
+
+169
+00:07:44,920 --> 00:07:47,569
+avaliar as consequências, olhar pro negócio, ver que
+
+170
+00:07:47,579 --> 00:07:50,778
+qual as consequências eh que tem cada problema.
+
+171
+00:07:50,790 --> 00:07:52,410
+É a partir do momento que a gente avalia aquelas
+
+172
+00:07:52,420 --> 00:07:55,910
+consequências, A gente vai começar a definir ações para
+
+173
+00:07:55,920 --> 00:07:58,290
+cada tipo de consequência.
+
+174
+00:07:58,298 --> 00:08:00,009
+Então eu vou Vou voltar aqui a partir do momento
+
+175
+00:08:00,019 --> 00:08:02,889
+que a gente define faz uma lista dos problemas,
+
+176
+00:08:02,899 --> 00:08:04,355
+os riscos das as consequências.
+
+177
+00:08:04,365 --> 00:08:06,555
+A gente vai definir planos de ação, então isso
+
+178
+00:08:06,565 --> 00:08:10,235
+é fundamental, né? A gente, pra qualquer
+
+179
+00:08:10,245 --> 00:08:12,196
+área de tecnologia, Ou seja, se você não
+
+180
+00:08:12,204 --> 00:08:14,315
+conhece a sua área de tecnologia, se você não
+
+181
+00:08:14,324 --> 00:08:16,755
+entende quais são os processos, quais são as suas
+
+182
+00:08:16,764 --> 00:08:19,036
+áreas, quais são suas? Quais são os seus
+
+183
+00:08:19,045 --> 00:08:22,276
+riscos? Não vai ter como você fazer gestão,
+
+184
+00:08:22,286 --> 00:08:25,355
+gestão de infra gestão de banco, gestão de de
+
+185
+00:08:25,365 --> 00:08:27,901
+segurança? Não sei, mas não vai ter como
+
+186
+00:08:27,911 --> 00:08:29,021
+você fazer gestão.
+
+187
+00:08:29,031 --> 00:08:31,350
+Se você não conhece onde você tá andando, você
+
+188
+00:08:31,360 --> 00:08:34,142
+não conhece seus pontos fortes Com seus pontos fracos,
+
+189
+00:08:34,150 --> 00:08:35,812
+seus pontos de melhoria eu fiz.
+
+190
+00:08:35,822 --> 00:08:38,251
+Cê sabe? Já virou uma sut? Se você
+
+191
+00:08:38,261 --> 00:08:41,841
+não nunca fez uma such da sua área técnica,
+
+192
+00:08:41,850 --> 00:08:45,660
+você precisa fazer pra você entender quais são suas oportunidades,
+
+193
+00:08:45,671 --> 00:08:49,190
+Quais são seus pontos fortes? Enfim, gente pra
+
+194
+00:08:49,200 --> 00:08:53,460
+finalizar, precisamos conhecer a nossa área pra se e
+
+195
+00:08:53,469 --> 00:08:57,009
+então criar plano de ação, comunicar, desenvolver,
+
+196
+00:08:57,019 --> 00:09:00,788
+treinar Se você não conhece o onde você tá andando,
+
+197
+00:09:00,798 --> 00:09:03,469
+quais são seus processos? Se você não tem métricas,
+
+198
+00:09:03,479 --> 00:09:08,469
+vai ficar muito difícil você fazer uma gestão eficaz dentro
+
+199
+00:09:08,479 --> 00:09:10,070
+da sua área, dentro da sua empresa.
+
+200
+00:09:10,080 --> 00:09:12,690
+Tá bom nos e contamos na próxima aula.
+

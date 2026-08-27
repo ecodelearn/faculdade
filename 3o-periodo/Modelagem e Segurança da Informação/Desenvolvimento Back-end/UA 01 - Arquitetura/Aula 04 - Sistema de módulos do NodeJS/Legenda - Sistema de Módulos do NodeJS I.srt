@@ -1,0 +1,636 @@
+1
+00:00:06,288 --> 00:00:07,738
+Olá, sou o professor da COP.
+
+2
+00:00:07,750 --> 00:00:10,380
+A gente vai falar um pouquinho sobre o sistema de
+
+3
+00:00:10,390 --> 00:00:15,579
+módulos do né? Basicamente são sistemas plug de funcionalidade,
+
+4
+00:00:15,589 --> 00:00:19,339
+em que você pode ter módulos internos pertencentes ao núcleo,
+
+5
+00:00:19,350 --> 00:00:20,500
+que já vem com ele.
+
+6
+00:00:20,510 --> 00:00:23,818
+Você pode desenvolver seus próprios módulos ou você pode usar
+
+7
+00:00:23,829 --> 00:00:24,940
+módulos de terceiros.
+
+8
+00:00:24,949 --> 00:00:26,780
+Com isso, muita coisa já existe pronta.
+
+9
+00:00:26,789 --> 00:00:28,978
+A gente não tem que ficar retrabalhando as coisas,
+
+10
+00:00:28,989 --> 00:00:33,209
+né? Vamos ver como é que isso funciona bom
+
+11
+00:00:33,219 --> 00:00:36,509
+então, sobre fundamentos do sistema de módulos, né?
+
+12
+00:00:37,189 --> 00:00:40,709
+Ah, eu tenho módulos core quando fala de módulos
+
+13
+00:00:40,719 --> 00:00:41,240
+core.
+
+14
+00:00:41,250 --> 00:00:43,158
+São os módulos pertencentes ao Núcleo.
+
+15
+00:00:43,168 --> 00:00:45,520
+São aqueles módulos que ele já vem com ele,
+
+16
+00:00:45,529 --> 00:00:49,158
+né? E módulos de terceiros e os módulos de
+
+17
+00:00:49,168 --> 00:00:53,060
+desenvolvedor Módulo desenvolvedor é quando você faz um módulo no
+
+18
+00:00:53,069 --> 00:00:56,380
+seu projeto, né? Então eh para fazer isso,
+
+19
+00:00:56,389 --> 00:01:00,179
+você precisa de diretiva de exportação e importação, né?
+
+20
+00:01:00,189 --> 00:01:03,759
+No seu código, você pode definir alguma coisa e
+
+21
+00:01:03,770 --> 00:01:08,620
+mandar exportar para que outros arquivos possam utilizar aquilo aqui,
+
+22
+00:01:08,629 --> 00:01:12,120
+por exemplo, eu tenho uma função aqui.
+
+23
+00:01:12,129 --> 00:01:15,088
+Na verdade, pegou o valor de pi da do
+
+24
+00:01:15,099 --> 00:01:15,698
+biblioteca.
+
+25
+00:01:15,709 --> 00:01:17,500
+Maf, né? Isso aqui é uma forma de
+
+26
+00:01:17,510 --> 00:01:18,799
+importar cê.
+
+27
+00:01:18,808 --> 00:01:23,459
+Pegue o valor de pi da biblioteca MA né pontuais?
+
+28
+00:01:23,469 --> 00:01:25,558
+É igual raio Ah, ah! Ao quadrado vezes,
+
+29
+00:01:25,569 --> 00:01:29,338
+às vezes na verdade é elevado.
+
+30
+00:01:30,129 --> 00:01:33,180
+E o perímetro duas vezes, por vezes raio aqui
+
+31
+00:01:33,189 --> 00:01:36,668
+eu tô usando a function, né? Seria a
+
+32
+00:01:36,680 --> 00:01:40,819
+definição de função de seta e definindo duas funções Tá
+
+33
+00:01:40,829 --> 00:01:45,129
+uma função para cálculo da do raio e eh o
+
+34
+00:01:45,138 --> 00:01:45,778
+cálculo da área.
+
+35
+00:01:45,790 --> 00:01:49,138
+Aliás e uma pra cálculo do perímetro, ambas recebendo
+
+36
+00:01:49,150 --> 00:01:50,480
+o raio como parâmetro.
+
+37
+00:01:50,489 --> 00:01:53,650
+Tá, eh! E eu tô exportando pra que
+
+38
+00:01:53,659 --> 00:01:59,159
+outros arquivos possam utilizar a mesma coisa Eu posso fazer
+
+39
+00:01:59,418 --> 00:02:03,519
+com recuar? Tá? Eh depois que eu dei
+
+40
+00:02:03,528 --> 00:02:08,338
+o esporte lá eu venho no outro arquivo e coloco
+
+41
+00:02:08,349 --> 00:02:12,189
+Recuar círculo f JS, né Eu tô pegando assim.
+
+42
+00:02:12,199 --> 00:02:15,558
+Um arquivo tá requisitando o outro e com isso vai
+
+43
+00:02:15,569 --> 00:02:18,879
+pegar as informações daquele que se eu tenho aqui,
+
+44
+00:02:21,778 --> 00:02:44,419
+uhum certo, okay, hum, Aqui eu teria,
+
+45
+00:02:44,429 --> 00:02:46,629
+por exemplo, o círculo no forma de função?
+
+46
+00:02:46,639 --> 00:02:47,758
+Vou colocar um zoom aqui.
+
+47
+00:02:48,569 --> 00:02:50,778
+Eh aqui eu teria.
+
+48
+00:02:50,788 --> 00:02:54,179
+Ah, a minha função sendo exportada, né?
+
+49
+00:02:54,189 --> 00:02:59,300
+Nesse caso eu coloquei esse aqui como sistema de módulo
+
+50
+00:02:59,308 --> 00:03:02,099
+no módulo, eu consigo compós eu posso tirar ele
+
+51
+00:03:02,110 --> 00:03:05,379
+pra qual um JS e voltar pro recue, né?
+
+52
+00:03:05,389 --> 00:03:08,919
+Tem duas formas de importar Eu tenho o recue,
+
+53
+00:03:08,929 --> 00:03:13,028
+né? E o que seria da forma do Java
+
+54
+00:03:13,038 --> 00:03:15,629
+Script padrão? Ou se eu quiser o sistema de
+
+55
+00:03:15,639 --> 00:03:18,338
+módulos, eu posso usar o porte, né?
+
+56
+00:03:18,349 --> 00:03:23,020
+Quando eu coloco módulo, se eu tiver esse círculo
+
+57
+00:03:23,028 --> 00:03:27,088
+F ou esse círculo c, eu vou poder pegar
+
+58
+00:03:27,099 --> 00:03:29,669
+e importar com em porte, né? Então,
+
+59
+00:03:29,679 --> 00:03:32,710
+assim aqui eu tenho uma classe.
+
+60
+00:03:32,719 --> 00:03:35,508
+Em vez de definir como função, eu defini como
+
+61
+00:03:35,520 --> 00:03:38,838
+classe a classe Círculo com o construtor que recebe um
+
+62
+00:03:38,849 --> 00:03:41,879
+raio E aí eu tenho dentro dela os métodos que
+
+63
+00:03:41,889 --> 00:03:44,028
+vão retornar, ou área, ou perímetro, já
+
+64
+00:03:44,038 --> 00:03:47,069
+é aquela filosofia mais orientada do objeto.
+
+65
+00:03:47,080 --> 00:03:51,319
+Tá nesse caso eu poderia colocar modulo esportes.
+
+66
+00:03:52,199 --> 00:03:55,399
+No caso de eu trabalhar sem aquele, eh parâmetro
+
+67
+00:03:55,409 --> 00:03:58,569
+um módulo, né? OU se eu mudar o
+
+68
+00:03:58,580 --> 00:04:00,508
+de Jason, né? Eu vou tirar isso aqui
+
+69
+00:04:01,300 --> 00:04:06,500
+Mas se tirar isso ah, e posso até gerar
+
+70
+00:04:06,508 --> 00:04:11,439
+um arquinho novo aqui acontece.
+
+71
+00:04:12,659 --> 00:04:17,069
+Tirando aquele module ele se torna um arquivo no de
+
+72
+00:04:17,079 --> 00:04:20,629
+s comum, né? Aqui eu tenho o eh
+
+73
+00:04:20,639 --> 00:04:21,528
+círculo.
+
+74
+00:04:21,540 --> 00:04:24,858
+F círculo C Se eu quiser usar esse círculo aqui
+
+75
+00:04:24,869 --> 00:04:27,588
+no teste zero um nesse formato, vou dar um
+
+76
+00:04:27,600 --> 00:04:28,488
+C v aqui.
+
+77
+00:04:28,500 --> 00:04:30,970
+Ah, já, tá salvo? Eu teria que
+
+78
+00:04:30,980 --> 00:04:35,220
+colocar círculo.
+
+79
+00:04:35,230 --> 00:04:47,829
+Se é igual recue ponto barra círculo c JS e
+
+80
+00:04:47,838 --> 00:04:57,048
+depois eu posso colocar eh c um meu círculo c
+
+81
+00:04:58,009 --> 00:05:03,170
+hum Quando eu faço isso aqui ele tá estando um
+
+82
+00:05:03,178 --> 00:05:06,389
+objeto desse tipo como eu coloquei é daquela forma ao
+
+83
+00:05:06,399 --> 00:05:08,910
+invés de ser C eu vou ter que fazer assim
+
+84
+00:05:10,059 --> 00:05:14,949
+tá modu esportes quase igual a cico tá aí eu
+
+85
+00:05:14,959 --> 00:05:17,389
+tô usando a forma padrão que é a mais usada
+
+86
+00:05:17,399 --> 00:05:19,858
+na verdade, né eh só que quando você começa
+
+87
+00:05:19,869 --> 00:05:22,480
+a trabalhar com script você vai ser obrigado a usar
+
+88
+00:05:22,488 --> 00:05:26,869
+a nova forma eh então constitui um círculo c um
+
+89
+00:05:26,879 --> 00:05:34,569
+c um ponto área vou deixar só sim console ponto
+
+90
+00:05:35,449 --> 00:05:48,829
+Log c um prontuário executando isso aqui parece que ele
+
+91
+00:05:48,838 --> 00:05:53,939
+tá salvando automático por quê? No teste zero um
+
+92
+00:05:58,000 --> 00:06:00,410
+e ele colocou ali a área de um círculo de
+
+93
+00:06:00,420 --> 00:06:02,369
+raio um que é o próprio pi, né?
+
+94
+00:06:02,379 --> 00:06:06,649
+Então assim eh na forma tradicional eu vou ter esse
+
+95
+00:06:06,660 --> 00:06:08,369
+sistema de módulos dessa forma.
+
+96
+00:06:08,379 --> 00:06:12,369
+Se eu mudar o tipo de projeto no pecas jason
+
+97
+00:06:12,379 --> 00:06:18,689
+e colocar esse projeto do tipo módulo que eu tinha
+
+98
+00:06:18,699 --> 00:06:24,730
+aqui antes muda um pouquinho a forma de você trabalhar.
+
+99
+00:06:26,079 --> 00:06:31,379
+Ah, se eu fizer assim que que ele vai
+
+100
+00:06:31,389 --> 00:06:36,790
+fazer eh aqui na hora de exportar.
+
+101
+00:06:36,798 --> 00:06:42,579
+Eu não exporta dessa forma com module Eu faço ecosport,
+
+102
+00:06:42,588 --> 00:06:49,980
+class, tá E aí na hora de importar eu
+
+103
+00:06:49,988 --> 00:06:51,189
+não faço dessa forma.
+
+104
+00:06:51,199 --> 00:06:54,699
+Eu coloco assim em porte.
+
+105
+00:06:56,379 --> 00:06:59,959
+E aí? Como não é T F? Vou
+
+106
+00:06:59,970 --> 00:07:09,670
+colocar o F aqui e aqui eu vou importar dessa
+
+107
+00:07:09,678 --> 00:07:13,899
+forma, né? Ah, e aqui eu vou
+
+108
+00:07:13,910 --> 00:07:17,139
+ter que usar a classe tá, você vai ver
+
+109
+00:07:17,149 --> 00:07:21,519
+o seguinte se eu rodar novamente eu tenho exatamente o
+
+110
+00:07:21,528 --> 00:07:22,500
+mesmo resultado.
+
+111
+00:07:22,509 --> 00:07:24,259
+Mas é importante conhecer as duas formas.
+
+112
+00:07:24,269 --> 00:07:27,100
+Até porque se você for trabalhar com alguma biblioteca que
+
+113
+00:07:27,108 --> 00:07:31,928
+exija script a forma de trabalhar é comporte, né?
+
+114
+00:07:31,939 --> 00:07:35,389
+E do outro lado o esporte Okay Bom, vamos
+
+115
+00:07:35,399 --> 00:07:40,709
+lá então aqui eu tenho como trabalhar na forma tradicional
+
+116
+00:07:40,720 --> 00:07:45,000
+que eu vou usar o recue ou eu posso usar?
+
+117
+00:07:45,009 --> 00:07:49,040
+Eh a forma, eh através de módulo, né?
+
+118
+00:07:49,048 --> 00:07:51,819
+Se eu for exportar uma classe módulo esportes na forma
+
+119
+00:07:51,829 --> 00:07:55,980
+tradicional classe círculo, né? Coloquei aqui o construtor,
+
+120
+00:07:56,720 --> 00:07:58,519
+Esse aqui é um círculo que vai receber um raio
+
+121
+00:07:58,528 --> 00:08:01,509
+e vai retornar a área ou perímetro como métodos.
+
+122
+00:08:01,519 --> 00:08:04,569
+E aqui como você in instancia ele com a forma
+
+123
+00:08:04,579 --> 00:08:07,769
+normal, né? Seria a mais comum usando o
+
+124
+00:08:07,778 --> 00:08:11,889
+recue se eu mudo para module, né? É
+
+125
+00:08:11,899 --> 00:08:14,309
+importante saber isso você só pode usar o importa se
+
+126
+00:08:14,319 --> 00:08:17,928
+você usar como module, tá, eu tenho que
+
+127
+00:08:17,939 --> 00:08:22,369
+fazer o que se eu colocar como FA eu não
+
+128
+00:08:22,379 --> 00:08:24,250
+preciso daquela chave na importação.
+
+129
+00:08:24,259 --> 00:08:26,528
+Se eu não colocar de fa, eu tô exportando
+
+130
+00:08:26,540 --> 00:08:28,439
+vários elementos, então eu tenho que colocar a chave
+
+131
+00:08:28,449 --> 00:08:30,809
+especificando o que que eu tô ex eh expor eh
+
+132
+00:08:30,819 --> 00:08:31,790
+importando de lá.
+
+133
+00:08:32,590 --> 00:08:33,519
+E aí eh.
+
+134
+00:08:33,529 --> 00:08:38,359
+Eu também posso importar um projeto com n PM tal,
+
+135
+00:08:38,369 --> 00:08:41,070
+né? Por exemplo se eu tiver um projeto chamado
+
+136
+00:08:41,080 --> 00:08:43,639
+calculadora, né? Assim é um projeto que eu
+
+137
+00:08:43,649 --> 00:08:44,500
+tenho lá.
+
+138
+00:08:44,509 --> 00:08:48,918
+Eh, eu posso importar ele para um novo projeto?
+
+139
+00:08:48,928 --> 00:08:52,489
+Tá? Então? Eu poderia ter algo assim.
+
+140
+00:08:52,500 --> 00:08:59,168
+Eh tivesse aqui um projeto calculadora que ele tá exportando
+
+141
+00:08:59,178 --> 00:09:03,080
+a classe, calculadora, eu posso importar esse cara
+
+142
+00:09:03,090 --> 00:09:03,859
+em outro lugar.
+
+143
+00:09:05,788 --> 00:09:12,668
+Tá terminal, eu colocaria n PS tal bom.
+
+144
+00:09:12,678 --> 00:09:14,529
+Primeiro eu tenho que colocar em p n, né?
+
+145
+00:09:16,379 --> 00:09:26,330
+Em ite menos y engraçado queàs vezes ele demora,
+
+146
+00:09:26,340 --> 00:09:36,139
+mas em geral isso comanda bem rápido, pronto e
+
+147
+00:09:36,149 --> 00:09:43,658
+n PM esta calculadora.
+
+148
+00:09:45,950 --> 00:09:49,580
+Então eu posso definir um módulo e importar esse módulo
+
+149
+00:09:49,590 --> 00:09:51,239
+dentro de outro projeto.
+
+150
+00:09:51,250 --> 00:09:53,759
+Com isso, eu posso, inclusive, organizar a
+
+151
+00:09:53,769 --> 00:09:57,158
+arquitetura do meu sistema com vários módulos que eu posso
+
+152
+00:09:57,168 --> 00:09:59,058
+dividir em camadas, fazer o que eu quiser.
+
+153
+00:10:00,009 --> 00:10:02,859
+Ele acabou de importar, Ele veio pra cá,
+
+154
+00:10:02,869 --> 00:10:05,320
+ou seja, Cê importou um projeto pro outro,
+
+155
+00:10:05,330 --> 00:10:07,859
+né? E eu posso usar aqui, num arquivo
+
+156
+00:10:07,869 --> 00:10:11,440
+qualquer, a referência, a calculadora, que tá
+
+157
+00:10:11,450 --> 00:10:17,529
+no outro projeto, né? Bom, com isso
+
+158
+00:10:19,048 --> 00:10:24,558
+nós chegamos ao fim dessa parte acerca de definição e
+
+159
+00:10:24,570 --> 00:10:28,320
+importação de módulos tratando dos módulos do desenvolvedor.
+

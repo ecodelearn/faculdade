@@ -1,0 +1,856 @@
+1
+00:00:06,669 --> 00:00:09,019
+Olá, tudo bem, meu nome é Michel.
+
+2
+00:00:09,028 --> 00:00:13,000
+Nós vamos dar continuidadeà nossa disciplina de gerenciamento de
+
+3
+00:00:13,009 --> 00:00:16,339
+modelagem de processos de negócio, né? Nesta unidade
+
+4
+00:00:16,350 --> 00:00:20,958
+que nós vamos trabalhar nessas próximas interações.
+
+5
+00:00:20,969 --> 00:00:22,719
+Nós vamos falar sobre nós, vamos ver, na
+
+6
+00:00:22,728 --> 00:00:25,260
+verdade, uma série de casos práticos, né?
+
+7
+00:00:25,269 --> 00:00:27,519
+Ou seja, o objetivo aqui é a gente aplicar
+
+8
+00:00:27,530 --> 00:00:32,399
+o nosso conhecimento acerca do b PM, usando muitas
+
+9
+00:00:32,408 --> 00:00:35,418
+das vezes a anotação b PM n, né?
+
+10
+00:00:35,429 --> 00:00:37,079
+D n de noti, como a gente já bem,
+
+11
+00:00:37,090 --> 00:00:43,459
+sabe pra abordar casos práticos de como aplicar essa metodologia
+
+12
+00:00:43,469 --> 00:00:46,139
+dentro do nosso processo de trabalho, né? Então
+
+13
+00:00:46,560 --> 00:00:51,029
+eh fiquem confortáveis e curtam a viagem aí Porque agora
+
+14
+00:00:51,039 --> 00:00:54,950
+nós vamos ver exatamente como a gente vai sair daquele
+
+15
+00:00:55,740 --> 00:00:58,709
+daquela daquele pensamento que a gente tem acerca do nosso
+
+16
+00:00:58,719 --> 00:00:59,450
+processo.
+
+17
+00:00:59,459 --> 00:01:02,759
+Para materializar isso, usando uma ferramenta, né?
+
+18
+00:01:02,770 --> 00:01:06,099
+Usando uma metodologia, que é justamente essa metodologia de
+
+19
+00:01:06,109 --> 00:01:07,870
+que a gente vem abordando ao longo aí dessas?
+
+20
+00:01:07,879 --> 00:01:10,260
+Ah, várias interações que nós tivemos tá legal,
+
+21
+00:01:10,269 --> 00:01:12,150
+Então vamos ver a nossa primeira.
+
+22
+00:01:12,159 --> 00:01:14,790
+O nosso primeiro caso prático, Então nós vamos começar
+
+23
+00:01:14,799 --> 00:01:18,209
+com o caso prático um e os casos serão divididos
+
+24
+00:01:18,219 --> 00:01:20,430
+em três partes, né? Então assim, na
+
+25
+00:01:20,439 --> 00:01:24,750
+primeira parte nós vamos abordar eh um descritivo acerca do
+
+26
+00:01:24,760 --> 00:01:27,629
+que se propõe com aquele com aquele processo.
+
+27
+00:01:27,638 --> 00:01:31,150
+O segundo é uma atividade em que a gente possa
+
+28
+00:01:31,159 --> 00:01:35,230
+traduzir aquela proposta em uma um um um, uma
+
+29
+00:01:35,239 --> 00:01:39,588
+algo coisa mais objetiva e uma terceira parte seria,
+
+30
+00:01:39,599 --> 00:01:42,129
+em alguns dos casos, a demonstração de um fluxo,
+
+31
+00:01:42,448 --> 00:01:44,418
+né no no caso do fluxo de um b PM,
+
+32
+00:01:44,430 --> 00:01:48,620
+né duma usando a anotação em outros casos eh o
+
+33
+00:01:48,629 --> 00:01:50,739
+preenchimento de uma planilha ou o ajuste de a de
+
+34
+00:01:50,750 --> 00:01:53,859
+algum de de um de um processo ou esquematização de
+
+35
+00:01:53,870 --> 00:01:56,239
+um processo por meio de outros métodos tá de qualquer
+
+36
+00:01:56,250 --> 00:01:58,689
+forma, eh, eh, a gente tem que
+
+37
+00:01:58,698 --> 00:02:01,638
+ficar bem entendido de que essa disciplina em que ela
+
+38
+00:02:01,650 --> 00:02:05,879
+pressupõe eh você usar uma anotação, não necessariamente todo
+
+39
+00:02:05,888 --> 00:02:08,649
+o processo terá uma anotação vinculada, né? Eu
+
+40
+00:02:08,659 --> 00:02:11,439
+posso usar somente a disciplina em si.
+
+41
+00:02:11,449 --> 00:02:13,179
+O método dela, que é o proces é o,
+
+42
+00:02:13,189 --> 00:02:16,528
+é o processo de negócio, né? De processo
+
+43
+00:02:16,538 --> 00:02:20,490
+de negócio, de modelagem de processo e eh aplicar
+
+44
+00:02:20,500 --> 00:02:23,169
+a esta a A a questão da anotação tá legal,
+
+45
+00:02:23,179 --> 00:02:25,330
+então vamos lá, vamos a nossa primeira parte,
+
+46
+00:02:25,338 --> 00:02:27,729
+aí tá, então tá aí em tela pra vocês
+
+47
+00:02:27,740 --> 00:02:29,250
+A primeira parte e tá aqui.
+
+48
+00:02:29,258 --> 00:02:31,250
+Oh, como eu, como eu falei, a
+
+49
+00:02:31,258 --> 00:02:32,050
+gente vai começar.
+
+50
+00:02:32,058 --> 00:02:34,588
+Eh Primeiro, entendendo o o cenário tá, tá
+
+51
+00:02:34,599 --> 00:02:37,389
+aqui, foi criado um cenário em que diz assim,
+
+52
+00:02:37,399 --> 00:02:39,528
+oh, a A, A concessionária é uma concessionária
+
+53
+00:02:39,538 --> 00:02:41,469
+de veículos, nome, aí, carro perfeito,
+
+54
+00:02:41,788 --> 00:02:44,199
+é especializado em carros de luxo, né.
+
+55
+00:02:44,210 --> 00:02:49,210
+Que eh o objeto é vender carros, esse é
+
+56
+00:02:49,219 --> 00:02:49,849
+o nosso cenário.
+
+57
+00:02:49,860 --> 00:02:53,409
+O cenário aí aí nós estamos aqui representando o cenário
+
+58
+00:02:53,419 --> 00:02:55,169
+de venda como ele ocorre, né? Então vamos
+
+59
+00:02:55,179 --> 00:02:57,149
+lá oh a outra coisa, tem que ficar bem
+
+60
+00:02:57,159 --> 00:02:59,729
+claro aqui antes da gente da da gente prosseguir,
+
+61
+00:02:59,740 --> 00:03:01,830
+tá só pra ficar, bem claro, aqui é
+
+62
+00:03:01,838 --> 00:03:07,008
+um é um exemplo ilustrativo não representa exatamente a verdade
+
+63
+00:03:07,020 --> 00:03:09,110
+de todas as perspectivas de venda.
+
+64
+00:03:09,118 --> 00:03:12,520
+No caso de carros tá, pode ser que o
+
+65
+00:03:12,528 --> 00:03:14,469
+processo possa ser melhorado.
+
+66
+00:03:14,479 --> 00:03:17,409
+E isso é um pressuposto que a própria modelagem nos
+
+67
+00:03:17,419 --> 00:03:20,469
+traz, mas pra um pra pra o objeto que
+
+68
+00:03:20,479 --> 00:03:22,729
+nós nos propomos aqui, que é um exercício,
+
+69
+00:03:22,740 --> 00:03:24,710
+ele nos cabe muito bem, Então não, aqui
+
+70
+00:03:24,719 --> 00:03:26,500
+não vai o nós estamos olhando que se o processo
+
+71
+00:03:26,508 --> 00:03:28,750
+tá certo, se o processo tá errado, se
+
+72
+00:03:28,758 --> 00:03:30,588
+o processo é bom, se o processo é ruim
+
+73
+00:03:30,599 --> 00:03:33,788
+e simplesmente pra demonstrar que como um processo, né?
+
+74
+00:03:33,800 --> 00:03:36,838
+Ele se torna posteriormente esse o esse desenho, né?
+
+75
+00:03:36,849 --> 00:03:38,719
+Como a gente desenha, como a gente entende e
+
+76
+00:03:38,729 --> 00:03:41,080
+desenha esse processo? Então a gente começa entendendo um
+
+77
+00:03:41,088 --> 00:03:44,319
+processo por meio justamente do descritivo desse processo.
+
+78
+00:03:44,330 --> 00:03:45,058
+Tá legal.
+
+79
+00:03:45,069 --> 00:03:47,240
+Então vamos lá, Continuando oh, o cliente faz
+
+80
+00:03:47,250 --> 00:03:49,278
+um pedido de carro a concessionária, por meio de
+
+81
+00:03:49,288 --> 00:03:50,319
+preenchimento de formulário.
+
+82
+00:03:50,330 --> 00:03:53,460
+O objetivo final é o fechamento da venda e a
+
+83
+00:03:53,469 --> 00:03:55,399
+entrega do carro, né? Então, aqui ficou
+
+84
+00:03:55,409 --> 00:03:58,558
+bem claro como acontece essa perspectiva, né? A
+
+85
+00:03:58,569 --> 00:04:02,038
+segunda em linhas gerais eh, eh, eh O
+
+86
+00:04:02,050 --> 00:04:05,758
+vendedor registra esse pedido e realiza a ordem de pedido
+
+87
+00:04:05,770 --> 00:04:06,580
+à fábrica.
+
+88
+00:04:06,588 --> 00:04:09,439
+Quando o carro chega, o departamento lá da da
+
+89
+00:04:09,449 --> 00:04:11,800
+da Pós-venda prepara o carro pra entrega.
+
+90
+00:04:11,808 --> 00:04:14,808
+E aí o departamento financeiro prepara o financeiro pra concluir
+
+91
+00:04:14,819 --> 00:04:18,000
+a venda e o departamento pós-venda entrega o carro com
+
+92
+00:04:18,009 --> 00:04:18,879
+os documentos pro cliente.
+
+93
+00:04:18,889 --> 00:04:21,899
+Vejam que a gente tem uma série de DE DE
+
+94
+00:04:21,910 --> 00:04:26,319
+eh interações aqui de departamentos que interagem em relação ao
+
+95
+00:04:26,329 --> 00:04:29,819
+processo o e como ele ocorre aqui? Tá legal?
+
+96
+00:04:29,829 --> 00:04:33,769
+Bom como parte dessa venda? Eh o cliente pode
+
+97
+00:04:33,778 --> 00:04:36,009
+optar por um financiamento do carro, né? Ou
+
+98
+00:04:36,019 --> 00:04:39,329
+seja, eu tenho um uma preparação desse financiamento E
+
+99
+00:04:39,338 --> 00:04:43,519
+depois eu tenho eh, eh eh que inicia,
+
+100
+00:04:43,528 --> 00:04:44,720
+né? No caso tá dizendo aqui depois que ele
+
+101
+00:04:44,730 --> 00:04:47,119
+é registrado e depois a gente tem eh que é
+
+102
+00:04:47,129 --> 00:04:50,278
+uma atividade que pode rodar simultaneamente, realizar uma ordem
+
+103
+00:04:50,290 --> 00:04:53,238
+de serviço e preparar o carro pra entrega.
+
+104
+00:04:53,250 --> 00:04:55,079
+Tá então quando a gente realiza a ordem de de
+
+105
+00:04:55,088 --> 00:04:58,959
+de pedido, né? A a concessionária realiza ela
+
+106
+00:04:58,970 --> 00:05:02,750
+eh, eh, só vai fazer isso quando não
+
+107
+00:05:02,759 --> 00:05:04,869
+tiver o carro disponível não na loja.
+
+108
+00:05:04,879 --> 00:05:08,309
+Então veja só que eh essa perspectiva desses encadeamentos dessas
+
+109
+00:05:08,319 --> 00:05:12,069
+ideias de como ela acontece do realizar do preparar é
+
+110
+00:05:12,079 --> 00:05:14,588
+justamente o contexto que se pressupõe em relação a esse
+
+111
+00:05:14,600 --> 00:05:15,028
+caso.
+
+112
+00:05:15,040 --> 00:05:18,108
+Tá aí Por último aqui nós temos aqui a atividade
+
+113
+00:05:18,119 --> 00:05:21,350
+de concluir a venda, que é preparar o financiamento,
+
+114
+00:05:21,358 --> 00:05:24,009
+preparar o carro, eh? Eh pra entrega,
+
+115
+00:05:24,019 --> 00:05:28,065
+né? E isso acontece eh antes dela ser iniciada,
+
+116
+00:05:28,074 --> 00:05:30,824
+então a concluir venda esse prepara eh vai, se
+
+117
+00:05:30,834 --> 00:05:35,346
+vai se vai acontecendo como finalização desse processo, eh
+
+118
+00:05:35,355 --> 00:05:38,185
+da venda de carro, Tá A outra coisa que
+
+119
+00:05:38,196 --> 00:05:41,565
+a gente observa em alguns dos do, dos processos,
+
+120
+00:05:41,574 --> 00:05:45,065
+é que eles podem incorrer eh, em exceções,
+
+121
+00:05:45,074 --> 00:05:47,105
+né? O ideal é que ele ocorra conforme a
+
+122
+00:05:47,115 --> 00:05:49,824
+gente tem em mente, sem nenhum tipo de erro,
+
+123
+00:05:49,834 --> 00:05:51,245
+sem nenhum tempo de de exceção.
+
+124
+00:05:51,331 --> 00:05:54,201
+Nenhum tempo de de sem nenhum nenhum tipo de desvio,
+
+125
+00:05:54,211 --> 00:05:58,302
+mas não necessariamente isso acontece e as exceções esses desvios,
+
+126
+00:05:58,312 --> 00:06:01,252
+né? EH, eles devem ser previstos, devem
+
+127
+00:06:01,261 --> 00:06:05,860
+ser documentados dentro do processo descritos e posteriormente representados.
+
+128
+00:06:05,872 --> 00:06:08,021
+Tá? Então vamos lá, eh pra este processo
+
+129
+00:06:08,031 --> 00:06:08,581
+específico.
+
+130
+00:06:08,591 --> 00:06:12,661
+Nós temos algumas exceções aqui quais sejam primeiro exceção relacionada
+
+131
+00:06:12,670 --> 00:06:13,682
+a esse processo acontece.
+
+132
+00:06:13,690 --> 00:06:16,841
+Caso o caso seu estado não esteja disponível na fábrica
+
+133
+00:06:16,850 --> 00:06:19,961
+eh ou data da disponibilidade, não seja aceita pelo
+
+134
+00:06:19,971 --> 00:06:20,521
+cliente.
+
+135
+00:06:20,769 --> 00:06:23,980
+Ah, nesse caso, olha só cancela se a
+
+136
+00:06:23,988 --> 00:06:26,119
+venda e todas as atividades em curso.
+
+137
+00:06:26,488 --> 00:06:29,738
+Também temos outra questão que é o relacionado ao financiamento.
+
+138
+00:06:29,750 --> 00:06:32,379
+Se o financiamento não for autorizado, ele cancela a
+
+139
+00:06:32,389 --> 00:06:36,269
+venda, inclusive todas as atividades e depois a situação
+
+140
+00:06:36,278 --> 00:06:36,899
+da in.
+
+141
+00:06:36,910 --> 00:06:42,100
+Eh dessa Eh indisponibilidade quando ela é detectada no no
+
+142
+00:06:42,108 --> 00:06:45,399
+processo, realizar ordem de pedido a fábrica, né?
+
+143
+00:06:45,410 --> 00:06:49,439
+EH o que seja aí uma situação de financiamento indisponível,
+
+144
+00:06:49,449 --> 00:06:53,838
+né, que vai ocorrer depois que prepara-se esse financiamento?
+
+145
+00:06:53,850 --> 00:06:56,420
+Tá então? E que essas exceções elas acabam?
+
+146
+00:06:56,428 --> 00:07:01,459
+Eh nos mostrando a perspectiva de que não necessariamente.
+
+147
+00:07:01,470 --> 00:07:04,879
+Neste caso, aqui o processo será eh bem sucedido.
+
+148
+00:07:04,889 --> 00:07:05,319
+até o fim.
+
+149
+00:07:05,329 --> 00:07:08,480
+Mas eu tenho que prever até pra saber como a
+
+150
+00:07:08,488 --> 00:07:09,649
+a atuar.
+
+151
+00:07:09,660 --> 00:07:11,238
+Quando acontecer essa exceção.
+
+152
+00:07:11,250 --> 00:07:12,720
+O que eu não posso deixar acontecer é que o
+
+153
+00:07:12,730 --> 00:07:15,879
+pro, o processo esteja em em em percurso e
+
+154
+00:07:15,889 --> 00:07:18,838
+de repente, por alguma eh exceção, ou por
+
+155
+00:07:18,850 --> 00:07:24,079
+alguma algum tipo de eh intercorrência, eu não saiba
+
+156
+00:07:24,088 --> 00:07:26,449
+o que fazer com ele, então, eu preciso
+
+157
+00:07:26,459 --> 00:07:29,569
+eh faze finalizá lo, mesmo que ele não seja,
+
+158
+00:07:29,579 --> 00:07:32,889
+Vamos dizer o desejo, o desejo do, no
+
+159
+00:07:32,899 --> 00:07:35,088
+caso aqui da concessionária, né? O o o
+
+160
+00:07:35,100 --> 00:07:37,449
+objetivo final de uma concessionária é vender o carro?
+
+161
+00:07:37,459 --> 00:07:39,709
+É óbvio, né? Só que, no momento,
+
+162
+00:07:39,809 --> 00:07:41,579
+tem que isso não é possível.
+
+163
+00:07:41,588 --> 00:07:45,199
+Eu tenho que prever como eu vou encerrar essa atividade
+
+164
+00:07:45,209 --> 00:07:47,420
+dentro da da minha organização.
+
+165
+00:07:47,428 --> 00:07:48,459
+Tá legal? Bom.
+
+166
+00:07:48,470 --> 00:07:53,059
+Então observem que e esse estudo aqui envolve eh algumas
+
+167
+00:07:53,069 --> 00:07:53,858
+perspectivas.
+
+168
+00:07:53,869 --> 00:07:57,439
+Oh começando lá na parte de eh da do pedido,
+
+169
+00:07:57,670 --> 00:08:00,519
+né? E finalizamos com as questões das exceções.
+
+170
+00:08:00,528 --> 00:08:03,358
+Tá o que complementa essa parte, né? Essa
+
+171
+00:08:03,369 --> 00:08:07,119
+parte um ainda essa essa? Justamente esse quadro que
+
+172
+00:08:07,129 --> 00:08:09,439
+eu eh exponho aqui pra vocês.
+
+173
+00:08:09,449 --> 00:08:11,838
+Agora né? Que esse quadro ele.
+
+174
+00:08:11,850 --> 00:08:14,439
+O objetivo dele é elencar as fases do processo b
+
+175
+00:08:14,449 --> 00:08:19,559
+PM para venda, entrega bem como alguns subprocessos,
+
+176
+00:08:19,569 --> 00:08:23,519
+responsáveis e as condições, inclusive as exceções.
+
+177
+00:08:23,528 --> 00:08:26,160
+Tá bom, Aí você pode perguntar, poxa.
+
+178
+00:08:26,170 --> 00:08:27,600
+Mas por que que eu vou fazer um quadro?
+
+179
+00:08:27,608 --> 00:08:29,298
+Por que que eu vou trabalhar com um quadro que
+
+180
+00:08:29,309 --> 00:08:31,920
+isso é importante, né? A gente vai ver
+
+181
+00:08:31,928 --> 00:08:34,739
+num na na segunda parte, exatamente o detalhamento desse
+
+182
+00:08:34,750 --> 00:08:35,879
+quadro, mas é? É.
+
+183
+00:08:35,889 --> 00:08:35,899
+É.
+
+184
+00:08:35,908 --> 00:08:39,200
+É legal a gente chamar atenção pra algumas perspectivas aqui,
+
+185
+00:08:39,210 --> 00:08:43,918
+que ele me permite estruturar muito bem aquilo que eu
+
+186
+00:08:43,928 --> 00:08:47,219
+me proponho a desenhar posteriormente.
+
+187
+00:08:47,229 --> 00:08:50,918
+Então eh, eu olho para aquilo que tá descrito
+
+188
+00:08:50,928 --> 00:08:53,950
+dentro do o documento, dentro do meu processo.
+
+189
+00:08:53,960 --> 00:08:55,899
+Perdão, né? Bom, a gente fala,
+
+190
+00:08:55,908 --> 00:08:57,168
+documento também, mas não é não é.
+
+191
+00:08:57,178 --> 00:08:59,229
+Não é estar errado, não, né? Porque
+
+192
+00:08:59,239 --> 00:09:01,808
+a a todo o processo ele nasce de uma de
+
+193
+00:09:01,820 --> 00:09:04,070
+uma, Ele tem uma origem, né? Que
+
+194
+00:09:04,080 --> 00:09:06,389
+que é dado em em relação a uma necessidade e
+
+195
+00:09:06,399 --> 00:09:09,678
+um um documento claro, que norteou, ou que
+
+196
+00:09:09,690 --> 00:09:12,288
+começou a a eh que existia dentro da organização.
+
+197
+00:09:12,379 --> 00:09:13,908
+Isso é um ponto de partida pra início de um
+
+198
+00:09:13,918 --> 00:09:14,369
+processo.
+
+199
+00:09:14,379 --> 00:09:16,548
+Okay, bom, Mas vamos lá, eu olho
+
+200
+00:09:16,558 --> 00:09:18,269
+pra toda essa descrição.
+
+201
+00:09:18,279 --> 00:09:21,788
+E vou apontando aqui essas perspectivas em relação a esse
+
+202
+00:09:21,798 --> 00:09:22,149
+quadro.
+
+203
+00:09:22,158 --> 00:09:25,869
+Ele me dá um norte e me ajuda a enxergar
+
+204
+00:09:25,879 --> 00:09:30,229
+o que posteriormente eu vou, eh trabalhar, detalhar
+
+205
+00:09:30,239 --> 00:09:33,048
+e aqui é legal, porque eu consigo não só
+
+206
+00:09:33,658 --> 00:09:36,869
+olhar a a, a a perspectiva da fase que
+
+207
+00:09:36,879 --> 00:09:40,149
+tá aqui, mas bem como as atividades vinculadas a
+
+208
+00:09:40,158 --> 00:09:43,288
+essa fase, Quem é o responsável, se tem
+
+209
+00:09:43,298 --> 00:09:46,830
+alguma condição ou dependência ou exceção em relação a essa
+
+210
+00:09:46,840 --> 00:09:48,469
+frase? Então, essa fase? Então a gente
+
+211
+00:09:48,479 --> 00:09:51,548
+vai detalhar isso aqui na segunda parte e aí a
+
+212
+00:09:51,558 --> 00:09:53,548
+gente vai evoluindo para a construção.
+
+213
+00:09:53,558 --> 00:09:57,710
+Posteriormente do nosso fluxo, tá muito obrigado até a
+
+214
+00:09:57,719 --> 00:09:58,570
+segunda parte.
+

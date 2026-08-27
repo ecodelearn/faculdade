@@ -1,0 +1,568 @@
+1
+00:00:06,269 --> 00:00:08,728
+vamos lá, pessoal, continuando nossa aula, nossa
+
+2
+00:00:08,739 --> 00:00:12,880
+disciplina de gestão de segurança e continuidade onde já nós
+
+3
+00:00:12,890 --> 00:00:15,278
+já vimos vários aspectos sobre a nossa política de segurança
+
+4
+00:00:15,288 --> 00:00:18,199
+da informação e agora a gente vai falar sobre gerenciamento
+
+5
+00:00:18,208 --> 00:00:21,859
+de conformidade e alguns relatórios da segurança, da informação.
+
+6
+00:00:21,870 --> 00:00:26,138
+Vamos lá quando a gente tá falando de de de
+
+7
+00:00:26,149 --> 00:00:29,100
+algum, Geralmente de conformidade, existem leis, normas
+
+8
+00:00:29,109 --> 00:00:30,179
+que precisam ser seguidas.
+
+9
+00:00:30,190 --> 00:00:31,019
+Por exemplo, vamos lá.
+
+10
+00:00:31,030 --> 00:00:32,279
+Aqui a gente vai falar muito sobre a vinte e
+
+11
+00:00:32,289 --> 00:00:32,939
+sete mil e um.
+
+12
+00:00:32,950 --> 00:00:35,770
+Vamos seguir esse texto aí pra gente ser o nosso
+
+13
+00:00:35,779 --> 00:00:39,618
+norteador, né? Normas e padrões desempenham um papel
+
+14
+00:00:39,630 --> 00:00:43,959
+fundamental na garantia da segurança da informação e na padronização
+
+15
+00:00:43,969 --> 00:00:46,298
+de práticas e gerenciamento de riscos.
+
+16
+00:00:46,310 --> 00:00:51,079
+Esses padrões, um dos mais amplamente reconhecidos é a
+
+17
+00:00:51,090 --> 00:00:52,959
+vinte e sete mil um a vinte e sete mil
+
+18
+00:00:52,969 --> 00:00:53,240
+um.
+
+19
+00:00:53,250 --> 00:00:57,914
+É um padrão internacional que fornece diretrizes abrangentes para estabelecer,
+
+20
+00:00:57,923 --> 00:01:01,234
+implementar, manter e melhorar o sistema de gerenciamento de
+
+21
+00:01:01,243 --> 00:01:02,293
+segurança da informação.
+
+22
+00:01:02,304 --> 00:01:05,034
+A aplicação da norma como a vinte e sete mil
+
+23
+00:01:05,043 --> 00:01:08,034
+e um no contexto do gerenciamento de risco é valiosa,
+
+24
+00:01:08,043 --> 00:01:11,793
+pois oferece um quadro estruturado para avaliação de riscos e
+
+25
+00:01:11,805 --> 00:01:15,995
+seleção de controle de segurança apropriado e a gestão contínua
+
+26
+00:01:16,004 --> 00:01:17,135
+da segurança da informação.
+
+27
+00:01:17,579 --> 00:01:22,948
+Essas normas fornecem diretrizes detalhadas para ajudar as organizações a
+
+28
+00:01:22,959 --> 00:01:25,870
+entenderem a tratar os riscos, garantindo que as práticas
+
+29
+00:01:25,879 --> 00:01:30,269
+de segurança estejam alinhadas com os padrões globalmente aceitos.
+
+30
+00:01:30,278 --> 00:01:32,150
+Quando a gente tá falando de dessa norma, principalmente
+
+31
+00:01:32,159 --> 00:01:33,969
+a vinte e sete mil e um é uma norma
+
+32
+00:01:33,980 --> 00:01:35,909
+mundialmente aceita, é um a ISO, tá e
+
+33
+00:01:35,918 --> 00:01:36,790
+ela ela.
+
+34
+00:01:36,799 --> 00:01:40,921
+Ela é muito focada em segurança da informação e é
+
+35
+00:01:40,932 --> 00:01:42,361
+legal que ela você pode tirar.
+
+36
+00:01:42,373 --> 00:01:46,042
+Pode ser auditado tanto a organização como a pessoa que
+
+37
+00:01:46,052 --> 00:01:48,162
+que é isso? Tá? Ah, eu quero
+
+38
+00:01:48,171 --> 00:01:49,921
+que o meu, o meu, a minha equipe,
+
+39
+00:01:49,932 --> 00:01:53,483
+minha área de segurança da informação, a minha empresa
+
+40
+00:01:53,492 --> 00:01:56,442
+tenha o certificado vinte e sete mil e um né?
+
+41
+00:01:56,453 --> 00:01:58,361
+Sobre segurança pode ser tirado.
+
+42
+00:01:58,373 --> 00:02:00,415
+Você vai fazer um trabalho, vai chamar um auditor
+
+43
+00:02:00,426 --> 00:02:01,935
+auditor? Vai trabalhar, vai dar uma olhada,
+
+44
+00:02:01,944 --> 00:02:03,834
+fazer uma auditoria e você consegue.
+
+45
+00:02:03,846 --> 00:02:06,855
+Caso seja aprovado o silo, né, o selinho
+
+46
+00:02:06,864 --> 00:02:09,094
+lá de empresa que segue a vinte e sete mil
+
+47
+00:02:09,105 --> 00:02:12,415
+e um como também os colaboradores? Se aquela equipe
+
+48
+00:02:12,425 --> 00:02:16,094
+técnica pode tirar uma certificação vinte e sete mil e
+
+49
+00:02:16,105 --> 00:02:18,466
+um, ou seja, que possui conhecimento em cima
+
+50
+00:02:18,474 --> 00:02:20,216
+dessa norma, tá bom? Então são essas duas
+
+51
+00:02:20,224 --> 00:02:24,276
+coisas, aí eh, vamos lá, voltando aqui.
+
+52
+00:02:26,058 --> 00:02:29,460
+A documentação é uma parte essencial do gerenciamento de risco
+
+53
+00:02:29,469 --> 00:02:30,819
+da insegurança e informação.
+
+54
+00:02:30,830 --> 00:02:34,469
+Todas as atividades relacionadas ao processo inclui identificação dos riscos,
+
+55
+00:02:34,479 --> 00:02:38,508
+avaliação, plano de medicação, controle de implementação deve
+
+56
+00:02:38,520 --> 00:02:39,210
+ser de.
+
+57
+00:02:39,219 --> 00:02:45,395
+Deve ser devidamente documentadas a documentação claro de todas as
+
+58
+00:02:45,403 --> 00:02:50,194
+ações tomadas, ajudando na rasta e na prestação de
+
+59
+00:02:50,205 --> 00:02:50,633
+contas.
+
+60
+00:02:50,645 --> 00:02:52,675
+A gente precisa, tá tudo documentado, não pode
+
+61
+00:02:52,683 --> 00:02:54,514
+estar no computador de uma pessoa, não pode estar
+
+62
+00:02:54,524 --> 00:02:57,694
+na cabeça de uma pessoa, precisa estar documentado e
+
+63
+00:02:57,705 --> 00:02:58,933
+registrado.
+
+64
+00:02:58,944 --> 00:03:00,895
+E uma base única de dados tá bom.
+
+65
+00:03:01,349 --> 00:03:04,319
+A documentação inclui não apenas os detalhes técnicos, mas
+
+66
+00:03:04,330 --> 00:03:09,210
+também os registros de decisões, comunicações, revisões ao
+
+67
+00:03:09,219 --> 00:03:11,159
+longo do ciclo de vida do risco.
+
+68
+00:03:11,169 --> 00:03:14,240
+E isso não apenas suporta a gestão eficaz de risco,
+
+69
+00:03:14,250 --> 00:03:17,758
+mas também auxilia em auditorias internas e externas, bem
+
+70
+00:03:17,770 --> 00:03:20,778
+como na conformidade com regulamentações e padrões.
+
+71
+00:03:20,788 --> 00:03:23,599
+Você precisa documentar tudo gente, tudo tudo tudo porque
+
+72
+00:03:23,610 --> 00:03:26,419
+quando você tiver uma auditoria ou se você precisar seguir
+
+73
+00:03:26,429 --> 00:03:30,520
+alguma regulamentação, alguma norma e quando virem os os
+
+74
+00:03:30,528 --> 00:03:32,969
+órgãos competentes a olharem, o que você tá,
+
+75
+00:03:32,979 --> 00:03:35,490
+se o que tá sendo feito toda essa documentação,
+
+76
+00:03:35,500 --> 00:03:39,479
+todo esse histórico de ações de comunicação vão ser exigidos.
+
+77
+00:03:39,490 --> 00:03:43,199
+Então é importante ter todo esse histórico documentado registrado,
+
+78
+00:03:43,210 --> 00:03:47,118
+uma base de dados, uma base segura de dados
+
+79
+00:03:47,129 --> 00:03:49,558
+disponível, quando necessário, pra quem necessário.
+
+80
+00:03:49,569 --> 00:03:50,538
+É fundamental isso.
+
+81
+00:03:52,210 --> 00:03:56,058
+Além disso, a criação de relatórios adequados é uma
+
+82
+00:03:56,069 --> 00:03:58,419
+prática útil e eu vou além do útil.
+
+83
+00:03:58,429 --> 00:04:00,679
+Tá? É necessário, não é só útil.
+
+84
+00:04:00,689 --> 00:04:04,429
+É fundamental você ter um relatório de gestão para acompanhar
+
+85
+00:04:04,439 --> 00:04:07,360
+o progresso e a eficácia das medidas de mitigação.
+
+86
+00:04:07,368 --> 00:04:11,020
+Esses relatórios podem abranger o desempenho de controle de segurança,
+
+87
+00:04:11,028 --> 00:04:16,315
+as tendências e ameaças, as vulnerabilidades identificadas e contínua
+
+88
+00:04:16,324 --> 00:04:18,055
+das avaliações de riscos.
+
+89
+00:04:18,065 --> 00:04:21,675
+Eles oferecem sites valiosos para atos de direção, partes
+
+90
+00:04:21,685 --> 00:04:24,716
+interessadas sobre status de segurança da informação e ajuda a
+
+91
+00:04:24,725 --> 00:04:26,634
+orientar a tomar decisões informadas.
+
+92
+00:04:26,644 --> 00:04:29,045
+Gente, precisamos de relatório, vou até tirar aqui.
+
+93
+00:04:29,055 --> 00:04:31,915
+Vamos voltar aqui pra câmera, Precisamos de relatório,
+
+94
+00:04:31,925 --> 00:04:35,634
+Precisamos de informações como você ou um gestor vai tomar
+
+95
+00:04:35,644 --> 00:04:38,495
+decisões sem informações dos dados.
+
+96
+00:04:38,562 --> 00:04:41,891
+Por isso, os as informações, os relatórios táticos,
+
+97
+00:04:41,901 --> 00:04:44,610
+operacionais estratégicos são fundamentais.
+
+98
+00:04:44,622 --> 00:04:47,971
+A gente precisa ter informações úteis da forma a gente
+
+99
+00:04:47,980 --> 00:04:48,252
+agora.
+
+100
+00:04:48,261 --> 00:04:50,130
+Hoje, a gente vamos falar só de relatório.
+
+101
+00:04:50,141 --> 00:04:54,651
+A gente fala de painéis dinâmicos, onde de forma
+
+102
+00:04:54,661 --> 00:04:58,812
+rápida um líder, um gestor pode tomar uma decisão
+
+103
+00:04:58,821 --> 00:05:01,670
+baseada naquela informação que tá sendo gerada ali, tá
+
+104
+00:05:03,000 --> 00:05:07,639
+em resumo, A conformidade com normas e padrões em
+
+105
+00:05:07,649 --> 00:05:09,639
+segurança da informação, como a vinte sete mil e
+
+106
+00:05:09,649 --> 00:05:13,559
+um é um componente importante para estabelecer práticas sólidas e
+
+107
+00:05:13,569 --> 00:05:15,379
+gerenciamento de riscos.
+
+108
+00:05:15,389 --> 00:05:18,338
+A documentação adequada, a geração de risco são elementos
+
+109
+00:05:18,350 --> 00:05:22,738
+essenciais para garantir a transparência e a prestação de contas
+
+110
+00:05:22,750 --> 00:05:26,379
+e eficácia na medida de segurança implementadas.
+
+111
+00:05:27,470 --> 00:05:31,278
+O gerenciamento de informação o gerenciamento de segurança da informação
+
+112
+00:05:31,290 --> 00:05:34,358
+desempenha um papel vital no mundo empresarial atual, onde
+
+113
+00:05:34,369 --> 00:05:38,399
+a dependência da tecnologia e da informação continua a continua
+
+114
+00:05:38,410 --> 00:05:42,519
+a crescer, proteger ativos críticos, garantir a conformidade
+
+115
+00:05:42,528 --> 00:05:46,678
+legal e regulatória, manter a reputação da organização e
+
+116
+00:05:46,689 --> 00:05:50,488
+prevenir perdas financeiras são apenas algumas razões pelas quais o
+
+117
+00:05:50,500 --> 00:05:53,858
+justamento de risco de insegurança da informação é imperativo.
+
+118
+00:05:53,869 --> 00:05:56,000
+Quando a gente fala de segurança a informação, passou
+
+119
+00:05:56,009 --> 00:05:57,579
+se o tempo que era uma área a mais,
+
+120
+00:05:57,649 --> 00:06:00,439
+uma área que talvez poderia ser implementada, ou a
+
+121
+00:06:00,449 --> 00:06:02,139
+partir do momento que a empresa vai crescendo.
+
+122
+00:06:02,149 --> 00:06:02,338
+Não.
+
+123
+00:06:02,350 --> 00:06:03,939
+Gente é imperativo.
+
+124
+00:06:03,949 --> 00:06:05,738
+E, a partir do momento que você entenda,
+
+125
+00:06:05,750 --> 00:06:08,819
+entende que é imperativo e a partir do do,
+
+126
+00:06:08,829 --> 00:06:11,389
+do do, né? Do V zero da empresa,
+
+127
+00:06:11,399 --> 00:06:13,899
+você já tem que ter algo relacionadoà segurança da
+
+128
+00:06:13,910 --> 00:06:16,988
+informação, tudo se torna mais fácil, a cultura
+
+129
+00:06:17,000 --> 00:06:19,689
+se torna mais fácil, então você precisa entender.
+
+130
+00:06:19,699 --> 00:06:23,108
+Nós precisamos entender que todas as organizações precisam ter uma
+
+131
+00:06:23,119 --> 00:06:26,608
+gerenciamento de segurança, de informação bem estruturada, com
+
+132
+00:06:26,619 --> 00:06:30,928
+patrocínio da alta direção, com a equipe tática,
+
+133
+00:06:30,939 --> 00:06:35,309
+sabendo traduzir de forma eficaz para a equipe operacional e
+
+134
+00:06:35,319 --> 00:06:39,338
+que essa cultura de segurança da informação seja desempenhada de
+
+135
+00:06:39,350 --> 00:06:41,869
+forma holística em toda empresa.
+
+136
+00:06:41,879 --> 00:06:45,278
+Toda empresa precisa entender que a segurança dos dados,
+
+137
+00:06:45,290 --> 00:06:49,170
+a segurança da imagem, ela vai fazer a total
+
+138
+00:06:49,178 --> 00:06:53,410
+diferença para a imagem da empresa no mundo corporativo.
+
+139
+00:06:53,420 --> 00:06:54,970
+É fundamental entender isso.
+
+140
+00:06:54,980 --> 00:06:55,369
+Tá bom.
+
+141
+00:06:55,379 --> 00:06:57,850
+Muito obrigado por estar comigo nessa aula.
+
+142
+00:06:57,858 --> 00:06:58,949
+Te encontra na próxima
+

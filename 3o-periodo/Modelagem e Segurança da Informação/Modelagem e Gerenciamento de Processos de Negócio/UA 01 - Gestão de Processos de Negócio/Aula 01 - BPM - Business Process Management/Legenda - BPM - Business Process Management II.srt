@@ -1,0 +1,764 @@
+1
+00:00:08,448 --> 00:00:12,140
+Olá pessoal, Vamos continuar então aprendendo O que é
+
+2
+00:00:12,148 --> 00:00:12,659
+esse B.
+
+3
+00:00:12,669 --> 00:00:15,300
+PM, né? O que que é esse processo?
+
+4
+00:00:15,310 --> 00:00:17,780
+Mene planejamento que a gente vem falando que a gente
+
+5
+00:00:17,789 --> 00:00:20,899
+falou um pouco, né? E E vamos evoluindo
+
+6
+00:00:20,908 --> 00:00:24,949
+nessa nessa questão desse contexto e desse entendimento do que
+
+7
+00:00:24,958 --> 00:00:29,079
+significa a gestão de processos Okay, vamos lá,
+
+8
+00:00:29,089 --> 00:00:32,959
+eh primeiro, a gente já viu a questão da
+
+9
+00:00:32,969 --> 00:00:34,368
+da do que é um processo em si.
+
+10
+00:00:34,380 --> 00:00:36,408
+Vimos a questão do do negócio, vimos que é
+
+11
+00:00:36,418 --> 00:00:37,929
+pra atender um cliente.
+
+12
+00:00:37,939 --> 00:00:39,569
+Enfim, eh isso tudo.
+
+13
+00:00:39,579 --> 00:00:42,770
+Foi uma perspectiva que a gente notou no nosso ah
+
+14
+00:00:42,779 --> 00:00:45,848
+no nosso primeiro em relação ao B.
+
+15
+00:00:45,859 --> 00:00:48,408
+PM, né? Agora eh, a gente tem
+
+16
+00:00:48,418 --> 00:00:50,868
+que entender que o B PM é uma disciplina,
+
+17
+00:00:50,880 --> 00:00:56,389
+Disciplina que pra agilizar operações e otimizar resultados via processo,
+
+18
+00:00:56,399 --> 00:01:00,228
+né? Então eh disciplina, porque ela tem método,
+
+19
+00:01:00,240 --> 00:01:03,908
+gente disciplina, porque ela tem eh um contexto no
+
+20
+00:01:03,918 --> 00:01:04,829
+qual ela foi criada.
+
+21
+00:01:04,838 --> 00:01:08,010
+Ela atende um determinado pressuposto, né? Quando a
+
+22
+00:01:08,019 --> 00:01:11,549
+gente fala de agilizar eh operações, otimizar! Eh
+
+23
+00:01:11,558 --> 00:01:15,948
+eh resultados! A gente tá dizendo que ela tem
+
+24
+00:01:15,959 --> 00:01:19,028
+um um, um contexto e uma entrega pra ser
+
+25
+00:01:19,040 --> 00:01:23,969
+realizada, né? Diferente de você eh fazer!
+
+26
+00:01:23,980 --> 00:01:27,129
+Ah, eh as coisas por fazer então eu fiz
+
+27
+00:01:27,138 --> 00:01:28,510
+porque alguém me ensinou, mas não.
+
+28
+00:01:28,519 --> 00:01:32,469
+Não existe um método científico, não existe uma abordagem,
+
+29
+00:01:32,480 --> 00:01:37,028
+eh de uma estrutura eh acerca daquilo que foi trabalhado,
+
+30
+00:01:37,040 --> 00:01:39,088
+ou seja, não tem um estudo daquilo que foi
+
+31
+00:01:39,099 --> 00:01:39,790
+percebido.
+
+32
+00:01:39,885 --> 00:01:42,694
+Então ah, quando a gente fala agilizar a operação,
+
+33
+00:01:42,704 --> 00:01:45,194
+eu tô dizendo em olhar aquilo que eu faço,
+
+34
+00:01:45,204 --> 00:01:50,594
+entender aquilo que eu faço e fazer sempre melhor primeiro
+
+35
+00:01:50,605 --> 00:01:51,653
+o meu processo.
+
+36
+00:01:51,665 --> 00:01:53,135
+Com isso eu vou, tá fazendo o quê?
+
+37
+00:01:53,144 --> 00:01:56,814
+Otimizando os resultados desse? Então? Eh essa otimização
+
+38
+00:01:56,823 --> 00:02:00,769
+de resultado é justamente pra entrega de valor ao meu
+
+39
+00:02:00,778 --> 00:02:04,579
+cliente e e essa, essa mesma entrega de valor
+
+40
+00:02:04,588 --> 00:02:07,579
+ou essa agregação de valor ao cliente? Ela nasce
+
+41
+00:02:07,588 --> 00:02:10,987
+junto, na da transformação do meu processo? O
+
+42
+00:02:10,997 --> 00:02:14,429
+que que eu estou fazendo de diferente pra na na
+
+43
+00:02:14,437 --> 00:02:16,707
+pra aquele meu cliente, né? O que que
+
+44
+00:02:16,717 --> 00:02:20,187
+eu tô colocando a mais pra que ele perceba?
+
+45
+00:02:20,199 --> 00:02:23,108
+Então o que o faz desejar? Aquilo que eu
+
+46
+00:02:23,118 --> 00:02:27,210
+estou ofertando a ele? Isso nasce no processo.
+
+47
+00:02:27,219 --> 00:02:30,689
+Então, se você não tem um processo bem definido,
+
+48
+00:02:30,699 --> 00:02:35,270
+uma operação bem per bem organizada, né? Bem
+
+49
+00:02:35,278 --> 00:02:39,088
+otimizada eh você, com certeza não vai ter uma
+
+50
+00:02:39,099 --> 00:02:40,808
+transformação adequada.
+
+51
+00:02:40,819 --> 00:02:43,330
+Não vai ter uma saída adequada e aquele valor a
+
+52
+00:02:43,338 --> 00:02:46,330
+ser percebido a ser agregado? Não vai existir,
+
+53
+00:02:46,338 --> 00:02:51,750
+né? Então, essa disciplina ela tem total alinhamento.
+
+54
+00:02:52,479 --> 00:02:55,550
+Ao que se pressupõe de uma entrega.
+
+55
+00:02:55,558 --> 00:03:00,270
+Eh organizacional, né? Em relação a ao produto,
+
+56
+00:03:00,278 --> 00:03:01,990
+eh o serviço.
+
+57
+00:03:02,000 --> 00:03:04,270
+Outra coisa que a gente enxerga é que um B
+
+58
+00:03:04,278 --> 00:03:08,308
+PM como um ciclo contínuo de melhoria integrado, então
+
+59
+00:03:08,319 --> 00:03:11,610
+eh esse ciclo contínuo de melhoria integrado.
+
+60
+00:03:11,618 --> 00:03:13,569
+A gente eh! É muito falado dentro da da
+
+61
+00:03:13,580 --> 00:03:14,889
+gestão, né.
+
+62
+00:03:14,899 --> 00:03:18,449
+Que é ah, que a gente chama muito de
+
+63
+00:03:18,460 --> 00:03:20,050
+de melhoria contínua.
+
+64
+00:03:20,058 --> 00:03:25,729
+Então! Muitas muitos muitas atividades, muitos processos tecnológicos
+
+65
+00:03:25,740 --> 00:03:29,729
+de governança, de gestão e e processo também,
+
+66
+00:03:29,740 --> 00:03:31,008
+né? Na na, na gestão de processos A
+
+67
+00:03:31,020 --> 00:03:32,469
+gente vai falar, vai, vai, vai ver
+
+68
+00:03:32,479 --> 00:03:36,449
+essa palavrinha chamado de ciclo contínuo de melhoria ou melhoria
+
+69
+00:03:36,460 --> 00:03:39,649
+contínua, né? E essa melhoria contínua ela ela
+
+70
+00:03:39,659 --> 00:03:39,689
+é.
+
+71
+00:03:39,699 --> 00:03:43,490
+Aquela que o processo eh, ele é planejado,
+
+72
+00:03:43,500 --> 00:03:48,349
+Ele é executado, eh, ele é avaliado.
+
+73
+00:03:48,360 --> 00:03:51,129
+Ele é é modificado.
+
+74
+00:03:51,139 --> 00:03:54,449
+Ele é melhorado e isso fica num ciclo, né?
+
+75
+00:03:54,460 --> 00:03:54,569
+E E.
+
+76
+00:03:54,580 --> 00:03:57,330
+E é claro que quando a gente fala de melhoria
+
+77
+00:03:57,338 --> 00:04:01,038
+contínua e eu falo da gestão de processo eu não
+
+78
+00:04:01,050 --> 00:04:04,899
+tô falando de uma eh disciplina, isolada das demais.
+
+79
+00:04:04,909 --> 00:04:07,000
+Eu não tô falando de um de um pro de
+
+80
+00:04:07,008 --> 00:04:10,849
+um, de um conceito que não se integraà
+
+81
+00:04:10,860 --> 00:04:15,258
+organização ou aos pressupostos da da da gestão como um
+
+82
+00:04:15,270 --> 00:04:15,599
+todo.
+
+83
+00:04:15,610 --> 00:04:19,939
+Na verdade ele faz um um um completo, né?
+
+84
+00:04:19,949 --> 00:04:24,480
+De eh alinhamento e de integração a vários outros?
+
+85
+00:04:24,488 --> 00:04:28,298
+Processos né? Ou a outras abordagens igual, tá
+
+86
+00:04:28,309 --> 00:04:31,798
+escrito aqui, né SIC Sigma O o Lean,
+
+87
+00:04:31,809 --> 00:04:36,769
+Enfim, uma série de outros processos que eles estão
+
+88
+00:04:36,778 --> 00:04:41,428
+ali pra poder eh complementar, né? Ou apoiar?
+
+89
+00:04:41,439 --> 00:04:46,769
+Ou vamos dizer integrar efetivamente, a gestão? Isso
+
+90
+00:04:46,778 --> 00:04:49,889
+é fundamental, né? Na na perspectiva de que
+
+91
+00:04:49,899 --> 00:04:52,928
+o processo não é isolado, né? Ele não
+
+92
+00:04:52,939 --> 00:04:55,928
+acontece de uma forma.
+
+93
+00:04:55,939 --> 00:04:59,660
+Eh? Eh, vamos dizer assim, distante das
+
+94
+00:04:59,670 --> 00:05:05,738
+demais okay, Então ele é eh integrado aos outros
+
+95
+00:05:05,750 --> 00:05:07,059
+processos organizacionais.
+
+96
+00:05:07,069 --> 00:05:09,139
+E aí? Isso com isso, claro, eh,
+
+97
+00:05:09,149 --> 00:05:13,579
+acaba, eh, eh criando um ciclo eh dentro
+
+98
+00:05:13,588 --> 00:05:16,399
+da organização que vai, que vai, por exemplo,
+
+99
+00:05:16,709 --> 00:05:22,600
+aumentar a eficiência organizacional vai permitir reduzir custos, vai
+
+100
+00:05:22,608 --> 00:05:26,519
+melhorar a qualidade, vai ter, vai possibilitar uma
+
+101
+00:05:26,528 --> 00:05:30,439
+agilidade organizacional, uma melhoria, por exemplo, de
+
+102
+00:05:30,449 --> 00:05:34,410
+conformidade e governança, né? Então, assim,
+
+103
+00:05:34,420 --> 00:05:39,000
+isso pra falar alguns, temos outros outras perspectivas dessa
+
+104
+00:05:39,009 --> 00:05:42,449
+gestão, né? Por exemplo, melhor satisfação do
+
+105
+00:05:42,459 --> 00:05:47,149
+cliente, melhoria pra tomada de decisão, alinhamento estratégico,
+
+106
+00:05:47,160 --> 00:05:49,170
+inovação e crescimento organizacional.
+
+107
+00:05:49,178 --> 00:05:52,910
+Vejam como esse ciclo, essa gestão do do do
+
+108
+00:05:52,920 --> 00:05:55,689
+processo, né? Que que? Que que?
+
+109
+00:05:55,699 --> 00:05:58,350
+Ao usar o B PM a gente consegue perceber e
+
+110
+00:05:58,358 --> 00:06:03,139
+implementar faz todo o sentido dentro da organização? Tá?
+
+111
+00:06:03,149 --> 00:06:03,220
+E a.
+
+112
+00:06:03,230 --> 00:06:08,298
+A última perspectiva é justamente fala da história desse b
+
+113
+00:06:08,309 --> 00:06:08,720
+PM.
+
+114
+00:06:08,730 --> 00:06:11,220
+Nós vamos falar agora um pouquinho da história pra gente
+
+115
+00:06:11,230 --> 00:06:14,480
+saber que não é de agora que nasceu a gestão,
+
+116
+00:06:14,488 --> 00:06:15,540
+não de de processo.
+
+117
+00:06:15,548 --> 00:06:16,738
+Não é? Não é de agora, ela não
+
+118
+00:06:16,750 --> 00:06:17,199
+vem.
+
+119
+00:06:17,548 --> 00:06:21,019
+Eh! Eh num num ponto qualquer ela, ela
+
+120
+00:06:21,028 --> 00:06:23,100
+já vem numa crescente.
+
+121
+00:06:23,108 --> 00:06:27,358
+Eh durante muito tempo, né? Efetivamente a gestão
+
+122
+00:06:27,369 --> 00:06:28,000
+de processos.
+
+123
+00:06:28,009 --> 00:06:30,199
+Ela surgiu lá por volta de dois mil, com
+
+124
+00:06:30,209 --> 00:06:31,778
+a adoção ampla, dois mil e três.
+
+125
+00:06:31,790 --> 00:06:37,980
+Mas nós temos algumas outras, Eh, eh outras
+
+126
+00:06:37,988 --> 00:06:41,439
+percepções, né? Outros? Na verdade eh,
+
+127
+00:06:41,449 --> 00:06:45,899
+eh outros antecedentes, que aju, ajudaram a construir
+
+128
+00:06:45,910 --> 00:06:49,459
+essa percepção do que é o B PM dessa gestão
+
+129
+00:06:49,470 --> 00:06:52,119
+de processo, né? Então tá aqui um um
+
+130
+00:06:52,129 --> 00:06:54,259
+um um um desenho que a gente consegue ver oh
+
+131
+00:06:54,269 --> 00:06:57,338
+que a gente tem o O o em mil novecentos
+
+132
+00:06:57,350 --> 00:06:58,939
+e oitenta aqui Oh, nós temos o que a
+
+133
+00:06:58,949 --> 00:07:00,819
+gente fala de t q M né.
+
+134
+00:07:00,829 --> 00:07:05,113
+Que é ge gerenciamento total total de qualidade, né?
+
+135
+00:07:05,125 --> 00:07:06,035
+Eh isso.
+
+136
+00:07:06,045 --> 00:07:06,934
+Inclusive eh.
+
+137
+00:07:06,944 --> 00:07:11,434
+Está dentro da perspectiva de i eh da iso,
+
+138
+00:07:11,444 --> 00:07:14,774
+né? Eh voltado pra qualidade de produtos, enfim,
+
+139
+00:07:14,785 --> 00:07:16,494
+E já começou a nascer lá atrás, né?
+
+140
+00:07:16,504 --> 00:07:18,375
+Mil novecentos e oitenta A gente tá falando de métodos
+
+141
+00:07:18,384 --> 00:07:22,095
+de melhoria a gente aí entra aqui oh o o,
+
+142
+00:07:22,105 --> 00:07:26,774
+o processo lesma né? E processos relacionadosà qualidade.
+
+143
+00:07:26,785 --> 00:07:28,975
+O foco aqui é a qualidade, qualidade.
+
+144
+00:07:28,983 --> 00:07:32,600
+O que total né? O existe algum pressuposto aqui
+
+145
+00:07:32,608 --> 00:07:35,730
+Então inclusive que é pra essa qualidade total é admitido
+
+146
+00:07:35,738 --> 00:07:38,720
+o erro zero, né? Então esse t Q
+
+147
+00:07:38,730 --> 00:07:42,988
+m ele é É o gerenciamento que ele foca justamente
+
+148
+00:07:43,000 --> 00:07:47,000
+naquilo que desde da da nascedouro daquele processo, até
+
+149
+00:07:47,009 --> 00:07:49,579
+a entrega ao cliente agregando valor a ele.
+
+150
+00:07:49,588 --> 00:07:54,079
+Em noventa a gente tem a melhoria de processo contínuo
+
+151
+00:07:54,088 --> 00:07:54,970
+igual igual.
+
+152
+00:07:54,980 --> 00:07:56,488
+Eu falei pra vocês aí aqui eu citei Oh,
+
+153
+00:07:56,500 --> 00:08:00,160
+eh o aqui a gente chama eh o o ciclo
+
+154
+00:08:00,170 --> 00:08:02,869
+p DC a esse desenho do ciclo pede CL Plano
+
+155
+00:08:02,879 --> 00:08:09,660
+do plano do ACT Plano do né? Ou seja,
+
+156
+00:08:09,670 --> 00:08:13,608
+eh, planejar, fazer checar, eh e melhorar
+
+157
+00:08:13,619 --> 00:08:16,559
+sempre, né? A a ACT seria mudanças aí,
+
+158
+00:08:16,569 --> 00:08:19,005
+Revisão de da do do processo, então a melhoria
+
+159
+00:08:19,014 --> 00:08:23,196
+contínua de processo, né? Que envolve redesenho de
+
+160
+00:08:23,204 --> 00:08:27,884
+processo, envolve modelagem do processo, envolve as perspectivas.
+
+161
+00:08:27,894 --> 00:08:29,305
+Então, isso nasceu em noventa.
+
+162
+00:08:29,315 --> 00:08:32,085
+Ou seja, nós estamos falando de um ciclo bem
+
+163
+00:08:32,096 --> 00:08:34,205
+bem antigo, né? Em dois mil oh,
+
+164
+00:08:34,216 --> 00:08:37,605
+a gente já tem a parte da movimento de reengenharia
+
+165
+00:08:37,615 --> 00:08:41,591
+de processo, né? Essa reengenharia ela teve uma
+
+166
+00:08:41,600 --> 00:08:44,370
+característica assim de de que ela é muito voltada pra
+
+167
+00:08:44,379 --> 00:08:48,570
+questão do redesenho complexo, de de remontar a estrutura.
+
+168
+00:08:48,580 --> 00:08:49,769
+Enfim, foi.
+
+169
+00:08:49,780 --> 00:08:51,931
+Mas eh, eh, eh, foi um movimento
+
+170
+00:08:51,940 --> 00:08:54,591
+importante pra poder a gente chegar onde a gente quis
+
+171
+00:08:54,600 --> 00:08:55,030
+chegar.
+
+172
+00:08:55,041 --> 00:08:59,979
+Onde nós estamos hoje que foi justamente eh nessa terceira
+
+173
+00:08:59,989 --> 00:09:02,298
+onda do gerenciamento de processo em dois mil e dez
+
+174
+00:09:02,308 --> 00:09:04,840
+que aí sim oh oh o b PM aqui,
+
+175
+00:09:04,849 --> 00:09:06,820
+Oh, tá, aí sim, a gente começa
+
+176
+00:09:06,830 --> 00:09:08,418
+a ter a o gerenciamento de processo.
+
+177
+00:09:08,428 --> 00:09:11,019
+Mas passamos por isso aqui tudo, oh, pra
+
+178
+00:09:11,029 --> 00:09:14,604
+chegar aqui oh chegar aqui de de que forma chegar
+
+179
+00:09:14,614 --> 00:09:17,283
+aqui de forma madura, né? E é claro,
+
+180
+00:09:17,293 --> 00:09:20,994
+vamos amadurecendo sempre sempre! Sempre tanto que aqui oh
+
+181
+00:09:21,004 --> 00:09:24,764
+atualmente nós temos algumas outras estratégias, né? A
+
+182
+00:09:24,774 --> 00:09:28,244
+estratégia do Oceano Azul você tem aqui processos aqui no
+
+183
+00:09:28,254 --> 00:09:31,830
+meio? Eh B, S? C, né?
+
+184
+00:09:31,840 --> 00:09:34,590
+Enfim, uma série de de de de de de
+
+185
+00:09:34,599 --> 00:09:40,149
+processos organizacionais que permitem a melhoria da gestão, o
+
+186
+00:09:40,158 --> 00:09:44,869
+controle organizacional, a entrega de valor, o atendimento
+
+187
+00:09:44,879 --> 00:09:48,590
+às necessidades e as questões dos nossos clientes.
+
+188
+00:09:48,599 --> 00:09:52,029
+Isso é fundamental dentro da organização hoje em dia.
+
+189
+00:09:52,038 --> 00:09:54,509
+Ou seja, essa agregação de valor é essa entrega
+
+190
+00:09:54,519 --> 00:09:57,928
+de valor okay, Muito obrigado! Mais uma vez
+
+191
+00:09:57,940 --> 00:10:00,908
+vamos continuar a dar ao nosso trabalho até.
+

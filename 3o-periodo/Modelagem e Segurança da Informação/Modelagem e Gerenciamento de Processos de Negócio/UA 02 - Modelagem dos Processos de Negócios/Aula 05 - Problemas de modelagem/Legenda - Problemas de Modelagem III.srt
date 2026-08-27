@@ -1,0 +1,884 @@
+1
+00:00:06,309 --> 00:00:12,519
+Olá, vamos terminar esse nosso site sobre importância da
+
+2
+00:00:12,528 --> 00:00:15,259
+modelagem de processo, né? Vamos, vamos fechar
+
+3
+00:00:15,269 --> 00:00:16,478
+esse conhecimento.
+
+4
+00:00:16,489 --> 00:00:20,908
+Falamos de objetivos, falamos dos propósitos da modelagem,
+
+5
+00:00:20,920 --> 00:00:23,440
+né? Objetivos e propostas de modelagem entre eles,
+
+6
+00:00:23,449 --> 00:00:27,280
+falamos de compreensão, melhoria, comunicação, redução de
+
+7
+00:00:27,289 --> 00:00:29,519
+custo, avaliação de impacto.
+
+8
+00:00:29,530 --> 00:00:32,478
+Enfim, vimos aí que tem uma uma, uma
+
+9
+00:00:32,490 --> 00:00:36,240
+gama de PE de vamos dizer assim, de objetivos
+
+10
+00:00:36,250 --> 00:00:42,880
+e propósitos que favorecem implantar essa disciplina dentro da minha
+
+11
+00:00:42,889 --> 00:00:47,168
+organização Okay isso aí é É assim eu eu eu
+
+12
+00:00:47,179 --> 00:00:50,590
+diria que seria uma condição inegável pra qualquer organização.
+
+13
+00:00:50,598 --> 00:00:53,719
+A questão da modelagem de processos tá agora Nem tudo
+
+14
+00:00:53,728 --> 00:00:54,759
+são flores.
+
+15
+00:00:54,770 --> 00:00:59,408
+Beleza os processos eh, eles possuem desafios.
+
+16
+00:00:59,418 --> 00:01:01,848
+E o que nós vamos ver agora é justamente são
+
+17
+00:01:01,859 --> 00:01:04,129
+esses né? Os desafios da modelagem, de pro,
+
+18
+00:01:04,138 --> 00:01:07,569
+de de de processo, quais sejam esses desafios?
+
+19
+00:01:07,579 --> 00:01:12,540
+Tá eh a gente tem que considerar que eh desafio.
+
+20
+00:01:12,549 --> 00:01:14,379
+Não quer? Não é pra desanimar ninguém, né?
+
+21
+00:01:14,388 --> 00:01:16,019
+Mas é o que a gente precisa enfrentar e a
+
+22
+00:01:16,028 --> 00:01:17,260
+gente tem que entender isso aí.
+
+23
+00:01:17,269 --> 00:01:18,659
+Tá, tá bem compreendido.
+
+24
+00:01:18,668 --> 00:01:21,099
+Antes de entrar numa empreitada, vamos ter desafios,
+
+25
+00:01:21,109 --> 00:01:23,418
+né? Vamos lá, Primeiro esse cara aí oh
+
+26
+00:01:23,430 --> 00:01:26,010
+entendimento da da, da visão holística.
+
+27
+00:01:26,019 --> 00:01:29,859
+Então, um desafio é que você olhe o processo
+
+28
+00:01:29,870 --> 00:01:32,230
+de forma holística, ou seja, ele não termina
+
+29
+00:01:32,239 --> 00:01:33,000
+em si mesmo.
+
+30
+00:01:33,629 --> 00:01:36,359
+A gente já falou de integração, então entre sistemas
+
+31
+00:01:36,370 --> 00:01:38,599
+entre processos, então o o, o processo ele
+
+32
+00:01:38,609 --> 00:01:40,400
+é um todo o processo.
+
+33
+00:01:40,409 --> 00:01:43,569
+Ele envolve a organização como um todo e e eu
+
+34
+00:01:43,579 --> 00:01:46,959
+po eu tenho que olhar a organização de forma holística
+
+35
+00:01:46,969 --> 00:01:51,120
+de uma forma geral, pra que eu possa trabalhar
+
+36
+00:01:51,129 --> 00:01:56,760
+com o processo okay ponto Tá O processo não termina
+
+37
+00:01:56,769 --> 00:02:00,109
+em si mesmo, tá legal isso aí tem que
+
+38
+00:02:00,120 --> 00:02:01,308
+ficar muito claro.
+
+39
+00:02:01,319 --> 00:02:04,609
+Mesmo que você seja uma empresa de venda, estou
+
+40
+00:02:04,620 --> 00:02:08,588
+vendendo, vendendo um celular, Entreguei meu celular pro
+
+41
+00:02:08,599 --> 00:02:11,229
+meu cliente, terminou o meu processo.
+
+42
+00:02:11,240 --> 00:02:11,868
+Uh a tô livre.
+
+43
+00:02:11,879 --> 00:02:14,969
+Não não ter vendeu o seu celular, você tem
+
+44
+00:02:15,449 --> 00:02:18,300
+a sua pós-venda? Você tem a garantia.
+
+45
+00:02:18,308 --> 00:02:20,800
+Você tem a sua relação com o cliente.
+
+46
+00:02:20,808 --> 00:02:24,740
+Ele continua porque a próxima vez aí a pergunta que
+
+47
+00:02:24,750 --> 00:02:27,179
+se faz é o seguinte a próxima vez que seu
+
+48
+00:02:27,189 --> 00:02:29,460
+cliente pensar em comprar um celular novamente ele vai na
+
+49
+00:02:29,469 --> 00:02:30,000
+tua loja.
+
+50
+00:02:30,868 --> 00:02:35,919
+Por quê esse entendimento? Que esse processo ele vai
+
+51
+00:02:35,929 --> 00:02:37,199
+permear tudo.
+
+52
+00:02:37,210 --> 00:02:41,520
+E ele considera toda a cadeia que nós passamos,
+
+53
+00:02:41,528 --> 00:02:44,159
+né? Então eu vou entender que ele não vai
+
+54
+00:02:44,169 --> 00:02:46,118
+morrer dentro da minha própria instituição.
+
+55
+00:02:46,129 --> 00:02:49,599
+Ele vai morrer, né? Ele vai continuar permeando
+
+56
+00:02:49,610 --> 00:02:55,219
+toda a minha existência como empresa? Tá segundo de
+
+57
+00:02:55,229 --> 00:02:58,058
+domínio do negócio, da linguagem, do de de
+
+58
+00:02:58,069 --> 00:02:58,819
+de modelagem.
+
+59
+00:02:58,830 --> 00:03:01,580
+Tá muitas empre e e olha, e isso é
+
+60
+00:03:01,588 --> 00:03:02,778
+interessante? Então você fala assim, Pô, Mas
+
+61
+00:03:02,788 --> 00:03:04,538
+será que a empresa não tem o domínio do negócio?
+
+62
+00:03:04,550 --> 00:03:05,240
+Às vezes não.
+
+63
+00:03:05,979 --> 00:03:08,110
+Às vezes, a empresa, cada área, conhece
+
+64
+00:03:08,118 --> 00:03:09,949
+muito bem a sua área, mas não tem integração.
+
+65
+00:03:09,960 --> 00:03:12,229
+Então não tem o domínio do seu negócio como um
+
+66
+00:03:12,240 --> 00:03:15,028
+todo e,às vezes, falha nessa questão.
+
+67
+00:03:15,038 --> 00:03:17,689
+Então, dominar o negócio quer dizer conhecer o negócio
+
+68
+00:03:17,699 --> 00:03:18,508
+a fundo.
+
+69
+00:03:18,520 --> 00:03:20,990
+Eu conheço o meu processo, conheço o o onde
+
+70
+00:03:21,000 --> 00:03:23,868
+vai, onde ele vai? Eh impactar da onde
+
+71
+00:03:23,879 --> 00:03:25,469
+ele é impactado e assim por diante.
+
+72
+00:03:25,479 --> 00:03:28,250
+Então eu conheço o domínio de todo esse meu negócio
+
+73
+00:03:28,258 --> 00:03:29,429
+é fundamental.
+
+74
+00:03:29,439 --> 00:03:32,990
+Ah, pra eu desenhar um processo adequado e linguagem
+
+75
+00:03:33,000 --> 00:03:34,550
+de modelagem, então aí a gente vai ver as
+
+76
+00:03:34,558 --> 00:03:34,909
+anotações.
+
+77
+00:03:34,919 --> 00:03:38,149
+Já vimos as anotações, eh a raia! Vimos
+
+78
+00:03:38,159 --> 00:03:41,069
+a eh os eventos, enfim, as tarefas.
+
+79
+00:03:41,080 --> 00:03:44,550
+Então eu tenho que dominar essa linguagem dessa modelagem pra
+
+80
+00:03:44,558 --> 00:03:46,469
+poder aplicar ela, então isso é um desafio também.
+
+81
+00:03:46,479 --> 00:03:50,449
+Então eu tenho uma curva de aprendizado em relação a
+
+82
+00:03:50,460 --> 00:03:53,169
+modelagem Tá outra outro desafio.
+
+83
+00:03:53,179 --> 00:03:55,409
+Muitas das vezes é a pouca experiência das pessoas que
+
+84
+00:03:55,419 --> 00:03:57,149
+estão envolvidas no desenho do processo.
+
+85
+00:03:57,860 --> 00:03:58,868
+Tá legal? Então é.
+
+86
+00:03:58,879 --> 00:04:01,750
+É muito importante que você tenha sempre.
+
+87
+00:04:01,758 --> 00:04:05,028
+Ah, pessoas que eh vão trabalhar o processo,
+
+88
+00:04:05,038 --> 00:04:07,990
+vão desenhar esse processo, vão internalizar esse processo dentro
+
+89
+00:04:08,000 --> 00:04:11,550
+da da da organização que elas tenham conhecimento necessário.
+
+90
+00:04:11,558 --> 00:04:16,028
+Tem o domínio do negócio e tenham experiência pra fazer
+
+91
+00:04:16,040 --> 00:04:18,389
+o pra pra escrever esse processo.
+
+92
+00:04:18,399 --> 00:04:21,949
+Então a experiência é não só no no negócio em
+
+93
+00:04:21,959 --> 00:04:24,108
+si, no domínio desse negócio, mas também na
+
+94
+00:04:24,119 --> 00:04:26,209
+linguagem que será utilizada pra isso.
+
+95
+00:04:26,220 --> 00:04:28,798
+Tá, eh! E outra questão é que a
+
+96
+00:04:28,809 --> 00:04:31,519
+modelagem de qualidade não é simples.
+
+97
+00:04:31,528 --> 00:04:34,480
+Beleza Então, quando você tá pensando em qualidade,
+
+98
+00:04:34,488 --> 00:04:37,559
+quando você tá pensando em eficiência, eficácia não é
+
+99
+00:04:37,569 --> 00:04:40,079
+uma coisa assim, opa! Fui ali na esquina
+
+100
+00:04:40,088 --> 00:04:41,519
+e achei Tá lindo, maravilhoso.
+
+101
+00:04:41,528 --> 00:04:42,619
+Vou colocar aqui que vai funcionar.
+
+102
+00:04:42,629 --> 00:04:43,759
+Não é bem assim.
+
+103
+00:04:43,769 --> 00:04:45,838
+Cada organização é uma organização, cada processo é um
+
+104
+00:04:45,850 --> 00:04:49,639
+processo e modelar a qualidade não é fácil, porque
+
+105
+00:04:49,649 --> 00:04:54,259
+a qualidade percebida ela vai diferir de pessoa pra pessoa!
+
+106
+00:04:54,269 --> 00:04:57,798
+Tá? Então esses desafios, né? Que nós
+
+107
+00:04:57,809 --> 00:05:02,369
+elencamos aqui são desafios do dia-a-dia aí! dentro da
+
+108
+00:05:02,379 --> 00:05:05,189
+da, da perspectiva, da modelagem, tá claro
+
+109
+00:05:05,199 --> 00:05:08,988
+que não poderíamos falar de desafios sem também falar dos
+
+110
+00:05:09,000 --> 00:05:10,670
+erros e problemas.
+
+111
+00:05:10,678 --> 00:05:13,139
+Comuns, né? E bem como as bolsas práticas
+
+112
+00:05:13,149 --> 00:05:16,100
+relacionadasà modelagem tá legal? Vamos ver algumas questões.
+
+113
+00:05:16,108 --> 00:05:19,139
+Aí olha só falta de comunicação e compreensão, Muda.
+
+114
+00:05:19,149 --> 00:05:22,048
+Então, cara falta de comunicação não é só não,
+
+115
+00:05:22,059 --> 00:05:24,738
+não afeta só a questão de modelagem, falta de
+
+116
+00:05:24,750 --> 00:05:26,059
+comunicação e compreensão.
+
+117
+00:05:26,069 --> 00:05:29,259
+Afeta a organização como um todo, né? Se
+
+118
+00:05:29,269 --> 00:05:32,709
+você não tem uma or-, uma comunicação assertiva.
+
+119
+00:05:32,720 --> 00:05:37,238
+Se você não tem uma comunicação concisa, clara,
+
+120
+00:05:37,928 --> 00:05:41,619
+compacta, que vai atender aquele público, aquela necessidade,
+
+121
+00:05:41,629 --> 00:05:44,379
+meu amigo, você tá enrolado, a sua organização
+
+122
+00:05:44,389 --> 00:05:45,389
+não vai muito adiante.
+
+123
+00:05:45,399 --> 00:05:49,738
+Então, falta de comunicação é um dos principais problemas
+
+124
+00:05:49,750 --> 00:05:52,220
+da perspectiva institucional.
+
+125
+00:05:52,230 --> 00:05:54,980
+Tá enquanto a gente tá falando de, de de
+
+126
+00:05:54,988 --> 00:05:58,019
+de processo e modelagem, E e também compreensão mútua,
+
+127
+00:05:58,028 --> 00:06:01,439
+né? Compreensão mútua Quer dizer que eu preciso compreender
+
+128
+00:06:01,449 --> 00:06:04,899
+o meu parceiro, compreende o meu cliente, compreende
+
+129
+00:06:04,910 --> 00:06:08,059
+a minha empresa, o meu, os meus amigos,
+
+130
+00:06:08,069 --> 00:06:11,139
+vamos dizer assim, os meus colegas de trabalho Compreende,
+
+131
+00:06:11,149 --> 00:06:14,238
+então essa compreensão multa, ela vai permear? Eh,
+
+132
+00:06:14,250 --> 00:06:16,798
+eh, eh essa perspectiva da modelagem.
+
+133
+00:06:17,500 --> 00:06:19,988
+Outra modelagem, seu objetivo, claro.
+
+134
+00:06:20,000 --> 00:06:21,389
+Cê tá modelando, mas não sabe por que que
+
+135
+00:06:21,399 --> 00:06:21,988
+cê tá modelando.
+
+136
+00:06:22,000 --> 00:06:24,540
+Ah, gente! Eu acho que assim a vida
+
+137
+00:06:24,548 --> 00:06:25,829
+da gente tem que ter um objetivo claro.
+
+138
+00:06:25,838 --> 00:06:27,389
+Senão por que que você sai de casa todo dia,
+
+139
+00:06:27,399 --> 00:06:29,629
+né? Então você tem que definir um objetivo claro
+
+140
+00:06:29,639 --> 00:06:30,709
+também pra modelagem.
+
+141
+00:06:30,720 --> 00:06:33,608
+Por que que você está modelando? O que é,
+
+142
+00:06:33,619 --> 00:06:37,910
+Qual aí não é? Eh qual resultado você quer
+
+143
+00:06:37,920 --> 00:06:39,470
+atingir com aquela modelagem.
+
+144
+00:06:39,480 --> 00:06:41,949
+Então o objetivo tem que ser claro, tem que
+
+145
+00:06:41,959 --> 00:06:47,358
+ser conciso, tem que apresentar um resultado pra você.
+
+146
+00:06:47,369 --> 00:06:51,220
+Tá, segundo outro erro, limitação a uma única
+
+147
+00:06:51,230 --> 00:06:52,139
+anotação.
+
+148
+00:06:52,149 --> 00:06:54,379
+Muitas das vezes a gente vai lá e utilizar só
+
+149
+00:06:54,389 --> 00:06:54,899
+essa anotação.
+
+150
+00:06:54,910 --> 00:06:55,699
+Aqui basta.
+
+151
+00:06:55,709 --> 00:06:58,220
+Não vão querer mais nada Lembre-se, que você tem
+
+152
+00:06:58,230 --> 00:07:02,199
+um rol de ferramentas, um rol de de de
+
+153
+00:07:02,209 --> 00:07:06,540
+de eh perspectivas de modelagem de entregas, que a
+
+154
+00:07:06,548 --> 00:07:10,309
+modelagem te proporciona use-a em bem em benefício da sua
+
+155
+00:07:10,319 --> 00:07:13,559
+organização, não se limite a um único ponto.
+
+156
+00:07:13,569 --> 00:07:17,220
+Você pode até nascer com uma única natação, com
+
+157
+00:07:17,230 --> 00:07:19,540
+um único entendimento, mas evolua, cresça.
+
+158
+00:07:19,548 --> 00:07:22,699
+Melhoria contínua tá, então não? Se limite a
+
+159
+00:07:22,709 --> 00:07:24,838
+isso é um um dos erros que acontece, muito
+
+160
+00:07:24,850 --> 00:07:28,858
+outra, não avaliar a capacidade de transmissão do modelo.
+
+161
+00:07:28,869 --> 00:07:32,338
+Ou seja, você não consegue eh Eh não avalia
+
+162
+00:07:32,350 --> 00:07:35,500
+que aquele modelo que você definiu que você vai conseguir
+
+163
+00:07:35,509 --> 00:07:37,470
+transmitir ele, ou seja, que as pessoas vão
+
+164
+00:07:37,480 --> 00:07:40,319
+ter o o de o de determinado conhecimento daquilo,
+
+165
+00:07:40,329 --> 00:07:43,798
+lá tá, e de forma a a entender como
+
+166
+00:07:43,809 --> 00:07:46,540
+aquela perspectiva se dá, como ela funciona.
+
+167
+00:07:46,548 --> 00:07:50,709
+Então é fundamental que você tenha aquela questão da da
+
+168
+00:07:50,720 --> 00:07:56,088
+da, da capacidade, né? Bem empregada,
+
+169
+00:07:56,100 --> 00:07:57,769
+ali tá legal.
+
+170
+00:07:57,778 --> 00:08:03,829
+Ah, depois, confundir entendimento eh com padronização,
+
+171
+00:08:03,838 --> 00:08:07,309
+né? Confundir entendimento com padronização.
+
+172
+00:08:07,319 --> 00:08:12,629
+Olha, só ah, a modelagem.
+
+173
+00:08:12,639 --> 00:08:18,250
+É mapeamento, né? Então eh E ele ele
+
+174
+00:08:18,259 --> 00:08:18,528
+é um.
+
+175
+00:08:18,540 --> 00:08:23,588
+É uma padronização de uma, de um processo,
+
+176
+00:08:23,600 --> 00:08:28,189
+mas não quer dizer que eu padronize automaticamente.
+
+177
+00:08:28,199 --> 00:08:30,629
+Está entendido? Não, não tem nada a ver
+
+178
+00:08:30,639 --> 00:08:31,350
+com isso.
+
+179
+00:08:31,358 --> 00:08:33,989
+Uma coisa é você entregar um modelo padronizado, outra
+
+180
+00:08:34,000 --> 00:08:36,690
+coisa é o entendimento acerca daquele modelo.
+
+181
+00:08:37,019 --> 00:08:39,349
+Tá? Muitas vezes, a gente desenha algo e
+
+182
+00:08:39,359 --> 00:08:41,469
+não entende nada do que nós desenhamos.
+
+183
+00:08:41,479 --> 00:08:45,109
+Então são alguns dos problemas, né? Eh que
+
+184
+00:08:45,119 --> 00:08:48,389
+a gente pode encontrar dentro da questão da da modelagem,
+
+185
+00:08:48,399 --> 00:08:53,109
+tá? Outra perspectiva que nós temos eh em relação
+
+186
+00:08:53,119 --> 00:08:56,070
+a A, A A a perspectiva de modelagem aí,
+
+187
+00:08:56,080 --> 00:09:01,418
+já dentro da da da boa prática é você considerar
+
+188
+00:09:01,428 --> 00:09:05,739
+uma abordagem de decomposição cê entendeu o todo, Você
+
+189
+00:09:05,750 --> 00:09:08,219
+entende as partes e escolhe uma parte.
+
+190
+00:09:08,229 --> 00:09:10,178
+Também não é abraçar o mundo, né? Que
+
+191
+00:09:10,190 --> 00:09:11,538
+a gente tá falando não vai abraçar o mundo.
+
+192
+00:09:11,548 --> 00:09:13,340
+Não entendi o todo.
+
+193
+00:09:13,349 --> 00:09:15,979
+E aí eu vou pegar cada parte desse todo.
+
+194
+00:09:15,989 --> 00:09:18,739
+Escolher uma parte e trabalhar.
+
+195
+00:09:18,750 --> 00:09:20,418
+Vou decompor se depois.
+
+196
+00:09:20,428 --> 00:09:22,739
+Se eu juntar essas partes, eu tenho esse todo
+
+197
+00:09:22,750 --> 00:09:23,418
+que eu entendi.
+
+198
+00:09:23,428 --> 00:09:28,080
+Mas entenda o todo outra definir um nível adequado ao
+
+199
+00:09:28,090 --> 00:09:31,558
+objetivo da modelagem, né? Então, nem mais
+
+200
+00:09:31,570 --> 00:09:35,639
+e nem menos é o nível que vai ser aplicado.
+
+201
+00:09:35,649 --> 00:09:37,759
+Tá, então, o nível adequado é aquele nível
+
+202
+00:09:37,769 --> 00:09:39,940
+que você é capaz de absorver que a sua organização
+
+203
+00:09:39,950 --> 00:09:43,619
+é capaz de entender mais uma, né? Informações
+
+204
+00:09:43,629 --> 00:09:46,460
+de auxílio devem ser acessíveis, mas não embutidas.
+
+205
+00:09:46,469 --> 00:09:49,399
+Você pode ter até informação relacionada a pra auxiliar você
+
+206
+00:09:49,408 --> 00:09:51,979
+a desenvolver a sua modelagem, mas você não vai
+
+207
+00:09:51,989 --> 00:09:55,418
+colocar no modelo aquela aquelas aquelas informações auxiliares.
+
+208
+00:09:55,428 --> 00:09:57,739
+Tá, senão se torna muito complexo o seu modelo.
+
+209
+00:09:57,750 --> 00:10:00,259
+E por último, é a modelagem, é um
+
+210
+00:10:00,269 --> 00:10:02,099
+guia, claro, Deve ser um guia claro e
+
+211
+00:10:02,109 --> 00:10:03,820
+útil para as partes interessadas.
+
+212
+00:10:03,830 --> 00:10:06,840
+Quais são as partes interessadas todos os envolvidos no processo?
+
+213
+00:10:07,168 --> 00:10:11,058
+Os os aliás, né, Envolvidos são os os
+
+214
+00:10:11,070 --> 00:10:15,219
+fornecedores seus clientes, os os os seus funcionários e
+
+215
+00:10:15,229 --> 00:10:15,599
+et cetera.
+
+216
+00:10:15,609 --> 00:10:19,099
+Ou seja, a modelagem deve ser um guia claro
+
+217
+00:10:19,109 --> 00:10:20,779
+e útil para as partes.
+
+218
+00:10:20,788 --> 00:10:23,580
+Se não ela não atende o pressuposto pra qual ela
+
+219
+00:10:23,590 --> 00:10:24,239
+existe.
+
+220
+00:10:24,250 --> 00:10:29,739
+Okay Muito obrigado pela sua presença, pela sua atenção
+
+221
+00:10:29,750 --> 00:10:30,599
+e até a próxima.
+

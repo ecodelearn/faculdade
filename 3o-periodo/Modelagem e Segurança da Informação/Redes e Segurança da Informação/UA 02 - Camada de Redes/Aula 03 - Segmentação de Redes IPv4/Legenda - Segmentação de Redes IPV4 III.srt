@@ -1,0 +1,992 @@
+1
+00:00:05,860 --> 00:00:08,769
+Olá, aluno! Seja muito bemvindo Professor Fabrício Melo
+
+2
+00:00:08,778 --> 00:00:11,028
+Estamos trabalhando aí com a segmentação de redes i p
+
+3
+00:00:11,038 --> 00:00:14,630
+v quatro E vamos agora trabalhar com as sub redes!
+
+4
+00:00:14,640 --> 00:00:16,388
+I p v quatro Como é que a gente trabalha?
+
+5
+00:00:16,399 --> 00:00:19,798
+A gente trata essa parte das sub redes aí do
+
+6
+00:00:19,809 --> 00:00:21,829
+I P v quatro Vamos lá! A ideia é
+
+7
+00:00:21,839 --> 00:00:26,190
+a seguinte olha só quando você define o uso eh
+
+8
+00:00:26,199 --> 00:00:30,089
+de um ou mais de ST com aqueles bits de
+
+9
+00:00:30,100 --> 00:00:33,459
+redes, lembra Você estende a máscara de sub rede
+
+10
+00:00:33,469 --> 00:00:37,020
+pra quê? Pra pegar oh emprestado alguns dos bits
+
+11
+00:00:37,029 --> 00:00:39,259
+da porção dos roxos? Lembra disso? Quando você
+
+12
+00:00:39,270 --> 00:00:42,439
+transfere do endereço e criar o quê? Bits de
+
+13
+00:00:42,450 --> 00:00:45,219
+redes adicionais? Aí você tem essa tabela aqui que
+
+14
+00:00:45,228 --> 00:00:50,060
+consta o seguinte A divisão nos limites dessas classes Então
+
+15
+00:00:50,069 --> 00:00:52,179
+quando você pega, por exemplo, oh uma divisão
+
+16
+00:00:52,189 --> 00:00:56,789
+de uma rede classe a barra oito bits em sub
+
+17
+00:00:56,798 --> 00:01:00,240
+redes Classe C barra vinte e quatro que que vai
+
+18
+00:01:00,250 --> 00:01:02,429
+acontecer? Olha, só presta atenção aqui.
+
+19
+00:01:02,439 --> 00:01:05,099
+No exemplo oh, você tem endereço oh da sub
+
+20
+00:01:05,109 --> 00:01:08,040
+rede, né Que seria sessenta e cinco mil quinhentos
+
+21
+00:01:08,049 --> 00:01:12,299
+e seis possíveis redes E você tem um intervalo de
+
+22
+00:01:12,308 --> 00:01:15,540
+Roche que é duzentos e cinquenta e quatro possíveis roxos
+
+23
+00:01:15,549 --> 00:01:17,930
+por rede na classe C não é? Então você
+
+24
+00:01:17,939 --> 00:01:19,689
+tem lá o dez, zero, zero, zero
+
+25
+00:01:19,698 --> 00:01:22,790
+barra vinte e quatro Então quando você vai pra outra
+
+26
+00:01:22,799 --> 00:01:25,168
+classe, você tem de dez zero zero zero um
+
+27
+00:01:25,180 --> 00:01:27,689
+a dez zero zero o quê? Dois cinco quatro
+
+28
+00:01:27,698 --> 00:01:30,129
+Tá vendo aqui oh, cê tem esse intervalo aí
+
+29
+00:01:30,138 --> 00:01:34,049
+e quando você pega do dez zero ponto um ponto
+
+30
+00:01:34,058 --> 00:01:36,769
+zero ponto vinte e quatro oh lá e você alcança
+
+31
+00:01:36,778 --> 00:01:40,168
+do dez zero zero ponto um até o dez zero
+
+32
+00:01:40,180 --> 00:01:42,980
+um ponto dois cinco quatro Tá vendo aqui aí,
+
+33
+00:01:42,989 --> 00:01:46,790
+obviamente cê tem que lembrar sempre do endereço de broadcast.
+
+34
+00:01:46,799 --> 00:01:49,489
+Não pode esquecer desse endereço que a gente até já
+
+35
+00:01:49,500 --> 00:01:51,930
+viu em aulas passadas aí Oh! Que no caso
+
+36
+00:01:51,939 --> 00:01:54,750
+o primeiro exemplo vai ser dez ponto zero ponto dois
+
+37
+00:01:54,760 --> 00:01:55,430
+cinco cinco.
+
+38
+00:01:55,439 --> 00:01:58,430
+O segundo exemplo dez ponto zero um ponto dois cinco
+
+39
+00:01:58,439 --> 00:02:00,870
+cinco tá outro exemplo que nós temos aqui.
+
+40
+00:02:00,879 --> 00:02:03,808
+Oh! O dez ponto zero ponto dois cinco cinco
+
+41
+00:02:03,819 --> 00:02:06,219
+ponto zero barra vinte e quatro Você vai ter um
+
+42
+00:02:06,230 --> 00:02:09,868
+intervalo de host oh de dez zero ponto dois cinco
+
+43
+00:02:09,879 --> 00:02:14,689
+cinco ponto um até o dez zero dois cinco cinco
+
+44
+00:02:14,699 --> 00:02:18,129
+ponto dois cinco quatro aí vem de novo, mas
+
+45
+00:02:18,139 --> 00:02:19,669
+por que não tem um dois cinco cinco? Porque
+
+46
+00:02:19,679 --> 00:02:23,729
+o dois cinco cinco é um endereço de sempre tem
+
+47
+00:02:23,740 --> 00:02:26,129
+que lembrar desse endereço, né.
+
+48
+00:02:26,139 --> 00:02:29,689
+Que você tem o endereço da rede e o endereço
+
+49
+00:02:29,699 --> 00:02:32,088
+st Lembra que nós vimos isso então aqui e a
+
+50
+00:02:32,099 --> 00:02:35,990
+gente pega os os endereços de ST os intervalos que
+
+51
+00:02:36,000 --> 00:02:39,349
+você tem de acordo com Eh a barra aqui da
+
+52
+00:02:39,360 --> 00:02:40,969
+rede Oh lá então aqui eu tenho aqui oh rede
+
+53
+00:02:40,979 --> 00:02:44,088
+dez ponto um ponto zero ponto zero barra vinte e
+
+54
+00:02:44,099 --> 00:02:48,849
+quatro Qual que é o intervalo dessa rede aqui Oh
+
+55
+00:02:48,860 --> 00:02:51,189
+vai de dez Oh, tá vendo oh ponto um
+
+56
+00:02:51,199 --> 00:02:55,439
+ponto zero ponto um até dez ponto um ponto zero
+
+57
+00:02:55,449 --> 00:02:58,610
+ponto dois cinco quatro tirando obviamente o último que é
+
+58
+00:02:58,618 --> 00:03:01,469
+o cast e obviamente, tirando o endereço da rede
+
+59
+00:03:01,710 --> 00:03:04,429
+que a gente tá vendo na coluna da esquerda tá
+
+60
+00:03:04,439 --> 00:03:08,879
+então aí tem os endereçamento que você consegue enxergar legal
+
+61
+00:03:08,889 --> 00:03:11,639
+essa divisão tá vendo de uma rede classe a barra
+
+62
+00:03:11,649 --> 00:03:15,639
+oito em sub redes do tipo classe C, né?
+
+63
+00:03:15,649 --> 00:03:18,360
+Que é o barra vinte e quatro okay E aí?
+
+64
+00:03:18,368 --> 00:03:20,879
+Oh, agora temos uma divisão de uma rede Classe
+
+65
+00:03:20,889 --> 00:03:26,558
+A barra oito em sub redes classe B barra dezesseis.
+
+66
+00:03:26,569 --> 00:03:29,219
+Olha como é que funciona o endereço da da sub
+
+67
+00:03:29,229 --> 00:03:31,300
+rede? São o quê duzentos e cinquenta e seis
+
+68
+00:03:31,308 --> 00:03:35,939
+possíveis sub redes perfeito Intervalo de roxa Agora nós temos
+
+69
+00:03:35,949 --> 00:03:39,439
+sessenta e cinco mil quinhentos e trinta e quatro.
+
+70
+00:03:39,449 --> 00:03:42,699
+Por quê? Porque tiram dois o endereço da rede
+
+71
+00:03:42,710 --> 00:03:45,580
+e o endereço do broadcast Tá lembrado disso né?
+
+72
+00:03:45,588 --> 00:03:48,179
+Então vamos lá oh, você tem o endereço aqui
+
+73
+00:03:48,189 --> 00:03:52,139
+da sub rede dez ponto zero ponto zero ponto zero
+
+74
+00:03:52,149 --> 00:03:55,479
+barra dezesseis Qual que vai ser o intervalo ali na
+
+75
+00:03:55,490 --> 00:03:58,618
+classe B? Oh vai de dez ponto zero ponto
+
+76
+00:03:58,629 --> 00:04:02,919
+zero ponto um até oh dez ponto zero Pode ver
+
+77
+00:04:02,929 --> 00:04:04,679
+que aqui oh o bit já entra o roxo oh
+
+78
+00:04:04,689 --> 00:04:09,368
+dois cinco cinco até o dois cinco quatro e obviamente
+
+79
+00:04:09,379 --> 00:04:12,919
+tirando o endereço de broca que seria o último,
+
+80
+00:04:12,929 --> 00:04:15,580
+então olha como é que eu aumento pra sessenta e
+
+81
+00:04:15,588 --> 00:04:18,319
+cinco mil quinhentos e trinta e quatro roxos possíveis.
+
+82
+00:04:18,329 --> 00:04:21,588
+Lembrando que o primeiro exemplo aqui oh, eu tinha
+
+83
+00:04:21,600 --> 00:04:24,889
+sempre duzentos e cinquenta e quatro rostos, não era
+
+84
+00:04:24,899 --> 00:04:27,369
+por causa da classe C agora quando eu fui pra
+
+85
+00:04:27,379 --> 00:04:30,588
+classe B eu aumentei pra sessenta e cinco mil quinhentos
+
+86
+00:04:30,600 --> 00:04:33,350
+e trinta e seis, diminuindo obviamente o tamanho das
+
+87
+00:04:33,358 --> 00:04:36,449
+redes E olha aqui outro exemplo oh dez ponto um
+
+88
+00:04:36,459 --> 00:04:40,149
+ponto zero ponto zero barrasse Qual que é o intervalo?
+
+89
+00:04:40,160 --> 00:04:42,129
+Oh olha como é que é o avanço Ah,
+
+90
+00:04:42,139 --> 00:04:44,928
+ah, o bich da rede Oh dez ponto um
+
+91
+00:04:44,939 --> 00:04:48,230
+ponto zero ponto um Oh aí ele vai até dez
+
+92
+00:04:48,238 --> 00:04:50,709
+ponto um oh ponto dois cinco cinco dois cinco quatro
+
+93
+00:04:50,720 --> 00:04:53,309
+Tá vendo aí oh! E obviamente tirando o endereço
+
+94
+00:04:53,319 --> 00:04:58,588
+de cast, então você gera intervalos com uma quantidade
+
+95
+00:04:58,600 --> 00:05:01,548
+maior de roxas e aqui Oh, eu tinha o
+
+96
+00:05:01,559 --> 00:05:04,988
+barra vinte e quatro, tendo uma quantidade maior de
+
+97
+00:05:05,000 --> 00:05:09,028
+sub redes com uma quantidade menor de roxas e na
+
+98
+00:05:09,040 --> 00:05:12,649
+outra tabela eu fiz a inversão disso interessante, né?
+
+99
+00:05:12,889 --> 00:05:13,639
+Aí olha só.
+
+100
+00:05:13,649 --> 00:05:15,819
+E como é que cê faz essa divisão dentro do
+
+101
+00:05:15,829 --> 00:05:18,899
+limite do quinteto, né? Do dos números dos
+
+102
+00:05:18,910 --> 00:05:21,819
+bits um zero! Olha só que interessante Quando você
+
+103
+00:05:21,829 --> 00:05:24,988
+tem um prefixo barra vinte e cinco olha como é
+
+104
+00:05:25,000 --> 00:05:27,009
+que é feito o cálculo? Você tem a máscara
+
+105
+00:05:27,019 --> 00:05:28,449
+de sub rede dois, cinco, cinco, dois,
+
+106
+00:05:28,459 --> 00:05:29,790
+cinco, cinco, dois cinco cinco ponto cento e
+
+107
+00:05:29,798 --> 00:05:33,470
+vinte e oito Lembra dos bits? Tudo um aí
+
+108
+00:05:33,480 --> 00:05:36,809
+no último OK, teto a gente teve um invadindo,
+
+109
+00:05:36,819 --> 00:05:41,139
+não foi ficando um número um e sete zeros então
+
+110
+00:05:41,149 --> 00:05:43,569
+olha só então quer dizer que sub rede eu tenho
+
+111
+00:05:43,579 --> 00:05:47,209
+uma rede dois elevado a um, então igual duas
+
+112
+00:05:47,220 --> 00:05:50,230
+sub redes Okay aí o que que vai acontecer?
+
+113
+00:05:50,238 --> 00:05:53,949
+Eu pego agora os bits que são zeros e coloco
+
+114
+00:05:53,959 --> 00:05:57,350
+dois elevados sete que é os bits zeros e diminuo
+
+115
+00:05:57,358 --> 00:06:00,329
+pela quantidade de sub redes dois Então eu tenho o
+
+116
+00:06:00,338 --> 00:06:03,670
+que cento e vinte e seis st Agora quando eu
+
+117
+00:06:03,678 --> 00:06:05,389
+tenho barra vinte e seis Como é que eu faço
+
+118
+00:06:05,399 --> 00:06:08,829
+a conta lá? Oh eu tenho dois números uns
+
+119
+00:06:08,838 --> 00:06:11,910
+lá no último quite que que eu fiz dois eleva
+
+120
+00:06:11,920 --> 00:06:14,939
+a dois Eu vou ter quatro sub redes aí não
+
+121
+00:06:14,949 --> 00:06:19,858
+me sobraram seis zeros dois elevados a seis menos dois
+
+122
+00:06:19,869 --> 00:06:22,540
+que vai dar o quê sessenta e dois rost nessa
+
+123
+00:06:22,548 --> 00:06:25,500
+rede Agora se eu tenho barra vinte e sete,
+
+124
+00:06:25,509 --> 00:06:28,379
+qual é a manha? Cê pega os três números
+
+125
+00:06:28,389 --> 00:06:31,699
+uns que invadiram o último Oto aqui e eleva né?
+
+126
+00:06:31,709 --> 00:06:34,980
+Dois Elevado a três cê vai achar oito sub redes
+
+127
+00:06:34,988 --> 00:06:35,738
+e não me sobraram.
+
+128
+00:06:35,750 --> 00:06:39,230
+Quantos zeros não foram cinco dois elevados a cinco menos
+
+129
+00:06:39,238 --> 00:06:42,629
+dois, então cê vai ter trinta STS nessa rede?
+
+130
+00:06:42,639 --> 00:06:45,088
+Então pode ver que na medida que você vai avançando?
+
+131
+00:06:45,100 --> 00:06:49,059
+Cê tá aumentando as sub redes e tá diminuindo os
+
+132
+00:06:49,069 --> 00:06:49,410
+roxos.
+
+133
+00:06:49,420 --> 00:06:53,548
+Por quê? Porque você tá roubando os bits ali
+
+134
+00:06:53,559 --> 00:06:56,000
+que são destinados pro hosts no último ok? Cê
+
+135
+00:06:56,009 --> 00:06:58,199
+tá conseguindo entender a lógica! Olha aqui oh,
+
+136
+00:06:58,209 --> 00:07:00,019
+vamos pegar aqui o barra vinte e oito Oh lá,
+
+137
+00:07:00,028 --> 00:07:02,548
+oh o barra! Vinte e oito eu invadi o
+
+138
+00:07:02,559 --> 00:07:05,720
+quê? Um dois três quatro uns né? Sobrando
+
+139
+00:07:05,730 --> 00:07:07,980
+quatro zeros então eu pego dois elevo a quatro que
+
+140
+00:07:07,988 --> 00:07:10,399
+é tudo base dois, né? Trabalhamos com binário.
+
+141
+00:07:10,410 --> 00:07:13,519
+Vai dar dezesseis sub redes aí eu pego os outros
+
+142
+00:07:13,528 --> 00:07:15,959
+quatro os zeros que sobraram ele levo dois, elevado
+
+143
+00:07:15,970 --> 00:07:19,639
+a quatro e diminuo pelos dois, né? Aí
+
+144
+00:07:19,649 --> 00:07:21,259
+vai dar o que pelo dezesseis.
+
+145
+00:07:21,629 --> 00:07:23,519
+Aí vai dar o quê? Quatorze pro dois Aliás,
+
+146
+00:07:23,528 --> 00:07:26,000
+perdão que é sempre os bits dois quatorze.
+
+147
+00:07:26,009 --> 00:07:28,439
+Então eu olha o quanto que eu diminuo a quantidade
+
+148
+00:07:28,449 --> 00:07:31,480
+de equipamentos naquela rede de STS, agora vamos pegar
+
+149
+00:07:31,488 --> 00:07:33,040
+o barra vinte e nove aqui Oh! Onde eu
+
+150
+00:07:33,048 --> 00:07:36,439
+tenho um dois, três, quatro cinco uns e
+
+151
+00:07:36,449 --> 00:07:39,160
+sobram três zeros, então eu pego dois Elevo a
+
+152
+00:07:39,170 --> 00:07:41,579
+cinco Eu acho a quantidade de sub redes trinta e
+
+153
+00:07:41,588 --> 00:07:45,725
+dois Depois eu pego dois e levo a três zeros
+
+154
+00:07:45,733 --> 00:07:48,785
+diminuo por menos dois que é o broca.
+
+155
+00:07:48,795 --> 00:07:52,173
+O endereço de rede vai dar o quê seis E
+
+156
+00:07:52,184 --> 00:07:54,884
+olha a Rede Barra trinta A rede barra trinta não
+
+157
+00:07:54,894 --> 00:07:57,173
+dá, né? Como eu invadi lá, oh,
+
+158
+00:07:57,184 --> 00:08:00,684
+tá vendo oh! Seis números uns no último Oto
+
+159
+00:08:00,694 --> 00:08:04,165
+eu pego dois Elevo a seis e vou dar sessenta
+
+160
+00:08:04,173 --> 00:08:07,540
+e quatro sub redes pego os dois zero que sobraram
+
+161
+00:08:07,548 --> 00:08:10,338
+Elevo a dois menos os dois endereços que a gente
+
+162
+00:08:10,350 --> 00:08:12,100
+não pode contar pra roxas, lembra.
+
+163
+00:08:12,108 --> 00:08:15,019
+Vai dar só duas máquinas! Então perceba, oh!
+
+164
+00:08:15,028 --> 00:08:18,459
+Sempre que dividimos uma rede em sub redes, Nós
+
+165
+00:08:18,470 --> 00:08:20,699
+perdemos dois endereços por sub rede.
+
+166
+00:08:20,709 --> 00:08:23,170
+Lembra que é o endereço de rede E o endereço
+
+167
+00:08:23,178 --> 00:08:24,319
+de broadcast? É o que a gente tá.
+
+168
+00:08:24,403 --> 00:08:27,733
+Temos que lá atrás cê sempre tem que tirar Cê
+
+169
+00:08:27,744 --> 00:08:30,125
+tem o endereço de rede e tem o endereço do
+
+170
+00:08:30,134 --> 00:08:30,644
+broca.
+
+171
+00:08:30,653 --> 00:08:34,533
+Então você tem que subtrair esses dois da quantidade de
+
+172
+00:08:34,543 --> 00:08:38,394
+endereços de STS que sobram aí olha só por isso!
+
+173
+00:08:38,404 --> 00:08:40,854
+A maior máscara possível no aqui teto é a barra
+
+174
+00:08:40,864 --> 00:08:41,224
+trinta.
+
+175
+00:08:41,234 --> 00:08:43,594
+Você percebeu o que que a barra? Trinta Por
+
+176
+00:08:43,604 --> 00:08:46,375
+quê? Pois com a máscara barra trinta e dois
+
+177
+00:08:46,384 --> 00:08:50,750
+apenas dois endereços, um para a rede e outro
+
+178
+00:08:50,759 --> 00:08:53,229
+para broadcast, não sobrando nenhum para roxo.
+
+179
+00:08:53,239 --> 00:08:55,678
+Se você fizer o barra trinta e dois aí cê
+
+180
+00:08:55,690 --> 00:08:58,989
+vai ver que não vai sobrar endereço suficiente pro roxo,
+
+181
+00:08:59,000 --> 00:09:01,548
+então por isso que geralmente é até a barra trinta
+
+182
+00:09:01,558 --> 00:09:03,349
+que a gente faz, então a gente aumentou lá
+
+183
+00:09:03,359 --> 00:09:06,070
+sessenta e quatro sub redes cara, mas eu tenho
+
+184
+00:09:06,080 --> 00:09:11,168
+só duas máquinas, dois endereços pra roxos nessa rede.
+
+185
+00:09:11,178 --> 00:09:16,250
+Aí beleza conseguiu entender quando eu faço essa divisão aí
+
+186
+00:09:16,259 --> 00:09:20,798
+para os bits beleza então olha só temos também redes
+
+187
+00:09:20,808 --> 00:09:24,599
+com a máscara variável a famosa v L s n,
+
+188
+00:09:24,609 --> 00:09:29,440
+onde você pode fazer a subdivisão de redes utilizando endereço
+
+189
+00:09:29,450 --> 00:09:31,719
+de classe A, b c, né cê pode
+
+190
+00:09:31,729 --> 00:09:33,840
+variar aí Como que você faz? Tá vendo essa
+
+191
+00:09:33,849 --> 00:09:36,139
+rede aqui Oh, onde eu tenho a rede A
+
+192
+00:09:36,149 --> 00:09:38,619
+com cento e vinte e seis st eu tenho a
+
+193
+00:09:38,629 --> 00:09:41,298
+rede B com sessenta e dois eu tenho a rede
+
+194
+00:09:41,308 --> 00:09:43,570
+C com trinta e a rede D com trinta lá
+
+195
+00:09:43,580 --> 00:09:47,340
+oh, tá aqui oh a quantidade de redes que
+
+196
+00:09:47,349 --> 00:09:49,658
+eu tenho de sub redes e eu tenho um total
+
+197
+00:09:49,668 --> 00:09:51,950
+de duzentos e quarenta e oito st em toda a
+
+198
+00:09:51,960 --> 00:09:54,869
+rede, mas dividida nessas redes aí a até a
+
+199
+00:09:54,879 --> 00:09:56,418
+D aí o que que eu fiz pra fazer esse
+
+200
+00:09:56,428 --> 00:09:59,219
+aproveitamento? Oh lá, oh, sub redes diferentes!
+
+201
+00:09:59,229 --> 00:10:02,840
+Para cada domínio de broca eu tenho o melhor aproveitamento
+
+202
+00:10:02,849 --> 00:10:03,700
+dos endereços.
+
+203
+00:10:03,710 --> 00:10:05,658
+Como que eu faço isso? Aluno? Olha só
+
+204
+00:10:05,668 --> 00:10:09,279
+lá na rede a eu botei ela com fixo barra
+
+205
+00:10:09,288 --> 00:10:09,899
+vinte e cinco.
+
+206
+00:10:10,710 --> 00:10:13,479
+Então eu tenho essa máscara aqui comprei f x barra
+
+207
+00:10:13,489 --> 00:10:14,239
+vinte e cinco.
+
+208
+00:10:14,250 --> 00:10:17,798
+O endereço de rede tá separado aqui um nove dois
+
+209
+00:10:17,808 --> 00:10:20,038
+um meia oito dez zero, né? E o
+
+210
+00:10:20,048 --> 00:10:23,080
+endereço de broadcast é esse aqui então eu tenho o
+
+211
+00:10:23,090 --> 00:10:26,418
+quê cento e vinte e seis Roxos lembra disso aqui
+
+212
+00:10:26,428 --> 00:10:29,460
+oh, lembra aqui oh barra vinte e cinco Oh
+
+213
+00:10:29,469 --> 00:10:31,739
+lá, oh, eu fiz esse cálculo aqui Oh
+
+214
+00:10:31,750 --> 00:10:33,830
+que a gente viu na tabelinha Por que que eu
+
+215
+00:10:33,840 --> 00:10:36,558
+faço isso? Porque na minha rede a eu tenho
+
+216
+00:10:36,570 --> 00:10:39,009
+cento e vinte e seis equipamentos Agora? Olha que
+
+217
+00:10:39,019 --> 00:10:41,590
+interessante na rede B eu faço com barra vinte e
+
+218
+00:10:41,599 --> 00:10:45,928
+seis, onde eu consigo ter sessenta e dois roxas
+
+219
+00:10:45,940 --> 00:10:47,889
+oh! Igual a nossa tabelinha aqui Oh, barra
+
+220
+00:10:47,899 --> 00:10:50,168
+vinte e seis dá sessenta e dois roxas Não dá
+
+221
+00:10:50,178 --> 00:10:52,090
+por quê? Porque minha rede classe B tem só
+
+222
+00:10:52,099 --> 00:10:55,129
+sessenta e duas máquinas agora lá na rede C eu
+
+223
+00:10:55,139 --> 00:10:58,239
+fiz ele barra vinte e sete barra vinte e sete,
+
+224
+00:10:58,250 --> 00:10:59,918
+eu tenho trinta e dois Rost.
+
+225
+00:10:59,928 --> 00:11:01,739
+Então lá o barra vinte e sete aqui oh,
+
+226
+00:11:02,658 --> 00:11:05,340
+né aqui deu trinta.
+
+227
+00:11:05,349 --> 00:11:08,019
+Mas por quê? Porque a minha rede C vai
+
+228
+00:11:08,029 --> 00:11:10,058
+dar as os trinta reais, não é isso?
+
+229
+00:11:10,070 --> 00:11:12,340
+Então tá vendo que eu não tenho desperdício.
+
+230
+00:11:12,349 --> 00:11:15,899
+E lá na rede D eu fiz a mesma ideia
+
+231
+00:11:15,908 --> 00:11:16,658
+na rede D.
+
+232
+00:11:16,668 --> 00:11:19,899
+Eu fiz um alcance pra suprir essas trinta máquinas.
+
+233
+00:11:19,908 --> 00:11:22,750
+Então o desperdício quando você trabalha com uma rede de
+
+234
+00:11:22,759 --> 00:11:26,389
+máscara variável, ele é menor? Porque você consegue
+
+235
+00:11:26,399 --> 00:11:28,570
+o que em vez de você botar lá, eh
+
+236
+00:11:28,580 --> 00:11:29,190
+redes.
+
+237
+00:11:29,200 --> 00:11:31,668
+Por exemplo, eu tenho trinta máquinas e eu faço
+
+238
+00:11:31,678 --> 00:11:34,070
+igual a rede ali Oh barra vinte e cinco onde
+
+239
+00:11:34,080 --> 00:11:36,389
+eu vou ter cento e vinte e seis? Pô!
+
+240
+00:11:36,399 --> 00:11:38,090
+Olha o desperdício que eu tô tendo aí.
+
+241
+00:11:38,399 --> 00:11:43,288
+Então eu diminuo essa quantidade aí de roxas fazendo essa
+
+242
+00:11:43,298 --> 00:11:47,168
+divisão aí dos arquitetos, onde eu consigo aproveitar melhor
+
+243
+00:11:47,178 --> 00:11:48,969
+e desperdiçar menos.
+
+244
+00:11:48,979 --> 00:11:52,090
+Eh máquinas menos roxos, né? Menos endereços aí
+
+245
+00:11:52,099 --> 00:11:53,330
+pra ser mais exato.
+
+246
+00:11:53,340 --> 00:11:56,769
+Perfeito, entendeu a lógica da coisa é isso?
+
+247
+00:11:56,779 --> 00:11:59,009
+Tá bom? Voltamos grande abraço.
+
+248
+00:11:59,019 --> 00:11:59,950
+Até a próxima
+

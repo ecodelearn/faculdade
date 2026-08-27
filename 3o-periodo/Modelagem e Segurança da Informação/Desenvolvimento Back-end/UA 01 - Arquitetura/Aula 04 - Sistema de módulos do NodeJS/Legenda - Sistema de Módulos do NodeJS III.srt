@@ -1,0 +1,832 @@
+1
+00:00:06,690 --> 00:00:09,698
+Olá, vamos falar um pouquinho sobre módulos de terceiros,
+
+2
+00:00:09,710 --> 00:00:12,079
+né? Quando se fala de módulos de terceiros,
+
+3
+00:00:12,089 --> 00:00:14,849
+são módulos que você obtém a a partir de outros
+
+4
+00:00:14,859 --> 00:00:17,359
+fornecedores que não o próprio G S também não são
+
+5
+00:00:17,370 --> 00:00:18,138
+módulos internos.
+
+6
+00:00:18,149 --> 00:00:21,620
+São módulos do desenvolvedor Bom, eh isso aí através
+
+7
+00:00:21,629 --> 00:00:25,620
+do comando n PM, n PM e n PM
+
+8
+00:00:25,629 --> 00:00:30,719
+o n PM vai adicionar um elemento qualquer nas bibliotecas
+
+9
+00:00:30,728 --> 00:00:33,168
+que você vai utilizar naquele projeto e vai alterar o
+
+10
+00:00:33,179 --> 00:00:36,569
+próprio Jason baixando pro mode esse pacote.
+
+11
+00:00:36,579 --> 00:00:38,389
+Vamos ver como é que isso funciona na prática,
+
+12
+00:00:39,509 --> 00:00:44,579
+então módulos de terceiros eh quando eu falo de módulos
+
+13
+00:00:44,590 --> 00:00:46,819
+de terceiros eu tenho que instalar, né? Então
+
+14
+00:00:46,829 --> 00:00:48,740
+meu comando pra instalar o módulo de terceiro o n
+
+15
+00:00:48,750 --> 00:00:51,740
+PM insta tá! E se eu quiser tirar esse
+
+16
+00:00:51,750 --> 00:00:55,408
+módulo n PM a insta são? Ah, como
+
+17
+00:00:55,418 --> 00:00:58,779
+você acrescenta ou retira do projeto você nunca paga.
+
+18
+00:00:58,789 --> 00:01:02,069
+Simplesmente tá por quê? Porque o PCA de ponto
+
+19
+00:01:02,079 --> 00:01:05,079
+jason, que é o arquivo que guarda essa configuração
+
+20
+00:01:05,359 --> 00:01:08,049
+ele guarda tudo aquilo que você instalou e des instalou
+
+21
+00:01:08,058 --> 00:01:09,939
+cada vez que você dá um comando desses, ele
+
+22
+00:01:09,948 --> 00:01:11,980
+vai lá e escreve no peca de ponto jason,
+
+23
+00:01:11,989 --> 00:01:14,549
+que é o meu arquivo de configuração que diz E
+
+24
+00:01:14,558 --> 00:01:17,808
+esse cara é um aplicativo no JS, Essas são
+
+25
+00:01:17,819 --> 00:01:21,448
+as bibliotecas eh essa aqui é a configuração do projeto?
+
+26
+00:01:21,459 --> 00:01:24,930
+Então eh, você pode inclusive apagar o diretório,
+
+27
+00:01:24,939 --> 00:01:27,448
+né? Se você apagar o diretório de que é
+
+28
+00:01:27,459 --> 00:01:29,290
+o arquivo mais pesado, assim é um diretório mais
+
+29
+00:01:29,299 --> 00:01:32,269
+pesado do projeto onde tem tudo aquilo que foi importado
+
+30
+00:01:32,719 --> 00:01:34,448
+e der novamente o n PM tal.
+
+31
+00:01:34,459 --> 00:01:36,129
+Ele vai instalar tudo de novo.
+
+32
+00:01:36,138 --> 00:01:39,668
+Tá por quê? Porque a informação não tá no
+
+33
+00:01:39,680 --> 00:01:42,888
+tá no teca de ponto Jason é um arquivo que
+
+34
+00:01:42,900 --> 00:01:44,930
+controla toda a estrutura do seu projeto.
+
+35
+00:01:44,939 --> 00:01:48,168
+Se você apagar ele, acabou o projeto, né?
+
+36
+00:01:48,180 --> 00:01:51,189
+Então você pode ter acréscimo de funcionalidade através da biblioteca
+
+37
+00:01:51,198 --> 00:01:51,888
+de terceiros.
+
+38
+00:01:51,900 --> 00:01:54,409
+O legal do n PM é que ele tem uma
+
+39
+00:01:54,418 --> 00:01:57,448
+relação direta com o HB, então, assim eh,
+
+40
+00:01:57,459 --> 00:02:00,750
+você pode eh baixar a última versão da biblioteca pode
+
+41
+00:02:00,760 --> 00:02:01,888
+baixar a versão anterior.
+
+42
+00:02:01,900 --> 00:02:03,849
+Você pode especificar o que você quer.
+
+43
+00:02:03,859 --> 00:02:06,888
+Então ele tem uma relação direta com repositórios get,
+
+44
+00:02:06,900 --> 00:02:13,657
+né Bom, algumas bibliotecas que são bem úteis pra
+
+45
+00:02:13,669 --> 00:02:16,278
+qualquer pessoa que vá trabalhar com servidores.
+
+46
+00:02:16,288 --> 00:02:19,849
+Web né? O Express é um servidor h T
+
+47
+00:02:19,860 --> 00:02:22,750
+P com o roteamento, então toda aquela parte de
+
+48
+00:02:22,758 --> 00:02:26,429
+definição de rotas Como é que você define a recepção
+
+49
+00:02:26,439 --> 00:02:28,830
+de valores? Via h? T P? Tá!
+
+50
+00:02:28,838 --> 00:02:31,949
+Preenchimento do boy eh reconhecimento do boy! Tudo tá
+
+51
+00:02:31,960 --> 00:02:34,889
+pronto, né? Ele inclusive muita gente chama de
+
+52
+00:02:34,899 --> 00:02:36,750
+minimo porque eh.
+
+53
+00:02:36,758 --> 00:02:39,189
+Ele já traz um servidor ali certinho, É um
+
+54
+00:02:39,199 --> 00:02:40,028
+servidor embutido.
+
+55
+00:02:40,038 --> 00:02:41,750
+Você não tem que ter servidor instalado, ele já
+
+56
+00:02:41,758 --> 00:02:42,889
+é um servidor por si só.
+
+57
+00:02:43,610 --> 00:02:46,300
+P D f kit geração de conteúdo e formato p
+
+58
+00:02:46,308 --> 00:02:46,800
+d F.
+
+59
+00:02:46,808 --> 00:02:49,419
+Não é raro você ter que baixar algum, eh
+
+60
+00:02:49,429 --> 00:02:53,729
+por exemplo, algum certificado, alguma reserva de alguma
+
+61
+00:02:53,740 --> 00:02:56,179
+coisa que vem sempre no formato P D f,
+
+62
+00:02:56,189 --> 00:02:59,219
+né? Porque é um formato bem útil pra documentos.
+
+63
+00:02:59,229 --> 00:03:01,669
+E o q R code é uma biblioteca pra geração
+
+64
+00:03:01,679 --> 00:03:04,409
+de códigos? Q R code, né? Então
+
+65
+00:03:04,419 --> 00:03:06,229
+assim se eu quiser usar esses, eu tenho que
+
+66
+00:03:06,240 --> 00:03:09,490
+dar n PM express n p MP d f,
+
+67
+00:03:09,500 --> 00:03:11,929
+k, n PM q code e na hora de
+
+68
+00:03:11,939 --> 00:03:14,808
+usar, eu vou dar o recue, né?
+
+69
+00:03:14,819 --> 00:03:19,889
+Aqui um exemplo do Express aqui eu tô criando um
+
+70
+00:03:19,899 --> 00:03:23,689
+servidor no Express que vai responder na rota hello!
+
+71
+00:03:23,699 --> 00:03:26,149
+Se o cara colocar lá, eh Como eu tô
+
+72
+00:03:26,159 --> 00:03:28,429
+baixando aqui na porta três mil, né? Se
+
+73
+00:03:28,439 --> 00:03:32,330
+ele colocar local roxo dois pontos, três mil barra
+
+74
+00:03:32,338 --> 00:03:35,929
+hello, Tá, Então, assim eh, você
+
+75
+00:03:35,939 --> 00:03:40,270
+tá colocando uma rota em cima desse endereço básico e
+
+76
+00:03:40,278 --> 00:03:42,929
+aqui eu tô respondendo a ele com um conteúdo qualquer.
+
+77
+00:03:42,939 --> 00:03:45,808
+Na verdade, isso aqui tá igualzinho o uso com
+
+78
+00:03:45,819 --> 00:03:48,118
+o método gate, né? Por quê? Porque
+
+79
+00:03:48,129 --> 00:03:50,288
+ele faz igual o gate, mas ele supera?
+
+80
+00:03:50,300 --> 00:03:53,538
+Tá aquele h t p got né? Eu posso
+
+81
+00:03:53,550 --> 00:03:55,629
+usar o h t p got programando exatamente a mesma
+
+82
+00:03:55,639 --> 00:03:56,550
+coisa vai funcionar.
+
+83
+00:03:56,830 --> 00:03:59,199
+Só que se eu começar a colocar coisas específicas,
+
+84
+00:03:59,210 --> 00:04:02,719
+como body, algumas interpretações de Jason, isso já
+
+85
+00:04:02,729 --> 00:04:03,919
+não vai ser tão simples.
+
+86
+00:04:03,929 --> 00:04:05,379
+E o Lis tem três mil.
+
+87
+00:04:05,389 --> 00:04:07,800
+Vai mandar ele ficar escutando na porta três mil?
+
+88
+00:04:07,808 --> 00:04:11,050
+Né? Bom, aqui é um exemplo com p
+
+89
+00:04:11,058 --> 00:04:15,020
+d f tá eh a parte de P d f
+
+90
+00:04:15,028 --> 00:04:16,939
+é um pouquinho chatinha de gerar porque cê tem que
+
+91
+00:04:16,949 --> 00:04:20,139
+ficar configurando linha a linha ele tá, mas ele
+
+92
+00:04:20,149 --> 00:04:22,819
+gera, né? Eh que que cê faz?
+
+93
+00:04:22,829 --> 00:04:26,778
+Você coloca um novo arquivo P d f bust Ele
+
+94
+00:04:26,790 --> 00:04:30,459
+pode gerar pra arquivo diretamente sem bufar, mas gerar
+
+95
+00:04:30,470 --> 00:04:32,160
+pra arquivo nem sempre é uma boa opção, porque
+
+96
+00:04:32,170 --> 00:04:33,709
+às vezes você quer só gerar um p D f
+
+97
+00:04:33,720 --> 00:04:36,129
+de resposta pro usuário E aí ele vai ter que
+
+98
+00:04:36,139 --> 00:04:38,809
+receber através do navegador, né? Então o que
+
+99
+00:04:38,819 --> 00:04:41,488
+eu faço aqui meus dados são vazios, tem um
+
+100
+00:04:41,500 --> 00:04:46,338
+vetor vazio doc o data dados ponto post ponto b
+
+101
+00:04:46,350 --> 00:04:49,619
+de dados Isso aqui é um evento.
+
+102
+00:04:50,420 --> 00:04:56,500
+Tá que vai ficar naquele modelo de EH Trad que
+
+103
+00:04:56,509 --> 00:04:59,778
+tem no no que que eu vou fazer aqui aqui
+
+104
+00:04:59,790 --> 00:05:02,259
+quando acontecer o evento data, ou seja, quando
+
+105
+00:05:02,269 --> 00:05:07,298
+tiver dados disponíveis, faça a ligação através do vetor
+
+106
+00:05:07,309 --> 00:05:07,920
+de dados.
+
+107
+00:05:08,838 --> 00:05:10,980
+Quando chegar no final do documento, quando tiver w
+
+108
+00:05:10,988 --> 00:05:14,199
+end ele vai fazer buffer com cat dados.
+
+109
+00:05:14,209 --> 00:05:17,199
+Ou seja, vai as informações no buffer, né?
+
+110
+00:05:17,829 --> 00:05:20,720
+E aí ele faz isso aqui oh doc ponto font
+
+111
+00:05:20,730 --> 00:05:23,720
+times de exemplo.
+
+112
+00:05:23,730 --> 00:05:28,160
+Quando ele coloca exemplo, ele vai automaticamente ativar o
+
+113
+00:05:28,170 --> 00:05:31,790
+exemplo da o evento data, porque teve ali alguma
+
+114
+00:05:31,798 --> 00:05:34,879
+coisa em relação a texto, né? E quando
+
+115
+00:05:34,889 --> 00:05:37,910
+ele colocar o Wendy, ele vai chamar o evento
+
+116
+00:05:37,920 --> 00:05:40,809
+e onde vai ter a finalização do documento e você
+
+117
+00:05:40,819 --> 00:05:44,678
+pode exportar ele de alguma forma, né? Ah,
+
+118
+00:05:44,689 --> 00:05:47,910
+aqui é um exemplo também interessante que é com q
+
+119
+00:05:47,920 --> 00:05:51,559
+r code aqui eu tô pegando o endereço do Google
+
+120
+00:05:52,259 --> 00:05:55,858
+WWW ponto google ponto com Qual é a reação?
+
+121
+00:05:55,869 --> 00:06:00,040
+Eh eh level h duzentos largura duzentos t i PS
+
+122
+00:06:00,048 --> 00:06:03,769
+v g aqui eu tô gerando um q R code
+
+123
+00:06:03,778 --> 00:06:05,899
+para esse endereço! Ou seja, se apontar o
+
+124
+00:06:05,910 --> 00:06:08,480
+celular pra esse q r code ele vai pro google,
+
+125
+00:06:08,488 --> 00:06:11,399
+né? E essa biblioteca é bem simples de usar?
+
+126
+00:06:11,410 --> 00:06:13,678
+É só você passar o endereço que você quer.
+
+127
+00:06:13,689 --> 00:06:15,559
+Tá! E aí? Eu vou colocar o seguinte
+
+128
+00:06:15,569 --> 00:06:17,879
+Oh, esse cara que eu coloquei aqui, que
+
+129
+00:06:17,889 --> 00:06:21,579
+é uma imagem no h t ML vai ser incluído,
+
+130
+00:06:21,588 --> 00:06:24,939
+né o data no meio do meu h t ML,
+
+131
+00:06:24,949 --> 00:06:37,988
+né Bom aqui, hum eu tenho esses exemplos né?
+
+132
+00:06:38,709 --> 00:06:40,879
+O gerar p d f aqui depois que ele gera
+
+133
+00:06:40,889 --> 00:06:47,199
+ele retorna uma resposta a duzentos p d f n
+
+134
+00:06:47,209 --> 00:06:50,160
+p d f nota o seguinte aqui eu tô retornando
+
+135
+00:06:50,170 --> 00:06:54,019
+uma resposta binária tá axa um p d f não
+
+136
+00:06:54,028 --> 00:06:56,278
+é resposta a TX que nem h t ML h
+
+137
+00:06:56,290 --> 00:06:58,858
+t ML é h t ML apti um p d
+
+138
+00:06:58,869 --> 00:07:00,879
+f é uma resposta binária é um arquivo P D
+
+139
+00:07:00,889 --> 00:07:01,420
+f.
+
+140
+00:07:01,428 --> 00:07:07,088
+Então aqui que eu tô fazendo escreva duzentos sucesso ntf
+
+141
+00:07:07,100 --> 00:07:09,048
+bofe ponto batt p d f.
+
+142
+00:07:09,059 --> 00:07:12,850
+O tamanho desse buffer depois que ele acabou e é
+
+143
+00:07:12,858 --> 00:07:15,009
+ti um, p d F pra ele saber que
+
+144
+00:07:15,019 --> 00:07:16,988
+ele vai abrir um p d f com isso o
+
+145
+00:07:17,000 --> 00:07:20,290
+navegador pelo t ele já sabe que vai chegar ali
+
+146
+00:07:20,298 --> 00:07:21,689
+é binário ou é um p? D f,
+
+147
+00:07:21,699 --> 00:07:24,629
+né? Ah, e aqui eu tô usando o
+
+148
+00:07:24,639 --> 00:07:29,259
+próprio express pra poder rodar oh get que seria do
+
+149
+00:07:29,269 --> 00:07:33,838
+express o q r code Eu acho razoavelmente mais simples
+
+150
+00:07:35,500 --> 00:07:39,608
+a PP gets na rota q r code e aí
+
+151
+00:07:39,619 --> 00:07:42,829
+o que ele faz eh coloca o endereço do google,
+
+152
+00:07:43,689 --> 00:07:46,829
+coloca a largura que você quer, ele coloca,
+
+153
+00:07:46,838 --> 00:07:50,588
+ele já calcula a altura aqui joga um status duzentos
+
+154
+00:07:50,600 --> 00:07:53,470
+e joga o h t ML Barry com a data.
+
+155
+00:07:53,480 --> 00:07:55,910
+Esse data é o que é o que veio daqui.
+
+156
+00:07:55,920 --> 00:07:59,069
+Nota que são duas formas de trabalhar com forma sincronia.
+
+157
+00:07:59,079 --> 00:08:03,838
+Aqui eu tô usando eventos, quando acontecer o evento,
+
+158
+00:08:03,850 --> 00:08:07,670
+aquela coisa vai iniciar tá aí é a ligação por
+
+159
+00:08:07,678 --> 00:08:12,569
+evento aqui eu tô relacionando a cabe Então são duas
+
+160
+00:08:12,579 --> 00:08:14,088
+formas, mas fazem a mesma coisa.
+
+161
+00:08:14,100 --> 00:08:17,040
+Aquele primeiro ele vai ter um evento registrado.
+
+162
+00:08:17,048 --> 00:08:20,108
+Quando tiver aquele evento ele vai iniciar aquela execução,
+
+163
+00:08:20,709 --> 00:08:22,358
+né? Então ele primeiro a cada vez que tiver
+
+164
+00:08:22,369 --> 00:08:25,759
+dados, ele vai acrescentar no buffer e depois quando
+
+165
+00:08:25,769 --> 00:08:27,720
+finalizar, ele fecha o buffer e joga pra P
+
+166
+00:08:27,730 --> 00:08:29,759
+d f e aqui eu tenho uma cabe, né?
+
+167
+00:08:29,769 --> 00:08:33,769
+O que significa que ele vai gerar imagem? Depois
+
+168
+00:08:33,779 --> 00:08:36,139
+de gerar imagem? Ele vai chamar cabe passando a
+
+169
+00:08:36,149 --> 00:08:39,259
+imagem no data, né? Então aqui, se
+
+170
+00:08:39,269 --> 00:08:42,399
+você observar eu tenho aqui o data e eu uso
+
+171
+00:08:42,408 --> 00:08:43,960
+esse data aqui.
+
+172
+00:08:43,969 --> 00:08:47,099
+Oh com isso eu consigo trabalhar com meu q r
+
+173
+00:08:47,109 --> 00:08:47,450
+code.
+
+174
+00:08:47,460 --> 00:08:56,969
+Vamos ver isso funcionando no de ponto g s meus
+
+175
+00:08:56,979 --> 00:09:01,629
+eh os pacotes já estão instalados, né? EH,
+
+176
+00:09:05,830 --> 00:09:08,219
+ela falou que tá com a dri, use por
+
+177
+00:09:08,229 --> 00:09:09,639
+quê? Porque eu tenho um outro cara rodando no
+
+178
+00:09:09,649 --> 00:09:10,899
+mesmo endereço, sem problema.
+
+179
+00:09:12,330 --> 00:09:19,750
+Isso é uma das coisas mais fáceis de resolver quando
+
+180
+00:09:19,759 --> 00:09:25,710
+você tem um ten aqui é só mudar o endereço
+
+181
+00:09:25,719 --> 00:09:32,739
+até eu descobrir quem é que tá rodando hã Okay
+
+182
+00:09:35,969 --> 00:09:42,538
+salvei isso porque eu teria um outro exemplo que estaria
+
+183
+00:09:42,548 --> 00:09:44,580
+eh rodando ali em outro lugar.
+
+184
+00:09:44,590 --> 00:09:51,580
+Tá? Ah aqui com e emissão de eventos vou
+
+185
+00:09:51,590 --> 00:10:01,168
+acessar três três zero zero barra q r code e
+
+186
+00:10:01,178 --> 00:10:04,739
+tá lá meu q r code oh esse q r
+
+187
+00:10:04,750 --> 00:10:06,769
+code Se você fotografar, ele vai jogar lá no
+
+188
+00:10:06,779 --> 00:10:10,379
+google E como é interessante do Q r code é
+
+189
+00:10:10,389 --> 00:10:12,690
+que ele também jo-.
+
+190
+00:10:12,700 --> 00:10:16,048
+Ele jogou pra cá qual seria o que ele gerou?
+
+191
+00:10:16,058 --> 00:10:18,239
+Na verdade ele gerou aqui um s v g Eu
+
+192
+00:10:18,250 --> 00:10:21,099
+joguei no console o código do Q R code que
+
+193
+00:10:21,109 --> 00:10:21,700
+ele joga.
+
+194
+00:10:21,710 --> 00:10:24,158
+Ele vai gerar ali pra poder colocar no h t
+
+195
+00:10:24,168 --> 00:10:26,000
+ML é isso aqui que ele coloca no h t
+
+196
+00:10:26,009 --> 00:10:29,178
+ML é um S v g um cara boto grac
+
+197
+00:10:29,190 --> 00:10:32,879
+que dá o formato do meu q r code okay
+
+198
+00:10:35,989 --> 00:10:42,509
+Bom, então essas são algumas bibliotecas importantes sempre que
+
+199
+00:10:42,519 --> 00:10:44,529
+você tiver uma biblioteca nova de da O n PM
+
+200
+00:10:44,538 --> 00:10:47,048
+estatal se não quiser usar mais ela no projeto n
+
+201
+00:10:47,058 --> 00:10:48,969
+PM atal nada manual.
+
+202
+00:10:48,979 --> 00:10:53,288
+Sempre pelos comandos pra eu poder manter o jason organizado,
+
+203
+00:10:53,298 --> 00:10:56,250
+né? E você pode observar o poder que nós
+
+204
+00:10:56,259 --> 00:10:59,969
+temos com o uso de módulos dentro do ambiente do
+
+205
+00:10:59,979 --> 00:11:00,219
+JS.
+
+206
+00:11:00,229 --> 00:11:01,969
+A gente fica então por aqui.
+
+207
+00:11:01,979 --> 00:11:05,129
+Espero ter agregado conhecimento, bons estudos e até a
+
+208
+00:11:05,139 --> 00:11:05,509
+próxima
+

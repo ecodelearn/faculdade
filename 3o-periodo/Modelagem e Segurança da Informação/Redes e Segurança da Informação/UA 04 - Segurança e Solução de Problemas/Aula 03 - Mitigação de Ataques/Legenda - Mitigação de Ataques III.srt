@@ -1,0 +1,1024 @@
+1
+00:00:05,900 --> 00:00:08,829
+Olá, aluno! Seja muito bemvindo Fabrício Melo vamos
+
+2
+00:00:08,839 --> 00:00:10,948
+continuar com a nossa aula de segurança e informação.
+
+3
+00:00:10,960 --> 00:00:14,310
+Estamos trabalhando com a medicação de ataques e agora é
+
+4
+00:00:14,319 --> 00:00:17,829
+a vez da gente trabalhar oh com a criptografia cripto
+
+5
+00:00:17,839 --> 00:00:21,519
+tecnologia e a cripton o que que são esses termos?
+
+6
+00:00:21,530 --> 00:00:25,109
+Onde aplicar esses termos? Como são aplicados esses termos?
+
+7
+00:00:25,120 --> 00:00:27,010
+Então vem comigo aqui.
+
+8
+00:00:27,019 --> 00:00:30,030
+Olha, a criptografia vem do grego cripto, né
+
+9
+00:00:30,039 --> 00:00:34,090
+escondido, oculto, mas grafo que é escrita,
+
+10
+00:00:34,408 --> 00:00:37,700
+então a criptografia nada mais é aluno que você transformar
+
+11
+00:00:37,709 --> 00:00:42,658
+um texto legível, um texto que eu consiga ler
+
+12
+00:00:42,668 --> 00:00:46,469
+em um código que vai ser ilegível, que eu
+
+13
+00:00:46,478 --> 00:00:48,539
+não vou conseguir ler tá vendo oh, Então você
+
+14
+00:00:48,548 --> 00:00:52,340
+tem um texto claro em um texto cifrado? E
+
+15
+00:00:52,348 --> 00:00:56,139
+qual é o objetivo da criptografia? Garantir a minha
+
+16
+00:00:56,149 --> 00:01:01,649
+confidencialidade? Okay A confidencialidade é o pilar da segurança
+
+17
+00:01:01,658 --> 00:01:05,849
+da informação que garante que pessoas não autorizadas não consigam
+
+18
+00:01:05,859 --> 00:01:07,888
+acessar um documento.
+
+19
+00:01:07,900 --> 00:01:10,549
+Então, se eu não consigo acessar, ver uma
+
+20
+00:01:10,558 --> 00:01:14,290
+informação, quer dizer que aquele documento é confidencial E
+
+21
+00:01:14,299 --> 00:01:17,010
+esse é o grande objetivo aí da dessa criptografia aí
+
+22
+00:01:17,019 --> 00:01:19,109
+né? O que que é a cripto Oh?
+
+23
+00:01:19,120 --> 00:01:22,739
+É a ciência que estuda os textos cifrados, buscando
+
+24
+00:01:22,750 --> 00:01:26,698
+a sua decomposição ou seja você tentar quebrar a criptografia,
+
+25
+00:01:26,709 --> 00:01:29,338
+você tá usando a cripto analise.
+
+26
+00:01:29,349 --> 00:01:32,058
+Tá e podemos definir Oh a cripto tecnologia, como
+
+27
+00:01:32,069 --> 00:01:35,250
+a ciência que estuda os processos e os algoritmos de
+
+28
+00:01:35,260 --> 00:01:38,299
+criptografia e cripto annalise? Então já é a ciência
+
+29
+00:01:38,308 --> 00:01:41,189
+que vai estudar aí, apesar do objetivo principal ser
+
+30
+00:01:41,198 --> 00:01:42,439
+a confidencialidade dos dados.
+
+31
+00:01:42,448 --> 00:01:46,448
+Oh, você tem aí outros tipos de criptografia,
+
+32
+00:01:46,459 --> 00:01:50,250
+Tá vendo oh técnicas, outros algoritmos que podem garantir
+
+33
+00:01:50,260 --> 00:01:53,129
+a integridade e autenticidade? Temos, por exemplo,
+
+34
+00:01:53,138 --> 00:01:55,409
+é a função SH que a gente vai estudar,
+
+35
+00:01:55,418 --> 00:01:58,930
+que é uma função que vai conseguir aí dar esses
+
+36
+00:01:58,939 --> 00:02:02,129
+outros princípios aí pra você Okay, olha lá,
+
+37
+00:02:02,138 --> 00:02:04,400
+vamos falar sobre a integridade justamente com o Shel.
+
+38
+00:02:04,409 --> 00:02:07,448
+Tá vendo essa criptografia que a gente chama de SH
+
+39
+00:02:07,459 --> 00:02:10,050
+o resumo de SH Ele vai ser o resultado de
+
+40
+00:02:10,058 --> 00:02:14,389
+uma função matemática lateral, que que é isso?
+
+41
+00:02:14,729 --> 00:02:17,699
+Ela não pode ser revertida e ela vai produzir um
+
+42
+00:02:17,710 --> 00:02:21,520
+valor único de tamanho fixo pra cada entrada de texto.
+
+43
+00:02:21,528 --> 00:02:22,618
+Não interessa o tamanho de texto.
+
+44
+00:02:22,629 --> 00:02:25,758
+Você pode ter um texto com mil caracteres e eu
+
+45
+00:02:25,770 --> 00:02:28,899
+posso ter um texto com dez caracteres a eh A
+
+46
+00:02:28,909 --> 00:02:31,179
+entrada vai variar, tá vendo Oh! Só que
+
+47
+00:02:31,189 --> 00:02:34,278
+ele vai produzir um valor único.
+
+48
+00:02:34,288 --> 00:02:38,258
+Quando entrar esse texto e através dessa produção aí de
+
+49
+00:02:38,270 --> 00:02:40,899
+valor único, em cima de um texto gera-se um
+
+50
+00:02:40,909 --> 00:02:45,830
+resumo chamado resumo de E esse resumo consegue garantir uma
+
+51
+00:02:45,838 --> 00:02:47,159
+integridade dos dados.
+
+52
+00:02:47,169 --> 00:02:49,599
+O que que acontece? Se alguém interceptar um dado
+
+53
+00:02:49,610 --> 00:02:53,659
+que está com o aplicado e ele alterar uma vírgula?
+
+54
+00:02:53,669 --> 00:02:58,038
+Quando chegar essa informação lá no destino, a pessoa
+
+55
+00:02:58,050 --> 00:03:01,308
+consegue descobrir que a informação foi alterada.
+
+56
+00:03:01,319 --> 00:03:04,599
+Então tá vendo que essa criptografia, o SH já
+
+57
+00:03:04,610 --> 00:03:06,419
+é usada para a integridade.
+
+58
+00:03:06,429 --> 00:03:07,879
+Oh lá, oh, tá vendo oh, cê
+
+59
+00:03:07,889 --> 00:03:09,300
+tem aqui a origem tá vendo aí, oh,
+
+60
+00:03:09,308 --> 00:03:13,399
+aí você tem um texto de comprimento arbitrário, aí
+
+61
+00:03:13,409 --> 00:03:17,300
+entra a função o valor tá vendo oh o texto!
+
+62
+00:03:17,308 --> 00:03:21,038
+A função SH transforma, associa o texto em um
+
+63
+00:03:21,050 --> 00:03:25,699
+código e esse código vai com a mensagem de texto
+
+64
+00:03:25,710 --> 00:03:28,179
+claro! Tá? É aí que tá pegadinha!
+
+65
+00:03:28,189 --> 00:03:31,569
+O texto em si não tá criptografado, Por isso
+
+66
+00:03:31,580 --> 00:03:33,520
+que esse aqui não dá.
+
+67
+00:03:33,528 --> 00:03:37,538
+Ah, a confidencialidade da integridade Quem tá criptografado é
+
+68
+00:03:37,550 --> 00:03:38,338
+o código de St.
+
+69
+00:03:38,349 --> 00:03:41,258
+Que foi gerado aí o que acontece quando chega no
+
+70
+00:03:41,270 --> 00:03:44,699
+destino? Lá ele pega o código, mais a
+
+71
+00:03:44,710 --> 00:03:46,960
+mensagem do texto, claro, oh lá, e
+
+72
+00:03:46,969 --> 00:03:51,139
+faz o inverso, chegandoà conclusão o seguinte que
+
+73
+00:03:51,149 --> 00:03:55,199
+o código que saiu oh é o mesmo que chegou,
+
+74
+00:03:55,520 --> 00:04:00,729
+então eu garanti o quê a integridade dessa desse texto
+
+75
+00:04:00,740 --> 00:04:03,830
+dessa informação? Porque se eu tenho um texto que
+
+76
+00:04:03,838 --> 00:04:07,210
+entrou x e gerou na saída um código fixo de
+
+77
+00:04:07,219 --> 00:04:11,250
+lá no destino, esse código tem que tá associado
+
+78
+00:04:11,258 --> 00:04:14,889
+ao mesmo texto, mexeu numa vírgula, perdeu a
+
+79
+00:04:14,899 --> 00:04:18,024
+integridade, tá aí nós temos aí os algoritmos q
+
+80
+00:04:18,035 --> 00:04:19,744
+MD cinco cento e vinte e oito bits, que
+
+81
+00:04:19,754 --> 00:04:22,064
+é o s h zero um s h zero dois
+
+82
+00:04:22,074 --> 00:04:26,463
+s h três que são aí alguns algoritmos conhecidos de
+
+83
+00:04:26,475 --> 00:04:29,903
+shh tá e temos também o sh na autenticação de
+
+84
+00:04:29,915 --> 00:04:33,345
+origem lá, gerando uma autenticação que é o famoso
+
+85
+00:04:33,355 --> 00:04:35,744
+h m a c tá vendo lá oh como é
+
+86
+00:04:35,754 --> 00:04:39,264
+que funciona aqui? Você tem dados recebidos, Cê
+
+87
+00:04:39,274 --> 00:04:41,225
+vai pra pagar, por exemplo, você é muito
+
+88
+00:04:41,233 --> 00:04:46,410
+usado na no bitcoin pra você fazer aquela espécie lá
+
+89
+00:04:46,420 --> 00:04:48,970
+do cha tá vendo oh, aí você tem uma
+
+90
+00:04:48,980 --> 00:04:51,290
+chave secreta que vai gerar uma função.
+
+91
+00:04:51,298 --> 00:04:55,048
+Tá vendo oh aí cê tem uma impressão digital autenticada
+
+92
+00:04:55,059 --> 00:04:56,809
+com a sua chave secreta.
+
+93
+00:04:56,819 --> 00:04:58,769
+Tá vendo aí se o h M a ser gerado
+
+94
+00:04:58,778 --> 00:05:02,569
+for compatível com o h MC enviado a integridade e
+
+95
+00:05:02,579 --> 00:05:06,850
+autenticidade foram verificadas se não forem incompatíveis, vai descartar
+
+96
+00:05:06,858 --> 00:05:08,509
+aí tá vendo oh aí lá o que que vai
+
+97
+00:05:08,519 --> 00:05:12,009
+acontecer? Ele vai fazer o pagamento, vai ter
+
+98
+00:05:12,019 --> 00:05:15,220
+a chave secreta Lá ele vai ter a impressão digital
+
+99
+00:05:15,230 --> 00:05:19,500
+autenticada e ele faz oh o pagamento, né?
+
+100
+00:05:19,509 --> 00:05:20,389
+Com a pessoa.
+
+101
+00:05:20,399 --> 00:05:23,100
+Então, quando a gente faz uma transação, aí,
+
+102
+00:05:23,108 --> 00:05:26,699
+por exemplo, eh em criptomoeda.
+
+103
+00:05:26,709 --> 00:05:29,769
+Você vai ter essa utilização disso que é um sh
+
+104
+00:05:29,778 --> 00:05:31,899
+que vai te dar autenticação, Ou seja, você
+
+105
+00:05:31,910 --> 00:05:36,290
+assina ali com a sua chave secreta, né?
+
+106
+00:05:36,298 --> 00:05:41,709
+Pra garantir justamente na no destino o recebimento dessa pessoa
+
+107
+00:05:41,720 --> 00:05:44,290
+e saber que foi você de fato que né?
+
+108
+00:05:44,298 --> 00:05:47,290
+Fez o pagamento? Tá vendo? Então existe essa
+
+109
+00:05:47,298 --> 00:05:49,569
+autenticação aí que é o h m a c tá
+
+110
+00:05:49,579 --> 00:05:52,329
+vendo oh para se combinar tá vendo na autenticação de
+
+111
+00:05:52,338 --> 00:05:55,660
+origem e garantia de integridade os dois Oh, você
+
+112
+00:05:55,670 --> 00:05:58,939
+vai usar um código de autenticação de mensagem com chave
+
+113
+00:05:58,949 --> 00:06:02,259
+h m a C Cê vai juntar que consiste uma
+
+114
+00:06:02,269 --> 00:06:05,059
+chave secreta adicional como entrada da função de SHH,
+
+115
+00:06:05,069 --> 00:06:08,519
+Então você já passa, né? A usar esse
+
+116
+00:06:08,528 --> 00:06:11,660
+sistema de chave secreta de chave que você só você
+
+117
+00:06:11,670 --> 00:06:14,259
+tem pra poder garantir a autenticidade.
+
+118
+00:06:14,269 --> 00:06:17,939
+Além da integridade que o SH conseguiu gerar, como
+
+119
+00:06:17,949 --> 00:06:21,199
+a gente viu perfeito, e a outra criptografia que
+
+120
+00:06:21,209 --> 00:06:24,000
+nós temos é a criptografia tradicional aí que gera a
+
+121
+00:06:24,009 --> 00:06:25,199
+confidencialidade.
+
+122
+00:06:25,209 --> 00:06:28,459
+E o primeiro exemplo é a criptografia Simétrica, né?
+
+123
+00:06:28,470 --> 00:06:31,600
+Como é que funciona a criptografia simétrica? Cê pega
+
+124
+00:06:31,608 --> 00:06:34,720
+esse s aqui, oh e tenta entender que é
+
+125
+00:06:34,730 --> 00:06:37,319
+uma criptografia de uma chave só.
+
+126
+00:06:37,329 --> 00:06:40,600
+E essa chave é uma chave privada aluno.
+
+127
+00:06:40,608 --> 00:06:43,088
+Então, como é que funciona essa criptografia? OH,
+
+128
+00:06:43,100 --> 00:06:49,139
+o remetente vai mandar uma mensagem para um destinatário certo?
+
+129
+00:06:49,959 --> 00:06:52,889
+Qualquer um dos dois gera a a chave.
+
+130
+00:06:52,899 --> 00:06:55,250
+Ela é chamada de chave privada e essa chave é
+
+131
+00:06:55,259 --> 00:06:58,528
+compartilhada entre os dois compartilhada em remetente e destinatário.
+
+132
+00:06:58,540 --> 00:07:00,619
+Tá, os dois têm conhecimento, só que tem
+
+133
+00:07:00,629 --> 00:07:03,189
+que ser compartilhado dentro de um ambiente seguro.
+
+134
+00:07:03,199 --> 00:07:05,309
+Essa chave não pode vazar de jeito nenhum.
+
+135
+00:07:05,319 --> 00:07:07,069
+Tá vendo? Ela é pré compartilhada.
+
+136
+00:07:07,588 --> 00:07:10,079
+Aí usa-se essa chave privada.
+
+137
+00:07:10,088 --> 00:07:12,678
+Pra criptografar, pode ver que o texto tá todo
+
+138
+00:07:12,689 --> 00:07:16,040
+cifrado e, quando o destinatário receber, ele usa
+
+139
+00:07:16,048 --> 00:07:19,600
+a mesma chave que foi compartilhada com ele.
+
+140
+00:07:19,608 --> 00:07:23,459
+Pra ele, poder des criptografar e a mensagem aparece
+
+141
+00:07:23,798 --> 00:07:26,569
+É uma grafia aí, mais simples, né?
+
+142
+00:07:26,579 --> 00:07:29,170
+Porém, a chave não pode fazer de jeito nenhum
+
+143
+00:07:29,178 --> 00:07:30,369
+que é uma chave só.
+
+144
+00:07:30,379 --> 00:07:33,389
+Tá aqui os algoritmos de três d a S e
+
+145
+00:07:33,399 --> 00:07:35,129
+o C O? E o que que é?
+
+146
+00:07:35,139 --> 00:07:38,160
+Uma criptografia assimétrica? Pega essa mãe aqui? Oh
+
+147
+00:07:38,170 --> 00:07:43,928
+dois ss Cê vai trabalhar com duas chaves e essas
+
+148
+00:07:43,939 --> 00:07:48,480
+chaves é uma pública e a outra privada aí?
+
+149
+00:07:48,488 --> 00:07:51,579
+Como é que já funciona aí? Oh essas chaves
+
+150
+00:07:51,588 --> 00:07:54,579
+já são do destinatário, o cara que vai receber
+
+151
+00:07:54,588 --> 00:07:57,059
+aqui? Oh Como é que funciona o destinatário?
+
+152
+00:07:57,069 --> 00:08:01,298
+Vai gerar uma chave chamada pública E ele vai publicar
+
+153
+00:08:01,309 --> 00:08:03,480
+ela galera Tá aí minha chave pública! Quem quiser
+
+154
+00:08:03,488 --> 00:08:07,220
+acesso tá aí! O remetente vai pegar o texto
+
+155
+00:08:07,230 --> 00:08:12,088
+claro e vai usar essa chave pública pra criptografar o
+
+156
+00:08:12,100 --> 00:08:12,569
+texto.
+
+157
+00:08:13,369 --> 00:08:16,259
+Criptografa oh, lá, o texto tá criptografado.
+
+158
+00:08:16,269 --> 00:08:20,619
+Quando chegar ao destinatário, o texto, o destinatário
+
+159
+00:08:20,629 --> 00:08:24,778
+vai usar uma chave privada pra descrito grafar que é
+
+160
+00:08:24,790 --> 00:08:26,329
+uma chave que só ele tem.
+
+161
+00:08:26,338 --> 00:08:28,500
+O remetente já não tem conhecimento, o remetente tem
+
+162
+00:08:28,509 --> 00:08:30,759
+conhecimento da pública.
+
+163
+00:08:30,769 --> 00:08:34,019
+A privada é de conhecimento só do destinatário.
+
+164
+00:08:34,029 --> 00:08:36,399
+Então esse é um processo mais complexo, mais demorado.
+
+165
+00:08:36,408 --> 00:08:38,399
+Mas é mais seguro, né? Aqui estão os
+
+166
+00:08:38,408 --> 00:08:42,279
+algoritmos aí que nós utilizamos tá quando a gente vai
+
+167
+00:08:42,288 --> 00:08:45,000
+ofertar a criptografia a si mesmo, tá vendo um
+
+168
+00:08:45,009 --> 00:08:45,908
+exemplo aí do DF.
+
+169
+00:08:45,918 --> 00:08:48,479
+Hellmann é a ideia da das cores.
+
+170
+00:08:48,489 --> 00:08:51,399
+Tá vendo lá? Alice concordou em cores com o
+
+171
+00:08:51,408 --> 00:08:56,690
+Bob Alice Tem uma cor secreta e o Bob aqui
+
+172
+00:08:56,700 --> 00:09:00,330
+também vai ter? Tá vendo aí oh, vai
+
+173
+00:09:00,340 --> 00:09:04,729
+gerar a cor pública da Alice e cor pública de
+
+174
+00:09:04,739 --> 00:09:05,029
+Bob.
+
+175
+00:09:05,038 --> 00:09:07,668
+Tá vendo Oh, Oh, que interessante aí oh!
+
+176
+00:09:07,678 --> 00:09:10,279
+A cor pública de Alice passa pra boba! E
+
+177
+00:09:10,288 --> 00:09:12,269
+a cor pública de Bope passa pra Alice.
+
+178
+00:09:12,719 --> 00:09:15,048
+Aí soma a cor pública de Bob com a cor
+
+179
+00:09:15,058 --> 00:09:17,009
+secreta de Alice.
+
+180
+00:09:17,019 --> 00:09:20,048
+Tem uma cor final de Alice e quando soma a
+
+181
+00:09:20,058 --> 00:09:22,769
+cor final de Alice com a cor privada do Bob
+
+182
+00:09:22,779 --> 00:09:24,529
+gera a cor final de Bob.
+
+183
+00:09:24,538 --> 00:09:27,168
+Então é uma! É uma! Eles gostam de
+
+184
+00:09:27,178 --> 00:09:30,889
+fazer essa comparação aí de cores pra você entender como
+
+185
+00:09:30,899 --> 00:09:32,830
+é que é feita a combinação, né? Da
+
+186
+00:09:32,840 --> 00:09:35,678
+troca aí quando usa esse tipo de algoritmo, aí
+
+187
+00:09:35,690 --> 00:09:38,009
+aí você pode ver que sempre tem que bater a
+
+188
+00:09:38,019 --> 00:09:39,090
+mesma cor no final.
+
+189
+00:09:39,099 --> 00:09:42,889
+Tá vendo só uma comparação pra você entender melhor esse
+
+190
+00:09:42,899 --> 00:09:46,969
+algoritmo aqui tem uma tabela comparando criptografia simétrica simétrica Tá
+
+191
+00:09:46,979 --> 00:09:50,119
+vendo oh! Usa uma chave para criptografar e descrito
+
+192
+00:09:50,129 --> 00:09:55,440
+grafar a simétrica usa duas sim o cumprimento das chaves
+
+193
+00:09:55,450 --> 00:09:59,038
+são menores cumprimento chaves assim são maiores, é mais
+
+194
+00:09:59,048 --> 00:10:02,359
+complexo, é mais rápida, exige menos recursos computacionais.
+
+195
+00:10:02,369 --> 00:10:06,200
+A assimétrica é mais lenta e exige mais recursos computacionais,
+
+196
+00:10:06,210 --> 00:10:09,119
+então é usado geralmente prato de dados em massa exemplo
+
+197
+00:10:09,129 --> 00:10:12,500
+a VPN e geralmente usaram transações mais rápidas.
+
+198
+00:10:12,509 --> 00:10:16,840
+Exemplo O t L s, né é utilizado aí
+
+199
+00:10:16,849 --> 00:10:20,629
+sistemas de duas chaves tá tem uma tabelinha comparativa aí
+
+200
+00:10:20,639 --> 00:10:23,500
+e aí nós temos uma citação do ross Oh lá
+
+201
+00:10:23,509 --> 00:10:26,840
+todos os algoritmos criptográficos envolvem a subs gestão de um
+
+202
+00:10:26,849 --> 00:10:30,048
+dado por outro como tomar um trecho de um texto
+
+203
+00:10:30,058 --> 00:10:33,529
+aberto, então calculando substi esse texto por outro cifrado
+
+204
+00:10:33,538 --> 00:10:37,359
+apropriado Cê cria uma mensagem cifrada Tá? Tá aí
+
+205
+00:10:37,369 --> 00:10:40,918
+no livro dele uma excelente citação e vamos treinar só
+
+206
+00:10:40,928 --> 00:10:44,639
+pra você ver como é que funciona essas criptografia?
+
+207
+00:10:44,649 --> 00:10:49,119
+Olha lá, a criptografia provê métodos de disfarçar informações,
+
+208
+00:10:49,129 --> 00:10:54,460
+né? A criptografia de chave pública Ela é simétrica
+
+209
+00:10:54,798 --> 00:10:57,928
+quando envolve a utilização de duas chaves separadas nas qual
+
+210
+00:10:57,940 --> 00:11:01,779
+relacionadas Oh lá um s só é uma chave dois
+
+211
+00:11:01,788 --> 00:11:02,750
+s duas chaves.
+
+212
+00:11:02,759 --> 00:11:04,928
+Então isso aqui tá errado.
+
+213
+00:11:04,940 --> 00:11:08,489
+Isso aqui teria que ser uma criptografia a simétrica,
+
+214
+00:11:08,500 --> 00:11:11,889
+e ele falou de pública pública é sempre a simétrica
+
+215
+00:11:11,899 --> 00:11:15,450
+olha dois considera o esquema baixo trata-se de uma hipotética
+
+216
+00:11:15,460 --> 00:11:17,889
+comunicação criptografada entre o computador de um juiz e um
+
+217
+00:11:17,899 --> 00:11:20,330
+computador R f quatro Alô, olha como é que
+
+218
+00:11:20,340 --> 00:11:23,629
+a gente interpreta que a gente aprendeu? Oh juiz,
+
+219
+00:11:23,639 --> 00:11:26,869
+tem um texto claro e aqui você pode ver que
+
+220
+00:11:26,879 --> 00:11:28,129
+tem uma chave.
+
+221
+00:11:29,288 --> 00:11:32,058
+Tá no singular cara, Cê tá no singular essa
+
+222
+00:11:32,070 --> 00:11:33,479
+chave que é a privada.
+
+223
+00:11:35,158 --> 00:11:37,700
+Aí ele usou essa chave no processo um e o
+
+224
+00:11:37,710 --> 00:11:38,808
+texto foi cifrado.
+
+225
+00:11:38,820 --> 00:11:41,899
+Tá vendo? Aí chegou no processo dois Oh foi
+
+226
+00:11:41,908 --> 00:11:45,940
+usada a mesma chave e o texto foi decifrado lá
+
+227
+00:11:45,950 --> 00:11:47,158
+no T R f quatro.
+
+228
+00:11:47,168 --> 00:11:51,658
+Aí ele quer saber o seguinte O os textos chave
+
+229
+00:11:51,668 --> 00:11:54,418
+processo em processo dois, bem como a categoria de
+
+230
+00:11:54,428 --> 00:11:58,099
+criptografia apresentadas no esquema representa correta, respectivamente o quê
+
+231
+00:11:58,109 --> 00:12:02,019
+A chave secreta compartilhada sim né! Que é a
+
+232
+00:12:02,029 --> 00:12:05,869
+chave simétrica foi feito uma DETO não é feito uma
+
+233
+00:12:05,879 --> 00:12:11,038
+criptografia primeiro B chave pública não não tem chave pública
+
+234
+00:12:11,048 --> 00:12:16,779
+aqui Letra C Chave secreta compartilhada Foi feita uma criptografia.
+
+235
+00:12:16,788 --> 00:12:20,820
+Foi feito uma criptografia e é uma criptografia de chave
+
+236
+00:12:20,830 --> 00:12:23,700
+simétrica, exatamente aquele processo lá.
+
+237
+00:12:23,710 --> 00:12:26,349
+Isso aí que a letra D a letra e falam
+
+238
+00:12:26,359 --> 00:12:29,178
+de chaves públicas e aquele processo do T R F
+
+239
+00:12:29,190 --> 00:12:32,158
+Ali não tá falando de chaves públicas, Tá?
+
+240
+00:12:32,168 --> 00:12:35,729
+Olha mais uma com zero esquema hipotético, a baixa
+
+241
+00:12:35,739 --> 00:12:38,379
+referenteà comunicação segura estabelecido pelo Tribunal Regional Federal da
+
+242
+00:12:38,389 --> 00:12:39,000
+Quarta região.
+
+243
+00:12:39,009 --> 00:12:40,619
+Oh lá, a ideia é aqui Oh, nós
+
+244
+00:12:40,629 --> 00:12:44,149
+temos o cidadão que tem um texto claro e uma
+
+245
+00:12:44,158 --> 00:12:44,989
+criptografia.
+
+246
+00:12:45,000 --> 00:12:48,649
+Mas olha só a criptografia tá vindo de uma chave
+
+247
+00:12:49,599 --> 00:12:51,889
+pública do T R f quatro Então esse aqui já
+
+248
+00:12:51,899 --> 00:12:57,418
+é um processo que oh oh, oh sim,
+
+249
+00:12:58,119 --> 00:13:02,048
+aí ele cifrou o texto e aqui foi de criptografado.
+
+250
+00:13:02,058 --> 00:13:03,808
+Oh! Com uma chave privada do T R f
+
+251
+00:13:03,820 --> 00:13:06,889
+quatro Tá vendo? E o texto tornou claro novamente
+
+252
+00:13:06,899 --> 00:13:09,729
+pronto, você já tem a amanhã o esquema descreve
+
+253
+00:13:09,739 --> 00:13:12,379
+o quê? Vamos lá.
+
+254
+00:13:12,389 --> 00:13:19,288
+Criptografia de chave simétrica são duas chaves assimétrica, uma
+
+255
+00:13:19,298 --> 00:13:24,129
+chave simetria, tranquilidade, então tá aí grande abraço
+
+256
+00:13:24,139 --> 00:13:25,710
+pra você até a próxima!
+

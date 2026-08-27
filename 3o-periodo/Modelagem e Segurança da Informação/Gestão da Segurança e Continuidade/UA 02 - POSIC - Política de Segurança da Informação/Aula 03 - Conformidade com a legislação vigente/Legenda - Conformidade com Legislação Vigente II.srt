@@ -1,0 +1,476 @@
+1
+00:00:06,448 --> 00:00:09,460
+a gente tá falando sobre a nossa política de segurança
+
+2
+00:00:09,470 --> 00:00:12,859
+da informação e comunicação e ela trabalha, né?
+
+3
+00:00:12,868 --> 00:00:15,698
+A gente tá falando de tecnologia e, como nós
+
+4
+00:00:15,710 --> 00:00:19,138
+sabemos, tecnologia, tem que ter, tem uma
+
+5
+00:00:19,149 --> 00:00:23,158
+evolução constante, uma evolução contínua, e consequentemente a
+
+6
+00:00:23,170 --> 00:00:26,219
+nossa política também tem que entender que ela vai precisar
+
+7
+00:00:26,228 --> 00:00:27,739
+de uma evolução contínua.
+
+8
+00:00:27,750 --> 00:00:30,440
+Então, a gente vai falar hoje sobre e atualização
+
+9
+00:00:30,449 --> 00:00:33,719
+constante dessa política, porque a tecnologia está mudando.
+
+10
+00:00:33,728 --> 00:00:36,439
+A cada segundo, estou falando com você que alguma
+
+11
+00:00:36,450 --> 00:00:37,939
+coisa está mudando a tecnologia.
+
+12
+00:00:37,950 --> 00:00:42,000
+Então nós precisamos nos adaptar as novas tecnologias, as
+
+13
+00:00:42,009 --> 00:00:43,098
+novas evoluções.
+
+14
+00:00:43,109 --> 00:00:46,079
+Então, em um cenário de constante evolução de ameaça
+
+15
+00:00:46,090 --> 00:00:50,319
+cibernética e regulamentações de segurança da informação em todo o
+
+16
+00:00:50,329 --> 00:00:54,500
+mundo, a conformidade é não é uma tarefa estática.
+
+17
+00:00:54,509 --> 00:00:57,418
+Ou seja fixa, né? Mas se o processo
+
+18
+00:00:57,429 --> 00:01:04,338
+dinâmico mantenha se atualizado e adaptadoàs mudanças nas regulamentações
+
+19
+00:01:04,349 --> 00:01:07,338
+e nas melhores práticas e seguranças, é um desafio
+
+20
+00:01:07,349 --> 00:01:08,719
+constante para a organização.
+
+21
+00:01:09,000 --> 00:01:13,010
+Esse tópico abordará a importância da atualização constante da nossa
+
+22
+00:01:13,019 --> 00:01:17,799
+política e fornecerá dicas práticas sobre como a organização pode
+
+23
+00:01:17,808 --> 00:01:19,370
+se manter em conformidade.
+
+24
+00:01:19,379 --> 00:01:24,528
+Isso inclui acompanhar as mudanças regulatórias, realizar revisões periódicas
+
+25
+00:01:24,540 --> 00:01:28,709
+da política e implementar programas de treinamento contínuo.
+
+26
+00:01:30,388 --> 00:01:35,010
+A revisão periódica da política tá é essencial para garantir
+
+27
+00:01:35,019 --> 00:01:38,198
+que as práticas de segurança e de forma né?
+
+28
+00:01:38,209 --> 00:01:42,620
+Práticas de segurança estejam alinhadas com as ameaças atuais?
+
+29
+00:01:42,629 --> 00:01:46,088
+Gente, as ameaças estão mudando diariamente.
+
+30
+00:01:46,099 --> 00:01:48,760
+Se você vê todo dia, o seu antivírus está
+
+31
+00:01:48,769 --> 00:01:52,879
+sendo atualizado com novas, com novas formas de de
+
+32
+00:01:52,888 --> 00:01:55,959
+de de afastar possíveis invasores.
+
+33
+00:01:55,969 --> 00:01:58,439
+Ou seja, a nossa política não é um documento
+
+34
+00:01:58,448 --> 00:02:00,620
+estático, você precisa entender que é um documento dinâmico,
+
+35
+00:02:00,629 --> 00:02:04,500
+você vai precisar fazer revisões e mudar conforme a necessidade.
+
+36
+00:02:04,510 --> 00:02:06,918
+Então a gente precisa o que estabelecer um cronograma de
+
+37
+00:02:06,930 --> 00:02:10,919
+revisão, definir um calendário para as revisões regulares da
+
+38
+00:02:10,929 --> 00:02:11,719
+política.
+
+39
+00:02:11,729 --> 00:02:14,000
+Isso pode ser anual ou semestral, ou de acordo
+
+40
+00:02:14,008 --> 00:02:21,629
+com a frequência das mudanças regulatórias relevantes envolva diversos departamentos.
+
+41
+00:02:21,639 --> 00:02:25,830
+Ao realizar reuni revisões, envolva e envolva membros de
+
+42
+00:02:25,838 --> 00:02:28,830
+diversas de diferentes departamentos da organização.
+
+43
+00:02:28,838 --> 00:02:32,308
+Isso garante que a política leve em consideração as necessidades
+
+44
+00:02:32,319 --> 00:02:33,929
+e desafios específicos de cada área.
+
+45
+00:02:33,939 --> 00:02:37,389
+Não é somente a área de T I, nós
+
+46
+00:02:37,399 --> 00:02:41,110
+precisamos ter envolvimento de todos jurídico administrativo.
+
+47
+00:02:41,118 --> 00:02:44,379
+R h, Você precisa colocar todo mundo na mesa.
+
+48
+00:02:44,389 --> 00:02:46,229
+Quando a gente vai falar sobre política de segurança da
+
+49
+00:02:46,240 --> 00:02:49,969
+informação, mantenha o registro de alteração, isso como
+
+50
+00:02:49,979 --> 00:02:50,849
+qualquer documento.
+
+51
+00:02:50,860 --> 00:02:51,689
+Isso é padrão.
+
+52
+00:02:51,699 --> 00:02:55,169
+Isso é melhores práticas? Se você tem um documento
+
+53
+00:02:55,179 --> 00:02:58,288
+oficial, esse documento tem que ter um quadrante lá,
+
+54
+00:02:58,300 --> 00:03:01,460
+que mostra quem foi que foi a última revisão.
+
+55
+00:03:01,469 --> 00:03:03,409
+Como é que foi? Quem foi atualizado? Então
+
+56
+00:03:03,419 --> 00:03:06,808
+precisa ter isso precisa ter um histórico dessa dessa dessa
+
+57
+00:03:06,819 --> 00:03:07,360
+alterações.
+
+58
+00:03:07,368 --> 00:03:10,929
+Então mantenha o registro de todas as mudanças feitas na
+
+59
+00:03:10,939 --> 00:03:13,588
+política de segurança de informação e comunicação.
+
+60
+00:03:13,939 --> 00:03:17,469
+Isso é importante para rastrear e documentar as atualizações ao
+
+61
+00:03:17,479 --> 00:03:18,610
+longo do tempo.
+
+62
+00:03:20,050 --> 00:03:24,288
+O papo pra um aqui Ah, é isso,
+
+63
+00:03:25,000 --> 00:03:27,330
+treinamento a gente precisa de treinamento.
+
+64
+00:03:27,338 --> 00:03:28,409
+Quando a gente tá falando de treinamento, a gente
+
+65
+00:03:28,419 --> 00:03:31,288
+tá falando de pessoas, nós precisamos treinar as pessoas,
+
+66
+00:03:31,300 --> 00:03:33,588
+então o treinamento tem que ser um treinamento contínuo.
+
+67
+00:03:33,599 --> 00:03:36,050
+E eh Ele é É fundamental, tá? Se
+
+68
+00:03:36,058 --> 00:03:40,008
+você treinar as pessoas continuamente é fundamental pra que você
+
+69
+00:03:40,020 --> 00:03:42,939
+possa trabalhar da sua organização.
+
+70
+00:03:42,949 --> 00:03:46,919
+Então, crie módulos de treinamento desenvolva modo de treinamento
+
+71
+00:03:46,929 --> 00:03:51,569
+específico que aborda as mudanças regulatórias e atualizações da política
+
+72
+00:03:51,580 --> 00:03:52,528
+de segurança da informação.
+
+73
+00:03:52,538 --> 00:03:56,639
+Esses módulo, esses módulos podem ser disponibilizados online para
+
+74
+00:03:56,649 --> 00:03:58,080
+afastar o acesso.
+
+75
+00:03:58,088 --> 00:03:59,879
+Por que que é legal quando você coloca online,
+
+76
+00:03:59,889 --> 00:04:03,028
+porque,às vezes tem novos cenários entrando dentro da
+
+77
+00:04:03,038 --> 00:04:03,580
+organização.
+
+78
+00:04:03,588 --> 00:04:06,379
+Então, lá naquele programa de que você faz.
+
+79
+00:04:06,389 --> 00:04:09,618
+Você já coloca lá os vídeos da política, as
+
+80
+00:04:09,629 --> 00:04:10,868
+atualizações que tiveram.
+
+81
+00:04:10,879 --> 00:04:11,939
+Então é muito importante.
+
+82
+00:04:11,949 --> 00:04:14,580
+Talvez não ser algo gravado e não ser algo ao
+
+83
+00:04:14,588 --> 00:04:14,939
+vivo.
+
+84
+00:04:14,949 --> 00:04:17,019
+Você pode fazer algo gravado, que as as pessoas
+
+85
+00:04:17,028 --> 00:04:20,139
+vão chegar lá e vão acessar e vão a olhar,
+
+86
+00:04:20,149 --> 00:04:23,358
+estudar, fazer o treinamento quando for necessário tá,
+
+87
+00:04:24,829 --> 00:04:24,850
+eh.
+
+88
+00:04:24,858 --> 00:04:27,000
+Tem que ter um treinamentos regulares.
+
+89
+00:04:27,009 --> 00:04:30,040
+Então pro programe, treinamentos regulares para os funcionários em
+
+90
+00:04:30,048 --> 00:04:33,920
+todos os níveis da organização, Inclusive a auto direção
+
+91
+00:04:33,928 --> 00:04:38,399
+tá certifique-se que todos tenham acessoàs informações mais recentes
+
+92
+00:04:38,410 --> 00:04:41,579
+e compreendam as suas responsabilidades em relaçãoà segurança da
+
+93
+00:04:41,588 --> 00:04:42,139
+informação.
+
+94
+00:04:42,600 --> 00:04:45,569
+E, principalmente vamos testar o conhecimento dessa galera,
+
+95
+00:04:45,579 --> 00:04:49,129
+hein? Criar questionário, olha aí oh, realize
+
+96
+00:04:49,139 --> 00:04:52,608
+testes e avaliações para garantir que os funcionários tenham,
+
+97
+00:04:52,619 --> 00:04:55,069
+assimila assimilado as informações.
+
+98
+00:04:55,079 --> 00:04:58,129
+Isso ajuda a identificar áreas que exigem mais atenção e
+
+99
+00:04:58,139 --> 00:04:58,699
+treinamento.
+
+100
+00:04:58,709 --> 00:05:00,149
+Adicional pessoal.
+
+101
+00:05:00,160 --> 00:05:04,149
+Precisamos treinar, treina, A galera treina os funcionários,
+
+102
+00:05:04,160 --> 00:05:07,569
+treina a equipe desde a alta direção até o o
+
+103
+00:05:07,579 --> 00:05:12,875
+estagiário e, principalmente, crie Crie formulários, premiações,
+
+104
+00:05:12,884 --> 00:05:16,634
+Quei fique a situação pra você entender onde você precisa
+
+105
+00:05:16,644 --> 00:05:19,935
+trabalhar, porque se você não começar a a entender
+
+106
+00:05:19,946 --> 00:05:22,915
+as dificuldades, se você não fizer esses testes,
+
+107
+00:05:22,925 --> 00:05:25,795
+esses que você não vai entender os que a que
+
+108
+00:05:25,805 --> 00:05:27,875
+possuem dentro da sua empresa vai ter mais.
+
+109
+00:05:27,884 --> 00:05:29,596
+Você vai ter mais dificuldade pra você? Vai,
+
+110
+00:05:29,605 --> 00:05:30,975
+você pode ter uma visão.
+
+111
+00:05:30,985 --> 00:05:34,334
+E essa visão pode ser totalmente errada da realidade.
+
+112
+00:05:34,411 --> 00:05:36,622
+Lá né no no no na operação.
+
+113
+00:05:36,630 --> 00:05:38,420
+Então, a partir do momento que você treina e
+
+114
+00:05:38,432 --> 00:05:42,492
+faz um teste G você vai começar a ver e
+
+115
+00:05:42,502 --> 00:05:47,480
+você pode fazer novos planos, novas campanhas pra trabalhar
+
+116
+00:05:47,492 --> 00:05:49,062
+aqueles específicos.
+
+117
+00:05:49,071 --> 00:05:52,790
+Então é muito importante você testar o conhecimento da sua
+
+118
+00:05:52,802 --> 00:05:57,600
+organização pra que você consiga criar novos planos de comunicação.
+
+119
+00:05:57,610 --> 00:06:00,242
+Teste A galera tá bom até a próxima aula!
+

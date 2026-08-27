@@ -1,0 +1,888 @@
+1
+00:00:06,559 --> 00:00:10,288
+olá, seja bem-vindo, vamos pra nossa terceira parte
+
+2
+00:00:10,300 --> 00:00:11,648
+do caso prático um.
+
+3
+00:00:11,659 --> 00:00:17,818
+Então, dentro da nossa evolução e construção desse pensamento
+
+4
+00:00:17,829 --> 00:00:20,818
+acerca do processo da venda de um carro é uma
+
+5
+00:00:20,829 --> 00:00:23,958
+concessionária, né? Já falamos que é um processo
+
+6
+00:00:23,969 --> 00:00:27,019
+eh, vamos dizer simplório, não tem nada de
+
+7
+00:00:27,030 --> 00:00:30,500
+detalhe, não tem nada de muita requisição ali dentro
+
+8
+00:00:30,510 --> 00:00:32,819
+a gente colocou uma coisa bem, eh um pouco
+
+9
+00:00:32,829 --> 00:00:36,500
+mais macro nesse caso, sem entrar em muito detalhe
+
+10
+00:00:36,509 --> 00:00:41,179
+de de processo e observando que esse processo também pode
+
+11
+00:00:41,189 --> 00:00:47,228
+variar de eh, concessionária pra concessionária, Não?
+
+12
+00:00:47,240 --> 00:00:49,939
+Se não, necessariamente esse processo se aplica a uma
+
+13
+00:00:49,950 --> 00:00:51,399
+e e e e eh.
+
+14
+00:00:51,408 --> 00:00:54,340
+E também vai se aplicar uma parceira, alguma coisa,
+
+15
+00:00:54,348 --> 00:00:57,439
+Tá só pra pra gente ter muita clareza porque,
+
+16
+00:00:57,450 --> 00:00:58,490
+muitas das vezes.
+
+17
+00:00:58,500 --> 00:01:00,539
+E aí vale um parêntese aqui naquilo que a gente
+
+18
+00:01:00,548 --> 00:01:02,899
+vem falando de gerenciamento, modelagem, processo.
+
+19
+00:01:02,908 --> 00:01:05,418
+Muitas das vezes a gente quer pegar um processo e
+
+20
+00:01:05,430 --> 00:01:09,359
+trazer pra organização e trabalhar ele exatamente como a gente
+
+21
+00:01:09,370 --> 00:01:13,349
+comprou, ele buscou, e não é assim que
+
+22
+00:01:13,359 --> 00:01:15,150
+deve ser feito, né? Eu tenho que avaliar
+
+23
+00:01:15,159 --> 00:01:17,308
+a perspectiva de de, nesse processo, em relação
+
+24
+00:01:17,319 --> 00:01:20,150
+à minha organização, as atividades que eu executo e
+
+25
+00:01:20,159 --> 00:01:22,829
+aí, caso precisar de uma melhoria de um ajuste.
+
+26
+00:01:22,838 --> 00:01:26,219
+Eu farei okay, eu farei! Isso é fundamental
+
+27
+00:01:26,230 --> 00:01:28,829
+que a gente entenda pra que a gente possa vestir
+
+28
+00:01:28,838 --> 00:01:32,180
+o processo exatamente com a cara da nossa organização.
+
+29
+00:01:32,189 --> 00:01:34,969
+Tá, então? Ah, aquilo que a gente
+
+30
+00:01:34,980 --> 00:01:38,010
+vem nesse desdobramento aqui até agora pra esse, pra
+
+31
+00:01:38,019 --> 00:01:41,829
+pra pra demonstração desse fluxo é justamente nessa perspectiva de
+
+32
+00:01:41,838 --> 00:01:45,099
+tentar traduzir aquele processo que a gente mostrou lá no
+
+33
+00:01:45,109 --> 00:01:47,209
+início que a gente definiu eh, por meio de
+
+34
+00:01:47,219 --> 00:01:50,689
+um conjunto de fases, tá sem exaurir essas fases
+
+35
+00:01:50,698 --> 00:01:53,088
+sem entrar em detalhes demais de cada uma das fases,
+
+36
+00:01:53,099 --> 00:01:55,308
+mas simplesmente pra dar uma ideia de como isso,
+
+37
+00:01:55,319 --> 00:01:57,168
+como isso ocorre, Tá bom.
+
+38
+00:01:57,180 --> 00:01:59,930
+Claro que quando você tiver pensando em fazer um isso
+
+39
+00:01:59,939 --> 00:02:03,849
+dentro da sua organização, você vai garantir, vai
+
+40
+00:02:03,859 --> 00:02:07,500
+ter que certificar que e o seu processo está todo
+
+41
+00:02:07,510 --> 00:02:12,179
+descrito, totalmente descrito com todas as suas exceções,
+
+42
+00:02:12,189 --> 00:02:14,460
+com todas as suas particularidades.
+
+43
+00:02:14,469 --> 00:02:19,258
+Todo descrito, tá descrever ali e e a descrição
+
+44
+00:02:19,270 --> 00:02:21,419
+é dentro desse texto mesmo que a gente colocou lá
+
+45
+00:02:21,429 --> 00:02:24,659
+na primeira parte, né? Aquele aquele texto corrido
+
+46
+00:02:24,669 --> 00:02:26,830
+ali, né? Em que a pessoa escreve exatamente
+
+47
+00:02:26,838 --> 00:02:29,771
+como funciona dali, você pode de derivar em uma
+
+48
+00:02:29,782 --> 00:02:33,651
+um um um formulário pra poder retirar as partes e
+
+49
+00:02:33,662 --> 00:02:39,491
+posteriormente representar isso de uma maneira gráfica por meio de
+
+50
+00:02:39,502 --> 00:02:40,651
+notação.
+
+51
+00:02:40,662 --> 00:02:44,733
+Tá observe que eu podia pegar aquele processo e descrever
+
+52
+00:02:44,741 --> 00:02:45,173
+ele.
+
+53
+00:02:45,181 --> 00:02:50,252
+E só a descrição detalhada já garantiria, por exemplo,
+
+54
+00:02:50,263 --> 00:02:53,872
+que aquele processo está documentado e está formalizado.
+
+55
+00:02:53,955 --> 00:02:58,126
+Eu não necessaria Eu não não necessitaria do fluxo ou
+
+56
+00:02:58,135 --> 00:03:02,126
+da anotação pra representar aquele processo que eu descrevi por
+
+57
+00:03:02,135 --> 00:03:02,754
+si só.
+
+58
+00:03:02,765 --> 00:03:07,045
+Quando eu escrevo, ele já representa a verdade da
+
+59
+00:03:07,055 --> 00:03:09,246
+qual eu estou entregando.
+
+60
+00:03:09,254 --> 00:03:13,585
+Estou realizando ponto É isso, tá? É isso?
+
+61
+00:03:13,594 --> 00:03:14,246
+Beleza.
+
+62
+00:03:14,254 --> 00:03:17,045
+E aí é claro, você pode eh se valer
+
+63
+00:03:17,055 --> 00:03:21,219
+de ferramentas pra poder eh, eh usar um um,
+
+64
+00:03:21,229 --> 00:03:23,558
+uma tabela igual eu usei igual, a gente sugeriu
+
+65
+00:03:23,569 --> 00:03:26,159
+aqui pra colocar as fases, você pode pegar isso
+
+66
+00:03:26,169 --> 00:03:28,960
+e colocar na ferramenta tipo o o biza que a
+
+67
+00:03:28,969 --> 00:03:31,118
+gente já viu na no no nosso processo, tá
+
+68
+00:03:31,129 --> 00:03:33,558
+pra representar isso tudo tá Então nós vamos ver na
+
+69
+00:03:33,569 --> 00:03:37,159
+nossa parte três exatamente esse fluxo usando notação, Tá,
+
+70
+00:03:37,169 --> 00:03:39,219
+Vocês vão ficar até um pouco abismado daquilo.
+
+71
+00:03:39,229 --> 00:03:40,778
+Tudo que a gente falou lá, daquele quantidade de
+
+72
+00:03:40,788 --> 00:03:43,020
+fase olha o que sobrou aqui oh, mas vejam
+
+73
+00:03:43,028 --> 00:03:45,939
+que aqui não tem muito assim.
+
+74
+00:03:45,949 --> 00:03:47,508
+Igual eu falei é, é um um pouco mais
+
+75
+00:03:47,520 --> 00:03:51,778
+alto nível e a gente vai observar algumas coisinhas que
+
+76
+00:03:51,788 --> 00:03:53,538
+é, vejam todos, eles tem um Mazinho.
+
+77
+00:03:53,550 --> 00:03:56,250
+Aí né, Esse Mazinho quer dizer que esse processo
+
+78
+00:03:56,258 --> 00:04:01,058
+registrar pedido envolvem, podem envolver ou envolve outras sub
+
+79
+00:04:01,069 --> 00:04:05,419
+atividades ou subprocessos tá subprocessos, tá bom? Então
+
+80
+00:04:05,429 --> 00:04:08,419
+vamos lá, Eh a algumas questões importantes que a
+
+81
+00:04:08,429 --> 00:04:09,240
+gente observou.
+
+82
+00:04:09,250 --> 00:04:10,088
+Primeiro foi a gente.
+
+83
+00:04:10,099 --> 00:04:12,990
+É a gente entender quem participa desse processo, né?
+
+84
+00:04:13,000 --> 00:04:15,588
+A gente viu que eu tenho cliente, a gente
+
+85
+00:04:15,599 --> 00:04:18,048
+viu que eu tenho fábrica quando eu não tenho carro,
+
+86
+00:04:18,059 --> 00:04:20,730
+e aqui eu tenho ou realizar vendas.
+
+87
+00:04:20,738 --> 00:04:22,569
+Tá aqui dentro tá legal.
+
+88
+00:04:22,579 --> 00:04:25,309
+E dentro deste cara eu tenho algumas eh, eh
+
+89
+00:04:25,319 --> 00:04:28,309
+al alguns interlocutores, né? Quem? Quem tá
+
+90
+00:04:28,319 --> 00:04:31,149
+interagindo com esse processo? A fábrica e o cliente
+
+91
+00:04:31,160 --> 00:04:34,790
+são? Eh ao meu processo, né? São
+
+92
+00:04:34,798 --> 00:04:37,500
+CLI eh, vamos dizer assim são eh, está
+
+93
+00:04:37,509 --> 00:04:41,178
+fora da minha organização, né, interage com ela!
+
+94
+00:04:41,189 --> 00:04:43,160
+Mas não é dentro da minha organização, por isso
+
+95
+00:04:43,170 --> 00:04:44,399
+que veja a raia.
+
+96
+00:04:44,410 --> 00:04:46,278
+A raia tá fora, né? A gente aprendeu
+
+97
+00:04:46,290 --> 00:04:49,079
+que esse desenho aqui todo oh aqui, do jeito
+
+98
+00:04:49,088 --> 00:04:49,920
+que tá descrito aqui.
+
+99
+00:04:49,928 --> 00:04:51,119
+Assim oh, é a raia! Opa, não
+
+100
+00:04:51,129 --> 00:04:51,629
+tá arriscando.
+
+101
+00:04:51,639 --> 00:04:53,319
+Deixa eu ver aqui isso isso aqui tudo é a
+
+102
+00:04:53,329 --> 00:04:55,910
+raia oh, tá quando a gente faz assim.
+
+103
+00:04:55,920 --> 00:04:59,649
+Isso aqui é a raia, tá beleza então eu
+
+104
+00:04:59,660 --> 00:05:02,608
+tenho três, eh atores envolvidos aqui, o setor
+
+105
+00:05:02,619 --> 00:05:06,410
+financeiro, o setor de pós-venda e o meu vendedor,
+
+106
+00:05:06,420 --> 00:05:08,209
+então, o que que eu fiz? Ah,
+
+107
+00:05:08,220 --> 00:05:11,129
+se a gente olhar, olha só olha aqui,
+
+108
+00:05:11,139 --> 00:05:12,869
+oh! Por isso que é importante a gente definir
+
+109
+00:05:12,879 --> 00:05:13,949
+os responsáveis.
+
+110
+00:05:13,959 --> 00:05:17,449
+A gente consegue enxergar aqui, quem é que tá?
+
+111
+00:05:17,459 --> 00:05:20,470
+Eh interagindo com aquele processo, Fica bem legal,
+
+112
+00:05:20,480 --> 00:05:23,108
+né? E aí que a quantidade de fases vocês
+
+113
+00:05:23,119 --> 00:05:26,350
+vão verificar? Por exemplo, que registrar pedido ele
+
+114
+00:05:26,358 --> 00:05:30,759
+pressupõe duas atividades preencher e pedido do sistema, encher
+
+115
+00:05:30,769 --> 00:05:31,350
+formulário.
+
+116
+00:05:31,358 --> 00:05:34,579
+Então a gente representou registrar pedido aqui por meio desse
+
+117
+00:05:34,588 --> 00:05:36,720
+processo com o Mazinho, Quer dizer que tem mais
+
+118
+00:05:36,730 --> 00:05:39,798
+duas atividades ali? Olha que interessante também a gente
+
+119
+00:05:39,809 --> 00:05:42,959
+entender que o pedido começa, A origem dele tá
+
+120
+00:05:42,970 --> 00:05:46,480
+aqui no cliente e ele vai entrar por meio de
+
+121
+00:05:46,488 --> 00:05:47,759
+um pedido recebido aqui.
+
+122
+00:05:47,769 --> 00:05:50,480
+E aí esse pedido dentro, O vendedor pega ele
+
+123
+00:05:50,488 --> 00:05:54,738
+e registra okay, Pronto? É isso, tá?
+
+124
+00:05:54,750 --> 00:05:58,259
+Depois de registrar esse pedido, a gente observou que
+
+125
+00:05:58,269 --> 00:05:58,920
+eu tenho uma eh.
+
+126
+00:05:58,928 --> 00:06:02,178
+Eu vou realizar o pedido da fábrica Caso e aí,
+
+127
+00:06:02,189 --> 00:06:06,660
+olha só se vamos voltar aqui Oh registrar pedido olha
+
+128
+00:06:06,670 --> 00:06:10,858
+aqui que legal eh quando Regi registro o pedido,
+
+129
+00:06:10,869 --> 00:06:12,540
+eu vou verificar a disponibilidade.
+
+130
+00:06:12,548 --> 00:06:16,689
+Então esse registrar pedido aqui também pressupõe verificar a disponibilidade,
+
+131
+00:06:16,699 --> 00:06:20,139
+né? Realizar algumas atividades pra garantir o desenvolvimento do
+
+132
+00:06:20,149 --> 00:06:21,463
+meu fluxo do meu processo.
+
+133
+00:06:21,475 --> 00:06:24,303
+Caso eh não tenha Olha aqui oh, eu vou
+
+134
+00:06:24,314 --> 00:06:27,704
+enviar a ordem de pedido da fábrica ou outra concessionária
+
+135
+00:06:27,713 --> 00:06:30,944
+e se tiver eu preparo o financiamento então daqui eu
+
+136
+00:06:30,954 --> 00:06:34,064
+tenho olha, tem o carro, tem, prepara
+
+137
+00:06:34,074 --> 00:06:36,725
+financiamento, não tem o carro realiza pedido a fábrica
+
+138
+00:06:36,733 --> 00:06:39,264
+pronto! E aí? Oh pra realizar pedido da
+
+139
+00:06:39,274 --> 00:06:41,545
+fábrica, veja que é um subprocessos também e ele
+
+140
+00:06:41,553 --> 00:06:43,764
+explode! Tem o mais aí né? Aqui oh
+
+141
+00:06:44,009 --> 00:06:47,730
+identificando mais aqui, Oh bem bonitinho aqui também tem
+
+142
+00:06:47,738 --> 00:06:50,379
+o mais tá aqui também tem o mais aqui também
+
+143
+00:06:50,389 --> 00:06:52,588
+tem o mais aqui também tem o mais todos são
+
+144
+00:06:52,600 --> 00:06:53,459
+subprocessos.
+
+145
+00:06:53,470 --> 00:06:57,459
+Existem atividades sub atividades ali subprocessos? Então realizar o
+
+146
+00:06:57,470 --> 00:06:59,379
+pedido da fábrica Eu vou comunicar com a fábrica,
+
+147
+00:06:59,389 --> 00:07:01,129
+eu vou mandar pra lá! E a fábrica vai
+
+148
+00:07:01,139 --> 00:07:05,250
+me retornar esse realizar pedido tá e é claro que
+
+149
+00:07:05,259 --> 00:07:06,129
+esse realizar pedido.
+
+150
+00:07:06,139 --> 00:07:08,048
+A gente também vê o seguinte, por exemplo Ah,
+
+151
+00:07:08,059 --> 00:07:10,528
+o carro não o não não vai chegar no tempo
+
+152
+00:07:10,540 --> 00:07:11,548
+que o cliente quer.
+
+153
+00:07:11,559 --> 00:07:12,209
+Não é aquele.
+
+154
+00:07:12,220 --> 00:07:14,678
+Ah, o tempo adequado que que vai acontecer bom,
+
+155
+00:07:14,689 --> 00:07:15,910
+finaliza a compra.
+
+156
+00:07:15,920 --> 00:07:16,928
+Ah, não.
+
+157
+00:07:16,939 --> 00:07:18,528
+O cliente quer opa se ele quiser.
+
+158
+00:07:18,540 --> 00:07:21,048
+Então eu vou preparar o carro pra entrega? Então
+
+159
+00:07:21,059 --> 00:07:23,629
+tá aqui eu vou preparar o carro pra entrega tá?
+
+160
+00:07:24,660 --> 00:07:27,928
+Eh aqui esse preparar o carro pra entrega, eh
+
+161
+00:07:27,939 --> 00:07:30,889
+ele vem com atividade também, que quando eu tô
+
+162
+00:07:30,899 --> 00:07:34,028
+registrando o pedido e eu tenho o carro ao preparar
+
+163
+00:07:34,040 --> 00:07:34,269
+o fina.
+
+164
+00:07:34,278 --> 00:07:37,009
+Olha que que interessante ao preparar o financiamento, oh
+
+165
+00:07:37,019 --> 00:07:41,470
+eu também Preparo o carro pra entrega eu só eh,
+
+166
+00:07:41,480 --> 00:07:45,548
+Eh isso Quando eu tenho o carro, beleza bom,
+
+167
+00:07:45,559 --> 00:07:47,569
+E aí olha só que que interessante eu preparei o
+
+168
+00:07:47,579 --> 00:07:51,399
+carro pra entrega, eu tenho o o financiamento não
+
+169
+00:07:51,410 --> 00:07:52,988
+aprovado, finaliza.
+
+170
+00:07:53,000 --> 00:07:56,428
+A venda eu tenho a compra não finalizada, finaliza.
+
+171
+00:07:56,439 --> 00:07:58,588
+A venda finaliza o processo perdão, né? Cancela
+
+172
+00:07:58,600 --> 00:07:58,949
+a venda.
+
+173
+00:07:58,959 --> 00:08:00,569
+Venda cancelada a venda não aprovada.
+
+174
+00:08:00,579 --> 00:08:04,639
+Finalizo o processo caso esteja tudo bacana, tudo legal
+
+175
+00:08:04,649 --> 00:08:06,069
+foi aprovado.
+
+176
+00:08:06,079 --> 00:08:08,738
+Então, aprovado, eu vou concluir a minha venda.
+
+177
+00:08:08,750 --> 00:08:11,548
+Tá aqui, oh, é o outro subprocessos.
+
+178
+00:08:11,559 --> 00:08:14,428
+Tem mais atividades ali dentro, concluir a venda.
+
+179
+00:08:14,439 --> 00:08:18,059
+Vou entregar meu carro, Okay! E aí?
+
+180
+00:08:18,069 --> 00:08:21,100
+Sempre lembrando esse Mazinho pressupõe Sub atividades é o que
+
+181
+00:08:21,108 --> 00:08:23,059
+que é o entregar o carro aqui Oh, entrega
+
+182
+00:08:23,069 --> 00:08:25,980
+o carro ao cliente, entrega a documentação necessária,
+
+183
+00:08:25,988 --> 00:08:28,178
+né? Então, eu vou fazer esse processo aqui
+
+184
+00:08:28,189 --> 00:08:32,379
+dentro, né? Vou eh, eh efetivamente,
+
+185
+00:08:32,389 --> 00:08:34,340
+entregar o o que que se pressupõe? Se entregar
+
+186
+00:08:34,349 --> 00:08:37,058
+o carro ao cliente, pode ser que envolva uma
+
+187
+00:08:37,070 --> 00:08:41,940
+vistoria, Pode ser que envolva de repente um termo
+
+188
+00:08:41,950 --> 00:08:44,750
+de aceite, Pode ser alguma coisa que aconteça ali.
+
+189
+00:08:44,759 --> 00:08:47,960
+Lembra que eu não tô detalhando? Eh exatamente o
+
+190
+00:08:47,969 --> 00:08:48,658
+fluxo? Então.
+
+191
+00:08:48,668 --> 00:08:51,580
+Mas aqui a gente consegue perceber que se entregar,
+
+192
+00:08:51,590 --> 00:08:53,700
+o carro envolve mais algumas atividades.
+
+193
+00:08:53,710 --> 00:08:54,200
+É claro.
+
+194
+00:08:54,210 --> 00:08:56,779
+Bem, entreguei o carro fi eh o que que
+
+195
+00:08:56,788 --> 00:08:59,979
+vai acontecer? Venda realizada? O cliente vai sair
+
+196
+00:08:59,989 --> 00:09:01,908
+lá com as chaves e com o documento Tá aqui
+
+197
+00:09:01,918 --> 00:09:03,210
+oh, vem aqui pro meu cliente, oh,
+
+198
+00:09:03,219 --> 00:09:06,950
+que bonitinho okay, e a minha empresa fica feliz
+
+199
+00:09:06,960 --> 00:09:09,168
+porque eu concluí o processo a contento.
+
+200
+00:09:09,178 --> 00:09:10,668
+Ou seja, realizei a atividade.
+
+201
+00:09:10,678 --> 00:09:15,149
+Tá lembrem-se que isso aqui não não pressupõe a verdade
+
+202
+00:09:15,158 --> 00:09:18,908
+absoluta tá legal, não pressupõe a verdade absoluta.
+
+203
+00:09:18,918 --> 00:09:21,349
+Eu posso ter atividades aqui.
+
+204
+00:09:21,359 --> 00:09:23,548
+Pô, Você esqueceu de falar? Isso também?
+
+205
+00:09:23,558 --> 00:09:25,750
+Temàs vezes alguém aí, né, eh,
+
+206
+00:09:25,759 --> 00:09:31,099
+é especialista em em,às vezes alguém é especialista
+
+207
+00:09:31,109 --> 00:09:34,298
+na parte de eh venda de carro, né?
+
+208
+00:09:34,308 --> 00:09:35,940
+E aí pode falar assim Opa pera, aí!
+
+209
+00:09:35,950 --> 00:09:38,359
+Tá faltando coisa aí! Tá! Mas enfim,
+
+210
+00:09:38,369 --> 00:09:40,369
+ah, eu volto a ressaltar.
+
+211
+00:09:40,379 --> 00:09:43,178
+O objetivo não é dizer que esse processo tá pronto.
+
+212
+00:09:43,190 --> 00:09:44,058
+Ele é a verdade.
+
+213
+00:09:44,070 --> 00:09:45,219
+Ou representa a verdade, não.
+
+214
+00:09:45,229 --> 00:09:48,509
+Ele representa repente um um momento de estudo em que
+
+215
+00:09:48,519 --> 00:09:52,469
+a gente traduziu um determinado processo, né? Detalhou
+
+216
+00:09:52,479 --> 00:09:54,149
+ele, por meio de um de do, da
+
+217
+00:09:54,158 --> 00:09:57,590
+construção de um quadro, E por fim geramos aqui
+
+218
+00:09:57,599 --> 00:10:00,190
+um um uma no EH um, uma uma interface
+
+219
+00:10:00,200 --> 00:10:03,509
+gráfica, um resultado eh gráfico por meio de usando
+
+220
+00:10:03,519 --> 00:10:07,090
+as anotações da B PM da DA, de moderada
+
+221
+00:10:07,099 --> 00:10:10,029
+de processo, obrigado e até o próximo caso,
+
+222
+00:10:10,038 --> 00:10:10,450
+prático.
+

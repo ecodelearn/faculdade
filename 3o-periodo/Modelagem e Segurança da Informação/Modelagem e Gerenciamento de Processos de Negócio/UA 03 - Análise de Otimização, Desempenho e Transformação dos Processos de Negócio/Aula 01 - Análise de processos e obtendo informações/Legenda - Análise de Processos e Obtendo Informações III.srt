@@ -1,0 +1,900 @@
+1
+00:00:06,509 --> 00:00:09,359
+Olá, vamos dar continuidade ao nosso conhecimento.
+
+2
+00:00:09,368 --> 00:00:14,589
+Nós estamos falando sobre o processo de análise e de
+
+3
+00:00:14,599 --> 00:00:18,030
+obtenção de informações, né? Então, nós trabalhamos
+
+4
+00:00:18,039 --> 00:00:22,908
+numa primeira perspectiva lá no iniciozinho falando sobre a introdução
+
+5
+00:00:22,920 --> 00:00:25,388
+da análise de processo, a importância dele, a
+
+6
+00:00:25,399 --> 00:00:28,228
+questão do e como o primeiro passo nessa jornada de
+
+7
+00:00:28,239 --> 00:00:32,868
+otimização e transformação de processos, vimos os pontos principais,
+
+8
+00:00:32,880 --> 00:00:36,109
+importância do do do entendimento, o compartilhamento, o
+
+9
+00:00:36,118 --> 00:00:40,520
+entendimento do ambiente, que a análise eh quando a
+
+10
+00:00:40,529 --> 00:00:42,399
+gente efetua uma análise que tá relacionado pode, tá
+
+11
+00:00:42,408 --> 00:00:45,399
+relacionada com a estratégia, com problema, com novas
+
+12
+00:00:45,408 --> 00:00:48,298
+tecnologias, enfim, né, Esse é um caminho.
+
+13
+00:00:48,310 --> 00:00:50,598
+E quando a gente entende isso tudo, a gente
+
+14
+00:00:50,609 --> 00:00:55,340
+observou também que a o benefício que a análise traz
+
+15
+00:00:55,348 --> 00:00:58,039
+pra organização, né? Em relaçãoà mudança que
+
+16
+00:00:58,048 --> 00:01:01,609
+ela proporciona e a a a dentro dessa esteira como
+
+17
+00:01:01,618 --> 00:01:06,459
+ela se estabelece, Como eh resultados pra organização,
+
+18
+00:01:06,469 --> 00:01:09,599
+e a gente viu que esses benefícios eh começam,
+
+19
+00:01:09,609 --> 00:01:11,980
+começa com a coleta de dados, né? E
+
+20
+00:01:11,989 --> 00:01:15,480
+eh, e aí eu nesse nessa coleta, nessa
+
+21
+00:01:15,489 --> 00:01:18,838
+análise eu compreendo de forma a essa minha atividade.
+
+22
+00:01:18,849 --> 00:01:21,819
+Eu preciso ter uma visão holística, coletar meus dados.
+
+23
+00:01:21,829 --> 00:01:24,040
+Usamos técnicas pra pra coleta.
+
+24
+00:01:24,049 --> 00:01:26,730
+Já falamos sobre elas e agora nós vamos detalhar nessa
+
+25
+00:01:26,739 --> 00:01:27,260
+aula.
+
+26
+00:01:27,269 --> 00:01:30,948
+Vimos também que, com e com isso tudo,
+
+27
+00:01:30,959 --> 00:01:32,709
+eu priorizo os meus processos.
+
+28
+00:01:32,719 --> 00:01:34,909
+E aí, na priorização a gente tem algumas ferramentas
+
+29
+00:01:34,918 --> 00:01:36,150
+que a gente percebeu.
+
+30
+00:01:36,159 --> 00:01:39,168
+Matriz Gut, a matriz Rice, o matriz básico,
+
+31
+00:01:39,180 --> 00:01:42,790
+o custo-benefício E agora efetivamente, nós vamos falar um
+
+32
+00:01:42,799 --> 00:01:44,885
+pouco das técnicas em relação a análise.
+
+33
+00:01:44,894 --> 00:01:47,043
+Então veja, só eu conheci.
+
+34
+00:01:47,055 --> 00:01:50,004
+Eu fiz todo o entendimento, eu fiz todo o
+
+35
+00:01:50,013 --> 00:01:51,484
+levantamento, toda a coleta.
+
+36
+00:01:51,495 --> 00:01:54,823
+Agora eu vou usar as técnicas, as ferramentas,
+
+37
+00:01:54,834 --> 00:01:59,284
+né? Eh pra análise desse dessa perspectiva Okay Então
+
+38
+00:01:59,293 --> 00:02:03,540
+vamos lá a primeira, co a primeira eh ferramenta
+
+39
+00:02:03,549 --> 00:02:04,500
+né? Que a gente vai tá olhando.
+
+40
+00:02:04,510 --> 00:02:07,459
+A primeira técnica ali eh Ferramenta que a gente vai
+
+41
+00:02:07,469 --> 00:02:08,300
+perceber.
+
+42
+00:02:08,308 --> 00:02:09,250
+É a análise Swatch.
+
+43
+00:02:09,258 --> 00:02:12,419
+A análise Swatch é bem bem, bem importante e
+
+44
+00:02:12,429 --> 00:02:16,740
+bem famosa, aí dentro da nossa, da nossa
+
+45
+00:02:16,750 --> 00:02:18,979
+ah, de do nosso mundo, acadêmico, do
+
+46
+00:02:18,990 --> 00:02:20,399
+do mundo organizacional.
+
+47
+00:02:20,788 --> 00:02:24,099
+Principalmente, né, Ela avalia forças, fraquezas,
+
+48
+00:02:24,110 --> 00:02:27,639
+oportunidades e ameaças dentro da empresa, né? Então,
+
+49
+00:02:27,649 --> 00:02:31,270
+força é aquilo que eu sou bom Okay A fraqueza
+
+50
+00:02:31,278 --> 00:02:33,439
+é aquilo que eu não tô não tô legal.
+
+51
+00:02:33,449 --> 00:02:35,520
+E eu preciso enfrentar isso, né? Isso é
+
+52
+00:02:35,528 --> 00:02:41,669
+fraqueza, aí nós temos também A perspectiva de oportunidade.
+
+53
+00:02:41,679 --> 00:02:45,349
+É diante daquilo que eu sou bom E Daquilo que
+
+54
+00:02:45,360 --> 00:02:47,379
+eh, eh, eh eh como é que eu
+
+55
+00:02:47,389 --> 00:02:48,469
+posso usar isso, né.
+
+56
+00:02:48,479 --> 00:02:51,808
+Pra gerar oportunidades pra pra organização, pra minha organização
+
+57
+00:02:51,819 --> 00:02:54,710
+E as ameaças São aqueles meus fornecedores, aqueles meus
+
+58
+00:02:54,719 --> 00:02:58,163
+vamos dizer assim Pode ser meu fornecedor, pode ser
+
+59
+00:02:58,175 --> 00:03:01,014
+eh meu! Meu concorrente, né? Fornece,
+
+60
+00:03:01,024 --> 00:03:03,014
+Não pode ser meu concorrente! Enfim, aquilo que
+
+61
+00:03:03,024 --> 00:03:04,903
+ameaça a minha empresa pode ser uma lei, Enfim,
+
+62
+00:03:04,913 --> 00:03:05,743
+qualquer coisa.
+
+63
+00:03:05,754 --> 00:03:08,344
+Essa é a análise sua, você aplica ela,
+
+64
+00:03:08,354 --> 00:03:08,724
+né.
+
+65
+00:03:08,735 --> 00:03:10,883
+E você tem um um, um desenho, um
+
+66
+00:03:10,895 --> 00:03:13,788
+entendimento acerca eh da sua organização.
+
+67
+00:03:13,800 --> 00:03:17,028
+Outra que nós temos é a na paste que ela
+
+68
+00:03:17,038 --> 00:03:22,528
+considera fatores né? Relacionados a políticos, econômicos,
+
+69
+00:03:22,538 --> 00:03:28,649
+sociais, tecnológicos e eh e ecológicos e legais que
+
+70
+00:03:28,659 --> 00:03:30,050
+podem afetar o meu negócio.
+
+71
+00:03:30,058 --> 00:03:34,479
+Então, quando eu olho pra surte pra pra pra
+
+72
+00:03:34,490 --> 00:03:38,879
+análise eu tô vendo que eu tô fazendo um mapeamento
+
+73
+00:03:38,889 --> 00:03:43,479
+de toda eh aquilo que está afetando, afeta o
+
+74
+00:03:43,490 --> 00:03:47,038
+meu ambiente organizacional, né? Tanto o óleo pra
+
+75
+00:03:47,050 --> 00:03:49,879
+parte interna quanto pra parte externa.
+
+76
+00:03:49,889 --> 00:03:53,485
+E isso é conhecimento a ferramenta que eu uso pra
+
+77
+00:03:53,496 --> 00:03:54,406
+analisar.
+
+78
+00:03:54,415 --> 00:03:56,126
+Então você tem um processo.
+
+79
+00:03:56,135 --> 00:03:58,365
+E e em relação a esse processo, você aplica
+
+80
+00:03:58,376 --> 00:04:00,724
+ferramentas em que você pode opa! pera, aí
+
+81
+00:04:00,735 --> 00:04:05,105
+esse processo eh considera Eh, tem, tem eh
+
+82
+00:04:05,115 --> 00:04:08,246
+esse processo, Eu tenho ta- tais forças ou eu
+
+83
+00:04:08,254 --> 00:04:11,925
+tenho esse fator político ou esse econômico Ou olha que
+
+84
+00:04:11,936 --> 00:04:13,912
+eu tenho uma ameaça, tem uma, é uma,
+
+85
+00:04:13,920 --> 00:04:15,831
+uma, uma perspectiva legal, que pode afetar o
+
+86
+00:04:15,841 --> 00:04:16,190
+meu negócio.
+
+87
+00:04:16,201 --> 00:04:18,451
+Enfim, você pode usar a suor e a festa
+
+88
+00:04:18,461 --> 00:04:20,252
+também pode fazer uma combinação.
+
+89
+00:04:20,261 --> 00:04:22,380
+Além dessas, temos outras, por exemplo.
+
+90
+00:04:22,391 --> 00:04:25,451
+Análise de concorrência, né? Quais são meus principais
+
+91
+00:04:25,461 --> 00:04:28,170
+con concorrência e suas estratégias? Então, vou olhar
+
+92
+00:04:28,182 --> 00:04:30,331
+dentro do mercado que que tá concorrendo comigo o que
+
+93
+00:04:30,341 --> 00:04:32,451
+que ele tá fazendo? Qual é a estratégia que
+
+94
+00:04:32,461 --> 00:04:36,000
+ele tá adotando, né? Posteriormente, né?
+
+95
+00:04:36,009 --> 00:04:39,079
+Ou posteriormente perdão, mas uma ferramenta, né?
+
+96
+00:04:39,088 --> 00:04:40,220
+É a cadeia de valor.
+
+97
+00:04:40,230 --> 00:04:43,600
+Ou seja, como as atividades internas e externas adicionam
+
+98
+00:04:43,608 --> 00:04:44,838
+o valor ao cliente, olha, aqui aqui vem
+
+99
+00:04:44,850 --> 00:04:48,290
+uma uma palavra importante, tá, eu eh,
+
+100
+00:04:48,298 --> 00:04:49,528
+eh que que fica assim.
+
+101
+00:04:49,540 --> 00:04:54,009
+Eu eu gosto de reforçar essa perspectiva de valor ao
+
+102
+00:04:54,019 --> 00:04:56,269
+cliente da empresa, então, o que a sua
+
+103
+00:04:56,278 --> 00:04:59,350
+empresa vai entregar? O que o seu processo deve
+
+104
+00:04:59,358 --> 00:05:02,988
+entregar, né? Ao ser transformado, primeira coisa
+
+105
+00:05:03,000 --> 00:05:05,970
+é agregar valor ao processo e, por pra Que
+
+106
+00:05:05,980 --> 00:05:08,720
+isso, Porque ele possa gerar valor para o meu
+
+107
+00:05:08,730 --> 00:05:09,369
+cliente.
+
+108
+00:05:09,379 --> 00:05:11,670
+Um pro processo, uma atividade, um processo,
+
+109
+00:05:11,744 --> 00:05:16,144
+um produto ou um serviço cujo resultado é focado no
+
+110
+00:05:16,153 --> 00:05:19,875
+cliente, agrega, gerando valor pra esse, ele
+
+111
+00:05:19,884 --> 00:05:22,553
+é, ele faz um diferencial organizacional, né?
+
+112
+00:05:22,564 --> 00:05:25,345
+Então ele não acontece porque é por si só.
+
+113
+00:05:25,355 --> 00:05:27,744
+Ele tem uma razão de ser e ele gera um
+
+114
+00:05:27,754 --> 00:05:31,153
+impacto muito significativo dentro da organização, Então, quando
+
+115
+00:05:31,165 --> 00:05:33,875
+você olhar a cadeia de valor, né cê olhar
+
+116
+00:05:33,884 --> 00:05:39,178
+as suas atividades olhando para o teu foco do cliente.
+
+117
+00:05:39,189 --> 00:05:42,220
+Como isso vai gerar valor? Tá na verdade,
+
+118
+00:05:42,230 --> 00:05:44,100
+a gente tá aqui falando sobre cadeia de valor,
+
+119
+00:05:44,108 --> 00:05:50,759
+Mas eh, Não esqueçam de considerar que todo resultado
+
+120
+00:05:50,769 --> 00:05:54,119
+pra sua organização deve tá sempre em vista em relação
+
+121
+00:05:54,129 --> 00:05:57,439
+a esse cara aqui, oh ao cliente, né?
+
+122
+00:05:57,449 --> 00:06:00,798
+E o valor que eu tô entregando pra ele porque
+
+123
+00:06:00,809 --> 00:06:02,619
+se não você faz mais no mesmo.
+
+124
+00:06:02,629 --> 00:06:06,119
+É mais uma commoditie, eh que você tá entregando,
+
+125
+00:06:06,129 --> 00:06:09,699
+cuja a percepção do cliente não tem, não,
+
+126
+00:06:09,709 --> 00:06:11,819
+não, não não, Não vai ter nenhum tipo
+
+127
+00:06:11,829 --> 00:06:13,879
+de impacto ou nenhum tipo de diferencial.
+
+128
+00:06:13,889 --> 00:06:15,689
+E aí a pergunta é por que que eu vou
+
+129
+00:06:15,699 --> 00:06:18,259
+comprar de você e não do meu concorrente, que
+
+130
+00:06:18,269 --> 00:06:22,100
+me entrega mais, né? EH? Eh valor
+
+131
+00:06:22,108 --> 00:06:24,019
+do que você tá me entregando e essa questão de
+
+132
+00:06:24,028 --> 00:06:27,720
+percepção do valor vai depender tá então assim pode ser.
+
+133
+00:06:27,730 --> 00:06:29,059
+Eh Eu enten.
+
+134
+00:06:29,069 --> 00:06:31,858
+Eu enxerguei que aquilo ali um produto não quebra.
+
+135
+00:06:31,869 --> 00:06:34,899
+Então olha eu pago mais caro, mas ele não
+
+136
+00:06:34,910 --> 00:06:35,439
+quebra.
+
+137
+00:06:35,730 --> 00:06:37,858
+Então e eu eu deixo de comprar o mais barato
+
+138
+00:06:37,869 --> 00:06:39,980
+que tem problema pra comprar o mais caro aí cê
+
+139
+00:06:39,988 --> 00:06:41,420
+fala pô, mas cê tá comprando mais caro sim,
+
+140
+00:06:41,428 --> 00:06:42,350
+mas ele não quebra.
+
+141
+00:06:42,358 --> 00:06:44,730
+Esse é um valor que eu percebi isso.
+
+142
+00:06:44,738 --> 00:06:47,678
+Eu preciso garantir então cadeia de valor e para os
+
+143
+00:06:47,689 --> 00:06:50,358
+demais? Eu sempre sugiro que você olhe o cliente
+
+144
+00:06:50,369 --> 00:06:51,730
+e o valor que você tá entregando pra ele.
+
+145
+00:06:51,738 --> 00:06:54,540
+Outra é o feedback dos nossos clientes, né?
+
+146
+00:06:54,548 --> 00:06:57,439
+Ou seja, quais são as expectativas dos nossos clientes,
+
+147
+00:06:57,449 --> 00:06:59,798
+as necessidades? Então, como é que eu faço
+
+148
+00:06:59,809 --> 00:07:01,500
+isso por meio de pesquisa, de análise, de
+
+149
+00:07:01,509 --> 00:07:03,480
+dados? Qual a minha tendência? Qual é a
+
+150
+00:07:03,488 --> 00:07:05,959
+tendência dos meus clientes? Por onde eles estão indo,
+
+151
+00:07:05,970 --> 00:07:07,920
+né? Então, e aí eu tenho que tá
+
+152
+00:07:07,928 --> 00:07:12,160
+sempre observando isso pra que eu esteja na vanguarda de
+
+153
+00:07:12,170 --> 00:07:17,579
+realmente ofertar e atender a essa necessidade do meu cliente.
+
+154
+00:07:17,588 --> 00:07:20,170
+A partir do momento que eu conheço ele, eu
+
+155
+00:07:20,178 --> 00:07:23,928
+consigo entregar, né melhores produtos melhores serviços.
+
+156
+00:07:23,939 --> 00:07:26,108
+Essa é a teoria tá bom, eh.
+
+157
+00:07:26,119 --> 00:07:29,670
+Outras ferramentas que nós temos é são as informações estratégicas.
+
+158
+00:07:29,678 --> 00:07:33,269
+Então você envolve o planejamento estratégico, os mercados alvos,
+
+159
+00:07:33,278 --> 00:07:36,670
+ameaças, oportunidades, você e oh volto a chamar
+
+160
+00:07:36,678 --> 00:07:38,670
+a atenção, Você pode casar essas ferramentas.
+
+161
+00:07:38,678 --> 00:07:42,199
+Tá, você pode aplicar sut com informação estratégica such
+
+162
+00:07:42,209 --> 00:07:45,519
+com peste ou não tem problema? Eh Outra ferramenta
+
+163
+00:07:45,528 --> 00:07:48,160
+é o benchmark melhor e melhores práticas, ou seja,
+
+164
+00:07:48,170 --> 00:07:51,119
+como a sua organização está em relação aos seus clientes
+
+165
+00:07:51,129 --> 00:07:53,910
+e aos outros setores benchmark você faz uma análise você
+
+166
+00:07:53,920 --> 00:07:56,559
+faz uma consulta, você faz uma comparação com o
+
+167
+00:07:56,569 --> 00:07:57,059
+teu cliente.
+
+168
+00:07:57,069 --> 00:07:58,879
+Poxa, ele entrega aquele produto com o produto,
+
+169
+00:07:58,889 --> 00:08:00,355
+por que que tá? O que é melhor?
+
+170
+00:08:00,363 --> 00:08:02,233
+Vamos fazer o macho qual é a margem de lucro
+
+171
+00:08:02,244 --> 00:08:04,334
+que ele tá tendo em relaçãoàquilo que ele tá
+
+172
+00:08:04,345 --> 00:08:04,915
+produzindo.
+
+173
+00:08:04,923 --> 00:08:06,274
+Então eu vou testando.
+
+174
+00:08:06,285 --> 00:08:08,514
+Tá, então isso é muito importante, a gente
+
+175
+00:08:08,524 --> 00:08:11,774
+tá acompanhando essa perspectiva, né? Eh, eh,
+
+176
+00:08:11,785 --> 00:08:17,449
+Outra questão que nós temos eh a a parte de
+
+177
+00:08:17,459 --> 00:08:22,608
+justificativa Quem solicitou identificar quem é O interessado também é
+
+178
+00:08:22,619 --> 00:08:24,809
+funci, eh, é importante E por fim,
+
+179
+00:08:24,819 --> 00:08:25,238
+né.
+
+180
+00:08:25,250 --> 00:08:28,170
+Equipe de análise quem tá vai tá envolvido nesse processo,
+
+181
+00:08:28,178 --> 00:08:31,548
+então, tudo isso você vai considerar nessas suas técnicas
+
+182
+00:08:31,559 --> 00:08:35,489
+de análise? Aí tá, Ah, ainda né
+
+183
+00:08:35,500 --> 00:08:37,908
+Dentro das técnicas que você vai usar, né?
+
+184
+00:08:37,994 --> 00:08:43,524
+Entrevista? Workshop Conferência, Observação eh fazer em vez
+
+185
+00:08:43,533 --> 00:08:46,043
+de fazer? Em vez de observar análise, vídeo,
+
+186
+00:08:46,053 --> 00:08:49,325
+simulação de atividades de todas essas técnicas, você pode
+
+187
+00:08:49,335 --> 00:08:51,644
+empregar esses métodos.
+
+188
+00:08:51,654 --> 00:08:54,683
+Tá métodos? Os métodos são o que você vai
+
+189
+00:08:54,695 --> 00:08:58,445
+utilizar para você aplicar essas técnicas aqui.
+
+190
+00:08:58,455 --> 00:09:01,543
+Tá legal essas ferramentas aqui, beleza! Bom!
+
+191
+00:09:02,710 --> 00:09:04,558
+Que que cê tem que entender, além disso,
+
+192
+00:09:04,570 --> 00:09:06,668
+tudo finalidade do meu processo, Por que que ele
+
+193
+00:09:06,678 --> 00:09:09,038
+cria? Foi criado? Qual é o posicionamento dele
+
+194
+00:09:09,048 --> 00:09:10,960
+na cadeia de valor onde ele se encaixa dentro do
+
+195
+00:09:10,969 --> 00:09:13,599
+fluxo da empresa como ele? Se ali as minhas
+
+196
+00:09:13,609 --> 00:09:16,759
+estratégias de organização? Como esse processo está após meus
+
+197
+00:09:16,769 --> 00:09:20,840
+objetivos pra consecução dos meus objetivos institucionais, Qual o
+
+198
+00:09:20,849 --> 00:09:22,798
+valor que ele me proporciona? Você olha qual é
+
+199
+00:09:22,808 --> 00:09:25,019
+o valor que ele tá agregando a minha empresa,
+
+200
+00:09:25,029 --> 00:09:27,489
+né? Qual o valor que eu entrego o objetivo
+
+201
+00:09:27,500 --> 00:09:29,399
+desse processo? O que que se espera que ele
+
+202
+00:09:29,408 --> 00:09:32,418
+alcance? Qual o resultado Ele traz pra organização,
+
+203
+00:09:32,779 --> 00:09:35,590
+né? Mais ainda que você vai, tá observando
+
+204
+00:09:35,599 --> 00:09:37,229
+a importância e a criticidade.
+
+205
+00:09:37,239 --> 00:09:39,428
+Quanto que ele é importante pra operação da minha empresa?
+
+206
+00:09:39,440 --> 00:09:41,570
+se ele deixar de ter esse processo, minha empresa
+
+207
+00:09:41,580 --> 00:09:42,808
+continua funcionando.
+
+208
+00:09:42,820 --> 00:09:44,509
+Eu continuo tendo resultado.
+
+209
+00:09:44,519 --> 00:09:47,269
+Qual a razão pra eu fazer essa análise, né?
+
+210
+00:09:47,279 --> 00:09:51,489
+Qual é o requisito específico pra que ele seja analisado?
+
+211
+00:09:51,769 --> 00:09:54,529
+Ele é um processo que se adapta ao ambiente empresarial.
+
+212
+00:09:54,538 --> 00:09:55,440
+Ele é dinâmico.
+
+213
+00:09:55,450 --> 00:09:58,599
+Como eu vou colocar isso dentro da minha perspectiva organizacional?
+
+214
+00:09:58,609 --> 00:10:01,798
+Quais riscos eu sofro com esse processo dentro da minha
+
+215
+00:10:01,808 --> 00:10:06,340
+organização, tanto interno quanto externo? Quais sistemas são
+
+216
+00:10:06,349 --> 00:10:08,979
+necessários pra que eu possa habilitar esse processo pra que
+
+217
+00:10:08,989 --> 00:10:13,139
+eu torne ele sustentável? Observem que, olha,
+
+218
+00:10:13,149 --> 00:10:16,000
+Eu tenho uma série de perspectivas acerca de processo,
+
+219
+00:10:16,065 --> 00:10:19,033
+Uma série de interações que eu posso e tenho que
+
+220
+00:10:19,043 --> 00:10:20,955
+observar pra isso.
+
+221
+00:10:20,965 --> 00:10:28,053
+Faço uso de métodos e ferramentas que me proporcionam tomar
+
+222
+00:10:28,065 --> 00:10:31,494
+um melhor caminho, um caminho mais adequado pra entregar
+
+223
+00:10:31,504 --> 00:10:35,835
+um processo que agregue valor gere resultado pro meu cliente
+
+224
+00:10:35,844 --> 00:10:37,994
+e também pra minha organização.
+
+225
+00:10:38,004 --> 00:10:40,293
+Obrigado por ter você até a próxima
+

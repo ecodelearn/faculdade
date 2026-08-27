@@ -1,0 +1,636 @@
+1
+00:00:06,629 --> 00:00:07,038
+é isso aí.
+
+2
+00:00:07,049 --> 00:00:09,359
+Agora vamos falar um pouquinho sobre normas, tá a
+
+3
+00:00:09,368 --> 00:00:11,259
+importância das normas.
+
+4
+00:00:11,269 --> 00:00:13,720
+E a gente vai falar sobre uma norma bem específica
+
+5
+00:00:13,728 --> 00:00:16,158
+nessa nessa aula de hoje, que é a norma
+
+6
+00:00:16,170 --> 00:00:18,079
+a vinte e sete mil e cinco, tá?
+
+7
+00:00:18,089 --> 00:00:20,798
+É uma norma que fala sobre gestão de riscos?
+
+8
+00:00:20,809 --> 00:00:22,138
+Tá, tá, quem não conhece.
+
+9
+00:00:22,149 --> 00:00:24,879
+Essa norma é uma norma importantíssima.
+
+10
+00:00:24,888 --> 00:00:28,958
+Quando você tá começando a entrar nessa questão da gestão
+
+11
+00:00:28,969 --> 00:00:32,060
+da informação e gestão de segurança precisa conhecer essa norma,
+
+12
+00:00:32,069 --> 00:00:33,478
+Essa norma da B N T.
+
+13
+00:00:33,490 --> 00:00:35,978
+Então você consegue acessar ela de forma muito fácil e
+
+14
+00:00:35,990 --> 00:00:37,579
+dar uma leitura nela, né? Então, o
+
+15
+00:00:37,590 --> 00:00:41,520
+que que essa norma ela foca, né? É
+
+16
+00:00:41,529 --> 00:00:44,139
+uma norma que oferece um processo e uma estrutura bem
+
+17
+00:00:44,149 --> 00:00:50,560
+genérica, mas bem bem focada na questão de risco
+
+18
+00:00:50,569 --> 00:00:51,899
+da segurança da informação.
+
+19
+00:00:51,908 --> 00:00:54,060
+Então a gente está falando em risco, então é
+
+20
+00:00:54,069 --> 00:00:57,539
+uma é uma é uma norma que você vai ver
+
+21
+00:00:57,548 --> 00:01:02,240
+muito bem detalhada, muito bem desenhada.
+
+22
+00:01:02,250 --> 00:01:05,439
+Para a questão dos riscos, você vai ver uma
+
+23
+00:01:05,448 --> 00:01:08,659
+forma de implementar uma forma de fazer medicação dos seus
+
+24
+00:01:08,668 --> 00:01:10,819
+riscos baseado nessa norma.
+
+25
+00:01:10,829 --> 00:01:14,000
+É uma norma muito importante para toda a questão da
+
+26
+00:01:14,010 --> 00:01:16,769
+da da, da gestão da informação E quando a
+
+27
+00:01:16,778 --> 00:01:19,549
+gente tá falando de dessa norma, tem alguns aspectos
+
+28
+00:01:19,558 --> 00:01:22,230
+muito importantes que a gente tem que dar uma olhada,
+
+29
+00:01:22,239 --> 00:01:25,028
+eh a questão primeiro do ativo tá, Quando a
+
+30
+00:01:25,040 --> 00:01:26,829
+gente tá falando do ativo, dentro da norma,
+
+31
+00:01:26,838 --> 00:01:28,790
+ela fala que que que é um ativo são os
+
+32
+00:01:28,799 --> 00:01:32,409
+recursos, processos, produtos ou infraestrutura que a organização
+
+33
+00:01:32,418 --> 00:01:34,569
+reconhece como a necessidade de proteção.
+
+34
+00:01:34,579 --> 00:01:37,010
+Então todo lembra que eu falei do inventário, então
+
+35
+00:01:37,019 --> 00:01:40,709
+tudo isso, ela ela é muito focada dentro dessa
+
+36
+00:01:40,719 --> 00:01:40,989
+norma.
+
+37
+00:01:41,000 --> 00:01:44,948
+Tá a perda de ativos pode afetar a confidencialidade,
+
+38
+00:01:44,959 --> 00:01:47,510
+integridade ou a disponibilidade dessa informação.
+
+39
+00:01:47,519 --> 00:01:49,829
+Então ativo de novo.
+
+40
+00:01:49,838 --> 00:01:51,829
+Eu acho que eu finalizei uma das nossas aulas,
+
+41
+00:01:51,838 --> 00:01:54,629
+aí falando sobre ativo, volto pra essa pra essa
+
+42
+00:01:54,638 --> 00:01:57,609
+aula falando da importância de você conhecer os seus ativos
+
+43
+00:01:57,620 --> 00:02:00,129
+e a importância dos ativos para a norma.
+
+44
+00:02:00,138 --> 00:02:04,959
+Vinte e sete mil e cinco tá eh seu valor
+
+45
+00:02:04,969 --> 00:02:07,278
+e assume de todos os aspectos relacionados a ele dos
+
+46
+00:02:07,290 --> 00:02:12,399
+ativos desenvolvimento, manutenção, substituição, credibilidade, custos
+
+47
+00:02:12,409 --> 00:02:14,000
+associados e valor de aquisição.
+
+48
+00:02:14,008 --> 00:02:18,050
+Então, nesse banco de dados, se a gente
+
+49
+00:02:18,058 --> 00:02:19,939
+usar um pouco da ate lá, o C MD
+
+50
+00:02:19,949 --> 00:02:22,479
+B Então dentro desse banco de dados de configuração,
+
+51
+00:02:22,490 --> 00:02:24,758
+ou seja, dos ativos, a gente precisa entender
+
+52
+00:02:24,770 --> 00:02:27,360
+que é importante a gente saber qual o desenvolvimento desse
+
+53
+00:02:27,368 --> 00:02:28,020
+ativo.
+
+54
+00:02:28,028 --> 00:02:31,469
+Tá qual o tipo de manutenção que é necessário quando
+
+55
+00:02:31,479 --> 00:02:32,750
+se substitui esse ativo.
+
+56
+00:02:32,758 --> 00:02:36,149
+Tá a credibilidade desse desse desse desse ativo, quais
+
+57
+00:02:36,159 --> 00:02:40,210
+são os custos né indiretos e diretos pra esse ativo
+
+58
+00:02:40,219 --> 00:02:41,750
+e qual foi o seu valor de aquisição? Então,
+
+59
+00:02:41,758 --> 00:02:46,210
+são algumas informações necessárias para esse banco de dados,
+
+60
+00:02:46,219 --> 00:02:48,008
+né? Esse C MD B, esse banco de
+
+61
+00:02:48,020 --> 00:02:51,639
+dados e os ativos risco é a probabilidade de uma
+
+62
+00:02:51,649 --> 00:02:56,219
+ameaça explorar uma vulnerabilidade e causar danos a uma.
+
+63
+00:02:56,229 --> 00:02:57,838
+Ah, a um ativo.
+
+64
+00:02:57,849 --> 00:02:59,528
+Então, quando a gente tá falando de risco,
+
+65
+00:02:59,538 --> 00:03:02,679
+tá é a probabilidade é a probabilidade.
+
+66
+00:03:02,689 --> 00:03:05,000
+Todo risco é uma probabilidade pra você entender isso,
+
+67
+00:03:05,008 --> 00:03:09,949
+tá que de uma ameaça exporá alguma brecha, né?
+
+68
+00:03:09,960 --> 00:03:13,330
+Para danificar um um dos seus ativos, então o
+
+69
+00:03:13,338 --> 00:03:17,868
+risco tá ligado a probabilidade de uma ameaça de atingir
+
+70
+00:03:17,879 --> 00:03:24,219
+algum dos seus ativos Proteção tá implementação de controles ou
+
+71
+00:03:24,229 --> 00:03:29,758
+contramedidas para reduzir os riscos associados a ameaças específicas ou
+
+72
+00:03:29,770 --> 00:03:31,229
+grupos de ameaça.
+
+73
+00:03:31,240 --> 00:03:33,778
+Então, a gente tem que criar proteções para os
+
+74
+00:03:33,788 --> 00:03:36,770
+nossos, para os nossos ativos, tá atrav.
+
+75
+00:03:36,778 --> 00:03:38,659
+Reduzindo os riscos.
+
+76
+00:03:38,669 --> 00:03:40,338
+A gente consegue risco zero.
+
+77
+00:03:40,349 --> 00:03:45,830
+Muito difícil, sim, com alto custo elevado investimento?
+
+78
+00:03:45,838 --> 00:03:48,889
+Talvez a gente chegue, tá próximo a zero,
+
+79
+00:03:48,899 --> 00:03:50,210
+mas é muito difícil.
+
+80
+00:03:50,219 --> 00:03:52,349
+Às vezes a gente reduz os riscos.
+
+81
+00:03:52,360 --> 00:03:55,330
+E quanto menor o risco, talvez mais caro ma
+
+82
+00:03:55,338 --> 00:03:57,969
+o maior grau de investimento que você vai precisar.
+
+83
+00:03:57,979 --> 00:04:03,849
+Tá vulnerabilidade, ameaças, desculpa, ausência ou fraqueza
+
+84
+00:04:03,860 --> 00:04:08,110
+de um sistema em proteção, tornando suscetíveis a ameaças.
+
+85
+00:04:08,550 --> 00:04:13,000
+Ameaças de baixo impacto podem se tornar significativas ou frequente
+
+86
+00:04:13,008 --> 00:04:15,278
+devidoà exploração de vulnerabilidade.
+
+87
+00:04:15,288 --> 00:04:16,379
+Então, a gente tem que co-.
+
+88
+00:04:16,389 --> 00:04:20,959
+Nós precisamos conhecer quais são as nossas vulnerabilidades A partir
+
+89
+00:04:20,970 --> 00:04:25,778
+do momento que você conhece quais são seus ativos,
+
+90
+00:04:25,790 --> 00:04:26,928
+eu tô aqui acompanhando com a caneta.
+
+91
+00:04:26,939 --> 00:04:28,678
+Calma, aí, gente, quando a partir do
+
+92
+00:04:28,689 --> 00:04:34,028
+momento que você conhece quais são seus ativos, você
+
+93
+00:04:34,040 --> 00:04:38,250
+começa a entender as vulnerabilidades dele.
+
+94
+00:04:38,259 --> 00:04:41,129
+E aí você começa a proteger.
+
+95
+00:04:41,139 --> 00:04:45,149
+Então você protege, você conhece seus ativos? Você
+
+96
+00:04:45,160 --> 00:04:48,730
+entende quais são as vulnerabilidades que ele tem? Entendendo
+
+97
+00:04:48,738 --> 00:04:51,048
+as vulnerabilidades? Você começa a proteger.
+
+98
+00:04:51,059 --> 00:04:53,189
+Tá vendo esse ciclo Como esse ciclo é importante?
+
+99
+00:04:53,278 --> 00:04:56,889
+Se você não conhece seus ativos, você não sabe
+
+100
+00:04:56,899 --> 00:04:59,269
+quais são as vulnerabilidades dele, ou seja, você
+
+101
+00:04:59,278 --> 00:05:00,660
+não consegue protegê-lo.
+
+102
+00:05:00,670 --> 00:05:03,569
+Portanto, eles são facilmente.
+
+103
+00:05:03,579 --> 00:05:06,369
+É um grau, tem um um elevado grau de
+
+104
+00:05:06,379 --> 00:05:11,048
+risco dele ser invadido ou ser corrompido e seus dados
+
+105
+00:05:11,059 --> 00:05:16,608
+seus ativos serem danificados próximo invasão Tá, eh quando
+
+106
+00:05:16,619 --> 00:05:18,649
+a gente ainda tava falando a gente tá falando alguns
+
+107
+00:05:18,660 --> 00:05:20,769
+termos que existem na norma vinte e sete mil e
+
+108
+00:05:20,778 --> 00:05:21,170
+cinco.
+
+109
+00:05:21,178 --> 00:05:22,230
+Tá, vamos focar aqui.
+
+110
+00:05:22,720 --> 00:05:26,689
+Quando um agente de ameaça obtém acessoà infraestrutura de
+
+111
+00:05:26,699 --> 00:05:30,410
+organização, ao contornar os controles de segurança estabelecidos,
+
+112
+00:05:30,420 --> 00:05:32,410
+podem causar danos diretos ao ativo.
+
+113
+00:05:32,420 --> 00:05:34,899
+Então isso é o que ele determina sobre invasão.
+
+114
+00:05:34,910 --> 00:05:37,629
+Tá que tá determinando alguns alguns pontos.
+
+115
+00:05:37,639 --> 00:05:40,108
+Exposição o que que é a exposição para a vinte
+
+116
+00:05:40,119 --> 00:05:41,088
+e sete mil e cinco.
+
+117
+00:05:41,100 --> 00:05:45,910
+A vulnerabilidade de um ativo a potenciais perdas devido ameaça
+
+118
+00:05:46,629 --> 00:05:49,838
+não significa que há perdas de ativos apenas há uma
+
+119
+00:05:49,850 --> 00:05:55,619
+probabilidade de uma vulnerabilidade que a ser explorada tá próximo
+
+120
+00:05:55,629 --> 00:06:00,189
+Ameaça ameaça é o que qualquer evento que tem o
+
+121
+00:06:00,199 --> 00:06:05,230
+potencial de causar efeitos indesejáveis em uma urbanização pode ser
+
+122
+00:06:05,238 --> 00:06:09,428
+de origem natural ou provocada tá? Podem ser eventos
+
+123
+00:06:09,439 --> 00:06:12,069
+de baixo ou alto impacto, tudo mais.
+
+124
+00:06:12,079 --> 00:06:15,949
+Tudo mais que existe entre as duas possibili possibilidades.
+
+125
+00:06:15,959 --> 00:06:19,350
+Então isso aqui é o que a ISO vinte e
+
+126
+00:06:19,358 --> 00:06:23,250
+sete mil e cinco determina como ameaça é um evento,
+
+127
+00:06:23,259 --> 00:06:25,139
+né? Eh, eh qualquer tipo de evento pode
+
+128
+00:06:25,149 --> 00:06:27,798
+ser uma um evento provocado, um evento natural eh.
+
+129
+00:06:27,809 --> 00:06:29,738
+Quando a gente fala em evento natural, a gente
+
+130
+00:06:29,750 --> 00:06:30,019
+tá falando.
+
+131
+00:06:30,028 --> 00:06:33,420
+Pode ser até um evento da natureza mesmo, né?
+
+132
+00:06:33,428 --> 00:06:35,759
+Você tem um data center, começa a chover e
+
+133
+00:06:35,769 --> 00:06:36,920
+e começa a alagar.
+
+134
+00:06:36,928 --> 00:06:39,160
+Enfim, isso também tá brecha.
+
+135
+00:06:39,769 --> 00:06:43,858
+Um mecanismo de segurança é contornado por uma ameaça ou
+
+136
+00:06:43,869 --> 00:06:47,858
+uma brecha explorada junto a um ataque pode significar uma
+
+137
+00:06:47,869 --> 00:06:51,699
+invasão bem sucedida, então Paraíso vinte e sete mil
+
+138
+00:06:51,709 --> 00:06:52,500
+e cinco.
+
+139
+00:06:52,509 --> 00:06:55,939
+Isso aqui é o conceito de brecha, Tá,
+
+140
+00:06:55,949 --> 00:07:00,259
+é um mecanismo de segurança que é contornado, é
+
+141
+00:07:00,269 --> 00:07:02,382
+um mecanismo de segurança contornado por uma ameaça.
+
+142
+00:07:02,392 --> 00:07:04,423
+Então, ou seja, cê protegeu vamos, vamos
+
+143
+00:07:04,432 --> 00:07:05,862
+lá pra sua, na na, na, no
+
+144
+00:07:05,872 --> 00:07:08,221
+seu ambiente de casa, né? Você protegeu o
+
+145
+00:07:08,233 --> 00:07:11,692
+seu ambiente completo? Cê tá lá seu seu antivírus
+
+146
+00:07:11,702 --> 00:07:13,583
+ou seu celular? Só que aí cê tem uma
+
+147
+00:07:13,591 --> 00:07:16,382
+brecha tem um uma um um ponto que você esqueceu
+
+148
+00:07:16,392 --> 00:07:17,442
+de colocar.
+
+149
+00:07:17,452 --> 00:07:20,541
+Ou você não atualizou o seu, o seu antivírus?
+
+150
+00:07:20,552 --> 00:07:25,235
+E aí abriu aquela brecha pra que os invasores acessem
+
+151
+00:07:25,245 --> 00:07:29,305
+seus dados e possam possam pegar cartão de crédito,
+
+152
+00:07:29,315 --> 00:07:33,185
+Fotos, enfim, então essas esses foram alguns aspectos
+
+153
+00:07:33,196 --> 00:07:33,725
+que a I.
+
+154
+00:07:33,735 --> 00:07:36,305
+A ISO vinte e sete mil e cinco que é
+
+155
+00:07:36,315 --> 00:07:39,384
+um a ISO voltada para a gestão de risco.
+
+156
+00:07:39,394 --> 00:07:41,105
+Usa pra esses critérios.
+
+157
+00:07:41,115 --> 00:07:41,745
+Tá bom, Vamos.
+
+158
+00:07:41,755 --> 00:07:43,454
+Vamos continuar falando sobre a a ISO vinte e sete
+
+159
+00:07:43,466 --> 00:07:46,165
+mil e cinco! Vejo vocês na próxima aula!
+

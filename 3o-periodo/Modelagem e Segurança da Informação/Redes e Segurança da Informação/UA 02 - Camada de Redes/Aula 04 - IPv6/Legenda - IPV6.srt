@@ -1,0 +1,636 @@
+1
+00:00:05,879 --> 00:00:09,419
+Olá aluno sou eu sou Fabrício Melo, vamos tratar
+
+2
+00:00:09,429 --> 00:00:11,448
+do seguinte assunto hoje o I p v seis,
+
+3
+00:00:11,460 --> 00:00:15,050
+exatamente o novo padrão de i p que está presente
+
+4
+00:00:15,060 --> 00:00:16,228
+aí nas redes, né.
+
+5
+00:00:16,458 --> 00:00:18,750
+Que a tendência é com o tempo substituir o I
+
+6
+00:00:18,760 --> 00:00:21,500
+P v quatro, apesar que os dois ainda andam
+
+7
+00:00:21,510 --> 00:00:22,829
+juntos nas redes.
+
+8
+00:00:22,839 --> 00:00:24,750
+Mas a tendência é que o I P v seis
+
+9
+00:00:24,760 --> 00:00:27,030
+domine de vez as redes até mesmo que o I
+
+10
+00:00:27,039 --> 00:00:29,789
+P v quatro tem aí uma limitação, né?
+
+11
+00:00:29,798 --> 00:00:32,469
+Com a quantidade de endereçamento existentes nele.
+
+12
+00:00:32,478 --> 00:00:34,429
+Nós já vimos que o i p v quatro ele
+
+13
+00:00:34,439 --> 00:00:38,630
+pode alcançar aí pouco mais de quatro bilhões de endereçamento
+
+14
+00:00:38,639 --> 00:00:39,728
+de combinações.
+
+15
+00:00:39,819 --> 00:00:42,469
+Isso os padrões que nós temos de redes hoje é
+
+16
+00:00:42,478 --> 00:00:44,990
+um padrão pequeno, é bem limitado.
+
+17
+00:00:45,000 --> 00:00:46,990
+Então trouxemos aí o i P.
+
+18
+00:00:47,000 --> 00:00:47,228
+V.
+
+19
+00:00:47,240 --> 00:00:52,310
+Seis ao qual vai suprir por muitas décadas muitos anos
+
+20
+00:00:52,319 --> 00:00:52,709
+o I P.
+
+21
+00:00:52,719 --> 00:00:55,149
+V quatro e você vai até se assustar, apesar
+
+22
+00:00:55,158 --> 00:00:57,270
+que a gente já fez esse cálculo aí, né,
+
+23
+00:00:57,279 --> 00:00:58,829
+Ele gera, aí mais ou menos por volta de
+
+24
+00:00:58,840 --> 00:01:02,630
+trezentos e quarenta um de milhões de combinações de números.
+
+25
+00:01:02,639 --> 00:01:05,129
+Ou seja, a gente tem i P i por
+
+26
+00:01:05,138 --> 00:01:07,469
+um bom tempo, né eh eles calculam aí os
+
+27
+00:01:07,480 --> 00:01:11,588
+especialistas que cem anos vamos ter i p pra suprir.
+
+28
+00:01:11,599 --> 00:01:13,750
+Tá? Então vamos falar como é que funciona aí?
+
+29
+00:01:13,760 --> 00:01:16,469
+O i p v seis No caso o pacote como
+
+30
+00:01:16,480 --> 00:01:18,829
+é que é feito o pacote? A identificação do
+
+31
+00:01:18,838 --> 00:01:21,250
+pacote? I p v seis Ele ganhou alguma vantagem
+
+32
+00:01:21,260 --> 00:01:24,159
+com relação ao i p v quatro né vi.
+
+33
+00:01:24,168 --> 00:01:27,909
+Vieram boas mudanças, com certeza o i p v
+
+34
+00:01:27,918 --> 00:01:29,349
+seis veio pra muito pra melhor.
+
+35
+00:01:29,359 --> 00:01:31,870
+Olha só como eu falei, ele foi desenvolvido pra
+
+36
+00:01:31,879 --> 00:01:34,290
+superar as limitações do I P v quatro v quatro
+
+37
+00:01:34,299 --> 00:01:37,010
+tem esse limite aí de pouco mais de quatro bilhões
+
+38
+00:01:37,019 --> 00:01:40,609
+de endereçamento né? E ele vai apresentar novos recursos,
+
+39
+00:01:40,620 --> 00:01:43,730
+Porém as principais melhorias que o I P V C
+
+40
+00:01:43,739 --> 00:01:47,569
+traz vão incluir o que aluno olha lá o espaço
+
+41
+00:01:47,579 --> 00:01:48,769
+de endereçamento.
+
+42
+00:01:48,778 --> 00:01:51,480
+Então o o i P V C já é baseado
+
+43
+00:01:51,489 --> 00:01:54,588
+oh endereçamento hierarquia de cento e vinte e oito bits,
+
+44
+00:01:55,058 --> 00:01:57,989
+então você já trabalha lá com números Exa Deci mais
+
+45
+00:01:58,000 --> 00:02:01,308
+oito campos Okay de de Exa deci mais são números
+
+46
+00:02:01,319 --> 00:02:04,549
+de que de dezesseis bits Quando você pega dezesseis e
+
+47
+00:02:04,558 --> 00:02:06,750
+multiplica por oito campos, você vai ter lá um
+
+48
+00:02:06,760 --> 00:02:09,528
+total de cento e vinte e oito bits que é
+
+49
+00:02:09,538 --> 00:02:10,149
+o endereçamento.
+
+50
+00:02:10,159 --> 00:02:15,538
+Então você consegue gerar uma quantidade muito maior de endereçamento
+
+51
+00:02:15,550 --> 00:02:16,528
+que o i p v quatro.
+
+52
+00:02:16,538 --> 00:02:18,270
+Já o i P v quatro trabalha com um limite
+
+53
+00:02:18,278 --> 00:02:20,429
+de trinta e dois bits como nós já estudamos que
+
+54
+00:02:20,439 --> 00:02:25,278
+são ali, né quatro de de oito vai dar
+
+55
+00:02:25,288 --> 00:02:27,439
+quatro, dezoito, trinta e dois bits Como a
+
+56
+00:02:27,449 --> 00:02:29,960
+gente já estudou, tá, ele melhora o tratamento
+
+57
+00:02:29,969 --> 00:02:30,538
+de pacotes.
+
+58
+00:02:30,550 --> 00:02:32,080
+Por quê? Porque o cabeçalho de i p v
+
+59
+00:02:32,088 --> 00:02:35,278
+seis ele é mais simples com menos campos.
+
+60
+00:02:35,288 --> 00:02:38,599
+Então, se você faz um cabeçalho ali do pacote
+
+61
+00:02:38,610 --> 00:02:42,038
+mais reduzido, com menos campos, o tratamento é
+
+62
+00:02:42,050 --> 00:02:45,058
+mais facilitado, O tratamento ele é mais dinâmico.
+
+63
+00:02:45,069 --> 00:02:48,960
+Então você consegue aí melhorar muito esse tratamento dos pacotes
+
+64
+00:02:48,969 --> 00:02:52,199
+né? E outra ele melhora muita conectividade, aluno
+
+65
+00:02:52,210 --> 00:02:57,399
+ponta a ponta, eliminando a necessidade do nat famoso
+
+66
+00:02:57,409 --> 00:03:01,439
+network Edwar translation, que é aquele protocolo que faz,
+
+67
+00:03:01,449 --> 00:03:05,439
+né? A tradução de endereços i PS da rede
+
+68
+00:03:05,449 --> 00:03:08,860
+local pra endereços IPs da rede pública, porque a
+
+69
+00:03:08,868 --> 00:03:11,038
+gente sabe que aquelas classes de P A B,
+
+70
+00:03:11,050 --> 00:03:15,038
+c são classes de endereços privados que não vão pra
+
+71
+00:03:15,050 --> 00:03:15,740
+internet.
+
+72
+00:03:16,008 --> 00:03:18,819
+Então pra essas máquinas conseguirem ir pra internet, a
+
+73
+00:03:18,830 --> 00:03:21,740
+gente tem que fazer o tratamento através do protocolo?
+
+74
+00:03:21,750 --> 00:03:22,179
+Nat.
+
+75
+00:03:22,189 --> 00:03:24,099
+Então, o Nat ele pega o I P de
+
+76
+00:03:24,110 --> 00:03:27,219
+uma rede privada, converte ali o pacote no i
+
+77
+00:03:27,229 --> 00:03:29,719
+P da rede pública pra ir pra internet.
+
+78
+00:03:29,729 --> 00:03:33,778
+E quando volta o nat reconverte isso aí, né?
+
+79
+00:03:33,788 --> 00:03:35,979
+No caso o i P v seis você não tem
+
+80
+00:03:35,990 --> 00:03:38,939
+a necessidade do nat até mesmo pela quantidade de números
+
+81
+00:03:38,949 --> 00:03:40,618
+que você tem, tá vendo oh lá porque ele
+
+82
+00:03:40,629 --> 00:03:42,819
+permite um grande número de endereços de i P v
+
+83
+00:03:42,830 --> 00:03:43,460
+seis públicos.
+
+84
+00:03:43,469 --> 00:03:45,419
+Tá vendo que o I p v quatro não permitia,
+
+85
+00:03:45,429 --> 00:03:47,649
+né? Então o nat oh entre o endereço P
+
+86
+00:03:47,659 --> 00:03:50,439
+V C privado e um público ele não é necessário.
+
+87
+00:03:50,449 --> 00:03:54,629
+Eu não preciso fazer essa conversão, né? Isso
+
+88
+00:03:54,639 --> 00:03:58,080
+vai evitar o quê? Que alguns dos problemas introduzidos
+
+89
+00:03:58,088 --> 00:03:59,879
+pelo na t, que é o quê? Eh
+
+90
+00:03:59,889 --> 00:04:03,419
+enfrentar os aplicativos de conectar de conectividade de ponta a
+
+91
+00:04:03,429 --> 00:04:03,629
+ponta.
+
+92
+00:04:03,639 --> 00:04:05,879
+Então, quando eu tenho uma conectividade de uma rede,
+
+93
+00:04:05,889 --> 00:04:08,849
+por exemplo, interna com a rede pública, eu
+
+94
+00:04:08,860 --> 00:04:13,929
+tenho que fazer a passagem pelo roteador através do convenção
+
+95
+00:04:13,939 --> 00:04:14,409
+do Nat.
+
+96
+00:04:14,419 --> 00:04:16,970
+Eu não precisaria passar por isso.
+
+97
+00:04:16,980 --> 00:04:20,488
+Então essa conectividade de ponta a ponta ela seria mais
+
+98
+00:04:20,500 --> 00:04:21,290
+simples.
+
+99
+00:04:21,298 --> 00:04:24,528
+Okay Aí, Como é que funciona o pacote I
+
+100
+00:04:24,540 --> 00:04:26,769
+p V seis que que nós temos no pacote p
+
+101
+00:04:26,778 --> 00:04:28,910
+v seis oh lá o pacote p v seis ele
+
+102
+00:04:28,920 --> 00:04:31,629
+é contido pela versão no caso em a versão do
+
+103
+00:04:31,639 --> 00:04:35,250
+protocolo, né? Que é a zero um um
+
+104
+00:04:35,259 --> 00:04:37,608
+zero para o I P V são seis.
+
+105
+00:04:37,619 --> 00:04:40,949
+Nós temos a classe de tráfego que é um um
+
+106
+00:04:40,959 --> 00:04:43,809
+tamanho de oito bits que equivale ao campo D S
+
+107
+00:04:43,819 --> 00:04:45,649
+V que é os serviços diferenciados do I p v
+
+108
+00:04:45,660 --> 00:04:48,329
+quatro Você deve lembrar, né? Do do do
+
+109
+00:04:48,338 --> 00:04:50,809
+formado do pacote i p v quatro aqui tá fazendo
+
+110
+00:04:50,819 --> 00:04:53,939
+uma comparação tá etiqueta de fluxo né? Que é
+
+111
+00:04:53,949 --> 00:04:56,559
+pacotes com a mesma etiqueta recebem o mesmo tipo de
+
+112
+00:04:56,569 --> 00:05:01,189
+manipulação pelos roteadores e temos o comprimento de pay que
+
+113
+00:05:01,199 --> 00:05:03,660
+é a carga útil dezesseis bits, que é o
+
+114
+00:05:03,670 --> 00:05:06,949
+comprimento do campo de dados Okay não inclui o comprimento
+
+115
+00:05:06,959 --> 00:05:10,369
+cabeçalho aí hein o i p v seis que é
+
+116
+00:05:10,379 --> 00:05:13,809
+fixo de quarenta bits Tá então isso aí é o
+
+117
+00:05:13,819 --> 00:05:16,209
+que você tem no pacote e tem também oh lá
+
+118
+00:05:16,220 --> 00:05:20,290
+o próximo cabeçalho que define o protocolo da camada de
+
+119
+00:05:20,298 --> 00:05:23,100
+enlace que o pacote está carregando, lembra Então,
+
+120
+00:05:23,108 --> 00:05:25,569
+quando ele desce pra camada de enlace, cê vai
+
+121
+00:05:25,579 --> 00:05:28,230
+ter, ou seja, o próximo cabeçalho temos o
+
+122
+00:05:28,238 --> 00:05:31,600
+limite de salto que substitui aquele campo t T L
+
+123
+00:05:31,608 --> 00:05:34,559
+do i p v quatro lembra aquela questão do tempo
+
+124
+00:05:34,569 --> 00:05:36,980
+e temos o endereço i P v seis de origem
+
+125
+00:05:36,988 --> 00:05:38,678
+lá cento e vinte e oito bits que é o
+
+126
+00:05:38,689 --> 00:05:41,959
+tamanho de endereço i p v seis E também temos
+
+127
+00:05:41,970 --> 00:05:44,439
+o endereço do i P V C de destino que
+
+128
+00:05:44,449 --> 00:05:47,384
+também é de cem cento e vinte e oito bits.
+
+129
+00:05:47,394 --> 00:05:52,704
+Okay Então nós temos definido assim os campos do endereçamento
+
+130
+00:05:52,713 --> 00:05:54,285
+aí, como é que eu mostro pra você aqui?
+
+131
+00:05:54,295 --> 00:05:57,625
+Oh olha só que interessante diferente do i p v
+
+132
+00:05:57,634 --> 00:05:59,303
+quatro tá vendo oh o i p v seis não
+
+133
+00:05:59,314 --> 00:06:03,204
+vai incluir aquele campo de verificação de erro do cabeçalho.
+
+134
+00:06:03,910 --> 00:06:06,298
+Lembra disso que o i p v quatro tinha e
+
+135
+00:06:06,309 --> 00:06:08,119
+isso vai melhorar o desempenho da rede.
+
+136
+00:06:08,129 --> 00:06:10,079
+Por que que vai melhorar o desempenho da rede aluno
+
+137
+00:06:10,088 --> 00:06:15,519
+simplesmente porque os roteadores não vão precisar calcular aquela soma
+
+138
+00:06:15,528 --> 00:06:19,559
+de verificação quando diminuiu o campo limite de saltos lembra
+
+139
+00:06:19,569 --> 00:06:23,278
+disso? Em cada roteamento, então cada roteador não
+
+140
+00:06:23,290 --> 00:06:27,298
+vai precisar mais fazer essa essa verificação, né?
+
+141
+00:06:27,509 --> 00:06:29,319
+E além disso, oh lá, os roteadores não
+
+142
+00:06:29,329 --> 00:06:33,319
+vão fragmentar os pacotes i p V c roteado tá,
+
+143
+00:06:33,329 --> 00:06:36,559
+então nós temos aí tá vendo oh lá Versão classe
+
+144
+00:06:36,569 --> 00:06:40,449
+de tráfico ao tamanho da carga próximo cabeça lá,
+
+145
+00:06:40,459 --> 00:06:43,519
+o limite de saltos, endereços lá de origem e
+
+146
+00:06:43,528 --> 00:06:46,738
+endereço de destino aí são os campos que você tem
+
+147
+00:06:46,750 --> 00:06:48,088
+no pacote i p v seis.
+
+148
+00:06:48,100 --> 00:06:52,170
+Ou seja, você diminui muito aí né, eh?
+
+149
+00:06:52,178 --> 00:06:54,209
+Eh, eh o trabalho que é dado na rede
+
+150
+00:06:54,220 --> 00:06:57,088
+do i p v quatro utilizando o i p v
+
+151
+00:06:57,100 --> 00:07:00,170
+seis né cê diminui tabela de roteamento, etc.
+
+152
+00:07:00,178 --> 00:07:02,769
+Ou seja, é bem vantajoso e não tem como
+
+153
+00:07:02,778 --> 00:07:04,129
+mais voltar atrás.
+
+154
+00:07:04,139 --> 00:07:07,410
+O I p v seis vai ser aí O protocolo
+
+155
+00:07:07,420 --> 00:07:09,449
+do futuro já tá sendo usado como eu falei,
+
+156
+00:07:09,459 --> 00:07:10,290
+juntamente com o I P.
+
+157
+00:07:10,298 --> 00:07:12,230
+V quatro, mas a tendência é que o I
+
+158
+00:07:12,238 --> 00:07:15,889
+P V seis que vai dominar pra valer aí as
+
+159
+00:07:15,899 --> 00:07:19,160
+redes Okay até logo um grande abraço
+

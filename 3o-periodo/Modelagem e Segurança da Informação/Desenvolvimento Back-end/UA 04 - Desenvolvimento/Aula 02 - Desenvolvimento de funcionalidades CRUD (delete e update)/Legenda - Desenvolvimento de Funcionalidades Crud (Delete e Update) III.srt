@@ -1,0 +1,500 @@
+1
+00:00:06,738 --> 00:00:09,028
+Olá, vamos falar um pouquinho sobre a exclusão e
+
+2
+00:00:09,038 --> 00:00:12,710
+alteração via, né? Ou seja, eu quero
+
+3
+00:00:12,720 --> 00:00:17,059
+através de um web, pra conseguir fazer alterações e
+
+4
+00:00:17,068 --> 00:00:19,539
+exclusões em uma base de dados.
+
+5
+00:00:19,548 --> 00:00:21,339
+E é claro que eu vou ter ali o meu,
+
+6
+00:00:21,350 --> 00:00:21,699
+né.
+
+7
+00:00:21,708 --> 00:00:25,940
+O meu eh utilizando o Dow pra facilitar essa coisa,
+
+8
+00:00:25,949 --> 00:00:29,228
+né? Se eu já programei no Dow toda aquela
+
+9
+00:00:29,239 --> 00:00:33,039
+funcionalidade da exclusão e da alteração, né? Já
+
+10
+00:00:33,048 --> 00:00:35,750
+falando lá com sequela e o sequelas falando com uma
+
+11
+00:00:35,759 --> 00:00:38,158
+q l, eh quando eu chego no st o
+
+12
+00:00:38,168 --> 00:00:41,500
+que eu tenho que fazer é pegar e eh corretamente
+
+13
+00:00:41,509 --> 00:00:45,439
+as informações do h T p e acionar o down
+
+14
+00:00:45,450 --> 00:00:50,020
+com os dados já eh já organizados da forma que
+
+15
+00:00:50,029 --> 00:00:53,759
+é necessária, né? Vamos ver como funciona então
+
+16
+00:00:53,770 --> 00:00:59,770
+Exclusão altera via configuração do servidor express Eu vou precisar
+
+17
+00:00:59,779 --> 00:01:02,728
+do n PS está express, do Bori PAR e
+
+18
+00:01:02,740 --> 00:01:06,489
+do cos, né? O Express é o servidor,
+
+19
+00:01:06,500 --> 00:01:08,698
+o bori parse pra fazer a conversão do Jason e
+
+20
+00:01:08,709 --> 00:01:12,930
+o pra evitar problemas de acesso de domínios diferenciados E
+
+21
+00:01:12,939 --> 00:01:16,260
+vou acrescentar as rotas com e opte que que eu
+
+22
+00:01:16,269 --> 00:01:18,709
+tô fazendo aqui, né? O que eu tô
+
+23
+00:01:18,719 --> 00:01:23,549
+fazendo aqui é o seguinte meu eh express ele já
+
+24
+00:01:23,558 --> 00:01:27,808
+tá configurado aqui pra usar Boy par Jason cor,
+
+25
+00:01:27,819 --> 00:01:30,650
+Origem, Asterisco, né? Ou seja, vai
+
+26
+00:01:30,659 --> 00:01:33,849
+aceitar qualquer tipo de origem qualquer tipo de método,
+
+27
+00:01:33,859 --> 00:01:34,558
+o CORS.
+
+28
+00:01:34,569 --> 00:01:37,010
+Eu consigo trabalhar com ele pra poder bloquear uma série
+
+29
+00:01:37,019 --> 00:01:40,969
+de coisas diferentes, né? No personagens, né?
+
+30
+00:01:40,980 --> 00:01:43,180
+Minha ro- assim na no caminho de base de personagens,
+
+31
+00:01:43,189 --> 00:01:46,459
+vou usar a rota jogo, que é essa rota
+
+32
+00:01:47,799 --> 00:01:54,209
+não! Onde eu tenho as várias chamadas post e
+
+33
+00:01:54,219 --> 00:01:58,819
+agora a de elite E a chamada put né?
+
+34
+00:01:58,829 --> 00:02:02,319
+A de elite no caso pra poder fazer a remoção
+
+35
+00:02:02,329 --> 00:02:03,819
+daquele personagem.
+
+36
+00:02:03,829 --> 00:02:06,838
+E a update, pra poder fazer a alteração dos
+
+37
+00:02:06,849 --> 00:02:09,800
+seus dados, são os métodos de elite update do
+
+38
+00:02:09,808 --> 00:02:17,368
+protocolo, né? Bom, Então vou acrescentar essas
+
+39
+00:02:17,379 --> 00:02:20,490
+duas rotas E como é que eu tenho ali no
+
+40
+00:02:20,500 --> 00:02:22,868
+de Elite, né? O de elite O que
+
+41
+00:02:22,879 --> 00:02:25,939
+eu vou fazer? Eu vou receber o A D
+
+42
+00:02:25,949 --> 00:02:30,669
+como parâmetro da requisição e aí eu vou chamar o
+
+43
+00:02:30,679 --> 00:02:34,080
+Dow passando esse parâmetro, né? Então, como
+
+44
+00:02:34,088 --> 00:02:37,599
+é que fica essa coisa ali, né? Eh
+
+45
+00:02:37,610 --> 00:02:41,558
+barra i d oh esse dois pontos aí de significa
+
+46
+00:02:41,569 --> 00:02:45,449
+o parâmetro da requisição let dados é igual ao do
+
+47
+00:02:45,460 --> 00:02:49,889
+the hack para de não, ou seja, o
+
+48
+00:02:49,899 --> 00:02:53,849
+hack ponto para ponto a d hack é requisição.
+
+49
+00:02:53,860 --> 00:02:57,389
+Parâmetros da requisição são os parâmetros que vão nos segmentos,
+
+50
+00:02:57,399 --> 00:03:00,219
+né? Se barra isso barra aquilo da sua requisição
+
+51
+00:03:00,229 --> 00:03:02,490
+da sua R l da requisição, então o hack
+
+52
+00:03:02,500 --> 00:03:04,008
+ponto para a i d vai ser o que o
+
+53
+00:03:04,020 --> 00:03:06,550
+cara tiver digitado nesse último segmento, que tá como
+
+54
+00:03:06,558 --> 00:03:09,058
+dois pontos a I D ele vai pegar esse aí
+
+55
+00:03:09,069 --> 00:03:12,909
+de na própria rota e vai chamar o do de
+
+56
+00:03:13,558 --> 00:03:15,750
+né? Ou seja lá no do de elite.
+
+57
+00:03:16,368 --> 00:03:18,949
+Se eu seguir aqui ele vai.
+
+58
+00:03:18,960 --> 00:03:22,558
+Tá db personagem destrói o A I D é igual
+
+59
+00:03:22,569 --> 00:03:24,610
+aquele I D que foi fornecido na rota.
+
+60
+00:03:24,618 --> 00:03:27,149
+Com isso eu consigo fazer a exclusão de um cara
+
+61
+00:03:27,159 --> 00:03:29,990
+específico através do ar, né? Bom, isso
+
+62
+00:03:30,000 --> 00:03:32,389
+aí vai retornar pra mim o número de elementos que
+
+63
+00:03:32,399 --> 00:03:36,528
+foram eh removidos, né? E eu vou retornar
+
+64
+00:03:36,538 --> 00:03:40,689
+isso para o cliente através de Jason Jason Dados Tá
+
+65
+00:03:41,270 --> 00:03:45,080
+com isso eu completo A operação do delite adopt não
+
+66
+00:03:45,088 --> 00:03:48,219
+é tão diferente assim, né? Quando eu falo
+
+67
+00:03:48,229 --> 00:03:51,580
+do update seria através do put, né? O
+
+68
+00:03:51,588 --> 00:03:54,439
+método put do h t p tá relacionado ao update
+
+69
+00:03:55,118 --> 00:03:59,649
+eh PO né? Barra dois pontos de assim que
+
+70
+00:03:59,659 --> 00:04:02,960
+hack rece? Tá que que eu vou ter lá
+
+71
+00:04:02,969 --> 00:04:05,719
+na chamada do Dow eu tenho que passar qual i
+
+72
+00:04:05,729 --> 00:04:10,899
+d, né? Para vou pegar pela rota e
+
+73
+00:04:10,909 --> 00:04:14,099
+qual a informação que é hack ponto boy, né?
+
+74
+00:04:14,110 --> 00:04:22,108
+Novamente nesse ambiente aqui eu tenho da update de peguei
+
+75
+00:04:22,119 --> 00:04:26,019
+daqui e o boy, que é o que foi
+
+76
+00:04:26,028 --> 00:04:29,298
+enviado no corpo no formato Jason quando ele faz isso
+
+77
+00:04:29,309 --> 00:04:32,899
+ele vai pro update e eu tenho uma chamada update
+
+78
+00:04:32,910 --> 00:04:37,160
+lá da seguinte forma d b personagem que é meu.
+
+79
+00:04:37,170 --> 00:04:42,000
+Se o utilize as informações do Jason, né O
+
+80
+00:04:42,009 --> 00:04:44,879
+que eu tiver passado pra ele de informação aonde?
+
+81
+00:04:44,889 --> 00:04:48,040
+Aonde? O i d é aquele i d especificado.
+
+82
+00:04:48,048 --> 00:04:50,509
+Essa é uma operação de alteração via método.
+
+83
+00:04:50,519 --> 00:04:53,000
+Put, né? Então com isso aí ele vai
+
+84
+00:04:53,009 --> 00:04:56,439
+conseguir alterar os dados daquele personagem específico, já que
+
+85
+00:04:56,449 --> 00:04:58,639
+eu tô usando a chave sempre vai ser apenas um
+
+86
+00:04:58,649 --> 00:05:01,209
+personagem, vai ser aquele que tá sendo buscado pela
+
+87
+00:05:01,220 --> 00:05:06,350
+chave primária, né? Bom, E aí eu
+
+88
+00:05:06,358 --> 00:05:08,790
+já tenho o meu servidor rodando, né? Eu
+
+89
+00:05:08,798 --> 00:05:12,329
+tenho lá meu W Quando ele pega essas rotas,
+
+90
+00:05:12,338 --> 00:05:15,488
+ele tá pegando todo esse comportamento que eu defini aqui
+
+91
+00:05:15,500 --> 00:05:18,250
+para os quatro métodos do h t P, que
+
+92
+00:05:18,259 --> 00:05:22,608
+corresponderão aí no casoàs quatro opções de um crude.
+
+93
+00:05:22,619 --> 00:05:25,928
+E agora eu tenho um servidor um abv? C
+
+94
+00:05:25,939 --> 00:05:29,889
+Eh, né? Ele é um completo onde eu
+
+95
+00:05:29,899 --> 00:05:31,488
+tenho todas as operações do crude.
+
+96
+00:05:31,500 --> 00:05:36,588
+Isso faz dele um a C do tipo, né?
+
+97
+00:05:37,048 --> 00:05:41,500
+Então, com isso eu consigo eh definir tudo que
+
+98
+00:05:41,509 --> 00:05:44,040
+eu preciso em termos de manutenção de banco a nível
+
+99
+00:05:44,048 --> 00:05:45,059
+de serviço.
+
+100
+00:05:45,069 --> 00:05:45,379
+Tá.
+
+101
+00:05:45,389 --> 00:05:48,899
+Se eu preciso consultar meus personagens, eu vou dar
+
+102
+00:05:48,910 --> 00:05:52,178
+o get, ele vai lá no Down e através
+
+103
+00:05:52,189 --> 00:05:55,059
+de sequelas o ele vai conseguir receber todos, né?
+
+104
+00:05:55,069 --> 00:05:59,480
+Ou o eh com uma cláusula are, né?
+
+105
+00:05:59,488 --> 00:06:03,139
+Eh Onde ele vai ter a chave o vai pecar
+
+106
+00:06:03,149 --> 00:06:05,600
+no caso de ser apenas uma entidade, Se eu
+
+107
+00:06:05,608 --> 00:06:08,879
+usar o post, ele vai acionar a inserção do
+
+108
+00:06:08,889 --> 00:06:12,000
+crude que seria através do cliente.
+
+109
+00:06:12,009 --> 00:06:15,600
+Se ele colocar um ele vai usar o destroy,
+
+110
+00:06:15,608 --> 00:06:18,988
+né? E se ele usar o eh o put
+
+111
+00:06:19,000 --> 00:06:20,879
+ele vai acionar o update.
+
+112
+00:06:20,889 --> 00:06:24,088
+Então tem essa relação entre os métodos do h T
+
+113
+00:06:24,100 --> 00:06:27,523
+P e eh o que é chamado em termos de
+
+114
+00:06:27,531 --> 00:06:31,403
+uma entidade do sequela para que faça as devidas operações
+
+115
+00:06:31,411 --> 00:06:34,122
+em relação ao banco, sempre lembrando que vai ter
+
+116
+00:06:34,132 --> 00:06:38,562
+alguma outra conversão em termos do funcionamento do próprio HPP
+
+117
+00:06:38,572 --> 00:06:40,762
+e da chamada lá do banco.
+
+118
+00:06:40,773 --> 00:06:43,202
+Por isso que nós temos o Dow para poder organizar
+
+119
+00:06:43,213 --> 00:06:47,324
+as chamadas e o controlador, que seria um um
+
+120
+00:06:47,334 --> 00:06:51,045
+servidor, um express, onde as suas rotas já
+
+121
+00:06:51,055 --> 00:06:54,406
+fazem esse intercâmbio entre os métodos h t P os
+
+122
+00:06:54,415 --> 00:06:56,966
+valores fornecidos e o que é requisitado no Down,
+
+123
+00:06:56,975 --> 00:07:01,764
+deixando um lado e outro completamente independente, né?
+
+124
+00:07:01,776 --> 00:07:03,644
+Com isso, a gente já tem o nosso servidor
+
+125
+00:07:03,656 --> 00:07:07,346
+completo para a execução no modo do web.
+

@@ -1,0 +1,736 @@
+1
+00:00:06,669 --> 00:00:12,239
+Olá pessoal! Eh! Vamos estreita nossos conhecimentos cada
+
+2
+00:00:12,250 --> 00:00:16,478
+vez mais vamos falar agora sobre b p MB PM
+
+3
+00:00:16,489 --> 00:00:21,079
+n e b PM SS são três siglas bem interessantes
+
+4
+00:00:21,089 --> 00:00:22,958
+aí, né? Mas vamos entender cada uma delas
+
+5
+00:00:22,969 --> 00:00:24,809
+ao longo dessa nossa caminhada.
+
+6
+00:00:24,818 --> 00:00:29,399
+Okay Bom eh Então só pra vocês terem familiaridade com
+
+7
+00:00:29,408 --> 00:00:31,199
+aquilo que nós estamos falando, né? Então aí
+
+8
+00:00:31,208 --> 00:00:34,759
+as três três siglas eh muito, eh, eh
+
+9
+00:00:34,770 --> 00:00:40,450
+voltadas para a gestão de processos okay, então são
+
+10
+00:00:40,459 --> 00:00:44,609
+terminologias importantes e cada uma de uma perspectiva em relação
+
+11
+00:00:44,618 --> 00:00:48,840
+àquilo que a gente tá eh buscando entender do nosso
+
+12
+00:00:48,848 --> 00:00:50,868
+do nosso conceito Tá legal.
+
+13
+00:00:50,880 --> 00:00:55,329
+Então olha só o B PM é a disciplina gerencial.
+
+14
+00:00:55,340 --> 00:00:59,209
+Ela tá integrando as estratégias e objetivos com a expectativa
+
+15
+00:00:59,219 --> 00:00:59,848
+do cliente.
+
+16
+00:00:59,859 --> 00:01:03,228
+Olha só que intere interessante, OH! Eh quando
+
+17
+00:01:03,240 --> 00:01:05,549
+a gente fala de disciplina, eu tô falando de
+
+18
+00:01:05,558 --> 00:01:08,870
+um método definido de um método construído de algo que
+
+19
+00:01:08,879 --> 00:01:13,189
+vai direcionar, né, que vai pautar o nosso
+
+20
+00:01:13,198 --> 00:01:16,609
+conhecimento ofertando base pra este.
+
+21
+00:01:16,620 --> 00:01:19,668
+Então, por exemplo, nós estamos aqui numa disciplina
+
+22
+00:01:19,680 --> 00:01:21,694
+de gestão, processo, essa é uma disciplina,
+
+23
+00:01:21,704 --> 00:01:24,834
+Ela tem todo um método científico voltado pra ela.
+
+24
+00:01:24,844 --> 00:01:30,614
+Ela tem toda uma perspectiva de entendimento, de construção,
+
+25
+00:01:30,625 --> 00:01:35,474
+de amadurecimento e, claro, melhorias constantes, então
+
+26
+00:01:35,484 --> 00:01:37,314
+por isso é disciplina.
+
+27
+00:01:37,588 --> 00:01:42,879
+Tá quando a gente fala integrando estratégias e objetivos,
+
+28
+00:01:42,888 --> 00:01:44,400
+porque eu a A A.
+
+29
+00:01:44,409 --> 00:01:49,120
+A disciplina GE gerencial de gestão de processos Ela tem
+
+30
+00:01:49,129 --> 00:01:54,558
+que olhar a estratégia institucional e os objetivos da organização,
+
+31
+00:01:54,569 --> 00:01:58,599
+integrando isso com a expectativa do cliente, porque o
+
+32
+00:01:58,609 --> 00:02:01,418
+meu o meu eh Ah, vamos dizer assim.
+
+33
+00:02:01,430 --> 00:02:05,290
+O meu resultado final é manter o meu cliente,
+
+34
+00:02:05,299 --> 00:02:08,508
+é fazer com que aquele cara ali esteja, esteja
+
+35
+00:02:08,520 --> 00:02:12,457
+satisfeito? Então eh, a gente tem que inverter
+
+36
+00:02:12,467 --> 00:02:14,058
+um pouco a perspectiva, que ah! Ah,
+
+37
+00:02:14,068 --> 00:02:18,758
+ah, antigamente, eh na época lá do do,
+
+38
+00:02:18,768 --> 00:02:21,657
+do Ford, da do dos pensadores, lá atrás,
+
+39
+00:02:21,669 --> 00:02:24,818
+né? O o quando foi criado o carro,
+
+40
+00:02:24,828 --> 00:02:26,338
+né? Tem uma historinha que o pessoal fala assim
+
+41
+00:02:26,348 --> 00:02:28,937
+Olha, eh, todo mundo tem direito a ter
+
+42
+00:02:28,949 --> 00:02:31,058
+um carro, desde que seja na cor preta.
+
+43
+00:02:31,068 --> 00:02:34,629
+Então veja, eh E quem determinava o rumo da
+
+44
+00:02:34,639 --> 00:02:38,689
+PRA, onde seguiriam a aquilo que eu tava entregando?
+
+45
+00:02:38,699 --> 00:02:40,949
+Não era o cliente e sim a empresa.
+
+46
+00:02:40,960 --> 00:02:42,508
+Então, você, eu tô te entregando.
+
+47
+00:02:42,520 --> 00:02:44,689
+Você compra aquilo que eu tô te ofertando, né?
+
+48
+00:02:44,699 --> 00:02:45,629
+Eh mais ou menos.
+
+49
+00:02:45,639 --> 00:02:49,229
+Isso eh Hoje, a nossa perspectiva é voltada para
+
+50
+00:02:49,240 --> 00:02:52,669
+o cliente a expectativa do cliente por isso aquela palavrinha
+
+51
+00:02:52,679 --> 00:02:55,349
+de agregação de valor, né? Então, quando
+
+52
+00:02:55,360 --> 00:02:57,588
+eu olho para o meu cliente, eu começo a
+
+53
+00:02:57,599 --> 00:03:03,534
+trabalhar uma estratégia institucional, organização voltada para atender os
+
+54
+00:03:03,544 --> 00:03:04,754
+objetivos.
+
+55
+00:03:04,764 --> 00:03:07,395
+E, é claro, se eu atendo as expectativas
+
+56
+00:03:07,403 --> 00:03:10,294
+do cliente, esse cliente fica, Esse cliente compra
+
+57
+00:03:10,304 --> 00:03:12,993
+esse cliente, indica, esse cliente está dentro da
+
+58
+00:03:13,004 --> 00:03:16,974
+minha organização e é claro, eu vou atender,
+
+59
+00:03:16,985 --> 00:03:21,008
+né? Ou realizar os meus objetivos institucionais? Okay
+
+60
+00:03:21,020 --> 00:03:24,129
+então, por isso, uma disciplina gerencial.
+
+61
+00:03:24,139 --> 00:03:29,990
+Agora o B PM n é a linguagem padronizada para
+
+62
+00:03:30,000 --> 00:03:32,710
+visualização de processo linguagem.
+
+63
+00:03:32,719 --> 00:03:37,110
+A forma como eu estruturou o processo é por meio
+
+64
+00:03:37,118 --> 00:03:40,469
+de uma linguagem, né, uma linguagem que é
+
+65
+00:03:40,479 --> 00:03:45,088
+baseada num fluxo de entendimento de como acontece o processo.
+
+66
+00:03:45,099 --> 00:03:46,008
+Então vamos lá.
+
+67
+00:03:46,020 --> 00:03:49,949
+O processo nasce com a solicitação de compra de um
+
+68
+00:03:49,960 --> 00:03:54,719
+cliente, ele vai para a forma de pagamento.
+
+69
+00:03:54,729 --> 00:03:59,199
+Então, essa linguagem padronizada é como eu vou representar
+
+70
+00:03:59,210 --> 00:04:02,520
+esta estrutura, né linguagem É como eu vou representar
+
+71
+00:04:02,528 --> 00:04:06,399
+essa estrutura que eu tô entregando eh de serviço que
+
+72
+00:04:06,409 --> 00:04:08,508
+eu vou entregar, né? Então, por que
+
+73
+00:04:08,520 --> 00:04:12,080
+linguagem padronizada? Porque eu eu tenho que olhar pra
+
+74
+00:04:12,088 --> 00:04:16,379
+aquilo o que tá escrito ali e entender de forma
+
+75
+00:04:16,389 --> 00:04:20,750
+fácil, né? Eu vou documentar aquilo que eu
+
+76
+00:04:20,759 --> 00:04:24,040
+defini e e E por que isso? Porque isso
+
+77
+00:04:24,048 --> 00:04:26,269
+transcende o tempo independente.
+
+78
+00:04:26,278 --> 00:04:28,548
+Se sou eu que estou que desenhou o processo que
+
+79
+00:04:28,559 --> 00:04:30,108
+estou no processo, se é o fulano, se
+
+80
+00:04:30,119 --> 00:04:33,290
+é beltran ou se cino é que cada um que
+
+81
+00:04:33,298 --> 00:04:36,350
+olhar pra aquele processo na pra que o observando,
+
+82
+00:04:36,358 --> 00:04:39,290
+aquela linguagem que foi definida, descrita e padronizada,
+
+83
+00:04:39,298 --> 00:04:43,238
+consegue entender o processo e executar o processo.
+
+84
+00:04:43,250 --> 00:04:46,108
+Então o processo vai ser constituído de entradas, vai
+
+85
+00:04:46,119 --> 00:04:50,750
+ser constituído de eh o própria execução do processo vai
+
+86
+00:04:50,759 --> 00:04:53,588
+ser execu, vai ser constituído de mensagens, vai
+
+87
+00:04:53,600 --> 00:04:56,389
+ser execu, eh de fluxo, vai ser,
+
+88
+00:04:56,399 --> 00:04:58,988
+eh de saídas, enfim, uma série de perspectivas,
+
+89
+00:04:59,000 --> 00:05:01,608
+então uma linguagem padronizada.
+
+90
+00:05:01,619 --> 00:05:03,528
+Okay, isso é o que a gente pressupõe de
+
+91
+00:05:03,540 --> 00:05:08,028
+b PM n e O outro é o B PM
+
+92
+00:05:08,040 --> 00:05:12,910
+S S de software, né? Software para implementar
+
+93
+00:05:12,920 --> 00:05:17,108
+b PM e que abrange mapeamento, automação e monitoramento.
+
+94
+00:05:17,119 --> 00:05:17,850
+Então vamos lá.
+
+95
+00:05:18,170 --> 00:05:21,660
+Eh quando a gente fala de uma disciplina, quando
+
+96
+00:05:21,670 --> 00:05:24,100
+a gente fala de uma linguagem padronizada, eu também
+
+97
+00:05:24,108 --> 00:05:27,480
+tenho como apoio a este, né? A a
+
+98
+00:05:27,488 --> 00:05:31,850
+este esses dois eh esses dois elementos ao próprio software
+
+99
+00:05:31,858 --> 00:05:36,660
+que eh, facilita a minha vida, facilita a
+
+100
+00:05:36,670 --> 00:05:39,100
+vida de quem tá gerindo o processo de quem tá
+
+101
+00:05:39,108 --> 00:05:41,738
+trabalhando com gestão de processo, né? Então ele
+
+102
+00:05:41,750 --> 00:05:46,850
+permite implemen implementar todo o meu o meu processo,
+
+103
+00:05:46,858 --> 00:05:49,838
+né? Toda essa disciplina por meio de uma linguagem
+
+104
+00:05:49,850 --> 00:05:50,829
+pa-, padronizada.
+
+105
+00:05:50,838 --> 00:05:52,970
+E aí ele ajuda nesse mapeamento.
+
+106
+00:05:52,980 --> 00:05:57,069
+Ajuda na automação desse processo ajuda no monitoramento desse processo
+
+107
+00:05:57,079 --> 00:06:00,369
+Tá bom? Eh você pode tá perguntando assim tá,
+
+108
+00:06:00,379 --> 00:06:02,369
+mas eu vou ter que ter um um software para
+
+109
+00:06:02,379 --> 00:06:06,278
+implementar a b PM, Não necessariamente né você,
+
+110
+00:06:06,290 --> 00:06:10,410
+tendo a a linguagem padronizada Anotação padronizada eh e os
+
+111
+00:06:10,420 --> 00:06:17,189
+a disciplina In Eh eh internalizada organizacional dentro da sua
+
+112
+00:06:17,199 --> 00:06:22,209
+eh da sua percepção organizacional, você consegue trabalhar um
+
+113
+00:06:22,220 --> 00:06:22,850
+processo.
+
+114
+00:06:22,858 --> 00:06:25,410
+Eu não preciso ter um software pra fazer com a
+
+115
+00:06:25,420 --> 00:06:27,588
+gestão de processo funcione na minha empresa? Não,
+
+116
+00:06:27,949 --> 00:06:30,519
+não é? Não é esse o pressuposto básico,
+
+117
+00:06:30,528 --> 00:06:33,759
+mas eu tenho sim o software que consegue, né?
+
+118
+00:06:33,769 --> 00:06:39,519
+Eh me permitir, né? Melhorar e trabalhar mais
+
+119
+00:06:39,528 --> 00:06:44,048
+tranquilamente Mais facilmente eh com menos retrabalho por questão do
+
+120
+00:06:44,059 --> 00:06:47,988
+mapeamento, da automação e do do monitoramento, Mas
+
+121
+00:06:48,000 --> 00:06:53,019
+entendam que eh software nenhum ele resolve problema institucional,
+
+122
+00:06:53,028 --> 00:06:56,519
+O software é um apoio, né? Ele apoio
+
+123
+00:06:56,528 --> 00:07:00,139
+pra entregar aquele processo, né? Então a gente
+
+124
+00:07:00,149 --> 00:07:04,100
+até fala assim eu vou informatizar um um um processo
+
+125
+00:07:04,108 --> 00:07:08,160
+organizacional, só que entendo se o processo está errado.
+
+126
+00:07:08,170 --> 00:07:10,738
+Eu estou informatizando o erro, ou seja o e
+
+127
+00:07:10,750 --> 00:07:13,358
+eh na verdade que o processo que eu realizo o
+
+128
+00:07:13,369 --> 00:07:16,189
+erro vai acontecer mais rápido, porque o o o
+
+129
+00:07:16,199 --> 00:07:19,959
+que antecede toda essa questão da utilização de software é
+
+130
+00:07:19,970 --> 00:07:24,619
+justamente o processo no qual ele é baseado, Então
+
+131
+00:07:24,629 --> 00:07:26,019
+o processo tem que ser bem descrito.
+
+132
+00:07:26,028 --> 00:07:28,858
+O processo tem que ser bem definido, né?
+
+133
+00:07:28,869 --> 00:07:31,019
+E aí você usa as suas lingua, a linguagem,
+
+134
+00:07:31,028 --> 00:07:34,899
+essa linguagem padronizada pra facilitar esse entendimento E aí sim
+
+135
+00:07:34,910 --> 00:07:36,899
+o software vem né? A partir do momento que
+
+136
+00:07:36,910 --> 00:07:39,019
+já tá muito bem definido, muito bem desenhado,
+
+137
+00:07:39,028 --> 00:07:43,670
+o software vem pra facilitar, eh essa continuidade,
+
+138
+00:07:43,678 --> 00:07:47,829
+esse tratamento, enfim, esse processo okay então eh
+
+139
+00:07:47,838 --> 00:07:51,670
+são as três palavrinhas mágicas, vamos dizer assim,
+
+140
+00:07:51,678 --> 00:07:54,730
+na gestão de processo b p MB PM n e
+
+141
+00:07:54,738 --> 00:07:59,928
+b PM sk Bom, aí nós ainda temos a
+
+142
+00:07:59,939 --> 00:08:02,028
+perspectiva de por que que eu adoto o b PM.
+
+143
+00:08:02,040 --> 00:08:05,088
+Por quê? Porque eu consigo, por meio da
+
+144
+00:08:05,100 --> 00:08:08,449
+gestão de processo uma eficiência operacional.
+
+145
+00:08:08,459 --> 00:08:12,738
+Eu consigo a redução de custos, né? Então
+
+146
+00:08:12,750 --> 00:08:16,209
+eh a gente tá falando de eh melhoria de falou,
+
+147
+00:08:16,220 --> 00:08:17,879
+de melhoria de processo, falou.
+
+148
+00:08:17,889 --> 00:08:19,420
+de entregar e agregar valor.
+
+149
+00:08:19,428 --> 00:08:23,459
+Isso tá totalmente vinculado a eficiência operacional.
+
+150
+00:08:23,470 --> 00:08:26,639
+Okay, então, eh a a o processo em
+
+151
+00:08:26,649 --> 00:08:30,939
+si, ele pressupõe uma melhoria de eficiência na operação,
+
+152
+00:08:31,459 --> 00:08:34,529
+né? Deve pressupor, tem que nascer com esse
+
+153
+00:08:34,538 --> 00:08:36,369
+com esse foco com esse objetivo.
+
+154
+00:08:36,379 --> 00:08:38,710
+Então, você adota pra isso e não é pra
+
+155
+00:08:38,719 --> 00:08:41,070
+poder? Eh simplesmente mapear o erro, né?
+
+156
+00:08:41,080 --> 00:08:43,149
+Principalmente pra mapear aquilo que tá ali.
+
+157
+00:08:43,158 --> 00:08:46,070
+Não é pra que você possa avaliar, Rever,
+
+158
+00:08:46,080 --> 00:08:49,509
+melhorar, cujo foco é essa eficiência.
+
+159
+00:08:49,519 --> 00:08:52,969
+Redução de custo é o desejo de qualquer organização,
+
+160
+00:08:52,979 --> 00:08:56,369
+né? Ou seja, eficiência, eficácia, processo
+
+161
+00:08:56,379 --> 00:09:00,009
+bem desenhado, você vai ter redução de custo também
+
+162
+00:09:00,019 --> 00:09:01,349
+melhoria de qualidade.
+
+163
+00:09:01,359 --> 00:09:05,769
+Ou seja, você vai conseguir ter uma perspectiva voltada
+
+164
+00:09:05,779 --> 00:09:08,639
+pra questão da qualidade, né? Dessa melhoria,
+
+165
+00:09:08,649 --> 00:09:12,320
+da da, da qualidade ta a agilidade organizacional,
+
+166
+00:09:12,330 --> 00:09:14,779
+que também tem a ver com a eficiência operacional.
+
+167
+00:09:14,788 --> 00:09:17,700
+Você ganha uma agilidade, permite um alinhamento, a
+
+168
+00:09:17,710 --> 00:09:20,259
+estratégia da organização, porque você vai fazer o processo
+
+169
+00:09:20,269 --> 00:09:23,779
+em cima da estratégia organizacional e também permite o foco
+
+170
+00:09:23,788 --> 00:09:25,739
+em inovação e crescimento.
+
+171
+00:09:25,750 --> 00:09:28,700
+Tá? Eh? Por fim, vale a pena
+
+172
+00:09:28,710 --> 00:09:30,080
+a gente dizer que olha lá.
+
+173
+00:09:30,090 --> 00:09:32,379
+O B PM não é uma prescrição de estrutura,
+
+174
+00:09:32,389 --> 00:09:36,820
+de trabalho, metodologia ou conjunto de ferramentas como disciplina,
+
+175
+00:09:36,830 --> 00:09:40,080
+né? No estabelecimento de princípios e pra permitem as
+
+176
+00:09:40,090 --> 00:09:43,500
+organizações serem mais oh eficientes e eficazes pra executar o
+
+177
+00:09:43,509 --> 00:09:45,200
+que os processos de negócio.
+
+178
+00:09:45,210 --> 00:09:46,658
+Então foi o que eu falei.
+
+179
+00:09:46,668 --> 00:09:48,058
+A gente que impede de eu ter falado de b
+
+180
+00:09:48,070 --> 00:09:51,359
+PM s não é uma tecnologia, mas ela apoia
+
+181
+00:09:51,369 --> 00:09:55,219
+na execução e nesse monitoramento desse processo de negócio.
+
+182
+00:09:55,229 --> 00:09:57,700
+Isso é o que faz o B p MB PM
+
+183
+00:09:57,710 --> 00:09:59,779
+n e o b PM s okay.
+
+184
+00:09:59,788 --> 00:10:01,719
+Obrigado até a próxima!
+

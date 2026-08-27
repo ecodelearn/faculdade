@@ -1,0 +1,568 @@
+1
+00:00:06,309 --> 00:00:08,640
+Olá, tudo bom, sejam bem vindos a nossa
+
+2
+00:00:08,648 --> 00:00:11,460
+disciplina de segurança, informação e continuidade.
+
+3
+00:00:11,470 --> 00:00:14,810
+Estamos falando de que se o preço c cento de
+
+4
+00:00:14,819 --> 00:00:18,019
+operação de segurança, falamos das suas características.
+
+5
+00:00:18,030 --> 00:00:22,859
+Falamos da importância das ferramentas de ter uma ferramenta atualizada,
+
+6
+00:00:22,923 --> 00:00:28,995
+ferramenta robusta para garantir desde do incidente ou até ao
+
+7
+00:00:29,004 --> 00:00:31,495
+retorno ao estado da situação.
+
+8
+00:00:31,504 --> 00:00:33,965
+E agora a gente vai falar sobre a a importância
+
+9
+00:00:33,973 --> 00:00:37,215
+da colaboração de outras equipes, com todo esse ambiente
+
+10
+00:00:37,223 --> 00:00:39,043
+de segurança, com o ambiente do Soque.
+
+11
+00:00:39,054 --> 00:00:41,255
+Tá quando a gente fala em colaboração, né?
+
+12
+00:00:41,264 --> 00:00:43,454
+A colaboração é uma perda fundamental, aí é uma
+
+13
+00:00:43,465 --> 00:00:46,694
+pedra angular para o sucesso do soque, permitindo uma
+
+14
+00:00:46,704 --> 00:00:51,875
+abordagem holística e coordenada na gestão decide da segurança cibernética
+
+15
+00:00:52,689 --> 00:00:56,219
+A colaboração não se limita apenas não se limita apenas
+
+16
+00:00:56,228 --> 00:00:59,819
+a equipes internas, mas se estende a parceiros externos,
+
+17
+00:00:59,829 --> 00:01:03,459
+desempenhando um papel crucial na resposta e ameaça em constante
+
+18
+00:01:03,469 --> 00:01:04,680
+evolução.
+
+19
+00:01:04,689 --> 00:01:06,739
+Começando com a colaboração interna.
+
+20
+00:01:06,750 --> 00:01:08,519
+Tá! O Soque e a equipe de T I
+
+21
+00:01:08,528 --> 00:01:12,980
+precisam colaborar de perto pra entender a arquitetura dos sistemas,
+
+22
+00:01:12,989 --> 00:01:17,879
+identificar vulnerabilidade e implementar medidas pró ativas.
+
+23
+00:01:18,799 --> 00:01:22,769
+A transferência eficiente de informação entre as equipes é vital
+
+24
+00:01:22,778 --> 00:01:25,448
+para garantir a integridade e a segurança da informação.
+
+25
+00:01:25,459 --> 00:01:27,120
+A equipe de T I tem que tá muito próximo
+
+26
+00:01:27,129 --> 00:01:27,888
+da equipe de segurança.
+
+27
+00:01:27,900 --> 00:01:29,469
+A gente já falou isso várias vezes aqui Tá,
+
+28
+00:01:29,930 --> 00:01:30,918
+ela tem que tá, eh.
+
+29
+00:01:30,930 --> 00:01:35,299
+Elas precisam estar sempre em comunicação, em troca de
+
+30
+00:01:35,308 --> 00:01:38,980
+conhecimento, em troca de informação pra que consigam trabalhar
+
+31
+00:01:38,989 --> 00:01:42,180
+juntas, entender toda a cultura, enfim, é
+
+32
+00:01:42,189 --> 00:01:43,939
+uma, é praticamente uma equipe só.
+
+33
+00:01:43,948 --> 00:01:44,379
+Tá gente.
+
+34
+00:01:44,388 --> 00:01:46,549
+A gente sei que tem ações, mas as pessoas
+
+35
+00:01:46,558 --> 00:01:49,620
+entender que o valor em si é o serviço que
+
+36
+00:01:49,629 --> 00:01:52,540
+tá sendo entregue para o cliente ou ou para a
+
+37
+00:01:52,549 --> 00:01:53,359
+sua organização.
+
+38
+00:01:54,308 --> 00:01:56,719
+Outra equipe fundamental é a equipe jurídica.
+
+39
+00:01:56,730 --> 00:01:59,888
+A equipe jurídica desempenha um papel crítico na gestão de
+
+40
+00:01:59,900 --> 00:02:01,079
+incidentes de segurança.
+
+41
+00:02:01,088 --> 00:02:06,079
+Tá especialmente em questões relacionadasà conformidade, privacidade e
+
+42
+00:02:06,088 --> 00:02:07,698
+obrigações legais.
+
+43
+00:02:09,169 --> 00:02:13,020
+Colaborar com a equipe jurídica ajuda a garantir que as
+
+44
+00:02:13,028 --> 00:02:15,860
+ações do SO que estejam alinhadas com as normas legais
+
+45
+00:02:15,868 --> 00:02:17,000
+e regulatórias.
+
+46
+00:02:17,008 --> 00:02:19,360
+Então, só que ele precisa estar muito próximo da
+
+47
+00:02:19,368 --> 00:02:22,819
+equipe de advogados da equipe jurídica para entender quais são
+
+48
+00:02:22,830 --> 00:02:25,699
+as normas, O que pode ser feito, o
+
+49
+00:02:25,710 --> 00:02:28,118
+que não pode ser feito, a questão do direito
+
+50
+00:02:28,219 --> 00:02:31,990
+da informação, o direito da tecnologia, Enfim,
+
+51
+00:02:32,000 --> 00:02:34,788
+a gente precisa entender a área jurídica que está muito
+
+52
+00:02:34,800 --> 00:02:35,629
+próxima para a gente.
+
+53
+00:02:35,639 --> 00:02:38,508
+saber também quais são os nossos limites e os nossos
+
+54
+00:02:38,520 --> 00:02:40,868
+deveres e as nossas obrigações.
+
+55
+00:02:40,879 --> 00:02:43,349
+Enquanto a gente está falando de dados, dados da
+
+56
+00:02:43,360 --> 00:02:48,949
+empresa, dados da organização, dados dos usuários durante
+
+57
+00:02:48,960 --> 00:02:51,909
+o acidente, a comunicação eficaz é essencial.
+
+58
+00:02:51,919 --> 00:02:53,229
+Então, quando a gente tá falando de comunicação,
+
+59
+00:02:53,240 --> 00:02:55,349
+a gente precisa do da colaboração daqui, da equipe
+
+60
+00:02:55,360 --> 00:02:58,118
+de comunicação, né? Colaborar com a equipe de
+
+61
+00:02:58,129 --> 00:03:01,669
+comunicação e relações públicas garante que as informações sejam divulgadas
+
+62
+00:03:01,679 --> 00:03:04,558
+de maneira precisa, e que a reputação da organização
+
+63
+00:03:04,569 --> 00:03:06,879
+seja gerenciada de forma adequada.
+
+64
+00:03:06,889 --> 00:03:09,838
+Precisamos estar próximo da equipe de comunicação, porque em
+
+65
+00:03:09,849 --> 00:03:13,240
+momento decide onde se pode ter vazamento.
+
+66
+00:03:13,250 --> 00:03:14,278
+Pode ter fake news.
+
+67
+00:03:14,288 --> 00:03:18,679
+É fundamental a equipe da comunicação estar próxima pra entender
+
+68
+00:03:18,689 --> 00:03:23,278
+e aí trabalhar a melhor forma da da comunicação da
+
+69
+00:03:23,288 --> 00:03:25,860
+empresa interna e externa e externa.
+
+70
+00:03:27,569 --> 00:03:30,379
+Equipe de gestão de crise desempenhou um papel crucial na
+
+71
+00:03:30,389 --> 00:03:33,719
+coordenação de esforços durante incidentes de segurança significativos.
+
+72
+00:03:34,319 --> 00:03:38,969
+A colaboração com essa equipe garante uma resposta eficiente,
+
+73
+00:03:38,979 --> 00:03:42,929
+incluindo a implementação de planos de comunicação e tomar decisões
+
+74
+00:03:42,939 --> 00:03:44,368
+estratégicas.
+
+75
+00:03:44,379 --> 00:03:48,460
+Mas também é importante a colaboração externa, por exemplo,
+
+76
+00:03:48,469 --> 00:03:51,490
+a colaboração de provedor de serviço de segurança, né?
+
+77
+00:03:51,500 --> 00:03:55,508
+De segurança gerenciada é essencial para a organização, para
+
+78
+00:03:55,520 --> 00:03:59,099
+as organizações que terceirizam parte ou toda a sua segurança
+
+79
+00:03:59,110 --> 00:03:59,618
+cibernética.
+
+80
+00:03:59,629 --> 00:04:02,679
+Vamos supor que você terceirize a sua segurança cibernética.
+
+81
+00:04:02,689 --> 00:04:06,899
+É fundamental você garantir que que a continuidade e e
+
+82
+00:04:06,909 --> 00:04:13,199
+a proximidade com essa equipe, compartilhamento contínuo de informações
+
+83
+00:04:13,210 --> 00:04:16,619
+sobre ameaças e a coordenação de respostas acidentes garante uma
+
+84
+00:04:16,629 --> 00:04:20,850
+defesa mais robusta, com a agência de segurança com
+
+85
+00:04:20,858 --> 00:04:25,548
+agências governamentais ou organizações de Cira é crucial para enfrentar
+
+86
+00:04:25,559 --> 00:04:28,699
+ameaças que transcendem a fronteira organizacional.
+
+87
+00:04:28,709 --> 00:04:33,709
+Participar ativamente da comunidade de segurança cibernética envolve a colaboração
+
+88
+00:04:33,720 --> 00:04:36,869
+de outros profissionais e organizações do setor.
+
+89
+00:04:36,879 --> 00:04:40,548
+E se cui a partilha de indicadores de comprometimento,
+
+90
+00:04:40,559 --> 00:04:44,660
+melhores práticas e lições aprendidas, fortalecendo a segurança global.
+
+91
+00:04:44,670 --> 00:04:45,209
+É um.
+
+92
+00:04:45,858 --> 00:04:48,850
+A colaboração na questão da segurança É fundamental, porque
+
+93
+00:04:48,858 --> 00:04:50,689
+a partir do momento que todos colaboram, né,
+
+94
+00:04:50,699 --> 00:04:53,389
+todos tão falando a mesma língua, todos entendem a
+
+95
+00:04:53,399 --> 00:04:57,069
+mesma ameaça eh se diminui, né? A as
+
+96
+00:04:57,079 --> 00:04:59,588
+brechas dentro das todas as redes.
+
+97
+00:04:59,600 --> 00:05:02,959
+Então, é fundamental ter essa colaboração entre equipes,
+
+98
+00:05:02,970 --> 00:05:07,528
+né? A comunicação eficaz dentro e fora do soque
+
+99
+00:05:07,540 --> 00:05:08,470
+é crucial.
+
+100
+00:05:08,480 --> 00:05:11,009
+Para isso, é necessário o estabelecimento de canais de
+
+101
+00:05:11,019 --> 00:05:15,329
+comunicação claros, atualizações regulares sobre os estados do Ocidente
+
+102
+00:05:15,338 --> 00:05:18,750
+e compartilhamento rápido de informações relevantes.
+
+103
+00:05:19,379 --> 00:05:24,259
+A colaboração eficaz facilita a coordenação na resposta a incidentes,
+
+104
+00:05:24,269 --> 00:05:28,709
+todas as partes interessadas devem estar alinhadas quanto as ações
+
+105
+00:05:28,720 --> 00:05:31,790
+a serem tomadas, minimizando o tempo de resposta.
+
+106
+00:05:31,798 --> 00:05:34,108
+Reduzindo impactos adversos.
+
+107
+00:05:34,119 --> 00:05:35,988
+Não deve ser apenas reativa.
+
+108
+00:05:36,000 --> 00:05:39,838
+A colaboração também deve contribuir para o aspecto contínuo.
+
+109
+00:05:39,850 --> 00:05:45,709
+As equipes compartilham conhecimento sobre ameaças emergentes, táticas eficazes
+
+110
+00:05:45,720 --> 00:05:48,329
+e estratégicas para as melhores defesas.
+
+111
+00:05:49,278 --> 00:05:54,108
+Colaboração é um pilar fundamental no cenário da segurança cibernética.
+
+112
+00:05:54,119 --> 00:05:59,250
+Integração eficaz de equipes internas, parceiros com provedores externos
+
+113
+00:05:59,259 --> 00:06:02,170
+e participação ativa da comunidade de segurança cibernética.
+
+114
+00:06:02,178 --> 00:06:06,369
+Contribui para a construção de uma postura de segurança resiliente
+
+115
+00:06:06,379 --> 00:06:07,230
+e adaptável.
+
+116
+00:06:07,829 --> 00:06:12,639
+A comunicação eficaz é a espinha dorsal dessa colaboração,
+
+117
+00:06:12,649 --> 00:06:16,920
+garantindo que todas as partes interessadas sejam alinhadasà detecção,
+
+118
+00:06:16,928 --> 00:06:20,759
+resposta e me e medicação das cibernéticas.
+
+119
+00:06:20,769 --> 00:06:22,040
+Então, quando a gente tá falando aqui de de
+
+120
+00:06:22,048 --> 00:06:29,608
+de de colaboração de comunicação em todas as áreas,
+
+121
+00:06:29,619 --> 00:06:31,608
+a gente pode pegar alguns aspectos muito fortes que foi
+
+122
+00:06:31,619 --> 00:06:34,869
+falado aqui Agora tá, primeiro comunicação, você tem
+
+123
+00:06:34,879 --> 00:06:37,069
+que tá muito próximo da sua equipe de interna de
+
+124
+00:06:37,079 --> 00:06:39,608
+comunicação, pra que seja feita a comunicação clara,
+
+125
+00:06:39,619 --> 00:06:44,649
+eficiente informações eh somente as informações necessárias, outra palavra
+
+126
+00:06:44,660 --> 00:06:48,059
+fundamental, colaboração pra você ter a colaboração interna e
+
+127
+00:06:48,069 --> 00:06:49,988
+externa, quando a gente fala interna, vai ter
+
+128
+00:06:50,000 --> 00:06:52,309
+colaboração com a equipe jurídica, colaboração com a equipe
+
+129
+00:06:52,319 --> 00:06:54,869
+de tecnologia, colaboração com a equipe de comunicação.
+
+130
+00:06:54,879 --> 00:06:56,869
+Quando a gente tá falando externa, colaboração com as
+
+131
+00:06:56,879 --> 00:07:01,059
+outras equipes de segurança que forma uma comunidade, sabe?
+
+132
+00:07:01,069 --> 00:07:01,528
+Segurança.
+
+133
+00:07:01,540 --> 00:07:05,689
+Essa comunidade sabe segurança, consegue trabalhar junto, prevenindo,
+
+134
+00:07:05,699 --> 00:07:09,009
+dando dicas, mostrando a ameaças.
+
+135
+00:07:09,019 --> 00:07:13,290
+Enfim, quando quando existe o poder da comunicação aliada
+
+136
+00:07:13,298 --> 00:07:16,759
+com o poder da colaboração, com certeza o ambiente
+
+137
+00:07:16,769 --> 00:07:21,613
+fica mais, com certeza eh se fortalece a disciplina
+
+138
+00:07:21,625 --> 00:07:24,334
+de cibersegurança, dentro de qualquer organização.
+
+139
+00:07:24,345 --> 00:07:27,814
+Tá bom! Muito obrigado por estar conosco durante esse
+
+140
+00:07:27,824 --> 00:07:30,595
+nesse período aqui, esse esse tema, né?
+
+141
+00:07:30,605 --> 00:07:33,855
+Sobre só que foi bem, bem interessante e te
+
+142
+00:07:33,863 --> 00:07:35,194
+vejo na próxima aula.
+

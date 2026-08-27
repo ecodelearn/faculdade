@@ -1,0 +1,876 @@
+1
+00:00:07,139 --> 00:00:10,989
+Olá, vamos continuar falando sobre análise de processo e
+
+2
+00:00:11,000 --> 00:00:14,349
+obtenção de informações E agora nós vamos trabalhar a perspectiva
+
+3
+00:00:14,359 --> 00:00:17,228
+dos benefícios da análise e dessa coleta de dados.
+
+4
+00:00:17,239 --> 00:00:20,929
+Okay Isso é muito relevante dentro do nosso contexto,
+
+5
+00:00:20,940 --> 00:00:23,750
+bom, eh primeira, coisa que a gente viu
+
+6
+00:00:23,760 --> 00:00:27,690
+eh anteriormente foi essa questão da necessidade organizacional e o
+
+7
+00:00:27,699 --> 00:00:29,708
+que enseja a questão da análise em si, né
+
+8
+00:00:29,719 --> 00:00:33,209
+que pode ser ocasionada por uma estratégia por uma nova
+
+9
+00:00:33,219 --> 00:00:37,048
+tecnologia, por uma mudança de de leis, regras,
+
+10
+00:00:37,060 --> 00:00:39,950
+né? Enfim, isso tudo é uma uma uma
+
+11
+00:00:39,959 --> 00:00:42,289
+perspectiva que a gente considera quando tá trabalhando com a
+
+12
+00:00:42,298 --> 00:00:45,689
+questão da análise, eh de dados, né?
+
+13
+00:00:45,700 --> 00:00:48,548
+Eh análise de processos, Okay! Beleza! Então,
+
+14
+00:00:48,560 --> 00:00:51,779
+olha só quando a gente tá trabalhando eh.
+
+15
+00:00:51,789 --> 00:00:54,380
+Quando a gente entende toda essa necessidade organizacional, é
+
+16
+00:00:54,389 --> 00:00:58,679
+claro que o desejo é que a gente trabalhe tudo
+
+17
+00:00:58,689 --> 00:01:01,459
+isso né? De um num num rompante, E
+
+18
+00:01:01,469 --> 00:01:04,370
+infelizmente não é assim que acontece, né? É
+
+19
+00:01:04,379 --> 00:01:07,010
+muito complicada e complexa.
+
+20
+00:01:07,019 --> 00:01:11,049
+A tarefa de nós eh ao entendermos, queremos que
+
+21
+00:01:11,058 --> 00:01:13,969
+que a gente possa tentar implementar isso de um único,
+
+22
+00:01:13,980 --> 00:01:15,069
+uma forma de único bloco.
+
+23
+00:01:15,079 --> 00:01:18,849
+Isso vai trazer muitas das vezes eh confusão organizacional,
+
+24
+00:01:18,859 --> 00:01:24,010
+prejuízos organizacionais e E mesmo porque eh nós não temos
+
+25
+00:01:24,019 --> 00:01:26,329
+dentro dessa perspectiva, né.
+
+26
+00:01:26,338 --> 00:01:29,849
+EH PRO eh recursos, eh ilimitados.
+
+27
+00:01:29,859 --> 00:01:32,730
+E a gente acaba tendo que escolher, né,
+
+28
+00:01:32,739 --> 00:01:36,549
+bom? Então, dentro desse pressuposto, a gente,
+
+29
+00:01:36,558 --> 00:01:40,069
+ao entender essa essa necessidade organizacional, a gente tem
+
+30
+00:01:40,079 --> 00:01:44,418
+que estabelecer alguns critérios que nos ajudem, a priorizar
+
+31
+00:01:44,430 --> 00:01:45,329
+a perspectiva.
+
+32
+00:01:45,338 --> 00:01:47,069
+O que nós vamos trabalhar no processo? A gente
+
+33
+00:01:47,079 --> 00:01:49,180
+tem que se lembrar de que se a gente considerar
+
+34
+00:01:49,189 --> 00:01:51,260
+na nossa vida se tudo é prioridade, nada é
+
+35
+00:01:51,269 --> 00:01:51,739
+prioridade.
+
+36
+00:01:51,750 --> 00:01:53,000
+Então, o que a gente tá querendo dizer é
+
+37
+00:01:53,010 --> 00:01:54,510
+que é o seguinte Tá, eu tenho, Eu
+
+38
+00:01:54,519 --> 00:01:56,739
+fiz análise do processo, eu sei eu tô entendendo
+
+39
+00:01:56,750 --> 00:01:57,400
+a minha organização.
+
+40
+00:01:57,409 --> 00:01:59,219
+Como é que eu vou me portar agora? Como
+
+41
+00:01:59,230 --> 00:02:02,719
+é que isso vai eh trabalhar dentro da minha organização,
+
+42
+00:02:02,730 --> 00:02:04,549
+Primeira coisa que a gente vai ter que entender são
+
+43
+00:02:04,558 --> 00:02:06,430
+os benefícios da de dessa análise.
+
+44
+00:02:06,439 --> 00:02:08,500
+Então, o benefício de uma análise em si,
+
+45
+00:02:08,508 --> 00:02:13,490
+ela tá eh inerentemente, eh inerente inerenteà compreensão,
+
+46
+00:02:13,500 --> 00:02:15,169
+unificada de como esse trabalho é feito.
+
+47
+00:02:15,179 --> 00:02:16,258
+Então, a primeira coisa que eu tenho que saber
+
+48
+00:02:16,270 --> 00:02:19,460
+é o seguinte como eu eu compreendo como esse trabalho
+
+49
+00:02:19,469 --> 00:02:21,729
+é feito de forma unificada, unificada.
+
+50
+00:02:21,740 --> 00:02:23,770
+Quer dizer o seguinte, dentro da minha organização como
+
+51
+00:02:23,778 --> 00:02:26,699
+um todo eu olho pra organização, entendendo que um
+
+52
+00:02:26,710 --> 00:02:30,618
+processo não termina em si mesmo, ele se completa
+
+53
+00:02:30,629 --> 00:02:31,778
+aos demais processos.
+
+54
+00:02:31,788 --> 00:02:33,740
+Então essa é a primeira perspectiva que a gente tem
+
+55
+00:02:33,750 --> 00:02:36,419
+em relação a A a esses benefícios.
+
+56
+00:02:36,429 --> 00:02:39,520
+O segundo que a gente vê em relação.
+
+57
+00:02:40,379 --> 00:02:44,110
+Ah, esses benefícios é justamente base para novas ideias
+
+58
+00:02:44,118 --> 00:02:44,710
+e mudanças.
+
+59
+00:02:44,719 --> 00:02:47,788
+Então o benefício da análise nos dá base para novas
+
+60
+00:02:47,800 --> 00:02:51,849
+ideias e mudanças e também influência na tomada de decisões
+
+61
+00:02:51,860 --> 00:02:52,929
+eh dentro dos processos.
+
+62
+00:02:52,939 --> 00:02:55,669
+Okay, isso é lindo, Isso é maravilhoso.
+
+63
+00:02:55,679 --> 00:02:58,189
+Mas veja, esses são os benefícios, mas como
+
+64
+00:02:58,199 --> 00:02:59,824
+é que que eu trabalho? Isso? Eh eh
+
+65
+00:02:59,835 --> 00:03:01,903
+entendendo a minha organização.
+
+66
+00:03:01,913 --> 00:03:04,883
+Sabendo que a minha organização não tem um só processo,
+
+67
+00:03:04,895 --> 00:03:07,564
+ela tem uma série de processos, ela tem uma
+
+68
+00:03:07,574 --> 00:03:11,314
+série de perspectivas que vão estar, eh, vão
+
+69
+00:03:11,324 --> 00:03:14,724
+ter que ser observadas e trabalhadas de forma que eu
+
+70
+00:03:14,735 --> 00:03:15,493
+possa trabalhar.
+
+71
+00:03:15,504 --> 00:03:18,258
+O resultado eh correto nisso.
+
+72
+00:03:18,270 --> 00:03:20,879
+Okay, Então vamos lá, primeira coisa.
+
+73
+00:03:20,889 --> 00:03:23,349
+A gente já falou de priorização um pouquinho, né?
+
+74
+00:03:23,360 --> 00:03:26,479
+Falando ali que a necessidade de entender ao entendermos a
+
+75
+00:03:26,490 --> 00:03:29,419
+organização priorizar os processos de forma que a gente possa
+
+76
+00:03:29,429 --> 00:03:34,679
+eh dar atenção naqueles que mais vamos dizer assim sejam
+
+77
+00:03:34,689 --> 00:03:36,939
+primordiais pra minha organização Okay.
+
+78
+00:03:36,949 --> 00:03:39,330
+Então, por isso, a questão da priorização também
+
+79
+00:03:39,338 --> 00:03:40,558
+respeitando as minhas.
+
+80
+00:03:40,569 --> 00:03:44,199
+Ah, a minha cultura, respeitando a a a
+
+81
+00:03:44,210 --> 00:03:50,889
+minha capacidade de execução da daquele processo, de internalização
+
+82
+00:03:50,899 --> 00:03:52,088
+dele e assim por diante.
+
+83
+00:03:52,099 --> 00:03:54,929
+Bom! Ah! Mas é claro que quando a
+
+84
+00:03:54,939 --> 00:03:57,689
+gente olha esses benefícios, E aí esses benefícios,
+
+85
+00:03:57,699 --> 00:04:00,050
+a gente olha uma perspectiva de que tá eu,
+
+86
+00:04:00,058 --> 00:04:03,210
+isso faz sentido pra minha organização e eu tenho que
+
+87
+00:04:03,219 --> 00:04:09,669
+priorizar, eu passo necessariamente por uma perspectiva de entender
+
+88
+00:04:09,679 --> 00:04:10,754
+melhor como isso.
+
+89
+00:04:10,764 --> 00:04:13,294
+Se PRE como isso se dá dentro da empresa e
+
+90
+00:04:13,304 --> 00:04:15,955
+pra isso a gente faz a questão da coleta de
+
+91
+00:04:15,963 --> 00:04:17,553
+dados, A gente usa a coleta de dados,
+
+92
+00:04:17,564 --> 00:04:20,494
+né? Então, Ana eu faço uma coleta de
+
+93
+00:04:20,504 --> 00:04:22,274
+dados e uma análise holística.
+
+94
+00:04:22,285 --> 00:04:24,035
+Então análise holísticas! Quer dizer, eu tô olhando
+
+95
+00:04:24,045 --> 00:04:25,153
+pra minha organização inteira.
+
+96
+00:04:25,165 --> 00:04:26,553
+E a coleta de dados é a forma como eu
+
+97
+00:04:26,564 --> 00:04:27,035
+vou.
+
+98
+00:04:27,045 --> 00:04:32,569
+Eh perceber esses resultados dentro da minha eh organização.
+
+99
+00:04:32,579 --> 00:04:34,449
+Okay? Então vamos lá primeiro.
+
+100
+00:04:34,459 --> 00:04:36,649
+Ah, por que que eu faço a a análise
+
+101
+00:04:36,660 --> 00:04:38,470
+e a coleta de dados? Porque eu tenho que
+
+102
+00:04:38,480 --> 00:04:41,088
+conhecer, né? O meu ambiente e analisar ele
+
+103
+00:04:41,100 --> 00:04:45,209
+constantemente eh pra isso Você pode se valer de algumas
+
+104
+00:04:45,220 --> 00:04:48,629
+técnicas como a Swatch, pastel e feedback dos clientes.
+
+105
+00:04:48,639 --> 00:04:51,250
+Cada uma delas tem uma per perspectiva diferente.
+
+106
+00:04:51,259 --> 00:04:55,949
+E essa coleta de informações estratégicas, né? Eh
+
+107
+00:04:55,959 --> 00:05:01,189
+de identificação dos nossos também é algo relevante? Por
+
+108
+00:05:01,199 --> 00:05:03,069
+quê? Porque na verdade, o que a gente
+
+109
+00:05:03,079 --> 00:05:05,389
+tá fazendo é nada mais é do que é,
+
+110
+00:05:05,399 --> 00:05:06,970
+usando os nossos.
+
+111
+00:05:06,980 --> 00:05:10,048
+Ah, vamos dizer a o nosso entendimento, o
+
+112
+00:05:10,059 --> 00:05:14,230
+nosso conhecimento para identificar aquilo que a organização quer por
+
+113
+00:05:14,238 --> 00:05:16,238
+meio daqueles interessados dentro da organização.
+
+114
+00:05:16,250 --> 00:05:19,769
+Okay, Bom pra isso, pra fazer essa coleta!
+
+115
+00:05:19,778 --> 00:05:22,238
+O que que eu posso ter eh ter em mãos
+
+116
+00:05:22,250 --> 00:05:24,519
+o que que eu posso usar primeiro, métodos de
+
+117
+00:05:24,528 --> 00:05:26,428
+levantamento Claro, né? Então eu posso usar a
+
+118
+00:05:26,439 --> 00:05:28,290
+pesquisa? Posso usar a entrevista, posso fazer um
+
+119
+00:05:28,298 --> 00:05:31,910
+workshop, enfim, a forma de levantar a informação
+
+120
+00:05:31,920 --> 00:05:33,928
+de coletar essa informação vai ser a eh.
+
+121
+00:05:33,939 --> 00:05:38,649
+Como você deseja que a sua organização eh perceba,
+
+122
+00:05:38,660 --> 00:05:41,108
+né? E e e traga esses dados pra que
+
+123
+00:05:41,119 --> 00:05:44,470
+possam ser trabalhados, né? Pode ser também utilizado,
+
+124
+00:05:44,480 --> 00:05:48,189
+por exemplo, uma observação direta e simulação de atividades
+
+125
+00:05:48,199 --> 00:05:52,528
+e também o tecnologias, como análise de vídeo,
+
+126
+00:05:52,540 --> 00:05:55,670
+conferência via web, enfim, métodos de levantamento.
+
+127
+00:05:55,678 --> 00:05:57,588
+Nós temos aí no mercado uma série.
+
+128
+00:05:57,600 --> 00:06:00,309
+Ah, de métodos que podem ser utilizados, né?
+
+129
+00:06:00,319 --> 00:06:02,410
+Uma eh você pode fazer.
+
+130
+00:06:02,420 --> 00:06:06,738
+Ah, enfim, eh o que se aplica melhor
+
+131
+00:06:06,750 --> 00:06:07,500
+a sua organização.
+
+132
+00:06:07,509 --> 00:06:09,660
+Eu acho que você tem que fazer uso dessas ferramentas,
+
+133
+00:06:09,670 --> 00:06:12,019
+o que a gente tá colocando aqui algumas perspectivas em
+
+134
+00:06:12,028 --> 00:06:14,980
+relação a mtos tá, então o método de levantamento
+
+135
+00:06:14,988 --> 00:06:18,519
+é fundamental para uma coleta adequada de dados, né?
+
+136
+00:06:18,528 --> 00:06:20,500
+Ah, outra coisa que a gente tem que observar
+
+137
+00:06:20,509 --> 00:06:23,879
+é que uma vez esses mtos levantado esse dado eh
+
+138
+00:06:23,889 --> 00:06:25,259
+essa informação.
+
+139
+00:06:25,269 --> 00:06:28,480
+A gente já tem e e sabe da importância disso
+
+140
+00:06:28,488 --> 00:06:31,730
+tudo, né? EH, dentro dum dum entendimento
+
+141
+00:06:31,738 --> 00:06:33,629
+de um contexto organizacional.
+
+142
+00:06:33,639 --> 00:06:36,100
+E aí nós vamos começar agora a trabalhar nosso processo,
+
+143
+00:06:36,108 --> 00:06:39,379
+porque essa coleta vai ensejar processos, mudanças e uma
+
+144
+00:06:39,389 --> 00:06:42,059
+série de perspectivas a a próxima decisão que eu tenho
+
+145
+00:06:42,069 --> 00:06:42,379
+que tomar.
+
+146
+00:06:42,389 --> 00:06:44,660
+É como eu vou trabalhar isso.
+
+147
+00:06:44,670 --> 00:06:47,850
+Então aí vol, a primeira parte do do quando
+
+148
+00:06:47,858 --> 00:06:50,129
+a gente começou a falar que é justamente essa perspectiva
+
+149
+00:06:50,139 --> 00:06:54,608
+de priorização e aí para trabalhar com isso, né?
+
+150
+00:06:54,619 --> 00:06:59,250
+A priorização de processo você pode clicar algumas algumas técnicas,
+
+151
+00:06:59,259 --> 00:07:01,910
+que é uma delas é a matriz Gut, né?
+
+152
+00:07:01,920 --> 00:07:05,649
+Então, a matriz é uma ferramenta de gestão de
+
+153
+00:07:05,660 --> 00:07:08,569
+processo em que ajuda a priorização de problemas.
+
+154
+00:07:08,579 --> 00:07:12,410
+Gut quer dizer g de gravidade, u de urgência
+
+155
+00:07:12,420 --> 00:07:15,129
+e t de tendência, né? São as variáveis
+
+156
+00:07:15,139 --> 00:07:17,608
+que eu uso pra, por exemplo, dentro da
+
+157
+00:07:17,619 --> 00:07:18,649
+gravidade eu vou.
+
+158
+00:07:18,660 --> 00:07:21,369
+Tá trabalhando o impacto desse problema no meu projeto ou
+
+159
+00:07:21,379 --> 00:07:24,309
+na minha organização Quão grave ele é, né,
+
+160
+00:07:24,319 --> 00:07:28,548
+outro eh urgência é o tempo quão quão rápido esse
+
+161
+00:07:28,559 --> 00:07:31,790
+problema deve ser resolvido e a tendência é com a
+
+162
+00:07:31,798 --> 00:07:35,470
+direção que esse problema eh ajudará a organização a tomar
+
+163
+00:07:35,480 --> 00:07:36,608
+quando ela acontecer.
+
+164
+00:07:36,619 --> 00:07:39,600
+Okay Então beleza! Você foi lá no teu processo,
+
+165
+00:07:39,608 --> 00:07:42,709
+Você viu o teu processo? Você entendeu ele?
+
+166
+00:07:42,720 --> 00:07:45,449
+Você coletou os seus dados, né? E aí
+
+167
+00:07:45,459 --> 00:07:47,869
+essa coleta de dados e você olha pro rol de
+
+168
+00:07:47,879 --> 00:07:50,829
+processos que cê tem o A a divisão ou lixo,
+
+169
+00:07:50,838 --> 00:07:52,980
+Tudo aquilo que a sua organização tem de processo,
+
+170
+00:07:52,988 --> 00:07:58,220
+aqueles que precisam ser trabalhados em relação aos demais,
+
+171
+00:07:58,230 --> 00:08:00,939
+né que vão entrar na esteira de de de produção,
+
+172
+00:08:00,949 --> 00:08:03,059
+vamos dizer assim, né? Então, uma forma
+
+173
+00:08:03,069 --> 00:08:06,619
+de você eh trabalhar essa priorização, né? Pra
+
+174
+00:08:06,629 --> 00:08:10,379
+garantir o melhor resultado nas suas respostas é utilizar a
+
+175
+00:08:10,389 --> 00:08:13,379
+matriz Gut, né? Uma segunda perspectiva é a
+
+176
+00:08:13,389 --> 00:08:15,738
+Matriz Rice, né? Porque a matriz ryse é
+
+177
+00:08:15,750 --> 00:08:17,199
+uma outra forma da gente.
+
+178
+00:08:17,988 --> 00:08:23,439
+Eh observar essa perspectiva de também processos mas ele é,
+
+179
+00:08:23,449 --> 00:08:26,579
+é usada muita a ingestão de produtos e desenvolvimento de
+
+180
+00:08:26,588 --> 00:08:29,720
+software que aí ajuda a priorizar tarefa, recurso,
+
+181
+00:08:29,730 --> 00:08:33,349
+funcionalidade, né? Então, a matriz quer dizer
+
+182
+00:08:33,359 --> 00:08:34,070
+assim, oh, ch.
+
+183
+00:08:34,080 --> 00:08:36,619
+Quer dizer, eh quantas pessoas que é o alcance,
+
+184
+00:08:36,629 --> 00:08:40,029
+né? Quantas pessoas serão afetadas pela tarefa a essa
+
+185
+00:08:40,038 --> 00:08:43,200
+funcionalidade em um determinado período de tempo? O Impt
+
+186
+00:08:43,210 --> 00:08:45,590
+que é o impacto, né? Que é qual
+
+187
+00:08:45,599 --> 00:08:50,428
+será o efeito positivo pra cada pessoa afetada por aquele
+
+188
+00:08:50,440 --> 00:08:52,940
+problema que a gente tá querendo resolver? Depois,
+
+189
+00:08:52,950 --> 00:08:57,340
+a parte de confidence que quer dizer quão certo nós
+
+190
+00:08:57,349 --> 00:09:01,700
+estamos nas estimativas desse alcance desse desse impacto desse esforço.
+
+191
+00:09:01,710 --> 00:09:04,979
+E o esforço é justamente quanto trabalho eu vou precisar
+
+192
+00:09:04,989 --> 00:09:06,369
+pra poder executar aquela atividade.
+
+193
+00:09:06,379 --> 00:09:08,418
+Então, isso aí eu tenho uma pontuação e essa
+
+194
+00:09:08,428 --> 00:09:11,558
+pontuação me ajuda a priorizar as minhas.
+
+195
+00:09:11,570 --> 00:09:14,139
+Eh, eh os meus, meus processos e o
+
+196
+00:09:14,149 --> 00:09:16,379
+outro A gente tem uma matriz básico, né?
+
+197
+00:09:16,389 --> 00:09:21,298
+A matriz básica envolve benefício pra organização, abrangência dessa
+
+198
+00:09:21,308 --> 00:09:25,830
+solução, satisfação dos funcionários, investimento necessário, impacto
+
+199
+00:09:25,840 --> 00:09:29,428
+sobre os clientes e a capacidade de operacionalização.
+
+200
+00:09:29,440 --> 00:09:34,269
+Então estas variáveis aí me ajudam também a priorizar o
+
+201
+00:09:34,279 --> 00:09:36,710
+meu processo, né? Pra que eu possa,
+
+202
+00:09:36,719 --> 00:09:40,210
+então, trabalhar com ele dentro de uma perspectiva de
+
+203
+00:09:40,219 --> 00:09:43,279
+assertividade, né? Em relação ao resultado que ele
+
+204
+00:09:43,288 --> 00:09:46,129
+traz pra organização e o último é que a gente
+
+205
+00:09:46,139 --> 00:09:48,489
+pode usar é a matriz de Custo-benefício, né?
+
+206
+00:09:48,500 --> 00:09:52,428
+Então eu vou olhar a matriz de custo-benefício e veri
+
+207
+00:09:52,440 --> 00:09:56,808
+e verificar, né? Eh dentro de uma perspectiva
+
+208
+00:09:56,820 --> 00:09:59,908
+dentro desse processo, né? Quanto é que ele
+
+209
+00:09:59,918 --> 00:10:02,428
+me custa e o benefício que ele vai me trazer
+
+210
+00:10:02,440 --> 00:10:05,048
+em relaçãoàquilo que eu espero pra minha organização,
+
+211
+00:10:05,058 --> 00:10:08,908
+Observem que essas ferramentas elas estão relacionadas.
+
+212
+00:10:08,918 --> 00:10:11,889
+Eh a Ah, pra que eu possa usar o
+
+213
+00:10:11,955 --> 00:10:17,364
+processo em que ele possa traduzir um resultado melhor pra
+
+214
+00:10:17,375 --> 00:10:18,445
+minha organização.
+
+215
+00:10:18,455 --> 00:10:21,565
+Tá, Então ela ajuda que eu possa priorizar e
+
+216
+00:10:21,575 --> 00:10:25,683
+trabalhar aqueles processos que que precisam ter mais atenção que
+
+217
+00:10:25,695 --> 00:10:29,085
+vão trazer mais resultado, cujo impacto vai ser relevante
+
+218
+00:10:29,094 --> 00:10:30,274
+pra minha organização.
+
+219
+00:10:30,283 --> 00:10:34,065
+Okay! Obrigado por você estar comigo até a próxima
+

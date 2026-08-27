@@ -1,0 +1,404 @@
+1
+00:00:06,238 --> 00:00:08,769
+Olá, vamos falar um pouquinho sobre o uso de
+
+2
+00:00:08,778 --> 00:00:12,368
+templates e JS, né? Qual é a ideia
+
+3
+00:00:12,380 --> 00:00:16,170
+dos templates Se você já fez um uma recepção no
+
+4
+00:00:16,179 --> 00:00:20,129
+método got, né por exemplo got no express e
+
+5
+00:00:20,138 --> 00:00:24,708
+teve que criar linha a linha a resposta h t
+
+6
+00:00:24,719 --> 00:00:29,048
+ML l i então quando você faz isso tem que
+
+7
+00:00:29,059 --> 00:00:30,989
+colocar todo o código h t ML no meio do
+
+8
+00:00:31,000 --> 00:00:36,078
+código jovem script e isso além de você forçar o
+
+9
+00:00:36,088 --> 00:00:39,137
+programador a ser um designer e nem sempre ele é,
+
+10
+00:00:39,148 --> 00:00:41,978
+tá eh o que acontece.
+
+11
+00:00:41,987 --> 00:00:46,158
+Você aumenta a complexidade sem necessidade tá o que eu
+
+12
+00:00:46,167 --> 00:00:49,387
+quero fazer eu quero desvincular Eu quero colocar um modelo
+
+13
+00:00:49,398 --> 00:00:52,539
+chamado de e JS que é pra você ter um
+
+14
+00:00:52,548 --> 00:00:56,628
+template e vou alimentar esse template a partir do JavaScript
+
+15
+00:00:56,637 --> 00:00:59,348
+no JS, né? Com isso eu vou dividir
+
+16
+00:00:59,359 --> 00:01:03,189
+as tarefas na parte de eh gerenciamento da parte de
+
+17
+00:01:03,200 --> 00:01:06,329
+negócios do programador e o designer pode fazer a página
+
+18
+00:01:06,338 --> 00:01:07,269
+tranquilamente.
+
+19
+00:01:07,278 --> 00:01:15,278
+Vamos ver como funciona bom e JS significa em Java.
+
+20
+00:01:15,290 --> 00:01:19,150
+Scripps tá seria o Java script embebido, né?
+
+21
+00:01:19,159 --> 00:01:24,120
+Embutido num eh num template h t ML O são
+
+22
+00:01:24,129 --> 00:01:29,680
+trechos em Java script executados no servidor Tá então assim
+
+23
+00:01:29,689 --> 00:01:32,980
+tudo aquilo que tiver no percent igual ou percent,
+
+24
+00:01:32,989 --> 00:01:37,879
+ele vai ser executado no servidor tá então assim não
+
+25
+00:01:37,888 --> 00:01:40,778
+vai ser executado no cliente e o cliente vai receber
+
+26
+00:01:40,790 --> 00:01:44,260
+o resultado daquela execução, né? Eh envio de
+
+27
+00:01:44,269 --> 00:01:46,620
+dados a partir do controlador, né? Quem é
+
+28
+00:01:46,629 --> 00:01:49,808
+o controlador? É o controlador do express É o
+
+29
+00:01:49,819 --> 00:01:53,459
+cara que conseguiu capturar a requisição.
+
+30
+00:01:53,469 --> 00:01:58,430
+Ele captura a requisição, preenche os dados necessários manda
+
+31
+00:01:58,439 --> 00:01:59,150
+pro template.
+
+32
+00:01:59,159 --> 00:02:03,448
+A dinâmica é sempre essa tá eh o que que
+
+33
+00:02:03,459 --> 00:02:08,349
+eu preciso pra usar o express tá eh e usar
+
+34
+00:02:08,360 --> 00:02:11,830
+também o JS n PM está o express que seria
+
+35
+00:02:11,838 --> 00:02:14,538
+pra usar o express g S n PM está o
+
+36
+00:02:14,550 --> 00:02:17,069
+e JS tem que instalar os dois pacotes pra essa
+
+37
+00:02:17,080 --> 00:02:21,868
+coisa funcionar Configuração do express também é necessária, né?
+
+38
+00:02:22,618 --> 00:02:25,830
+EH como é que eu configura isso? Bom basicamente
+
+39
+00:02:25,838 --> 00:02:34,849
+assim Oh eu tenho esse cara você coloca tô usando
+
+40
+00:02:34,860 --> 00:02:38,449
+aqui o express meu aplicativo express e aqui eu tô
+
+41
+00:02:38,460 --> 00:02:44,099
+colocando sete e JS e sete s barra s ponto
+
+42
+00:02:44,110 --> 00:02:44,778
+barra S.
+
+43
+00:02:45,528 --> 00:02:48,879
+Essas configurações são necessárias para que o express use o
+
+44
+00:02:48,889 --> 00:02:51,050
+e JS o que que significa cada uma.
+
+45
+00:02:51,058 --> 00:02:53,990
+Ele tá dizendo que vai usar o a a engine,
+
+46
+00:02:54,000 --> 00:02:58,599
+o motor e JS pra eh gere gerenciamento de templates
+
+47
+00:02:59,210 --> 00:03:01,639
+e na segunda linha tá dizendo que os templates vão
+
+48
+00:03:01,649 --> 00:03:04,919
+ficar no diretório vis ponto barra s.
+
+49
+00:03:04,929 --> 00:03:07,538
+Então você já tem um diretório aqui que você cria
+
+50
+00:03:08,399 --> 00:03:14,278
+pra poder colocar os seus templates e essa configuração que
+
+51
+00:03:14,288 --> 00:03:19,080
+tá sendo demonstrada aqui tá depois ele vai usar o
+
+52
+00:03:19,088 --> 00:03:23,899
+template através do método render, né? E aí
+
+53
+00:03:23,909 --> 00:03:27,639
+o que a gente vai ver aqui primeiramente meu template
+
+54
+00:03:27,649 --> 00:03:30,139
+a JS ele tem eh uma cara do h t
+
+55
+00:03:30,149 --> 00:03:35,240
+ML de um meio que vai ser fornecido através do
+
+56
+00:03:35,250 --> 00:03:37,979
+Java script, Então nesse exemplo aqui oh h t
+
+57
+00:03:37,990 --> 00:03:42,330
+ML body um que é horrível poderia usar um eh
+
+58
+00:03:42,338 --> 00:03:46,099
+aqui Eu só coloquei por facilidade fort o B j
+
+59
+00:03:46,149 --> 00:03:51,949
+pessoas quem vai fornecer as pessoas o controlador tá olha
+
+60
+00:03:51,960 --> 00:03:59,099
+onde ele faz aqui oh dados nome Carlos Nome Joana
+
+61
+00:03:59,110 --> 00:04:04,788
+tem aqui os dois caras s ponto render exemplo Pessoas
+
+62
+00:04:05,490 --> 00:04:10,219
+dois pontos dados aqui Depois de quem é o meu
+
+63
+00:04:10,229 --> 00:04:13,528
+template, eu coloco os dados que eu quero enviar
+
+64
+00:04:13,538 --> 00:04:15,750
+pra ele e quem eu tô enviando aqui é o
+
+65
+00:04:15,758 --> 00:04:19,199
+dado que eu chamei de pessoas e aqui no exemplo
+
+66
+00:04:19,209 --> 00:04:21,720
+é a Gine, que é o meu arquivo e
+
+67
+00:04:21,730 --> 00:04:26,000
+JS nota não é arquivo JS a extensão tem que
+
+68
+00:04:26,009 --> 00:04:28,379
+ser e JS Tá.
+
+69
+00:04:29,160 --> 00:04:32,379
+Ah, então table bode um oh for o o
+
+70
+00:04:32,389 --> 00:04:36,449
+b j f pessoas então o que que o express
+
+71
+00:04:36,459 --> 00:04:41,009
+fez? Ele pegou a requisição, criou um vetor
+
+72
+00:04:41,019 --> 00:04:44,959
+ali de pessoas e mandou renderizar usando aquele template com
+
+73
+00:04:44,970 --> 00:04:48,709
+aqueles dados que seriam pessoas daqui de lá que veio
+
+74
+00:04:48,720 --> 00:04:49,149
+isso aqui.
+
+75
+00:04:49,790 --> 00:04:52,439
+Então pra cada pessoa desse conjunto ele vai colocar uma
+
+76
+00:04:52,449 --> 00:04:56,238
+T D que seria uma célula na na tabela com
+
+77
+00:04:56,250 --> 00:04:59,309
+o nome da pessoa e a idade da pessoa e
+
+78
+00:04:59,319 --> 00:05:02,040
+ele vai formar a tabela a partir daquilo que veio
+
+79
+00:05:02,048 --> 00:05:05,920
+do controlador, né? O controlador que tem essa
+
+80
+00:05:05,928 --> 00:05:09,879
+característica, né configurar viu engine dizer onde tá o
+
+81
+00:05:09,889 --> 00:05:14,238
+diretório dos templates e aqui hande né? O nder
+
+82
+00:05:14,250 --> 00:05:20,149
+utilizando aquele template com aqueles dados tá olhando um pouquinho
+
+83
+00:05:20,160 --> 00:05:23,548
+pra esse cara na prática é esse carinha aqui.
+
+84
+00:05:25,928 --> 00:05:29,548
+Ah, e aqui eu tenho o render.
+
+85
+00:05:29,559 --> 00:05:37,579
+Posso testar ele Ah, três três e aqui eu
+
+86
+00:05:37,588 --> 00:05:40,980
+tô usando na rota barra exemplo não, então eu
+
+87
+00:05:40,988 --> 00:05:49,059
+posso barra exemplo e ele já funciona lá, tu
+
+88
+00:05:49,889 --> 00:06:00,869
+quem bom então esses são os templates e JS né?
+
+89
+00:06:00,879 --> 00:06:03,269
+Que são os templates que vão permitir que eu consiga
+
+90
+00:06:03,278 --> 00:06:05,949
+dividir o trabalho entre o design e a programação.
+
+91
+00:06:05,959 --> 00:06:08,678
+E com isso eu consigo aproveitar melhor cada profissional e
+
+92
+00:06:08,689 --> 00:06:09,509
+facilita muito.
+
+93
+00:06:09,519 --> 00:06:11,829
+Eu deixo o meu código mais limpo, tá porque
+
+94
+00:06:11,838 --> 00:06:13,588
+ali no meu código, eu vou lidar apenas com
+
+95
+00:06:13,600 --> 00:06:16,350
+dados e no h t ML Eu vou lidar apenas
+
+96
+00:06:16,358 --> 00:06:17,389
+com design.
+
+97
+00:06:17,399 --> 00:06:21,209
+Isso facilita muito a organização do trabalho, seja ele
+
+98
+00:06:21,220 --> 00:06:23,428
+individual, seja em equipe, mas principalmente em equipe
+
+99
+00:06:23,439 --> 00:06:25,928
+onde eu eu posso aproveitar o melhor de cada profissional.
+
+100
+00:06:26,319 --> 00:06:28,088
+A gente fica, então nesse ponto, em relação
+
+101
+00:06:28,100 --> 00:06:28,829
+à JS.
+

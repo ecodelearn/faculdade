@@ -1,0 +1,896 @@
+1
+00:00:06,400 --> 00:00:10,089
+Olá, vamos complementar nosso entendimento acerca do ciclo de
+
+2
+00:00:10,099 --> 00:00:11,390
+vida de gestão de processo.
+
+3
+00:00:11,398 --> 00:00:13,448
+Nós vamos falar das fases do ciclo.
+
+4
+00:00:13,460 --> 00:00:16,048
+Já vimos que são cinco fases e agora nós vamos
+
+5
+00:00:16,059 --> 00:00:20,309
+detalhar a fase um, dois, três, quatro
+
+6
+00:00:20,318 --> 00:00:25,449
+e cinco okay, nessa primeira eh Partezinha! Nós
+
+7
+00:00:25,458 --> 00:00:29,208
+vamos falar da fase um dois e três, né?
+
+8
+00:00:29,219 --> 00:00:30,589
+Então vamos lá.
+
+9
+00:00:30,600 --> 00:00:32,029
+A fase é um.
+
+10
+00:00:32,039 --> 00:00:34,810
+Como nós já vimos é a fase de alinhamentoàs
+
+11
+00:00:34,819 --> 00:00:35,668
+estratégias e metas.
+
+12
+00:00:35,679 --> 00:00:38,819
+Ela tá aqui, oh, opa que está aqui,
+
+13
+00:00:38,829 --> 00:00:41,639
+fase, um alimento, a estratégia de meta,
+
+14
+00:00:41,649 --> 00:00:45,380
+o que que pressupõe a questão da do alinhamento,
+
+15
+00:00:45,389 --> 00:00:48,700
+a estratégia e meta, né? Okay? Vamos
+
+16
+00:00:48,709 --> 00:00:54,750
+lá você primeiro tem que entender a função e responsabilidade.
+
+17
+00:00:54,759 --> 00:00:58,990
+Identificar as eh as funções e responsabilidades dentro da organização.
+
+18
+00:00:59,000 --> 00:01:02,270
+Segundo, você tem que ter um patrocínio executivo.
+
+19
+00:01:02,279 --> 00:01:06,209
+Se você não tem patrocínio, esquece, você não
+
+20
+00:01:06,219 --> 00:01:11,760
+consegue! Eh eh, eh continuar no processo de
+
+21
+00:01:11,769 --> 00:01:15,969
+gestão de de organizacional Tá, EH pra qualquer coisa
+
+22
+00:01:15,980 --> 00:01:17,319
+que você vai fazer dentro da sua organização.
+
+23
+00:01:17,329 --> 00:01:19,778
+O patrocínio executivo é fundamental.
+
+24
+00:01:19,790 --> 00:01:23,599
+Okay Se você não tem repense a tua estratégia repense
+
+25
+00:01:23,609 --> 00:01:28,159
+seu método, porque eh Dificilmente você vai conseguir sucesso
+
+26
+00:01:28,168 --> 00:01:29,760
+naquilo que você tá tentando implementar.
+
+27
+00:01:29,769 --> 00:01:33,480
+Tá E depois o compromisso de recursos eh esperados,
+
+28
+00:01:33,489 --> 00:01:36,418
+Então isso você tem que ter dentro da fase um
+
+29
+00:01:36,430 --> 00:01:38,239
+pra fazer esse alinhamento, a estratégia, né?
+
+30
+00:01:38,250 --> 00:01:41,120
+Então, também esse compromisso de recursos esperados, eles,
+
+31
+00:01:41,129 --> 00:01:44,120
+se você tem um patrocínio executivo, isso acaba sendo.
+
+32
+00:01:44,129 --> 00:01:45,198
+Eh? Vamos dizer assim.
+
+33
+00:01:45,209 --> 00:01:49,159
+EH inerente, né? Eh por quê, porque
+
+34
+00:01:49,168 --> 00:01:53,000
+se a a o Executivo entende a importância daquilo ele
+
+35
+00:01:53,010 --> 00:01:56,388
+vai entregar pra você, né? Ou vai dar
+
+36
+00:01:56,400 --> 00:02:00,730
+ou vai eh garantir que aquele recurso que você espera
+
+37
+00:02:00,739 --> 00:02:03,730
+que você precisa pra cumprir aquele processo, realmente esteja
+
+38
+00:02:03,739 --> 00:02:07,168
+garantido? E aí vem né, as etapas que
+
+39
+00:02:07,180 --> 00:02:08,569
+pressupõe o alimento.
+
+40
+00:02:08,580 --> 00:02:13,179
+A estratégia são primeiro aqui oh aqui um o alinhamento
+
+41
+00:02:13,189 --> 00:02:14,149
+do processo.
+
+42
+00:02:14,159 --> 00:02:16,610
+Eh dos processos as estratégias e metas.
+
+43
+00:02:16,618 --> 00:02:18,969
+Então você vai alinhar o teu processo, a estratégia
+
+44
+00:02:18,979 --> 00:02:20,288
+e meta primeira coisa.
+
+45
+00:02:20,300 --> 00:02:24,038
+Já, né? É definir a estratégia é a
+
+46
+00:02:24,050 --> 00:02:24,319
+meta.
+
+47
+00:02:24,330 --> 00:02:26,319
+Se você não tem estratégia? Se você não tem
+
+48
+00:02:26,330 --> 00:02:27,800
+meta, você não sabe pra onde é que vai.
+
+49
+00:02:27,808 --> 00:02:29,308
+Não adianta você fazer processo.
+
+50
+00:02:29,319 --> 00:02:33,199
+Tá saber aonde eu vou como eu estou, né?
+
+51
+00:02:33,210 --> 00:02:36,080
+Aonde eu quero chegar como eu vou chegar? Isso
+
+52
+00:02:36,088 --> 00:02:37,960
+é feito por meio das estratégias das metas.
+
+53
+00:02:37,969 --> 00:02:38,929
+Então, a primeira coisa que a gente tem que
+
+54
+00:02:38,939 --> 00:02:42,639
+garantir isso aí, segundo a gente vai depois que
+
+55
+00:02:42,649 --> 00:02:47,679
+que fizer essa esse alinhamento é identificar esse alimento,
+
+56
+00:02:47,689 --> 00:02:50,139
+né? Eh, Eh identificação e alimento dos o
+
+57
+00:02:50,149 --> 00:02:54,300
+dos objetivos dos clientes Agora entendam que isso aqui tá
+
+58
+00:02:54,308 --> 00:02:54,979
+interligado.
+
+59
+00:02:54,990 --> 00:02:57,308
+Tá quando eu fizer esse alinhamento aqui oh, eu
+
+60
+00:02:57,319 --> 00:02:58,580
+tô olhando pra cá.
+
+61
+00:02:58,588 --> 00:03:00,819
+E é claro que ao fazer o alinhamento eu vou
+
+62
+00:03:00,830 --> 00:03:04,149
+olhar assim, né? Vamos, vamos entender porque
+
+63
+00:03:04,159 --> 00:03:06,229
+olha Só se eu tô fazendo um um processo e
+
+64
+00:03:06,240 --> 00:03:09,270
+uma estratégia, eu vou identificar os objetivos com base
+
+65
+00:03:09,278 --> 00:03:09,710
+no cliente.
+
+66
+00:03:09,719 --> 00:03:12,449
+A minha estratégia tem que ter base nessa nessa,
+
+67
+00:03:12,460 --> 00:03:14,909
+nessa agregação de valor da do do dos meus clientes.
+
+68
+00:03:14,919 --> 00:03:19,550
+Tá depois, o processo eh com foco é de
+
+69
+00:03:19,558 --> 00:03:21,069
+mudança, seria o segundo.
+
+70
+00:03:21,080 --> 00:03:23,669
+O terceiro eh, perspectiva aqui, oh! E
+
+71
+00:03:23,679 --> 00:03:28,379
+a última alinhamento das métricas dos processos, A meta,
+
+72
+00:03:28,389 --> 00:03:30,379
+né? Então, você pega as mé, as
+
+73
+00:03:30,389 --> 00:03:33,538
+métricas dos processos, né? Você vai pegar as
+
+74
+00:03:33,550 --> 00:03:37,618
+metas você definindo os processos, as estratégias, método
+
+75
+00:03:37,629 --> 00:03:40,558
+definitivo, indicador e tudo bonitinho, E aí você
+
+76
+00:03:40,569 --> 00:03:44,528
+vai fazer com que isso esteja alinhada ao seu processo,
+
+77
+00:03:44,538 --> 00:03:47,308
+então alinhar as métricas dos processos, as m,
+
+78
+00:03:47,319 --> 00:03:49,139
+Então o processo também tem que ter métrica.
+
+79
+00:03:49,149 --> 00:03:51,159
+Tá pra você saber se realmente o processo foi entregue
+
+80
+00:03:51,169 --> 00:03:51,500
+ou não.
+
+81
+00:03:51,508 --> 00:03:55,038
+Se você atendeu ou não, okay então medir o
+
+82
+00:03:55,050 --> 00:03:57,899
+processo é fundamental pra eu garantir se aquele processo tá
+
+83
+00:03:57,909 --> 00:04:00,308
+acontecendo, então a a, a medição, ela
+
+84
+00:04:00,319 --> 00:04:03,729
+pressupõe que eu estou acompanhando aquele processo e garantindo o
+
+85
+00:04:03,740 --> 00:04:04,319
+que ele entregue.
+
+86
+00:04:04,330 --> 00:04:06,000
+Tá então? Essa é a fase.
+
+87
+00:04:06,008 --> 00:04:09,899
+Um de alinhamento eh as metas aí? Okay,
+
+88
+00:04:09,909 --> 00:04:12,199
+aí nós vamos pular pra fase dois.
+
+89
+00:04:12,210 --> 00:04:14,319
+A fase dois é essa aqui, oh, ela
+
+90
+00:04:14,330 --> 00:04:18,170
+fala de mudanças, né? Eh de arquitetura,
+
+91
+00:04:18,178 --> 00:04:20,278
+o que que pressupõe a mudança de de arquitetura?
+
+92
+00:04:20,290 --> 00:04:23,420
+Ela vem com a modelagem do processo.
+
+93
+00:04:23,939 --> 00:04:25,750
+Então eu vou modelar o meu processo.
+
+94
+00:04:25,759 --> 00:04:27,309
+O que que é modelar e criar um modelo?
+
+95
+00:04:27,319 --> 00:04:29,449
+O próprio não quer dizer modelar? Eu vou criar
+
+96
+00:04:29,459 --> 00:04:32,149
+o modelo do meu processo, né? Esse criar
+
+97
+00:04:32,160 --> 00:04:35,278
+o modelo do meu processo é é definir efetivamente como
+
+98
+00:04:35,290 --> 00:04:35,509
+vai ser.
+
+99
+00:04:35,519 --> 00:04:37,949
+O meu processo é escrever ali o que que eu
+
+100
+00:04:37,959 --> 00:04:40,189
+quero, qual é o modelo, né, Eh,
+
+101
+00:04:40,199 --> 00:04:41,910
+né? Bom? Se você vai criar um um,
+
+102
+00:04:41,920 --> 00:04:45,230
+um, um carro, por exemplo, as a,
+
+103
+00:04:45,238 --> 00:04:47,699
+as as, as empresas, né? Ah,
+
+104
+00:04:47,709 --> 00:04:50,480
+os fabricantes de carro, eles fazem o modelo do
+
+105
+00:04:50,488 --> 00:04:53,100
+carro, testam Esse carro é, define o modelo,
+
+106
+00:04:53,108 --> 00:04:55,678
+Então a primeira coisa é modelagem de processo.
+
+107
+00:04:55,689 --> 00:04:57,959
+Essa é a perspectiva então, modelar esse processo.
+
+108
+00:04:57,970 --> 00:05:01,500
+A segunda você vai analisar esse processo, né?
+
+109
+00:05:01,509 --> 00:05:04,939
+Então eu vou analisar o processo, então eu modele
+
+110
+00:05:04,949 --> 00:05:07,699
+o processo okay, modelar, Quer dizer, eh
+
+111
+00:05:07,709 --> 00:05:10,290
+nesse caso dessa modelagem aqui eu não tô eu não
+
+112
+00:05:10,298 --> 00:05:14,238
+tô ainda percebendo! Eh não, tô atrás de
+
+113
+00:05:14,250 --> 00:05:16,838
+erro, não tô atrás de de defeito nem nada.
+
+114
+00:05:16,850 --> 00:05:19,579
+Eu simplesmente vou pegar aquele processo como ele ocorre e
+
+115
+00:05:19,588 --> 00:05:23,040
+vou modelar ele, okay aí na análise do processo
+
+116
+00:05:23,048 --> 00:05:25,178
+sim, eu vou começar a avaliar meu processo,
+
+117
+00:05:25,189 --> 00:05:27,600
+né? Na perspectiva de se ele tá correto.
+
+118
+00:05:27,608 --> 00:05:30,439
+Se eu preciso melhorar, o que que algum algum
+
+119
+00:05:30,449 --> 00:05:33,199
+ajuste aí eu faço na na questão da análise.
+
+120
+00:05:33,209 --> 00:05:36,959
+E aí vem o projeto do meu processo, projeto
+
+121
+00:05:36,970 --> 00:05:40,319
+do meu processo, Tá? O projeto do meu
+
+122
+00:05:40,329 --> 00:05:42,389
+processo, Deixa eu tirar aqui essa telinha.
+
+123
+00:05:42,399 --> 00:05:46,250
+O processo do meu projeto, ele vem eh dentro
+
+124
+00:05:46,259 --> 00:05:47,290
+dessa perspectiva aqui.
+
+125
+00:05:47,298 --> 00:05:50,809
+Deixa eu finalizar isso o processo do meu projeto tá
+
+126
+00:05:50,819 --> 00:05:52,970
+aqui? Oh, né? Então, eu fiz
+
+127
+00:05:52,980 --> 00:05:53,970
+a parte de análise.
+
+128
+00:05:53,980 --> 00:05:56,449
+Agora eu vou fazer o projeto desse processo e,
+
+129
+00:05:56,459 --> 00:05:58,608
+por fim, a medição de desempenho.
+
+130
+00:05:58,619 --> 00:06:01,290
+Ou seja, fiz implementei, tá bonitinho ali,
+
+131
+00:06:01,298 --> 00:06:03,889
+né? Então agora eu vou medir o desempenho medir
+
+132
+00:06:03,899 --> 00:06:07,649
+o desempenho garante que o meu processo realmente tá atendendo
+
+133
+00:06:07,660 --> 00:06:08,709
+aquilo que eu defini nele.
+
+134
+00:06:09,488 --> 00:06:11,899
+Okay vamos lá? Gente, a gente só vai
+
+135
+00:06:11,910 --> 00:06:15,220
+controlar aquilo que a gente eh gerir, controlar aquilo
+
+136
+00:06:15,230 --> 00:06:16,420
+que a gente mede, se a gente não mede,
+
+137
+00:06:16,428 --> 00:06:18,838
+não tenho certeza, eh eh Se eu falar pra
+
+138
+00:06:18,850 --> 00:06:20,899
+você, dez é bom ou é ruim.
+
+139
+00:06:20,910 --> 00:06:22,480
+Não sei qual é a meta.
+
+140
+00:06:23,369 --> 00:06:26,588
+Se eu falar pra você que eh a nota da
+
+141
+00:06:26,600 --> 00:06:28,059
+da instituição é dez.
+
+142
+00:06:28,069 --> 00:06:29,338
+O dez é ótimo.
+
+143
+00:06:29,350 --> 00:06:31,639
+Mas se eu não falar? Se eu falar que
+
+144
+00:06:31,649 --> 00:06:35,189
+dez é uma parcela de uma nota que tem peso
+
+145
+00:06:35,199 --> 00:06:38,108
+cem, eh, não é uma ade, não
+
+146
+00:06:38,119 --> 00:06:39,670
+é uma meta adequada.
+
+147
+00:06:39,678 --> 00:06:40,369
+Tá entendendo.
+
+148
+00:06:40,379 --> 00:06:42,410
+Então se eu falar que o que que eu quero
+
+149
+00:06:42,420 --> 00:06:45,670
+entregar? Então eu preciso medir esse desempenho desse processo
+
+150
+00:06:45,678 --> 00:06:48,088
+pra saber se ele tá realmente atendendo a perspectiva no
+
+151
+00:06:48,100 --> 00:06:49,470
+qual ele foi definido.
+
+152
+00:06:49,480 --> 00:06:51,869
+Por isso é medição de desempenho.
+
+153
+00:06:51,879 --> 00:06:54,410
+Okay só por meio da medição que a gente sabe,
+
+154
+00:06:54,420 --> 00:06:56,928
+né? Eh Como estudante, a gente vive isso,
+
+155
+00:06:56,939 --> 00:06:58,689
+né? Eu vou medir o meu desempenho baseado na
+
+156
+00:06:58,699 --> 00:06:59,889
+nota que eu tirei na prova.
+
+157
+00:06:59,899 --> 00:07:02,689
+Agora pra isso eu preciso ter uma métrica definida pra
+
+158
+00:07:02,699 --> 00:07:06,119
+aquilo, okay e e Aí eu tenho lá o
+
+159
+00:07:06,129 --> 00:07:08,559
+o meu processo pra saber se eu atendi ou se
+
+160
+00:07:08,569 --> 00:07:09,519
+eu não atendi.
+
+161
+00:07:09,528 --> 00:07:10,119
+Tá então.
+
+162
+00:07:10,129 --> 00:07:12,600
+Fase dois essa fase.
+
+163
+00:07:12,608 --> 00:07:16,709
+Ah, essa fase! Relação a mudanças de arquitetura,
+
+164
+00:07:16,720 --> 00:07:20,259
+okay, E aí? Nós também temos a terceira
+
+165
+00:07:20,269 --> 00:07:24,444
+fase, o nosso processo que é desenvolver iniciativas.
+
+166
+00:07:24,454 --> 00:07:27,285
+Então tá aqui, oh, desenvolver iniciativas estamos aqui
+
+167
+00:07:27,295 --> 00:07:29,363
+oh na fase três, Fase três O que que
+
+168
+00:07:29,375 --> 00:07:31,725
+eu vou fazer? Nessa desenvolvimento de iniciativa? Eu
+
+169
+00:07:31,733 --> 00:07:36,423
+vou desenvolver planos de gestão de processos e treinamento.
+
+170
+00:07:36,434 --> 00:07:39,105
+Então, meu plano é meu plano de gestão,
+
+171
+00:07:39,113 --> 00:07:43,338
+como eu vou gerir esse processo e também treinamento?
+
+172
+00:07:43,350 --> 00:07:45,959
+Então não é só a a a gestão, eu
+
+173
+00:07:45,970 --> 00:07:46,819
+preciso treinar.
+
+174
+00:07:46,829 --> 00:07:49,379
+Eu preciso garantir que aquilo vai tá ocorrendo de forma
+
+175
+00:07:49,389 --> 00:07:52,699
+adequada, né? Não é porque você desenhou um
+
+176
+00:07:52,709 --> 00:07:55,858
+processo mode, o processo tá lá na anotação bonitinho
+
+177
+00:07:55,869 --> 00:07:58,358
+usa um software que tá tudo resolvido, não,
+
+178
+00:07:58,369 --> 00:08:00,819
+não, não está tudo resolvido, você precisa,
+
+179
+00:08:00,829 --> 00:08:06,019
+né? Trabalhar essa perspectiva de treinamento, né?
+
+180
+00:08:06,028 --> 00:08:09,980
+De conhecimento que as pessoas precisam entender aquilo okay nem
+
+181
+00:08:09,988 --> 00:08:12,379
+todo mundo tem a percepção ou a visão que a
+
+182
+00:08:12,389 --> 00:08:15,059
+gente acha que é adequado ao que tem que ter.
+
+183
+00:08:15,069 --> 00:08:16,980
+Então, a gente precisa direcionar isso aí.
+
+184
+00:08:16,988 --> 00:08:22,000
+Depois oh desenvolver planos de gestão de mudanças.
+
+185
+00:08:22,009 --> 00:08:22,778
+Eh e projetos.
+
+186
+00:08:22,790 --> 00:08:24,298
+Então você vai desenvolver plano.
+
+187
+00:08:24,309 --> 00:08:28,199
+Gen Gente, Nós estamos desenvolvendo iniciativa pressupor planejamento.
+
+188
+00:08:28,449 --> 00:08:33,599
+Então, planejar é fundamental para o processo de execução,
+
+189
+00:08:34,288 --> 00:08:35,899
+né? Não é Simplesmente ah, desenhei.
+
+190
+00:08:35,908 --> 00:08:38,298
+O processo agora implementa o processo e vamos embora.
+
+191
+00:08:38,308 --> 00:08:40,619
+Não vou planejar como isso vai acontecer.
+
+192
+00:08:40,629 --> 00:08:42,538
+Como esse processo vai ser gerido, vai precisar de
+
+193
+00:08:42,548 --> 00:08:44,178
+treinamento como eu vou.
+
+194
+00:08:44,190 --> 00:08:47,099
+Como essa mudança vai ocorrer? Eu desligo a chave
+
+195
+00:08:47,109 --> 00:08:48,080
+e ligo outra.
+
+196
+00:08:48,090 --> 00:08:51,558
+Eu mudo gradualmente, eu encerro o processo.
+
+197
+00:08:51,570 --> 00:08:52,739
+Mato ele e crio o outro.
+
+198
+00:08:52,750 --> 00:08:55,759
+Como é que eu faço? Então? Planejamento desenvolver
+
+199
+00:08:55,769 --> 00:08:58,509
+planos de mudança de tecnologia não é, Simplesmente vai
+
+200
+00:08:58,519 --> 00:08:59,788
+lá e virar a chave.
+
+201
+00:08:59,798 --> 00:09:01,830
+Ah! Pera, aí desliga o computador aqui.
+
+202
+00:09:01,840 --> 00:09:03,989
+Liga, outro que agora vai tudo funcionar Não é
+
+203
+00:09:04,000 --> 00:09:07,229
+assim no mundo real, Não é assim, tá
+
+204
+00:09:07,239 --> 00:09:10,649
+e desenvolva planos de realização de benefícios, né?
+
+205
+00:09:10,658 --> 00:09:12,700
+Benefício? É o que que cê tá entregando.
+
+206
+00:09:12,710 --> 00:09:14,288
+Isso realmente tá agregando valor.
+
+207
+00:09:14,298 --> 00:09:15,590
+Tá aqui, oh planos.
+
+208
+00:09:15,599 --> 00:09:18,908
+Então planejamento é pressuposto.
+
+209
+00:09:18,918 --> 00:09:23,500
+Então vê oh cê alinhou, você fez a arquitetura,
+
+210
+00:09:23,509 --> 00:09:28,489
+vai desenvolver as iniciativas aqui você vai eh planejar o
+
+211
+00:09:28,500 --> 00:09:31,548
+que você vai fazer, né? Você vai organizar
+
+212
+00:09:31,558 --> 00:09:33,269
+o que você vai? Tá fazendo, isso é
+
+213
+00:09:33,279 --> 00:09:37,229
+fundamental né? Então, assim a gente dentro da
+
+214
+00:09:37,239 --> 00:09:40,070
+nossa, da da, da nossa perspectiva como pessoa,
+
+215
+00:09:40,080 --> 00:09:42,808
+no meu entendimento, pra mim, só funciona com
+
+216
+00:09:42,820 --> 00:09:43,719
+planejamento.
+
+217
+00:09:43,729 --> 00:09:45,340
+Se eu vou sair da minha casa pra trabalhar,
+
+218
+00:09:45,349 --> 00:09:46,408
+eu tenho que planejar.
+
+219
+00:09:46,700 --> 00:09:48,950
+Se eu estou trabalhando, eu planejo, eu planejei
+
+220
+00:09:48,960 --> 00:09:50,428
+pra estar aqui.
+
+221
+00:09:50,440 --> 00:09:52,418
+Eu planejo pra executar uma atividade.
+
+222
+00:09:52,428 --> 00:09:56,918
+Então planejamento é pressuposto básico da questão organizacional e também
+
+223
+00:09:56,928 --> 00:09:59,849
+da gestão de processo Okay! Obrigado.
+
+224
+00:09:59,859 --> 00:10:00,849
+Vamos pra próxima!
+

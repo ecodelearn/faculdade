@@ -1,0 +1,508 @@
+1
+00:00:07,000 --> 00:00:08,569
+Olá, pessoal, tudo! Bom, Meu nome
+
+2
+00:00:08,579 --> 00:00:09,528
+é Francisco Júnior.
+
+3
+00:00:09,538 --> 00:00:12,329
+Vou estar com vocês durante toda essa trajetória, nessa
+
+4
+00:00:12,339 --> 00:00:15,868
+nossa disciplina de gestão de segurança e continuidade.
+
+5
+00:00:15,880 --> 00:00:16,728
+Vai ser um prazer.
+
+6
+00:00:16,739 --> 00:00:19,649
+Sou formado em tecnologia, tenho anos de experiência em
+
+7
+00:00:19,658 --> 00:00:20,208
+tecnologia.
+
+8
+00:00:20,219 --> 00:00:23,609
+Então nessa jornada, vamos ter essa troca de experiência
+
+9
+00:00:23,620 --> 00:00:26,429
+e com certeza, iremos aprender muito no final dela.
+
+10
+00:00:26,440 --> 00:00:29,408
+Nessa primeira aula nós vamos começar a ver a história.
+
+11
+00:00:29,420 --> 00:00:31,750
+Então, uma breve história sobre a segurança da informação.
+
+12
+00:00:32,109 --> 00:00:35,158
+Muitas vezes a gente acha que a A, a.
+
+13
+00:00:35,167 --> 00:00:35,179
+A.
+
+14
+00:00:35,188 --> 00:00:38,298
+A segurança, da informação, né, a tecnologia?
+
+15
+00:00:38,307 --> 00:00:40,719
+Não, não a tecnologia, mas os dados a
+
+16
+00:00:40,728 --> 00:00:43,917
+forma de escrita é algo próximo, né? Sei
+
+17
+00:00:43,929 --> 00:00:46,917
+lá dessa nossa década duas últimas décadas, mas isso
+
+18
+00:00:46,929 --> 00:00:47,557
+não é verdade.
+
+19
+00:00:47,569 --> 00:00:47,719
+Tá.
+
+20
+00:00:47,728 --> 00:00:49,898
+Se a gente pegar toda a nossa história, todo
+
+21
+00:00:49,908 --> 00:00:52,597
+o conhecimento histórico da humanidade, a gente vai ver
+
+22
+00:00:52,609 --> 00:00:57,814
+que a vem de longos e longas datas desde a
+
+23
+00:00:57,825 --> 00:01:02,274
+época egípcias, enfim, a questão de se comunicar,
+
+24
+00:01:02,283 --> 00:01:06,034
+dar informação é muito além do que o nosso tempo
+
+25
+00:01:06,043 --> 00:01:07,614
+atual, Isso que a gente precisa entender.
+
+26
+00:01:07,625 --> 00:01:09,924
+Então, a questão da informação, gestão da informação,
+
+27
+00:01:09,933 --> 00:01:13,064
+segurança, da informação, uma forma de blindar a
+
+28
+00:01:13,073 --> 00:01:16,430
+informação não é de hoje, vem de muitos e
+
+29
+00:01:16,439 --> 00:01:18,930
+muitos milhares de anos atrás? Tá? Então,
+
+30
+00:01:18,939 --> 00:01:21,549
+primeiro, a tecnologia da informação é a de qualquer
+
+31
+00:01:21,558 --> 00:01:25,129
+coisa, uma tecnologia de comunicação, de comunicação.
+
+32
+00:01:25,138 --> 00:01:27,549
+Afinal, você está usando seu provavelmente.
+
+33
+00:01:27,558 --> 00:01:29,349
+Você usa seu whatsapp todo dia? Você usa a
+
+34
+00:01:29,359 --> 00:01:31,790
+sua eh, sua sua sua rede social todo dia
+
+35
+00:01:31,799 --> 00:01:33,730
+o que que você tá fazendo? Se comunicando,
+
+36
+00:01:33,739 --> 00:01:36,079
+se comunicando com seus, com seu seus parentes,
+
+37
+00:01:36,088 --> 00:01:38,099
+com seus pais, com o mundo? Então,
+
+38
+00:01:38,109 --> 00:01:41,838
+antes de qualquer coisa, é uma tecnologia de comunicação,
+
+39
+00:01:41,849 --> 00:01:42,579
+outra coisa.
+
+40
+00:01:42,588 --> 00:01:45,099
+A gente precisa entender a necessidade de proteger.
+
+41
+00:01:45,109 --> 00:01:49,219
+As nossas informações sensíveis veem essa necessidade de proteger as
+
+42
+00:01:49,230 --> 00:01:50,939
+coisas sensíveis, os nossos dados.
+
+43
+00:01:50,948 --> 00:01:53,980
+Vem desde o tempo egípcio se você olhar se a
+
+44
+00:01:53,989 --> 00:01:57,480
+gente, se você eu até recomendo isso, né.
+
+45
+00:01:57,489 --> 00:02:00,799
+Começo, dar dar uma olhada em documentários dessa cultura
+
+46
+00:02:00,808 --> 00:02:03,638
+egípcias, né? Cultura da Suméria, vocês vão
+
+47
+00:02:03,650 --> 00:02:07,838
+entender como era importante a questão de de proteger os
+
+48
+00:02:07,849 --> 00:02:08,319
+dados.
+
+49
+00:02:08,330 --> 00:02:13,479
+Desde aquela época eles criavam formas a formas de escrita
+
+50
+00:02:13,490 --> 00:02:17,080
+que protegia os dados, né, De outros povos
+
+51
+00:02:17,088 --> 00:02:18,240
+de outras comunidades.
+
+52
+00:02:18,250 --> 00:02:20,919
+Então, essa questão de proteger os dados não vem
+
+53
+00:02:20,929 --> 00:02:21,800
+de hoje.
+
+54
+00:02:21,808 --> 00:02:24,778
+Vem de milhares de anos atrás.
+
+55
+00:02:25,379 --> 00:02:26,949
+Então é muito legal, se você pegar, aí,
+
+56
+00:02:26,960 --> 00:02:29,569
+se tiver uma oportunidade de ver algum documentário no YouTube.
+
+57
+00:02:29,580 --> 00:02:30,588
+Tem bastante disso.
+
+58
+00:02:30,599 --> 00:02:35,069
+Documentário da cultura egípcia e principalmente da forma de escrita
+
+59
+00:02:35,080 --> 00:02:37,710
+e de proteção da informação que os egípcios faziam.
+
+60
+00:02:37,719 --> 00:02:40,449
+Você vai entender que não é de hoje que o
+
+61
+00:02:40,460 --> 00:02:44,889
+humano, o ser humano, tenta proteger os dados
+
+62
+00:02:44,899 --> 00:02:45,929
+de alguma forma.
+
+63
+00:02:46,379 --> 00:02:49,949
+E a criptografia nasceu PA com a utilização de hidrográficos
+
+64
+00:02:49,960 --> 00:02:52,460
+cifrados, pagando de que a mensagem, né?
+
+65
+00:02:52,469 --> 00:02:55,649
+Mensagem importante seja compreendida somente pra aquelas pessoas.
+
+66
+00:02:55,659 --> 00:02:57,649
+Ou seja, quando a gente fala em criptografia,
+
+67
+00:02:57,659 --> 00:03:00,028
+por que que a gente quer criptografar uma mensagem?
+
+68
+00:03:00,038 --> 00:03:01,429
+Por que que a gente quer? A gente tem
+
+69
+00:03:01,439 --> 00:03:06,300
+a necessidade que aquela informação importante chegue? Tá nas
+
+70
+00:03:06,308 --> 00:03:09,758
+pessoas que precisam daquela informação pra que ele não não
+
+71
+00:03:09,770 --> 00:03:12,879
+tenha? Eh, eh pra que aquela informação não
+
+72
+00:03:12,889 --> 00:03:16,960
+seja desprendida, Ou seja, alocada ou outra pessoa
+
+73
+00:03:16,969 --> 00:03:20,159
+consiga pegar essa informação então, ou seja, tá
+
+74
+00:03:20,169 --> 00:03:23,770
+simplificando a criptografia, ela viu da necessidade de que
+
+75
+00:03:23,778 --> 00:03:27,710
+de uma informação a informação a tá chegue na pessoa
+
+76
+00:03:27,719 --> 00:03:31,469
+B de forma eh sem ter.
+
+77
+00:03:31,479 --> 00:03:34,169
+Eh desvio de informação no meio do caminho, Então
+
+78
+00:03:34,179 --> 00:03:36,050
+isso é antigo, Não é de hoje, não
+
+79
+00:03:36,058 --> 00:03:37,889
+é de hoje, Muitas vezes a gente acha que
+
+80
+00:03:37,899 --> 00:03:40,800
+essa criptografia, gestão de informação, gestão de dados
+
+81
+00:03:40,808 --> 00:03:44,129
+tecnologia, Ou seja, a tecnologia da comunicação é
+
+82
+00:03:44,139 --> 00:03:48,508
+muito antiga, é muito antiga no período da Segunda
+
+83
+00:03:48,520 --> 00:03:50,830
+Guerra Mundial, né? Teve a gente, tivemos
+
+84
+00:03:50,838 --> 00:03:53,618
+um grande, um grande impacto, um grande salto
+
+85
+00:03:53,629 --> 00:03:56,210
+na questão da criptografia, que a gente teve uma
+
+86
+00:03:56,219 --> 00:04:00,028
+máquina, né? Durante a guerra eh na Segunda
+
+87
+00:04:00,038 --> 00:04:04,189
+Guerra Mundial que se chamava egma, uma máquina violentíssima
+
+88
+00:04:04,199 --> 00:04:06,808
+para a guerra foi muito importante para a comunicação da
+
+89
+00:04:06,819 --> 00:04:10,838
+durante a guerra e uma pessoa que contribuiu bastante para
+
+90
+00:04:10,849 --> 00:04:14,558
+entender toda essa dinâmica foi o Alan Turing, Tá,
+
+91
+00:04:14,569 --> 00:04:17,298
+tem um um, um filme que também recomendo um
+
+92
+00:04:17,309 --> 00:04:20,108
+filme muito bom, chamado os Jogos da O Jogo
+
+93
+00:04:20,119 --> 00:04:23,298
+da Imitação, que é onde mostra toda essa dinâmica
+
+94
+00:04:23,309 --> 00:04:26,338
+que Alan Turing teve durante a Segunda Guerra Mundial,
+
+95
+00:04:26,350 --> 00:04:31,238
+mostra a importância da comunicação e da codificação dessa informação.
+
+96
+00:04:31,250 --> 00:04:34,199
+Durante a Segunda Guerra Mundial vocês vão entender como é
+
+97
+00:04:34,209 --> 00:04:37,238
+importante os dados, como é importante a comunicação e
+
+98
+00:04:37,250 --> 00:04:40,639
+como foi importante proteger esses dados e na Segunda Guerra
+
+99
+00:04:40,649 --> 00:04:41,278
+Mundial.
+
+100
+00:04:41,290 --> 00:04:45,220
+E teve esse grande salto onde foi criado tecnologia foi
+
+101
+00:04:45,230 --> 00:04:48,519
+criado máquinas para codificar, mas principalmente, foi criado
+
+102
+00:04:48,528 --> 00:04:50,079
+máquinas para descodificar.
+
+103
+00:04:50,088 --> 00:04:53,738
+Então esse esse filme, O Jogo da imitação conta
+
+104
+00:04:53,750 --> 00:04:56,420
+a história do Alan Tuning vocês vão entender como é
+
+105
+00:04:56,428 --> 00:04:59,459
+legal e é muito importante, né você um estudante
+
+106
+00:04:59,470 --> 00:05:03,139
+de tecnologia entender quem foi Alan Turing para todo esse
+
+107
+00:05:03,149 --> 00:05:07,939
+sistema de informática do do mundo tá atualmente? A
+
+108
+00:05:07,949 --> 00:05:12,329
+segurança informação evoluià medida que as ameaças cibernéticas se
+
+109
+00:05:12,338 --> 00:05:17,699
+se sofisticam e todo dia todos os santos dias todo
+
+110
+00:05:17,709 --> 00:05:20,910
+santo dia tem alguém tentando invadir alguma coisa Gente,
+
+111
+00:05:20,920 --> 00:05:24,459
+todo santo dia tem alguém tentando proteger algo a cada
+
+112
+00:05:24,470 --> 00:05:29,829
+dia, milhares e milhares de profissionais estão em busca
+
+113
+00:05:29,838 --> 00:05:32,869
+da da proteção das informações.
+
+114
+00:05:32,879 --> 00:05:37,389
+Isso é uma guerra contínua e cada vez mais iremos
+
+115
+00:05:37,399 --> 00:05:43,750
+precisar de profissionais qualificados para combater esse perigo que é
+
+116
+00:05:43,759 --> 00:05:47,338
+o perigo da invasão, o perigo de quebrar os
+
+117
+00:05:47,350 --> 00:05:50,838
+dados, o perigo de acessar informações sensíveis para a
+
+118
+00:05:50,850 --> 00:05:51,569
+organização.
+
+119
+00:05:51,579 --> 00:05:55,699
+Então, fazendo um resumo essa nossa dessa nossa aula
+
+120
+00:05:55,709 --> 00:05:58,220
+não é de hoje, tá que é essa cultura
+
+121
+00:05:58,230 --> 00:06:01,470
+da informação essa cultura de proteger, proteger os dados.
+
+122
+00:06:01,480 --> 00:06:05,949
+Desde a época dos egípcios tivemos um grande salto durante
+
+123
+00:06:05,959 --> 00:06:09,670
+a Segunda Guerra Mundial porque teve a a comunicação entre
+
+124
+00:06:09,678 --> 00:06:14,410
+as tropas era necessário e a lutou teve um papel
+
+125
+00:06:14,420 --> 00:06:15,829
+fundamental para isso.
+
+126
+00:06:15,838 --> 00:06:17,790
+Tá, É isso? Então a gente vai pra
+
+127
+00:06:17,798 --> 00:06:20,129
+nossa nossa próxima aula te espero lá.
+

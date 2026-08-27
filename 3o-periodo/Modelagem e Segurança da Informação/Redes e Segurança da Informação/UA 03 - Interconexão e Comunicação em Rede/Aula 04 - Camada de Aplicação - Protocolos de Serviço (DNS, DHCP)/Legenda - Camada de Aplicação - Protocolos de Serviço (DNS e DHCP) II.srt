@@ -1,0 +1,836 @@
+1
+00:00:05,948 --> 00:00:09,439
+Olá, aluno seja bem-vindo Professor Fabrício Melo estamos aqui
+
+2
+00:00:09,448 --> 00:00:11,239
+com a camada de aplicação.
+
+3
+00:00:11,250 --> 00:00:15,679
+É trabalhando aí com a camada quatro do TC p
+
+4
+00:00:15,689 --> 00:00:18,379
+i p e quando vai pro Oz já vamos pra
+
+5
+00:00:18,388 --> 00:00:20,059
+camada de número sete, né, Que é a
+
+6
+00:00:20,068 --> 00:00:25,179
+camada de aplicação e vamos ver alguns protocolos importantíssimos dessa
+
+7
+00:00:25,190 --> 00:00:26,519
+camada de aplicação.
+
+8
+00:00:26,530 --> 00:00:30,250
+E dentre eles temos aqui o famoso protocolo que quebra
+
+9
+00:00:30,260 --> 00:00:33,689
+um galho danado nosso o DNS Eu ouvi falar do
+
+10
+00:00:33,700 --> 00:00:38,539
+D M S famoso servidor de nome de domínio deixa
+
+11
+00:00:38,548 --> 00:00:40,639
+eu te explicar de uma maneira bem simples depois a
+
+12
+00:00:40,649 --> 00:00:43,340
+gente vai aqui pra parte mais técnica.
+
+13
+00:00:43,348 --> 00:00:47,740
+Olha, só já pensou se você tivesse que decorar
+
+14
+00:00:47,750 --> 00:00:50,560
+o número i p de cada site que você acessa,
+
+15
+00:00:51,060 --> 00:00:53,228
+porque tudo na rede é endereçamento numérico? A gente
+
+16
+00:00:53,240 --> 00:00:56,548
+já vem estudando isso desde os primórdios aí das aulas.
+
+17
+00:00:56,560 --> 00:00:59,969
+Tá, vimos a parte de p parte de endereçamento,
+
+18
+00:00:59,978 --> 00:01:03,029
+né? Parte lá de divisão de redes então cê
+
+19
+00:01:03,039 --> 00:01:05,870
+observou que tudo é número, tudo é numérico.
+
+20
+00:01:05,879 --> 00:01:08,069
+Então quando eu vou acessar uma página, aluno,
+
+21
+00:01:08,079 --> 00:01:11,769
+aquela página, aquele endereço, aquele servidor, aquela
+
+22
+00:01:11,778 --> 00:01:14,629
+máquina que eu estou buscando, o endereçamento dela é
+
+23
+00:01:14,638 --> 00:01:17,308
+feito por um ipê não pro nome, só que
+
+24
+00:01:17,319 --> 00:01:19,659
+nós não precisamos de coragem.
+
+25
+00:01:19,668 --> 00:01:21,698
+Já pensou qual? Que é o I p do
+
+26
+00:01:21,709 --> 00:01:24,540
+Gran online do do Gran faculdade Qual que é o
+
+27
+00:01:24,549 --> 00:01:27,138
+I p do Instagram? Qual? Que é o
+
+28
+00:01:27,150 --> 00:01:30,540
+ipê do Gmail? Né? A gente teria que
+
+29
+00:01:30,549 --> 00:01:31,260
+ralar muito.
+
+30
+00:01:31,269 --> 00:01:32,819
+Tem que ter uma agenda é igual.
+
+31
+00:01:32,829 --> 00:01:35,338
+Se os nossos smartphones, por exemplo, não tivessem
+
+32
+00:01:35,349 --> 00:01:39,138
+agenda telefônica, você tem que lembrar os números das
+
+33
+00:01:39,150 --> 00:01:40,859
+pessoas que você liga é complicado.
+
+34
+00:01:40,870 --> 00:01:42,500
+O DNS nasceu pra isso.
+
+35
+00:01:42,510 --> 00:01:46,019
+O DNS ele simplesmente vai fazer aí uma função muito
+
+36
+00:01:46,028 --> 00:01:49,948
+bacana que é receber o nome que nós digitamos ali
+
+37
+00:01:49,959 --> 00:01:54,510
+na barra de endereço do navegador e associar ao IP
+
+38
+00:01:54,519 --> 00:01:55,750
+relacionadoàquele nome.
+
+39
+00:01:55,760 --> 00:01:57,769
+Então você tem um nome, aquele nome é um
+
+40
+00:01:57,778 --> 00:02:01,230
+ipê tá e aquele ipê se ele existir, ou
+
+41
+00:02:01,239 --> 00:02:03,790
+seja, o nome é relacionado ao Ipê, o
+
+42
+00:02:03,799 --> 00:02:05,549
+site retorna pra você.
+
+43
+00:02:05,558 --> 00:02:07,989
+Aí é aonde o momento que a gente consegue ali
+
+44
+00:02:08,000 --> 00:02:10,229
+navegar, né? Ou então vice-versa? D m
+
+45
+00:02:10,240 --> 00:02:11,830
+s também tem um d m s reverso, tá
+
+46
+00:02:11,838 --> 00:02:13,710
+bom, Olha lá, então ele permite dizer oh
+
+47
+00:02:13,719 --> 00:02:17,020
+nomes tá vendo ao invés do Ipê para solicitar um
+
+48
+00:02:17,028 --> 00:02:19,899
+serviço de rede e ele trabalha com um banco de
+
+49
+00:02:19,909 --> 00:02:22,909
+dados hierárquico e distribuído, que é mais ou menos
+
+50
+00:02:22,919 --> 00:02:26,899
+aqui Oh, você tem um domínio raiz aí quando
+
+51
+00:02:26,909 --> 00:02:30,159
+você abaixa lá ponto com e do net, cê
+
+52
+00:02:30,169 --> 00:02:32,240
+tem ali o domínio de nível um.
+
+53
+00:02:33,368 --> 00:02:36,258
+Tá vendo? Aí, por exemplo, a Cisco
+
+54
+00:02:36,270 --> 00:02:39,379
+tem um registro, você vai pra um domínio de
+
+55
+00:02:39,389 --> 00:02:41,338
+nível dois, ou seja, por que? Porque
+
+56
+00:02:41,349 --> 00:02:45,020
+ela criou ali um domínio, né? Pra pra
+
+57
+00:02:45,028 --> 00:02:47,919
+atender o o a parte dela ter o site dela?
+
+58
+00:02:48,179 --> 00:02:50,229
+E quando você vai pro outro lado aqui oh,
+
+59
+00:02:50,240 --> 00:02:52,038
+cê tem, por exemplo, o BR, que
+
+60
+00:02:52,050 --> 00:02:53,028
+é um domínio de nível um.
+
+61
+00:02:53,038 --> 00:02:54,129
+Aí ele vai baixando.
+
+62
+00:02:54,139 --> 00:02:58,270
+Oh quando chega lá mais abaixo que seria o Gran
+
+63
+00:02:58,278 --> 00:03:00,949
+Cursos online aqui, por exemplo, cê já pega
+
+64
+00:03:00,960 --> 00:03:03,830
+um domínio de terceiro nível.
+
+65
+00:03:03,838 --> 00:03:07,189
+Então você tem essa distribuição hierárquica que vai de acordo
+
+66
+00:03:07,199 --> 00:03:10,250
+com os tipos de domínio que você cria.
+
+67
+00:03:10,558 --> 00:03:14,270
+E aí aproveitando isso lembra que a gente viu que
+
+68
+00:03:14,278 --> 00:03:17,129
+oh um determinado Rost tem seu nome definido desde a
+
+69
+00:03:17,139 --> 00:03:19,808
+sua posição na hierarquia, só que aqui é na
+
+70
+00:03:19,819 --> 00:03:21,610
+forma de uma árvore invertida.
+
+71
+00:03:21,618 --> 00:03:23,729
+Então, como eu falei, um host, ele
+
+72
+00:03:23,740 --> 00:03:26,710
+vai trabalhar com um nome, né? Pra ser
+
+73
+00:03:26,719 --> 00:03:29,868
+EH, eh localizado que é um nome que a
+
+74
+00:03:29,879 --> 00:03:32,349
+gente digita apesar de ser um número só que de
+
+75
+00:03:32,360 --> 00:03:33,110
+forma invertida.
+
+76
+00:03:33,118 --> 00:03:35,110
+Tá vendo Oh, vai dar base até a raiz
+
+77
+00:03:35,118 --> 00:03:37,588
+formando o que a gente chama de F Q d
+
+78
+00:03:37,599 --> 00:03:41,069
+n aluno lá, então nome exclusivo que é o
+
+79
+00:03:41,080 --> 00:03:43,250
+exemplo do Gran Cursos online ponto com ponto BR,
+
+80
+00:03:43,258 --> 00:03:47,088
+ou seja, não pode existir no planeta.
+
+81
+00:03:47,429 --> 00:03:52,520
+Outro site com esse endereço aí é um site único
+
+82
+00:03:52,528 --> 00:03:54,429
+que vai tá relacionado ao i P que é o
+
+83
+00:03:54,439 --> 00:03:57,159
+que a gente vem falando aí né? Pra trás?
+
+84
+00:03:57,169 --> 00:04:00,849
+Como que é feito essa requisição? Essa configuração Oh!
+
+85
+00:04:00,860 --> 00:04:04,360
+Se você entrar lá nas propriedades da sua placa de
+
+86
+00:04:04,368 --> 00:04:08,179
+rede, você vai observar que tem oh o endereço
+
+87
+00:04:09,338 --> 00:04:10,689
+DNS lá.
+
+88
+00:04:10,699 --> 00:04:14,679
+Ou seja, as suas requisições vão pra esse servidor
+
+89
+00:04:14,689 --> 00:04:17,629
+DNS pra retornar! Se você vier aí, por
+
+90
+00:04:17,639 --> 00:04:20,350
+exemplo, e apagar, você não vai conseguir ter
+
+91
+00:04:20,358 --> 00:04:22,108
+acesso a essas requisições.
+
+92
+00:04:22,119 --> 00:04:24,428
+Então aqui que você faz a configuração do endereço I
+
+93
+00:04:24,439 --> 00:04:27,189
+P v quatro né dos DNS aí, né?
+
+94
+00:04:27,199 --> 00:04:29,250
+Do seu sistema operacional? Apesar que você já é
+
+95
+00:04:29,259 --> 00:04:31,230
+feito de forma automática.
+
+96
+00:04:31,238 --> 00:04:33,428
+Mas se você quiser ver ou quiser alterar, porque
+
+97
+00:04:33,439 --> 00:04:35,389
+tem como mudar o DNS?Às vezes você tá
+
+98
+00:04:35,399 --> 00:04:36,588
+usando um DNS x.
+
+99
+00:04:36,600 --> 00:04:38,790
+Você pode usar um outro DNS, né? Tem
+
+100
+00:04:38,798 --> 00:04:41,309
+até a fama de alguns DNS acelerarem, né?
+
+101
+00:04:41,319 --> 00:04:44,639
+A A a a conexão aí da internet tá e
+
+102
+00:04:44,649 --> 00:04:46,399
+a consulta como é que é feito? Vamos agora
+
+103
+00:04:46,410 --> 00:04:48,230
+pra parte técnica? Como é que é feito toda
+
+104
+00:04:48,238 --> 00:04:51,199
+essa logística aí? Oh vem comigo nesse passo a
+
+105
+00:04:51,209 --> 00:04:54,319
+passo oh! Vou fazer uma consulta DNS Gran cursos
+
+106
+00:04:54,329 --> 00:04:57,759
+online ponto com ponto BR Oh então oh, você
+
+107
+00:04:57,769 --> 00:04:59,759
+vai ter a consulta as entradas do arquivo, né?
+
+108
+00:04:59,769 --> 00:05:02,399
+Esse aqui fica lá na e TC roxo no Linux
+
+109
+00:05:02,410 --> 00:05:06,189
+ou lá em seu Windows System né barra e TC
+
+110
+00:05:06,199 --> 00:05:09,000
+barra roxo no Windows você vai ter esse arquivo lá
+
+111
+00:05:09,009 --> 00:05:12,259
+com esses endereçamento Tá? Caso você não encontre o
+
+112
+00:05:12,269 --> 00:05:15,720
+nome consultado, você vai enviar a consulta para o
+
+113
+00:05:15,730 --> 00:05:19,358
+servidor D M S Oh que está especificado naquela configuração
+
+114
+00:05:19,369 --> 00:05:21,319
+do protocolo I p que eu passei a ir atrás.
+
+115
+00:05:21,329 --> 00:05:24,449
+Então o que que vai acontecer? Ele vai fazer
+
+116
+00:05:24,459 --> 00:05:27,470
+essa consulta como que é feita essa consulta? Olha
+
+117
+00:05:27,480 --> 00:05:31,750
+só o roteador Ele faz o encaminhamento da sua consulta
+
+118
+00:05:31,759 --> 00:05:35,108
+um Ford e envia requisição para o servidor DNS do
+
+119
+00:05:35,119 --> 00:05:38,420
+seu provedor, que é o que tá configurado lá,
+
+120
+00:05:38,428 --> 00:05:43,160
+caso servidor não tenha informação no seu cast e não
+
+121
+00:05:43,170 --> 00:05:46,910
+seja autoridade sobre o domínio ele também não conhece o
+
+122
+00:05:46,920 --> 00:05:48,220
+CD M S, responsável pelo domínio branco.
+
+123
+00:05:48,230 --> 00:05:50,759
+Um curso online a requisição vai ser enviado para um
+
+124
+00:05:50,769 --> 00:05:53,670
+servidor raiz oh, que é o domínio raiz lá
+
+125
+00:05:53,678 --> 00:05:56,028
+de cima, o qual é responsável por conhecer os
+
+126
+00:05:56,040 --> 00:05:58,410
+domínios top level, que é os famosos T,
+
+127
+00:05:58,420 --> 00:06:00,759
+L, D S, né? Então desenvolvendo essa
+
+128
+00:06:00,769 --> 00:06:04,350
+informação ao servidor devolvendo, né? Essa informação ao
+
+129
+00:06:04,358 --> 00:06:06,149
+servidor que pediu a gente vai ter que parar lá
+
+130
+00:06:06,160 --> 00:06:06,548
+em cima.
+
+131
+00:06:06,559 --> 00:06:08,629
+Por isso queàs vezes há um atraso aí.
+
+132
+00:06:08,639 --> 00:06:10,449
+Uma demora, né? Aí o que que vai
+
+133
+00:06:10,459 --> 00:06:13,709
+acontecer? Oh este, por sua vez consulta o
+
+134
+00:06:13,720 --> 00:06:15,869
+servidor top level, né? Para receber a informação
+
+135
+00:06:15,879 --> 00:06:20,488
+do servidor de nível secundário recebendo essa informação no caso
+
+136
+00:06:20,500 --> 00:06:23,769
+ponto BR que vai que ter o branco usa online
+
+137
+00:06:24,899 --> 00:06:26,108
+está em domínio BR.
+
+138
+00:06:26,119 --> 00:06:29,230
+Tá vendo que vai devolver a informação do servidor responsável
+
+139
+00:06:29,238 --> 00:06:32,920
+pelo ponto com ponto BR, que é o servidor,
+
+140
+00:06:32,928 --> 00:06:36,040
+né? Que tá do segundo nível é o que
+
+141
+00:06:36,048 --> 00:06:36,899
+acontece.
+
+142
+00:06:36,910 --> 00:06:39,358
+Esse processo repete até o C V D M S
+
+143
+00:06:39,369 --> 00:06:43,079
+Receber a informação do da Autoridade sobre o domínio a
+
+144
+00:06:43,088 --> 00:06:43,569
+requisição.
+
+145
+00:06:43,579 --> 00:06:47,238
+Então ela é encaminhada para o servidor autor responsável pelo
+
+146
+00:06:47,250 --> 00:06:50,959
+domínio Gran Cursos online ponto com ponto BR então é
+
+147
+00:06:50,970 --> 00:06:54,358
+assim que é feita essa passagem Até aí, né.
+
+148
+00:06:54,369 --> 00:06:56,079
+E aí nós temos aqui o seguinte oh lá o
+
+149
+00:06:56,088 --> 00:06:59,869
+servidor autor do domínio Gran Curso Online, né?
+
+150
+00:06:59,879 --> 00:07:03,369
+No caso aqui ele botou ponto Edu fez uma mudança
+
+151
+00:07:03,379 --> 00:07:03,730
+aqui.
+
+152
+00:07:03,738 --> 00:07:07,129
+Vai responder o endereço IP do Rost e o servidor
+
+153
+00:07:07,139 --> 00:07:10,819
+D M s do SEU I SP retorna.
+
+154
+00:07:10,829 --> 00:07:15,399
+A consulta para o roteador que chega até você parece
+
+155
+00:07:15,410 --> 00:07:18,338
+um caminho bem tortuoso, né? Aluno bem assim?
+
+156
+00:07:18,350 --> 00:07:22,619
+Complexo né? Mas é assim que funciona.
+
+157
+00:07:22,629 --> 00:07:25,738
+Isso aí vai ser numa fração aí de segundos igual.
+
+158
+00:07:25,750 --> 00:07:27,920
+Eu falei, existem até endereços DNS.
+
+159
+00:07:27,928 --> 00:07:31,778
+Que encurtam? Aí eh eh esse caminho! Deixando
+
+160
+00:07:31,790 --> 00:07:34,738
+aí as pesquisas mais rápidas, né? Encurtar,
+
+161
+00:07:34,750 --> 00:07:37,540
+Não no sentido de fazer atalho.
+
+162
+00:07:37,548 --> 00:07:40,278
+Mas encurta no tempo A busca né? E o
+
+163
+00:07:40,290 --> 00:07:41,838
+mais interessante é que a gente já estudou, hein
+
+164
+00:07:41,850 --> 00:07:43,920
+O d m s oh, ele vai utilizar o
+
+165
+00:07:43,928 --> 00:07:47,199
+protocolo d p para essas consultas, tá no cliente
+
+166
+00:07:47,209 --> 00:07:50,350
+e vai utilizar a porta TC p para atualização e
+
+167
+00:07:50,358 --> 00:07:53,358
+sincronização de servidores, ou seja, o papel principal
+
+168
+00:07:53,369 --> 00:07:57,278
+dele é feito pelo protocolo TC p Agora a consulta
+
+169
+00:07:57,290 --> 00:07:59,119
+é feita pelo D P, que a gente estudou
+
+170
+00:07:59,129 --> 00:08:01,000
+e é um protocolo não confiável.
+
+171
+00:08:01,009 --> 00:08:05,079
+Tá? então dar uma estudada nessa nesse sistema de
+
+172
+00:08:05,088 --> 00:08:05,639
+hierarquia.
+
+173
+00:08:05,649 --> 00:08:08,858
+Aí é importante pra você entender isso.
+
+174
+00:08:08,869 --> 00:08:10,439
+E vamos aí pra uma questão que eu separei pro
+
+175
+00:08:10,449 --> 00:08:12,079
+nosso desafio do dia.
+
+176
+00:08:12,088 --> 00:08:15,920
+Olha só o sistema D M s é fundamental para
+
+177
+00:08:15,928 --> 00:08:19,199
+a comunicação de sites na internet? Não é isso
+
+178
+00:08:19,209 --> 00:08:24,220
+sobre d M S Oh! É incorreto a firmar
+
+179
+00:08:24,959 --> 00:08:25,928
+que ele quer errado.
+
+180
+00:08:25,939 --> 00:08:29,889
+Os servidores m ss convertem solicitações de nomes.
+
+181
+00:08:29,899 --> 00:08:33,729
+Endereços I PS sim, né? Fazem isso os
+
+182
+00:08:33,739 --> 00:08:35,678
+d M s podem ser autor.
+
+183
+00:08:35,690 --> 00:08:40,710
+Executivos e recurvos as solicitações de servidor DNS são chamadas
+
+184
+00:08:40,719 --> 00:08:42,090
+de consultas.
+
+185
+00:08:43,399 --> 00:08:45,928
+Ele pode ser autor orientativo e recurvo? Sim!
+
+186
+00:08:45,940 --> 00:08:50,219
+Lembra? Tem autoridade e tem o recurvo que a
+
+187
+00:08:50,229 --> 00:08:51,918
+gente viu no passo a passo aí, né?
+
+188
+00:08:52,759 --> 00:08:55,369
+Eh, quando você faz a solicitação são feito,
+
+189
+00:08:55,379 --> 00:08:56,609
+consultas são feitas.
+
+190
+00:08:56,619 --> 00:09:00,729
+Consultas d m s significa domínio normativo.
+
+191
+00:09:00,739 --> 00:09:07,288
+Não servidor de nome de domínio é o que significa
+
+192
+00:09:07,298 --> 00:09:11,080
+aí o DNS, né? Então a gente viu
+
+193
+00:09:11,090 --> 00:09:15,139
+que no iniciozinho aqui, da nossa aula, do
+
+194
+00:09:15,149 --> 00:09:20,099
+sistema de nome de domínio, né? Do jeito
+
+195
+00:09:20,109 --> 00:09:25,070
+que você aí ter o seu inglês pra poder pronunciar
+
+196
+00:09:25,080 --> 00:09:28,668
+legal, tranquilo, Tá aí letra D é a
+
+197
+00:09:28,678 --> 00:09:31,788
+nossa, ponha, tá, tem mais uma olha,
+
+198
+00:09:31,798 --> 00:09:33,668
+só coloquei mais uma questão pra você.
+
+199
+00:09:33,678 --> 00:09:36,190
+Na arquitetura de redes existem servidores que tem a função
+
+200
+00:09:36,200 --> 00:09:37,750
+de traduzir os endereços de sites.
+
+201
+00:09:37,759 --> 00:09:42,038
+Tá vendo oh do tipo WWW endereços i P dos
+
+202
+00:09:42,048 --> 00:09:45,519
+servidores abaixo, o que executa essa tarefa é qual
+
+203
+00:09:45,529 --> 00:09:48,479
+tá lá, pegou o WWW um endereço qualquer e
+
+204
+00:09:48,489 --> 00:09:49,519
+converteu em p.
+
+205
+00:09:49,529 --> 00:09:54,469
+Isso é papel de quem certeza que você sabe que
+
+206
+00:09:54,479 --> 00:09:57,940
+é o papel DNS quando ele fala nessa conversão aí
+
+207
+00:09:57,950 --> 00:10:01,019
+de nome pai I pê, você trabalha com DNS
+
+208
+00:10:01,029 --> 00:10:05,599
+tranquilidade aluno, Então é isso, ficamos por aqui
+
+209
+00:10:05,609 --> 00:10:06,519
+até a próxima!
+

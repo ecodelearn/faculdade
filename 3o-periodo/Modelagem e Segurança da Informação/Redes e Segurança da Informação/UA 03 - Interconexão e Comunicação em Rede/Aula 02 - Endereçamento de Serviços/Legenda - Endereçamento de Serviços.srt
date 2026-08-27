@@ -1,0 +1,552 @@
+1
+00:00:06,070 --> 00:00:08,439
+Olá, aluno! Eu sou Fabrício Melo, vamos
+
+2
+00:00:08,448 --> 00:00:10,359
+que vamos, Estamos trabalhando aí com a parte de
+
+3
+00:00:10,368 --> 00:00:14,898
+endereçamento de serviços Parte um exatamente o que que tem
+
+4
+00:00:14,909 --> 00:00:17,920
+a ser essa parte de endereçamento aí de serviço ou
+
+5
+00:00:17,929 --> 00:00:20,859
+endereço de serviços? O que que a gente vai
+
+6
+00:00:20,870 --> 00:00:24,100
+focar nessa parte? Perceba Olha, só quando a
+
+7
+00:00:24,109 --> 00:00:26,399
+gente fala de endereço e serviços a gente tá falando
+
+8
+00:00:26,408 --> 00:00:29,092
+aí lá da camada quatro TC, c p e
+
+9
+00:00:29,103 --> 00:00:31,913
+o d P temos isso, os dois protocolos aí
+
+10
+00:00:31,922 --> 00:00:35,353
+da camada de transporte, então olha só essa observação
+
+11
+00:00:35,362 --> 00:00:36,923
+aí oh tanto o TC p como o d p
+
+12
+00:00:36,932 --> 00:00:39,832
+eles usam o número de portas, né de origem
+
+13
+00:00:39,841 --> 00:00:42,451
+e destino, que obviamente é uma questão muito óbvia.
+
+14
+00:00:42,463 --> 00:00:45,073
+Se eu sou um computador cliente e eu vou me
+
+15
+00:00:45,082 --> 00:00:47,673
+conectar a um servidor, eu vou ter que ter
+
+16
+00:00:47,682 --> 00:00:51,332
+ali uma porta lógica pra poder fazer essa comunicação,
+
+17
+00:00:51,415 --> 00:00:54,386
+porque até mesmo que não necessariamente eu vou trabalhar com
+
+18
+00:00:54,395 --> 00:00:57,265
+apenas um serviço com apenas uma conexão.
+
+19
+00:00:57,276 --> 00:01:01,265
+Eu posso trabalhar com várias conexões vários serviços, então
+
+20
+00:01:01,276 --> 00:01:04,146
+a gente vai precisar de portas pra que os dados
+
+21
+00:01:04,155 --> 00:01:08,265
+vão transitar e se organizarem de maneira aí bem consistente,
+
+22
+00:01:08,275 --> 00:01:10,364
+Tá? Então como eu tô observado aí oh tanto
+
+23
+00:01:10,375 --> 00:01:12,265
+TC P como o d p tá vendo usam números
+
+24
+00:01:12,275 --> 00:01:16,620
+de portas de origem e destino armazenados nos campos obviamente
+
+25
+00:01:16,629 --> 00:01:19,609
+cabeçalho que a gente já tratou isso aí pra trás.
+
+26
+00:01:19,620 --> 00:01:23,370
+Portas clientes são definidas dinamicamente, ou seja, o
+
+27
+00:01:23,379 --> 00:01:27,329
+sistema operacional da minha máquina geralmente vai definir portas de
+
+28
+00:01:27,338 --> 00:01:30,209
+maneira dinâmica, números aí aleatórios que a gente vai
+
+29
+00:01:30,219 --> 00:01:34,250
+ver e já os servidores geralmente trabalham com as portas
+
+30
+00:01:34,260 --> 00:01:36,269
+fixas, inclusive algumas portas.
+
+31
+00:01:36,346 --> 00:01:41,194
+É até necessário você ter que meio que decorar aprender
+
+32
+00:01:41,206 --> 00:01:43,075
+os números, né? Como por exemplo, você
+
+33
+00:01:43,084 --> 00:01:45,694
+já deve ter uma noção aí porta oitenta pro h
+
+34
+00:01:45,706 --> 00:01:49,114
+t t, P porta quatrocentos e quarenta e três
+
+35
+00:01:49,125 --> 00:01:51,355
+para o h t PS não é isso.
+
+36
+00:01:51,364 --> 00:01:53,855
+Porta vinte vinte e um pro f t p,
+
+37
+00:01:53,864 --> 00:01:56,155
+né? O f t p opera com duas portas
+
+38
+00:01:56,165 --> 00:01:59,662
+aí uma porta pra transmissão de dar de outra porta
+
+39
+00:01:59,671 --> 00:02:03,022
+pra controle, né? Então é importante algumas portas
+
+40
+00:02:03,031 --> 00:02:05,861
+eu vou passar obviamente pra você pra você ter essa
+
+41
+00:02:05,871 --> 00:02:09,942
+noção aí tá aqui como funciona essa parte de endereçamento
+
+42
+00:02:09,950 --> 00:02:13,322
+de serviço? Olha só como é que funciona nesse
+
+43
+00:02:13,331 --> 00:02:15,700
+diagrama, aí tá vendo oh aqui eu tenho oh
+
+44
+00:02:15,711 --> 00:02:16,920
+o app cliente.
+
+45
+00:02:16,931 --> 00:02:19,980
+Então, por exemplo, meu computador dinamicamente aí foi
+
+46
+00:02:19,991 --> 00:02:25,719
+criado uma porta e tá conectadaà porta oitenta do
+
+47
+00:02:25,729 --> 00:02:26,439
+servidor.
+
+48
+00:02:26,449 --> 00:02:29,199
+Então, possivelmente, eu tô utilizando uma aplicação h
+
+49
+00:02:29,210 --> 00:02:31,479
+t t P que a porta do do servidor é
+
+50
+00:02:31,490 --> 00:02:34,558
+fixa, né? É a porta oitenta tradicionalíssima essa
+
+51
+00:02:34,569 --> 00:02:34,919
+porta.
+
+52
+00:02:34,929 --> 00:02:37,879
+Então olha o destaque aí oh cada solicitação que foi
+
+53
+00:02:37,889 --> 00:02:41,330
+gerada por um, ou seja, por nossos computadores,
+
+54
+00:02:41,338 --> 00:02:44,038
+né? Usará o número de porta de origem diferente
+
+55
+00:02:44,050 --> 00:02:45,729
+que é criado oh, como a gente falou agora
+
+56
+00:02:45,740 --> 00:02:49,610
+há pouco! Dinamicamente, né? Pelo sistema operacional
+
+57
+00:02:49,618 --> 00:02:53,169
+tá vendo Isso permite que várias conversações possam ocorrer o
+
+58
+00:02:53,179 --> 00:02:56,909
+quê? De maneira simultânea? Já os servidores lá
+
+59
+00:02:56,919 --> 00:03:00,389
+no destino, a utilizam o endereço de porta fixos,
+
+60
+00:03:00,399 --> 00:03:04,550
+de forma que aluno a poderem ser facilmente identificados.
+
+61
+00:03:04,558 --> 00:03:07,449
+Então é sempre essa ideia o meu lado de cá,
+
+62
+00:03:07,460 --> 00:03:09,849
+o Windows tá ali gerando números de portas.
+
+63
+00:03:09,860 --> 00:03:13,588
+Eh, eh aleatórios! Já no servidor você tem
+
+64
+00:03:13,599 --> 00:03:16,270
+números de portas aí fixas, tá? É sempre
+
+65
+00:03:16,278 --> 00:03:20,469
+importante de novo ressaltar isso aí aí nós temos a
+
+66
+00:03:20,479 --> 00:03:22,240
+ideia do soquete, o que que é a ideia
+
+67
+00:03:22,250 --> 00:03:23,028
+do soquete.
+
+68
+00:03:23,038 --> 00:03:25,389
+Quando a gente fala de endereço de serviço, a
+
+69
+00:03:25,399 --> 00:03:29,689
+gente tem uma combinação do endereço p oh de origem
+
+70
+00:03:30,439 --> 00:03:33,008
+e o número de porta de origem.
+
+71
+00:03:33,020 --> 00:03:34,210
+Então você tem que ter lá o endereço i,
+
+72
+00:03:34,219 --> 00:03:36,990
+P de origem e o número da porta de origem.
+
+73
+00:03:37,000 --> 00:03:39,868
+Ou então você pode ter o endereço IP de destino
+
+74
+00:03:39,879 --> 00:03:42,129
+e o número da porta de destino, né?
+
+75
+00:03:42,139 --> 00:03:43,969
+Porque obviamente, você vai ter que ter Ah,
+
+76
+00:03:43,979 --> 00:03:47,868
+a identificação do IP conjugado com a porta que está
+
+77
+00:03:47,879 --> 00:03:50,288
+tratando aquele serviço, né? Do lado do cliente
+
+78
+00:03:50,300 --> 00:03:52,830
+e do lado aí do destino, né cliente que
+
+79
+00:03:52,838 --> 00:03:55,088
+é o a origem e o destino, por exemplo,
+
+80
+00:03:55,099 --> 00:03:57,409
+que pode ser o servidor oh lá vai permitir que
+
+81
+00:03:57,419 --> 00:04:02,129
+vários processos em execução OH sejam diferenciados uns dos outros.
+
+82
+00:04:02,139 --> 00:04:05,750
+Então eu consigo ali operar vários serviços na rede,
+
+83
+00:04:05,758 --> 00:04:09,028
+tra tra tratar com várias aplicações na rede de maneira
+
+84
+00:04:09,115 --> 00:04:10,304
+simultânea.
+
+85
+00:04:10,314 --> 00:04:12,925
+Por quê? Porque tá tudo muito bem organizado,
+
+86
+00:04:12,933 --> 00:04:16,444
+né! Tudo enumerado entre portas e entre os endereços
+
+87
+00:04:16,454 --> 00:04:18,803
+i P Então a gente tem isso aí como famoso
+
+88
+00:04:18,814 --> 00:04:21,564
+soquete dá uma olhada aí pra você ver como é
+
+89
+00:04:21,574 --> 00:04:24,334
+que tá funcionando isso? Olha só nosso desenho aí
+
+90
+00:04:24,345 --> 00:04:26,444
+oh, cê tem de novo o app cliente com
+
+91
+00:04:26,454 --> 00:04:29,324
+a porta cinquenta cento e vinte e dois oh lá
+
+92
+00:04:29,334 --> 00:04:32,605
+aí cê tem um transporte e o a aplicativo do
+
+93
+00:04:32,613 --> 00:04:36,165
+servidor porta oitenta, né? Temos aí duas aplicações
+
+94
+00:04:36,173 --> 00:04:38,345
+aí cê pode observar que aqui eu tenho a o
+
+95
+00:04:38,355 --> 00:04:41,689
+i p do cliente e aqui eu tenho o i
+
+96
+00:04:41,699 --> 00:04:43,809
+p do servidor e pode ver que depois do I
+
+97
+00:04:43,819 --> 00:04:47,108
+p aqui oh separação dois pontos é o número da
+
+98
+00:04:47,119 --> 00:04:49,389
+porta tá vendo cinquenta cento e vinte e dois E
+
+99
+00:04:49,399 --> 00:04:52,670
+lá no servidor a porta oitenta tá vendo.
+
+100
+00:04:52,678 --> 00:04:55,028
+Então a gente tem oh um ipê de origem,
+
+101
+00:04:55,040 --> 00:04:57,269
+um ipê de destino, porta de origem, porta
+
+102
+00:04:57,278 --> 00:05:01,250
+de destino numa aplicação e depois i p de origem
+
+103
+00:05:01,259 --> 00:05:04,819
+e p de destino, porta origem, porta destino
+
+104
+00:05:04,829 --> 00:05:07,100
+Então tá vendo isso, você tem como aí o
+
+105
+00:05:07,108 --> 00:05:13,939
+soquete que faz essa interligação aí durante essa conexão perfeito
+
+106
+00:05:13,949 --> 00:05:18,379
+temos também aí pra você quiser testar, quiser fazer
+
+107
+00:05:18,389 --> 00:05:21,459
+isso na prática, temos o famoso stat, né?
+
+108
+00:05:21,470 --> 00:05:24,019
+É um utilitário de rede aí famoso que você tem
+
+109
+00:05:24,028 --> 00:05:26,619
+ali pelo que você pode usar pra quê? Pra
+
+110
+00:05:26,629 --> 00:05:30,699
+verificar os pares de soquetes Pra você saber esses pares
+
+111
+00:05:30,709 --> 00:05:34,939
+estabelecidos as aplicações dos nossos computadores, clientes com os
+
+112
+00:05:34,949 --> 00:05:38,420
+servidores? Oh lá, você vai lá no dita!
+
+113
+00:05:38,428 --> 00:05:41,358
+Por exemplo, stat dá um espaço n a oh
+
+114
+00:05:41,369 --> 00:05:42,899
+lá ele vai te dar! Tá vendo oh lá,
+
+115
+00:05:42,910 --> 00:05:46,528
+oh, Ah, protocolo tá vendo oh TC p
+
+116
+00:05:46,540 --> 00:05:50,048
+Oh lá os endereços, tá loca o endereço externo,
+
+117
+00:05:50,059 --> 00:05:53,048
+aí ele vai te dar aí toda essa parte do
+
+118
+00:05:53,059 --> 00:05:57,048
+soquete, essa estabilização entre aí p e porta tá,
+
+119
+00:05:57,059 --> 00:06:00,889
+Então nós temos um utilitário específico aí pra isso que
+
+120
+00:06:00,899 --> 00:06:04,569
+é o net stat é um utilitário aí bem famoso,
+
+121
+00:06:04,579 --> 00:06:07,769
+tranquilo, se você quiser testar, né? Peço
+
+122
+00:06:07,778 --> 00:06:11,889
+pra que você faça isso no seu computador, que
+
+123
+00:06:11,899 --> 00:06:15,449
+você vai ter uma noção bem bacana desse casamento.
+
+124
+00:06:15,459 --> 00:06:17,959
+E obviamente vai ter uma noção de como funciona isso
+
+125
+00:06:17,970 --> 00:06:19,769
+de maneira dinâmica, né? A gente tá trabalhando
+
+126
+00:06:19,778 --> 00:06:23,528
+aí com vários serviços na rede, e esses serviços
+
+127
+00:06:23,540 --> 00:06:27,410
+fazem essa comunicação aí, né? De I P
+
+128
+00:06:27,420 --> 00:06:31,553
+Comporta, né, dinâmica do lado do cliente,
+
+129
+00:06:31,564 --> 00:06:34,834
+e a porta fixa lá do lado do servidor.
+
+130
+00:06:34,845 --> 00:06:38,314
+Então é feito aí esse casamento e, obviamente,
+
+131
+00:06:38,324 --> 00:06:43,613
+os serviços possam funcionar de maneira clara e sem ter
+
+132
+00:06:43,625 --> 00:06:48,480
+problema ter algum tipo de o que que eu poderia
+
+133
+00:06:48,488 --> 00:06:52,019
+dizer, eh instabilidade, né, no sistema de
+
+134
+00:06:52,028 --> 00:06:55,980
+rede ou até uma incompatibilidade nos serviços perfeito.
+
+135
+00:06:55,988 --> 00:06:57,899
+Então é isso aí.
+
+136
+00:06:57,910 --> 00:07:01,819
+Espero que você tenha entendido essa primeira parte sobre aí
+
+137
+00:07:01,829 --> 00:07:04,338
+essa parte, Casamento de porta com o I P
+
+138
+00:07:04,350 --> 00:07:07,399
+e voltamos já já grande a
+

@@ -1,0 +1,916 @@
+1
+00:00:05,698 --> 00:00:08,108
+Olá, meus queridos, tudo bem com vocês!
+
+2
+00:00:08,118 --> 00:00:12,710
+Estamos aqui pra mais um projeto integrador, projeto integrador
+
+3
+00:00:12,720 --> 00:00:17,548
+que visa desenvolver suas competências, suas habilidades técnicas e
+
+4
+00:00:17,559 --> 00:00:18,489
+comportamentais.
+
+5
+00:00:18,750 --> 00:00:22,780
+Nesse projeto, vamos falar sobre empregabilidade e portfólio,
+
+6
+00:00:22,789 --> 00:00:26,798
+sua vitrine, pra você mostrar seus projetos pra conseguir
+
+7
+00:00:26,809 --> 00:00:30,920
+emprego nessa área de T I, com dezenas dezenas
+
+8
+00:00:30,929 --> 00:00:31,818
+de oportunidades.
+
+9
+00:00:31,829 --> 00:00:32,679
+Então vamos lá.
+
+10
+00:00:32,689 --> 00:00:35,789
+Vamos falar aqui um pouquinho sobre o nosso projeto.
+
+11
+00:00:35,798 --> 00:00:40,658
+Integrador de profissional de T I empregabilidade e portfólio.
+
+12
+00:00:41,700 --> 00:00:45,689
+Então, como você garante a empregabilidade, O primeiro
+
+13
+00:00:45,700 --> 00:00:50,668
+passo para garantir a empregabilidade é ajudar os seus colegas.
+
+14
+00:00:50,679 --> 00:00:54,429
+Você deve ajudar os seus colegas, ajudando os seus
+
+15
+00:00:54,439 --> 00:00:57,590
+colegas? Você tá dando um passo para garantir a
+
+16
+00:00:57,598 --> 00:00:58,908
+empregabilidade.
+
+17
+00:00:58,918 --> 00:01:02,478
+Por quê? Porque, quando você ajuda seu colega,
+
+18
+00:01:02,490 --> 00:01:07,349
+você constrói não somente mais habilidades técnicas, mais habilidades
+
+19
+00:01:07,359 --> 00:01:08,189
+comportamentais.
+
+20
+00:01:08,198 --> 00:01:12,067
+Mas você constrói conexões aí? Quando seu colega,
+
+21
+00:01:12,078 --> 00:01:14,906
+seu amigo, for pra uma empresa e abrir uma
+
+22
+00:01:14,917 --> 00:01:19,388
+oportunidade? Quem ele vai pensar em você que ajudou?
+
+23
+00:01:19,397 --> 00:01:23,667
+Ele que desenvolveu o projeto juntos? Então ajude os
+
+24
+00:01:23,677 --> 00:01:24,587
+seus colegas.
+
+25
+00:01:24,596 --> 00:01:30,427
+Ajudar seus colegas é fundamental para garantir a empregabilidade através
+
+26
+00:01:30,438 --> 00:01:36,647
+das conexões, conexões movem o mundo, conexões são
+
+27
+00:01:36,736 --> 00:01:42,786
+outra dica importante é para você criar perfis profissionais,
+
+28
+00:01:42,795 --> 00:01:47,426
+que você possa divulgar o seu trabalho que você possa
+
+29
+00:01:47,435 --> 00:01:51,096
+divulgar o seu projeto, projetos interessantes que você vem
+
+30
+00:01:51,105 --> 00:01:56,525
+fazendo projetos que possam ter significado pra sociedade.
+
+31
+00:01:56,536 --> 00:02:00,694
+É importante que você faça esse projeto e divulgue esse
+
+32
+00:02:00,706 --> 00:02:01,125
+projeto.
+
+33
+00:02:01,135 --> 00:02:04,165
+Então você tem que fazer os projetos e divulgar projetos.
+
+34
+00:02:04,253 --> 00:02:08,502
+É muito importante isso para garantir a empregabilidade.
+
+35
+00:02:08,514 --> 00:02:11,544
+Isso faz com que você desenvolva uma vitrine, uma
+
+36
+00:02:11,554 --> 00:02:16,743
+vitrine, com projetos variados, mostrando múltiplas competências.
+
+37
+00:02:16,752 --> 00:02:20,463
+Então, você desenvolver uma vitrine com projetos variados,
+
+38
+00:02:20,473 --> 00:02:24,703
+mostrando suas múltiplas competências, mostrando que você é um
+
+39
+00:02:24,713 --> 00:02:26,223
+profissional fazedor.
+
+40
+00:02:26,233 --> 00:02:31,683
+Um profissional que pode atuar em diversas áreas tem várias
+
+41
+00:02:31,771 --> 00:02:35,292
+tanto técnicas quanto comportamentais.
+
+42
+00:02:35,301 --> 00:02:40,241
+Cada projeto feito, cada interação, cada conexão,
+
+43
+00:02:40,251 --> 00:02:43,621
+cada conversa com os amigos te faz envolver o que
+
+44
+00:02:43,632 --> 00:02:49,001
+múltiplas habilidades, tanto técnicas como comportamentais.
+
+45
+00:02:49,010 --> 00:02:52,781
+Os projetos fazem você aprender mais a cada dia,
+
+46
+00:02:52,792 --> 00:02:58,061
+desenvolvendo múltiplas habilidades, habilidades técnicas e comportamentais.
+
+47
+00:02:58,072 --> 00:03:01,618
+Então, para garantir a empregabilidade, é importante você
+
+48
+00:03:01,629 --> 00:03:02,919
+criar essas conexões.
+
+49
+00:03:02,929 --> 00:03:05,740
+É importante você divulgar o que você tem feito.
+
+50
+00:03:05,750 --> 00:03:09,500
+É importante você divulgar suas ideias, suas competências.
+
+51
+00:03:09,508 --> 00:03:13,099
+O empregador precisa saber o que você é capaz.
+
+52
+00:03:13,110 --> 00:03:17,538
+Seus colegas precisam ter aquela gratidão, gratidão que faz
+
+53
+00:03:17,550 --> 00:03:20,860
+com que eles te indiquem que eles vejam que você
+
+54
+00:03:20,868 --> 00:03:23,699
+é um ótimo profissional, mas acima de tudo uma
+
+55
+00:03:23,710 --> 00:03:24,879
+ótima pessoa.
+
+56
+00:03:24,889 --> 00:03:26,719
+Vamos voltar para os nossos slides.
+
+57
+00:03:27,939 --> 00:03:32,909
+A missão desse projeto é que você crie essas conexões.
+
+58
+00:03:32,919 --> 00:03:37,830
+Você desenvolva essas habilidades técnicas e comportamentais e faça isso
+
+59
+00:03:37,838 --> 00:03:43,610
+de maneira constante, sempre se atualizando, sempre aprimorando.
+
+60
+00:03:43,618 --> 00:03:48,219
+E que você saiba construir e manter um portfólio abrangente,
+
+61
+00:03:48,229 --> 00:03:53,889
+destacando o quê Projetos relevantes, experiências e conquistas.
+
+62
+00:03:53,899 --> 00:03:57,526
+Então você tira uma certificação, pode colocar no seu
+
+63
+00:03:57,534 --> 00:04:02,115
+perfil, pode e deve Você fez um trabalho voluntário,
+
+64
+00:04:02,126 --> 00:04:04,395
+pode e deve colocar no seu perfil.
+
+65
+00:04:04,406 --> 00:04:08,455
+Você fez um projeto de Assi, pode e deve
+
+66
+00:04:08,466 --> 00:04:09,675
+colocar no seu perfil.
+
+67
+00:04:09,686 --> 00:04:12,855
+Então esses projetos que você está desenvolvendo na extensão nos
+
+68
+00:04:12,865 --> 00:04:16,745
+projetos Integradores podem e devem ser colocados no seu perfil.
+
+69
+00:04:16,755 --> 00:04:21,204
+Essas certificações intermediárias podem e devem ser colocadas no seu
+
+70
+00:04:21,216 --> 00:04:23,242
+perfil, então faça isso.
+
+71
+00:04:23,252 --> 00:04:26,622
+Isso é muito importante e isso é o objetivo desse
+
+72
+00:04:26,630 --> 00:04:32,920
+projeto integrador que você adquira competências que ampliem suas possibilidades
+
+73
+00:04:32,932 --> 00:04:37,600
+de empregabilidade certo, criando o quê? Conexões e
+
+74
+00:04:37,610 --> 00:04:40,802
+elaborando um portfólio sólido.
+
+75
+00:04:40,812 --> 00:04:44,201
+Então um portfólio que apresente suas competências, que apresente
+
+76
+00:04:44,211 --> 00:04:45,081
+o profissional.
+
+77
+00:04:45,091 --> 00:04:48,100
+O grande profissional que eu tenho certeza que você é,
+
+78
+00:04:49,199 --> 00:04:55,009
+então competências desenvolvidas melhoria de habilidades, desenvolvendo estratégias para
+
+79
+00:04:55,019 --> 00:04:57,750
+aprimorar a empregabilidade.
+
+80
+00:04:57,759 --> 00:05:02,170
+Esse é o objetivo do projeto integrador desse projeto integrador,
+
+81
+00:05:02,178 --> 00:05:03,129
+específico.
+
+82
+00:05:03,139 --> 00:05:05,410
+Certo? Então, algumas coisas que você tem que
+
+83
+00:05:05,420 --> 00:05:08,569
+fazer nesse projeto de antes de começar, antes de
+
+84
+00:05:08,579 --> 00:05:11,069
+responder as perguntas.
+
+85
+00:05:11,079 --> 00:05:13,569
+Então, é importante que antes de você responder as
+
+86
+00:05:13,579 --> 00:05:17,459
+perguntas, você pesquise um pouco na web sobre as
+
+87
+00:05:17,470 --> 00:05:19,579
+habilidades do profissional fazedor.
+
+88
+00:05:19,588 --> 00:05:23,350
+Pesquise um pouco na web sobre formas de empregabilidade,
+
+89
+00:05:23,358 --> 00:05:25,459
+como você faz, suas vitrines, etc.
+
+90
+00:05:25,470 --> 00:05:29,220
+Que você observe outros profissionais de sucesso.
+
+91
+00:05:29,230 --> 00:05:31,579
+Observe como é que eles alcançaram o sucesso que eles
+
+92
+00:05:31,588 --> 00:05:33,579
+fizeram? É importante.
+
+93
+00:05:33,588 --> 00:05:34,778
+Você não precisa reinventar a roda.
+
+94
+00:05:34,790 --> 00:05:36,798
+Você observa como é que eles foram a trajetória,
+
+95
+00:05:36,809 --> 00:05:41,199
+o caminho? Serve de exemplo que você aplique sempre
+
+96
+00:05:41,298 --> 00:05:44,488
+as habilidades adquiridas? Okay.
+
+97
+00:05:44,500 --> 00:05:47,309
+Então vamos falar um pouco agora da estrutura.
+
+98
+00:05:47,319 --> 00:05:49,629
+E esse projeto é feito por fases.
+
+99
+00:05:49,639 --> 00:05:52,988
+A fase um, Ela é obrigatória, é uma
+
+100
+00:05:53,000 --> 00:05:56,588
+fase que nós queremos conhecer você, então você vai
+
+101
+00:05:56,600 --> 00:05:59,189
+fazer sua pesquisa, você vai entender um pouco mais
+
+102
+00:05:59,199 --> 00:06:03,269
+sobre empregabilidade, vai ler os textos disponíveis, vai
+
+103
+00:06:03,278 --> 00:06:07,290
+ver os artigos, ver os vídeos disponíveis, certo
+
+104
+00:06:07,809 --> 00:06:11,459
+e vai responder um conjunto de perguntas, Então,
+
+105
+00:06:11,470 --> 00:06:13,338
+vamos lá, na estrutura de desenvolvimento, o que
+
+106
+00:06:13,350 --> 00:06:15,298
+que nós temos? Temos a fase um, que
+
+107
+00:06:15,309 --> 00:06:18,939
+é pra você planejar estratégias para a empregabilidade, então
+
+108
+00:06:18,949 --> 00:06:22,100
+na fase um, que ela é obrigatória perfeita,
+
+109
+00:06:22,108 --> 00:06:26,184
+você deve planejar estratégias para a empregabilidade, que o
+
+110
+00:06:26,194 --> 00:06:29,184
+objetivo desse projeto não é reprovar.
+
+111
+00:06:29,194 --> 00:06:33,944
+Objetivo desse projeto é conhecer você perfeito, saber como
+
+112
+00:06:33,954 --> 00:06:38,463
+podemos te ajudar, a conseguir uma alta empregabilidade,
+
+113
+00:06:38,475 --> 00:06:39,444
+porque é isso que a gente quer.
+
+114
+00:06:39,454 --> 00:06:42,225
+A gente quer formar os melhores profissionais e colocar no
+
+115
+00:06:42,233 --> 00:06:46,040
+mercado de trabalho, ajudando a sociedade, ajudando as
+
+116
+00:06:46,048 --> 00:06:46,899
+pessoasà sua volta.
+
+117
+00:06:46,910 --> 00:06:50,259
+Então, essa primeira fase aqui ela é obrigatória,
+
+118
+00:06:50,269 --> 00:06:51,399
+é obrigatória.
+
+119
+00:06:51,410 --> 00:06:55,420
+E vamos conhecer você nessas estratégias de empregabilidade? As
+
+120
+00:06:55,428 --> 00:06:58,899
+outras duas fases? Elas são opcionais, Mas eu
+
+121
+00:06:58,910 --> 00:07:03,720
+recomendo que vocês façam que são fases opcionais, mais
+
+122
+00:07:03,730 --> 00:07:07,713
+vale conhecimento, muito melhor do que a aprovação é
+
+123
+00:07:07,725 --> 00:07:11,454
+o conhecimento, as habilidades que você adquire, a
+
+124
+00:07:11,463 --> 00:07:16,233
+oportunidade de você enviar a tarefa e ter o feedback
+
+125
+00:07:16,244 --> 00:07:20,355
+de professores especializados do seu tutor, que ele vai
+
+126
+00:07:20,363 --> 00:07:22,684
+te dar o feedback e vai conversar com você,
+
+127
+00:07:22,694 --> 00:07:23,954
+vai trocar ideias.
+
+128
+00:07:23,963 --> 00:07:26,954
+Isso faz o que a linha de criar conexões que
+
+129
+00:07:26,963 --> 00:07:29,173
+são extremamente importantes.
+
+130
+00:07:29,259 --> 00:07:32,730
+As outras duas fases são opcionais, mas eu queria
+
+131
+00:07:32,738 --> 00:07:36,389
+muito um pedido pessoal meu, Que vocês façam essas
+
+132
+00:07:36,399 --> 00:07:40,629
+duas fases, porque é aprendizagem, feedback ali.
+
+133
+00:07:40,639 --> 00:07:43,108
+A primeira fase garante a aprovação.
+
+134
+00:07:43,119 --> 00:07:45,389
+Lembrando que o objetivo não é reprovar ninguém e sim
+
+135
+00:07:45,399 --> 00:07:49,250
+conhecer vocês e ajudar na alta empregabilidade.
+
+136
+00:07:49,259 --> 00:07:51,850
+Fase dois e a fase três são opcionais.
+
+137
+00:07:51,934 --> 00:07:54,903
+Recomendo muito que vocês façam pra ter o feedback para
+
+138
+00:07:54,915 --> 00:07:55,764
+ter o conhecimento.
+
+139
+00:07:55,774 --> 00:08:00,384
+Conhecimento é o bem mais valioso Ninguém tira o conhecimento
+
+140
+00:08:00,394 --> 00:08:00,954
+de você.
+
+141
+00:08:00,963 --> 00:08:03,744
+Aí na fase dois, a gente vai trabalhar a
+
+142
+00:08:03,754 --> 00:08:08,204
+criação de conexões e a construção de projetos perfeito.
+
+143
+00:08:08,213 --> 00:08:11,024
+Na fase dois vai mostrar como é que você cria
+
+144
+00:08:11,035 --> 00:08:13,785
+mais conexões? Então a gente vai trabalhar.
+
+145
+00:08:13,795 --> 00:08:17,879
+Temos lá textos e atividades pra te ajudar a criar
+
+146
+00:08:17,889 --> 00:08:21,040
+conexões e construir projetos.
+
+147
+00:08:21,048 --> 00:08:21,920
+E a fase três.
+
+148
+00:08:21,928 --> 00:08:25,480
+A Fase três é pra você aprimorar sua vitrine,
+
+149
+00:08:25,488 --> 00:08:29,160
+aquilo que seu empregador vê aquilo que as outras pessoas
+
+150
+00:08:29,170 --> 00:08:29,759
+veem.
+
+151
+00:08:29,769 --> 00:08:32,558
+Como você vai ser visto no mercado de T I,
+
+152
+00:08:32,570 --> 00:08:35,440
+Então a fase dois é criar conexões e construir os
+
+153
+00:08:35,450 --> 00:08:39,029
+seus projetos e a fase três Aprimorar a sua vitrine
+
+154
+00:08:39,038 --> 00:08:41,359
+é complementar? É, mas eu gostaria muito,
+
+155
+00:08:41,369 --> 00:08:42,879
+muito muito que vocês fizessem.
+
+156
+00:08:42,889 --> 00:08:48,029
+Por quê Dar conhecimento e o conhecimento é o melhor
+
+157
+00:08:48,038 --> 00:08:51,389
+de tudo perfeito, então invista no seu conhecimento é
+
+158
+00:08:51,399 --> 00:08:52,629
+uma oportunidade.
+
+159
+00:08:52,639 --> 00:08:54,820
+Cê já tá desenvolvendo o projeto, faça uma fase
+
+160
+00:08:54,830 --> 00:08:57,649
+dois e a fase três certo, Então vamos lá,
+
+161
+00:08:57,658 --> 00:09:00,989
+Primeira fase Oh, Planejar estratégia essa daqui é a
+
+162
+00:09:01,000 --> 00:09:01,940
+fase obrigatória.
+
+163
+00:09:01,950 --> 00:09:05,710
+Lembrando você vai refletir sobre o tema respondendo um conjunto
+
+164
+00:09:05,719 --> 00:09:10,450
+de perguntas e vai criar seu perfil no hub,
+
+165
+00:09:11,158 --> 00:09:14,570
+que é uma rede social de códigos, Tem vários
+
+166
+00:09:14,580 --> 00:09:18,989
+códigos, vários projetos certo que você participa, que
+
+167
+00:09:19,000 --> 00:09:22,048
+você desenvolveu, que você pode colocar nessa rede social
+
+168
+00:09:22,058 --> 00:09:26,048
+pras pessoas conhecerem, e o LinkedIn, que é
+
+169
+00:09:26,058 --> 00:09:31,149
+uma rede profissional onde você pode e deve divulgar os
+
+170
+00:09:31,158 --> 00:09:31,869
+seus projetos.
+
+171
+00:09:31,879 --> 00:09:38,729
+LinkedIn tem diversas vagas, você pode criar diversas conexões,
+
+172
+00:09:38,739 --> 00:09:41,109
+garantindo a sua alta empregabilidade.
+
+173
+00:09:41,119 --> 00:09:43,690
+Então essa primeira fase que é obrigatória é a parte
+
+174
+00:09:43,700 --> 00:09:47,489
+da reflexão sobre o tema, respondendo algumas perguntas e
+
+175
+00:09:47,500 --> 00:09:49,849
+a criação do seu perfil no Get Hub e no
+
+176
+00:09:49,859 --> 00:09:50,389
+LinkedIn.
+
+177
+00:09:52,219 --> 00:09:54,090
+Então aqui Oh, Você vai entrar no Guia Hub
+
+178
+00:09:55,678 --> 00:10:00,710
+e vai criar o seu perfil no Get Hub Beleza!
+
+179
+00:10:00,719 --> 00:10:02,629
+Então você vai entrar aqui no Get Hub e vai
+
+180
+00:10:02,639 --> 00:10:05,080
+criar o seu perfil! Isso faz parte da fase
+
+181
+00:10:05,090 --> 00:10:07,168
+um que ela é obrigatória.
+
+182
+00:10:07,178 --> 00:10:09,489
+E ali você já pode começar a colocar os códigos
+
+183
+00:10:09,500 --> 00:10:11,729
+que você desenvolve ao longo do período.
+
+184
+00:10:11,739 --> 00:10:12,229
+E ET Cetera.
+
+185
+00:10:12,849 --> 00:10:17,269
+Depois você vai entrar no LinkedIn e vai criar a
+
+186
+00:10:17,279 --> 00:10:20,629
+sua conta no LinkedIn, Quem quiser pode me colocar
+
+187
+00:10:20,639 --> 00:10:23,779
+aqui, oh, de conexão perfeito! Eu posso
+
+188
+00:10:23,788 --> 00:10:26,389
+ser sua primeira conexão no LinkedIn, então pode colocar
+
+189
+00:10:26,399 --> 00:10:28,389
+aqui de conexão pra gente testar.
+
+190
+00:10:28,399 --> 00:10:29,808
+Pode mandar uma mensagem, etc.
+
+191
+00:10:29,820 --> 00:10:30,479
+Perfeito.
+
+192
+00:10:30,489 --> 00:10:32,869
+Então você vai criar seu Linkedin e vai criar aqui
+
+193
+00:10:32,879 --> 00:10:34,369
+a conexão.
+
+194
+00:10:34,379 --> 00:10:38,969
+Vai procurar cinco, seis amigos pra criar essa conexão.
+
+195
+00:10:38,979 --> 00:10:42,330
+Isso faz parte da primeira fase que ela é obrigatória.
+
+196
+00:10:42,759 --> 00:10:46,928
+A segunda fase você vai criar mais conexões, vai
+
+197
+00:10:46,940 --> 00:10:50,070
+ampliar e vai escrever um relatório sobre isso, né?
+
+198
+00:10:50,080 --> 00:10:55,129
+Vai responder lá as atividades sobre essa criação de conexões?
+
+199
+00:10:55,139 --> 00:10:56,769
+O que que você aprendeu? Como foi feito?
+
+200
+00:10:56,779 --> 00:10:59,149
+Et Cetera tem lá atividade pra você responder, mas
+
+201
+00:10:59,158 --> 00:11:02,379
+você vai criar mais umas vinte trinta conexões para ampliar
+
+202
+00:11:02,389 --> 00:11:03,200
+seus laços.
+
+203
+00:11:03,210 --> 00:11:07,359
+Além disso, você vai postar seus primeiros projetos no
+
+204
+00:11:07,369 --> 00:11:10,418
+HUB na fase dois, então se apostar seus primeiros
+
+205
+00:11:10,428 --> 00:11:14,960
+projetos no Get Hub, recebendo feedbacks dos nossos tutores.
+
+206
+00:11:14,969 --> 00:11:19,298
+OK, dos nossos professores uma oportunidade única de trocar
+
+207
+00:11:19,308 --> 00:11:24,408
+informações por fim na fase três, que embora seja
+
+208
+00:11:24,418 --> 00:11:27,408
+complementar, ou seja, não é obrigatória.
+
+209
+00:11:27,418 --> 00:11:29,058
+Vale muito a pena fazer.
+
+210
+00:11:29,070 --> 00:11:35,389
+Você vai continuar recebendo atividades para você postar mais projetos
+
+211
+00:11:35,399 --> 00:11:38,908
+as certificações que você ganha aqui na Gran Faculdade e
+
+212
+00:11:38,918 --> 00:11:43,308
+outras coisas Premiações no LinkedIn Além disso, tem uma
+
+213
+00:11:43,320 --> 00:11:47,428
+atividade lá pra que você participe de outros projetos do
+
+214
+00:11:47,440 --> 00:11:51,090
+HUB e descreva essa experiência correto.
+
+215
+00:11:51,099 --> 00:11:53,070
+Então você vai fazer a fase um, que é
+
+216
+00:11:53,080 --> 00:11:56,611
+obrigatória, mas eu quero muito que vocês façam também
+
+217
+00:11:56,621 --> 00:11:58,592
+a fase dois e a fase três.
+
+218
+00:11:58,602 --> 00:12:00,812
+Fase dois A fase três não é obrigatória, mas
+
+219
+00:12:00,822 --> 00:12:03,942
+te dar conhecimento e conhecimento é fundamental.
+
+220
+00:12:03,952 --> 00:12:09,273
+Então meus amigos eu conto com vocês para desenvolvimento desta
+
+221
+00:12:09,283 --> 00:12:10,352
+atividade.
+
+222
+00:12:10,361 --> 00:12:14,052
+Eu conto com vocês para que a gente possa garantir
+
+223
+00:12:14,062 --> 00:12:17,705
+a alta empregabilidade, porque esse é o nosso objetivo.
+
+224
+00:12:17,716 --> 00:12:21,875
+Formar os melhores profissionais com as habilidades técnicas, com
+
+225
+00:12:21,884 --> 00:12:26,764
+as habilidades comportamentais, para transformar a sociedade para ajudar
+
+226
+00:12:26,775 --> 00:12:29,835
+os outros, Nós queremos garantir a sua alta empregabilidade.
+
+227
+00:12:29,846 --> 00:12:33,235
+Então faça esse projeto com bastante cuidado, bastante carinho,
+
+228
+00:12:33,245 --> 00:12:36,056
+conto com todos vocês e até uma próxima oportunidade.
+
+229
+00:12:36,065 --> 00:12:36,815
+Muito obrigado.
+

@@ -1,0 +1,432 @@
+1
+00:00:06,139 --> 00:00:08,069
+Olá, eu sou professor da COP.
+
+2
+00:00:08,079 --> 00:00:10,909
+A gente vai falar um pouco sobre as novas abordagens
+
+3
+00:00:10,919 --> 00:00:14,310
+arquitetura que temos hoje em dia nesse ambiente web com
+
+4
+00:00:14,319 --> 00:00:18,750
+tanta interoperabilidade, com tanta necessidade de conexão entre diversas
+
+5
+00:00:18,760 --> 00:00:19,510
+plataformas.
+
+6
+00:00:19,519 --> 00:00:20,989
+Combinação de serviço.
+
+7
+00:00:21,000 --> 00:00:22,579
+Orquestração desses serviços.
+
+8
+00:00:22,589 --> 00:00:27,579
+Então são abordagens que envolvem diferentes fermentada, mas sempre
+
+9
+00:00:27,589 --> 00:00:28,708
+com o mesmo objetivo.
+
+10
+00:00:28,719 --> 00:00:32,990
+Integração e disponibilização de serviços para que os combinados consigam
+
+11
+00:00:33,000 --> 00:00:37,079
+fazer coisas maiores, né? Vamos começar pela,
+
+12
+00:00:38,789 --> 00:00:43,679
+né? Seria a abordagem do web dentro do modelo
+
+13
+00:00:43,689 --> 00:00:48,380
+da da a p i, né? A fatura
+
+14
+00:00:48,389 --> 00:00:53,139
+é as entidades, rotas e métodos Eh do h?
+
+15
+00:00:53,149 --> 00:00:55,500
+T P? Né? Então, você tem trabalha
+
+16
+00:00:55,509 --> 00:00:59,039
+com entidades através de rotas, né.
+
+17
+00:00:59,048 --> 00:01:01,298
+Que é acesso as entidades e o que você vai
+
+18
+00:01:01,310 --> 00:01:05,000
+fazer com a entidade? Você gerencia através dos métodos
+
+19
+00:01:05,010 --> 00:01:07,959
+do h T p got consulta post, Inclusão put
+
+20
+00:01:07,969 --> 00:01:09,730
+alteração de elite e remoção.
+
+21
+00:01:09,739 --> 00:01:11,480
+Ainda tem o Pet também, que pode ser pra
+
+22
+00:01:11,489 --> 00:01:15,159
+modificação, mas quase não é usado a comunicação é,
+
+23
+00:01:15,168 --> 00:01:18,278
+né? Ou seja você não tem gerenciamento de Estado!
+
+24
+00:01:18,290 --> 00:01:20,879
+Tá? Ah, é uma interface uniforme que pode
+
+25
+00:01:20,888 --> 00:01:23,558
+ser Jason ou X ML, embora.
+
+26
+00:01:23,569 --> 00:01:27,439
+Se você observa todo o mercado, né? Ninguém
+
+27
+00:01:27,448 --> 00:01:30,159
+usa x ML quando se fala de né? A
+
+28
+00:01:30,168 --> 00:01:32,439
+gente usa só Jason, mas ele permite usar x
+
+29
+00:01:32,448 --> 00:01:33,359
+ML também.
+
+30
+00:01:33,370 --> 00:01:36,790
+Então você pode ter um APO que responde inclusive tanto
+
+31
+00:01:36,799 --> 00:01:41,959
+em x ML quanto Jason né eh A autenticação é
+
+32
+00:01:41,969 --> 00:01:44,638
+um processo que tem que ser feito via tokens ou
+
+33
+00:01:44,650 --> 00:01:45,638
+no protocolo.
+
+34
+00:01:45,650 --> 00:01:48,040
+Como assim? Ou você vai ter um tok que
+
+35
+00:01:48,049 --> 00:01:50,079
+é um jason um ato que é um j w
+
+36
+00:01:50,088 --> 00:01:53,659
+s esse token ele é recebido após uma autenticação,
+
+37
+00:01:54,370 --> 00:01:59,019
+né E e esse toquem é usado pra autorizar determinados
+
+38
+00:01:59,028 --> 00:02:03,278
+serviços, sendo passado no da requisição, né?
+
+39
+00:02:03,290 --> 00:02:05,939
+Ah! Ou então através do próprio protocolo você pode
+
+40
+00:02:05,948 --> 00:02:09,899
+colocar autenticação no protocolo h t P tá e aí
+
+41
+00:02:09,909 --> 00:02:12,580
+é uma autenticação básica ou pode ser uma autenticação mais
+
+42
+00:02:12,588 --> 00:02:15,139
+mais sólida, mas independente de como é configurado o
+
+43
+00:02:15,149 --> 00:02:18,979
+próprio protocolo, aí autenticação não é feita no serviço.
+
+44
+00:02:18,990 --> 00:02:22,520
+A autenticação é feita no próprio protocolo, Tá bom
+
+45
+00:02:23,569 --> 00:02:26,460
+e ele é bem básico em termos de funcionalidade,
+
+46
+00:02:26,469 --> 00:02:29,219
+né? Quando cê fala de eu tenho que concentrar
+
+47
+00:02:29,229 --> 00:02:32,058
+no que o t dada uma rota ou a rota
+
+48
+00:02:32,069 --> 00:02:34,189
+barra i d, né A rota de base ou
+
+49
+00:02:34,199 --> 00:02:36,360
+a rota de base barra i D eu tenho uma
+
+50
+00:02:36,368 --> 00:02:39,219
+consulta, tá? Eh! E aí você vai
+
+51
+00:02:39,229 --> 00:02:41,939
+pegar eh esse i D do consultado.
+
+52
+00:02:41,949 --> 00:02:43,659
+Por exemplo se eu pegar a rota ou base,
+
+53
+00:02:43,669 --> 00:02:46,278
+vou pegar todas as entidades todos os produtos.
+
+54
+00:02:46,288 --> 00:02:48,899
+Colocar produto barra um vai ser o produto de código
+
+55
+00:02:48,909 --> 00:02:49,199
+um.
+
+56
+00:02:49,729 --> 00:02:51,490
+Se eu pego o post, o post é pra
+
+57
+00:02:51,500 --> 00:02:52,758
+você incluir um elemento.
+
+58
+00:02:52,770 --> 00:02:53,758
+Por que que ele não tem um i D,
+
+59
+00:02:53,770 --> 00:02:56,288
+Porque o cara não existe ainda, né? Vê
+
+60
+00:02:56,300 --> 00:02:56,740
+um post.
+
+61
+00:02:56,750 --> 00:02:59,338
+Você vai incluir um elemento passando o a informação no
+
+62
+00:02:59,349 --> 00:03:00,939
+corpo, normalmente o formato jason.
+
+63
+00:03:00,949 --> 00:03:03,909
+E com isso você eh, vai incluir, vai
+
+64
+00:03:03,919 --> 00:03:07,219
+gerar um novo de né? O T serve pra
+
+65
+00:03:07,229 --> 00:03:09,979
+alteração normalmente é a rota barra I d.
+
+66
+00:03:09,990 --> 00:03:12,020
+Tá falando quem você tá alterando, Mas o que
+
+67
+00:03:12,028 --> 00:03:15,000
+você vai alterar vai ser passado no corpo no boy
+
+68
+00:03:15,580 --> 00:03:18,389
+e o delite seria a rota Barra de onde você
+
+69
+00:03:18,399 --> 00:03:21,868
+passa produto barra um Eu tô deletando, tô removendo
+
+70
+00:03:21,879 --> 00:03:25,149
+o produto de índice um, né? Então assim
+
+71
+00:03:25,159 --> 00:03:31,338
+basicamente ele trabalha com os métodos através de transmissão de
+
+72
+00:03:31,349 --> 00:03:33,058
+informações, jason ou X ML.
+
+73
+00:03:33,069 --> 00:03:35,550
+Inclusive esse tri pode enviar a informação.
+
+74
+00:03:35,558 --> 00:03:37,750
+Jason No caso, por exemplo, da inclusão,
+
+75
+00:03:37,758 --> 00:03:40,819
+ele vai enviar os dados no formato Jason, né?
+
+76
+00:03:40,830 --> 00:03:44,020
+E em geral a gente tem uma persistência ao nível
+
+77
+00:03:44,028 --> 00:03:45,500
+de banco de dados.
+
+78
+00:03:45,508 --> 00:03:49,819
+Tá, então um ar de forma geral, Ele
+
+79
+00:03:49,830 --> 00:03:54,300
+não tem? Eh, mas ele é persistente,
+
+80
+00:03:54,308 --> 00:03:58,520
+né? Ou seja as entidades são persisti em bancos
+
+81
+00:03:58,528 --> 00:03:59,159
+de dados.
+
+82
+00:03:59,169 --> 00:04:02,240
+Então, se eu recuperar o mesmo endereço posteriormente,
+
+83
+00:04:02,250 --> 00:04:04,758
+ou se eu pegar e alguém alterar aquele cara e
+
+84
+00:04:04,770 --> 00:04:07,139
+eu acessar aquele endereço, eu vou ver as alterações
+
+85
+00:04:07,149 --> 00:04:09,159
+por causa do intermédio do banco de dados.
+
+86
+00:04:09,169 --> 00:04:12,199
+Mas ele não consegue manter estado como uma sessão,
+
+87
+00:04:12,210 --> 00:04:15,000
+por exemplo, que seria o caso de uma um
+
+88
+00:04:15,008 --> 00:04:18,959
+aplicativo web tradicional, né? Mas eh a persistência
+
+89
+00:04:18,970 --> 00:04:19,470
+por si só.
+
+90
+00:04:19,480 --> 00:04:21,939
+Já cumpre com a funcionalidade básica do que eu preciso,
+
+91
+00:04:22,500 --> 00:04:26,329
+eh em termos de um, do tipo, né?
+
+92
+00:04:28,738 --> 00:04:33,329
+Bom? Então eh! Hoje em dia os são
+
+93
+00:04:33,338 --> 00:04:36,629
+amplamente utilizados, né? EH, hoje eh uma
+
+94
+00:04:36,639 --> 00:04:41,790
+parte do Consumer Eh é o modelo mais utilizado tá
+
+95
+00:04:41,798 --> 00:04:43,809
+e, em geral, mesmo quando a gente usa
+
+96
+00:04:43,819 --> 00:04:50,670
+outras tecnologias eh, elas combinam chamadas desses próprios.
+
+97
+00:04:50,678 --> 00:04:54,730
+Eu posso orquestrar esses serviços dentro de uma plataforma maior,
+
+98
+00:04:54,738 --> 00:04:59,059
+né? Quando você começa a orquestrar serviços e obter
+
+99
+00:04:59,069 --> 00:05:01,149
+o resultado de um serviço indo pra outro serviço e
+
+100
+00:05:01,160 --> 00:05:04,329
+você faz uma sequência de execuções a síndroma,às
+
+101
+00:05:04,338 --> 00:05:06,470
+vezes com o uso de mensageiras como M K.
+
+102
+00:05:06,850 --> 00:05:10,389
+Você já tá entrando num ambiente orientado a serviços.
+
+103
+00:05:10,399 --> 00:05:14,319
+A arquitetura soa seria o ser de arquitetura.
+
+104
+00:05:14,329 --> 00:05:16,449
+Você já começa a ter uma filosofia sua.
+
+105
+00:05:16,459 --> 00:05:18,250
+Claro que a China ainda não tem um s b,
+
+106
+00:05:18,259 --> 00:05:21,869
+algo como um gerenciador próprio, um canal de med,
+
+107
+00:05:21,879 --> 00:05:25,980
+mas eh tem pelo menos o fundamento da orquestração e
+
+108
+00:05:25,988 --> 00:05:29,399
+de utilização de serviços em plataformas heterogêneas.
+

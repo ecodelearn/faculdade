@@ -1,0 +1,924 @@
+1
+00:00:06,349 --> 00:00:11,679
+olá, dando continuidade ao nosso assunto anterior da análise
+
+2
+00:00:11,689 --> 00:00:14,179
+de desempenho de processo, de negócio, né?
+
+3
+00:00:14,189 --> 00:00:16,260
+Nós vimos em primeira perspectiva ali.
+
+4
+00:00:16,269 --> 00:00:20,559
+Falamos dessa dessa análise sobre algumas questões.
+
+5
+00:00:20,568 --> 00:00:24,879
+Importantíssimas, né? Citamos que o processo da medição,
+
+6
+00:00:24,888 --> 00:00:27,760
+bem como o seu reporte, a sua avaliação e
+
+7
+00:00:27,769 --> 00:00:30,603
+a sua resposta, tem que tá dentro de um
+
+8
+00:00:30,614 --> 00:00:34,243
+contexto esperado pra organização, dentro de um contexto.
+
+9
+00:00:34,255 --> 00:00:38,844
+Que a expectativa esteja em conformidadeà aquilo que eu
+
+10
+00:00:38,853 --> 00:00:41,965
+quero que a organização quer deseja é capaz.
+
+11
+00:00:41,973 --> 00:00:45,444
+Ou seja, a organização tem que entender o que
+
+12
+00:00:45,454 --> 00:00:49,000
+é possível e o que é necessário, não mais,
+
+13
+00:00:49,009 --> 00:00:52,859
+nem mais, nem menos, sob pena de não
+
+14
+00:00:52,868 --> 00:00:56,158
+conseguir entregar, sob pena de gerar.
+
+15
+00:00:56,168 --> 00:01:00,859
+Eh inconsistências, estresse, né, pra eh buscar
+
+16
+00:01:00,868 --> 00:01:02,459
+algo inatingível.
+
+17
+00:01:02,469 --> 00:01:04,879
+Então a gente tem que buscar evitar essa perspectiva,
+
+18
+00:01:04,888 --> 00:01:07,698
+né? E também vimos e é importante, eh
+
+19
+00:01:07,709 --> 00:01:11,680
+voltar nesse assunto que eh se a gente entende que
+
+20
+00:01:11,689 --> 00:01:14,638
+um processo ou descobre que um processo está fora de
+
+21
+00:01:14,650 --> 00:01:17,019
+controle, isso não pode ser o fim de um
+
+22
+00:01:17,028 --> 00:01:18,159
+de uma jornada.
+
+23
+00:01:18,168 --> 00:01:21,239
+Na verdade, é o início da próxima jornada que
+
+24
+00:01:21,250 --> 00:01:23,838
+passa por uma melhoria contínua, em que a gente
+
+25
+00:01:23,849 --> 00:01:24,969
+vai buscar essa.
+
+26
+00:01:24,980 --> 00:01:30,180
+Essa eh eh que esse evento se retorne executável se
+
+27
+00:01:30,189 --> 00:01:33,620
+torne dentro de uma perspectiva que entregue eficiência, eficácia
+
+28
+00:01:33,629 --> 00:01:34,459
+e qualidade.
+
+29
+00:01:34,469 --> 00:01:38,338
+Okay quando a gente fala de eh indicadores e falamos
+
+30
+00:01:38,349 --> 00:01:40,739
+um pouco, A gente falou de passos de indicadores,
+
+31
+00:01:40,750 --> 00:01:43,859
+né? Eh definir problema, identificar critérios, avaliar
+
+32
+00:01:43,870 --> 00:01:47,219
+os critérios, enfim, a gente tem algumas eh,
+
+33
+00:01:47,230 --> 00:01:52,230
+eh alguns Eh elementos, né? Que nos ajudem
+
+34
+00:01:52,239 --> 00:01:53,409
+a construir o indicador.
+
+35
+00:01:53,418 --> 00:01:55,668
+E esse é o que a gente vai eh detalhar
+
+36
+00:01:55,680 --> 00:01:57,150
+um pouco a ma, eh um pouco melhor.
+
+37
+00:01:57,159 --> 00:01:59,948
+Agora né? Construção de indicadores e os desafios eh
+
+38
+00:01:59,959 --> 00:02:02,790
+culturais bom! Olha só quando a gente olha dentro
+
+39
+00:02:02,799 --> 00:02:05,829
+dessa perspectiva dessa eh, eh construção de indicadores de
+
+40
+00:02:05,838 --> 00:02:07,549
+desafios culturais.
+
+41
+00:02:07,558 --> 00:02:10,669
+Olha aqui a necessidade de indicadores que refletem a realidade
+
+42
+00:02:10,679 --> 00:02:12,389
+do desempenho, ou seja, reforça aquilo que a
+
+43
+00:02:12,399 --> 00:02:16,099
+gente vem falando, refletem a realidade do desempenho.
+
+44
+00:02:16,110 --> 00:02:18,000
+Não adianta você crescer o olho.
+
+45
+00:02:18,008 --> 00:02:21,979
+Não adianta você eh? Vamos dizer eh trabalhar numa
+
+46
+00:02:21,990 --> 00:02:25,599
+perspectiva irreal para a tua organização, né? Então
+
+47
+00:02:25,610 --> 00:02:27,710
+tem que ser a realidade do desempenho que a sua
+
+48
+00:02:27,719 --> 00:02:29,479
+organização pode alcançar.
+
+49
+00:02:29,490 --> 00:02:32,479
+Quer alcançar, vai alcançar, se não, você
+
+50
+00:02:32,490 --> 00:02:35,258
+gera mais frustração, você gera mais? Ah,
+
+51
+00:02:35,270 --> 00:02:36,379
+vamos dizer assim.
+
+52
+00:02:36,800 --> 00:02:41,550
+EH desespero, desperdício do que propriamente eh.
+
+53
+00:02:41,558 --> 00:02:45,110
+Que que as pessoas trabalhem em conjunto pra alcançar aquele
+
+54
+00:02:45,118 --> 00:02:47,669
+resultado, né? Outro que é a questão do
+
+55
+00:02:47,679 --> 00:02:51,689
+desafio, da cultura no entendimento, no entendimento e
+
+56
+00:02:51,699 --> 00:02:53,758
+aceitação da medição.
+
+57
+00:02:53,770 --> 00:02:57,569
+Eu falei isso aí já um um em alguns eh
+
+58
+00:02:57,580 --> 00:03:01,849
+em sites passados em que a questão cultural, ela
+
+59
+00:03:01,860 --> 00:03:05,750
+ela, ela atinge diretamente a organização.
+
+60
+00:03:05,758 --> 00:03:08,449
+E muitas das vezes, quando a gente fala em
+
+61
+00:03:08,460 --> 00:03:11,610
+medição, gera um um um temor, né?
+
+62
+00:03:11,618 --> 00:03:15,889
+Um tremor naqueles que serão medidos, né? Porque
+
+63
+00:03:15,899 --> 00:03:18,788
+a medição muitas vezes é considerada como se assim cara,
+
+64
+00:03:18,865 --> 00:03:20,925
+se o cara não cumprir, eu vou ser punido.
+
+65
+00:03:20,933 --> 00:03:23,754
+Então ela é muito associadaàquela questão de ah,
+
+66
+00:03:23,764 --> 00:03:26,314
+eh, eh o cara é incompetente, o cara
+
+67
+00:03:26,324 --> 00:03:28,395
+não atingiu, esse cara não é bom.
+
+68
+00:03:28,403 --> 00:03:30,913
+E et cetera? E então isso geralmente uma me
+
+69
+00:03:30,925 --> 00:03:34,615
+eh medir, pressupõe controle e gestão né? E
+
+70
+00:03:34,625 --> 00:03:37,554
+é mui e muitas pessoas não tão confortáveis em em
+
+71
+00:03:37,564 --> 00:03:40,153
+e não querem ser né? CONTROLADAS, Okay Isso
+
+72
+00:03:40,163 --> 00:03:42,153
+é uma verdade! Isso eu já vi em vezes
+
+73
+00:03:42,163 --> 00:03:44,175
+acontecendo dentro das organizações.
+
+74
+00:03:44,899 --> 00:03:47,110
+E não é uma E não é uma coisa que
+
+75
+00:03:47,118 --> 00:03:48,949
+se que eh, que assim que é fácil,
+
+76
+00:03:48,960 --> 00:03:50,469
+ou todo mundo tá de boa, todo mundo vai
+
+77
+00:03:50,479 --> 00:03:50,889
+entender.
+
+78
+00:03:50,899 --> 00:03:52,429
+Não, a gente precisa trabalhar isso.
+
+79
+00:03:52,439 --> 00:03:56,610
+Então a cultura é um desafio importante nessa perspectiva,
+
+80
+00:03:56,618 --> 00:04:00,449
+porque eh, quem tem que aceitar, eh este
+
+81
+00:04:00,460 --> 00:04:01,409
+processo.
+
+82
+00:04:01,419 --> 00:04:03,649
+São as pessoas que vão tá executando o processo,
+
+83
+00:04:03,659 --> 00:04:05,868
+okay, E aí? É importante que elas estejam
+
+84
+00:04:05,879 --> 00:04:06,909
+confortáveis com isso.
+
+85
+00:04:06,919 --> 00:04:10,569
+Entendam o porquê dessa medição, né? O que
+
+86
+00:04:10,580 --> 00:04:12,569
+que é? Necessária, né? E depois,
+
+87
+00:04:12,580 --> 00:04:15,758
+a a a importância do planejamento e o patrocínio,
+
+88
+00:04:15,770 --> 00:04:18,170
+né? Então, a medição também Ela pressupõe que
+
+89
+00:04:18,178 --> 00:04:19,699
+eu tenho que planejar, Eu tenho que organizar.
+
+90
+00:04:19,709 --> 00:04:20,928
+Eu tenho que dizer o que que eu vou medir,
+
+91
+00:04:20,939 --> 00:04:22,970
+Como eu vou medir? Porque eu vou medir qual
+
+92
+00:04:22,980 --> 00:04:25,449
+é o público, qual é o intuito, quais
+
+93
+00:04:25,459 --> 00:04:26,970
+são os resultados que isso vai gerar, O que
+
+94
+00:04:26,980 --> 00:04:28,889
+que isso vai trazer pra organização? Enfim, isso
+
+95
+00:04:28,899 --> 00:04:29,629
+é fundamental.
+
+96
+00:04:29,720 --> 00:04:32,129
+Que a gente estabeleça que a gente crie um plano
+
+97
+00:04:32,139 --> 00:04:34,730
+pra essa perspectiva, né? E o patrocínio da
+
+98
+00:04:34,738 --> 00:04:37,250
+alta gestão é nada na e aqui a gente tá
+
+99
+00:04:37,259 --> 00:04:39,608
+falando de de de uma, de um de indicador,
+
+100
+00:04:39,619 --> 00:04:42,850
+tá, Mas pense, pense assim dentro da organização.
+
+101
+00:04:42,858 --> 00:04:43,928
+Nada.
+
+102
+00:04:43,939 --> 00:04:47,428
+Nada funciona sem o patrocínio da alta gestão, qualquer
+
+103
+00:04:47,439 --> 00:04:53,230
+que seja inclusive os processos, né? Processo Indicador
+
+104
+00:04:53,238 --> 00:04:58,699
+eh gestão, controle Se alta direção, não patrocinar
+
+105
+00:04:58,709 --> 00:04:59,720
+aquilo.
+
+106
+00:04:59,730 --> 00:05:02,879
+Realmente você pode desistir, Não vai lograr isso.
+
+107
+00:05:02,889 --> 00:05:05,838
+É muito difícil lograr isso Você vai? Tá ficando,
+
+108
+00:05:05,850 --> 00:05:07,939
+né, Vai se cansar em relação ao processo?
+
+109
+00:05:07,949 --> 00:05:10,298
+Então a primeira coisa que você tem que ter todos
+
+110
+00:05:10,309 --> 00:05:13,899
+entendem todos compartilham Meia alta gestão, tá lá apoiando
+
+111
+00:05:13,910 --> 00:05:17,389
+e tá lá dando a força porque e e e
+
+112
+00:05:17,399 --> 00:05:20,540
+assim e olhe pro pro seguinte, a própria alta
+
+113
+00:05:20,548 --> 00:05:22,899
+gestão vai ter lá os seus os seus os seus
+
+114
+00:05:22,910 --> 00:05:23,809
+indicadores.
+
+115
+00:05:23,819 --> 00:05:26,170
+Okay se ela mesmo dá importância pra isso? Se
+
+116
+00:05:26,178 --> 00:05:27,879
+ela mesmo não cumpre? Então não.
+
+117
+00:05:27,889 --> 00:05:30,809
+Não acha que aquilo é relevante? Imagine pra baixo,
+
+118
+00:05:30,819 --> 00:05:33,048
+né? Imagine pra baixo? Então, isso tem
+
+119
+00:05:33,059 --> 00:05:37,410
+que partir de toda a organização tá legal? Bom,
+
+120
+00:05:37,420 --> 00:05:40,809
+vamos falar agora de algumas técnicas pra essa análise de
+
+121
+00:05:40,819 --> 00:05:44,048
+desempenho, algumas delas tão aqui, oh análise exploratória
+
+122
+00:05:44,059 --> 00:05:44,569
+de dados.
+
+123
+00:05:44,579 --> 00:05:47,910
+Então você quer fazer uma uma um.
+
+124
+00:05:47,920 --> 00:05:51,088
+Você quer entender a sua estrutura, o seu padrão,
+
+125
+00:05:51,100 --> 00:05:55,608
+as anomalias relações de nos dados, né? Você
+
+126
+00:05:55,619 --> 00:05:59,170
+vai usar gráficos, emas, medidas média mediana,
+
+127
+00:05:59,178 --> 00:06:00,369
+desvio padrão.
+
+128
+00:06:00,379 --> 00:06:04,129
+E isso tudo você eh eh, pode se valer,
+
+129
+00:06:04,139 --> 00:06:06,059
+né? Pra construir o seu indicador que é o
+
+130
+00:06:06,069 --> 00:06:09,009
+que a gente chama de análise exploratória de dados hoje
+
+131
+00:06:09,019 --> 00:06:12,488
+muito utilizado Tá, eh, eh análise exploratória de
+
+132
+00:06:12,500 --> 00:06:12,869
+dados.
+
+133
+00:06:12,879 --> 00:06:15,988
+Eu olho o dado e vou trabalhar o dado eh
+
+134
+00:06:16,000 --> 00:06:19,670
+a meu favor, né? Lembrando que a infor,
+
+135
+00:06:19,678 --> 00:06:26,629
+lembrando oh informação, é o ponto principal da organização,
+
+136
+00:06:26,639 --> 00:06:30,350
+né? A informação é o, na verdade,
+
+137
+00:06:30,358 --> 00:06:31,949
+é o cerne da organização.
+
+138
+00:06:31,959 --> 00:06:36,350
+Então, saber dos dados, analisar dados, ter
+
+139
+00:06:36,358 --> 00:06:45,329
+dados estruturados eh organizados, né confiáveis, íntegros disponíveis
+
+140
+00:06:45,338 --> 00:06:48,369
+que possam ser trabalhados é fundamental, então a exploração
+
+141
+00:06:48,379 --> 00:06:52,410
+a, a análise exploratória ela é um bom eh,
+
+142
+00:06:52,420 --> 00:06:56,069
+Eh uma boa ferramenta, uma boa técnica pra buscar
+
+143
+00:06:56,079 --> 00:06:57,269
+análises de desempenho.
+
+144
+00:06:57,278 --> 00:06:59,588
+Tá porque eu vou olhar os dados do passado.
+
+145
+00:06:59,600 --> 00:07:02,920
+Vou contabilizar eles, vou tentar eh jogar isso pro
+
+146
+00:07:02,928 --> 00:07:06,509
+futuro fazendo uma análise, uma ou usando análises positivas
+
+147
+00:07:06,519 --> 00:07:09,588
+eh prescritivo, descritivas, enfim, cê pode aplicar
+
+148
+00:07:09,600 --> 00:07:12,709
+o que você quiser e até hoje aí usar a
+
+149
+00:07:12,720 --> 00:07:16,069
+a e a inteligência artificial pra poder ajudar na exploratória
+
+150
+00:07:16,079 --> 00:07:21,500
+de dados, usar eh, eh percepções futuras.
+
+151
+00:07:21,509 --> 00:07:23,259
+Enfim, aí o céu é o limite.
+
+152
+00:07:23,269 --> 00:07:27,238
+Quando você tem dados bem estruturados, temos também a
+
+153
+00:07:27,250 --> 00:07:30,439
+na A estatística baiana que é, atualiza a probabilidade
+
+154
+00:07:30,449 --> 00:07:34,720
+para uma hipótese medida que mais evidências ou informações se
+
+155
+00:07:34,730 --> 00:07:37,769
+tornam dispo disponíveis, né? Então, ah,
+
+156
+00:07:37,778 --> 00:07:41,069
+é útil quando a gente tem processo complexo e tem
+
+157
+00:07:41,079 --> 00:07:44,670
+certezas quando os dados são escassos, né? Então,
+
+158
+00:07:44,678 --> 00:07:48,949
+aí eu trabalho com probabilidade para uma hipótese.
+
+159
+00:07:48,959 --> 00:07:51,949
+Ou seja, eu não tenho dado muito dado,
+
+160
+00:07:51,959 --> 00:07:54,470
+eu não tenho muita informação, então eu vou trabalhar
+
+161
+00:07:54,480 --> 00:07:58,548
+com probabilidade nesse caso ah, o o o indicado
+
+162
+00:07:58,559 --> 00:08:00,449
+aí seria a estatística? Bena.
+
+163
+00:08:00,798 --> 00:08:04,088
+Depois nós temos aí análise de regressão, análise de
+
+164
+00:08:04,100 --> 00:08:09,709
+regressão eh utiliza pra entender relações entre as variáveis Tá?
+
+165
+00:08:10,209 --> 00:08:13,819
+Ou seja, eu quero di eh entender diferentes entradas
+
+166
+00:08:13,829 --> 00:08:16,178
+no processo como elas afetam a saída.
+
+167
+00:08:16,189 --> 00:08:19,028
+Então, baseado na eh numa, num conjunto de
+
+168
+00:08:19,040 --> 00:08:20,059
+relações de entrada.
+
+169
+00:08:20,069 --> 00:08:22,139
+Eu vou ter uma resultados diferentes.
+
+170
+00:08:22,149 --> 00:08:24,088
+Então se eu alterar aqui a entrada aqui, o
+
+171
+00:08:24,100 --> 00:08:25,199
+resultado é diferente aqui.
+
+172
+00:08:25,209 --> 00:08:27,139
+Então eu faço uma análise pra isso.
+
+173
+00:08:27,149 --> 00:08:28,600
+Eu utilizo a análise de regressão.
+
+174
+00:08:28,608 --> 00:08:32,379
+Outra técnica importante é simulações de eventos discretos.
+
+175
+00:08:32,389 --> 00:08:35,798
+Tá aí oh simulações de eventos discretos, Modela funciona
+
+176
+00:08:35,879 --> 00:08:39,129
+do sistema com uma série de eventos discretos no tempo,
+
+177
+00:08:39,139 --> 00:08:41,529
+né? Ou seja, linhas de produção de uma
+
+178
+00:08:41,538 --> 00:08:44,849
+fábrica é um bom exemplo de eventos discretos, Então
+
+179
+00:08:44,859 --> 00:08:48,788
+eu olho o evento como ele ocorre na linha de
+
+180
+00:08:48,798 --> 00:08:52,408
+produção, né? Dentro de um tempo e todos
+
+181
+00:08:52,418 --> 00:08:56,288
+os eventos e eu consigo fazer simulação desses eventos.
+
+182
+00:08:56,298 --> 00:09:00,168
+Melhor pra melhorar meu processo pra otimizar meu processo pra
+
+183
+00:09:00,178 --> 00:09:04,190
+ganhar ga EH, eh eh ganhar qualidade, garantir
+
+184
+00:09:04,200 --> 00:09:08,129
+eficiência e eficácia tá uma outra técnica que nós temos
+
+185
+00:09:08,139 --> 00:09:12,070
+É a análise de confiabilidade usado pra estudar o tempo
+
+186
+00:09:12,080 --> 00:09:16,048
+de falha de produtos ou sistemas, né? Então,
+
+187
+00:09:16,750 --> 00:09:19,359
+eh é muito utilizado pra entender, utilizar a vida
+
+188
+00:09:19,369 --> 00:09:21,580
+útil do produto, né? Quando a gente fala
+
+189
+00:09:21,590 --> 00:09:24,239
+muito de garantia de produto, garantia da TV de
+
+190
+00:09:24,250 --> 00:09:26,759
+cinco anos e tal, eles usam, eh usado
+
+191
+00:09:26,769 --> 00:09:28,719
+muita análise de confiabilidade, ou seja, faz-se as
+
+192
+00:09:28,729 --> 00:09:32,080
+medições e vê até quando isso aquilo ali eh segura,
+
+193
+00:09:32,090 --> 00:09:34,440
+quando é, até quando ele apresenta falha e eu
+
+194
+00:09:34,450 --> 00:09:37,158
+consigo trabalhar isso dentro de uma perspectiva.
+
+195
+00:09:37,168 --> 00:09:39,340
+Tá? Ah, outra que nós temos é a
+
+196
+00:09:39,349 --> 00:09:43,798
+análise parametrizado quando os dados não seguem uma distribuição normal
+
+197
+00:09:43,808 --> 00:09:47,298
+ou quando o tamanho da da amostra é muito pequena,
+
+198
+00:09:47,308 --> 00:09:52,019
+né? Então eu faço suposições sobre a distribuição subjacente
+
+199
+00:09:52,029 --> 00:09:52,500
+dos dados.
+
+200
+00:09:52,509 --> 00:09:54,859
+Então, baseado numa amostra, eu vou fazer eh,
+
+201
+00:09:54,869 --> 00:09:56,058
+Vou, vou te traba.
+
+202
+00:09:56,070 --> 00:10:00,099
+Eh fazer? Eh suposição sobre ela, né?
+
+203
+00:10:00,109 --> 00:10:04,399
+Outra análise de varia a nova, usada para analisar
+
+204
+00:10:04,408 --> 00:10:07,359
+diferenças entre grupos de dados, né? É uma
+
+205
+00:10:07,369 --> 00:10:13,440
+técnica estatística usada pra identificar fatores que podem influenciar uma
+
+206
+00:10:13,450 --> 00:10:14,590
+variável de saída.
+
+207
+00:10:14,599 --> 00:10:18,519
+Então, você considera um grupo de dado e da
+
+208
+00:10:18,529 --> 00:10:21,820
+dado aquela questão da da, da variável de entrada,
+
+209
+00:10:21,830 --> 00:10:23,820
+Ela vai afetar as variáveis de saída.
+
+210
+00:10:23,830 --> 00:10:25,759
+E aí você pode usar essa análise de varia.
+
+211
+00:10:25,769 --> 00:10:29,739
+Também temos os gráficos de controle usados pra monitorar a
+
+212
+00:10:29,750 --> 00:10:32,658
+estabilidade e qualidade do nosso processo ao longo né?
+
+213
+00:10:32,668 --> 00:10:35,000
+Do do, do do do desse nosso, de,
+
+214
+00:10:35,009 --> 00:10:38,099
+da, da nossa construção, dos nossos processos,
+
+215
+00:10:38,109 --> 00:10:42,200
+eh eh que estão sendo executados! Okay E isso
+
+216
+00:10:42,210 --> 00:10:45,479
+é relevante aí dentro da organização? Tá bom,
+
+217
+00:10:45,489 --> 00:10:47,558
+Vimos aqui uma série de técnicos, uma série de
+
+218
+00:10:47,570 --> 00:10:47,849
+análises.
+
+219
+00:10:47,859 --> 00:10:49,000
+O que que é melhor pra mim, O que
+
+220
+00:10:49,009 --> 00:10:51,298
+que é pior pra mim? Olhe pra tua organização.
+
+221
+00:10:51,308 --> 00:10:53,739
+Veja o que ela precisa, né? Veja os
+
+222
+00:10:53,750 --> 00:10:56,558
+dados que você tem, veja onde você quer chegar
+
+223
+00:10:56,570 --> 00:10:58,440
+e traça um plano pra isso.
+
+224
+00:10:58,450 --> 00:11:01,359
+A construção de indicadores passa por um planejamento de como
+
+225
+00:11:01,369 --> 00:11:03,695
+isso vai ser feito, Quem vai fazer o que
+
+226
+00:11:03,705 --> 00:11:08,394
+será feito? Quais técnicas nós utilizaremos empregaremos na nossa
+
+227
+00:11:08,404 --> 00:11:11,325
+organização? Em conformidade? Aquilo que nós desejamos que
+
+228
+00:11:11,335 --> 00:11:16,024
+a nossa organização é capaz de fazer culturalmente adequado?
+
+229
+00:11:16,033 --> 00:11:17,724
+Eh financeiramente.
+
+230
+00:11:17,734 --> 00:11:21,604
+Enfim, depende dessa perspectiva do que eu quero entregar.
+
+231
+00:11:21,614 --> 00:11:24,104
+Como resultado, obrigado e até a próxima
+

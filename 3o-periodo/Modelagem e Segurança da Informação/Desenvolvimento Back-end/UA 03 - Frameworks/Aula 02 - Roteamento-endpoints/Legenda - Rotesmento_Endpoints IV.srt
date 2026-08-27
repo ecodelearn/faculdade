@@ -1,0 +1,528 @@
+1
+00:00:06,969 --> 00:00:09,448
+Olá, vamos falar um pouquinho sobre a construção de
+
+2
+00:00:09,460 --> 00:00:13,500
+web, né, que são aqueles que seguem a
+
+3
+00:00:13,509 --> 00:00:14,778
+arquitetura? St.
+
+4
+00:00:14,788 --> 00:00:18,658
+Certamente eu tenho que eh definir todas as operações dum
+
+5
+00:00:18,670 --> 00:00:20,458
+crude, ou seja, eu tenho que inserir,
+
+6
+00:00:20,469 --> 00:00:23,219
+alterar, excluir lista pra conseguir construir um W,
+
+7
+00:00:24,589 --> 00:00:26,658
+né? Eu tenho que dar suporte a todas essas
+
+8
+00:00:26,670 --> 00:00:30,719
+operações, né? Então vamos lá.
+
+9
+00:00:30,728 --> 00:00:34,719
+Construção de web, né? Quando eu vou construir
+
+10
+00:00:34,728 --> 00:00:37,679
+um Webb serf, eu preciso do express JS,
+
+11
+00:00:37,689 --> 00:00:40,079
+né? Nesse caso aí pra poder facilitar a minha
+
+12
+00:00:40,090 --> 00:00:42,929
+vida, mas eu preciso instalar o que o Express
+
+13
+00:00:42,939 --> 00:00:45,569
+V e o boy par na verdade pode usar o
+
+14
+00:00:45,579 --> 00:00:48,779
+express ponto Jason Mas as versões mais recentes do Express
+
+15
+00:00:48,789 --> 00:00:51,450
+ele tirou esse mid Jason e a gente usa o
+
+16
+00:00:51,459 --> 00:00:53,969
+Bori par, né? Então dependendo da versão do
+
+17
+00:00:53,978 --> 00:00:56,908
+Express, pode ou não usar aquele Express Jason né?
+
+18
+00:00:56,918 --> 00:01:01,259
+Então como é que funciona? O servidor básico com
+
+19
+00:01:01,270 --> 00:01:07,088
+Express recua? Express Boy passa recue Bora passa a
+
+20
+00:01:07,099 --> 00:01:12,558
+PP Express aí ele tá usando o Express Tá que
+
+21
+00:01:12,569 --> 00:01:16,359
+é o meu servidor em seguida app e use boy
+
+22
+00:01:16,370 --> 00:01:20,629
+parse ponto Jason tá, então assim porque o express
+
+23
+00:01:20,638 --> 00:01:23,638
+ele é um servidor voltado pra tra trabalhar com qualquer
+
+24
+00:01:23,650 --> 00:01:27,659
+coisa, inclusive um aplicativo web tradicional Quando eu coloco
+
+25
+00:01:27,668 --> 00:01:32,189
+o Bosse Jason eu tô voltando ele para a interpretação
+
+26
+00:01:32,198 --> 00:01:34,579
+de Jason que é necessário no St Tá.
+
+27
+00:01:34,588 --> 00:01:38,049
+E aí o Listen três mil servidor pronto Seria assim
+
+28
+00:01:38,058 --> 00:01:41,668
+a estrutura básica do meu servidor, né? Bom
+
+29
+00:01:42,769 --> 00:01:47,439
+definição de rotas com objeto, né? Com Xpress
+
+30
+00:01:47,448 --> 00:01:50,219
+Igual a recuar Express D b recuar Mode Index Eu
+
+31
+00:01:50,230 --> 00:01:52,519
+tô considerando aqui que eu já tenho o meu modelo,
+
+32
+00:01:53,219 --> 00:01:57,250
+né? Eh esse modelo eu normalmente crio com sequelas
+
+33
+00:01:58,058 --> 00:01:59,930
+e eu tenho lá o quê.
+
+34
+00:02:00,859 --> 00:02:05,230
+Notas seriam lá o meu modelo, onde a nota
+
+35
+00:02:05,239 --> 00:02:09,957
+vai ter sempre um título e uma descrição Tá bom
+
+36
+00:02:09,967 --> 00:02:13,788
+feito isso aí na minha rota eu vou usar o
+
+37
+00:02:13,800 --> 00:02:14,449
+meu modelo.
+
+38
+00:02:15,360 --> 00:02:21,569
+Tá pegando lá a rota do express o assic.
+
+39
+00:02:21,580 --> 00:02:23,330
+É bom usar a cinco C porque ele vai ser
+
+40
+00:02:23,338 --> 00:02:24,479
+tra de forma sincronia.
+
+41
+00:02:24,490 --> 00:02:29,288
+Naturalmente let dados igual ao A D B no Jason
+
+42
+00:02:29,300 --> 00:02:29,729
+Dados.
+
+43
+00:02:29,740 --> 00:02:33,210
+Outra coisa importante, a maior parte das suas respostas
+
+44
+00:02:33,219 --> 00:02:35,990
+vão ser a cinco Por quê? Porque os métodos
+
+45
+00:02:36,000 --> 00:02:40,528
+de consulta são acron, né? Então assim,
+
+46
+00:02:40,538 --> 00:02:42,849
+por exemplo, se eu não tivesse como usar esse
+
+47
+00:02:42,860 --> 00:02:46,460
+wat, ele ia buscar as notas, mas ia
+
+48
+00:02:46,469 --> 00:02:50,088
+responder antes delas terem chegado, né? Então esse
+
+49
+00:02:50,099 --> 00:02:51,649
+dados igual ao ele.
+
+50
+00:02:51,659 --> 00:02:56,258
+Vai esperar chegar os dados pra depois dar o Jason
+
+51
+00:02:56,270 --> 00:02:57,479
+respondendo pro usuário.
+
+52
+00:02:58,159 --> 00:03:00,990
+Se eu não tivesse o podia acontecer de mandar um
+
+53
+00:03:01,000 --> 00:03:02,729
+dado vazio vazio.
+
+54
+00:03:02,740 --> 00:03:04,288
+Por quê? Porque és cromo.
+
+55
+00:03:04,300 --> 00:03:07,330
+Ele não esperou chegar o resultado da consulta.
+
+56
+00:03:07,338 --> 00:03:09,778
+Tá por isso que esses métodos tem que ser a
+
+57
+00:03:09,788 --> 00:03:13,429
+C pra poder usar poderia usar também den com a
+
+58
+00:03:13,439 --> 00:03:18,629
+resposta no den né? Eh ge Dois pontos aí
+
+59
+00:03:18,639 --> 00:03:22,618
+de olha só uma rota parametrizado aqui eu vou usar
+
+60
+00:03:22,629 --> 00:03:24,169
+o que eu vou usar o d B nota minha
+
+61
+00:03:24,179 --> 00:03:28,750
+entidade Sese K, que é o prime aqui hack
+
+62
+00:03:28,758 --> 00:03:32,129
+ponto ponto i D, né? E com isso
+
+63
+00:03:32,139 --> 00:03:33,770
+aí eu vou buscar a partir do que ele tiver
+
+64
+00:03:33,778 --> 00:03:40,229
+fornecido aqui, post assim que a né.
+
+65
+00:03:40,240 --> 00:03:43,389
+Ou seja vai esperar criar a cada entidade com os
+
+66
+00:03:43,399 --> 00:03:44,729
+dados do S Boy.
+
+67
+00:03:45,580 --> 00:03:46,990
+E aí vai retornar.
+
+68
+00:03:47,000 --> 00:03:50,169
+Eh esses dados no formato jason onde já vai ter
+
+69
+00:03:50,179 --> 00:03:55,449
+o i D do cara que foi criado modus e
+
+70
+00:03:55,460 --> 00:03:57,770
+a gente usa, né? Ele é usado no
+
+71
+00:03:57,778 --> 00:04:03,500
+servidor da seguinte forma Recue express bori par rota notas
+
+72
+00:04:03,508 --> 00:04:07,028
+é igual recuar rota JS Então eu sou eu tô
+
+73
+00:04:07,038 --> 00:04:10,588
+dando um recue nessa minha rota, nota que eu
+
+74
+00:04:10,599 --> 00:04:15,788
+dei mod e aqui eu dou um recue no arquivo
+
+75
+00:04:15,800 --> 00:04:19,350
+que tem aquele como se a PP Express Boy passe
+
+76
+00:04:19,358 --> 00:04:23,209
+Jason pra fazer interpretação a PP use em barra Notas
+
+77
+00:04:24,009 --> 00:04:27,119
+A rota que eu absorvi então se eu tiver aqui
+
+78
+00:04:27,879 --> 00:04:31,369
+barra dois pontos d seria barra notas barra dois pontos
+
+79
+00:04:31,379 --> 00:04:34,689
+a i d tá ele vai combinar os dois caminhos
+
+80
+00:04:34,699 --> 00:04:38,108
+vendo isso na prática eu tenho esse servidor rodando aqui
+
+81
+00:04:38,858 --> 00:04:44,298
+Hã eh! Eu tenho aqui oh a PP us
+
+82
+00:04:44,309 --> 00:04:48,088
+barra Notas Rota Notas Lista tem três mil Console o
+
+83
+00:04:48,100 --> 00:04:52,629
+servidor pronto ele tá lá já use boy par ser
+
+84
+00:04:52,639 --> 00:04:59,040
+Jason Tirei aqui uma outra que tinha antes eh rotas
+
+85
+00:05:00,009 --> 00:05:03,459
+As minhas rotas estão aqui oh para a rota Get
+
+86
+00:05:04,108 --> 00:05:07,129
+sem nada pega todo mundo pra rota get com a
+
+87
+00:05:07,139 --> 00:05:11,809
+i d pega só aquela entidade com aquele i d
+
+88
+00:05:12,738 --> 00:05:16,189
+para uma roda post eu vou incluir uma entidade com
+
+89
+00:05:16,199 --> 00:05:22,548
+aquele boy barra dois ponto g Dados ao A D
+
+90
+00:05:22,559 --> 00:05:26,170
+B Nota destroy o a I D hack para os
+
+91
+00:05:26,178 --> 00:05:28,910
+a I D Olha que interessante aqui seria uma destruição
+
+92
+00:05:28,920 --> 00:05:32,869
+pelo neto destroi Passando uma C, ele vai retornar
+
+93
+00:05:32,879 --> 00:05:37,108
+na verdade a quantidade de elementos removidos que seria esse
+
+94
+00:05:37,119 --> 00:05:40,750
+cara que e aqui o em O que eu vou
+
+95
+00:05:40,759 --> 00:05:44,488
+colocar boy e vou mudar? Aonde a informação onde
+
+96
+00:05:44,500 --> 00:05:48,689
+for aquele i D E aí eu tô usando novamente
+
+97
+00:05:48,699 --> 00:05:48,850
+ali.
+
+98
+00:05:48,858 --> 00:05:52,048
+Um update retornando a quantidade de elementos que foram eh
+
+99
+00:05:52,059 --> 00:05:58,350
+alterados, né? Então assim fica bem simples usando
+
+100
+00:05:58,358 --> 00:06:00,920
+o e o Express, né? Eles devem trabalhar
+
+101
+00:06:00,928 --> 00:06:03,108
+em conjunto, fica bem mais fácil de trabalhar.
+
+102
+00:06:03,119 --> 00:06:07,259
+Meu servidor tá em execução Hum eu posso testar ele
+
+103
+00:06:07,269 --> 00:06:09,439
+com o meu boomerang, né? É um bom
+
+104
+00:06:09,449 --> 00:06:12,759
+blu prin eh? É bom assim pro Guin pra
+
+105
+00:06:12,769 --> 00:06:17,988
+isso, né? Aqui cê pegar em modo não
+
+106
+00:06:18,000 --> 00:06:25,889
+tem nenhuma nota agora se eu pegar notas sim e
+
+107
+00:06:25,899 --> 00:06:28,338
+passar aqui se não me engano é título e descrição
+
+108
+00:06:29,798 --> 00:06:42,069
+Título descrição Alfa tes alp Quando eu fizer esse cara
+
+109
+00:06:42,079 --> 00:06:45,588
+aqui e colocar em modo post e enviar no Bori
+
+110
+00:06:45,600 --> 00:06:49,129
+Jason, ele ali oh e de um do cara
+
+111
+00:06:49,139 --> 00:06:52,949
+chamado Alpha e agora que eu dou um got ali,
+
+112
+00:06:52,959 --> 00:06:54,910
+ele já pega lá do banco, né? E
+
+113
+00:06:54,920 --> 00:06:57,509
+se eu quiser confirmar ter certeza absoluta, eu posso
+
+114
+00:06:57,519 --> 00:07:02,819
+vir aqui e selecionar pra ver que ele tá lá
+
+115
+00:07:02,829 --> 00:07:05,528
+realmente tá, mas ele vai estar por causa de
+
+116
+00:07:05,540 --> 00:07:05,970
+sequela.
+
+117
+00:07:05,980 --> 00:07:10,619
+Isso bom, então assim eh.
+
+118
+00:07:11,730 --> 00:07:13,040
+Esse é um teste que eu fiz.
+
+119
+00:07:13,048 --> 00:07:15,899
+Ah, o modo got eu não preciso do EH
+
+120
+00:07:15,910 --> 00:07:18,619
+no caso do Boomerang, mas se eu quiser fazer
+
+121
+00:07:18,629 --> 00:07:20,379
+pra Boomerang também eu posso fazer.
+
+122
+00:07:20,389 --> 00:07:23,019
+E com isso eu tenho as funcionalidades básicas, todas
+
+123
+00:07:23,028 --> 00:07:27,160
+prontas, né? Então com isso a gente encerra
+
+124
+00:07:27,170 --> 00:07:31,189
+esse ciclo da construção de um eh de um web
+
+125
+00:07:31,199 --> 00:07:35,959
+usando o express e sequela eh usando as ferramentas certas.
+
+126
+00:07:35,970 --> 00:07:38,959
+A programação que a gente faz é a menor possível.
+
+127
+00:07:38,970 --> 00:07:41,399
+A ideia é ganhar produtividade, né? E o
+
+128
+00:07:41,410 --> 00:07:45,199
+sistema de rotas do Express também eh que demonstra ser
+
+129
+00:07:45,209 --> 00:07:48,559
+muito poderoso, aceitando diferentes formas de interpretação.
+
+130
+00:07:48,569 --> 00:07:50,059
+A gente fica, então por aqui.
+
+131
+00:07:50,069 --> 00:07:53,220
+Espero ter agregado conhecimento, bons estudos e até a
+
+132
+00:07:53,230 --> 00:07:53,660
+próxima.
+

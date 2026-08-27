@@ -1,0 +1,752 @@
+1
+00:00:06,158 --> 00:00:09,849
+vamos lá, continuando falando sobre o quê sobre gestão
+
+2
+00:00:09,859 --> 00:00:12,890
+de continuidade de negócio, falei sobre a importância disso.
+
+3
+00:00:12,898 --> 00:00:15,000
+Nós já vimos sobre a importância de ter um plano
+
+4
+00:00:15,009 --> 00:00:16,089
+bem definido.
+
+5
+00:00:16,100 --> 00:00:17,809
+Tá, e aí? Você me que me questiona
+
+6
+00:00:17,818 --> 00:00:19,449
+Tá como eu vou elaborar esse plano, Então essa
+
+7
+00:00:19,458 --> 00:00:21,489
+aula é isso? Como a gente pode elaborar um
+
+8
+00:00:21,500 --> 00:00:23,728
+plano de quantidade de negócio como a gente falou?
+
+9
+00:00:23,739 --> 00:00:25,739
+Se você não tem a sua empresa, não possui
+
+10
+00:00:25,750 --> 00:00:26,839
+um implante de quantidade de negócio.
+
+11
+00:00:26,850 --> 00:00:28,408
+Ela corre um risco muito sério.
+
+12
+00:00:28,420 --> 00:00:29,908
+Tá bom, muito sério.
+
+13
+00:00:29,920 --> 00:00:32,548
+Dema Prejuízos de imagem, prejuízos financeiros.
+
+14
+00:00:32,560 --> 00:00:34,429
+Precisa ter um plano de quantidade de negócio.
+
+15
+00:00:35,000 --> 00:00:37,829
+Isso é certo? Tá bom? Vamos lá?
+
+16
+00:00:37,840 --> 00:00:40,668
+Eh então como elaborar um plano de quantidade de negócio
+
+17
+00:00:40,679 --> 00:00:44,090
+para elaborando? Voltando para elaborar um plano de quantidade
+
+18
+00:00:44,098 --> 00:00:46,630
+de negócio? Pode aparecer? Desafiador Sim, é
+
+19
+00:00:46,639 --> 00:00:47,168
+um desafio.
+
+20
+00:00:47,179 --> 00:00:48,329
+É um desafio muito grande.
+
+21
+00:00:48,340 --> 00:00:49,929
+Mas olha só é um processo, mas é um
+
+22
+00:00:49,939 --> 00:00:53,029
+processo fundamental para resiliência organizacional.
+
+23
+00:00:53,039 --> 00:00:55,728
+Seja como eh, veja como fazer isso de maneira
+
+24
+00:00:55,740 --> 00:00:56,130
+eficaz.
+
+25
+00:00:56,139 --> 00:00:58,630
+Então a gente tem algumas etapas, Tá pra criar
+
+26
+00:00:58,639 --> 00:01:01,279
+um plano de quantidade de negócio, primeiro análise de
+
+27
+00:01:01,289 --> 00:01:03,598
+risco A gente precisa entender quais são as nossas ameaças.
+
+28
+00:01:03,609 --> 00:01:04,790
+Você tem que ter um plano de risco.
+
+29
+00:01:04,799 --> 00:01:06,959
+Então comece com análise de risco.
+
+30
+00:01:06,969 --> 00:01:10,278
+Identifica as principais ameaçasà infraestrutura de T I da
+
+31
+00:01:10,290 --> 00:01:11,439
+sua organização.
+
+32
+00:01:11,448 --> 00:01:15,079
+Isso pode incluir eventos como cyber ataques, desastres naturais,
+
+33
+00:01:15,088 --> 00:01:16,709
+falhas de energia, entre outros.
+
+34
+00:01:16,719 --> 00:01:20,418
+Muitas vezes a gente se se pega pensando que o
+
+35
+00:01:20,430 --> 00:01:23,879
+que pode prejudicar a gente dentro de uma organização somente
+
+36
+00:01:23,888 --> 00:01:26,480
+são os ataques de Ciba Segurança, engano seu.
+
+37
+00:01:26,489 --> 00:01:28,504
+Tá, a gente tem de desastres naturais, o
+
+38
+00:01:28,513 --> 00:01:29,894
+que que é um desastre natural seu.
+
+39
+00:01:29,903 --> 00:01:32,263
+O data center pode ser, pode? Sei lá,
+
+40
+00:01:32,275 --> 00:01:34,763
+pode chover e pode alagar, pode? Tá numa
+
+41
+00:01:34,775 --> 00:01:38,525
+região que alaga, né? Pode? Sei lá
+
+42
+00:01:38,534 --> 00:01:40,724
+pegar fogo por causa de uma pane elétrica.
+
+43
+00:01:40,734 --> 00:01:44,245
+Então nós precisamos entender que não é só de ataques.
+
+44
+00:01:44,254 --> 00:01:47,644
+Existe outros riscos que precisam ser levantados.
+
+45
+00:01:47,653 --> 00:01:50,903
+Então é fundamental entender quais são suas ameaças.
+
+46
+00:01:50,915 --> 00:01:54,180
+Depois disso, analisar o impacto tá bom aí a
+
+47
+00:01:54,189 --> 00:01:55,879
+avaliando as consequências.
+
+48
+00:01:55,888 --> 00:01:59,418
+Em seguida, eh Avalie como essas ameaças podem impactar
+
+49
+00:01:59,430 --> 00:02:00,159
+o negócio.
+
+50
+00:02:00,168 --> 00:02:04,219
+Considere o que aconteceria se ocorresse a interrupção dos serviços
+
+51
+00:02:04,230 --> 00:02:04,680
+de T I.
+
+52
+00:02:05,019 --> 00:02:08,149
+Quais seriam as consequências em termos de perda financeira da
+
+53
+00:02:08,159 --> 00:02:12,069
+agitação e satisfação do cliente? Então você identifica os
+
+54
+00:02:12,080 --> 00:02:14,750
+riscos? Saiba quais são os seus riscos.
+
+55
+00:02:14,758 --> 00:02:16,149
+Tá bom todo tipo de risco.
+
+56
+00:02:16,159 --> 00:02:19,710
+E aí começa a ver avaliar qual tipo de prejuízo,
+
+57
+00:02:19,719 --> 00:02:22,429
+quais são as consequências que você vai ter.
+
+58
+00:02:22,439 --> 00:02:24,330
+Caso aquele risco aconteça beleza.
+
+59
+00:02:24,338 --> 00:02:27,929
+Feito isso, vamos pra as ações necessárias com base
+
+60
+00:02:27,939 --> 00:02:29,508
+nas informações coletadas.
+
+61
+00:02:29,520 --> 00:02:34,919
+Elabore um planejamento estratégico determine quais ações serão necessárias para
+
+62
+00:02:34,929 --> 00:02:38,879
+retornar para retornar as operações o mais rápido possível em
+
+63
+00:02:38,889 --> 00:02:39,699
+caso de acidente.
+
+64
+00:02:40,210 --> 00:02:43,020
+Isso pode envolver as recuperações do sistema, migração para
+
+65
+00:02:43,028 --> 00:02:45,800
+backup e outras medidas específicas.
+
+66
+00:02:45,808 --> 00:02:49,599
+Ou seja, começamos identificando os nossos riscos.
+
+67
+00:02:49,610 --> 00:02:52,338
+Você identificou todos os riscos, todo o portfólio de
+
+68
+00:02:52,349 --> 00:02:55,080
+risco, lembrando não são só riscos de táxi,
+
+69
+00:02:55,088 --> 00:02:59,399
+são qualquer tipo de risco até uma engenharia social.
+
+70
+00:02:59,409 --> 00:03:01,330
+Enfim, qualquer tipo de risco.
+
+71
+00:03:01,338 --> 00:03:02,979
+A partir do momento que você identifica os riscos,
+
+72
+00:03:02,990 --> 00:03:06,278
+qual o próximo passo? Você avalia as consequências de
+
+73
+00:03:06,288 --> 00:03:09,939
+cada risco que você identificou? O que acontece?
+
+74
+00:03:09,949 --> 00:03:12,800
+Se se isso acontecer, se tiver o incidente relacionado
+
+75
+00:03:12,808 --> 00:03:14,819
+a esse risco, qual o impacto pra nossa organização?
+
+76
+00:03:14,830 --> 00:03:16,219
+Beleza Defini se.
+
+77
+00:03:16,229 --> 00:03:20,229
+Selecionei, fiz o levantamento dos riscos, avaliei o
+
+78
+00:03:20,240 --> 00:03:22,860
+impacto e agora, tá bom quais são as consequências,
+
+79
+00:03:22,868 --> 00:03:26,879
+quais são as ações necessárias quando esse acontecer, esse
+
+80
+00:03:26,889 --> 00:03:29,679
+tipo de incidente, esse risco vir acontecer, O
+
+81
+00:03:29,689 --> 00:03:31,819
+que eu tenho que fazer aí? você vai começar
+
+82
+00:03:31,830 --> 00:03:35,000
+a fazer um Plano estratégico BA, baseado nas ações
+
+83
+00:03:35,008 --> 00:03:39,830
+necessárias para que eh retorne para que resolva o problema
+
+84
+00:03:39,838 --> 00:03:41,520
+daquele risco relacionado.
+
+85
+00:03:41,528 --> 00:03:44,550
+Tá, aí vem documentações essenciais.
+
+86
+00:03:44,558 --> 00:03:48,399
+Tá componentes para o componentes do plano de negócios de
+
+87
+00:03:48,409 --> 00:03:52,229
+o desculpa Componentes do plano de quantidade de negócio O
+
+88
+00:03:52,240 --> 00:03:56,508
+PC n eficaz deve incluir elementos chaves como declaração da
+
+89
+00:03:56,520 --> 00:03:58,038
+política de política.
+
+90
+00:03:58,050 --> 00:04:01,538
+Estabelece a política que norteia o plano de de quantidade
+
+91
+00:04:01,550 --> 00:04:04,860
+de negócios, deixando claro o compromisso da organização com
+
+92
+00:04:04,868 --> 00:04:06,139
+a continuidade do negócio.
+
+93
+00:04:06,149 --> 00:04:08,258
+Então a gente tem que entender o que a alta
+
+94
+00:04:08,270 --> 00:04:09,819
+direção quer sobre o negócio.
+
+95
+00:04:09,830 --> 00:04:10,500
+Isso é fundamental.
+
+96
+00:04:10,508 --> 00:04:13,629
+Ter essa política bem clara tá bom, eh objetivos.
+
+97
+00:04:13,639 --> 00:04:17,629
+Escopo define o objeto, defina os objetivos do plano
+
+98
+00:04:17,639 --> 00:04:20,028
+e o alcance das atividades de quantidade de negócio.
+
+99
+00:04:20,040 --> 00:04:22,790
+Então você tem que colocar lá dentro o qual é
+
+100
+00:04:22,798 --> 00:04:24,470
+o seu escopo, principalmente também o que vocês não
+
+101
+00:04:24,480 --> 00:04:25,230
+vão fazer.
+
+102
+00:04:25,238 --> 00:04:26,509
+O que é o escopo? O que que o
+
+103
+00:04:26,519 --> 00:04:27,910
+que que faz parte do escopo? O que que
+
+104
+00:04:27,920 --> 00:04:30,389
+não faz parte do escopo pra você entender de forma
+
+105
+00:04:30,399 --> 00:04:33,269
+clara quais são os seus objetivos e deixar de forma
+
+106
+00:04:33,278 --> 00:04:36,278
+clara quais qual é a ação? Qual em qual
+
+107
+00:04:36,290 --> 00:04:37,988
+é? que o sistema, Essa, esse plano
+
+108
+00:04:38,000 --> 00:04:41,379
+de quantidade de negócios está agindo? Tá bom Mapeamento
+
+109
+00:04:41,389 --> 00:04:45,819
+de cenário de perda identifique potenciais cenários de perda que
+
+110
+00:04:45,829 --> 00:04:47,540
+podem afetar a organização.
+
+111
+00:04:47,548 --> 00:04:51,298
+Identifique a identificação e avaliação do material de risco.
+
+112
+00:04:51,309 --> 00:04:54,389
+Também lice os riscos identificados e avalie o potencial de
+
+113
+00:04:54,399 --> 00:04:55,838
+cada risco relacionado a isso.
+
+114
+00:04:55,850 --> 00:04:57,819
+Então, esses são alguns elementos chave.
+
+115
+00:04:57,829 --> 00:05:00,699
+Tá? Vamos lá de novo declaração da política,
+
+116
+00:05:00,709 --> 00:05:02,699
+objetivos e escopo.
+
+117
+00:05:02,709 --> 00:05:07,059
+Mapeamento dos cenários, né? De perda e identificação
+
+118
+00:05:07,069 --> 00:05:08,653
+e avaliação de riscos.
+
+119
+00:05:08,665 --> 00:05:11,454
+Então, esses esses pontos chaves, né? Esses
+
+120
+00:05:11,463 --> 00:05:16,884
+esses elementos chaves são fundamentais, essenciais para qualquer plano
+
+121
+00:05:16,894 --> 00:05:18,855
+de negócio, de continuar de negócio.
+
+122
+00:05:18,863 --> 00:05:22,134
+Aí vem responsabilidade de deveres? Quem faz o quê,
+
+123
+00:05:22,144 --> 00:05:24,415
+né? Como se fosse uma matriz racing? Qual
+
+124
+00:05:24,423 --> 00:05:26,494
+é a responsabilidade de cada pessoa? Tá bom?
+
+125
+00:05:26,504 --> 00:05:29,903
+O PC n deve incluir claramente quem é responsável por
+
+126
+00:05:29,915 --> 00:05:32,274
+cada ações, tá? É uma matriz raça mesmo.
+
+127
+00:05:32,730 --> 00:05:36,048
+Eh, identifica as funções e as responsabilidades de profissionais
+
+128
+00:05:36,059 --> 00:05:38,750
+e equipes, garantindo que assim que todos saibam o
+
+129
+00:05:38,759 --> 00:05:41,178
+que fazer em casos de interrupção, você precisa ter
+
+130
+00:05:41,189 --> 00:05:43,939
+uma matriz raça bem detalhada, bem definida pra que
+
+131
+00:05:43,949 --> 00:05:47,040
+as pessoas entendam o que fazer e como fazer.
+
+132
+00:05:47,048 --> 00:05:49,160
+Tá testes e ativação.
+
+133
+00:05:49,170 --> 00:05:52,988
+Preparação para ação, elabore um um roteiro de simulação
+
+134
+00:05:53,000 --> 00:05:55,028
+de testes de funcionamento do plano.
+
+135
+00:05:55,040 --> 00:05:57,470
+Isso ajuda a garantir que todos entendam que o plano
+
+136
+00:05:57,480 --> 00:06:00,970
+de quantidade de negócio pode ser acionado e implementado.
+
+137
+00:06:00,980 --> 00:06:04,678
+Forneça instruções claras sobre como usar o plano e os
+
+138
+00:06:04,689 --> 00:06:07,250
+procedimentos a serem seguidos em situações de crise.
+
+139
+00:06:07,519 --> 00:06:11,170
+Defina o mecanismo de ativação do plano, ou seja,
+
+140
+00:06:11,178 --> 00:06:14,238
+os critérios que indicam quando o plano deve ser colocado
+
+141
+00:06:14,250 --> 00:06:15,170
+em prática.
+
+142
+00:06:15,178 --> 00:06:18,689
+Com certeza você na sua organização você já participou de
+
+143
+00:06:18,699 --> 00:06:22,009
+aquelas simulações de incêndio? É um teste pra ver
+
+144
+00:06:22,019 --> 00:06:24,369
+como vai se comportar aquela organização.
+
+145
+00:06:24,379 --> 00:06:26,608
+Em caso daquele incidente é a mesma coisa.
+
+146
+00:06:26,619 --> 00:06:30,629
+Nesse cenário, você precisa simular um incidente, simular
+
+147
+00:06:30,639 --> 00:06:35,290
+um ataque ou simular um um desastre para que ver
+
+148
+00:06:35,298 --> 00:06:37,809
+para você ter certeza que aquele plano de continuidade de
+
+149
+00:06:37,819 --> 00:06:40,819
+negócio vai dar certo, porque se você não simular
+
+150
+00:06:40,829 --> 00:06:42,338
+o que que vai acontecer, você tem um algo
+
+151
+00:06:42,350 --> 00:06:45,579
+teórico e você não sabe como aquele algo teórico vai
+
+152
+00:06:45,588 --> 00:06:47,129
+se comportar na prática.
+
+153
+00:06:47,139 --> 00:06:49,939
+Então é fundamental você ter isso em mente.
+
+154
+00:06:49,949 --> 00:06:52,699
+Tá bom, outra isso é, é é bem
+
+155
+00:06:52,709 --> 00:06:53,119
+importante.
+
+156
+00:06:53,129 --> 00:06:55,939
+Outra coisa que eu posso dar um eh de exemplos
+
+157
+00:06:55,949 --> 00:06:58,160
+que eu já vivi nesse durante a minha experiência,
+
+158
+00:06:58,170 --> 00:07:01,189
+eh muitas pessoas pega o desenho, faz aquele plano
+
+159
+00:07:01,199 --> 00:07:04,113
+de continuar de maravilha E o que faz pega aquele
+
+160
+00:07:04,125 --> 00:07:05,915
+plano e coloca na sua Ke, né? Coloca
+
+161
+00:07:05,923 --> 00:07:08,713
+na sua integra, coloca na sua intranet, ou
+
+162
+00:07:08,725 --> 00:07:10,875
+seja, de forma digital, só que se acontecer
+
+163
+00:07:10,884 --> 00:07:12,845
+um desastre pessoal, se acontecer um incidente, o
+
+164
+00:07:12,855 --> 00:07:15,134
+que que vai acontecer? O seu? Provavelmente você
+
+165
+00:07:15,144 --> 00:07:18,394
+vai perder acesso a seu meio digital, você não
+
+166
+00:07:18,403 --> 00:07:20,394
+vai conseguir acessar aquele documento e o que você faz
+
+167
+00:07:20,403 --> 00:07:23,834
+Então é recomendável que esse plano de continuidade de negócios
+
+168
+00:07:23,845 --> 00:07:25,095
+seja impresso.
+
+169
+00:07:25,160 --> 00:07:27,649
+Esteja numa gaveta esteja num cofre, não sei,
+
+170
+00:07:27,660 --> 00:07:31,769
+mas não deixe somente no meio digital você pode ocorrer,
+
+171
+00:07:31,778 --> 00:07:34,528
+pode ocorrer situação gra drástica.
+
+172
+00:07:34,540 --> 00:07:36,449
+Qual é a situação drástica? Você tem um plano
+
+173
+00:07:36,459 --> 00:07:37,230
+de continuidade de negócios.
+
+174
+00:07:37,238 --> 00:07:39,608
+Você testou esse plano de continuidade de negócio? Funciona
+
+175
+00:07:39,619 --> 00:07:40,449
+plenamente.
+
+176
+00:07:40,459 --> 00:07:43,009
+Só que tá digital tá na sua intranet.
+
+177
+00:07:43,019 --> 00:07:45,649
+Só que caiu o seu sistema, teve um desastre
+
+178
+00:07:45,660 --> 00:07:47,230
+e sua intranet caiu também.
+
+179
+00:07:47,238 --> 00:07:48,903
+Como que você vai ser seguir esse plano de continuar
+
+180
+00:07:48,915 --> 00:07:51,264
+de negócio? Então é uma dica que eu dou.
+
+181
+00:07:51,274 --> 00:07:54,184
+Tá baseada nessa experiência que eu já tenho durante a
+
+182
+00:07:54,194 --> 00:07:58,264
+vida e trabalhando em vários várias empresas, tenha um
+
+183
+00:07:58,274 --> 00:08:01,415
+plano de continuar de de negócio físico, ou seja,
+
+184
+00:08:01,423 --> 00:08:04,064
+impresso, sem ser no mundo digital, que caso
+
+185
+00:08:04,074 --> 00:08:06,785
+você tenha uma uma uma indisponibilidade do sistema, você
+
+186
+00:08:06,795 --> 00:08:08,184
+vai ter algo ali pra seguir.
+
+187
+00:08:08,194 --> 00:08:10,105
+Tá bom? É isso aí, nos vemos na
+
+188
+00:08:10,113 --> 00:08:10,803
+próxima aula.
+

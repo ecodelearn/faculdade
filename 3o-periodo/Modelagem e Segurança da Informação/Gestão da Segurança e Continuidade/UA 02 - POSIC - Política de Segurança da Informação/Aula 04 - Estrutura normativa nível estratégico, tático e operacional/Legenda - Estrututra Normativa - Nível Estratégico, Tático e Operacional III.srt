@@ -1,0 +1,508 @@
+1
+00:00:06,349 --> 00:00:10,198
+vamos continuar falar sobre nossa política de segurança da informação
+
+2
+00:00:10,210 --> 00:00:12,319
+e comunicação, Tá bom, agora, um aspecto
+
+3
+00:00:12,329 --> 00:00:12,960
+muito importante.
+
+4
+00:00:12,970 --> 00:00:14,640
+A gente já falou sobre questão técnica.
+
+5
+00:00:14,648 --> 00:00:17,219
+Como implementar, como desenvolver a gente, fala,
+
+6
+00:00:17,228 --> 00:00:19,719
+falamos sobre a importância da auto direção.
+
+7
+00:00:19,728 --> 00:00:22,039
+Está envolvida sobre os livros, ali, arcos,
+
+8
+00:00:22,048 --> 00:00:23,100
+falamos de várias coisas.
+
+9
+00:00:23,109 --> 00:00:26,600
+Agora vamos falar sobre um aspecto muito importante que são
+
+10
+00:00:26,609 --> 00:00:29,420
+as pessoas, O envolvimento, o treinamento, o
+
+11
+00:00:29,429 --> 00:00:33,228
+desenvolvimento dos nossos funcionários são falando nos seres humanos.
+
+12
+00:00:33,240 --> 00:00:37,329
+Talvez a tecnologia mais complexa do de toda a humanidade.
+
+13
+00:00:37,340 --> 00:00:40,069
+Então a gente precisa entender porque é importante, É
+
+14
+00:00:40,079 --> 00:00:43,158
+fundamental para o sucesso de qualquer organização, no nível
+
+15
+00:00:43,168 --> 00:00:46,429
+estratégico, tático e operacional.
+
+16
+00:00:46,439 --> 00:00:49,990
+O envolvimento dos nossos funcionários, Os funcionários precisam entender
+
+17
+00:00:50,000 --> 00:00:52,520
+o pra onde estamos indo o que aquela política faz,
+
+18
+00:00:52,529 --> 00:00:56,469
+Então, o treinamento e o desenvolvimento é fundamental pra
+
+19
+00:00:56,478 --> 00:00:56,668
+isso.
+
+20
+00:00:56,679 --> 00:01:01,658
+Tá, então, considerando que todos os níveis hierárquicos
+
+21
+00:01:01,668 --> 00:01:04,778
+da estrutura da política, né? Podem vim,
+
+22
+00:01:04,790 --> 00:01:07,778
+podem vir a incluir funcionários não familiarizados com prática de
+
+23
+00:01:07,790 --> 00:01:08,159
+T I.
+
+24
+00:01:08,168 --> 00:01:11,659
+O treinamento e o desenvolvimento de do pessoal é fundamental
+
+25
+00:01:11,668 --> 00:01:13,500
+para o sucesso da política.
+
+26
+00:01:13,510 --> 00:01:17,019
+A implementação bem sucedida da política depende em grande parte
+
+27
+00:01:17,028 --> 00:01:18,659
+da conscientização.
+
+28
+00:01:18,668 --> 00:01:25,680
+Olha, oh conscientização alô, conscientização, educação e
+
+29
+00:01:25,689 --> 00:01:29,198
+preparação contínua dos funcionários Que que eu tá, a
+
+30
+00:01:29,209 --> 00:01:31,040
+gente tá falando aqui o seguinte a gente tem uma
+
+31
+00:01:31,049 --> 00:01:33,870
+organização, a organização é complexa, organização grande,
+
+32
+00:01:33,879 --> 00:01:36,519
+pequena, não importa, mas eu te garanto que
+
+33
+00:01:36,528 --> 00:01:40,379
+nem todo mundo da sua organização entende de tecnologia,
+
+34
+00:01:40,388 --> 00:01:43,040
+como você entende? Provavelmente, tá bom, então
+
+35
+00:01:43,049 --> 00:01:46,219
+a gente tem que entender que temos diversos funcionários com
+
+36
+00:01:46,230 --> 00:01:50,069
+diversos conhecimentos específicos em cada área de tecnologia.
+
+37
+00:01:50,079 --> 00:01:51,989
+Então, o que você sabe? O que eu
+
+38
+00:01:52,000 --> 00:01:53,609
+sei e o que o seu colega do lado sabe,
+
+39
+00:01:53,620 --> 00:01:56,250
+provavelmente não é o mesmo que o da frente tem
+
+40
+00:01:56,260 --> 00:01:56,939
+conhecimento.
+
+41
+00:01:56,948 --> 00:02:00,489
+Então a gente tem que começar a nivelar o conhecimento
+
+42
+00:02:00,500 --> 00:02:04,069
+básico de segurança da informação através de treinamento, através
+
+43
+00:02:04,079 --> 00:02:05,129
+de conscientização.
+
+44
+00:02:05,138 --> 00:02:08,028
+Então, a gente precisa entender que cada nível arqui
+
+45
+00:02:08,038 --> 00:02:11,750
+desde estratégico, tático e operacional, precisa de um
+
+46
+00:02:11,758 --> 00:02:13,528
+treinamento específico pra aquilo.
+
+47
+00:02:13,770 --> 00:02:17,179
+Muitas vezes a gente acha que os ataques ciber ataques
+
+48
+00:02:17,189 --> 00:02:19,659
+contra os nossos dados da empresa, vêm através também
+
+49
+00:02:19,669 --> 00:02:20,819
+dos ataques cibernéticos.
+
+50
+00:02:20,830 --> 00:02:22,778
+Pelo contrário, a gente tem muitos outros tipos de
+
+51
+00:02:22,788 --> 00:02:27,659
+for, muitas formas de comper ou pegar informações dos
+
+52
+00:02:27,669 --> 00:02:29,179
+dados de empresas.
+
+53
+00:02:29,189 --> 00:02:30,538
+Já vi, já não sei se vocês já ouviram
+
+54
+00:02:30,550 --> 00:02:32,615
+falar, falar sobre engenharia social, por exemplo,
+
+55
+00:02:32,625 --> 00:02:35,254
+que que é engenharia social, muita uma pessoa,
+
+56
+00:02:35,264 --> 00:02:37,854
+um né? Um uma pessoa com um que quer
+
+57
+00:02:37,865 --> 00:02:40,254
+informação, mal caráter, quer uma informação de uma
+
+58
+00:02:40,264 --> 00:02:43,004
+empresa ou quer o telefone do diretor que possa ve
+
+59
+00:02:43,014 --> 00:02:43,615
+a clonar.
+
+60
+00:02:43,625 --> 00:02:45,133
+Não sei o que que o cara pode fazer.
+
+61
+00:02:45,145 --> 00:02:47,849
+O cara pode ligar pra secretária pro secretário da de,
+
+62
+00:02:47,860 --> 00:02:50,118
+desse diretor e fala assim Olha, tudo bom,
+
+63
+00:02:50,129 --> 00:02:52,338
+Meu nome é fulano poxa, eu sou amigo aí
+
+64
+00:02:52,349 --> 00:02:54,338
+pessoal do do do ele não tá me atendendo ele.
+
+65
+00:02:54,349 --> 00:02:55,860
+Acho que ele trocou de telefone.
+
+66
+00:02:55,868 --> 00:02:57,399
+Cê pode me passar o telefone aí dele? Por
+
+67
+00:02:57,409 --> 00:02:59,960
+favor, o novo telefone, A pessoa vai passar
+
+68
+00:02:59,969 --> 00:03:04,474
+o telefone, entendeu essa engenharia social sem entender sem
+
+69
+00:03:04,485 --> 00:03:09,574
+ver a aten daquela informação.
+
+70
+00:03:09,585 --> 00:03:13,235
+Então, nós precisamos com o compromisso de todos os
+
+71
+00:03:13,243 --> 00:03:16,074
+colaboradores da organização de todos os profissionais da organização,
+
+72
+00:03:16,085 --> 00:03:20,615
+e treinamento e conscientização é fundamental pra isso é fundamental.
+
+73
+00:03:21,788 --> 00:03:24,819
+Oh lá, é crucial que os funcionários entendam que
+
+74
+00:03:24,830 --> 00:03:29,278
+tem responsabilidade pessoal na proteção das informações da organização.
+
+75
+00:03:29,288 --> 00:03:33,199
+Tá a conscientização de cada ação individual pode impactar a
+
+76
+00:03:33,210 --> 00:03:36,558
+segurança da organização como um todo.
+
+77
+00:03:36,569 --> 00:03:38,838
+Então, a gente precisa ter uma cultura, uma
+
+78
+00:03:38,849 --> 00:03:44,278
+cultura que em que a segurança é incorporada ao comportamento
+
+79
+00:03:44,288 --> 00:03:46,439
+e atitude de cada membro da equipe.
+
+80
+00:03:46,449 --> 00:03:51,479
+Isso aqui é no dia dia, tá todo dia.
+
+81
+00:03:51,490 --> 00:03:53,830
+A gente tem que falar sobre cultura de segurança.
+
+82
+00:03:53,838 --> 00:03:56,479
+Todo dia, se aquele seu colega deixa eu chegar
+
+83
+00:03:56,490 --> 00:03:58,960
+aqui, se aquele seu colega, seu companheiro,
+
+84
+00:03:58,969 --> 00:04:01,479
+ele sai do seu do computador, sem travar o
+
+85
+00:04:01,490 --> 00:04:04,800
+computador, você precisa alertar ele colega companheiro.
+
+86
+00:04:04,808 --> 00:04:08,219
+Por favor Vamos eh bloquear o seu, o seu,
+
+87
+00:04:08,229 --> 00:04:12,599
+o seu computador? Ah, nunca nunca! Nunca
+
+88
+00:04:12,610 --> 00:04:16,379
+salve a sua senha e um postiche deixe no seu
+
+89
+00:04:16,389 --> 00:04:16,858
+monitor.
+
+90
+00:04:16,869 --> 00:04:19,338
+Acho que ninguém nunca viu isso, né? Então
+
+91
+00:04:19,350 --> 00:04:22,980
+são práticas que tem que ser diariamente, trabalhadas,
+
+92
+00:04:22,988 --> 00:04:27,678
+porque isso compromete verdadeiramente a segurança da organização.
+
+93
+00:04:27,744 --> 00:04:29,535
+Então, o que que a gente falou nessa aula,
+
+94
+00:04:29,545 --> 00:04:31,274
+né? Durante todo esse nesse período, agora até
+
+95
+00:04:31,285 --> 00:04:31,553
+agora.
+
+96
+00:04:31,564 --> 00:04:34,795
+Então a gente falou sobre eh a compressão mais profunda.
+
+97
+00:04:34,803 --> 00:04:38,994
+Nós estudamos a hierarquia, né? Tático estratégico operacional?
+
+98
+00:04:39,004 --> 00:04:40,975
+Entendemos o papel de cada um, né? O
+
+99
+00:04:40,983 --> 00:04:45,053
+papel do tá estratégico alinhar a política com com o
+
+100
+00:04:45,064 --> 00:04:47,954
+com o negócio, o tático de implementar e o
+
+101
+00:04:47,963 --> 00:04:51,595
+operacional o dia-a-dia, né? Eh, enfatizamos!
+
+102
+00:04:51,605 --> 00:04:54,858
+A importância da integração da política, da segurança de
+
+103
+00:04:54,869 --> 00:04:57,500
+formação com a t i tem, que tá junto,
+
+104
+00:04:57,509 --> 00:05:00,459
+Gente, as equipes têm que estar próximas e conversar.
+
+105
+00:05:00,470 --> 00:05:01,899
+A mesma língua tá bom.
+
+106
+00:05:01,910 --> 00:05:05,819
+E, por último, aí a importância do desenvolvimento
+
+107
+00:05:05,829 --> 00:05:09,939
+e do treinamento constante das equipes do da equipe,
+
+108
+00:05:09,949 --> 00:05:12,059
+de toda a equipe, de toda organização, de
+
+109
+00:05:12,069 --> 00:05:15,656
+todos os colaboradores, entender que cada colaborador tem um
+
+110
+00:05:15,665 --> 00:05:21,216
+conhecimento específico sobre tecnologia, não podemos entender ou achar
+
+111
+00:05:21,225 --> 00:05:24,514
+que ah o mínimo necessário é esse conhecimento, aquela
+
+112
+00:05:24,526 --> 00:05:28,346
+pessoa aquela, aquela pessoa tem obrigação de conhecer isso,
+
+113
+00:05:28,355 --> 00:05:30,185
+não podemos sair desse ponto.
+
+114
+00:05:30,196 --> 00:05:34,312
+Precisamos dar um um treinamento básico, claro para toda
+
+115
+00:05:34,321 --> 00:05:39,511
+a organização, para que a gente consiga compreender pra
+
+116
+00:05:39,521 --> 00:05:42,211
+que a gente consiga entender os, pra gente conseguir
+
+117
+00:05:42,221 --> 00:05:45,752
+melhorar cada vez mais esses treinamentos, para, então,
+
+118
+00:05:45,761 --> 00:05:48,841
+a gente conseguir abranger toda a nossa política de segurança
+
+119
+00:05:48,850 --> 00:05:52,872
+da informação, garantindo, assim, conformidade com todas
+
+120
+00:05:52,880 --> 00:05:56,920
+as nossas leis, né, garantindo assim a reputação
+
+121
+00:05:56,928 --> 00:06:00,139
+da empresa, garantindo que o valor da empresa continue
+
+122
+00:06:00,149 --> 00:06:01,720
+a crescer no mercado.
+
+123
+00:06:01,730 --> 00:06:04,399
+Que os nossos dados não sejam rompidos, garantindo aquele
+
+124
+00:06:04,410 --> 00:06:08,399
+três pilares da segurança, da informação tão lembrado.
+
+125
+00:06:08,410 --> 00:06:13,980
+Integridade, disponibilidade e sede é isso! Precisamos garantir
+
+126
+00:06:13,988 --> 00:06:17,778
+isso e trabalhemos essa política trabalha para isso? Tá
+
+127
+00:06:17,790 --> 00:06:19,838
+bom, nos vemos na próxima aula,
+

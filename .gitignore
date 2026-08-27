@@ -1,0 +1,26 @@
+# Environment variables & API Keys
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*.token
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Operating System / IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

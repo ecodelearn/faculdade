@@ -1,0 +1,784 @@
+1
+00:00:06,129 --> 00:00:10,778
+Olá, tudo bem, vamos continuar entendendo a perspectiva
+
+2
+00:00:10,788 --> 00:00:13,198
+de processo, vendo os tipos e visões de processo,
+
+3
+00:00:13,210 --> 00:00:16,708
+mas agora falando sobre a analogia e o valor no
+
+4
+00:00:16,719 --> 00:00:18,920
+processo de negócio, né? Então, agora,
+
+5
+00:00:18,929 --> 00:00:21,478
+a gente vai aprofundar um pouco mais aquele entendimento que
+
+6
+00:00:21,489 --> 00:00:24,760
+a gente teve na questão da orquestração das atividades de
+
+7
+00:00:24,769 --> 00:00:27,079
+cada uma das etapas, enfim, vamos, vamos
+
+8
+00:00:27,089 --> 00:00:29,690
+trabalhar um pouco mais nesse entendimento, fazer uma a
+
+9
+00:00:29,699 --> 00:00:33,158
+uma, a uma analogia bem bacana pra gente perceber
+
+10
+00:00:33,168 --> 00:00:35,319
+isso aí né? Então eh, a gente pode
+
+11
+00:00:35,329 --> 00:00:38,918
+ver a analogia por meio dessa estrutura que está definida
+
+12
+00:00:38,929 --> 00:00:42,759
+aqui Tá em que a gente fala da da visão,
+
+13
+00:00:42,770 --> 00:00:46,289
+da eh, da atividade, como visão física versus,
+
+14
+00:00:46,298 --> 00:00:49,859
+né? Os processos que são conhecidos como visão lógica
+
+15
+00:00:49,868 --> 00:00:53,829
+Okay, eh, na aqui eu tô olhando nessa,
+
+16
+00:00:53,840 --> 00:00:57,289
+nessa, nessa analogia aqui, nesse, nessa estrutura
+
+17
+00:00:57,298 --> 00:01:00,908
+aqui definida, eu tô eh olhando muito a questão
+
+18
+00:01:00,918 --> 00:01:05,588
+da da vamos dizer numa questão tecnológica, falando numa
+
+19
+00:01:05,599 --> 00:01:09,400
+questão de Ah, eh de software.
+
+20
+00:01:09,409 --> 00:01:13,948
+Basicamente, né? De aplicação de de desenvolvimento,
+
+21
+00:01:13,959 --> 00:01:17,000
+Okay, então olha só eh o que que quer
+
+22
+00:01:17,010 --> 00:01:19,870
+dizer aqui? Vamos lá, quando você tá olhando
+
+23
+00:01:19,879 --> 00:01:21,799
+aqui em cima, quando você tá olhando aqui em
+
+24
+00:01:21,808 --> 00:01:25,599
+cima, visão física dos dados Pra quem não conhece
+
+25
+00:01:25,609 --> 00:01:28,540
+aqui a gente está olhando uma perspectiva de tecnologia da
+
+26
+00:01:28,549 --> 00:01:31,959
+informação, a parte mais básica da informação que é
+
+27
+00:01:31,969 --> 00:01:35,180
+a base do banco de dados, né? Que
+
+28
+00:01:35,189 --> 00:01:40,540
+nasce com a a descrição ou a definição das tabelas
+
+29
+00:01:40,549 --> 00:01:44,799
+eh que comporão esse banco de dados que comporão essa
+
+30
+00:01:44,808 --> 00:01:48,519
+eh esse conjunto de informações assim por dizer okay,
+
+31
+00:01:48,528 --> 00:01:52,329
+Então vamos lá quando eu penso em só pra fazer
+
+32
+00:01:52,338 --> 00:01:54,969
+um paralelo quando eu penso em Ban banco de dados,
+
+33
+00:01:54,980 --> 00:01:57,308
+quando eu penso em eh visão física, eu tô
+
+34
+00:01:57,319 --> 00:01:59,209
+falando da menor unidade que eu vou Tá lá.
+
+35
+00:01:59,219 --> 00:02:00,939
+Então, por exemplo, se você vai numa se
+
+36
+00:02:00,948 --> 00:02:03,778
+você entrou numa loja pra fazer uma compra, né,
+
+37
+00:02:03,790 --> 00:02:05,168
+no internet um melhor melhor.
+
+38
+00:02:05,180 --> 00:02:07,650
+Você entrou na internet pra fazer uma compra num site
+
+39
+00:02:07,659 --> 00:02:10,080
+qualquer que seja o site, né? E a
+
+40
+00:02:10,088 --> 00:02:10,750
+pessoa pede assim.
+
+41
+00:02:10,758 --> 00:02:13,338
+Oh, você precisa pra fazer concluir a sua compra.
+
+42
+00:02:13,349 --> 00:02:16,580
+Você precisa cadas cadastrar os seus dados, Precisa se
+
+43
+00:02:16,588 --> 00:02:18,558
+cadastrar, né? Aí você vai lá e coloca
+
+44
+00:02:18,569 --> 00:02:21,599
+seu nome, você coloca seu telefone, você coloca
+
+45
+00:02:21,610 --> 00:02:22,580
+seu endereço.
+
+46
+00:02:22,588 --> 00:02:26,020
+Isso é o dado mais básico que tem esse.
+
+47
+00:02:26,085 --> 00:02:28,213
+Esses dados vão ser armazenados no banco de dados,
+
+48
+00:02:28,224 --> 00:02:29,713
+que é o que a gente tá entregando aqui como
+
+49
+00:02:29,724 --> 00:02:33,455
+sendo essa visão física dos dados, né Visão física
+
+50
+00:02:33,463 --> 00:02:35,163
+porque vai tá gravado lá no banco de dados?
+
+51
+00:02:35,175 --> 00:02:38,115
+Então aqui eu tenho uma tabela chamada Tabela de pessoa
+
+52
+00:02:38,125 --> 00:02:41,254
+Okay, Aqui eu tenho uma outra tabela chamada de
+
+53
+00:02:41,264 --> 00:02:42,375
+município.
+
+54
+00:02:42,383 --> 00:02:46,514
+Então a visão lógica quando eu olho pra esse dado,
+
+55
+00:02:46,524 --> 00:02:47,493
+ele tá aqui.
+
+56
+00:02:47,504 --> 00:02:52,368
+Eh pormenorizado em duas perspectivas em duas tabelas uma e
+
+57
+00:02:52,379 --> 00:02:53,919
+outra tabela aqui.
+
+58
+00:02:53,929 --> 00:02:57,899
+Agora, se eu olhar numa visão lógica dessa informação,
+
+59
+00:02:57,909 --> 00:03:01,240
+essa o in- a o nome dessa pessoa, O
+
+60
+00:03:01,250 --> 00:03:04,479
+seu município onde ela mora me me me dá uma
+
+61
+00:03:04,490 --> 00:03:10,399
+percepção de uma informação acerca daquele indivíduo de forma lógica
+
+62
+00:03:10,409 --> 00:03:14,659
+que eu vou fazer combinando esta estrutura aqui.
+
+63
+00:03:15,389 --> 00:03:18,360
+Então, ao olhar uma visão lógica de informação,
+
+64
+00:03:18,368 --> 00:03:21,558
+eu tô olhando na perspectiva de dos dados que eu
+
+65
+00:03:21,569 --> 00:03:24,770
+quero, que é o nome e o município,
+
+66
+00:03:24,778 --> 00:03:25,409
+Beleza.
+
+67
+00:03:25,419 --> 00:03:29,389
+Ok esta visão lógica que a gente tá enxergando aqui
+
+68
+00:03:29,399 --> 00:03:33,710
+em cima, ela me dá a percepção, né?
+
+69
+00:03:33,719 --> 00:03:37,508
+Ela precisa estar integrada a alguma ca alguma.
+
+70
+00:03:37,520 --> 00:03:43,270
+Eh algum elemento? Eh organizacional, que na verdade
+
+71
+00:03:43,278 --> 00:03:46,710
+é a função pra qual ela foi construída, que
+
+72
+00:03:46,719 --> 00:03:49,308
+é o que a gente enxerga aqui na visão física
+
+73
+00:03:49,319 --> 00:03:50,349
+das funções.
+
+74
+00:03:50,360 --> 00:03:54,949
+Então é basicamente pra eu ter uma, um,
+
+75
+00:03:54,960 --> 00:03:58,490
+uma venda, uma finança ou uma distribuição, eu
+
+76
+00:03:58,500 --> 00:04:01,308
+preciso ter os dados.
+
+77
+00:04:01,319 --> 00:04:03,349
+Eu preciso ter essa visão física aqui em cima.
+
+78
+00:04:03,360 --> 00:04:05,909
+Se eu não tiver isso, eu não consigo fazer
+
+79
+00:04:05,919 --> 00:04:06,469
+a venda.
+
+80
+00:04:06,479 --> 00:04:08,069
+Eu não consigo fazer o financeiro.
+
+81
+00:04:08,080 --> 00:04:13,258
+Eu não consigo gerar uma distribuição porque eu preciso basicamente
+
+82
+00:04:13,270 --> 00:04:17,259
+dessas informações pra fazer com que a função venda ocorra.
+
+83
+00:04:17,269 --> 00:04:20,579
+Então, entenda que isso aqui né, Essa essa
+
+84
+00:04:20,588 --> 00:04:26,059
+analogia Divisão física é a, o, a base
+
+85
+00:04:26,069 --> 00:04:31,199
+que me permite executar o processo pra qual né?
+
+86
+00:04:31,939 --> 00:04:37,528
+Eu estou eh buscando resultado, buscando entregar, buscando
+
+87
+00:04:37,540 --> 00:04:41,230
+realizar óbvio, vinculado a minha estratégia organizacional, então
+
+88
+00:04:41,238 --> 00:04:41,649
+vamos lá.
+
+89
+00:04:41,660 --> 00:04:44,369
+Quando você chega, eh chegou lá na loja,
+
+90
+00:04:44,379 --> 00:04:45,928
+vai fazer lá a sua compra, quer seja pela
+
+91
+00:04:45,939 --> 00:04:48,750
+internet, isso vai, tá veri, vai,
+
+92
+00:04:48,759 --> 00:04:49,899
+vai, tá por meio de um processo.
+
+93
+00:04:49,910 --> 00:04:52,470
+Então vai ser um processo de venda, um processo
+
+94
+00:04:52,480 --> 00:04:55,428
+financeiro, um processo de distribuição que, pra existir,
+
+95
+00:04:55,439 --> 00:04:57,949
+preciso usar estes caras aqui.
+
+96
+00:04:57,959 --> 00:05:00,949
+Oh, né? E aí a venda você tem
+
+97
+00:05:00,959 --> 00:05:03,790
+um processo pra obter o pedido, né? Então,
+
+98
+00:05:03,798 --> 00:05:06,189
+isso aqui oh, isso nasce com obter o pedido
+
+99
+00:05:06,199 --> 00:05:06,910
+do cliente.
+
+100
+00:05:06,920 --> 00:05:09,350
+Aí você vai cobrar o cliente.
+
+101
+00:05:09,358 --> 00:05:11,028
+A cobrança do cliente é feita em cima de um
+
+102
+00:05:11,040 --> 00:05:16,809
+processo financeiro e que envolve pagar fornecedor cobrar o cliente,
+
+103
+00:05:17,238 --> 00:05:20,649
+né? Aí vem a a a distribuição que tem
+
+104
+00:05:20,660 --> 00:05:23,910
+o pressuposto em cima da atividade de entregar o produto,
+
+105
+00:05:23,920 --> 00:05:26,410
+né? Então olha aqui oh atividade pra entregar o
+
+106
+00:05:26,420 --> 00:05:28,730
+produto do cliente tá aqui, oh, ela nasce
+
+107
+00:05:28,738 --> 00:05:31,048
+aqui, oh, entregar produto do cliente! Ela
+
+108
+00:05:31,059 --> 00:05:36,139
+faz parte de um subprocessos de venda da venda,
+
+109
+00:05:36,149 --> 00:05:38,100
+a entrega, um processo completo.
+
+110
+00:05:38,108 --> 00:05:40,778
+O processo nasceu aqui na venda e vai até a
+
+111
+00:05:40,790 --> 00:05:46,129
+distribuição que faz parte de uma atividade aqui, oh!
+
+112
+00:05:47,199 --> 00:05:50,290
+E é uma função distribuição, veja, veja como
+
+113
+00:05:50,298 --> 00:05:54,329
+é que tá bem distribuído essa perspectiva aqui, né?
+
+114
+00:05:54,338 --> 00:05:57,689
+Eu consigo distribuir ao longo desse mapa que tá aqui.
+
+115
+00:05:57,699 --> 00:06:01,410
+Vamos dizer assim, né Essas atividades fazer uma analogia
+
+116
+00:06:01,420 --> 00:06:04,350
+perfeita de que eu tenho uma base lá em cima
+
+117
+00:06:04,358 --> 00:06:10,608
+física, dos meus dados que me fornecem elementos necessários
+
+118
+00:06:10,619 --> 00:06:17,639
+pra que a função dos meus processos aconteça aqui,
+
+119
+00:06:17,649 --> 00:06:19,259
+que a mágica acontece.
+
+120
+00:06:19,269 --> 00:06:23,199
+Mas pra essa mágica acontecer eu preciso ter elementos básicos
+
+121
+00:06:23,209 --> 00:06:30,399
+que ofertam essa estrutura que ofertam este elemento necessário pra
+
+122
+00:06:30,410 --> 00:06:32,879
+que seja realizado cada uma dessas atividades.
+
+123
+00:06:32,889 --> 00:06:34,160
+Se não, não existe.
+
+124
+00:06:34,170 --> 00:06:36,238
+Eu não consigo, por exemplo, entregar o produto
+
+125
+00:06:36,250 --> 00:06:38,399
+se eu não tiver o município do cliente.
+
+126
+00:06:38,410 --> 00:06:41,519
+Eu não consigo, por exemplo, cobrar o cliente
+
+127
+00:06:41,528 --> 00:06:44,899
+se eu não tiver o cadastro do cliente, então
+
+128
+00:06:44,910 --> 00:06:49,670
+vejam tudo nasce na na na, na, na
+
+129
+00:06:49,678 --> 00:06:52,500
+num num, numa atividade, né? Vamos dizer
+
+130
+00:06:52,509 --> 00:06:58,259
+assim, numa perspectiva bem bem eh, eh mínima
+
+131
+00:06:58,269 --> 00:07:02,000
+do meu dado até ser construído um macro disso tudo,
+
+132
+00:07:02,009 --> 00:07:08,259
+um conjunto interligado desse eh emara, emaranhado de atividades
+
+133
+00:07:08,269 --> 00:07:11,298
+que aqui se eh, acontecem, né, E
+
+134
+00:07:11,309 --> 00:07:13,019
+aqui? Claro, né? A gente já falou
+
+135
+00:07:13,028 --> 00:07:15,319
+que isso aqui tudo a gente vai eh, eh
+
+136
+00:07:15,329 --> 00:07:19,278
+trabalhar por meio do A gente pode colocar aqui oh
+
+137
+00:07:19,290 --> 00:07:22,920
+do nosso software, né? Então você tem um
+
+138
+00:07:22,928 --> 00:07:24,399
+software de banco, de dados, Você tem um
+
+139
+00:07:24,410 --> 00:07:27,199
+software de venda muito, muitas vezes apoiado um software
+
+140
+00:07:27,209 --> 00:07:32,358
+financeiro, um software de distribuição que eles inte interligados,
+
+141
+00:07:32,369 --> 00:07:35,600
+integrados, fazem com que essa mágica aconteça.
+
+142
+00:07:35,608 --> 00:07:39,199
+Faz com que você faça uma compra no site e
+
+143
+00:07:39,209 --> 00:07:42,980
+esse produto chegue na sua casa de forma o quê
+
+144
+00:07:43,629 --> 00:07:47,579
+auto automática, não de forma organizada, de forma
+
+145
+00:07:47,588 --> 00:07:48,519
+estruturada.
+
+146
+00:07:48,528 --> 00:07:50,079
+Aí vem um processo.
+
+147
+00:07:50,088 --> 00:07:51,959
+Eu não consigo, por exemplo, cobrar o cliente,
+
+148
+00:07:51,970 --> 00:07:53,000
+se eu não faz, se eu não fizer a
+
+149
+00:07:53,009 --> 00:07:54,759
+venda, eu não faço a venda.
+
+150
+00:07:54,769 --> 00:07:57,439
+Se eu não tiver um pedido, eu não consigo
+
+151
+00:07:57,449 --> 00:07:59,358
+entregar um pedido se eu não fizer a venda,
+
+152
+00:07:59,369 --> 00:08:02,500
+se ela não for efetivada e se e se eu
+
+153
+00:08:02,509 --> 00:08:05,220
+não tiver o endereço do do do do do indivíduo,
+
+154
+00:08:05,720 --> 00:08:08,189
+então esse processo todo é uma integração.
+
+155
+00:08:08,199 --> 00:08:10,608
+Esse processo todo ele acontece, ele precisa ser de
+
+156
+00:08:10,619 --> 00:08:14,309
+estruturado adequadamente.
+
+157
+00:08:14,319 --> 00:08:18,220
+Nenhum passo pode, tá eh, eh a frente
+
+158
+00:08:18,230 --> 00:08:23,379
+do outro, eh desnecessariamente gerar informação desnecessária, pedir
+
+159
+00:08:23,389 --> 00:08:26,319
+coisas que não fazem sentido ali, que não agregam
+
+160
+00:08:26,329 --> 00:08:27,278
+valor.
+
+161
+00:08:27,290 --> 00:08:27,720
+Okay.
+
+162
+00:08:27,730 --> 00:08:31,819
+Então isso tudo deve fazer sentido pra organização.
+
+163
+00:08:31,829 --> 00:08:34,759
+Tá, por exemplo, Assim Ah, eu queria
+
+164
+00:08:34,769 --> 00:08:37,019
+coletar aqui no meio desses dados aqui eu queria pegar
+
+165
+00:08:37,029 --> 00:08:40,080
+aqui, por exemplo, se a pessoa tem filhos,
+
+166
+00:08:40,090 --> 00:08:44,067
+Pra quê precisa? Então se você deseja o processo,
+
+167
+00:08:44,077 --> 00:08:45,428
+isso não vai ser necessário ali.
+
+168
+00:08:45,438 --> 00:08:48,489
+Então e pra isso existe o processo Pra isso,
+
+169
+00:08:48,499 --> 00:08:52,148
+você organiza ele estrutura, ele de forma nessa visão
+
+170
+00:08:52,158 --> 00:08:52,869
+física.
+
+171
+00:08:52,879 --> 00:08:56,268
+E essa visão lógica sejam integradas.
+
+172
+00:08:56,278 --> 00:09:00,467
+Tá e eh dentro dessa questão, né oh os
+
+173
+00:09:00,479 --> 00:09:04,629
+processos agregam valor diretamente ao cliente ou outros processos.
+
+174
+00:09:04,638 --> 00:09:07,308
+Então o processo físico agrega valor ao processo lógico.
+
+175
+00:09:07,317 --> 00:09:10,899
+O processo de finança agrega valor ao processo de distribuição
+
+176
+00:09:10,908 --> 00:09:11,879
+e assim por diante.
+
+177
+00:09:11,889 --> 00:09:16,599
+Os processos envolvem pessoas, envolvem equipamentos, envolve ferramentas,
+
+178
+00:09:16,609 --> 00:09:17,719
+metas e procedimentos.
+
+179
+00:09:17,729 --> 00:09:20,519
+Então, tá aqui esse desenho de processo, ele
+
+180
+00:09:20,529 --> 00:09:24,700
+dá uma ideia, entra evento de negócio, entra
+
+181
+00:09:24,710 --> 00:09:26,759
+o evento de negócio, entra insumo, entra o
+
+182
+00:09:26,769 --> 00:09:27,840
+que o cliente quer.
+
+183
+00:09:27,849 --> 00:09:30,940
+Isso vai junto com as regras, com controle,
+
+184
+00:09:31,014 --> 00:09:35,215
+com eh pressões internas, mais o pessoal mais a
+
+185
+00:09:35,224 --> 00:09:36,825
+infraestrutura, mais a tecnologia.
+
+186
+00:09:36,835 --> 00:09:41,965
+Isso acontece dentro de um processo que vai gerar resultado.
+
+187
+00:09:41,974 --> 00:09:42,945
+Pra minha organização.
+
+188
+00:09:42,955 --> 00:09:45,825
+Vai gerar um produto ou serviço, vai entregar satisfação
+
+189
+00:09:45,835 --> 00:09:46,364
+do meu cliente.
+
+190
+00:09:46,375 --> 00:09:51,384
+Ou seja, entrou processor por meio desse conjunto de
+
+191
+00:09:51,394 --> 00:09:57,200
+elementos que influenciam, interagem, gerando resultado que eu
+
+192
+00:09:57,210 --> 00:09:58,308
+espero pro meu cliente.
+
+193
+00:09:58,320 --> 00:10:00,788
+Não só o resultado organizacional, mas pro meu cliente
+
+194
+00:10:00,798 --> 00:10:01,349
+okay.
+
+195
+00:10:01,359 --> 00:10:06,869
+Então essa perspectiva é fundamental? Tá obrigado Até a
+
+196
+00:10:06,879 --> 00:10:07,369
+próxima!
+

@@ -1,0 +1,624 @@
+1
+00:00:06,230 --> 00:00:08,220
+Olá, tudo! Bom, sejam bem-vindos a nossa,
+
+2
+00:00:08,228 --> 00:00:11,118
+nossa disciplina, segurança, informação e continuidade.
+
+3
+00:00:11,130 --> 00:00:13,599
+Hoje a gente tá falando sobre alguns aspectos, sobre
+
+4
+00:00:13,609 --> 00:00:17,399
+a segurança no quesito de equipe Treinamentos aí falamos sobre
+
+5
+00:00:17,408 --> 00:00:18,000
+o soc.
+
+6
+00:00:18,010 --> 00:00:21,638
+Falamos sobre CSR, falamos sobre tecnologias, a importância
+
+7
+00:00:21,649 --> 00:00:22,530
+de tecnologias.
+
+8
+00:00:22,539 --> 00:00:26,728
+Falamos sobre os papéis, né? Importantes pra implementar
+
+9
+00:00:26,739 --> 00:00:27,539
+dentro do CRT.
+
+10
+00:00:27,625 --> 00:00:31,914
+Falamos sobre a importância de aprender, né? O
+
+11
+00:00:31,923 --> 00:00:36,075
+processo de de de restauração do sistema, o processo
+
+12
+00:00:36,084 --> 00:00:39,594
+de deteção dissidente e, principalmente, o processo de
+
+13
+00:00:39,603 --> 00:00:40,914
+resiliência.
+
+14
+00:00:40,923 --> 00:00:43,715
+E agora a gente vai falar sobre treinamentos, treinamentos,
+
+15
+00:00:43,723 --> 00:00:44,274
+exercícios.
+
+16
+00:00:44,283 --> 00:00:48,005
+Como é importante ter treinamento pra equipe, para toda
+
+17
+00:00:48,014 --> 00:00:50,868
+a organização? Vamos falar de treinamentos.
+
+18
+00:00:50,880 --> 00:00:55,329
+O treinamento contínuo e os exercícios simulados são pilares fundamentais
+
+19
+00:00:55,340 --> 00:00:57,889
+para manter a equipe de cessar, né? Que
+
+20
+00:00:57,899 --> 00:01:01,139
+é a equipe de resposta e dente de segurança preparada
+
+21
+00:01:01,149 --> 00:01:04,150
+e eficaz diante de crescentes ameaças cibernéticas.
+
+22
+00:01:04,829 --> 00:01:09,049
+Essas práticas não apenas monitoram as habilidades individuais dos membros
+
+23
+00:01:09,058 --> 00:01:12,000
+da equipe, mas também fortalece a capacidade coletiva de
+
+24
+00:01:12,010 --> 00:01:12,778
+resposta.
+
+25
+00:01:12,790 --> 00:01:13,959
+Precisamos treinar.
+
+26
+00:01:13,969 --> 00:01:17,599
+A gente não pode somente executar um processo em ambientes
+
+27
+00:01:17,609 --> 00:01:19,109
+e em em situações reais.
+
+28
+00:01:19,120 --> 00:01:22,719
+A gente precisa fazer treinamentos, Simulações pra ver como
+
+29
+00:01:22,730 --> 00:01:25,138
+que é o comportamento do indivíduo e do coletivo Tá
+
+30
+00:01:25,620 --> 00:01:26,750
+treinamento técnico.
+
+31
+00:01:26,760 --> 00:01:29,980
+O desenvolvimento, o desenvolvimento contínuo de habilidades técnicas é
+
+32
+00:01:29,989 --> 00:01:32,150
+imperativo na área de segurança da informação.
+
+33
+00:01:32,159 --> 00:01:36,588
+Os profissionais do CES devem manter-se atualizado sobre as últimas
+
+34
+00:01:36,599 --> 00:01:41,959
+técnicas de ataque, ferramenta de análise forense e estratégias
+
+35
+00:01:41,969 --> 00:01:43,168
+de mitigação.
+
+36
+00:01:43,180 --> 00:01:47,838
+Cursos, workshops e certificações específicas são valiosos para aprimorar
+
+37
+00:01:47,849 --> 00:01:49,579
+a expertise técnica da equipe.
+
+38
+00:01:50,638 --> 00:01:57,049
+Exercícios de simulação Os exercícios simulados são necessários, são
+
+39
+00:01:57,058 --> 00:01:57,650
+desculpa.
+
+40
+00:01:57,659 --> 00:02:04,269
+Os exercícios simulados são cenários controlados que reproduzem situações reais.
+
+41
+00:02:05,448 --> 00:02:06,299
+Sim.
+
+42
+00:02:06,308 --> 00:02:10,860
+Realizar simulações regulares permitem testar a prontidão da equipe em
+
+43
+00:02:10,868 --> 00:02:16,500
+condições simuladas, identificar lacunas no processo de respostas e
+
+44
+00:02:16,508 --> 00:02:18,558
+melhorar a coordenação entre os membros.
+
+45
+00:02:19,110 --> 00:02:23,080
+Esses exercícios também proporciona a oportunidade de avaliar a eficácia
+
+46
+00:02:23,088 --> 00:02:26,659
+de políticas de segurança e organizações da organização, então
+
+47
+00:02:26,669 --> 00:02:30,860
+simular simular cenários, simular situações como a gente faz
+
+48
+00:02:30,868 --> 00:02:34,240
+na questão de simulação de incêndio, quando todo mundo
+
+49
+00:02:34,250 --> 00:02:36,618
+faz aquela simulação pra ver como que é o comportamento.
+
+50
+00:02:36,689 --> 00:02:42,020
+Então é importantíssimo a gente fazer exercícios de simulações pra
+
+51
+00:02:42,028 --> 00:02:43,439
+ver como que vai ser o comportamento.
+
+52
+00:02:43,449 --> 00:02:46,020
+Como eu falei, do indivíduo, do coletivo,
+
+53
+00:02:46,028 --> 00:02:50,179
+dos processos da tecnologia pra gente identificar possíveis pontos de
+
+54
+00:02:50,189 --> 00:02:56,949
+melhoria toda nossa desse processo organizacional, atualização de conhecimento,
+
+55
+00:02:57,929 --> 00:03:01,258
+a passagem de a passagem, a passagem, a
+
+56
+00:03:01,270 --> 00:03:03,788
+passagem, né, paisagem.
+
+57
+00:03:03,800 --> 00:03:05,710
+Olha só que difícil, hein? A paisagem de
+
+58
+00:03:05,719 --> 00:03:07,949
+ameaça cibernética está em constante evolução.
+
+59
+00:03:07,960 --> 00:03:11,550
+Então, o ambiente de ameaças cibernéticas está em constante
+
+60
+00:03:11,558 --> 00:03:13,990
+evolução, né? A equipe se surge, deve
+
+61
+00:03:14,000 --> 00:03:17,270
+acompanhar de perto as tendências em segurança, de forma
+
+62
+00:03:17,278 --> 00:03:21,270
+participar de conferência, né? Eh Berna Fórum estar
+
+63
+00:03:21,278 --> 00:03:22,750
+envolvidas em comunidades de segurança.
+
+64
+00:03:22,758 --> 00:03:26,129
+Isso garante que a equipe seja ciente das últimas ameaças,
+
+65
+00:03:26,139 --> 00:03:28,500
+vulnerabilidade e soluções emergentes.
+
+66
+00:03:28,508 --> 00:03:32,064
+Gente, a busca de conhecimento constante, constante e
+
+67
+00:03:32,074 --> 00:03:37,205
+principalmente nessa área de segurança precisa estar sempre estar atualizado
+
+68
+00:03:37,213 --> 00:03:37,663
+como aqui.
+
+69
+00:03:37,675 --> 00:03:43,163
+Foi falado participar de feiras, workshops, palestras,
+
+70
+00:03:43,175 --> 00:03:44,264
+treinamentos.
+
+71
+00:03:44,274 --> 00:03:46,784
+Então a busca de conhecimento dessa equipe tem que ser
+
+72
+00:03:46,794 --> 00:03:47,444
+constante.
+
+73
+00:03:47,729 --> 00:03:50,258
+Recomendo você se você é um gestor de equipe de
+
+74
+00:03:50,270 --> 00:03:52,490
+de segurança, fazer um P D I um plano
+
+75
+00:03:52,500 --> 00:03:56,179
+de ação para os colaboradores com metas específicas de treinamentos
+
+76
+00:03:56,189 --> 00:03:56,740
+anuais.
+
+77
+00:03:56,750 --> 00:03:59,740
+Sei lá quantas horas, no mínimo por por ano,
+
+78
+00:03:59,750 --> 00:04:02,219
+de treinamento específico pra cada colaborador, porque isso é
+
+79
+00:04:02,229 --> 00:04:05,419
+fundamental pra garantir o sucesso da sua equipe.
+
+80
+00:04:05,429 --> 00:04:12,800
+Tá exercícios pós revisão pós revisão pós exercício Após cada
+
+81
+00:04:12,808 --> 00:04:16,759
+exercício simulado, a análise pós exercício é essencial.
+
+82
+00:04:16,769 --> 00:04:20,000
+Isso envolve uma avaliação crítica do desempenho da equipe durante
+
+83
+00:04:20,009 --> 00:04:20,759
+o exercício.
+
+84
+00:04:20,769 --> 00:04:24,819
+Identificar lições aprendidas, pontos fortes e áreas de melhoria
+
+85
+00:04:24,829 --> 00:04:28,000
+é crucial para aprimorar o exercício de resposta excedente.
+
+86
+00:04:28,548 --> 00:04:33,439
+Essas revi revisões, fornecem sites valiosos para ajustar políticas,
+
+87
+00:04:33,449 --> 00:04:36,730
+procedimentos estratégicos de treinamentos futuros.
+
+88
+00:04:36,738 --> 00:04:39,619
+Então a gente precisa ter uma revisão pós sabe aquele
+
+89
+00:04:39,629 --> 00:04:41,980
+e tá fizemos o exercício.
+
+90
+00:04:41,988 --> 00:04:45,303
+Qual foi o resultado desse exercício, o que que
+
+91
+00:04:45,314 --> 00:04:47,744
+nós erramos? O que nós acertamos? O que
+
+92
+00:04:47,754 --> 00:04:51,363
+nós precisamos melhorar pra que a gente consiga ajustar e
+
+93
+00:04:51,375 --> 00:04:55,423
+aprimorar ainda mais os nossos processos, as nossas tecnologias
+
+94
+00:04:55,434 --> 00:04:57,213
+e os nossos, a nossa equipe técnica.
+
+95
+00:04:57,225 --> 00:04:58,584
+Então é fundamental ter essa análise.
+
+96
+00:04:58,595 --> 00:05:00,524
+Tá essa revisão pós exercício.
+
+97
+00:05:03,420 --> 00:05:08,108
+Desenvolvimento de cenários realistas Os exercícios simulados devem ser baseados
+
+98
+00:05:08,119 --> 00:05:12,449
+em cenários realistas e relevantes para o ambiente operacional da
+
+99
+00:05:12,459 --> 00:05:18,028
+organização e inclui simulações de ataques específicos com fishing sons
+
+100
+00:05:18,040 --> 00:05:23,028
+ou instru instruções avançadas, proporcionandoà equipe uma experiência
+
+101
+00:05:23,040 --> 00:05:26,980
+prática na abordagem de ações de ameaças específicas que podem
+
+102
+00:05:26,988 --> 00:05:27,809
+enfrentar a gente.
+
+103
+00:05:27,819 --> 00:05:30,548
+A simulação tem que ser uma formulação realista.
+
+104
+00:05:30,559 --> 00:05:34,470
+Uma se é uma simulação, eh propícia ao ambiente
+
+105
+00:05:34,480 --> 00:05:35,088
+ao impacto.
+
+106
+00:05:35,173 --> 00:05:38,504
+Então, não adianta fazer algo que que não,
+
+107
+00:05:38,514 --> 00:05:40,983
+que não entre no seu contexto, no seu ambiente,
+
+108
+00:05:40,994 --> 00:05:44,725
+precisa ser algo que está que pode acontecer hoje.
+
+109
+00:05:44,733 --> 00:05:45,785
+Agora, neste momento.
+
+110
+00:05:45,795 --> 00:05:47,803
+Então, é, é esse cenário.
+
+111
+00:05:47,814 --> 00:05:51,863
+Essa situação precisa ser abrangente e realista com o seu
+
+112
+00:05:51,875 --> 00:05:52,384
+ambiente.
+
+113
+00:05:52,394 --> 00:05:56,350
+Tá colaboração com outras equipes.
+
+114
+00:05:56,358 --> 00:06:00,410
+A colaboração interdisciplinar é vital, o exercício pode envolver
+
+115
+00:06:00,420 --> 00:06:03,290
+não aqui, não apenas as equipes de sur mas
+
+116
+00:06:03,298 --> 00:06:05,988
+outras equipes relevantes, como a equipe de T I,
+
+117
+00:06:06,000 --> 00:06:08,410
+Comunicação corporativa e Jurídica.
+
+118
+00:06:08,420 --> 00:06:12,678
+Isso promove uma compressão holística e coordenada e e coordenação
+
+119
+00:06:12,689 --> 00:06:14,670
+eficaz durante os acidentes reais.
+
+120
+00:06:15,470 --> 00:06:19,720
+Investir em treinamento contínuo e exercícios simulados não apenas aprimorara
+
+121
+00:06:19,730 --> 00:06:22,000
+a capacidade de resposta da equipe de C sirt,
+
+122
+00:06:22,009 --> 00:06:26,959
+mas também contribui para uma cultura organizacional focada em segurança,
+
+123
+00:06:26,970 --> 00:06:31,139
+permitindo que a organização enfrente desafios cibernético com ex e
+
+124
+00:06:31,149 --> 00:06:32,278
+eficaz.
+
+125
+00:06:32,290 --> 00:06:36,528
+Quando a gente tá falando de de desses treinamentos e
+
+126
+00:06:36,540 --> 00:06:39,928
+e dessa capacitação, a gente precisa entender que a
+
+127
+00:06:39,939 --> 00:06:43,449
+gente tá falando do organismo de um algo muito dinâmico,
+
+128
+00:06:43,459 --> 00:06:47,410
+né, algo que muda constantemente.
+
+129
+00:06:47,420 --> 00:06:50,689
+Então, esse treinamento, essa colaboração entre equipes F
+
+130
+00:06:50,699 --> 00:06:55,744
+F fundamental para o sucesso dessa equipe de surge dessa
+
+131
+00:06:55,754 --> 00:06:58,954
+equipe, do SoC, da equipe que controla ataque
+
+132
+00:06:58,963 --> 00:07:04,394
+cibernético, treinamento, capacitação, colaboração, simulações e
+
+133
+00:07:04,403 --> 00:07:08,829
+eventos reais, revisão de de de da, da
+
+134
+00:07:08,838 --> 00:07:12,100
+ação após essa simulação, quais são os gaps?
+
+135
+00:07:12,108 --> 00:07:14,629
+Como nós podemos melhorar o que foi feito em cada
+
+136
+00:07:14,639 --> 00:07:18,488
+situação? Isso é fundamental pra que garanta uma evolução
+
+137
+00:07:18,500 --> 00:07:23,608
+contínua do processo do ambiente, das pessoas, da
+
+138
+00:07:23,619 --> 00:07:29,303
+tecnologia nesse mundo cibernético, nessa questão de segurança,
+
+139
+00:07:29,314 --> 00:07:32,845
+talvez é uma das áreas mais dinâmicas que existe,
+
+140
+00:07:32,855 --> 00:07:36,274
+dentro da disciplina de tecnologia da informação e comunicação.
+
+141
+00:07:36,285 --> 00:07:38,553
+Provavelmente é uma das coisas mais dinâmicas, uma disciplina
+
+142
+00:07:38,564 --> 00:07:39,095
+mais dinâmica.
+
+143
+00:07:39,105 --> 00:07:41,684
+Então, os profissionais, essas tecnologias, precisam estar
+
+144
+00:07:41,694 --> 00:07:43,024
+em constante evolução.
+
+145
+00:07:43,689 --> 00:07:46,738
+Todo dia tem algo novo, todo dia tem um
+
+146
+00:07:46,750 --> 00:07:50,778
+ataque novo, toda hora tem alguém tentando invadir um
+
+147
+00:07:50,790 --> 00:07:52,899
+sistema a, o sistema B, a empresa,
+
+148
+00:07:52,910 --> 00:07:53,439
+a empresa B.
+
+149
+00:07:53,449 --> 00:07:57,379
+Então, a gente precisa entender a importância da capacitação
+
+150
+00:07:57,389 --> 00:08:01,619
+contínua do treinamento contínuo do exercício, da colaboração pra
+
+151
+00:08:01,629 --> 00:08:04,939
+todo esse organismo, dessa orquestração, né? Desse
+
+152
+00:08:04,949 --> 00:08:07,649
+Arcabouço, que se chama Segurança da Informação, e
+
+153
+00:08:07,660 --> 00:08:11,439
+é isso, eu agradeço a por estarem me acompanhando.
+
+154
+00:08:11,449 --> 00:08:15,319
+Durante toda essa disciplina e muito obrigado, nos encontramos,
+
+155
+00:08:15,329 --> 00:08:17,720
+talvez, nas próximas disciplinas, em próximas aulas,
+
+156
+00:08:17,730 --> 00:08:19,139
+abraços e até mais
+

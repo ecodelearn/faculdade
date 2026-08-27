@@ -1,0 +1,868 @@
+1
+00:00:06,288 --> 00:00:07,820
+Olá, eu sou o professor da COP.
+
+2
+00:00:07,828 --> 00:00:10,019
+A gente vai falar um pouco sobre os mecanismos de
+
+3
+00:00:10,028 --> 00:00:11,140
+segurança da web.
+
+4
+00:00:11,148 --> 00:00:15,648
+São mecanismos que visam dificultar, né, diversos tipos
+
+5
+00:00:15,659 --> 00:00:16,600
+de ataques.
+
+6
+00:00:16,609 --> 00:00:19,699
+E eles estão sujeitos a uma série de elementos específicos,
+
+7
+00:00:19,708 --> 00:00:21,859
+né? A gente está falando basicamente de cores,
+
+8
+00:00:21,870 --> 00:00:25,458
+museu mais básico e elementos de autenticação de autorização.
+
+9
+00:00:25,469 --> 00:00:28,339
+Vamos ver como funciona inicialmente.
+
+10
+00:00:28,350 --> 00:00:29,199
+Segurança na web.
+
+11
+00:00:30,690 --> 00:00:33,340
+Eh algo que a gente tem que observar são os
+
+12
+00:00:33,348 --> 00:00:36,539
+tipos de criptografia que existem, né? Eu tenho
+
+13
+00:00:36,548 --> 00:00:41,740
+basicamente três tipos de criptografia principais criptografia simétrica, onde
+
+14
+00:00:41,750 --> 00:00:44,539
+a mesma chave é usada tanto pra criptografar quanto pra
+
+15
+00:00:44,548 --> 00:00:47,668
+criptografar, o que significa que se alguém pega a
+
+16
+00:00:47,679 --> 00:00:49,469
+chave, já era a segurança.
+
+17
+00:00:49,478 --> 00:00:54,658
+Tá criptografia destrutiva, que é usada pra guardar senha.
+
+18
+00:00:54,668 --> 00:00:58,179
+Se é que mesmo que você tenha a chave,
+
+19
+00:00:58,189 --> 00:01:01,500
+você não consegue recuperar o valor, né? Criptografia
+
+20
+00:01:01,509 --> 00:01:04,719
+é destrutiva, ela é usada pra guardar a senha.
+
+21
+00:01:04,730 --> 00:01:07,480
+Então assim, por exemplo, uma pessoa pega lá
+
+22
+00:01:07,489 --> 00:01:08,138
+e coloca a senha.
+
+23
+00:01:08,150 --> 00:01:09,500
+Vou ter uma criptografia destrutiva.
+
+24
+00:01:09,510 --> 00:01:11,918
+Vou fazer um e isso aqui vai ser guardado o
+
+25
+00:01:11,930 --> 00:01:12,900
+resto no banco.
+
+26
+00:01:12,909 --> 00:01:16,739
+A única forma de pegar e gerar o mesmo é
+
+27
+00:01:16,750 --> 00:01:18,338
+digitando a mesma senha.
+
+28
+00:01:18,349 --> 00:01:21,528
+Mas essa senha tá só na cabeça de quem digitou,
+
+29
+00:01:21,540 --> 00:01:24,338
+porque, mesmo que alguém invada aquele banco de dados
+
+30
+00:01:24,349 --> 00:01:29,319
+através do hash, não consegue recuperar a informação original.
+
+31
+00:01:29,329 --> 00:01:32,099
+É assim que funciona a guarda de senha? Se
+
+32
+00:01:32,109 --> 00:01:34,418
+um site qualquer fala pra você clica aqui pra poder
+
+33
+00:01:34,430 --> 00:01:36,680
+retornar a sua senha e te devolve a sua senha!
+
+34
+00:01:36,689 --> 00:01:39,698
+Você já pode desconfiar da segurança, né? Ele
+
+35
+00:01:39,709 --> 00:01:42,099
+tem que pedir que você gere uma nova senha.
+
+36
+00:01:42,109 --> 00:01:44,138
+Tá porque ele não pode ser capaz de se eh
+
+37
+00:01:44,150 --> 00:01:46,719
+de de recuperar essa senha.
+
+38
+00:01:46,730 --> 00:01:50,260
+E eu tenho também a criptografia assimétrica, que é
+
+39
+00:01:50,269 --> 00:01:52,980
+a base dos certificados digitais, um S A tion
+
+40
+00:01:52,989 --> 00:01:55,799
+que eu tenho uma chave pública e uma privada!
+
+41
+00:01:55,808 --> 00:01:58,778
+E como funciona a chave privada fica contigo! Ninguém
+
+42
+00:01:58,790 --> 00:02:02,120
+tem acesso, tá e a chave pública você distribui,
+
+43
+00:02:03,058 --> 00:02:06,750
+qualquer pessoa pode usar aquela chave pública pra criptografar alguma
+
+44
+00:02:06,760 --> 00:02:07,948
+coisa pra você.
+
+45
+00:02:07,959 --> 00:02:10,149
+Só que só você com a sua chave privada vai
+
+46
+00:02:10,159 --> 00:02:13,250
+ser capaz de de criptografar, né? E aí
+
+47
+00:02:13,258 --> 00:02:16,469
+o que acontece? Isso define a seguinte regra Qualquer
+
+48
+00:02:16,479 --> 00:02:19,229
+pessoa pode enviar informações criptografadas pra mim, mas só
+
+49
+00:02:19,240 --> 00:02:20,629
+eu sou capaz de abrir.
+
+50
+00:02:20,639 --> 00:02:23,649
+Mesmo a pessoa que criptografa não consegue abrir porque ela
+
+51
+00:02:23,659 --> 00:02:26,110
+não tem a sua chave privada, né? no
+
+52
+00:02:26,118 --> 00:02:29,569
+sentido contrário, só a chave privada que assina e
+
+53
+00:02:29,580 --> 00:02:31,830
+a chave pública reconhece a assinatura.
+
+54
+00:02:31,838 --> 00:02:34,210
+Então, se você assina com a sua chave privada,
+
+55
+00:02:34,219 --> 00:02:36,919
+qualquer pessoa pode identificar que foi você que assinou pela
+
+56
+00:02:36,929 --> 00:02:40,050
+chave pública, né? E com isso você tem
+
+57
+00:02:40,058 --> 00:02:43,569
+um sistema de certificação digital, né? Bom,
+
+58
+00:02:43,580 --> 00:02:47,008
+no login tradicional eu tenho o uso de sessões.
+
+59
+00:02:47,020 --> 00:02:52,179
+Tá por quê? Aquele sistemas web com formulários po
+
+60
+00:02:52,189 --> 00:02:54,528
+É muito comum você colocar lá, digite seu login
+
+61
+00:02:54,538 --> 00:02:57,550
+e sua senha e aquele login Senha fica numa sessão
+
+62
+00:02:57,558 --> 00:03:00,270
+no servidor enquanto você tiver conectado.
+
+63
+00:03:00,278 --> 00:03:01,399
+Isso não é viável.
+
+64
+00:03:01,409 --> 00:03:01,808
+Não serve.
+
+65
+00:03:01,819 --> 00:03:04,270
+Se for, por exemplo, porque você não tem
+
+66
+00:03:04,278 --> 00:03:07,038
+tela, então você tem que fazer a autenticação ao
+
+67
+00:03:07,050 --> 00:03:10,368
+nível do protocolo alguma forma de autenticação você tem que
+
+68
+00:03:10,379 --> 00:03:13,129
+ter ao nível do protocolo, então você vai usar
+
+69
+00:03:13,139 --> 00:03:16,710
+uma coisa que são os tok né Tokens são as
+
+70
+00:03:16,719 --> 00:03:20,379
+chaves que você vai gerando eh relativas a uma dada
+
+71
+00:03:20,389 --> 00:03:24,429
+conexão, um dado usuário e podem eh autenticar dizendo
+
+72
+00:03:24,439 --> 00:03:26,669
+Assim olha, esse toque aqui é válido! Eu
+
+73
+00:03:26,679 --> 00:03:29,308
+tenho esse tok guardado aqui, né? Então com
+
+74
+00:03:29,319 --> 00:03:33,360
+isso aquela conexão é válida, eh a autenticação por
+
+75
+00:03:33,368 --> 00:03:34,008
+terceiros.
+
+76
+00:03:34,020 --> 00:03:36,699
+Também tem sido muito usada autenticar pelo Google e a
+
+77
+00:03:36,710 --> 00:03:39,879
+autenticação por terceiro é baseada em tokens, né?
+
+78
+00:03:40,479 --> 00:03:43,969
+E eu tenho vários ataques que são bastante comuns nesse
+
+79
+00:03:43,979 --> 00:03:46,808
+ambiente, né? Por exemplo, eh tenho ataques
+
+80
+00:03:46,819 --> 00:03:49,210
+de injection são os mais usados.
+
+81
+00:03:49,219 --> 00:03:50,490
+Eu tenho vários ataques.
+
+82
+00:03:50,500 --> 00:03:51,528
+Eh X S s.
+
+83
+00:03:51,538 --> 00:03:53,919
+Por isso existe o cor de acordo com o tipo
+
+84
+00:03:53,929 --> 00:03:54,409
+de ataque.
+
+85
+00:03:54,419 --> 00:03:57,490
+Você pode ter uma defesa diferente, né? Bom
+
+86
+00:03:58,449 --> 00:04:00,338
+criptografia destrutiva.
+
+87
+00:04:00,349 --> 00:04:02,338
+Hoje em dia, uma que a gente usa muito
+
+88
+00:04:02,349 --> 00:04:03,389
+é a chá dois, cinco e meia.
+
+89
+00:04:03,399 --> 00:04:05,500
+A Xiao On já foi quebrada, então a gente
+
+90
+00:04:05,508 --> 00:04:07,219
+não pode usar a Xuan, né? No mínimo
+
+91
+00:04:07,229 --> 00:04:10,199
+chá dois, cinco e meio eh a assimétrica triple
+
+92
+00:04:10,210 --> 00:04:13,360
+dez, que é mais forte que a dez a
+
+93
+00:04:13,368 --> 00:04:14,679
+dez já é quebrar.
+
+94
+00:04:14,689 --> 00:04:15,679
+Agora.
+
+95
+00:04:15,689 --> 00:04:18,119
+O ideal seria usar a a S, que é
+
+96
+00:04:18,129 --> 00:04:19,920
+o padrão, por exemplo, usado no Android.
+
+97
+00:04:19,928 --> 00:04:22,480
+A assimétrica ainda é o R S A com o
+
+98
+00:04:22,488 --> 00:04:24,559
+padrão, só que uma chave um pouco maior.
+
+99
+00:04:24,569 --> 00:04:25,720
+Hoje em dia a gente usa a chave de dois
+
+100
+00:04:25,730 --> 00:04:27,178
+mil e quarenta e oito em vez de usar mil
+
+101
+00:04:27,189 --> 00:04:30,699
+e vinte e quatro e a codificação é dez meia
+
+102
+00:04:30,709 --> 00:04:31,079
+quatro.
+
+103
+00:04:31,088 --> 00:04:34,059
+Codificação e criptografia são duas coisas diferentes.
+
+104
+00:04:34,069 --> 00:04:38,449
+Tá? Eh uma codificação ao se transformar de um
+
+105
+00:04:38,459 --> 00:04:41,009
+código pra outro, mas que me informa que você
+
+106
+00:04:41,019 --> 00:04:44,428
+possa recuperar sem uma chave, né? Por exemplo?
+
+107
+00:04:44,439 --> 00:04:47,088
+Eh, Eu quero guardar em base de dados,
+
+108
+00:04:47,100 --> 00:04:49,949
+mas eu sei que o resultado de uma criptografia é
+
+109
+00:04:49,959 --> 00:04:51,769
+um resultado binário e a base de dados vai querer
+
+110
+00:04:51,778 --> 00:04:52,410
+texto.
+
+111
+00:04:52,420 --> 00:04:54,269
+Eu posso codificar em base meia.
+
+112
+00:04:54,278 --> 00:04:54,850
+Quatro.
+
+113
+00:04:54,858 --> 00:04:58,389
+Aquilo não tá criptografado, aquilo está codificado.
+
+114
+00:04:59,108 --> 00:05:01,230
+Tá por isso significa que eu não preciso de uma
+
+115
+00:05:01,238 --> 00:05:02,439
+chave pra recuperar.
+
+116
+00:05:02,449 --> 00:05:05,000
+Eu posso usar o meia quatro em code E o
+
+117
+00:05:05,009 --> 00:05:08,838
+base meia quatro tem até online pra poder fazer isso?
+
+118
+00:05:08,850 --> 00:05:09,278
+Tá.
+
+119
+00:05:09,290 --> 00:05:12,298
+Então você pode pegar uma instrução b meia quatro e
+
+120
+00:05:12,309 --> 00:05:13,519
+recuperar a informação.
+
+121
+00:05:13,528 --> 00:05:15,639
+Ela pode tá criptografada, é outra coisa.
+
+122
+00:05:15,649 --> 00:05:17,199
+Você pode ter o que a gente faz com a
+
+123
+00:05:17,209 --> 00:05:18,040
+guarda de senha.
+
+124
+00:05:18,048 --> 00:05:19,798
+A gente usa o chá dois, cinco meia pra
+
+125
+00:05:19,809 --> 00:05:22,879
+criptografar e depois codifica com base meia quatro pra guardar
+
+126
+00:05:22,889 --> 00:05:23,559
+no banco.
+
+127
+00:05:23,569 --> 00:05:25,879
+Tá? Essa é a forma mais comum de trabalhar,
+
+128
+00:05:25,889 --> 00:05:26,420
+né.
+
+129
+00:05:27,278 --> 00:05:31,769
+Ah, autenticação no protocolo através do né? Por
+
+130
+00:05:31,778 --> 00:05:34,928
+exemplo, eu posso ter eh autorização h t p
+
+131
+00:05:34,939 --> 00:05:39,629
+que a gente chama de ke tion base e aqui
+
+132
+00:05:40,309 --> 00:05:42,079
+esse y w, blá blá, blá, blá
+
+133
+00:05:42,088 --> 00:05:44,439
+blá blá blá, que que é isso? Isso
+
+134
+00:05:44,449 --> 00:05:46,480
+aqui não é criptografado, isso aqui é um base
+
+135
+00:05:46,488 --> 00:05:50,439
+meia quatro Aladim once eh open, C né Open
+
+136
+00:05:50,449 --> 00:05:54,278
+season eh então assim o que tá escrito aqui é
+
+137
+00:05:54,290 --> 00:05:56,399
+isso aqui aberto em base meia quatro.
+
+138
+00:05:56,410 --> 00:05:58,480
+Se pegar um base meia quatro de code ele abre
+
+139
+00:05:58,488 --> 00:06:01,798
+tá? Então é no formato base meia qua eh
+
+140
+00:06:01,809 --> 00:06:06,720
+ze dois pontos codificado não criptografado pra base meia quatro.
+
+141
+00:06:06,730 --> 00:06:09,809
+Isso aqui é o é autenticação h t PC Se
+
+142
+00:06:09,819 --> 00:06:12,269
+você acessar o endereço base meia quatro de code ponto
+
+143
+00:06:12,278 --> 00:06:15,250
+org Você pode colocar uma string dessas lá e ele
+
+144
+00:06:15,259 --> 00:06:19,600
+vai abrir naturalmente tá para a segurança maior.
+
+145
+00:06:19,608 --> 00:06:21,420
+A gente usa um kein do tipo J W T
+
+146
+00:06:21,428 --> 00:06:25,319
+Jason Web Kein tá é muito usado pra terceiros,
+
+147
+00:06:25,329 --> 00:06:28,720
+como as iniciativas do A out e Open I de
+
+148
+00:06:28,730 --> 00:06:29,439
+Connect.
+
+149
+00:06:29,449 --> 00:06:32,278
+Esse o out é Open UTI e Open I de
+
+150
+00:06:32,290 --> 00:06:36,178
+Connect seria identificação Open seria sistema aberto de identificação?
+
+151
+00:06:36,569 --> 00:06:38,290
+Isso aí é usado pelo menos pro Google.
+
+152
+00:06:38,298 --> 00:06:40,899
+Qualquer um desses que faz autenticação de terceiros, o
+
+153
+00:06:40,910 --> 00:06:43,338
+ovo ou a out é o protocolo e open I
+
+154
+00:06:43,350 --> 00:06:46,459
+D é o pacote de envio de informações daquele cara
+
+155
+00:06:46,470 --> 00:06:48,100
+conector, como e-mail, etc.
+
+156
+00:06:48,108 --> 00:06:49,910
+Tá bom.
+
+157
+00:06:49,920 --> 00:06:53,619
+Então aqui eu teria só uma autenticação do tipo a
+
+158
+00:06:53,629 --> 00:06:55,639
+out, né? Eu tenho lá o usuário,
+
+159
+00:06:56,379 --> 00:06:59,269
+o meu sistema lá, que de calendário pediu autorização.
+
+160
+00:06:59,278 --> 00:07:01,129
+O usuário falou assim não, tudo bem, eu
+
+161
+00:07:01,139 --> 00:07:04,350
+vou dar autorização pelo Google, né? Ele vai
+
+162
+00:07:04,358 --> 00:07:06,278
+colocar lá a senha? O que quer que seja,
+
+163
+00:07:06,290 --> 00:07:08,750
+ele vai pro Autorizam Server, que é o Google,
+
+164
+00:07:08,759 --> 00:07:12,750
+verifica se eh se está correto a informação retorna um
+
+165
+00:07:12,759 --> 00:07:13,649
+ato.
+
+166
+00:07:14,509 --> 00:07:16,639
+Tá hoje em dia? Cê trabalha com dois caras,
+
+167
+00:07:16,649 --> 00:07:17,629
+o a Stoke.
+
+168
+00:07:17,639 --> 00:07:20,369
+E um toque de informações, né? Além de
+
+169
+00:07:20,379 --> 00:07:24,000
+um pra poder atualizar esse token aqui também vai pro
+
+170
+00:07:24,009 --> 00:07:25,079
+servidor.
+
+171
+00:07:25,088 --> 00:07:27,540
+E aí ele retorna aqui os então, como é
+
+172
+00:07:27,548 --> 00:07:30,379
+que funciona? Esse token é enviado pro cliente pro
+
+173
+00:07:30,389 --> 00:07:33,559
+servidor dizendo Olha, teve autenticação aqui por mim é
+
+174
+00:07:33,569 --> 00:07:36,759
+o terceiro cara, Eu tenho um Google você e
+
+175
+00:07:36,769 --> 00:07:39,278
+o servidor, o Google envia pra você e pro
+
+176
+00:07:39,290 --> 00:07:40,259
+servidor o token.
+
+177
+00:07:40,269 --> 00:07:42,920
+Quando chega lá, você envia o tocam pro servidor
+
+178
+00:07:42,928 --> 00:07:44,170
+e eu to quem fala? Tudo bem, esse
+
+179
+00:07:44,178 --> 00:07:44,959
+toquem é válido.
+
+180
+00:07:44,970 --> 00:07:46,480
+Foi aquele que foi enviado pelo Google.
+
+181
+00:07:46,488 --> 00:07:50,358
+Então você estabelece a conexão validado pelo Google? Isso
+
+182
+00:07:50,369 --> 00:07:53,199
+seria autenticação por terceiros? É esse protocolo aqui,
+
+183
+00:07:53,209 --> 00:07:56,939
+né? Bom, se você quiser saber um pouco
+
+184
+00:07:56,949 --> 00:08:01,540
+sobre eh Tipos de acesso Tipos de invasão que existem.
+
+185
+00:08:01,548 --> 00:08:03,528
+Eu tenho dois sites interessantes, que são o a
+
+186
+00:08:03,540 --> 00:08:06,259
+SP e o top tem seria os dez tipos de
+
+187
+00:08:06,269 --> 00:08:08,428
+ataques mais comuns e A, C, W e
+
+188
+00:08:08,439 --> 00:08:11,178
+Top vinte e cinco é onde você são as duas
+
+189
+00:08:11,189 --> 00:08:13,778
+instituições que fazem análise de risco.
+
+190
+00:08:13,790 --> 00:08:17,678
+Análise de ataques cibernéticos através da web, né?
+
+191
+00:08:17,920 --> 00:08:20,730
+Os ataques mais comuns são Coden Jackson, que é
+
+192
+00:08:20,738 --> 00:08:23,769
+quando o cara coloca um trecho de código dentro de
+
+193
+00:08:23,778 --> 00:08:26,730
+um formulário, por exemplo, colocar assim a i
+
+194
+00:08:26,738 --> 00:08:28,689
+d igual a t, né? Então, assim
+
+195
+00:08:28,699 --> 00:08:29,809
+a i d é igual a i d.
+
+196
+00:08:29,819 --> 00:08:33,570
+Se você coloca alguma instrução qualquer ali que quebre,
+
+197
+00:08:33,580 --> 00:08:35,928
+né? Um s q L dentro do código ele
+
+198
+00:08:35,940 --> 00:08:38,048
+vai te retornar a todos os elementos, né?
+
+199
+00:08:38,058 --> 00:08:41,428
+Então ele pode jogar ali uma uma instrução qualquer que
+
+200
+00:08:41,440 --> 00:08:44,879
+vai combinar com o seu código pra retornar as informações
+
+201
+00:08:44,889 --> 00:08:45,349
+que ele quer.
+
+202
+00:08:45,649 --> 00:08:49,200
+Isso é chamado de Coden Jackson Injeção de código X
+
+203
+00:08:49,210 --> 00:08:51,619
+s s s s, isso, aí você pode
+
+204
+00:08:51,629 --> 00:08:53,960
+fazer a proteção através do, né? Que é
+
+205
+00:08:53,969 --> 00:08:57,849
+um ataque de script entre domínios diferentes contra.
+
+206
+00:08:57,859 --> 00:08:59,769
+Já é mais complicado que você tem aí uma quebra
+
+207
+00:08:59,779 --> 00:09:03,259
+dos mecanismos de acesso, tá e criptográfico.
+
+208
+00:09:03,269 --> 00:09:05,200
+Falo também é a questão de bibliotecas.
+
+209
+00:09:05,210 --> 00:09:08,580
+Você tiver usando uma X O hoje em dia você
+
+210
+00:09:08,590 --> 00:09:09,379
+corre um risco.
+
+211
+00:09:09,389 --> 00:09:11,259
+O ideal é que você mude pra Xá dois cinco
+
+212
+00:09:11,269 --> 00:09:15,428
+meia, né? Bom então isso aí são alguns
+
+213
+00:09:15,440 --> 00:09:17,279
+aspectos básicos de segurança na web.
+
+214
+00:09:17,288 --> 00:09:19,548
+É um assunto extenso, tá, mas aqui a
+
+215
+00:09:19,558 --> 00:09:22,869
+gente tá falando só dos elementos principais que vamos levar
+
+216
+00:09:22,879 --> 00:09:25,269
+à proteção que a gente precisa, com cores,
+
+217
+00:09:25,279 --> 00:09:27,369
+autenticação e autorização.
+

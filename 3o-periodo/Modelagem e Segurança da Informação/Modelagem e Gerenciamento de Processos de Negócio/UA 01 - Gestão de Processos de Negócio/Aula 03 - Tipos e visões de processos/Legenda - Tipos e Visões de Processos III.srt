@@ -1,0 +1,800 @@
+1
+00:00:06,509 --> 00:00:13,319
+olá, Continuando nossa construção de gestão de processos falando
+
+2
+00:00:13,329 --> 00:00:16,260
+sobre tipos e visões, vamos ver a classificação eh
+
+3
+00:00:16,269 --> 00:00:19,940
+dos processos, Tá esse no esse será o nosso
+
+4
+00:00:19,949 --> 00:00:26,658
+assunto nesta eh pequeno nessa pequena eh aula aqui tá
+
+5
+00:00:26,670 --> 00:00:27,239
+legal.
+
+6
+00:00:27,250 --> 00:00:29,739
+Então olha, só eh dentro de uma perspectiva.
+
+7
+00:00:29,750 --> 00:00:30,949
+A primeira coisa que a gente vai entender é o
+
+8
+00:00:30,958 --> 00:00:33,079
+que é um processo primário, um processo de suporte
+
+9
+00:00:33,090 --> 00:00:35,060
+e um processo de gerenciamento.
+
+10
+00:00:35,399 --> 00:00:38,408
+É o que que é um processo primário, é
+
+11
+00:00:38,418 --> 00:00:40,770
+o que agrega valor diretamente ao cliente.
+
+12
+00:00:40,779 --> 00:00:46,368
+Fabricar um produto é um processo primário primário, porque
+
+13
+00:00:46,380 --> 00:00:49,109
+se eu não fabricar o produto, eu não vendo,
+
+14
+00:00:49,848 --> 00:00:52,950
+se eu não tiver o que fabricar, o que
+
+15
+00:00:52,959 --> 00:00:55,719
+produzir, tiver um produto, eu não tenho venda.
+
+16
+00:00:56,810 --> 00:00:58,618
+Se eu não tenho venda, eu não tenho mais
+
+17
+00:00:58,630 --> 00:01:02,798
+nada, né? E isso independe Tá, se
+
+18
+00:01:02,810 --> 00:01:05,138
+é um produto, um produto, um telefone,
+
+19
+00:01:05,150 --> 00:01:08,659
+um mouse, um computador ou um carro ou se
+
+20
+00:01:08,668 --> 00:01:09,900
+é um serviço.
+
+21
+00:01:09,909 --> 00:01:11,698
+Esse é o processo primário.
+
+22
+00:01:11,709 --> 00:01:12,939
+Um serviço também, eh, eh, eh,
+
+23
+00:01:12,948 --> 00:01:14,959
+não é? Não vou.
+
+24
+00:01:14,969 --> 00:01:16,019
+Eu não vou gerar um.
+
+25
+00:01:16,028 --> 00:01:17,338
+Vou fabricar um produto.
+
+26
+00:01:17,349 --> 00:01:17,969
+Eu vou fabricar.
+
+27
+00:01:17,980 --> 00:01:19,159
+Eu vou entregar um serviço.
+
+28
+00:01:19,168 --> 00:01:23,180
+Construção de uma parede, ligação de uma internet é
+
+29
+00:01:23,189 --> 00:01:25,620
+um serviço, mas vai ge-, vai eh gerar
+
+30
+00:01:25,629 --> 00:01:29,120
+um um produto ao final, né? Como resultado
+
+31
+00:01:29,129 --> 00:01:32,558
+disso, um produto nessa com essas características e a
+
+32
+00:01:32,569 --> 00:01:35,799
+gente fala que eh essa perspectiva do processo primário.
+
+33
+00:01:35,808 --> 00:01:39,040
+Representa vinte e vinte por cento das atividades? Pode
+
+34
+00:01:39,049 --> 00:01:42,079
+parecer pouco, né? Mas não é porque é
+
+35
+00:01:42,088 --> 00:01:45,180
+o processo mais básico que eu tenho, né?
+
+36
+00:01:45,189 --> 00:01:51,099
+O ah! Eu não gasto meu tempo fabricando efetivamente
+
+37
+00:01:51,109 --> 00:01:53,918
+se você for co- for, pensar numa perspectiva de
+
+38
+00:01:53,930 --> 00:01:56,620
+fabricação, de gerar um produto eh.
+
+39
+00:01:56,629 --> 00:01:59,540
+Eu gasto muito mais tempo naquilo que a gente fala
+
+40
+00:01:59,549 --> 00:02:03,698
+de processos de suporte que é o que tem relação
+
+41
+00:02:03,709 --> 00:02:08,740
+com o processo primário que precisa existir para o processo
+
+42
+00:02:08,750 --> 00:02:11,979
+eh acontecer, né? Por exemplo, a gente
+
+43
+00:02:11,990 --> 00:02:13,899
+tá falando aqui, tem um né? Um slide
+
+44
+00:02:13,909 --> 00:02:18,219
+de processo de recursos humanos, a organização, quanto
+
+45
+00:02:18,229 --> 00:02:20,939
+que ela gasta pra gerir, por exemplo? Recursos
+
+46
+00:02:20,949 --> 00:02:26,179
+humanos, contratar, treinar, okay, processo de
+
+47
+00:02:26,189 --> 00:02:33,179
+suporte, com escrever, um processo pra pagar tá?
+
+48
+00:02:33,189 --> 00:02:33,800
+Tá entendendo.
+
+49
+00:02:33,808 --> 00:02:37,360
+Então, tudo isso é processo de suporte, processo
+
+50
+00:02:37,368 --> 00:02:40,659
+pra realizar uma venda, pra realizar uma compra.
+
+51
+00:02:40,669 --> 00:02:43,838
+Isso é processo de suporte, que isso tudo vai
+
+52
+00:02:43,849 --> 00:02:44,520
+garantir.
+
+53
+00:02:44,528 --> 00:02:47,038
+Que o meu primário possa acontecer, que eu possa,
+
+54
+00:02:47,050 --> 00:02:49,159
+ao fabricar o produto, o meu insumo, esteja
+
+55
+00:02:49,169 --> 00:02:52,118
+lá que as pessoas estejam lá, treinadas, que
+
+56
+00:02:52,129 --> 00:02:54,199
+elas saibam que elas estão fazendo.
+
+57
+00:02:54,210 --> 00:02:58,800
+Eu gasto mais tempo nos no nesses processos de suporte
+
+58
+00:02:58,808 --> 00:03:02,058
+do que propriamente fabricando o produto.
+
+59
+00:03:02,689 --> 00:03:06,740
+Okay Então, eh isso precisa acontecer pra que ah,
+
+60
+00:03:06,750 --> 00:03:09,778
+o primário eh aconteça também.
+
+61
+00:03:09,788 --> 00:03:14,219
+Por mais que você tenha automatização nos seus processos e
+
+62
+00:03:14,229 --> 00:03:17,479
+tal, sempre vai ter um processo de suporte se
+
+63
+00:03:17,490 --> 00:03:18,639
+você vai lá né, igual a gente tava,
+
+64
+00:03:18,649 --> 00:03:21,000
+né, vai comprar na internet, alguém precisa pegar
+
+65
+00:03:21,008 --> 00:03:24,258
+teu produto fisicamente, tirar do do do do estoque,
+
+66
+00:03:24,270 --> 00:03:27,899
+colocar no embalar, colocar na distribuidora.
+
+67
+00:03:27,909 --> 00:03:29,538
+Alguém vai entregar isso pra você.
+
+68
+00:03:29,550 --> 00:03:32,500
+Tudo isso dá suporte a todo esse processo.
+
+69
+00:03:32,508 --> 00:03:36,508
+Primário, né? E depois nós temos os processos
+
+70
+00:03:36,520 --> 00:03:41,550
+de gestão, de gerenciamento, que é basicamente as
+
+71
+00:03:41,558 --> 00:03:45,960
+eh definir as estratégias organizacionais o onde eu estou,
+
+72
+00:03:45,969 --> 00:03:48,038
+onde eu quero chegar, qual é a minha estratégia,
+
+73
+00:03:48,050 --> 00:03:50,778
+Quais são as as minhas metas, os meus indicadores
+
+74
+00:03:50,788 --> 00:03:55,558
+é planejar o que eu vou entregar, né?
+
+75
+00:03:55,569 --> 00:03:59,278
+Isso é fundamental, que é o que a gente
+
+76
+00:03:59,288 --> 00:04:02,080
+fala de processo, de gere, de gerenciamento,
+
+77
+00:04:02,088 --> 00:04:04,319
+tá? Então? Eu gasto aí dez por cento
+
+78
+00:04:04,330 --> 00:04:07,788
+do meu tempo gerindo, né, gerindo.
+
+79
+00:04:07,800 --> 00:04:11,088
+É o quê? Planejando, alinhando, organizando,
+
+80
+00:04:11,099 --> 00:04:18,079
+pensando, definindo estratégias pra depois fazer com que isso
+
+81
+00:04:18,088 --> 00:04:21,678
+seja suportado te tenha um suporte adequado, entregue o
+
+82
+00:04:21,689 --> 00:04:26,069
+produto, eh a fabricação ao processo primário adequadamente,
+
+83
+00:04:26,079 --> 00:04:28,399
+né? São essas perspectivas que a gente tem que
+
+84
+00:04:28,410 --> 00:04:30,559
+tem? Tem que enxergar, né? Então,
+
+85
+00:04:30,569 --> 00:04:34,298
+se a gente olhar pros tipos de processo, nós
+
+86
+00:04:34,309 --> 00:04:36,790
+temos aqui os processos de gestão, né? O
+
+87
+00:04:36,798 --> 00:04:38,108
+processo de gestão tá aqui.
+
+88
+00:04:38,119 --> 00:04:43,988
+Estão na planejar a estratégia gestão de risco, gestão
+
+89
+00:04:44,000 --> 00:04:47,329
+de relação com o governo e gestão de projetos especiais.
+
+90
+00:04:47,588 --> 00:04:49,000
+É, então gestão planejada.
+
+91
+00:04:49,009 --> 00:04:52,069
+Estratégia nada mais é do que a organização mesmo pensar
+
+92
+00:04:52,079 --> 00:04:53,678
+no que ela vai entregar, o que que ela
+
+93
+00:04:53,689 --> 00:04:55,358
+vai produzir, etc etc.
+
+94
+00:04:55,369 --> 00:04:59,879
+Eh gerir? Risco é justamente eh olhar pra minha
+
+95
+00:04:59,889 --> 00:05:03,798
+organização e saber se eh investir naquilo é adequado ou
+
+96
+00:05:03,809 --> 00:05:06,720
+não? Eh se os meus concorrentes apresentam risco,
+
+97
+00:05:06,730 --> 00:05:09,000
+se o meu produto apresenta risco? Se as minhas
+
+98
+00:05:09,009 --> 00:05:12,625
+decisões apresentam risco ou correm riscos, né? Enfim,
+
+99
+00:05:12,634 --> 00:05:16,744
+faz parte de de, do, do, do
+
+100
+00:05:16,754 --> 00:05:18,725
+do do, da gestão, gerir, relação com
+
+101
+00:05:18,733 --> 00:05:20,584
+o governo é porque você tá se relacionando com o
+
+102
+00:05:20,595 --> 00:05:23,264
+mercado, tá tá relacionando com as leis, com
+
+103
+00:05:23,274 --> 00:05:24,004
+a questão.
+
+104
+00:05:24,014 --> 00:05:28,024
+EH governamental em si, eh de cobrança de impostos,
+
+105
+00:05:28,035 --> 00:05:30,504
+de de de tributos, obrigações legais e Etcetera e
+
+106
+00:05:30,514 --> 00:05:34,295
+a a questão de projetos especiais dentro da sua organização.
+
+107
+00:05:34,303 --> 00:05:38,858
+Quando a gente fala de eh negócio eu tô falando,
+
+108
+00:05:38,869 --> 00:05:42,139
+de projetar, implantar produtos e serviços, eu falo
+
+109
+00:05:42,149 --> 00:05:44,059
+de comercializar produtos e serviços.
+
+110
+00:05:44,069 --> 00:05:46,660
+Eu falo de entregar produtos e serviços, eu falo
+
+111
+00:05:46,670 --> 00:05:47,738
+de gestão de atendimento.
+
+112
+00:05:47,750 --> 00:05:50,660
+Isso tudo, olha aqui nascendo com meus fornecedores e
+
+113
+00:05:50,670 --> 00:05:53,358
+os meus parceiros e terminando com o meu cliente.
+
+114
+00:05:53,369 --> 00:05:55,939
+Este cara aqui é o meu, é o meu.
+
+115
+00:05:55,949 --> 00:05:58,470
+A minha figura central ali tá bom, e aqui
+
+116
+00:05:58,480 --> 00:06:02,345
+é a parte de suporte que dá garantia de que
+
+117
+00:06:02,355 --> 00:06:05,785
+pra cima ali tá vai acontecer, né? Eu
+
+118
+00:06:05,795 --> 00:06:09,225
+vou fazer a gestão das finanças, da contabilidade.
+
+119
+00:06:09,233 --> 00:06:11,024
+Eu vou fazer a gestão do meu processo pra saber
+
+120
+00:06:11,035 --> 00:06:13,024
+se aquilo que eu defini tá acontecendo.
+
+121
+00:06:13,035 --> 00:06:14,704
+Eu vou fazer a gestão da minha t I,
+
+122
+00:06:14,713 --> 00:06:17,855
+da minha infraestrutura, do meu suporte, alinhamento,
+
+123
+00:06:17,863 --> 00:06:20,983
+né? Então aqui são os tipos de processo.
+
+124
+00:06:20,994 --> 00:06:23,345
+Pode achar alguma coisa diferente em alguns outros atores,
+
+125
+00:06:23,355 --> 00:06:25,625
+mas em em Em suma, em base, a
+
+126
+00:06:25,634 --> 00:06:29,040
+gente tem que entender que suporte, negócio e gestão
+
+127
+00:06:29,048 --> 00:06:32,230
+são inte, eh, eh, eh integrantes de
+
+128
+00:06:32,238 --> 00:06:36,358
+um mesmo processo organizacional de uma mesma perspectiva organizacional e
+
+129
+00:06:36,369 --> 00:06:37,879
+não estão desassociado.
+
+130
+00:06:37,889 --> 00:06:43,769
+Estão associados, né? Eles nascem são trabalhados e
+
+131
+00:06:43,778 --> 00:06:47,278
+ofertam alguma coisa para eh o meu cliente.
+
+132
+00:06:47,290 --> 00:06:49,949
+Então isso aí tem que tá bem internalizado pra gente
+
+133
+00:06:49,959 --> 00:06:52,928
+dentro dessa perspectiva tá, eh, se a gente
+
+134
+00:06:52,939 --> 00:06:57,209
+falasse, pensar também da questão de de dessa visão
+
+135
+00:06:57,220 --> 00:06:58,809
+que a gente viu, a gente podia colocar uma
+
+136
+00:06:58,819 --> 00:07:01,970
+hi-, cria pensar numa hierarquização pra isso, em
+
+137
+00:07:01,980 --> 00:07:05,970
+que a gente teria macro, processa processo, atividade
+
+138
+00:07:05,980 --> 00:07:08,410
+e tarefa, né? Vamos de baixo pra cima
+
+139
+00:07:08,420 --> 00:07:09,309
+pra ficar mais entendido.
+
+140
+00:07:09,319 --> 00:07:11,928
+Então quando você faz uma solicitação de compra, corta
+
+141
+00:07:11,939 --> 00:07:15,338
+preço, analisa uma oferta de você ter uma atividade
+
+142
+00:07:15,350 --> 00:07:17,850
+que é validar, cotar preço pra compra, análise
+
+143
+00:07:17,858 --> 00:07:19,170
+é melhor que vai.
+
+144
+00:07:19,178 --> 00:07:21,869
+Vai ter um processo que é a solicitar a compra,
+
+145
+00:07:21,879 --> 00:07:23,608
+realizar a compra, receber, que vai ter um
+
+146
+00:07:23,619 --> 00:07:25,850
+macro processo que são serviços gerais com infraestrutura.
+
+147
+00:07:25,858 --> 00:07:30,559
+Vejam que eu tenho aqui uma base que vai chegar
+
+148
+00:07:30,569 --> 00:07:33,759
+até o meu macro processo, né? Então macro
+
+149
+00:07:33,769 --> 00:07:36,420
+processo é o processo mais geral.
+
+150
+00:07:36,428 --> 00:07:38,000
+E aí eu, dentro desse macro processo eu tenho
+
+151
+00:07:38,009 --> 00:07:41,480
+processos, atividades e a tarefa que é o que
+
+152
+00:07:41,488 --> 00:07:43,899
+eu estou executando basicamente a tarefa tá aqui.
+
+153
+00:07:43,910 --> 00:07:47,980
+Oh tarefa, né? E a atividade tá?
+
+154
+00:07:48,389 --> 00:07:52,079
+Então executa atividade formiguinha, vai lá, executa a
+
+155
+00:07:52,088 --> 00:07:54,160
+sua estação de compra vai lá executar a sua solicitação
+
+156
+00:07:54,170 --> 00:07:56,129
+de compra? Vai? Tá com um processo baseado
+
+157
+00:07:56,139 --> 00:07:57,319
+em serviços gerais.
+
+158
+00:07:57,329 --> 00:07:58,959
+Claro que a gente tá falando dos serviços gerais,
+
+159
+00:07:58,970 --> 00:08:02,209
+tem vários outros serviços, né? Eh os serviços
+
+160
+00:08:02,220 --> 00:08:06,088
+gerais eh, vai a ter a perspectiva de da
+
+161
+00:08:06,100 --> 00:08:10,750
+compra que vai desaguar na na parte da infraestrutura veja
+
+162
+00:08:10,759 --> 00:08:13,009
+eles estão interligados, o que a gente fala de
+
+163
+00:08:13,019 --> 00:08:18,000
+hierarquia é que eles têm uma um desdobramento ao longo
+
+164
+00:08:18,009 --> 00:08:21,259
+da cadeia pra que isso ocorra, né? Então,
+
+165
+00:08:21,269 --> 00:08:25,738
+eu não olho na perspectiva dum dum processo, olhando
+
+166
+00:08:25,750 --> 00:08:28,298
+só pra uma perspectiva de processo macro, Eu olho
+
+167
+00:08:28,309 --> 00:08:31,329
+pra perspectiva de como é que esse processo macro vai
+
+168
+00:08:31,338 --> 00:08:35,200
+acontecer e pra isso ele é desdobrado em várias outras
+
+169
+00:08:36,359 --> 00:08:40,308
+Eh atividades, né? Então, você tem,
+
+170
+00:08:40,317 --> 00:08:43,577
+dentro dessa classificação dessa hierarquização dessa questão de processo,
+
+171
+00:08:43,587 --> 00:08:44,989
+uma visão funcional.
+
+172
+00:08:44,999 --> 00:08:48,518
+A visão funcional é aquela baseada em unidade ou departamento.
+
+173
+00:08:48,528 --> 00:08:52,688
+Então, quando você olha, eh unidade ou departamento,
+
+174
+00:08:52,697 --> 00:08:55,148
+né? Você tá usando, olhando uma visão funcional
+
+175
+00:08:55,158 --> 00:08:57,508
+que a gente conhece muito por aqui oh, lembra
+
+176
+00:08:57,518 --> 00:09:02,320
+o tal do organograma aqui, bonitinho, oh aí,
+
+177
+00:09:02,330 --> 00:09:05,000
+vai, vim no organograma aqui, mais um bichinho
+
+178
+00:09:05,009 --> 00:09:08,080
+aqui aí vem pra cá, enfim, e o
+
+179
+00:09:08,090 --> 00:09:11,840
+organograma qualquer, né, tem uma visão funcional.
+
+180
+00:09:11,849 --> 00:09:15,558
+Visão vertical Tá legal assim? Tá, eh!
+
+181
+00:09:15,570 --> 00:09:19,678
+E aí você olha pra cá, unidade E também
+
+182
+00:09:19,690 --> 00:09:21,279
+assim elas têm que sair integrada.
+
+183
+00:09:21,288 --> 00:09:23,298
+Você tem visão de processo, ponto a ponto,
+
+184
+00:09:23,308 --> 00:09:24,719
+ou seja, é integração disso.
+
+185
+00:09:24,729 --> 00:09:26,259
+Tudo isso aqui tudo tem! Que tá integrado,
+
+186
+00:09:26,908 --> 00:09:30,519
+okay e por último cadeia de valor que aí você
+
+187
+00:09:30,529 --> 00:09:34,000
+vai incorporar a os os fornecedores, seus parceiros e
+
+188
+00:09:34,009 --> 00:09:34,359
+clientes.
+
+189
+00:09:34,369 --> 00:09:36,330
+Por quê? Porque o fornecedor é que tá te
+
+190
+00:09:36,340 --> 00:09:37,038
+entregando.
+
+191
+00:09:37,048 --> 00:09:40,038
+E parceiro tá te entregando em insumos, você interage
+
+192
+00:09:40,048 --> 00:09:43,019
+com ele, né? Os seus eh os nossos
+
+193
+00:09:43,029 --> 00:09:43,519
+clientes.
+
+194
+00:09:43,529 --> 00:09:47,779
+É o que eu tenho que eh efetivamente atender,
+
+195
+00:09:47,788 --> 00:09:50,729
+agregar valor, E isso tudo de uma forma organizada
+
+196
+00:09:50,739 --> 00:09:53,558
+de uma forma estruturada de uma forma em que aconteça
+
+197
+00:09:53,570 --> 00:09:56,178
+ponta a ponta, né? Não tenha nenhum tipo
+
+198
+00:09:56,190 --> 00:09:58,940
+de quebra nesse meio do caminho.
+
+199
+00:09:58,950 --> 00:10:00,558
+E isso tudo uma visão holística.
+
+200
+00:10:00,570 --> 00:10:02,239
+Okay Obrigado até
+

@@ -1,0 +1,780 @@
+1
+00:00:06,519 --> 00:00:10,148
+Vamos continuar falando de governança de processos.
+
+2
+00:00:10,159 --> 00:00:14,089
+Agora vamos falar sobre os aspectos da governança de processos,
+
+3
+00:00:14,099 --> 00:00:17,079
+né? Já vimos que a governança nos dá direção.
+
+4
+00:00:17,089 --> 00:00:18,728
+Os controles.
+
+5
+00:00:18,739 --> 00:00:23,394
+Vimos Também percebemos que a governança não é só em
+
+6
+00:00:23,405 --> 00:00:26,033
+que pese estarmos falando de governança de processo.
+
+7
+00:00:26,045 --> 00:00:29,954
+Mas nós temos governança ambiental, temos governança de T
+
+8
+00:00:29,964 --> 00:00:32,533
+I, temos governança corporativa.
+
+9
+00:00:32,543 --> 00:00:36,395
+E essa governança, Então, ela permeia toda a
+
+10
+00:00:36,404 --> 00:00:39,814
+nossa organização.
+
+11
+00:00:40,459 --> 00:00:45,310
+Quando ela quer realmente ter essa direção e esse controle
+
+12
+00:00:45,319 --> 00:00:49,139
+de forma estruturada, de forma que possa agregar ao
+
+13
+00:00:49,149 --> 00:00:49,829
+valor, né.
+
+14
+00:00:49,840 --> 00:00:55,109
+Que possa realmente contribuir com os resultados organizacionais, né?
+
+15
+00:00:55,118 --> 00:00:59,109
+Óbvio que quanto maior a governança, maior a direção
+
+16
+00:00:59,118 --> 00:01:05,153
+maior o controle, né? Eh você vai automaticamente,
+
+17
+00:01:05,165 --> 00:01:06,995
+né? Vamos dizer assim, desaguar na na,
+
+18
+00:01:07,004 --> 00:01:11,094
+na gestão que é integrada A governança GOVERNANÇA gestão,
+
+19
+00:01:11,105 --> 00:01:13,433
+você vai conseguir entregar seus processos.
+
+20
+00:01:13,444 --> 00:01:16,875
+Ou seja, você tem todo um aparato, né?
+
+21
+00:01:16,885 --> 00:01:21,385
+Que suporta o andamento da sua organização.
+
+22
+00:01:21,394 --> 00:01:24,653
+Okay Quando a gente fala desses aspectos de governança,
+
+23
+00:01:25,349 --> 00:01:30,879
+eu tenho que entender que eles estão buscando a orientação
+
+24
+00:01:30,888 --> 00:01:33,558
+da minha execução de processos empresariais.
+
+25
+00:01:33,569 --> 00:01:35,278
+Isso porque a gente tá falando de governança, de
+
+26
+00:01:35,290 --> 00:01:39,379
+processo, e aí é importante a gente eh,
+
+27
+00:01:40,198 --> 00:01:44,609
+eh pontuar, eh três perspectivas aqui primeiro, que
+
+28
+00:01:44,620 --> 00:01:48,329
+deve, olha aqui determinando o que deve ser feito.
+
+29
+00:01:48,338 --> 00:01:51,000
+Então, quando eu falo de governança pro de processos,
+
+30
+00:01:51,010 --> 00:01:54,069
+orientado a execução de gestão de processos, empresariais,
+
+31
+00:01:54,079 --> 00:01:55,808
+né, Eu tenho que fazer o que é que
+
+32
+00:01:55,819 --> 00:01:58,808
+eu tenho que fazer primeira coisa, né? O
+
+33
+00:01:58,819 --> 00:02:00,859
+que eu, o que eu vou fazer Tá?
+
+34
+00:02:00,870 --> 00:02:03,448
+Essa é uma decisão importante, né? Então igual
+
+35
+00:02:03,459 --> 00:02:06,689
+aquela aquela brincadeira da Alice, né? Aquela pergunta
+
+36
+00:02:06,698 --> 00:02:11,250
+lá pro gato eh eh onde eh onde vai dar
+
+37
+00:02:11,258 --> 00:02:13,149
+esse caminho? Mais ou menos assim ele fala assim
+
+38
+00:02:13,159 --> 00:02:15,449
+Cê sabe onde é que você quer ir? Ela
+
+39
+00:02:15,460 --> 00:02:17,469
+não, não sei, Então qualquer caminho, caminho
+
+40
+00:02:17,479 --> 00:02:17,669
+serve.
+
+41
+00:02:17,679 --> 00:02:19,330
+Então, se você não sabe o que você vai
+
+42
+00:02:19,338 --> 00:02:22,088
+fazer, qualquer coisa que você adotar, tá valendo.
+
+43
+00:02:22,099 --> 00:02:25,270
+E não é esse o pressuposto de uma organização,
+
+44
+00:02:25,278 --> 00:02:27,308
+né, Ela tem que saber o que vai ser
+
+45
+00:02:27,319 --> 00:02:27,868
+feito.
+
+46
+00:02:27,879 --> 00:02:29,729
+Isso é pressuposto básico.
+
+47
+00:02:29,740 --> 00:02:31,349
+Se ela não conhece, não sabe o que vai
+
+48
+00:02:31,360 --> 00:02:32,069
+lá entregar.
+
+49
+00:02:32,080 --> 00:02:36,250
+Fica muito difícil de dar uma continuidade nas suas estratégias
+
+50
+00:02:36,258 --> 00:02:38,969
+nas suas decisões e tudo mais, né depois olha
+
+51
+00:02:38,979 --> 00:02:42,028
+só quem faz isso, quem é que tá fazendo?
+
+52
+00:02:42,679 --> 00:02:46,050
+Quem é que está por trás da execução, daquilo
+
+53
+00:02:46,058 --> 00:02:49,368
+que foi definido Que o que E como isso vai,
+
+54
+00:02:49,379 --> 00:02:54,069
+se eh como deve ser feito esse processo pra sustentar
+
+55
+00:02:54,080 --> 00:02:57,508
+e melhorar o desempenho, né? São palavrinhas aí!
+
+56
+00:02:57,520 --> 00:03:01,409
+Eh bem pontuadas no meio desse contexto de governança de
+
+57
+00:03:01,419 --> 00:03:05,758
+processos quantoà orientação de da de dessa atividade,
+
+58
+00:03:05,770 --> 00:03:09,659
+em que eu preciso responder, né? De forma
+
+59
+00:03:09,669 --> 00:03:12,800
+adequada e assertiva pra que eu possa? Cons,
+
+60
+00:03:12,808 --> 00:03:16,778
+eh, eh efetivamente garantir a o processo que eu
+
+61
+00:03:16,788 --> 00:03:19,058
+tô fazendo, né? Então, olha só deve
+
+62
+00:03:19,069 --> 00:03:20,379
+ser o que deve ser feito.
+
+63
+00:03:20,389 --> 00:03:24,375
+Quem, como deve ser feito para sustentar ou melhorar
+
+64
+00:03:24,383 --> 00:03:27,585
+o desempenho? De forma que a empresa consolide as
+
+65
+00:03:27,594 --> 00:03:31,694
+iniciativas da gestão de processos dentro das normas, regras
+
+66
+00:03:31,705 --> 00:03:32,375
+e diretrizes.
+
+67
+00:03:32,383 --> 00:03:36,534
+E, olha só, importante todas, caminhe em
+
+68
+00:03:36,544 --> 00:03:38,794
+direção a um objetivo comum.
+
+69
+00:03:38,804 --> 00:03:42,913
+Isso é o que uma organização séria se pressupõe.
+
+70
+00:03:42,925 --> 00:03:47,413
+Todos caminhando em busca do mesmo objetivo, de atingir
+
+71
+00:03:47,425 --> 00:03:52,240
+o mesmo ponto, né? EH bom! Eh
+
+72
+00:03:52,250 --> 00:03:56,679
+esse esse essa visão que está aqui, né?
+
+73
+00:03:56,689 --> 00:04:00,179
+Esse parágrafo que está aqui Ele foi tirado aí fica
+
+74
+00:04:00,189 --> 00:04:02,868
+aí pra conhecimento do b PM.
+
+75
+00:04:02,879 --> 00:04:05,879
+EBook, né? B PM é o livro,
+
+76
+00:04:05,889 --> 00:04:09,000
+né? Do do de gestão de processos Okay.
+
+77
+00:04:09,008 --> 00:04:12,058
+Então ele é um um um um compêndio lá,
+
+78
+00:04:12,069 --> 00:04:15,419
+que dá toda toda a estrutura pra Quem quer fazer
+
+79
+00:04:15,429 --> 00:04:16,994
+gestão de processo tá legal.
+
+80
+00:04:17,004 --> 00:04:19,545
+Então, quem quer fazer gestão de processo na organização
+
+81
+00:04:19,553 --> 00:04:22,514
+foca ali no No, se e-book ele é o
+
+82
+00:04:22,524 --> 00:04:23,514
+seu manual.
+
+83
+00:04:23,524 --> 00:04:25,153
+É o seu guia, né? Pra quem tá
+
+84
+00:04:25,165 --> 00:04:26,875
+trabalhando com processo, vamos dizer que seria o livro
+
+85
+00:04:26,884 --> 00:04:27,634
+de cabeceira.
+
+86
+00:04:27,644 --> 00:04:28,514
+Tá legal.
+
+87
+00:04:28,524 --> 00:04:31,494
+E é claro que essa ideia de governança, ela
+
+88
+00:04:31,504 --> 00:04:34,814
+vem dessa ideia De dessa, dessa perspectiva, de
+
+89
+00:04:34,824 --> 00:04:38,875
+não ter iniciativas isoladas, né? E desconexas de
+
+90
+00:04:38,884 --> 00:04:39,834
+gestão de processo.
+
+91
+00:04:39,845 --> 00:04:44,338
+Ou seja, eu tenho elementos que devem nortear o
+
+92
+00:04:44,350 --> 00:04:45,639
+meu O meu processo.
+
+93
+00:04:45,649 --> 00:04:48,819
+Por exemplo, a estrutura de responsabilidade, padrões de
+
+94
+00:04:48,829 --> 00:04:52,778
+desenvolvimento, metodologia de trabalho, mecanismos de controle e
+
+95
+00:04:52,790 --> 00:04:56,220
+uma série de outros né? Eh planos e ações
+
+96
+00:04:56,230 --> 00:04:59,459
+divulgação ou seja, tudo deve ser interligado.
+
+97
+00:04:59,470 --> 00:05:01,944
+Não é isolado do processo, ele faz parte de
+
+98
+00:05:01,954 --> 00:05:02,704
+um todo.
+
+99
+00:05:02,713 --> 00:05:04,764
+Ele faz parte de, do, do, do,
+
+100
+00:05:04,774 --> 00:05:08,983
+do de de uma visão, eh bem grandiosa,
+
+101
+00:05:08,994 --> 00:05:14,004
+bem holística da organização, né? E eh ali
+
+102
+00:05:14,014 --> 00:05:16,665
+eh essa perspectiva, ela pode ser trabalhada, e
+
+103
+00:05:16,673 --> 00:05:19,483
+é sugerida, né? Por alguns autores, eh.
+
+104
+00:05:19,928 --> 00:05:23,139
+Pra implantar a governança, né? A a perspectiva
+
+105
+00:05:23,149 --> 00:05:26,160
+de se trabalhar com o escritório de processo, né.
+
+106
+00:05:26,170 --> 00:05:30,338
+Que é o foco do escritório de processo É justamente
+
+107
+00:05:30,350 --> 00:05:33,619
+ter ter essa base né? Ou promover essa base
+
+108
+00:05:33,629 --> 00:05:37,250
+pra governança corporativa orientando a gestão de processo, né?
+
+109
+00:05:37,259 --> 00:05:41,949
+Então ele passa a ter um papel central dentro dessas
+
+110
+00:05:41,959 --> 00:05:42,709
+perspectivas.
+
+111
+00:05:42,720 --> 00:05:46,709
+E aí eu nós temos aí um um um um
+
+112
+00:05:46,720 --> 00:05:50,250
+um, uma estrutura, né? Que pressupõe?
+
+113
+00:05:50,259 --> 00:05:53,329
+Que eh, eh, eh que vamos dizer assim
+
+114
+00:05:53,678 --> 00:05:58,769
+que eh mostra aqui uma sugestão de um escritório de
+
+115
+00:05:58,778 --> 00:06:01,528
+processos, né? Que eh, neste caso vai
+
+116
+00:06:01,540 --> 00:06:05,290
+atuar como bússola estratégica pra alinhar os processos de negócios
+
+117
+00:06:05,298 --> 00:06:06,730
+com os objetivos corporativos.
+
+118
+00:06:06,738 --> 00:06:09,689
+Então eu crio um escritório, eu crio uma estrutura
+
+119
+00:06:09,699 --> 00:06:12,689
+pra apoiar o meu processo, eu crio uma eh
+
+120
+00:06:12,699 --> 00:06:16,588
+eh uma base em que possa ofertar né.
+
+121
+00:06:16,600 --> 00:06:21,569
+Eh esses pilares eh, eh pra que haja governança
+
+122
+00:06:21,579 --> 00:06:24,139
+de processo E observe que olha que interessante, né.
+
+123
+00:06:24,149 --> 00:06:26,259
+Que a gente tava falando de de governança e eu
+
+124
+00:06:26,269 --> 00:06:29,528
+falei de governança corporativa Porque a governança põe vários tipos
+
+125
+00:06:29,540 --> 00:06:31,488
+de governança e aqui a gente vai ver que os
+
+126
+00:06:31,500 --> 00:06:35,449
+pilares da governança de processo olha, eles fazem parte
+
+127
+00:06:35,459 --> 00:06:37,209
+da minha governança corporativa.
+
+128
+00:06:37,220 --> 00:06:40,694
+Então, governa corporativa é sempre o o preço maior
+
+129
+00:06:40,704 --> 00:06:42,303
+na nossa perspectiva.
+
+130
+00:06:42,314 --> 00:06:44,733
+E o que que vai? Quais são os pilares
+
+131
+00:06:44,744 --> 00:06:48,113
+dessa governança de processo? Envolve a cadeia de valor?
+
+132
+00:06:48,125 --> 00:06:51,994
+Ela envolve a arquitetura dos processos, né? Ela
+
+133
+00:06:52,004 --> 00:06:55,634
+envolve dentro dessa cadeia de valor da arquitetura de processo,
+
+134
+00:06:55,644 --> 00:06:59,954
+desdobramento de estratégias, analisar a demanda de processo,
+
+135
+00:07:00,488 --> 00:07:04,100
+avaliar como o trabalho está sendo feito hoje, planejar
+
+136
+00:07:04,108 --> 00:07:08,100
+as prioridades, gerenciar a execução desse trabalho, divulgar
+
+137
+00:07:08,108 --> 00:07:09,369
+o resultado, né.
+
+138
+00:07:09,379 --> 00:07:11,819
+Então, isso aqui veja só é um integrado,
+
+139
+00:07:11,829 --> 00:07:15,199
+de como eu vou estruturar o meu escritório de processo.
+
+140
+00:07:15,209 --> 00:07:17,100
+O que mais que tem no meu escritório de processo,
+
+141
+00:07:17,108 --> 00:07:19,939
+né? Olha aqui oh a parte de execução,
+
+142
+00:07:19,949 --> 00:07:25,879
+suporte e monitoramento que envolve lá as práticas de comp
+
+143
+00:07:25,889 --> 00:07:30,399
+Envolve a parte de riscos corporativos, a a parte
+
+144
+00:07:30,410 --> 00:07:33,399
+de informação do suporte, a gestão da informação,
+
+145
+00:07:33,410 --> 00:07:36,759
+evolução de maturidade, né? Você tem arquitetura,
+
+146
+00:07:36,769 --> 00:07:39,238
+você tem gestão de melhorias? Viu? Então,
+
+147
+00:07:39,250 --> 00:07:43,480
+assim isso essa execução e suporte.
+
+148
+00:07:43,488 --> 00:07:46,389
+Ela está dentro de uma estrutura de cadeia, de
+
+149
+00:07:46,399 --> 00:07:47,939
+valor, da estrutura de processo.
+
+150
+00:07:48,319 --> 00:07:51,988
+E aí o desenvolvimento do escritório de processo, que
+
+151
+00:07:52,000 --> 00:07:54,410
+é essa parte aqui que tá alinhada ali A A,
+
+152
+00:07:54,420 --> 00:07:57,209
+a essa, eh esse escopo do meu trabalho,
+
+153
+00:07:57,220 --> 00:08:00,488
+ao planejamento da minha atividade, né? A parte
+
+154
+00:08:00,500 --> 00:08:05,629
+de de realmente fazer o O O O Meu.
+
+155
+00:08:05,639 --> 00:08:08,988
+O meu processo Ela envolve o planejamento, o mapeamento,
+
+156
+00:08:09,000 --> 00:08:15,709
+padronização, a implantação, a gestão medição, análise,
+
+157
+00:08:15,720 --> 00:08:16,160
+inovação.
+
+158
+00:08:16,170 --> 00:08:20,750
+Então todos esses pressupostos que estão aqui fazem parte do
+
+159
+00:08:20,759 --> 00:08:22,670
+desenvolvimento do meu escritório de processo, então uma boa
+
+160
+00:08:22,678 --> 00:08:27,230
+base pra gente construir essa condição dentro da organização.
+
+161
+00:08:27,238 --> 00:08:31,428
+E, por fim, a gestão do meu escritório
+
+162
+00:08:31,439 --> 00:08:32,109
+pressupõe.
+
+163
+00:08:32,119 --> 00:08:35,599
+Já falamos ao monitoramento, vem o suporte ao desenvolvimento
+
+164
+00:08:35,609 --> 00:08:39,830
+de projeto, vem acompanhamento da evolução dos escritórios,
+
+165
+00:08:39,840 --> 00:08:42,750
+vem a parte de gestão de educação, vem a
+
+166
+00:08:42,759 --> 00:08:44,210
+parte do orçamento financeiro.
+
+167
+00:08:44,298 --> 00:08:48,210
+Ou seja, a gente tem aqui uma boa perspectiva
+
+168
+00:08:48,219 --> 00:08:50,529
+para a construção de um escritório de processo.
+
+169
+00:08:50,538 --> 00:08:54,668
+Claro que eh você pode ajustar o teu escritório de
+
+170
+00:08:54,678 --> 00:08:58,330
+processo ou as atividades e a e organizar pra um
+
+171
+00:08:58,340 --> 00:09:01,989
+melhor resultado da sua eh organização, né? Não
+
+172
+00:09:02,000 --> 00:09:04,450
+quer dizer que isso aqui seja a verdade absoluta.
+
+173
+00:09:04,460 --> 00:09:07,529
+Essa é uma sugestão, eh de de de do
+
+174
+00:09:07,538 --> 00:09:09,788
+de um autor, né? Que a gente trouxe
+
+175
+00:09:09,798 --> 00:09:13,700
+pra dentro do do trabalho! E essa sugestão acaba.
+
+176
+00:09:13,710 --> 00:09:16,840
+Ah, nos permitindo! Ah ter esse essa esse
+
+177
+00:09:16,849 --> 00:09:20,259
+controle, né? Melhor organização de como estruturar os
+
+178
+00:09:20,269 --> 00:09:21,399
+processos dentro da organização.
+
+179
+00:09:21,408 --> 00:09:23,859
+E que escritório de processo, Porque o processo é
+
+180
+00:09:23,869 --> 00:09:27,479
+um, é um aspecto importantíssimo dentro da empresa,
+
+181
+00:09:27,489 --> 00:09:30,259
+né? Ele nos dá todo aquele alinhamento toda,
+
+182
+00:09:30,269 --> 00:09:32,259
+aquela estrutura, toda aquela integração, que a gente
+
+183
+00:09:32,269 --> 00:09:35,538
+vai buscar, né? E é o o escritório
+
+184
+00:09:35,548 --> 00:09:36,340
+de processos.
+
+185
+00:09:36,349 --> 00:09:38,519
+Ele acaba gerando um cara que a gente chama de
+
+186
+00:09:38,529 --> 00:09:42,190
+repositório de processo que ele vai ter, a governança
+
+187
+00:09:42,200 --> 00:09:46,489
+desse processo por meio da priorização da prioridade dos indicadores,
+
+188
+00:09:46,500 --> 00:09:50,399
+né? Ele vai ter os níveis de gestão,
+
+189
+00:09:50,408 --> 00:09:53,349
+o ciclo de vida, então repositório de processo O
+
+190
+00:09:53,359 --> 00:09:54,989
+próprio nome tá dizendo é onde vão? Tá,
+
+191
+00:09:55,000 --> 00:09:57,590
+todos os meus processos ali em que eu posso usar,
+
+192
+00:09:57,599 --> 00:09:59,229
+posso criar.
+
+193
+00:09:59,239 --> 00:10:01,750
+Vou colocar, vou atualizar, vou liberar.
+
+194
+00:10:01,759 --> 00:10:04,500
+Vou interagir, Okay! Essa é a nossa aula
+
+195
+00:10:04,509 --> 00:10:07,288
+sobre aspectos de governança de processo Até a próxima
+

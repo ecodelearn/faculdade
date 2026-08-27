@@ -1,0 +1,884 @@
+1
+00:00:06,469 --> 00:00:09,519
+Olá, seja bem vindo, vamos aprofundar um pouco
+
+2
+00:00:09,528 --> 00:00:13,079
+mais nosso conhecimento acerca dos modelos S S e o
+
+3
+00:00:13,089 --> 00:00:15,419
+modelo e o desenho de processo.
+
+4
+00:00:15,429 --> 00:00:19,879
+Nós falamos isso na na nas nas nossas interações anteriores.
+
+5
+00:00:19,888 --> 00:00:25,318
+E agora vamos reforçar esse entendimento desse assunto tão relevante
+
+6
+00:00:25,329 --> 00:00:27,539
+na questão do processo, que é o eis que
+
+7
+00:00:27,548 --> 00:00:29,649
+é o, né? O eis é o modelo
+
+8
+00:00:29,658 --> 00:00:31,989
+atual e o tio B pra onde eu quero estar?
+
+9
+00:00:32,000 --> 00:00:33,959
+É onde eu quero levar o processo.
+
+10
+00:00:33,969 --> 00:00:35,569
+Vamos dizer assim tá legal.
+
+11
+00:00:35,579 --> 00:00:39,209
+Bom, considerando essa perspectiva, a gente precisa Eh,
+
+12
+00:00:39,219 --> 00:00:41,630
+vamos reforçar essa questão do modelo is, Então já
+
+13
+00:00:41,639 --> 00:00:43,868
+falou que o modelos e existe é a compressão da
+
+14
+00:00:43,880 --> 00:00:45,569
+situação atual.
+
+15
+00:00:45,579 --> 00:00:47,569
+Envolve o que o modelo existe.
+
+16
+00:00:47,579 --> 00:00:51,950
+Envolve o que né? Envolve documentação, Então o
+
+17
+00:00:51,959 --> 00:00:53,270
+modelo existe.
+
+18
+00:00:53,279 --> 00:00:57,889
+Envolve você ter eh a documentação desse processo, né?
+
+19
+00:00:57,899 --> 00:01:02,130
+O que que pressupõe essa essa documentação? As ferramentas
+
+20
+00:01:02,598 --> 00:01:06,489
+que você utilizou para desenhar aquele processo pra escrever aquele
+
+21
+00:01:06,500 --> 00:01:08,888
+processo? Então pode ser um fluxograma.
+
+22
+00:01:08,900 --> 00:01:11,790
+Pode ser um diagrama, pode ser um texto,
+
+23
+00:01:12,558 --> 00:01:15,409
+né? Do do estado atual não.
+
+24
+00:01:15,418 --> 00:01:18,198
+Não tem aqui uma regra, uma receita.
+
+25
+00:01:18,209 --> 00:01:19,519
+Ele falou assim Oh, você tá certo e eh
+
+26
+00:01:19,528 --> 00:01:20,778
+ou tá errado? Não.
+
+27
+00:01:21,750 --> 00:01:25,659
+A documentação é a materialização do teu processo.
+
+28
+00:01:26,388 --> 00:01:30,719
+Por que materialização? Porque você tira do pensamento de
+
+29
+00:01:30,730 --> 00:01:34,579
+um plano astral que coloca no papel vamos dizer assim,
+
+30
+00:01:34,588 --> 00:01:38,680
+né? Ou seja, você efetivamente escreveu ele,
+
+31
+00:01:38,689 --> 00:01:42,299
+você formalizou isso, então a a documentação, né?
+
+32
+00:01:43,069 --> 00:01:45,760
+Eh, eh, é essa compreensão do sistema da
+
+33
+00:01:45,769 --> 00:01:46,299
+situação tal.
+
+34
+00:01:46,308 --> 00:01:49,138
+Ah, vamos lá Você pode tá fazendo uma pergunta
+
+35
+00:01:49,150 --> 00:01:51,659
+aqui vendo tua mente poxa, mas eu não tenho
+
+36
+00:01:51,668 --> 00:01:54,359
+a documentação, o processo está na minha cabeça ou
+
+37
+00:01:54,370 --> 00:01:55,909
+o processo tá na cabeça do fulano.
+
+38
+00:01:55,918 --> 00:01:58,028
+Opa pera aí okay show, o que que cê
+
+39
+00:01:58,040 --> 00:02:01,069
+vai fazer? Tira de lá, Você vai documentar
+
+40
+00:02:01,079 --> 00:02:03,469
+o is, pressupõe a documentação.
+
+41
+00:02:03,480 --> 00:02:06,870
+O conhecimento vai ser formalizado, colocando lá no papel
+
+42
+00:02:06,879 --> 00:02:08,990
+lá o que você tem lá e o método que
+
+43
+00:02:09,000 --> 00:02:11,758
+você vai usar aí é dentro da sua organização.
+
+44
+00:02:11,770 --> 00:02:14,788
+Se você vai fazer um texto escrito lá, discorrendo
+
+45
+00:02:14,800 --> 00:02:16,610
+cada uma das etapas, se você vai fazer um
+
+46
+00:02:16,618 --> 00:02:18,909
+fluxograma, se você vai fazer um diagrama, a
+
+47
+00:02:18,919 --> 00:02:20,179
+gente já viu, né? Alguns diagramas no ano
+
+48
+00:02:20,189 --> 00:02:22,990
+passado, no caso de desenvolvimento, o ML nós
+
+49
+00:02:23,000 --> 00:02:25,508
+já vimos o a nota eh o o O b
+
+50
+00:02:25,520 --> 00:02:29,028
+PM e a anotação de de de de Gerenciamento de
+
+51
+00:02:29,038 --> 00:02:32,618
+Processo Okay, não importa! Vai colocar no papel.
+
+52
+00:02:32,629 --> 00:02:35,389
+A partir daí você já tem essa essa compre.
+
+53
+00:02:35,399 --> 00:02:38,349
+Você já tá começando a compreender o teu processo aí,
+
+54
+00:02:38,360 --> 00:02:41,490
+olhando pra aquele processo, que que cê vai fazer?
+
+55
+00:02:41,500 --> 00:02:44,389
+Você vai identificar os problemas dele.
+
+56
+00:02:44,399 --> 00:02:47,508
+Quais são os gargalos? Se tem redundância, tem
+
+57
+00:02:47,520 --> 00:02:50,500
+falha, tem alguma ineficiência? Cê vai olhar o
+
+58
+00:02:50,508 --> 00:02:53,929
+teu processo como foi descrito e vai avaliar, né?
+
+59
+00:02:54,830 --> 00:02:58,860
+Eh os possíveis problemas dentro desse processo É sempre com
+
+60
+00:02:58,868 --> 00:03:01,599
+o pensamento de melhoria, vou melhorar, né?
+
+61
+00:03:01,610 --> 00:03:03,360
+Então cê olhou, o processo poxa, não é
+
+62
+00:03:03,368 --> 00:03:05,639
+ficar reclamando quem escreveu isso e se tá errado,
+
+63
+00:03:05,649 --> 00:03:07,000
+não é esse o foco.
+
+64
+00:03:07,008 --> 00:03:09,038
+O foco é você melhorar.
+
+65
+00:03:09,050 --> 00:03:11,319
+Não é olhar o passado, quem fez o que
+
+66
+00:03:11,330 --> 00:03:13,639
+fez achar culpado, nada esquece.
+
+67
+00:03:13,649 --> 00:03:16,429
+Agora a gente vai olhar na perspectiva de melhoria e
+
+68
+00:03:16,439 --> 00:03:19,679
+a melhoria é de qualquer juízo de valor.
+
+69
+00:03:19,689 --> 00:03:22,278
+E vamos tentar me eh trabalhar isso aí pra isso
+
+70
+00:03:22,288 --> 00:03:25,199
+a gente identifica problema tá? Depois a gente faz
+
+71
+00:03:25,210 --> 00:03:25,979
+a coleta.
+
+72
+00:03:25,990 --> 00:03:29,118
+Ou seja, eh pra eu eu identifiquei o problema,
+
+73
+00:03:29,129 --> 00:03:31,399
+agora eu vou ter eh estabelecer uma métrica, uma
+
+74
+00:03:31,409 --> 00:03:34,360
+estatística ou uma linha de base que me ajude a
+
+75
+00:03:34,368 --> 00:03:35,219
+perceber.
+
+76
+00:03:35,508 --> 00:03:38,278
+Eh entender aquele processo okay.
+
+77
+00:03:38,288 --> 00:03:41,599
+Nada melhor do que você eh comprovar por meio de
+
+78
+00:03:41,610 --> 00:03:45,038
+um método científico, um valor, uma métrica,
+
+79
+00:03:45,050 --> 00:03:48,860
+uma estatística de como você pode trabalhar aquele processo de
+
+80
+00:03:48,868 --> 00:03:51,099
+como aqueles processos se se estabelece.
+
+81
+00:03:51,110 --> 00:03:54,949
+Okay Então se eu falar pra você zero a dez
+
+82
+00:03:54,960 --> 00:03:55,868
+é boa, é ruim.
+
+83
+00:03:55,879 --> 00:03:57,429
+Depende da perspectiva.
+
+84
+00:03:57,439 --> 00:04:00,508
+Qual é a métrica de zero a dez, né?
+
+85
+00:04:00,520 --> 00:04:01,949
+Eh desculpa, perdão, não.
+
+86
+00:04:01,960 --> 00:04:03,058
+Zero a dez, né? Vamos colocar se eu
+
+87
+00:04:03,069 --> 00:04:03,349
+falar assim.
+
+88
+00:04:03,360 --> 00:04:06,389
+Dez dez É bom ou é ruim? Depende no
+
+89
+00:04:06,399 --> 00:04:06,729
+de.
+
+90
+00:04:06,740 --> 00:04:08,508
+Se for de zero a cem, dez, é
+
+91
+00:04:08,520 --> 00:04:08,909
+ruim.
+
+92
+00:04:08,919 --> 00:04:10,949
+Se for de zero a dez, zero, dez
+
+93
+00:04:10,960 --> 00:04:13,149
+é bom, Então é essa a perspectiva, né?
+
+94
+00:04:13,159 --> 00:04:16,108
+Então, esses valores, essa coleta de dados pra
+
+95
+00:04:16,119 --> 00:04:18,389
+esse entendimento ele eh.
+
+96
+00:04:18,399 --> 00:04:21,750
+A gente usa um método qualitativo ou quantitativo, um
+
+97
+00:04:21,759 --> 00:04:24,108
+método científico lá, né? Aplicando aquilo pra ter
+
+98
+00:04:24,119 --> 00:04:27,629
+uma essa linha de base pra estabelecer o a aquela
+
+99
+00:04:27,639 --> 00:04:30,649
+aquele falar Olha, esse dez aqui ele é ruim,
+
+100
+00:04:31,079 --> 00:04:32,449
+tá, tem uma linha de base aí.
+
+101
+00:04:32,459 --> 00:04:35,389
+A partir daí você pode começar a trabalhar E aí
+
+102
+00:04:35,399 --> 00:04:36,889
+você vai fazer a questão.
+
+103
+00:04:36,899 --> 00:04:38,809
+Você vai ter o seu A a P a próxima
+
+104
+00:04:38,819 --> 00:04:41,149
+etapa né? De de de compressão.
+
+105
+00:04:41,160 --> 00:04:44,389
+Eh entrevistas e feedback! Cê vai conversar com os
+
+106
+00:04:44,399 --> 00:04:48,608
+interessados rod, os funcionários clientes e as perspectivas acerca
+
+107
+00:04:48,619 --> 00:04:53,000
+de problemas e oportunidades, né? Dentro do projeto
+
+108
+00:04:53,009 --> 00:04:56,459
+Oh Entrevistas de feedback, oh então funcionário cliente eh!
+
+109
+00:04:56,470 --> 00:04:59,459
+E aí você vai ver com essas pessoas, né?
+
+110
+00:04:59,470 --> 00:05:01,678
+Eh! Eh o processo em si e o que
+
+111
+00:05:01,689 --> 00:05:04,048
+ele pode trazer eh o que ele tem de problema
+
+112
+00:05:04,059 --> 00:05:05,399
+e o que ele pode trazer de oportunidade.
+
+113
+00:05:05,410 --> 00:05:08,238
+Ou seja, vamos expandir um pouco, eh este
+
+114
+00:05:08,250 --> 00:05:12,290
+conhecimento, tá bom, Compreendi o o, vou
+
+115
+00:05:12,298 --> 00:05:13,689
+ver o modelo.
+
+116
+00:05:13,699 --> 00:05:18,528
+Então o modelo pra eu derivar pra eu derivar aonde
+
+117
+00:05:18,540 --> 00:05:20,369
+eu quero e aonde eu vou chegar? Eu tenho
+
+118
+00:05:20,379 --> 00:05:23,088
+que saber onde eu estou, Okay então o tu
+
+119
+00:05:23,100 --> 00:05:26,670
+primeira coisa, ele se baseia no modelo s.
+
+120
+00:05:26,928 --> 00:05:29,459
+Okay, então ele tem que ter como base algo
+
+121
+00:05:29,470 --> 00:05:30,920
+que já existe.
+
+122
+00:05:30,928 --> 00:05:33,459
+Eu vou mudar, né? Se eu vou mudar,
+
+123
+00:05:33,470 --> 00:05:34,178
+vou otimizar.
+
+124
+00:05:34,189 --> 00:05:37,178
+Vou gerar um modelo futuro pro meu futuro.
+
+125
+00:05:37,189 --> 00:05:38,178
+Eu preciso saber onde eu estou.
+
+126
+00:05:38,189 --> 00:05:40,920
+Então eu começo tendo como base o meu s.
+
+127
+00:05:40,928 --> 00:05:44,879
+Isso oh importante, tá legal depois criação de uma
+
+128
+00:05:44,889 --> 00:05:47,619
+operação modular e flexível.
+
+129
+00:05:47,629 --> 00:05:52,809
+Cê tenta modular esse processo? Eh, né?
+
+130
+00:05:52,819 --> 00:05:55,790
+Porque eh a modular é uma técnica que a gente
+
+131
+00:05:55,798 --> 00:05:59,250
+aplica eh, em vez de consideraràs vezes o
+
+132
+00:05:59,259 --> 00:06:00,750
+todo de uma vez só.
+
+133
+00:06:00,759 --> 00:06:04,910
+eu pego aquele processo, né? EH, entendi
+
+134
+00:06:04,920 --> 00:06:07,189
+ele com essas informações e te e Devi e e
+
+135
+00:06:07,199 --> 00:06:09,199
+falo assim olha, eu vou primeiro eu vou trabalhar
+
+136
+00:06:09,209 --> 00:06:12,470
+esse módulo depois desse mdo porque um processo pode envolver
+
+137
+00:06:12,480 --> 00:06:15,564
+uma série de atividades e não necessariamente eu pego as
+
+138
+00:06:15,574 --> 00:06:17,514
+atividades e executo de uma vez só.
+
+139
+00:06:17,524 --> 00:06:19,454
+Às vezes eu não consigo, não tenho capacidade,
+
+140
+00:06:19,463 --> 00:06:20,894
+não tenho técnico, não tenho cultura, não tenho
+
+141
+00:06:20,903 --> 00:06:24,314
+dinheiro enfim, né? Então, eu posso modular
+
+142
+00:06:24,324 --> 00:06:27,673
+e flexibilizar isso, né? O o final,
+
+143
+00:06:27,684 --> 00:06:30,834
+o o o objetivo final é trabalhar toda essa perspectiva
+
+144
+00:06:30,845 --> 00:06:34,134
+pro processo de de processo, mas eu posso modular
+
+145
+00:06:34,144 --> 00:06:36,665
+e torná-la, flexível pra trabalhar, melhorar o meu
+
+146
+00:06:36,673 --> 00:06:39,814
+entendimento, a minha aplicação e o meu desenvolvimento Tá
+
+147
+00:06:40,608 --> 00:06:43,600
+depois os passos pra desenhar esse estado.
+
+148
+00:06:43,608 --> 00:06:48,178
+Futuro, né, de entender aquilo que já existe
+
+149
+00:06:48,189 --> 00:06:50,338
+até a revisão e o ajuste dele.
+
+150
+00:06:50,350 --> 00:06:52,738
+Então você vai ter os passo a passo pra desenhar
+
+151
+00:06:52,750 --> 00:06:55,678
+e depois eh de desenhar, desenhar esse estado!
+
+152
+00:06:55,689 --> 00:06:58,059
+Futuro, né? Você vai entender esse processo de
+
+153
+00:06:58,069 --> 00:06:59,838
+ponta a ponta, né? Pra que ele esteja
+
+154
+00:06:59,850 --> 00:07:04,009
+fo EH otimizado quanto ao seu fluxo de processo tanto
+
+155
+00:07:04,019 --> 00:07:07,809
+interncional quanto intra funcional.
+
+156
+00:07:07,819 --> 00:07:11,290
+Okay Bom Dito isso, olha só quais são as
+
+157
+00:07:11,298 --> 00:07:12,750
+etapas de desenho de processo.
+
+158
+00:07:12,759 --> 00:07:16,730
+Primeira etapa entender o estado atual como é e como
+
+159
+00:07:16,738 --> 00:07:19,470
+é o meu processo hoje fácil, né? Então,
+
+160
+00:07:19,480 --> 00:07:22,129
+antes de de de de desenhar eu vou entender como
+
+161
+00:07:22,139 --> 00:07:23,269
+é que tá o meu processo hoje, e é
+
+162
+00:07:23,278 --> 00:07:28,569
+o tá legal segundo definição das o do dos re
+
+163
+00:07:28,579 --> 00:07:32,540
+desses, dessas o eh objetivos e requisitos tá objetivo
+
+164
+00:07:32,548 --> 00:07:32,949
+e requisito.
+
+165
+00:07:32,959 --> 00:07:35,829
+Ou seja, quais são os objetivos desse novo processo?
+
+166
+00:07:35,838 --> 00:07:38,209
+Eu eu eh, eu vou incluir metas, por
+
+167
+00:07:38,220 --> 00:07:40,290
+exemplo, de redução de custo, de aumento,
+
+168
+00:07:40,298 --> 00:07:43,209
+de eficiência, melhoria de qualidade, Então, define
+
+169
+00:07:43,220 --> 00:07:44,608
+objetivos e requisitos.
+
+170
+00:07:44,619 --> 00:07:47,699
+O que você quer com esse novo processo? Tá
+
+171
+00:07:47,709 --> 00:07:50,850
+legal? Bom, já sei o que eu quero,
+
+172
+00:07:50,858 --> 00:07:53,970
+já sei os requisitos, eu eu, esse processo
+
+173
+00:07:53,980 --> 00:07:58,309
+pode me gerar novas oportunidades e desafios, né?
+
+174
+00:07:58,319 --> 00:08:01,809
+Ou seja eu posso baseado nele, né? Identificar
+
+175
+00:08:01,819 --> 00:08:03,970
+novas oportunidades de melhoria.
+
+176
+00:08:03,980 --> 00:08:07,619
+Pode surgir Duran Alguma aplicação algum no novo desafio de
+
+177
+00:08:07,629 --> 00:08:11,480
+diante da da, desse novo processo? Bom,
+
+178
+00:08:11,488 --> 00:08:13,759
+entendi, defini, Identifiquei.
+
+179
+00:08:13,769 --> 00:08:16,678
+Agora eu vou fazer o meu esboço no meu estado
+
+180
+00:08:16,689 --> 00:08:20,449
+futuro do CBI, né? Aí a gente vai
+
+181
+00:08:20,459 --> 00:08:22,829
+usar a técnica de me de modelagem, né?
+
+182
+00:08:22,838 --> 00:08:27,528
+Ferramentas, Diagramas, fluxos, gráficos, softwares especializados
+
+183
+00:08:27,540 --> 00:08:31,629
+pra esboçar o estado futuro? Aonde eu quero chegar.
+
+184
+00:08:32,229 --> 00:08:35,479
+Beleza fez esse estado, né? Fe- fez esse
+
+185
+00:08:35,489 --> 00:08:40,158
+esboço, faz a análise de impacto e avaliação.
+
+186
+00:08:40,168 --> 00:08:44,440
+Ou seja, como isso vai impactar na minha organização?
+
+187
+00:08:44,450 --> 00:08:49,479
+Eu envolvo análise de custo-benefício risco, identifico o impacto
+
+188
+00:08:49,489 --> 00:08:50,558
+em outros processos.
+
+189
+00:08:50,570 --> 00:08:54,178
+Faço uma avaliação completa Plane Depois que isso tudo tá
+
+190
+00:08:54,269 --> 00:08:56,798
+aí sim, vai ter resultado.
+
+191
+00:08:56,808 --> 00:09:00,558
+Tá dentro do da minha perspectiva Okay, vou planejar
+
+192
+00:09:00,570 --> 00:09:01,639
+a implementação dele.
+
+193
+00:09:01,649 --> 00:09:04,379
+Então aí você vai pegar e planejar, pra poder
+
+194
+00:09:04,389 --> 00:09:07,359
+colocar ele pra rodar o processo pra produção e,
+
+195
+00:09:07,369 --> 00:09:09,658
+por fim a revisão e o ajuste.
+
+196
+00:09:09,668 --> 00:09:13,058
+Ou seja, tá, tá, Tá funcionando o
+
+197
+00:09:13,070 --> 00:09:14,320
+meu processo, não vou revisar.
+
+198
+00:09:14,330 --> 00:09:16,719
+Vou ajustar ele melhoria contínua, lembra.
+
+199
+00:09:16,729 --> 00:09:18,219
+Melhoria contínua é um processo.
+
+200
+00:09:18,229 --> 00:09:21,178
+Então, eu vou trabalhar essa perspectiva de melhoria contínua
+
+201
+00:09:21,190 --> 00:09:23,099
+porque ele não se extingue em si mesmo, né.
+
+202
+00:09:23,109 --> 00:09:25,379
+Porque eu melhoria eu nunca mais vou mexer, né?
+
+203
+00:09:25,389 --> 00:09:27,779
+Lembrando que o mundo tá em constante evolução, em
+
+204
+00:09:27,788 --> 00:09:29,408
+constante mudança, e a única certeza que a gente
+
+205
+00:09:29,418 --> 00:09:33,019
+tem que vai realmente as mudanças ocorrerão Beleza feito isso
+
+206
+00:09:33,029 --> 00:09:33,519
+tudo.
+
+207
+00:09:34,219 --> 00:09:37,590
+A gente faz a simulação e testa esse novo desenho,
+
+208
+00:09:37,599 --> 00:09:40,950
+né? Então, você e essa essa essa simulação,
+
+209
+00:09:40,960 --> 00:09:43,830
+esse teste testar esse novo modelo, fornece em sites
+
+210
+00:09:43,840 --> 00:09:47,109
+críticos, antes das mudanças reais, né? Ele
+
+211
+00:09:47,119 --> 00:09:50,109
+traz dados eh pra isso! Ele precisa de na
+
+212
+00:09:50,119 --> 00:09:53,029
+os dados preci eh, é preciso pra pra efetivo
+
+213
+00:09:53,038 --> 00:09:55,798
+pra ser efetivo, né? E principalmente verifica essa
+
+214
+00:09:55,808 --> 00:10:00,379
+questão dos benefícios, né? Em cenários relacionados a
+
+215
+00:10:00,389 --> 00:10:04,379
+essa otimização contínua, isso aí é eh um aspecto
+
+216
+00:10:04,389 --> 00:10:09,739
+fundamental nessa questão de eh trazer o meu processo do
+
+217
+00:10:09,750 --> 00:10:11,340
+E para o T B.
+
+218
+00:10:11,349 --> 00:10:16,029
+Passando por uma reformulação desse processo, considerando todo o
+
+219
+00:10:16,038 --> 00:10:20,139
+desenho dele naquelas ne, naquele contínuo de etapas que
+
+220
+00:10:20,149 --> 00:10:23,190
+a gente acabou de passar, obrigado e até a
+
+221
+00:10:23,200 --> 00:10:23,668
+próxima
+

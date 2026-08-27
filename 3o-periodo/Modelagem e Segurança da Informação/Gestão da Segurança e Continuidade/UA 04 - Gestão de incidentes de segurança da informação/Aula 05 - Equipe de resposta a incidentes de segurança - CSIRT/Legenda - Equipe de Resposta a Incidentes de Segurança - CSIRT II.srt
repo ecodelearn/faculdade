@@ -1,0 +1,532 @@
+1
+00:00:05,868 --> 00:00:07,919
+Olá! Pessoal! Tudo bom sejam bem vindos a
+
+2
+00:00:07,929 --> 00:00:11,319
+nossa disciplina, segurança da informação e continuidade.
+
+3
+00:00:11,329 --> 00:00:15,859
+Tá hoje nós vamos falar sobre uma continuar a falar
+
+4
+00:00:15,868 --> 00:00:18,818
+sobre a questão de Soque ser sut agora é como
+
+5
+00:00:18,829 --> 00:00:21,489
+é o processo, o processo de resposta ao Ocidente.
+
+6
+00:00:21,500 --> 00:00:23,620
+Tá, A gente falou, falamos de tecnologia,
+
+7
+00:00:23,629 --> 00:00:26,239
+né? Falamos de pessoas E agora a gente tem
+
+8
+00:00:26,250 --> 00:00:28,298
+que começar a falar de processo como a gente,
+
+9
+00:00:28,309 --> 00:00:31,000
+Qual o melhor processo? Como o processo tem que
+
+10
+00:00:31,010 --> 00:00:36,990
+andar fluir por toda a organização? O processo de
+
+11
+00:00:37,000 --> 00:00:41,590
+resposta incidente é uma abordagem estruturada e sequencial, projetada
+
+12
+00:00:41,598 --> 00:00:45,348
+a qualidade de maneira eficaz, com ameaçasà segurança
+
+13
+00:00:45,359 --> 00:00:46,329
+cibernética.
+
+14
+00:00:46,340 --> 00:00:49,929
+Esse processo compreende várias fases interconectadas.
+
+15
+00:00:49,939 --> 00:00:55,109
+Cada uma desempenha um papel vital na gestão, na
+
+16
+00:00:55,118 --> 00:00:56,848
+gestão e resolução de acidentes.
+
+17
+00:00:58,289 --> 00:01:00,859
+A primeira fase do processo é a detecção Tá bom
+
+18
+00:01:00,868 --> 00:01:03,020
+onde a equipe de Srt, né? Que a
+
+19
+00:01:03,029 --> 00:01:05,900
+gente já estudamos? Sobre quais são os perfis?
+
+20
+00:01:05,909 --> 00:01:07,698
+O que faz, qual é a tecnologia, né?
+
+21
+00:01:07,709 --> 00:01:12,668
+Identifica atividades suspeitas por meio de monitoramento contínuo e uso
+
+22
+00:01:12,680 --> 00:01:16,239
+de ferramentas especializadas na detecção de intrusão.
+
+23
+00:01:16,250 --> 00:01:19,819
+Essa detecção pode ser baseada em anomalias de tráfico,
+
+24
+00:01:19,829 --> 00:01:25,838
+alertas de sistemas de segurança ou indicador de comprometimento após
+
+25
+00:01:25,849 --> 00:01:26,689
+a detecção.
+
+26
+00:01:26,698 --> 00:01:29,849
+Os analistas de incidentes entram em ação para realizar uma
+
+27
+00:01:29,859 --> 00:01:34,930
+análise aprofundada, em fase envolve a avaliação de gravidade
+
+28
+00:01:34,939 --> 00:01:38,609
+e do escopo do incidente, incluindo a determinação,
+
+29
+00:01:38,620 --> 00:01:42,189
+determinação da origem e do impacto potencial.
+
+30
+00:01:42,808 --> 00:01:46,379
+Os analistas utilizam técnicas forenses e ferramentas de análise para
+
+31
+00:01:46,388 --> 00:01:48,879
+compreender a natureza do ataque.
+
+32
+00:01:48,888 --> 00:01:51,879
+Então, a gente ali, monitora, né,
+
+33
+00:01:51,888 --> 00:01:53,778
+fica monitorando, A partir do momento, que a
+
+34
+00:01:53,790 --> 00:01:57,900
+existe essa essa, de essa tentativa, aí já
+
+35
+00:01:57,909 --> 00:02:00,579
+começa a vir uma análise florense pra ver o que
+
+36
+00:02:00,588 --> 00:02:03,159
+com as suas técnicas utilizadas, com a ferramenta utilizada,
+
+37
+00:02:03,168 --> 00:02:06,859
+né? Uma vez que o incidente é comprime compreendido,
+
+38
+00:02:06,870 --> 00:02:10,360
+compreendido, né? A fase de contenção é iniciada.
+
+39
+00:02:10,368 --> 00:02:13,379
+O objetivo é isolar o incidente, para evitar sua
+
+40
+00:02:13,389 --> 00:02:17,788
+propagação, minimizar danos adicionais.
+
+41
+00:02:17,800 --> 00:02:21,050
+Isso pode envolver o isolamento dos sistemas afetados, o
+
+42
+00:02:21,058 --> 00:02:24,770
+bloqueio de tráfico malicioso ou a implementação de medidas de
+
+43
+00:02:24,778 --> 00:02:26,879
+segurança para conter a ameaça.
+
+44
+00:02:26,889 --> 00:02:30,659
+Então, assim e olhamos, entendemos qual o incidente.
+
+45
+00:02:30,669 --> 00:02:33,449
+A partir daí começa todo um processo de contenção,
+
+46
+00:02:33,460 --> 00:02:36,349
+que vai de isolar aquela parte da infraestrutura que foi
+
+47
+00:02:36,360 --> 00:02:39,349
+afetada, né? Pode ser, eh implementação de
+
+48
+00:02:39,360 --> 00:02:43,750
+medidas de segurança, Pode haver vários outros subprocessos,
+
+49
+00:02:43,758 --> 00:02:47,028
+que são eh originados, que são executados a partir
+
+50
+00:02:47,038 --> 00:02:49,740
+desse processo, que a gente entendeu que como o
+
+51
+00:02:49,750 --> 00:02:53,250
+incidente começou a ser com a comprometer a nossa,
+
+52
+00:02:53,258 --> 00:02:55,710
+a nossa rede, a nossa, o nosso ambiente
+
+53
+00:02:55,719 --> 00:02:58,419
+cibernético, tá? Então, vamos para a fase
+
+54
+00:02:58,429 --> 00:03:00,419
+e aí agora, depois disso, né? Vamos
+
+55
+00:03:00,429 --> 00:03:04,319
+para a fase e radiação, né? Erradicação desculpa
+
+56
+00:03:04,599 --> 00:03:08,729
+que se constanta na remoção completa da ameaça do ambiente
+
+57
+00:03:08,740 --> 00:03:13,649
+e envolve abordar as causas fundamentais do acidente, corrigindo
+
+58
+00:03:13,659 --> 00:03:17,469
+vulnerabilidade, removendo os e garantindo que o ambiente tem,
+
+59
+00:03:17,479 --> 00:03:19,409
+retorna ao Estado seguro e controlado.
+
+60
+00:03:19,419 --> 00:03:22,008
+Então não é questão de voltar para o Estado anterior
+
+61
+00:03:22,020 --> 00:03:23,939
+de toda forma, tem que voltar para o estuda
+
+62
+00:03:23,949 --> 00:03:29,429
+anterior corrigindo aquela aquela, né? Vulnerabilidade encontrada.
+
+63
+00:03:29,439 --> 00:03:32,129
+Então a gente tem que entender, isola o ambiente,
+
+64
+00:03:32,139 --> 00:03:37,710
+identifica, acha que era vulnerabilidade, corrige aquela vulnerabilidade,
+
+65
+00:03:37,719 --> 00:03:41,830
+Aí cê volta o ambiente pro estado anterior corrigindo aquela
+
+66
+00:03:41,838 --> 00:03:42,569
+vulnerabilidade.
+
+67
+00:03:42,580 --> 00:03:46,330
+Porque se você voltar ao sistema, né? A
+
+68
+00:03:46,338 --> 00:03:48,949
+Eh eh a disponibilidade do sistema de forma o jeito
+
+69
+00:03:48,960 --> 00:03:51,788
+que ele era, provavelmente sem corrigir, vai ter
+
+70
+00:03:51,800 --> 00:03:53,588
+um novo ataque e vai acontecer novamente.
+
+71
+00:03:53,599 --> 00:03:57,588
+Então você precisa corrigir o problema, corrigir aquela vulnerabilidade
+
+72
+00:03:57,599 --> 00:04:01,149
+e voltar o sistema por ambi eh por estado,
+
+73
+00:04:01,159 --> 00:04:06,699
+né? Após a arca e e eita palavra difícil,
+
+74
+00:04:06,710 --> 00:04:11,330
+hein? Após a erca e erradicação, agora vai
+
+75
+00:04:11,338 --> 00:04:16,559
+após a erradicação Ou seja, depois de corrigir a
+
+76
+00:04:16,569 --> 00:04:20,028
+equipe trabalha em conjunto com a equipe de T I
+
+77
+00:04:20,040 --> 00:04:22,209
+para iniciar a fase de recuperação.
+
+78
+00:04:22,220 --> 00:04:26,670
+Então beleza, resolvemos o problema.
+
+79
+00:04:26,678 --> 00:04:29,410
+Ah, eliminamos aqui né? A ameaça cibernética.
+
+80
+00:04:29,420 --> 00:04:31,649
+E a partir de agora a su vai trabalhar com
+
+81
+00:04:31,660 --> 00:04:33,488
+a equipe de T I pra voltar, recuperar o
+
+82
+00:04:33,500 --> 00:04:36,970
+ambiente, né? O objetivo é restaurar os sistemas
+
+83
+00:04:36,980 --> 00:04:40,850
+e dados afetados para um estado operacional normal.
+
+84
+00:04:40,858 --> 00:04:42,889
+Isso pode envolver a restauração de backups.
+
+85
+00:04:42,899 --> 00:04:44,588
+Pode ter a necessidade de você fazer, né?
+
+86
+00:04:44,819 --> 00:04:46,869
+Eh restaurar os backups, pegar o recap, fazer
+
+87
+00:04:46,879 --> 00:04:49,509
+uma restauração do backup, a implementação de pet de
+
+88
+00:04:49,519 --> 00:04:53,369
+segurança e verificação completa da integridade do ambiente.
+
+89
+00:04:53,379 --> 00:04:55,509
+Você precisa analisar todo o ambiente pra ver se o
+
+90
+00:04:55,519 --> 00:04:57,309
+ambiente foi afetado de alguma forma.
+
+91
+00:04:57,319 --> 00:04:58,750
+Não é só subir por subir.
+
+92
+00:04:58,759 --> 00:05:01,790
+Fecha aquela brecha e dá uma olhada onde foi o
+
+93
+00:05:01,798 --> 00:05:02,579
+maior impacto.
+
+94
+00:05:02,588 --> 00:05:04,879
+Se teve algum impacto, se teve alguma integridade,
+
+95
+00:05:04,889 --> 00:05:08,290
+se algum dado foi, foi eh mexido, trabalhado
+
+96
+00:05:08,298 --> 00:05:08,910
+alterado.
+
+97
+00:05:08,920 --> 00:05:12,720
+Então a gente precisa garantir que todo esse ambiente esteja
+
+98
+00:05:12,730 --> 00:05:13,449
+íntegro.
+
+99
+00:05:14,709 --> 00:05:18,000
+A última fase do processo é a análise pós incidente,
+
+100
+00:05:18,009 --> 00:05:22,000
+onde a equipe revisa e documenta as lições apreendidas.
+
+101
+00:05:22,009 --> 00:05:25,160
+Essa análise inclui a revisão do desempenho da equipe a
+
+102
+00:05:25,170 --> 00:05:29,170
+eficácia das medidas tomadas durante o acidente e a identificação
+
+103
+00:05:29,178 --> 00:05:32,139
+de melhorias no processo de respostas.
+
+104
+00:05:32,720 --> 00:05:37,079
+Isso fortalece a postura de segurança da organização e contribui
+
+105
+00:05:37,088 --> 00:05:41,350
+para uma abordagem proativa na prevenção de futuros dissidentes.
+
+106
+00:05:41,910 --> 00:05:45,399
+A eficácia do processo de resposta acidente depende da rapidez
+
+107
+00:05:45,410 --> 00:05:47,920
+e da precisão que cada fase é executada.
+
+108
+00:05:47,928 --> 00:05:51,920
+Uma abordagem bem sucedida não é apenas restaurar a normalidade
+
+109
+00:05:51,928 --> 00:05:55,399
+operacional, mas também fortalece a resiliência da organização diante
+
+110
+00:05:55,410 --> 00:05:56,759
+de futuras ameaças.
+
+111
+00:05:56,769 --> 00:06:00,939
+Isso é fundamental você entender que não é só voltar
+
+112
+00:06:00,949 --> 00:06:04,879
+o ambiente pro Estado anterior, você precisa garantir que
+
+113
+00:06:04,889 --> 00:06:09,778
+não tenha novo incidente baseado naquele problema que aconteceu.
+
+114
+00:06:09,790 --> 00:06:12,290
+Entendeu, né? Você teve um incidente? Cê
+
+115
+00:06:12,298 --> 00:06:15,699
+teve um problema teve uma invasão cibernética? Você conseguiu,
+
+116
+00:06:15,709 --> 00:06:19,980
+né? Erradicar todo aquele problema Subir o ambiente da
+
+117
+00:06:19,988 --> 00:06:21,290
+forma que era.
+
+118
+00:06:21,298 --> 00:06:23,540
+Só que, se você não né fechou.
+
+119
+00:06:23,548 --> 00:06:26,119
+Se você não melhorou o seu processo, a sua
+
+120
+00:06:26,129 --> 00:06:28,649
+tecnologia, senão você não melhorou, né? O
+
+121
+00:06:28,660 --> 00:06:32,220
+desenvolvimento ali, da sua política relacionadaàquele incidente vai
+
+122
+00:06:32,230 --> 00:06:33,509
+ocorrer novamente.
+
+123
+00:06:33,519 --> 00:06:36,350
+Vai ter, tem um novo incidente e você não
+
+124
+00:06:36,358 --> 00:06:39,230
+não evoluiu, não teve resiliência? Então não é
+
+125
+00:06:39,238 --> 00:06:41,910
+somente subir o ambiente de novo.
+
+126
+00:06:41,920 --> 00:06:45,588
+Ter disponibilidade dos sistemas é você garantir que aquele incidente,
+
+127
+00:06:45,600 --> 00:06:49,309
+aquele problema que derrubou aquele serviço, aquele né,
+
+128
+00:06:49,319 --> 00:06:52,949
+aquele seu ambiente não venha acontecer novamente.
+
+129
+00:06:52,959 --> 00:06:55,829
+Por isso você aprender por você entender o que aconteceu
+
+130
+00:06:55,838 --> 00:06:59,798
+e aplicar, né? Eh atualização de Pet aplicar
+
+131
+00:06:59,809 --> 00:07:03,209
+melhoria no sistema, fechar brecha é fundamental pra garantir
+
+132
+00:07:03,220 --> 00:07:05,189
+a resiliência do seu ambiente.
+
+133
+00:07:05,199 --> 00:07:08,778
+Okay! Muito obrigado e te beijo na próxima aula!
+

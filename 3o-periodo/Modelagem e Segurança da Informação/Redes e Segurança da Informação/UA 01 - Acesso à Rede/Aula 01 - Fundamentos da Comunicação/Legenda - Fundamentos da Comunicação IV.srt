@@ -1,0 +1,584 @@
+1
+00:00:06,030 --> 00:00:08,569
+Olá, aluno seja muito bemvindo, sou professor Fabrício
+
+2
+00:00:08,579 --> 00:00:11,919
+Melo, estamos com a matéria, fundamentos da comunicação
+
+3
+00:00:11,929 --> 00:00:15,319
+e agora entraremos nos tipos de rede que são os
+
+4
+00:00:15,329 --> 00:00:16,318
+tipos de rede.
+
+5
+00:00:16,329 --> 00:00:19,440
+Como é que eu consigo classificar esses tipos? Vamos
+
+6
+00:00:19,449 --> 00:00:23,179
+lá, tá aí na sua telinha e vamos falar
+
+7
+00:00:23,190 --> 00:00:25,809
+da primeira a primeira, o primeiro tipo de rede
+
+8
+00:00:25,818 --> 00:00:30,280
+Você pode chamar de Pan famoso Personal Network ou muito
+
+9
+00:00:30,289 --> 00:00:32,899
+conhecido como rede pessoal? Como é que você define
+
+10
+00:00:32,908 --> 00:00:35,060
+o que é uma rede pessoal? Geralmente uma conexão
+
+11
+00:00:35,069 --> 00:00:40,500
+de curto espaço joo graficamente uma conexão com espaço muito
+
+12
+00:00:40,509 --> 00:00:41,098
+pequeno.
+
+13
+00:00:41,109 --> 00:00:44,859
+Por exemplo, quando você conecta aí oh o seu
+
+14
+00:00:44,868 --> 00:00:48,859
+telefone através do Bluetooth com o seu fone de ouvido,
+
+15
+00:00:48,868 --> 00:00:49,880
+você forma um Rede pan.
+
+16
+00:00:50,118 --> 00:00:53,810
+Quando você conecta aí ao seu telefone ao som do
+
+17
+00:00:53,819 --> 00:00:57,569
+seu carro, você consegue conectar uma rede do tipo
+
+18
+00:00:57,579 --> 00:01:00,289
+Pam, Ou seja, uma rede pessoal entre você
+
+19
+00:01:00,298 --> 00:01:03,020
+e os seus dispositivos ali pessoais.
+
+20
+00:01:03,029 --> 00:01:05,689
+Tá bom, geralmente uma rede aí de abrangência de
+
+21
+00:01:05,698 --> 00:01:08,609
+até dez metros? Tá? Então você tem aí
+
+22
+00:01:08,620 --> 00:01:10,049
+uma área de responsabilidade.
+
+23
+00:01:10,058 --> 00:01:13,069
+Ou seja, isso é seu caráter privado ou global,
+
+24
+00:01:13,079 --> 00:01:14,573
+né? Porque aqui é o seguinte que ele ele
+
+25
+00:01:14,584 --> 00:01:18,293
+fala que as redes podem ser classificadas pelo seu tamanho,
+
+26
+00:01:18,305 --> 00:01:20,213
+então você sempre vai ficar de olho nisso.
+
+27
+00:01:20,224 --> 00:01:22,674
+Quando falar em tipos de rede é a ideia do
+
+28
+00:01:22,683 --> 00:01:26,323
+tamanho, é a área geográfica tá e a pam
+
+29
+00:01:26,334 --> 00:01:28,573
+aí seria a menor.
+
+30
+00:01:28,584 --> 00:01:31,814
+Depois nós temos a rede do tipo ln local a
+
+31
+00:01:31,823 --> 00:01:34,375
+área network, o que que é uma rede local
+
+32
+00:01:34,385 --> 00:01:36,834
+é você entender que é uma rede que abrange um
+
+33
+00:01:36,930 --> 00:01:37,778
+lugar.
+
+34
+00:01:37,790 --> 00:01:42,319
+Esse lugar pode ser oh corporativa, residencial, um
+
+35
+00:01:42,329 --> 00:01:44,299
+prédio ou até um campus.
+
+36
+00:01:44,308 --> 00:01:47,500
+Então, quando você tem uma ideia de um lugar,
+
+37
+00:01:47,510 --> 00:01:49,939
+agora não interessa o tamanho desse lugar, porque pode
+
+38
+00:01:49,948 --> 00:01:52,918
+ser um prédio aí de dois andares ou um prédio
+
+39
+00:01:52,930 --> 00:01:54,099
+de dez andares.
+
+40
+00:01:54,109 --> 00:01:57,659
+Mas essa rede está ali acoplada naquele prédio.
+
+41
+00:01:57,668 --> 00:02:00,099
+Você já passa por uma rede local? Tá?
+
+42
+00:02:00,109 --> 00:02:03,263
+Então pode ver que a Bran abrangência dela geográfica é
+
+43
+00:02:03,275 --> 00:02:05,064
+maior do que a PAM.
+
+44
+00:02:05,073 --> 00:02:08,383
+Tá depois nós temos a rede do tipo Man man
+
+45
+00:02:08,395 --> 00:02:10,985
+vende metropolita, área network, ou seja, é
+
+46
+00:02:10,993 --> 00:02:13,145
+uma rede metropolitana.
+
+47
+00:02:13,153 --> 00:02:18,064
+Qual seria a abrangência? Uma cidade ou município?
+
+48
+00:02:18,074 --> 00:02:20,074
+Tá vendo aí oh, você tem na imagem a
+
+49
+00:02:20,085 --> 00:02:22,713
+cidade do Rio de Janeiro, onde você tem uma
+
+50
+00:02:22,724 --> 00:02:27,569
+rede que está cercando aí a cidade, então você
+
+51
+00:02:27,580 --> 00:02:29,409
+passa a ter uma rede metropolitana.
+
+52
+00:02:29,419 --> 00:02:33,288
+Então a ideia de você entender Cidade município, eu
+
+53
+00:02:33,300 --> 00:02:37,610
+tenho uma metropolita, área network perfeito e temos também
+
+54
+00:02:37,618 --> 00:02:40,088
+a A depois da Man vem a que é o
+
+55
+00:02:40,099 --> 00:02:42,729
+de Área Network, que se você traduzir, é
+
+56
+00:02:42,740 --> 00:02:46,599
+uma rede de longa distância, né? Então você
+
+57
+00:02:46,610 --> 00:02:49,485
+tem uma abrangência aí de grandes corporações que vai pra
+
+58
+00:02:49,493 --> 00:02:54,663
+estados e países, mas também tem continente, continentes,
+
+59
+00:02:54,675 --> 00:02:55,304
+tá vendo.
+
+60
+00:02:55,314 --> 00:02:59,264
+Então, quando você tem ali uma rede que ultrapassa
+
+61
+00:02:59,274 --> 00:03:01,963
+essa ideia de país pra frente, você passa a
+
+62
+00:03:01,974 --> 00:03:04,064
+chamar de área network.
+
+63
+00:03:04,074 --> 00:03:07,544
+Ou seja, é uma rede de longa distância.
+
+64
+00:03:07,554 --> 00:03:10,758
+Então, se eu consigo ter uma comunicação aqui de
+
+65
+00:03:10,770 --> 00:03:13,000
+um continente com o outro de um país com o
+
+66
+00:03:13,008 --> 00:03:17,319
+outro, essa abrangência geográfica recai na rede do tipo
+
+67
+00:03:17,330 --> 00:03:18,479
+tranquilo.
+
+68
+00:03:18,490 --> 00:03:21,020
+Entendeu como é que é essa classificação.
+
+69
+00:03:21,028 --> 00:03:23,379
+E temos também a outra classificação que é essa aí?
+
+70
+00:03:23,389 --> 00:03:26,659
+Oh, você entendeu que são redes privativas? O
+
+71
+00:03:26,669 --> 00:03:28,879
+próprio nome já diz, né? Alunos são redes
+
+72
+00:03:28,889 --> 00:03:33,038
+que pertencem a uma organização e atendemàs suas necessidades.
+
+73
+00:03:33,050 --> 00:03:36,213
+O quê? Particulares? Então, estão numa rede
+
+74
+00:03:36,224 --> 00:03:37,463
+como privativa.
+
+75
+00:03:37,474 --> 00:03:40,594
+Você tem as redes públicas, que compreendem o que
+
+76
+00:03:40,604 --> 00:03:44,413
+os serviços de telecomunicações, cuja finalidade é prestar o
+
+77
+00:03:44,425 --> 00:03:46,133
+serviço em caráter público.
+
+78
+00:03:46,145 --> 00:03:48,933
+Ou seja, quando a gente tem uma conexão que
+
+79
+00:03:48,944 --> 00:03:50,694
+todos podem ter.
+
+80
+00:03:50,705 --> 00:03:52,713
+Essa abrangência passa a ser pública.
+
+81
+00:03:52,724 --> 00:03:55,735
+Temos as redes globais que vão além das fronteiras dos
+
+82
+00:03:55,743 --> 00:03:58,669
+países, né? Elementos de integração, disseminação de
+
+83
+00:03:58,679 --> 00:04:02,069
+informação em caráter mundial Oh, oh, a internet
+
+84
+00:04:02,080 --> 00:04:03,750
+que é uma rede! O que a internet é
+
+85
+00:04:03,758 --> 00:04:07,270
+uma rede global formada por várias redes interconectadas, ou
+
+86
+00:04:07,278 --> 00:04:09,868
+seja, que tem uma abrangência geográfica de A.
+
+87
+00:04:09,879 --> 00:04:12,889
+A internet já é um conjunto de US que formam
+
+88
+00:04:12,899 --> 00:04:17,988
+aí a internet legal e temos também a ideia é
+
+89
+00:04:18,000 --> 00:04:22,069
+que você tem que entender sobre a internet não ter
+
+90
+00:04:22,079 --> 00:04:22,949
+um dono, né.
+
+91
+00:04:22,959 --> 00:04:25,920
+A internet ser uma rede de caráter público agora,
+
+92
+00:04:25,928 --> 00:04:27,230
+olha só, como é queàs vezes entra em
+
+93
+00:04:27,238 --> 00:04:30,548
+contradição? Ela é de caráter público, mas ela
+
+94
+00:04:30,559 --> 00:04:34,869
+o acesso, você tem que contratar a infraestrutura de
+
+95
+00:04:34,879 --> 00:04:37,230
+um i SP, que é um famoso provedor de
+
+96
+00:04:37,238 --> 00:04:38,149
+serviços da internet.
+
+97
+00:04:38,160 --> 00:04:40,588
+Então, quando você tem a sua internet contratada por
+
+98
+00:04:40,600 --> 00:04:43,569
+uma operadora de telefonia, uma operadora de TV,
+
+99
+00:04:43,579 --> 00:04:46,608
+por exemplo, a cabo é uma operadora privada,
+
+100
+00:04:46,829 --> 00:04:51,199
+que tá prestando um serviço de infraestrutura pra você entrar
+
+101
+00:04:51,209 --> 00:04:52,119
+numa rede pública.
+
+102
+00:04:52,129 --> 00:04:54,738
+Então pode até chocar um pouco do conceito.
+
+103
+00:04:54,750 --> 00:04:57,199
+Pô, mas a internet é pública, sim.
+
+104
+00:04:57,209 --> 00:05:00,838
+Mas pra infraestrutura chegar até você tem que ser por
+
+105
+00:05:00,850 --> 00:05:02,959
+meio aí de uma empresa privada.
+
+106
+00:05:02,970 --> 00:05:06,119
+Tá, E muito cuidado também com as agências responsáveis
+
+107
+00:05:06,129 --> 00:05:07,980
+pela administração das redes.
+
+108
+00:05:07,988 --> 00:05:11,392
+Oh, você tem agências aí mundiais, agências internacionais
+
+109
+00:05:11,403 --> 00:05:14,702
+que estão citadas aí, além de ter no Brasil,
+
+110
+00:05:14,713 --> 00:05:17,833
+né? Quais são as principais organizações, agências,
+
+111
+00:05:17,841 --> 00:05:20,713
+responsáveis aí pela Internet? Aqui do Brasil? Cê
+
+112
+00:05:20,721 --> 00:05:22,833
+tem um C g I que é o famoso Comitê
+
+113
+00:05:22,841 --> 00:05:24,632
+Gestor de internet do Brasil.
+
+114
+00:05:24,642 --> 00:05:26,733
+Também temos o Nic BR, que é o Núcleo
+
+115
+00:05:26,742 --> 00:05:30,673
+de Informação e coordenação do Ponto BR e o registro
+
+116
+00:05:30,682 --> 00:05:33,665
+ponto BR, Onde você os registros aí dos domínios
+
+117
+00:05:33,675 --> 00:05:37,185
+tá então aqui no Brasil são esses aí os responsáveis.
+
+118
+00:05:37,196 --> 00:05:39,466
+Então, por mais que seja público, você tem
+
+119
+00:05:39,475 --> 00:05:39,985
+comitês.
+
+120
+00:05:39,995 --> 00:05:44,574
+Você tem agências que vão regulamentar algumas normas aí da
+
+121
+00:05:44,584 --> 00:05:48,305
+rede pública, tranquilidade perfeito.
+
+122
+00:05:48,315 --> 00:05:52,065
+Então é isso tá? E a outra classificação que
+
+123
+00:05:52,074 --> 00:05:54,910
+temos aqui por último, que seria o quê a
+
+124
+00:05:54,920 --> 00:05:58,869
+ideia da internet versus extra, O que que seria
+
+125
+00:05:58,879 --> 00:06:01,709
+isso? Como a gente viu? A internet é
+
+126
+00:06:01,720 --> 00:06:05,428
+uma rede pública, Acesso externo é uma rede aí
+
+127
+00:06:05,439 --> 00:06:08,619
+pra qualquer pessoa, poder acessar e temos ali um
+
+128
+00:06:08,629 --> 00:06:11,869
+conceito de intranet lá no meio, que é o
+
+129
+00:06:11,879 --> 00:06:14,910
+que é uma rede interna é uma rede que vai
+
+130
+00:06:14,920 --> 00:06:18,670
+atender as necessidades de uma organização.
+
+131
+00:06:18,678 --> 00:06:22,639
+Pode ser uma empresa ou um Google, só que
+
+132
+00:06:22,649 --> 00:06:27,519
+o acesso é limitado aos colaboradores daquela empresa e acima
+
+133
+00:06:27,528 --> 00:06:32,079
+disso, nós temos anet que é quando você consegue
+
+134
+00:06:32,088 --> 00:06:36,959
+oferecer a sua intranet pra ser acessada do ambiente externo
+
+135
+00:06:36,970 --> 00:06:42,238
+como fornecedores clientes, por exemplo, vão conseguir acessar
+
+136
+00:06:42,250 --> 00:06:45,559
+a sua, então essa ela passa a expandir pra
+
+137
+00:06:45,569 --> 00:06:46,199
+ser uma extra.
+
+138
+00:06:46,209 --> 00:06:48,689
+Então isso é um diagrama muito interessante Oh que você
+
+139
+00:06:48,699 --> 00:06:52,048
+começa lá no centro com uma rede intra é uma
+
+140
+00:06:52,059 --> 00:06:53,129
+rede privada.
+
+141
+00:06:53,139 --> 00:06:57,608
+Quando você expande o acesso, você forma uma extra
+
+142
+00:06:57,619 --> 00:07:01,290
+net e quando você expande mais ainda o acesso,
+
+143
+00:07:01,298 --> 00:07:05,569
+você cai na internet que é a tal da rede
+
+144
+00:07:05,579 --> 00:07:08,309
+pública que a gente tá citando aqui.
+
+145
+00:07:08,319 --> 00:07:12,088
+Tranquilidade perfeito, Então é isso.
+
+146
+00:07:12,100 --> 00:07:15,069
+Tá fechamos o conteúdo até mais.
+

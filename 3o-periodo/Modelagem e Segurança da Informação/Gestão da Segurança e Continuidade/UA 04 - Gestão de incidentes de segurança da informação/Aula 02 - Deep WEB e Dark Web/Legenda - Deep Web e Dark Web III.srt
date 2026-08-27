@@ -1,0 +1,556 @@
+1
+00:00:06,259 --> 00:00:09,409
+continuamos com o nosso curso, né? Da disciplina
+
+2
+00:00:09,419 --> 00:00:12,118
+Gestão de Segurança da Informação e continuidade.
+
+3
+00:00:12,130 --> 00:00:16,149
+Estamos falando de dar Kb Deeb falando das características dos
+
+4
+00:00:16,158 --> 00:00:19,068
+perigos de onde você pode ir, onde você não
+
+5
+00:00:19,079 --> 00:00:21,548
+deve ir dos cuidados que você tem que ter.
+
+6
+00:00:21,559 --> 00:00:24,190
+Então a gente vai falar agora sobre algumas ferramentas e
+
+7
+00:00:24,199 --> 00:00:25,649
+tecnologias de monitoramento.
+
+8
+00:00:25,658 --> 00:00:29,789
+É muito importante entender como podemos fazer o que você
+
+9
+00:00:29,798 --> 00:00:32,529
+tem que fazer, qual é a característica de cada
+
+10
+00:00:32,539 --> 00:00:35,109
+coisa e que a partir do momento que você tem
+
+11
+00:00:35,118 --> 00:00:37,908
+conhecimento, você sabe o que por onde tá andando.
+
+12
+00:00:37,918 --> 00:00:40,770
+Consequentemente você se torna uma pessoa, talvez até mais
+
+13
+00:00:40,779 --> 00:00:43,569
+segura dos seus dados, então o conhecimento é importante
+
+14
+00:00:43,579 --> 00:00:43,950
+pra isso.
+
+15
+00:00:44,529 --> 00:00:48,840
+Software de análise de tráfico, como Sno e Suricatas
+
+16
+00:00:48,848 --> 00:00:52,719
+são pilares fundamentais para a vigilância da dark Web tá.
+
+17
+00:00:52,728 --> 00:00:57,649
+Essas ferramentas realizam uma análise minuciosa dos padrões de comunicação,
+
+18
+00:00:57,658 --> 00:01:02,139
+examinando o pacote de dados para identificar comportamentos suspeitos que
+
+19
+00:01:02,149 --> 00:01:08,829
+podem sugerir atividades maliciosas o monitoramento do Ao monitorar o
+
+20
+00:01:08,838 --> 00:01:10,079
+tráfico da dark Web.
+
+21
+00:01:10,088 --> 00:01:15,079
+Esses softwares identificam ano anomalias, padrões de comportamentos incomuns
+
+22
+00:01:15,088 --> 00:01:16,980
+e atividades suspeitas.
+
+23
+00:01:16,989 --> 00:01:22,278
+A detecção precoce é crucial para respostas rápidas a potenciais
+
+24
+00:01:22,290 --> 00:01:28,859
+ameaças, permitindo que as organizações ajam proativamente a precisão
+
+25
+00:01:28,870 --> 00:01:31,849
+da identificação dos padrões suspeitos é vital, pois a
+
+26
+00:01:31,859 --> 00:01:35,969
+Dark Web é um terreno fértil para atividades ilícitas.
+
+27
+00:01:35,980 --> 00:01:39,719
+O uso dessas ferramentas permite que as organizações protejam os
+
+28
+00:01:39,730 --> 00:01:42,198
+seus dados, seus ativos digitais, né? E
+
+29
+00:01:42,209 --> 00:01:44,900
+evitam possíveis incidentes de segurança.
+
+30
+00:01:44,909 --> 00:01:46,180
+A gente precisa de monitoramento.
+
+31
+00:01:46,189 --> 00:01:50,519
+A gente precisa investir em sistemas de monitoramento contínuo,
+
+32
+00:01:51,040 --> 00:01:54,849
+porque eh ataques, né, que estão sendo feitos
+
+33
+00:01:54,859 --> 00:01:55,650
+a cada segundo.
+
+34
+00:01:55,659 --> 00:02:00,329
+Neste momento existem várias pessoas, indivíduos, sistemas tentando
+
+35
+00:02:00,338 --> 00:02:01,849
+atacar outros sistemas.
+
+36
+00:02:01,859 --> 00:02:05,888
+Então nós precisamos de si de de, de ferramentas,
+
+37
+00:02:05,900 --> 00:02:09,788
+de monitoramento, de análise pra gente identificar padrões,
+
+38
+00:02:09,800 --> 00:02:15,210
+né? Anomalias e conseguir eh prever ou evitar o
+
+39
+00:02:15,219 --> 00:02:16,110
+incidente de segurança.
+
+40
+00:02:17,419 --> 00:02:21,189
+Serviços especializados são dedicados a explorar a dark Web de
+
+41
+00:02:21,199 --> 00:02:26,649
+forma personalizada, atendendo as necessidades específicas de organizações.
+
+42
+00:02:26,659 --> 00:02:30,429
+Esses serviços oferecem uma visão detalhada no cenário, identificando
+
+43
+00:02:30,439 --> 00:02:34,088
+potenciais ameaças e protegendo a reputação da empresa.
+
+44
+00:02:35,330 --> 00:02:39,740
+Ao contrário das abordagens genéricas, serviços especializados adaptam suas
+
+45
+00:02:39,750 --> 00:02:43,338
+estratégias de monitoramento de acordo com os requisitos e individuais
+
+46
+00:02:43,349 --> 00:02:44,419
+de cada cliente.
+
+47
+00:02:44,429 --> 00:02:48,580
+Isso permite uma abordagem mais direcionada, focando nas áreas
+
+48
+00:02:48,588 --> 00:02:50,240
+específicas de preocupação.
+
+49
+00:02:50,830 --> 00:02:54,679
+Esse serviço são não só apenas não apenas monitora,
+
+50
+00:02:54,689 --> 00:03:00,020
+mas também fornece inteligências de ameaça valiosa e inclui informações
+
+51
+00:03:00,028 --> 00:03:05,020
+sobre tendências emergentes, métodos de ataques e potenciais ameaças
+
+52
+00:03:05,028 --> 00:03:07,360
+específicos que podem afetar a organização.
+
+53
+00:03:08,368 --> 00:03:11,338
+Além de ferramentas específicas, a implementação de tecnologia de
+
+54
+00:03:11,349 --> 00:03:16,939
+vigilância é essencial para a abordagem para uma abordagem abrangente.
+
+55
+00:03:16,949 --> 00:03:21,580
+Isso inclui sistemas avançados de detecção de intrusão, análise
+
+56
+00:03:21,588 --> 00:03:28,659
+comportamental e outras técnicas avançadas projetadas para identificar atividades maliciosas
+
+57
+00:03:28,669 --> 00:03:31,800
+antes que cause danos significativos.
+
+58
+00:03:33,368 --> 00:03:39,179
+As tecnologias de vigilância visam a detecção preditiva, antecipando,
+
+59
+00:03:39,189 --> 00:03:44,338
+identificando padrões que podem indicar, né? Ameaças em
+
+60
+00:03:44,349 --> 00:03:46,258
+estágios iniciais.
+
+61
+00:03:46,270 --> 00:03:50,860
+Isso permite que as organizações ajam proativamente e pedindo potenciais
+
+62
+00:03:50,868 --> 00:03:55,199
+ataques antes que concretizem a natureza dinâmica da dark.
+
+63
+00:03:55,210 --> 00:03:59,058
+Existe tecnologia de vigilância capazes de se adaptaràs novas
+
+64
+00:03:59,069 --> 00:04:01,479
+ameaças em constante evolução.
+
+65
+00:04:01,969 --> 00:04:06,778
+A implementação de sistemas flexíveis e atualizáveis é crucial para
+
+66
+00:04:06,788 --> 00:04:11,550
+manter a eficácia ao longo do tempo, ao explorar,
+
+67
+00:04:11,558 --> 00:04:14,508
+dar web e como né? Ao explorar dar web
+
+68
+00:04:14,520 --> 00:04:18,410
+como embarcar de uma de uma jornada de profundezas desconhecidas
+
+69
+00:04:18,420 --> 00:04:23,899
+nesse mundo virtual, né? Eh como submarca.
+
+70
+00:04:23,910 --> 00:04:28,009
+Como é que esse vasto reino digital? A imperativo
+
+71
+00:04:28,019 --> 00:04:32,959
+está devidamente equipado com conhecimento e ferramentas especializadas? A
+
+72
+00:04:32,970 --> 00:04:38,649
+Dark Web envolve uma criptografia Descentralização oferece anonimato aos seus
+
+73
+00:04:38,660 --> 00:04:40,850
+navegantes e, ao mesmo tempo, um mando de
+
+74
+00:04:40,858 --> 00:04:46,949
+obscuridades com atividades legais que representam riscos substanciais, o
+
+75
+00:04:46,959 --> 00:04:51,189
+risco de roubo de entidade, cybercrime organizado, extorsão
+
+76
+00:04:51,199 --> 00:04:52,028
+e outros perigos.
+
+77
+00:04:52,040 --> 00:04:57,290
+A segurança nacional destaca a necessidade permanente de monitoramento eficaz.
+
+78
+00:04:57,298 --> 00:04:59,829
+Ferramentas, né? Como o Norte e o sucata,
+
+79
+00:04:59,838 --> 00:05:03,389
+aliadas a serviços especializados em tecnologia e de visão tornam
+
+80
+00:05:03,399 --> 00:05:07,170
+essenciais para identificar padrões suspeitos de ameaça.
+
+81
+00:05:07,178 --> 00:05:10,149
+Então, como nós falamos desde esse início, aí
+
+82
+00:05:10,160 --> 00:05:12,088
+a Dark Web é um mundo obscuro.
+
+83
+00:05:12,190 --> 00:05:13,802
+A gente tem a web, né.
+
+84
+00:05:13,812 --> 00:05:16,360
+Que é? É, é a área ali legal.
+
+85
+00:05:16,372 --> 00:05:20,002
+A área lícita é a área onde os dados são
+
+86
+00:05:20,011 --> 00:05:21,002
+criptografados.
+
+87
+00:05:21,011 --> 00:05:24,040
+Sim, precisa ter autenticação, mas não tem ações
+
+88
+00:05:24,052 --> 00:05:24,880
+ilícitas.
+
+89
+00:05:24,891 --> 00:05:27,122
+Ali nós temos a dark web, onde sim,
+
+90
+00:05:27,130 --> 00:05:29,302
+existem ações ilícitas.
+
+91
+00:05:29,312 --> 00:05:31,641
+E pra isso a gente precisa entender, precisa ter
+
+92
+00:05:31,651 --> 00:05:32,771
+conhecimento.
+
+93
+00:05:32,781 --> 00:05:35,170
+Esse abuso do conhecimento é fundamental que a partir do
+
+94
+00:05:35,182 --> 00:05:37,440
+momento que você começa a entender onde você tem que
+
+95
+00:05:37,451 --> 00:05:39,454
+ir pra onde, onde você não deve ir,
+
+96
+00:05:39,463 --> 00:05:43,853
+você consegue se proteger e ter sistemas de proteção melhores.
+
+97
+00:05:43,863 --> 00:05:45,233
+Então, quando a gente tá falando de empresa,
+
+98
+00:05:45,242 --> 00:05:48,733
+é essencial que a empresa tenha um sistema de proteção,
+
+99
+00:05:48,742 --> 00:05:51,894
+porque o sistema de proteção vai garantir que você consiga
+
+100
+00:05:51,903 --> 00:05:54,233
+agir proativamente aos ataques.
+
+101
+00:05:54,242 --> 00:05:58,194
+Ataques vão existir, né? Sabe aquela não sei
+
+102
+00:05:58,204 --> 00:06:00,742
+quando você vai ser atacado ou se já foi a
+
+103
+00:06:00,752 --> 00:06:01,293
+ser atacado.
+
+104
+00:06:01,302 --> 00:06:03,182
+Mas um dia você vai ser atacado.
+
+105
+00:06:03,194 --> 00:06:07,305
+Então, você precisa esses elementos, essas ferramentas,
+
+106
+00:06:07,315 --> 00:06:11,144
+essas tecnologias que te protejam contra os ataques e essas
+
+107
+00:06:11,156 --> 00:06:14,264
+tecnologias, elas precisam ser atualizadas, Esses temas,
+
+108
+00:06:14,276 --> 00:06:17,685
+esses profissionais precisam ser atualizados diariamente.
+
+109
+00:06:17,696 --> 00:06:21,144
+Por quê? Porque diariamente existe, né? A
+
+110
+00:06:21,156 --> 00:06:24,985
+cada hora existe uma nova tecnologia, uma nova forma
+
+111
+00:06:24,995 --> 00:06:28,665
+de fazer atos ilícitos, de invasões ou algo parecido.
+
+112
+00:06:28,675 --> 00:06:31,869
+Então, nós precisamos entender que precisamos desses sistemas de
+
+113
+00:06:31,879 --> 00:06:32,750
+monitoramento.
+
+114
+00:06:32,759 --> 00:06:38,509
+Sistemas de mota atualizados, profissionais qualificados, tá bom.
+
+115
+00:06:38,519 --> 00:06:41,790
+E todos os sistemas de proteção que nos blindam,
+
+116
+00:06:41,798 --> 00:06:47,149
+né desses ataques desses atos ilícitos? Porque eles ocorrem
+
+117
+00:06:47,160 --> 00:06:50,910
+diariamente, né? Eh muitas, você pode se
+
+118
+00:06:50,920 --> 00:06:52,588
+enganar, falar Ah, não, eu não.
+
+119
+00:06:52,600 --> 00:06:54,850
+Nunca vou ser atacado e não é.
+
+120
+00:06:54,858 --> 00:06:58,178
+Aqui, é muito bem protegido, mas isto é
+
+121
+00:06:58,189 --> 00:06:58,639
+uma.
+
+122
+00:06:58,649 --> 00:07:00,980
+É uma falácia.
+
+123
+00:07:00,988 --> 00:07:04,838
+Cada empresa, cada situação, a tendência de você
+
+124
+00:07:04,850 --> 00:07:08,209
+ser atacada em algum momento é muito, muito grande,
+
+125
+00:07:08,220 --> 00:07:13,480
+Então se proteger se qualificar, se proteger com pessoas
+
+126
+00:07:13,488 --> 00:07:17,528
+e ferramentas qualificadas é fundamental para a vitalidade da sua
+
+127
+00:07:17,540 --> 00:07:22,389
+empresa para a visibilidade da sua empresa pra garantir a
+
+128
+00:07:22,399 --> 00:07:24,309
+visibilidade da sua empresa.
+
+129
+00:07:24,319 --> 00:07:25,509
+Isso é fundamental.
+
+130
+00:07:25,519 --> 00:07:28,000
+Entenda isso, tá? Então? Busque esse conhecimento.
+
+131
+00:07:28,009 --> 00:07:32,358
+Não fique com medo de entender o que é uma
+
+132
+00:07:32,369 --> 00:07:33,019
+dark web.
+
+133
+00:07:33,028 --> 00:07:34,449
+O que uma de web, que a partir do
+
+134
+00:07:34,459 --> 00:07:37,569
+momento que você entende você vai entender a criticidade e
+
+135
+00:07:37,579 --> 00:07:38,759
+a realidade de cada uma.
+
+136
+00:07:38,769 --> 00:07:41,928
+E você vai saber como investir dinheiro Como investir tempo
+
+137
+00:07:41,939 --> 00:07:45,129
+pra que garanta, né? Essa essa segurança dos
+
+138
+00:07:45,139 --> 00:07:47,209
+seus dados, da visibilidade da sua empresa? Tá
+
+139
+00:07:47,220 --> 00:07:49,588
+bom, Muito obrigado e até a próxima aula!
+

@@ -1,0 +1,604 @@
+1
+00:00:06,799 --> 00:00:10,210
+Olá, vamos falar um pouquinho sobre operações de O
+
+2
+00:00:10,220 --> 00:00:13,038
+ao nível do Dow, né? Aqui eu tô
+
+3
+00:00:13,050 --> 00:00:18,068
+preocupado principalmente com a minha condição de restrição, né?
+
+4
+00:00:18,079 --> 00:00:21,250
+Eh Se eu não tomo cuidado com essas operações,
+
+5
+00:00:21,260 --> 00:00:25,019
+eu posso alterar todas as os os itens do banco,
+
+6
+00:00:25,030 --> 00:00:28,280
+ou eu posso remover todos os itens do banco e
+
+7
+00:00:28,289 --> 00:00:30,859
+eu não quero fazer isso, inclusive o uma s
+
+8
+00:00:30,870 --> 00:00:33,200
+q l atualmente ele tem um sistema de proteção que
+
+9
+00:00:33,209 --> 00:00:36,459
+se você não colocar o ar no update no ele
+
+10
+00:00:36,469 --> 00:00:38,709
+não te deixa fazer isso né? O uma s
+
+11
+00:00:38,719 --> 00:00:40,939
+q l tentar fazer um update no delite sem uma
+
+12
+00:00:40,950 --> 00:00:44,630
+cláusula are ele simplesmente vai falar que eh é uma
+
+13
+00:00:44,639 --> 00:00:47,219
+né cê não é Se não é seguro não,
+
+14
+00:00:47,228 --> 00:00:49,579
+você não pode executar aquilo aí você tem que colocar
+
+15
+00:00:49,590 --> 00:00:53,298
+explicitamente que você quer fazer aquilo senão ele não deixa
+
+16
+00:00:53,310 --> 00:00:53,759
+tá.
+
+17
+00:00:54,189 --> 00:00:56,639
+Eh de tão perigosa que é a operação né?
+
+18
+00:00:56,649 --> 00:00:59,189
+É muito comum a pessoa que trabalha com o banco
+
+19
+00:00:59,200 --> 00:01:01,399
+de dados acabar esquecendo um ar E daí vai embora
+
+20
+00:01:01,408 --> 00:01:03,279
+o banco, né? Se não tiver uma transação,
+
+21
+00:01:03,289 --> 00:01:06,120
+se não permitir um comit e um os dados já
+
+22
+00:01:06,129 --> 00:01:09,558
+eram tá, se você tá trabalhando de forma transacional
+
+23
+00:01:09,569 --> 00:01:11,400
+é interessante que você pode esperar um comit.
+
+24
+00:01:11,409 --> 00:01:14,198
+Mas se não for, aqueles dados já eram.
+
+25
+00:01:14,209 --> 00:01:16,790
+Então a gente tem que entender como usar eh a
+
+26
+00:01:16,799 --> 00:01:21,418
+cláusula em termos do P e do Vamos ver aqui
+
+27
+00:01:24,120 --> 00:01:27,730
+operações de elite e update DAW, né? Claro
+
+28
+00:01:27,739 --> 00:01:29,650
+que eu preciso, tá com o meu banco criado,
+
+29
+00:01:29,659 --> 00:01:31,769
+né? Aqui no meu exemplo, eu já tenho
+
+30
+00:01:31,778 --> 00:01:33,769
+tudo criado, que seria Ah, o modelo de
+
+31
+00:01:33,778 --> 00:01:38,879
+personagens, né? Então, aqui eh o meu
+
+32
+00:01:38,888 --> 00:01:43,079
+servidor, né? Eu já tenho aqui todo criado
+
+33
+00:01:43,088 --> 00:01:45,269
+imigrado, mas se não, se eu não tivesse,
+
+34
+00:01:45,278 --> 00:01:48,269
+eu teria que executar os comandos necessários que seriam pra
+
+35
+00:01:48,278 --> 00:01:50,819
+usar os sequela, né? E usar os sequela!
+
+36
+00:01:50,829 --> 00:01:54,698
+E pra poder gerar aqui o meu personagem, né?
+
+37
+00:01:54,709 --> 00:01:56,980
+Que tem os tipos que tem o nome, ataque
+
+38
+00:01:56,989 --> 00:01:58,120
+e defesa.
+
+39
+00:01:58,129 --> 00:02:04,099
+E também eh migrar Esse cara tá também precisaria configurar
+
+40
+00:02:04,109 --> 00:02:07,439
+meu banco no Jason, onde eu coloco lá.
+
+41
+00:02:07,448 --> 00:02:09,838
+Qual é o user name, qual é o pad
+
+42
+00:02:09,849 --> 00:02:10,919
+e qual é o data base.
+
+43
+00:02:10,929 --> 00:02:12,719
+Aqui eu tô usando a data base deve.
+
+44
+00:02:12,729 --> 00:02:15,439
+Já que eu tô trabalhando no modo de desenvolvimento.
+
+45
+00:02:15,449 --> 00:02:18,199
+Eu não coloquei o pro tá e nem tô fazendo
+
+46
+00:02:18,210 --> 00:02:18,758
+testes.
+
+47
+00:02:18,770 --> 00:02:21,838
+Se você coloca pro ele gera o, né?
+
+48
+00:02:21,849 --> 00:02:23,199
+Seria o produção.
+
+49
+00:02:23,210 --> 00:02:27,088
+Se você simplesmente roda um teste, ele automaticamente roda
+
+50
+00:02:27,099 --> 00:02:28,000
+o teste.
+
+51
+00:02:28,008 --> 00:02:29,800
+Ele vai criar o data base, né? A
+
+52
+00:02:29,808 --> 00:02:34,038
+base de testes eh caso ela não exista, né?
+
+53
+00:02:34,050 --> 00:02:38,770
+Bom, eh! Se eu não tiver esse cara,
+
+54
+00:02:38,778 --> 00:02:41,368
+eh pronto, né? Que que eu vou fazer?
+
+55
+00:02:41,379 --> 00:02:44,210
+Eu vou usar o n, p n, s
+
+56
+00:02:44,219 --> 00:02:47,368
+m k dois n PM está serv.
+
+57
+00:02:47,379 --> 00:02:50,679
+Deve se C, né Primeiros passos seria pra você
+
+58
+00:02:50,689 --> 00:02:53,520
+organizar o sequela e o conector com a S q
+
+59
+00:02:53,528 --> 00:02:55,439
+L e o comando de linha, né? O
+
+60
+00:02:55,449 --> 00:03:00,149
+esse comas line Inter fez do sequelas se o seria
+
+61
+00:03:00,159 --> 00:03:04,508
+pra poder ter a estrutura com Jason naquele Jason você
+
+62
+00:03:04,520 --> 00:03:07,830
+altera e o Z Passos data base pras três configurações
+
+63
+00:03:07,838 --> 00:03:10,750
+e pode também definir os nomes dos bancos de dados
+
+64
+00:03:10,758 --> 00:03:11,849
+em cada configuração.
+
+65
+00:03:12,699 --> 00:03:15,659
+Feito essa alteração no CONG, o D B create
+
+66
+00:03:15,669 --> 00:03:19,778
+é o que cria o banco e o generate nome
+
+67
+00:03:19,788 --> 00:03:19,979
+aqui.
+
+68
+00:03:19,990 --> 00:03:24,338
+Personagens com os atributos nome, ataque e defesa vai
+
+69
+00:03:24,349 --> 00:03:27,819
+gerar o modelo, né, Seria o meu mode
+
+70
+00:03:27,830 --> 00:03:31,500
+seria a minha classe do e o migrate vai vou
+
+71
+00:03:31,508 --> 00:03:34,300
+usar o migration vai fazer o quê? Vai pegar
+
+72
+00:03:34,308 --> 00:03:36,139
+e vai gerar a tabela no banco.
+
+73
+00:03:36,149 --> 00:03:38,210
+Então sempre chama a atenção que o D B Crea
+
+74
+00:03:38,219 --> 00:03:42,360
+cria o banco e o d B migra Vai criar?
+
+75
+00:03:42,368 --> 00:03:46,300
+Eh as tabelas, né? Ah, bom,
+
+76
+00:03:46,889 --> 00:03:50,449
+uma observação importante acerca disso aqui também é quando eu
+
+77
+00:03:50,460 --> 00:03:52,429
+faço, por exemplo, um sistema de dock,
+
+78
+00:03:52,439 --> 00:03:56,979
+né? Eh O ideal é que você não coloque
+
+79
+00:03:56,990 --> 00:03:59,659
+os d B no dock porque na hora que ele
+
+80
+00:03:59,669 --> 00:04:02,020
+tentar criar de novo, ele vai parar o microservice,
+
+81
+00:04:02,028 --> 00:04:05,860
+né? Eh, e quando você vai fazer eh
+
+82
+00:04:05,868 --> 00:04:11,058
+esse microservice com node e e você coloca o não
+
+83
+00:04:11,069 --> 00:04:12,899
+vai tentar rodar de novo ele para porque o banco
+
+84
+00:04:12,909 --> 00:04:15,099
+já tá criado, Mas o migrate não tem problema
+
+85
+00:04:15,110 --> 00:04:16,420
+porque se o banco já tiver criado, ele não
+
+86
+00:04:16,428 --> 00:04:18,699
+vai ter nenhuma nenhum impacto.
+
+87
+00:04:18,709 --> 00:04:21,670
+Então, normalmente, quando eu coloco o Microservice,
+
+88
+00:04:21,678 --> 00:04:24,459
+eu crio o banco de uma forma externa.
+
+89
+00:04:24,470 --> 00:04:26,798
+Mas eu crio as tabelas através de ti.
+
+90
+00:04:27,059 --> 00:04:29,350
+Isso garante que ele tá sempre com a base atualizada.
+
+91
+00:04:29,358 --> 00:04:32,309
+Meu único trabalho é criar a base inicial, né?
+
+92
+00:04:32,319 --> 00:04:35,350
+Só criar o D B, não criar as tabus
+
+93
+00:04:35,358 --> 00:04:36,670
+tá bom.
+
+94
+00:04:38,689 --> 00:04:41,338
+Eh então que eu tenho o uso do padrão do
+
+95
+00:04:41,350 --> 00:04:43,178
+pro delite, né? O delite é uma instrução
+
+96
+00:04:43,189 --> 00:04:43,879
+bem simples.
+
+97
+00:04:44,470 --> 00:04:46,519
+Eu tenho lá no meu personagem da O deck é
+
+98
+00:04:46,528 --> 00:04:49,608
+o delite com a assim que e de e o
+
+99
+00:04:49,619 --> 00:04:53,088
+que eu falo pra ele personagem ponto Destrói beleza.
+
+100
+00:04:53,100 --> 00:04:57,309
+Destruir é remover, mas eu vou remover quem eu
+
+101
+00:04:57,319 --> 00:04:59,949
+vou remover o personagem cujo a d é aquele a
+
+102
+00:04:59,959 --> 00:05:03,858
+Idi que eu informei então a d dois pontos e
+
+103
+00:05:03,869 --> 00:05:08,338
+d né? Então com isso através de uma cláusula
+
+104
+00:05:08,350 --> 00:05:11,819
+a eu tô garantindo um aquele operador Ware que eu
+
+105
+00:05:11,829 --> 00:05:13,939
+tô garantindo que esse cara eh vai ser removido,
+
+106
+00:05:13,949 --> 00:05:16,139
+vai ser aquele com a com aquele ed específico,
+
+107
+00:05:16,149 --> 00:05:20,139
+eu poderia deletar todos os personagens cuja pontuação é zero,
+
+108
+00:05:20,149 --> 00:05:21,879
+né? Com o ataque é zero, eu poderia
+
+109
+00:05:21,889 --> 00:05:24,660
+colocar destrói o are e aí eu poderia colocar outra
+
+110
+00:05:24,670 --> 00:05:27,928
+condição qualquer, né? Aí eu usaria aqueles operadores
+
+111
+00:05:27,939 --> 00:05:31,338
+do Air, né? Da mesma forma no update
+
+112
+00:05:31,350 --> 00:05:34,759
+eu tenho lá o método que é o update.
+
+113
+00:05:34,769 --> 00:05:36,928
+Só que nesse método no caso como eu vou ter
+
+114
+00:05:36,939 --> 00:05:39,980
+novas informações? O que que eu passo pra ele
+
+115
+00:05:39,988 --> 00:05:43,220
+as informações novas no formato de Jason, né?
+
+116
+00:05:43,230 --> 00:05:46,459
+O OB J Jason e eu passo a condição de
+
+117
+00:05:46,470 --> 00:05:49,100
+onde vai alterar, ou seja todo mundo que tiver
+
+118
+00:05:49,108 --> 00:05:51,259
+aquele aí de específico vai que só no caso,
+
+119
+00:05:51,269 --> 00:05:53,699
+como a chave primária só vai ser um vai ter
+
+120
+00:05:53,709 --> 00:05:55,809
+aquela informação alterada pelo B.
+
+121
+00:05:55,819 --> 00:05:55,829
+J.
+
+122
+00:05:55,838 --> 00:05:58,738
+Jason aqui não tem a mesma restrição de uma s
+
+123
+00:05:58,750 --> 00:05:59,178
+Q L.
+
+124
+00:05:59,189 --> 00:06:02,178
+Então eu poderia, por exemplo, eh alterar o
+
+125
+00:06:02,189 --> 00:06:04,619
+poder de todos os personagens em dez por cento.
+
+126
+00:06:04,629 --> 00:06:08,910
+Bastaria colocar o o B J, Jason, né
+
+127
+00:06:08,920 --> 00:06:12,309
+Que são as informações que eu preciso E aí eh
+
+128
+00:06:12,319 --> 00:06:14,910
+ele alteraria pra todos, né? Mas é assim
+
+129
+00:06:14,920 --> 00:06:18,319
+nunca é bom colocar um update um deli aberto que
+
+130
+00:06:18,329 --> 00:06:20,809
+você sabe que o impacto vai ser no banco inteiro,
+
+131
+00:06:20,819 --> 00:06:25,369
+né? Bom isso aqui a nível do Down ficou
+
+132
+00:06:25,379 --> 00:06:26,278
+implementado.
+
+133
+00:06:27,910 --> 00:06:34,040
+Hum hum dessa forma, né? Então eu tenho
+
+134
+00:06:34,048 --> 00:06:36,899
+lá o update assim que é Diogo J Jason,
+
+135
+00:06:38,108 --> 00:06:40,480
+O B J Jason era de igual a tal,
+
+136
+00:06:40,488 --> 00:06:43,500
+né? É com esses eh, as chaves dos
+
+137
+00:06:43,509 --> 00:06:47,358
+parentes coloridos ajudam muito a você visualizar no Android Estúdio,
+
+138
+00:06:47,369 --> 00:06:52,269
+né? No no caso, no vis estúdio tá
+
+139
+00:06:52,278 --> 00:06:55,250
+eh A a D B personagem destrói o I d
+
+140
+00:06:55,259 --> 00:06:58,809
+dois pontos Okay Então, no Visual Studio Code,
+
+141
+00:06:58,819 --> 00:07:01,970
+você consegue ter essa visualização mais simples, né?
+
+142
+00:07:01,980 --> 00:07:08,358
+Então aqui eu tenho as operações de p de sempre
+
+143
+00:07:08,369 --> 00:07:11,678
+reforçando a importância do ar, né? E nesse
+
+144
+00:07:11,689 --> 00:07:13,619
+caso, ali o Air vai usar aquela síntese.
+
+145
+00:07:13,629 --> 00:07:15,798
+Se eu precisar de um aro que tenha mais de
+
+146
+00:07:15,809 --> 00:07:18,410
+um tributo, eu posso usar o ar, tem
+
+147
+00:07:18,420 --> 00:07:21,559
+muitas opções, pode ser utilizadas para um crude padrão.
+
+148
+00:07:21,569 --> 00:07:23,678
+Vai ser sempre pela chave, então a gente não
+
+149
+00:07:23,689 --> 00:07:26,879
+vai usar quase nunca esses operadores pro crude simples,
+
+150
+00:07:26,889 --> 00:07:29,689
+mas eu posso ter operações um pouquinho mais avançadas que
+
+151
+00:07:29,699 --> 00:07:32,019
+vão exigir o uso desses operadores.
+

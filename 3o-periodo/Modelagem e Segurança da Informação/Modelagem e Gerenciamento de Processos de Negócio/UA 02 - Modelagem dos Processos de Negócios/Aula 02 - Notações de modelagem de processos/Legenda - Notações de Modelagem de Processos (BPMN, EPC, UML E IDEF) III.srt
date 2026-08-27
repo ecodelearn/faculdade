@@ -1,0 +1,828 @@
+1
+00:00:06,519 --> 00:00:11,569
+Olá, vão finalizar o nosso aprendizado na na anotação
+
+2
+00:00:11,579 --> 00:00:15,288
+de modelagem, falando das duas últimas modelagens dos últimos
+
+3
+00:00:15,300 --> 00:00:17,728
+modelos que nós temos que é o ML e o
+
+4
+00:00:17,739 --> 00:00:18,079
+E d f.
+
+5
+00:00:18,089 --> 00:00:20,728
+Então nós vamos ver agora mais dois dois.
+
+6
+00:00:20,739 --> 00:00:23,809
+Ah modelos, eh muito usa, eh o ML
+
+7
+00:00:23,818 --> 00:00:24,629
+é muito usado no meu.
+
+8
+00:00:24,693 --> 00:00:27,225
+O mercado, né? Muito trabalhado aí dentro da
+
+9
+00:00:27,234 --> 00:00:29,783
+parte de desenvolvimento de software, né? E o,
+
+10
+00:00:29,795 --> 00:00:32,145
+E D f Também Vamos aprender e vamos ver.
+
+11
+00:00:32,154 --> 00:00:34,685
+O que significa esse esse modelo aí tá legal.
+
+12
+00:00:34,694 --> 00:00:36,543
+Vamos começar a A, A, a ver a
+
+13
+00:00:36,554 --> 00:00:40,384
+perspectiva primeiro do ML, né? O ML é
+
+14
+00:00:40,395 --> 00:00:46,700
+uma é uma linguagem, né? Eh pa padronizar
+
+15
+00:00:46,709 --> 00:00:49,679
+até fácil de análise e projeto, né? Então
+
+16
+00:00:49,689 --> 00:00:52,279
+olha só eh ela fo primeiro, né? Ela
+
+17
+00:00:52,289 --> 00:00:54,700
+foi criada, né? EH É uma uma olha
+
+18
+00:00:54,709 --> 00:00:59,740
+só uma linguagem unificada de modelagem, então ela unificou
+
+19
+00:00:59,750 --> 00:01:01,399
+algumas anotações.
+
+20
+00:01:01,408 --> 00:01:04,448
+Aqui não é anotações, aqui é anotações quais são
+
+21
+00:01:04,459 --> 00:01:06,760
+anotações de boc, o M T e de cob?
+
+22
+00:01:06,769 --> 00:01:12,189
+Então essas essas eh esses modelos foram unificados e gerou
+
+23
+00:01:12,198 --> 00:01:14,349
+uma única anotação que a gente vai entender como sendo
+
+24
+00:01:14,359 --> 00:01:14,989
+o o ML.
+
+25
+00:01:15,000 --> 00:01:20,870
+Essa eh, o ML eh! Busca a padronização
+
+26
+00:01:20,879 --> 00:01:24,650
+dos artefatos de análise e projeto então ele é um
+
+27
+00:01:24,659 --> 00:01:26,269
+modelo semântico.
+
+28
+00:01:26,278 --> 00:01:28,338
+Ele é um modelo com sintaxe e natação.
+
+29
+00:01:28,349 --> 00:01:30,430
+Ele é um modelo que tem um diagrama nós vamos
+
+30
+00:01:30,439 --> 00:01:32,659
+ver isso aqui agora.
+
+31
+00:01:32,668 --> 00:01:36,620
+Então eh, eh as características da DA, da
+
+32
+00:01:36,629 --> 00:01:36,989
+da, da U.
+
+33
+00:01:37,000 --> 00:01:41,739
+ML, né? Dessa dessa anotação ela envolve,
+
+34
+00:01:41,750 --> 00:01:46,308
+por exemplo, a riqueza de diagrama, né?
+
+35
+00:01:46,319 --> 00:01:48,308
+Oh! Riqueza diagrama O que que é? Essa
+
+36
+00:01:48,319 --> 00:01:51,168
+riqueza de diagrama? Tem vários tipos de diagrama pra
+
+37
+00:01:51,180 --> 00:01:54,668
+você utilizar fica assim é é muito de diagrama mesmo
+
+38
+00:01:54,680 --> 00:01:58,370
+e cê pode moderar de ver diferentes aspectos de sistema,
+
+39
+00:01:58,379 --> 00:02:01,989
+desde a estrutura até o comportamento entre a interação.
+
+40
+00:02:02,000 --> 00:02:05,230
+Agora isso também é uma uma uma questão complicada,
+
+41
+00:02:05,239 --> 00:02:07,750
+né? Porque quanto se você for considerar todos os
+
+42
+00:02:07,760 --> 00:02:10,129
+diagramas cê tá perdido porque é muito diagrama.
+
+43
+00:02:10,479 --> 00:02:13,129
+Então muitas das vezes as pessoas, as organizações se
+
+44
+00:02:13,139 --> 00:02:16,368
+perdem na quantidade de oferta de grama que a o
+
+45
+00:02:16,379 --> 00:02:17,288
+ML traz.
+
+46
+00:02:17,300 --> 00:02:20,909
+E aí gera mais dificuldade do que solução, mas
+
+47
+00:02:21,520 --> 00:02:23,270
+você vai usar, claro, o diagrama que foi
+
+48
+00:02:23,278 --> 00:02:24,909
+aplicada a sua necessidade.
+
+49
+00:02:24,919 --> 00:02:27,409
+Outra coisa é a questão da padronização, ou seja,
+
+50
+00:02:27,419 --> 00:02:31,008
+facilita a com a compressão e a interpretação de modelo,
+
+51
+00:02:31,020 --> 00:02:33,849
+porque ela é padronizada a o padrão.
+
+52
+00:02:33,860 --> 00:02:36,368
+Ela nos dá um caminho o padrão ela nos dá
+
+53
+00:02:36,379 --> 00:02:39,504
+um norte, né? Ela não gera? Não,
+
+54
+00:02:39,514 --> 00:02:41,604
+não, não gera o padrão existe pra não gerar
+
+55
+00:02:41,615 --> 00:02:44,205
+a dúvida pra não gerar nenhum tipo de distorção pra
+
+56
+00:02:44,213 --> 00:02:46,705
+não gerar nenhum tipo de descaminho.
+
+57
+00:02:46,713 --> 00:02:50,085
+A padronização é justamente pra garantir que aquilo ocorra.
+
+58
+00:02:50,094 --> 00:02:51,504
+Tal como foi desenhado.
+
+59
+00:02:52,389 --> 00:02:55,319
+Simples assim, né? Outra coisa que ela traz
+
+60
+00:02:55,330 --> 00:02:58,300
+pra gente tava num né? É a versatilidade.
+
+61
+00:02:58,308 --> 00:03:02,278
+Ou seja, são vários domínios quando você considerar o
+
+62
+00:03:02,288 --> 00:03:05,199
+desenvolvimento de um software, você vai considerar o vários
+
+63
+00:03:05,210 --> 00:03:07,800
+domínios de eh acerca do desenvolvimento de software.
+
+64
+00:03:07,808 --> 00:03:12,868
+E ela tem a versatilidade de apresentar modelos pra cada
+
+65
+00:03:12,879 --> 00:03:16,800
+um desses domínios pra cada uma dessas interações de desenvolvimento
+
+66
+00:03:16,808 --> 00:03:18,308
+de software que você vai ter.
+
+67
+00:03:18,319 --> 00:03:21,419
+Então, ela é versátil a o ML e outra
+
+68
+00:03:21,429 --> 00:03:23,520
+é a questão do nível de.
+
+69
+00:03:23,528 --> 00:03:25,439
+Detalhamento, né? O nível de detalhamento.
+
+70
+00:03:25,449 --> 00:03:28,038
+Ou seja, tanto você pode ver uma visão de
+
+71
+00:03:28,050 --> 00:03:33,199
+alto nível dentro do ML como uma um um,
+
+72
+00:03:33,210 --> 00:03:37,838
+um detalhamento mais granular, mais detalhe, mais no
+
+73
+00:03:37,849 --> 00:03:39,538
+no no no dado em si mesmo.
+
+74
+00:03:39,550 --> 00:03:42,558
+Mas lá no pontinho que você quer observar, então
+
+75
+00:03:42,569 --> 00:03:46,199
+a ML tem essa característica eh, eh fabulosa de
+
+76
+00:03:46,210 --> 00:03:50,558
+apresentar essas essas essas Eh, eh, eh Esse
+
+77
+00:03:50,569 --> 00:03:55,699
+detalhe ali tá a o ML pessoal é uma.
+
+78
+00:03:55,710 --> 00:03:58,580
+É uma linguagem, né? Que é um modelo,
+
+79
+00:03:58,588 --> 00:04:02,020
+né? Que vem com o apoio ao que é
+
+80
+00:04:02,028 --> 00:04:05,659
+o processo, que é o processo ficado, né?
+
+81
+00:04:05,669 --> 00:04:08,000
+Que é uma é uma linguagem de modelagem A gente
+
+82
+00:04:08,008 --> 00:04:09,569
+fala que é a linguagem de modelagem, Tá aqui,
+
+83
+00:04:09,580 --> 00:04:13,659
+oh linguagem de modelagem, okay e não um método
+
+84
+00:04:13,669 --> 00:04:16,730
+porque é? É, é uma linguagem visual de
+
+85
+00:04:16,738 --> 00:04:20,899
+gramática que ela tem, o seu processo e os
+
+86
+00:04:20,910 --> 00:04:23,798
+passos que você vai seguir quando você for trabalhar com
+
+87
+00:04:23,809 --> 00:04:24,500
+um projeto.
+
+88
+00:04:24,509 --> 00:04:26,019
+Se você vai trabalhar com um projeto, você tem
+
+89
+00:04:26,028 --> 00:04:30,428
+exatamente como vai a passo a passo desse processo que
+
+90
+00:04:30,439 --> 00:04:33,350
+que você tem que seguir pra aquele processo acontecer.
+
+91
+00:04:33,358 --> 00:04:36,509
+Essa é a característica da o ML Esse é o
+
+92
+00:04:36,519 --> 00:04:40,910
+pressuposto da o ML, né? Essa essa capacidade
+
+93
+00:04:40,920 --> 00:04:49,309
+de entregar esse esse esse entendimento acerca desse processo,
+
+94
+00:04:49,319 --> 00:04:51,269
+né? Então olha aqui oh, quando e aí
+
+95
+00:04:51,278 --> 00:04:53,350
+vem lá um um, um um um Quando é
+
+96
+00:04:53,358 --> 00:04:54,689
+que você vai usar o ML, né? Quando
+
+97
+00:04:54,699 --> 00:04:56,379
+você vai usar tá aqui, oh, você vai
+
+98
+00:04:56,389 --> 00:04:56,649
+usar.
+
+99
+00:04:56,660 --> 00:04:59,399
+Quando você for desenvolver um software, tá desenvolvendo software.
+
+100
+00:04:59,410 --> 00:05:03,170
+Você vai usar um o ML padrão, né?
+
+101
+00:05:03,178 --> 00:05:07,809
+Sistemas complexos Você pode usar o ML tem diagrama tem
+
+102
+00:05:07,819 --> 00:05:10,889
+uma série de diagrama né? Cê tem diagrama aí
+
+103
+00:05:10,899 --> 00:05:13,040
+aí a gente tá vendo um diagrama de classe você
+
+104
+00:05:13,048 --> 00:05:16,329
+tem diagrama de classe tem cê tem diagrama de estado?
+
+105
+00:05:16,338 --> 00:05:18,488
+Você tem uma série de diagramas aí da o ML
+
+106
+00:05:18,500 --> 00:05:20,569
+tá, então esse eh eh, eh, eh
+
+107
+00:05:20,579 --> 00:05:25,750
+e exemplos de diagrama né? Favorecem a utilização da
+
+108
+00:05:25,759 --> 00:05:27,699
+O ML, então você também tem.
+
+109
+00:05:27,709 --> 00:05:30,259
+Quando você quer fazer a colaboração entre a equipe tá,
+
+110
+00:05:30,269 --> 00:05:30,619
+Tá.
+
+111
+00:05:30,629 --> 00:05:32,939
+Então, assim, o ML é bem versátil nesse
+
+112
+00:05:32,949 --> 00:05:34,420
+ponto agora, claro, claro.
+
+113
+00:05:34,428 --> 00:05:39,139
+Claro, né? Como toda, como todo eh
+
+114
+00:05:39,149 --> 00:05:42,858
+pressuposto, né? Ah, a u ML apresenta
+
+115
+00:05:42,869 --> 00:05:45,545
+também suas vantagens e desvantagens, né, a vantagem?
+
+116
+00:05:45,553 --> 00:05:48,625
+Ela tem comunicação clara? Ela tem flexibilidade, a
+
+117
+00:05:48,634 --> 00:05:49,704
+gente já viu a gente.
+
+118
+00:05:49,713 --> 00:05:53,064
+Ela tem documentação rigorosa, padrão e ela tem um
+
+119
+00:05:53,074 --> 00:05:57,035
+amplo suporte aí de ferramentas que utilizam o ML.
+
+120
+00:05:57,045 --> 00:05:59,944
+Só que, por exemplo, ela tem uma go
+
+121
+00:05:59,954 --> 00:06:02,863
+de aprendizado como desvantagem, porque é muito longa,
+
+122
+00:06:02,875 --> 00:06:05,004
+né? Porque é muito fluxo, muita coisa.
+
+123
+00:06:05,428 --> 00:06:08,199
+Ela tem uma um risco de complexidade excessiva.
+
+124
+00:06:08,209 --> 00:06:12,199
+A partir do momento que você cria modelos muito sucessivos
+
+125
+00:06:12,209 --> 00:06:14,959
+complexos e aí você pode perder a referência, então
+
+126
+00:06:14,970 --> 00:06:16,449
+isso é um problema que você tem que observar quando
+
+127
+00:06:16,459 --> 00:06:19,259
+você for usar, ela tem o tempo e custo
+
+128
+00:06:19,269 --> 00:06:20,720
+tá, eh, eh muito.
+
+129
+00:06:20,730 --> 00:06:24,079
+Quanto mais detalhado o processo, mais eh fluxo.
+
+130
+00:06:24,088 --> 00:06:27,920
+Você fizer mais diagrama você utilizar mais, vai aumentar
+
+131
+00:06:27,928 --> 00:06:30,798
+o seu tempo e custo do seu do seu processo
+
+132
+00:06:30,809 --> 00:06:32,819
+e ela também é superdimensionada.
+
+133
+00:06:32,915 --> 00:06:34,903
+Ou seja, ela tanto é feita pra um processo
+
+134
+00:06:34,915 --> 00:06:36,845
+pequeno como processo gigante.
+
+135
+00:06:36,855 --> 00:06:40,084
+Então essas são as desvantagens da da o ML,
+
+136
+00:06:40,095 --> 00:06:43,204
+mas né? É muito um padrão muito utilizado,
+
+137
+00:06:43,213 --> 00:06:45,684
+muito aceito na questão do desenvolvimento de software.
+
+138
+00:06:45,694 --> 00:06:53,579
+Importante também tá? Eh a outra eh linguagem que
+
+139
+00:06:53,588 --> 00:06:55,699
+nós temos, né? Outro modelo que nós temos
+
+140
+00:06:55,709 --> 00:06:57,540
+é o I d F, né? Que é
+
+141
+00:06:57,548 --> 00:07:01,259
+um padrão de processamento de informação desenvolvido aí pela Força
+
+142
+00:07:01,269 --> 00:07:02,738
+Aérea dos Estados Unidos.
+
+143
+00:07:02,750 --> 00:07:06,178
+Okay é uma anotação técnica pra definir processo de trabalho,
+
+144
+00:07:06,189 --> 00:07:09,660
+sistema de informação, ambiente de manufatura e agora ficou
+
+145
+00:07:09,670 --> 00:07:10,528
+de domínio público.
+
+146
+00:07:10,540 --> 00:07:12,689
+Então aí, em que pese ter sido feito lá
+
+147
+00:07:12,699 --> 00:07:15,139
+pela Força Aérea dos Estados Unidos, hoje ela é
+
+148
+00:07:15,149 --> 00:07:17,540
+de domínio público, né? E tem uma série
+
+149
+00:07:17,548 --> 00:07:20,298
+de métodos voltados a aspectos da modelagem.
+
+150
+00:07:20,309 --> 00:07:22,290
+Por exemplo, ah, o mais conhecido é o
+
+151
+00:07:22,298 --> 00:07:24,250
+I D F zero pra modelar a função de um
+
+152
+00:07:24,259 --> 00:07:25,519
+sistema e suas interações.
+
+153
+00:07:25,528 --> 00:07:29,019
+Cê também tem o I D F um X pra
+
+154
+00:07:29,028 --> 00:07:30,889
+modelagem de dados você quer modelar de dados? Você
+
+155
+00:07:30,899 --> 00:07:33,389
+vai usar o processo i d f um x eh
+
+156
+00:07:33,399 --> 00:07:38,540
+você quer eh modelar o processo orientado evento você tem
+
+157
+00:07:38,548 --> 00:07:41,670
+o i d f três né? Então assim cada
+
+158
+00:07:41,678 --> 00:07:45,588
+modelo dessas eh de que eh de métodos permite você
+
+159
+00:07:45,600 --> 00:07:50,809
+modelar um determinado domínio um determinado eh uma determinada perspectiva,
+
+160
+00:07:50,819 --> 00:07:52,528
+né que pode ser um software que pode ser um
+
+161
+00:07:52,540 --> 00:07:55,410
+dado que pode ser um um evento ou o que
+
+162
+00:07:55,420 --> 00:07:59,410
+quer que seja tá? Eh um dos pontos fortes
+
+163
+00:07:59,420 --> 00:08:02,959
+do i d f é o justamente essa documentação abrangente,
+
+164
+00:08:02,970 --> 00:08:06,269
+né? Então como ele se destina a produzir artefatos
+
+165
+00:08:06,278 --> 00:08:07,569
+e e não a eh, que eh, eh
+
+166
+00:08:07,579 --> 00:08:10,689
+e não apenas representar o sistema, então ele tem
+
+167
+00:08:10,699 --> 00:08:13,250
+uma uma uma um conjunto de informações bem rica,
+
+168
+00:08:13,259 --> 00:08:17,449
+bem exaustiva, o que é bastante útil dentro do
+
+169
+00:08:17,459 --> 00:08:18,809
+do do da nossa perspectiva.
+
+170
+00:08:18,819 --> 00:08:21,536
+Tá as cara turísticas do I d f envolvem a
+
+171
+00:08:21,545 --> 00:08:24,375
+modularidade, Ou seja, você tem vários métodos acabei
+
+172
+00:08:24,384 --> 00:08:25,656
+de falar, né cê tem o i d f
+
+173
+00:08:25,665 --> 00:08:28,065
+x eh e d f x um um x o
+
+174
+00:08:28,074 --> 00:08:30,014
+i d f zero o i d f três Então
+
+175
+00:08:30,026 --> 00:08:32,394
+modularidade cê tem vários modos que você pode utilizar,
+
+176
+00:08:32,405 --> 00:08:34,596
+então essa é a característica bacana dela.
+
+177
+00:08:34,605 --> 00:08:37,254
+Outro foco na documentação, né? Você tem uma
+
+178
+00:08:37,264 --> 00:08:41,254
+uma documentação rica e abrangente para os sistemas, Então
+
+179
+00:08:41,264 --> 00:08:44,942
+é uma legal representação hierarca, ou seja, você
+
+180
+00:08:44,951 --> 00:08:50,841
+tem uma modelagem que permite uma decomposição de sistemas complexos
+
+181
+00:08:50,850 --> 00:08:55,660
+em componentes mais gerenciáveis e a questão da padronização tem
+
+182
+00:08:55,671 --> 00:08:59,942
+uma notação e terminologia que facilita essa compreensão.
+
+183
+00:08:59,951 --> 00:09:04,129
+Essa utilização essas são as características principais do i d
+
+184
+00:09:04,139 --> 00:09:06,658
+F, né? Um exemplo de um diagrama o
+
+185
+00:09:06,668 --> 00:09:07,950
+e d f tá aqui na, na, na,
+
+186
+00:09:07,960 --> 00:09:09,529
+na na tela, né? Então a gente quer
+
+187
+00:09:09,538 --> 00:09:11,830
+usar o sistema complexo com requisito de co docu de
+
+188
+00:09:11,840 --> 00:09:14,849
+eh documentação e desenvolver sistemas críticos.
+
+189
+00:09:14,859 --> 00:09:16,009
+Você pode usar o e d F, Então tá
+
+190
+00:09:16,019 --> 00:09:19,769
+aqui um exemplo de de diagrama, né? Uma
+
+191
+00:09:19,779 --> 00:09:24,710
+aplicação começa aqui tem a parte de da da aplicação
+
+192
+00:09:24,719 --> 00:09:26,548
+da aplicação.
+
+193
+00:09:26,558 --> 00:09:28,808
+E aí ele vai aqui oh, vai executando,
+
+194
+00:09:28,820 --> 00:09:33,849
+oh, eh, eh, né? Eh requisições.
+
+195
+00:09:33,859 --> 00:09:36,428
+E assim por diante você vai se desdobrando ao longo
+
+196
+00:09:36,440 --> 00:09:38,750
+do caminho, aí tá bom? Então eh.
+
+197
+00:09:38,759 --> 00:09:41,009
+Essa é uma linguagem que também a gente pode,
+
+198
+00:09:41,019 --> 00:09:44,149
+tá considerando a questão da modelagem tá, então eh
+
+199
+00:09:44,158 --> 00:09:48,190
+por fim a gente vai eh, eh, ela
+
+200
+00:09:48,200 --> 00:09:51,094
+é a compreensão, Ela é flexível, mas ela
+
+201
+00:09:51,104 --> 00:09:54,154
+é complexa e tem uma curva de aprendizado alto,
+
+202
+00:09:54,163 --> 00:09:55,173
+né? Porque ela não é.
+
+203
+00:09:55,183 --> 00:09:56,955
+Como ela é da Força Aérea dos Estados Unidos,
+
+204
+00:09:56,965 --> 00:09:59,994
+ela não foi muito assim, não é muito bem
+
+205
+00:10:00,004 --> 00:10:00,994
+disseminada.
+
+206
+00:10:01,004 --> 00:10:04,413
+De qualquer forma, é um modelo aplicável que você
+
+207
+00:10:04,423 --> 00:10:07,154
+pode utilizar okay, obrigado até a próxima!
+

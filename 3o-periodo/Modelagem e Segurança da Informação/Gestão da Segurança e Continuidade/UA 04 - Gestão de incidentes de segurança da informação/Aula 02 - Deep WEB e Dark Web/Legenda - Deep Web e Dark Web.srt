@@ -1,0 +1,672 @@
+1
+00:00:06,288 --> 00:00:09,398
+sejam bem-vindos em mais uma aula da nossa disciplina,
+
+2
+00:00:09,409 --> 00:00:11,640
+segurança da informação e continuidade.
+
+3
+00:00:11,648 --> 00:00:13,859
+Tá? Estamos indo pra próxima unidade, onde a
+
+4
+00:00:13,868 --> 00:00:15,739
+gente vai ver umas características muito legais.
+
+5
+00:00:15,750 --> 00:00:17,978
+Tá, vamos falar sobre DIP e dark web,
+
+6
+00:00:17,989 --> 00:00:19,809
+então o que é isso? De onde vem,
+
+7
+00:00:19,818 --> 00:00:21,940
+pra onde vai? Então a gente vai entender um
+
+8
+00:00:21,949 --> 00:00:24,739
+pouco isso essa, esse lado oculto as pessoas ficam.
+
+9
+00:00:24,750 --> 00:00:26,600
+Todo mundo no fica com essa dúvida.
+
+10
+00:00:26,609 --> 00:00:28,420
+O que é é do mal, é do bem.
+
+11
+00:00:28,429 --> 00:00:31,620
+Então a gente vai entender um pouco sobre essa questão
+
+12
+00:00:31,629 --> 00:00:33,109
+de DEP ou E Dark Web.
+
+13
+00:00:33,118 --> 00:00:38,529
+Tá bom a internet, né? É muito grande
+
+14
+00:00:38,539 --> 00:00:39,929
+gente,às vezes a gente olha pra internet e
+
+15
+00:00:39,939 --> 00:00:41,829
+pensa que a internet é só aquele o Google,
+
+16
+00:00:41,840 --> 00:00:44,810
+né? O YouTube e enfim, a internet é
+
+17
+00:00:44,819 --> 00:00:48,408
+um vasto universo, um vasto até essa figurinha legal
+
+18
+00:00:48,418 --> 00:00:49,529
+é um, é um oceano.
+
+19
+00:00:49,539 --> 00:00:51,368
+É um vasto oceano, Então, a internet é
+
+20
+00:00:51,380 --> 00:00:56,569
+vasta e diversificada, debe diversificada, indo muito além
+
+21
+00:00:56,579 --> 00:01:00,329
+do que facilmente acessa, que facilmente acessível pelos motores
+
+22
+00:01:00,340 --> 00:01:01,329
+de busca convencionais.
+
+23
+00:01:01,340 --> 00:01:05,058
+Tá para compreendermos esse esse território? O culto.
+
+24
+00:01:05,069 --> 00:01:07,680
+É fundamental explorar duas camadas distintas, que é a
+
+25
+00:01:07,689 --> 00:01:09,239
+JP Web e a Dark Web.
+
+26
+00:01:09,250 --> 00:01:11,198
+Então, uma figura e você pode ver, você
+
+27
+00:01:11,209 --> 00:01:12,879
+pode ver que aqui a gente tá falando de quando
+
+28
+00:01:12,888 --> 00:01:13,918
+a gente fala de JP web.
+
+29
+00:01:13,930 --> 00:01:16,849
+A gente tá falando dessa parte aqui que são ali
+
+30
+00:01:16,859 --> 00:01:21,204
+a internet que não é indecência e aqui tem o
+
+31
+00:01:21,213 --> 00:01:23,375
+lado os serviços ocultos dela.
+
+32
+00:01:23,385 --> 00:01:26,013
+E aqui em cima é o que geralmente a gente
+
+33
+00:01:26,025 --> 00:01:29,495
+usa diariamente, que são serviços indexados, como por
+
+34
+00:01:29,504 --> 00:01:32,415
+exemplo YouTube a própria busca do Google, né?
+
+35
+00:01:32,424 --> 00:01:36,694
+A wikipedia aqui o Facebook, linkedin, enfim,
+
+36
+00:01:36,704 --> 00:01:39,814
+eh, são essas características e então essas diferenciações?
+
+37
+00:01:39,823 --> 00:01:41,213
+E é o que nós vamos ver hoje tá,
+
+38
+00:01:41,224 --> 00:01:43,213
+a gente vai ver agora que o que é cada
+
+39
+00:01:43,224 --> 00:01:47,418
+atividade dessa aí vamos lá, estes nomes em tradução
+
+40
+00:01:47,430 --> 00:01:50,790
+livre seria, né? Rede profunda e rede O
+
+41
+00:01:50,799 --> 00:01:53,329
+es obscura, né? Então, eh, são
+
+42
+00:01:53,338 --> 00:01:57,430
+utilizados para descrever partes específicas e distinta da internet,
+
+43
+00:01:57,439 --> 00:02:01,629
+que não são facilmente acessíveis ou inde por pelos motores
+
+44
+00:02:01,638 --> 00:02:02,888
+de buscas convencionais.
+
+45
+00:02:02,900 --> 00:02:03,430
+Por exemplo.
+
+46
+00:02:03,439 --> 00:02:04,689
+O Google, né? Como o motor de busca
+
+47
+00:02:05,150 --> 00:02:07,698
+pense na internet como um oceano de informações.
+
+48
+00:02:07,709 --> 00:02:11,038
+Considere as principais as primeiras dezenas de pro.
+
+49
+00:02:11,050 --> 00:02:14,038
+As primeiras dezenas de profundidades, como a web que
+
+50
+00:02:14,050 --> 00:02:15,439
+estamos acostumados acessar.
+
+51
+00:02:15,449 --> 00:02:19,778
+Tá Podemos acessar essas águas rasas com facilidades utilizando,
+
+52
+00:02:19,788 --> 00:02:22,800
+né? Os motores de busca como o Google para
+
+53
+00:02:22,808 --> 00:02:25,520
+acessar bibliotecas imensas, de sites indexados.
+
+54
+00:02:25,528 --> 00:02:27,000
+Então, quando a gente tá falando ali de um
+
+55
+00:02:27,008 --> 00:02:29,838
+grande oceano, aquela parte mais rasa e os primeiros
+
+56
+00:02:29,849 --> 00:02:31,758
+metros é o que a gente acessa, porque são
+
+57
+00:02:31,770 --> 00:02:33,240
+os dados, né? Que você chega lá no
+
+58
+00:02:33,250 --> 00:02:35,349
+google e faz uma pesquisa? Ele te traz essa
+
+59
+00:02:35,360 --> 00:02:36,000
+informação.
+
+60
+00:02:36,008 --> 00:02:40,689
+A web, muitas vezes mal compreendida, é associada
+
+61
+00:02:40,699 --> 00:02:44,319
+erroneamente a atividades ilegais e e na verdade, é
+
+62
+00:02:44,330 --> 00:02:48,639
+uma parte legítima essencial da Internet eh definida como uma
+
+63
+00:02:48,649 --> 00:02:52,080
+porção não indexada pelos motores de busca padrão.
+
+64
+00:02:52,088 --> 00:02:58,479
+A web inclui uma variedade de conteúdos inacessíveis diretamente diretamente
+
+65
+00:02:58,490 --> 00:02:59,919
+através de uma pesquisa online.
+
+66
+00:02:59,929 --> 00:03:01,659
+Tá, então, se você fizer uma pesquisa lá
+
+67
+00:03:01,669 --> 00:03:03,719
+no google, provavelmente você não vai acessar porque isso
+
+68
+00:03:03,729 --> 00:03:06,058
+é um dado indexado, não tá indexado, né?
+
+69
+00:03:06,069 --> 00:03:10,308
+Não é um dado não indexado essa incensa inacessibilidade se
+
+70
+00:03:10,319 --> 00:03:13,830
+deve em grande parte a natureza dinâmica do seu conteúdo
+
+71
+00:03:13,838 --> 00:03:16,929
+e a necessidade de credenciais de logins específicos.
+
+72
+00:03:16,939 --> 00:03:18,990
+Nós vai ter um dado específico que tá dentro de
+
+73
+00:03:19,000 --> 00:03:21,250
+uma plataforma que você não tem acesso, né?
+
+74
+00:03:22,338 --> 00:03:26,210
+Muitas vezes a Deep web é retratada principalmente na mídia
+
+75
+00:03:26,219 --> 00:03:29,469
+não especializada como um local de atividades ilegais ilícitas,
+
+76
+00:03:29,479 --> 00:03:33,088
+mas na realidade ela possui enorme diversidade de conteúdo.
+
+77
+00:03:33,099 --> 00:03:38,110
+Esse conteúdo engloba bancos de dados acadêmicos, informações privadas,
+
+78
+00:03:38,118 --> 00:03:42,860
+documentos governamentais, e mails protegidos por senhas e outros
+
+79
+00:03:42,868 --> 00:03:46,429
+recursos que requer autenticações de diversos tipos e níveis.
+
+80
+00:03:46,439 --> 00:03:50,189
+Ou seja, a Deeb representa uma vasta reserva de
+
+81
+00:03:50,199 --> 00:03:53,969
+informações legítimas, muitas vezes fora do escopo da indexação
+
+82
+00:03:53,979 --> 00:03:56,490
+dos motores de busca, devidoà sua natureza privada
+
+83
+00:03:56,500 --> 00:03:57,110
+e restrita.
+
+84
+00:03:57,349 --> 00:04:02,159
+Então, muitas informações que têm restrições senha ou você
+
+85
+00:04:02,169 --> 00:04:03,838
+não vai conseguir acessar pelo Google, você não vai
+
+86
+00:04:03,849 --> 00:04:05,319
+ter esse documento acessível.
+
+87
+00:04:05,330 --> 00:04:07,270
+Tá,às vezes até visível pelo Google.
+
+88
+00:04:07,278 --> 00:04:10,118
+E essa camada é uma das camadas, né?
+
+89
+00:04:10,129 --> 00:04:12,800
+Uma das características da Deeb queàs vezes as pessoas
+
+90
+00:04:12,808 --> 00:04:16,019
+falam que é é algo ali onde tem informações,
+
+91
+00:04:16,028 --> 00:04:19,119
+eh em ilegais ilícitas e não é essa característica,
+
+92
+00:04:19,129 --> 00:04:19,500
+tá bom.
+
+93
+00:04:19,850 --> 00:04:22,899
+Em resumo, a maior parte da web necessita de
+
+94
+00:04:22,910 --> 00:04:28,559
+credenciais de autenticação para acesso, garantindo segurança e privacidade
+
+95
+00:04:28,569 --> 00:04:32,540
+das informações sensíveis, formada por base de dados e
+
+96
+00:04:32,548 --> 00:04:34,500
+áreas restritas de sites.
+
+97
+00:04:34,509 --> 00:04:39,259
+Tá, eh apenas é uma área da internet inalcançável
+
+98
+00:04:39,269 --> 00:04:40,778
+para o usuário comum da internet.
+
+99
+00:04:40,790 --> 00:04:42,500
+Então é aquela área que, assim, se o
+
+100
+00:04:42,509 --> 00:04:45,858
+usuário não tiver acesso, não não tiver conhecimento,
+
+101
+00:04:45,869 --> 00:04:46,819
+ele não vai acessar.
+
+102
+00:04:46,829 --> 00:04:48,559
+Tá? É isso que a DIP web É,
+
+103
+00:04:49,379 --> 00:04:52,670
+porém, assim como o mar sempre dá, faria
+
+104
+00:04:52,678 --> 00:04:55,548
+mais pra mais fundo, né? Até hoje nós
+
+105
+00:04:55,559 --> 00:04:57,790
+somos capazes de explorar toda a imensidão do mar.
+
+106
+00:04:57,798 --> 00:05:00,509
+Também não somos capazes de explorar toda a imensidão da
+
+107
+00:05:00,519 --> 00:05:04,548
+internet, né? Da web eh dentro da vastidão
+
+108
+00:05:04,559 --> 00:05:07,290
+da web, em média dark web, né?
+
+109
+00:05:07,298 --> 00:05:12,470
+O lado oculto ali por uma subdivisão específica notória por
+
+110
+00:05:12,480 --> 00:05:15,389
+suas atividades muitas vezes ilegais, e a utilização de
+
+111
+00:05:15,399 --> 00:05:21,730
+redes criptografadas, enquanto a web tá inclui áreas legítimas
+
+112
+00:05:21,738 --> 00:05:25,959
+e e irrestritas então web legítimas, só que com
+
+113
+00:05:25,970 --> 00:05:26,608
+restrições.
+
+114
+00:05:26,619 --> 00:05:30,600
+Tá bom! A dark web está frequentemente associadaàs
+
+115
+00:05:30,608 --> 00:05:34,959
+práticas ilícitas, como comércio de drogas, hackers,
+
+116
+00:05:34,970 --> 00:05:38,838
+tráfico de informações ao controle da DIP web convencional.
+
+117
+00:05:38,850 --> 00:05:43,278
+A dark web opera em redes específicas e criptografadas e
+
+118
+00:05:43,290 --> 00:05:46,600
+necessitam de ferramentas e brown específicos para acessar.
+
+119
+00:05:46,608 --> 00:05:51,178
+Eh como o Thor, né? Eh t o
+
+120
+00:05:52,040 --> 00:05:55,369
+que oculta o I p do usuário, proporcionando a
+
+121
+00:05:55,379 --> 00:05:59,369
+anoto aos seus usuários e dificultando a identificação e rastreamento
+
+122
+00:05:59,379 --> 00:06:00,189
+das autoridades.
+
+123
+00:06:00,199 --> 00:06:04,088
+Eles fazem isso porque estão fazendo ações ilícitas, então
+
+124
+00:06:04,100 --> 00:06:06,850
+eles precisam ali OCULTAR o máximo possível.
+
+125
+00:06:06,858 --> 00:06:12,250
+Essa ano a ano é explorada por indivíduos envolvidos em
+
+126
+00:06:12,259 --> 00:06:16,369
+atividades ilegais, já que dificulta a rastreabilidade de suas
+
+127
+00:06:16,379 --> 00:06:16,910
+ações.
+
+128
+00:06:18,119 --> 00:06:21,850
+A Dark Web é notória por abrigar mercados ilegais nos
+
+129
+00:06:21,858 --> 00:06:24,769
+quais são negociados drogas, armas, dados roubados,
+
+130
+00:06:24,778 --> 00:06:25,928
+serviços e hackers.
+
+131
+00:06:25,939 --> 00:06:29,230
+A CRI A criptomoeda mais utilizada lá é o bitcoin,
+
+132
+00:06:29,238 --> 00:06:32,108
+né? A forma de pagamento ali por esse serviço
+
+133
+00:06:32,119 --> 00:06:37,548
+é frequentemente utilizada para as transações adicionando outra camada de
+
+134
+00:06:37,559 --> 00:06:38,009
+ano.
+
+135
+00:06:38,019 --> 00:06:43,250
+Anonimato As atividades da Dark Web representam desafios significativos para
+
+136
+00:06:43,259 --> 00:06:46,500
+a segurança da informação, pois as transações legais podem
+
+137
+00:06:46,509 --> 00:06:50,838
+ter impacto direto na cibersegurança e na integridade dos dados.
+
+138
+00:06:51,588 --> 00:06:56,319
+É crucial distinguir entre as atividades da web Tá evitando
+
+139
+00:06:56,329 --> 00:06:59,678
+essa esse paradigma esse esse tipo de falar que ela
+
+140
+00:06:59,689 --> 00:07:01,358
+é, ela é ilegal, não é? Tá
+
+141
+00:07:01,369 --> 00:07:03,139
+com as atividades da dark web.
+
+142
+00:07:03,449 --> 00:07:07,019
+Muitos aspectos da da DIP web são legítimos e necessários
+
+143
+00:07:07,028 --> 00:07:11,059
+para o funcionamento adequado na internet para compreender as definições
+
+144
+00:07:11,069 --> 00:07:13,540
+básicas de DIEP, Né, ou Dark Web É
+
+145
+00:07:13,548 --> 00:07:19,858
+é essencial para uma análise mais aprofundada dos tópicos.
+
+146
+00:07:19,869 --> 00:07:22,778
+Tá incluindo os riscos associados a importância de monitoramento.
+
+147
+00:07:22,790 --> 00:07:25,988
+Então a gente tem que entender muito claramente quais qual
+
+148
+00:07:26,000 --> 00:07:28,298
+é a diferença da DIP e da dark web.
+
+149
+00:07:28,309 --> 00:07:32,108
+Tá, você não pode como como foi falado.
+
+150
+00:07:32,119 --> 00:07:37,329
+Muitas vezes, a mídia rotula a web como a
+
+151
+00:07:37,338 --> 00:07:41,048
+área ilegal onde não é isso ali são dados mais
+
+152
+00:07:41,059 --> 00:07:44,209
+sensíveis dados que estão criptografados, dados que muitas vezes
+
+153
+00:07:44,220 --> 00:07:46,649
+possuem acessos limitados.
+
+154
+00:07:46,660 --> 00:07:48,809
+Já a Dark Web, não ali já tem um
+
+155
+00:07:48,819 --> 00:07:54,028
+submundo, onde sim, tem ações ilícitas.
+
+156
+00:07:54,040 --> 00:07:58,548
+Então JP web forma mais restritas, onde você não
+
+157
+00:07:58,559 --> 00:08:01,079
+vai ter informações numa simples busca, você não vai
+
+158
+00:08:01,088 --> 00:08:04,509
+ter acesso, se não tiver, eh, eh,
+
+159
+00:08:04,519 --> 00:08:07,588
+né premises eh adequadas.
+
+160
+00:08:07,600 --> 00:08:10,970
+Já a dark web já é algo mais ilícito onde
+
+161
+00:08:10,980 --> 00:08:14,329
+vo as pessoas estão ali, se ocultando, usando
+
+162
+00:08:14,338 --> 00:08:19,738
+sistemas para ocultar rastreamento, porque elas fazem ações ilícitas.
+
+163
+00:08:19,750 --> 00:08:22,059
+Então, a gente tem que entender muito qual é
+
+164
+00:08:22,069 --> 00:08:25,980
+a diferença desses mundos desse oceano que se chama internet,
+
+165
+00:08:25,988 --> 00:08:26,559
+tá bom.
+
+166
+00:08:26,569 --> 00:08:31,699
+Então procure essas informações, se esclareça e entendam,
+
+167
+00:08:31,709 --> 00:08:34,739
+entenda mais a diferença desse grande mundo, que é
+
+168
+00:08:34,750 --> 00:08:36,519
+a internet até a próxima aula.
+

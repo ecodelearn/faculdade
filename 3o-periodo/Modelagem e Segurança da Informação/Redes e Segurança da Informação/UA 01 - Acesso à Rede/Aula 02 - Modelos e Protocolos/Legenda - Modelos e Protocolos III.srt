@@ -1,0 +1,756 @@
+1
+00:00:06,078 --> 00:00:08,939
+Olá, aluno seja muito bemvindo, sou professor Fabrício
+
+2
+00:00:08,948 --> 00:00:11,429
+Melo, estamos aí com a matéria de modelos e
+
+3
+00:00:11,439 --> 00:00:15,368
+protocolos onde vamos tratar o seguinte assunto os protocolos e
+
+4
+00:00:15,380 --> 00:00:19,489
+padrões como foi visto, Nós temos aí os protocolos
+
+5
+00:00:19,500 --> 00:00:23,818
+como sendo o quê um conjunto de regras e convenções
+
+6
+00:00:23,829 --> 00:00:27,309
+e esse conjunto vai padronizar a telecomunicação é isso.
+
+7
+00:00:27,318 --> 00:00:30,548
+Então nós só conseguimos aí nos comunicarmos na rede.
+
+8
+00:00:30,559 --> 00:00:34,149
+Ou seja, só conseguimos falar aí a mesma língua,
+
+9
+00:00:34,158 --> 00:00:37,719
+graças aos protocolos, e nós temos aí um conjunto
+
+10
+00:00:37,728 --> 00:00:40,990
+de protocolos que é responsável por toda a comunicação da
+
+11
+00:00:41,000 --> 00:00:41,950
+rede perfeito.
+
+12
+00:00:41,959 --> 00:00:45,798
+Esse conjunto oh é o famoso TC p i p
+
+13
+00:00:45,810 --> 00:00:48,158
+tá vendo oh, lá é o conjunto de protocolos
+
+14
+00:00:48,168 --> 00:00:52,359
+mais comum e relevante usado atualmente, ou seja,
+
+15
+00:00:52,368 --> 00:00:56,279
+quem manda hoje na rede é a família TC p
+
+16
+00:00:56,289 --> 00:00:58,478
+i p Então é o protocolo que é utilizado é
+
+17
+00:00:58,490 --> 00:01:02,158
+o conjunto de protocolo protocolos que é utilizado da internet.
+
+18
+00:01:02,168 --> 00:01:05,819
+Tá vendo e obviamente eh, Eles têm um padrão
+
+19
+00:01:05,829 --> 00:01:09,239
+aberto, né? Mantido aí pela I ETF E
+
+20
+00:01:09,250 --> 00:01:12,219
+quando nós vamos dar os protocolos, nós temos que
+
+21
+00:01:12,230 --> 00:01:13,260
+lembrar das camadas.
+
+22
+00:01:13,269 --> 00:01:15,739
+Lembra do modelo OSE? Oh! O modelo OSE.
+
+23
+00:01:15,750 --> 00:01:20,980
+Ele vai distribuir cada protocolo nas devidas camadas, Então
+
+24
+00:01:20,989 --> 00:01:24,120
+você vai ter lá o estudo dos protocolos que abrangem
+
+25
+00:01:24,129 --> 00:01:27,379
+camada física em lace, que é o famoso padrão
+
+26
+00:01:27,388 --> 00:01:30,500
+I e Instituto de Engenharia Elétrica e Eletrônica, que
+
+27
+00:01:30,510 --> 00:01:34,058
+faz a padronização da comunicação, Então isso é estudado
+
+28
+00:01:34,069 --> 00:01:34,819
+lá embaixo.
+
+29
+00:01:34,829 --> 00:01:37,838
+Você tem oh lá na camada de rede! Você
+
+30
+00:01:37,849 --> 00:01:41,500
+tem os seus protocolos lá na camada de transporte você
+
+31
+00:01:41,510 --> 00:01:43,319
+né? De rede oh! Você trabalha com i
+
+32
+00:01:43,329 --> 00:01:46,338
+p passei aqui temos o transporte que é o TC
+
+33
+00:01:46,349 --> 00:01:49,799
+p u d p e lá nas camadas superiores nós
+
+34
+00:01:49,808 --> 00:01:53,519
+temos a maioria dos protocolos que você tem aí protocolo
+
+35
+00:01:53,528 --> 00:01:56,150
+acesso a sites que é o protocolo h T p,
+
+36
+00:01:56,159 --> 00:01:58,569
+por exemplo, tá na camada de aplicação Cê tem
+
+37
+00:01:58,579 --> 00:02:01,219
+protocolo pra enviar e-mail que é o protocolo c n
+
+38
+00:02:01,230 --> 00:02:04,439
+t p Então quando a gente fala de conjunto de
+
+39
+00:02:04,448 --> 00:02:08,500
+protocolos TC p i p, esse conjunto vai se
+
+40
+00:02:08,508 --> 00:02:12,038
+dividir pelo modelo o que nós estudamos.
+
+41
+00:02:12,050 --> 00:02:17,110
+Então você precisa saber dividir protocolo Tá em qual camada
+
+42
+00:02:17,118 --> 00:02:20,808
+aí Okay, aí nós temos alguns outros sistemas de
+
+43
+00:02:20,819 --> 00:02:24,729
+protocolos que foram muito utilizado como esse net Tá vendo.
+
+44
+00:02:24,740 --> 00:02:28,288
+Foi criado pela Digital Equipamento Corporation, lançado em setenta
+
+45
+00:02:28,300 --> 00:02:32,429
+e cinco Oh pra conectar dois computadores, então é
+
+46
+00:02:32,439 --> 00:02:36,770
+um protocolo aí que já tá praticamente dissolvido, né?
+
+47
+00:02:36,778 --> 00:02:40,649
+Mas, ele contribuiu muito oh pro protocolo de rede
+
+48
+00:02:40,659 --> 00:02:42,909
+compatível com as sete camadas o modelo o Z.
+
+49
+00:02:43,169 --> 00:02:45,189
+Temos também aí um modelo de protocolo que era o
+
+50
+00:02:45,199 --> 00:02:45,689
+da Apple.
+
+51
+00:02:45,699 --> 00:02:48,419
+O Apple, tal que é a Apple, utilizava
+
+52
+00:02:48,429 --> 00:02:51,000
+o sistema de protocolos dela, né? Um sistema
+
+53
+00:02:51,008 --> 00:02:53,300
+fechado aí tá vendo Oh! Foi criado em mil
+
+54
+00:02:53,308 --> 00:02:56,008
+novecentos e oitenta e cinco para os dispositivos da Apple.
+
+55
+00:02:56,020 --> 00:02:58,308
+Aí obviamente, em noventa e cinco, a Apple
+
+56
+00:02:58,319 --> 00:03:02,058
+acordou e adotou o TC P i p Ou seja,
+
+57
+00:03:02,069 --> 00:03:06,324
+os computadores dela podem ser usados em qualquer rede,
+
+58
+00:03:06,335 --> 00:03:08,604
+aí não com aquele padrão fechado.
+
+59
+00:03:08,615 --> 00:03:11,284
+E temos também o novel da net o o e
+
+60
+00:03:11,294 --> 00:03:13,564
+já ouviu falar nesse nove antigão.
+
+61
+00:03:13,574 --> 00:03:16,264
+Quando eu comecei a estudar na época eu cheguei a
+
+62
+00:03:16,274 --> 00:03:19,094
+pegar esse protocolo aí tá, ele é um conjunto
+
+63
+00:03:19,104 --> 00:03:20,403
+de protocolos os proprietários.
+
+64
+00:03:20,413 --> 00:03:22,205
+Tá vendo oh pra operacional de rede, que é
+
+65
+00:03:22,213 --> 00:03:25,485
+o NetWare desenvolvido pela no que era uma empresa tá
+
+66
+00:03:25,493 --> 00:03:30,199
+vendo e usar o famoso protocolo I p x cê
+
+67
+00:03:30,210 --> 00:03:32,080
+tinha o i P x e o SP X.
+
+68
+00:03:32,088 --> 00:03:36,399
+O que aconteceu adotou o TC p i p também
+
+69
+00:03:36,409 --> 00:03:38,439
+sucumbiu ao TC p i, p Não adianta eu
+
+70
+00:03:38,449 --> 00:03:42,960
+ter ali um sistema de rede com o protocolo fechado,
+
+71
+00:03:42,969 --> 00:03:45,319
+ao qual não vai se comunicar com ninguém, então
+
+72
+00:03:45,330 --> 00:03:49,439
+mi solo do mundo então todos aí cederam para o
+
+73
+00:03:49,449 --> 00:03:51,399
+famoso TC p i p.
+
+74
+00:03:51,409 --> 00:03:54,360
+Okay E aí oh quando a gente fala dos conjuntos
+
+75
+00:03:54,368 --> 00:03:57,308
+de protocolo TC p i p, temos os protocolos
+
+76
+00:03:57,319 --> 00:03:58,469
+da camada de aplicação.
+
+77
+00:03:58,479 --> 00:04:01,050
+Como eu falei a maioria a maioria dos protocolos que
+
+78
+00:04:01,058 --> 00:04:04,149
+você vai estudar na rede estão está, né?
+
+79
+00:04:04,159 --> 00:04:07,149
+Dentro dessa camada sete aí tá vendo oh, então
+
+80
+00:04:07,159 --> 00:04:09,868
+quando a gente fala lá oh camada de aplicação,
+
+81
+00:04:09,879 --> 00:04:12,449
+cê vai ter o protocolo D M S, que
+
+82
+00:04:12,460 --> 00:04:14,750
+é o protocolo que converte o nome de um site
+
+83
+00:04:14,758 --> 00:04:18,689
+que você digita vai pra uma tabela Tabela identifica o
+
+84
+00:04:18,699 --> 00:04:21,028
+i p daquele site pra retornar pra você o site
+
+85
+00:04:21,040 --> 00:04:23,149
+sem você ter que saber o i p de cor
+
+86
+00:04:23,160 --> 00:04:27,048
+cê tem lá os protocolos de configuração de ST como
+
+87
+00:04:27,059 --> 00:04:28,988
+o d HC p, que é um protocolo que
+
+88
+00:04:29,000 --> 00:04:32,108
+gera o i p das nossas máquinas pra gente conectar
+
+89
+00:04:32,119 --> 00:04:35,019
+uma rede oh, você tem um protocolo de e-mail
+
+90
+00:04:35,028 --> 00:04:37,358
+onde você tem pra enviar o s m T P
+
+91
+00:04:37,369 --> 00:04:39,738
+e pra receber cê tem um pop e o IMAP,
+
+92
+00:04:39,750 --> 00:04:42,540
+por exemplo? cê tem o protocolo de transferência de
+
+93
+00:04:42,548 --> 00:04:45,420
+arquivos, também estão na camada de aplicação.
+
+94
+00:04:45,428 --> 00:04:48,220
+O fa mais famoso é o F T P Transfer
+
+95
+00:04:48,230 --> 00:04:53,170
+Protocolo, protocolo específico pra você fazer transferência de arquivo
+
+96
+00:04:53,178 --> 00:04:54,750
+diretamente com o servidor.
+
+97
+00:04:54,759 --> 00:04:59,769
+E temos os famosos protocolos de serviços web pra acessarmos
+
+98
+00:04:59,778 --> 00:05:02,730
+as páginas os mais famosos o h T T P
+
+99
+00:05:02,738 --> 00:05:06,069
+e o h T PS famoso protocolo de transferência de
+
+100
+00:05:06,079 --> 00:05:08,850
+pretexto Hipertexto É o quê? Um site? A
+
+101
+00:05:08,858 --> 00:05:11,678
+diferença é que o h t PS esse ss vem
+
+102
+00:05:11,689 --> 00:05:14,790
+de secure que ele é um protocolo de transferência de
+
+103
+00:05:14,798 --> 00:05:20,028
+pretexto seguro é o mais aí recomendado pra acessar páginas
+
+104
+00:05:20,040 --> 00:05:21,488
+aí que detêm dados.
+
+105
+00:05:21,500 --> 00:05:26,838
+Por exemplo pessoais tá e temos aí oh outros protocolos,
+
+106
+00:05:26,850 --> 00:05:29,088
+como o terminal de acesso remoto.
+
+107
+00:05:29,100 --> 00:05:33,369
+Cê conseguir acessar remotamente um servidor e esse servidor ser
+
+108
+00:05:33,379 --> 00:05:35,108
+espelhado aí na sua tela.
+
+109
+00:05:35,119 --> 00:05:38,009
+Tel net O s s H são os mais famosos!
+
+110
+00:05:38,019 --> 00:05:40,850
+Só que o S s h ele tem segurança.
+
+111
+00:05:40,858 --> 00:05:43,689
+Ele dá aí o acesso a um terminal de maneira
+
+112
+00:05:43,699 --> 00:05:45,730
+segura que o Teo net não dá, né?
+
+113
+00:05:45,738 --> 00:05:47,988
+Como eu falei, oh lá o do web que
+
+114
+00:05:48,000 --> 00:05:49,584
+é da WWW o h t t o h t
+
+115
+00:05:49,595 --> 00:05:51,923
+PS que a gente falou aqui oh lá resolução de
+
+116
+00:05:51,934 --> 00:05:54,444
+nomes D M S oh os e-mail e o de
+
+117
+00:05:54,454 --> 00:05:59,684
+transferência de arquivos Tá então todos esses protocolos lá na
+
+118
+00:05:59,694 --> 00:06:00,444
+camada sete.
+
+119
+00:06:00,454 --> 00:06:03,684
+Tá vendo os mais próximos da gente que trabalham com
+
+120
+00:06:03,694 --> 00:06:06,324
+a parte dos softwares? Tá e temos aí os
+
+121
+00:06:06,334 --> 00:06:08,423
+protocolos lá da camada quatro.
+
+122
+00:06:08,434 --> 00:06:12,105
+Camada de transporte Quais são os mais famosos? O
+
+123
+00:06:12,113 --> 00:06:15,184
+TC P e o D P? Qual a diferença?
+
+124
+00:06:15,194 --> 00:06:17,884
+O TC p Aluno é o famoso protocolo oriental da
+
+125
+00:06:17,894 --> 00:06:21,988
+conexão, Trabalha com segmentos? É um protocolo que
+
+126
+00:06:22,000 --> 00:06:26,108
+ele estabelece a conexão, né? Ele vai organizar,
+
+127
+00:06:26,119 --> 00:06:29,088
+né? Eh O vai fazer o reorganização dos pacotes
+
+128
+00:06:29,100 --> 00:06:30,709
+e vai te dar a garantia de entrega.
+
+129
+00:06:30,720 --> 00:06:33,569
+Se algum pacote, se perder na rede, você
+
+130
+00:06:33,579 --> 00:06:36,369
+tem ali, né? Uma mensagem aonde você vai
+
+131
+00:06:36,379 --> 00:06:39,059
+poder reenviar, né? O pacote novamente, então
+
+132
+00:06:39,069 --> 00:06:43,048
+você tem uma garantia que a informação vai chegar.
+
+133
+00:06:43,059 --> 00:06:44,619
+E temos o seu concorrente, que é o D
+
+134
+00:06:44,629 --> 00:06:47,569
+p, que é o famoso protocolo não orientado.
+
+135
+00:06:47,579 --> 00:06:50,088
+A conexão trabalha com data, grama, ou seja,
+
+136
+00:06:50,100 --> 00:06:52,139
+é um protocolo que não vai fazer.
+
+137
+00:06:52,149 --> 00:06:56,199
+A organização não vai estabelecer uma conexão e se os
+
+138
+00:06:56,209 --> 00:06:58,678
+pacotes chegarem, Parabéns.
+
+139
+00:06:58,689 --> 00:07:01,678
+Se não chegarem, a gente vai ter que retransmitir
+
+140
+00:07:01,689 --> 00:07:03,629
+a informação, Só que aí tem uma vantagem,
+
+141
+00:07:03,639 --> 00:07:05,399
+é um protocolo mais rápido que ele.
+
+142
+00:07:05,410 --> 00:07:08,329
+É muito usado aí em aplicações em tempo real,
+
+143
+00:07:08,338 --> 00:07:11,600
+como vídeo trans, né? Vídeo ali conferência,
+
+144
+00:07:11,608 --> 00:07:14,189
+às vezes cê tá ali fazendo um vídeo ao vivo.
+
+145
+00:07:14,199 --> 00:07:17,540
+Você pode tá utilizando o protocolo de transporte, o
+
+146
+00:07:17,548 --> 00:07:21,798
+d p tá bom e temos aí também os protocolos
+
+147
+00:07:21,809 --> 00:07:25,540
+da camada de internet que são esses aí tá vendo
+
+148
+00:07:25,548 --> 00:07:27,519
+oh o i p né? A internet é o
+
+149
+00:07:27,528 --> 00:07:29,358
+que tá junto com a camada de rede do O
+
+150
+00:07:29,369 --> 00:07:30,480
+que é o famoso? I p.
+
+151
+00:07:30,488 --> 00:07:30,639
+V.
+
+152
+00:07:30,649 --> 00:07:31,238
+Quatro, i, p.
+
+153
+00:07:31,250 --> 00:07:33,879
+V seis, que são os protocolos de identificação e
+
+154
+00:07:33,889 --> 00:07:35,399
+formatação dos pacotes.
+
+155
+00:07:35,410 --> 00:07:39,160
+Tá, temos o protocolo na T que simplesmente tem
+
+156
+00:07:39,170 --> 00:07:40,959
+a função de converter o i p de uma rede
+
+157
+00:07:40,970 --> 00:07:43,660
+local pro i p de uma rede pública.
+
+158
+00:07:43,670 --> 00:07:46,720
+No caso a internet tá vendo, Temos os protocolos
+
+159
+00:07:46,730 --> 00:07:49,379
+de controle de mensagens que é o famoso i c
+
+160
+00:07:49,389 --> 00:07:49,980
+MP.
+
+161
+00:07:50,338 --> 00:07:54,199
+Caso algum erro te dá na rede, esse protocolo
+
+162
+00:07:54,209 --> 00:07:56,798
+gera essa mensagem, então ele fica nessa camada e
+
+163
+00:07:56,809 --> 00:08:00,759
+temos os protocolos responsáveis por fazer o roteamento dos pacotes,
+
+164
+00:08:00,769 --> 00:08:03,149
+né? Que é o o SP f o R
+
+165
+00:08:03,160 --> 00:08:05,500
+G R P, O b B GP que é
+
+166
+00:08:05,509 --> 00:08:09,379
+um dos mais famosos tá e temos os protocolos da
+
+167
+00:08:09,389 --> 00:08:12,759
+camada de acessoà rede Camada dois lá de enlace,
+
+168
+00:08:12,769 --> 00:08:15,639
+que é o arp resolução de endereço que que o
+
+169
+00:08:15,649 --> 00:08:18,519
+arp faz ela é responsável, por exemplo, em
+
+170
+00:08:18,528 --> 00:08:24,108
+pegar ali um endereço i p e associar ao MEC
+
+171
+00:08:24,119 --> 00:08:27,350
+ADRs que é o endereço físico ali da máquina Tá
+
+172
+00:08:27,358 --> 00:08:29,548
+tem o seu concorrente que é o rap que faz
+
+173
+00:08:29,559 --> 00:08:32,928
+o contrário pega o mac pra identificar o i p
+
+174
+00:08:32,940 --> 00:08:35,428
+tá vendo oh e temos lá o protocolo de link
+
+175
+00:08:35,440 --> 00:08:38,950
+de dados que é o de enlace como padrão internet
+
+176
+00:08:38,960 --> 00:08:42,190
+que é o protocolo que identifica as redes cabeada como
+
+177
+00:08:42,200 --> 00:08:46,029
+oitocentos e dois ponto três e o protocolo de rede
+
+178
+00:08:46,038 --> 00:08:48,168
+sem fio, por exemplo, da wi-fi que é
+
+179
+00:08:48,178 --> 00:08:51,168
+o famoso protocolo oitocentos e dois ponto onze Tá vendo?
+
+180
+00:08:51,178 --> 00:08:55,090
+Esses protocolos são estudados lá embaixo lá na camada dois.
+
+181
+00:08:55,099 --> 00:08:56,570
+Tá vendo oh, então nós temos aí oh,
+
+182
+00:08:56,580 --> 00:09:00,408
+troca de mensagens temos oh protocolo de roteamento e os
+
+183
+00:09:00,418 --> 00:09:04,750
+protocolos de encaminhamento são os protocolos responsáveis pelos i p
+
+184
+00:09:04,830 --> 00:09:09,580
+aí da rede perfeito, então é muito protocolo que
+
+185
+00:09:09,590 --> 00:09:12,750
+nós temos que estudar, mas isso é aí um
+
+186
+00:09:12,759 --> 00:09:16,239
+uma parte, né? Dos principais protocolos daqueles que
+
+187
+00:09:16,250 --> 00:09:20,149
+são divididos em cada uma das camadas que você abordou
+
+188
+00:09:20,158 --> 00:09:21,849
+aqui comigo do modelo onze.
+
+189
+00:09:21,859 --> 00:09:25,298
+Tá bom! Grande abraço até mais!
+

@@ -1,0 +1,664 @@
+1
+00:00:06,469 --> 00:00:09,259
+Olá, vamos falar um pouquinho sobre os módulos do
+
+2
+00:00:09,269 --> 00:00:11,800
+núcleo, né? Ou seja, são aqueles módulos
+
+3
+00:00:11,810 --> 00:00:14,000
+que ele já vem com o que você não precisa
+
+4
+00:00:14,009 --> 00:00:15,239
+fazer nada, ele já tá ali.
+
+5
+00:00:15,250 --> 00:00:18,920
+Você pode trabalhar com ele diretamente e são bem poderosos.
+
+6
+00:00:18,929 --> 00:00:22,920
+Tá? Você tem ali como criar servidores, criar
+
+7
+00:00:22,929 --> 00:00:25,440
+c, como acessar arquivos? Muita coisa já vem
+
+8
+00:00:25,449 --> 00:00:25,940
+pronto.
+
+9
+00:00:26,170 --> 00:00:28,739
+É claro que a gente busca, eh facilidade.
+
+10
+00:00:28,750 --> 00:00:30,138
+Vou trabalhar com o Express.
+
+11
+00:00:30,149 --> 00:00:31,859
+Vou trabalhar com módulos de terceiros.
+
+12
+00:00:31,870 --> 00:00:34,418
+Mas eu tenho esses módulos que já vem com ele,
+
+13
+00:00:34,429 --> 00:00:36,439
+né? Vamos dar uma olhadinha Como isso funciona,
+
+14
+00:00:37,728 --> 00:00:42,709
+então? Módulos do Núcleo, módulos Co né?
+
+15
+00:00:42,719 --> 00:00:46,429
+EH, em geral, você coloca N PM está
+
+16
+00:00:46,439 --> 00:00:49,779
+menos G, né? Quando você vai acrescentar algo
+
+17
+00:00:49,789 --> 00:00:52,929
+no núcleo, o que que acontece ao eh instalar?
+
+18
+00:00:52,939 --> 00:00:56,270
+O Você? Já tem ali uma série de módulos,
+
+19
+00:00:56,279 --> 00:00:58,598
+masàs vezes você quer colocar um módulo como sendo
+
+20
+00:00:58,609 --> 00:00:59,329
+também.
+
+21
+00:00:59,340 --> 00:01:01,679
+Eh global, né? Os módulos do Núcleo são
+
+22
+00:01:01,689 --> 00:01:02,109
+globais.
+
+23
+00:01:02,118 --> 00:01:04,469
+Você pode usar em qualquer projeto sem dar n PM,
+
+24
+00:01:04,480 --> 00:01:06,709
+né? Então, se você dá um n PM
+
+25
+00:01:06,719 --> 00:01:09,349
+ou menos G, fica mais fácil trabalhar com esse
+
+26
+00:01:09,359 --> 00:01:12,588
+tipo de coisa tá? Eh um pacote h t
+
+27
+00:01:12,599 --> 00:01:16,549
+p! É um pacote pra criar clientes e servidores
+
+28
+00:01:16,558 --> 00:01:19,668
+h T P Ele dá a impressão que é como
+
+29
+00:01:19,680 --> 00:01:21,388
+se fosse o fet, né? Do jovem script,
+
+30
+00:01:21,400 --> 00:01:22,909
+mas ele é muito mais que isso.
+
+31
+00:01:22,918 --> 00:01:25,489
+Tá, ele pode criar tanto cliente quanto servidor.
+
+32
+00:01:26,000 --> 00:01:29,239
+Eh o pacote F s é de seria pra sistema
+
+33
+00:01:29,250 --> 00:01:31,739
+de arquivos também? É muito importante se eu tiver
+
+34
+00:01:31,750 --> 00:01:34,888
+que fazer um de um arquivo, se eu quiser
+
+35
+00:01:34,900 --> 00:01:39,250
+fazer alguma or organização em termos de indexação, muita
+
+36
+00:01:39,260 --> 00:01:41,629
+coisa pra ser feita com o F S tá ou
+
+37
+00:01:41,638 --> 00:01:44,769
+blog simplesmente, e vários outros eu tenho.
+
+38
+00:01:44,778 --> 00:01:46,439
+Ali eu tenho também, por exemplo, o R
+
+39
+00:01:46,448 --> 00:01:47,010
+L.
+
+40
+00:01:47,019 --> 00:01:49,528
+O R L é pra você cuidar eh pra ele
+
+41
+00:01:49,540 --> 00:01:52,010
+poder resolver os nomes, né? Muitas vezes usados
+
+42
+00:01:52,019 --> 00:01:52,469
+junto com o h.
+
+43
+00:01:52,480 --> 00:01:55,930
+T p o p f tá que é pra você
+
+44
+00:01:55,939 --> 00:01:57,808
+achar um caminho, né?Às vezes tem que
+
+45
+00:01:57,819 --> 00:02:00,260
+achar o caminho físico de um arquivo ou alguma coisa
+
+46
+00:02:00,269 --> 00:02:04,588
+do tipo O s! Informações do sistema eu tenho
+
+47
+00:02:04,599 --> 00:02:07,709
+que é pra poder pegar os parâmetros que vieram numa
+
+48
+00:02:07,719 --> 00:02:09,210
+requisição do tipo Gates.
+
+49
+00:02:09,219 --> 00:02:14,288
+O tio tem vários utilitários elíbio pra compactar, times
+
+50
+00:02:14,300 --> 00:02:16,929
+pra controlar, por exemplo, temporizadores.
+
+51
+00:02:16,939 --> 00:02:19,649
+Eu quero que tal coisa execute daqui a tanto tempo,
+
+52
+00:02:19,659 --> 00:02:23,618
+né? Eh stream Stream é muito importante quando você
+
+53
+00:02:23,629 --> 00:02:26,599
+tem que fazer eh qualquer tipo de leitura sob demanda
+
+54
+00:02:27,258 --> 00:02:31,569
+eh cripto, já tem lá uma criptografia básica buffer
+
+55
+00:02:32,490 --> 00:02:35,129
+trabalhar com buffer eh quando você tem, por exemplo,
+
+56
+00:02:35,139 --> 00:02:37,979
+uma recepção em que você tem que ler aos poucos
+
+57
+00:02:37,990 --> 00:02:40,778
+você pode ter que usar um buff e net que
+
+58
+00:02:40,788 --> 00:02:43,020
+permite O net permite você criar um soquete, né?
+
+59
+00:02:43,028 --> 00:02:44,979
+O h t p só cria h t p server
+
+60
+00:02:44,990 --> 00:02:47,740
+Mas o NET permite criar um c se eu quiser,
+
+61
+00:02:47,750 --> 00:02:51,800
+né? Bom, então aqui eu tenho o primeiro
+
+62
+00:02:51,808 --> 00:02:56,159
+exemplo criando um servidor h t P né? Esse
+
+63
+00:02:56,169 --> 00:02:57,819
+aqui merece que a gente dê uma olhadinha.
+
+64
+00:03:00,008 --> 00:03:08,250
+Hum okay ah, vou aumentar um pouquinho Essa fonte?
+
+65
+00:03:09,808 --> 00:03:12,219
+Esse não precisa de nenhum n PM esta, né?
+
+66
+00:03:12,229 --> 00:03:15,508
+Tudo que tem aqui já é direto do próprio sistema
+
+67
+00:03:15,520 --> 00:03:16,058
+dele.
+
+68
+00:03:16,069 --> 00:03:19,139
+Só tô usando os elementos do núcleo, né?
+
+69
+00:03:19,149 --> 00:03:21,419
+Que é diferente de usar um express usar alguma outra
+
+70
+00:03:21,429 --> 00:03:24,229
+coisa qualquer aqui Eu tô fazendo o que h t
+
+71
+00:03:24,240 --> 00:03:27,639
+p recuar h t p Tô pegando ali a biblioteca
+
+72
+00:03:27,649 --> 00:03:29,899
+h t P A biblioteca, O S e a
+
+73
+00:03:29,909 --> 00:03:36,909
+biblioteca F s tá primeira coisa que eu fiz aqui
+
+74
+00:03:36,919 --> 00:03:39,219
+foi tá, ou seja, quando eu falo que
+
+75
+00:03:39,229 --> 00:03:41,460
+h t P server E aí você pode chamar na
+
+76
+00:03:41,469 --> 00:03:43,618
+verdade de dólar h T p pode chamar de dólares
+
+77
+00:03:43,629 --> 00:03:45,599
+PT o chama do que quiser.
+
+78
+00:03:45,610 --> 00:03:48,618
+Coloquei o dólar aqui só pra diferenciar do h t
+
+79
+00:03:48,629 --> 00:03:54,819
+p ponto sever hack Requisição resposta e aqui eu tô
+
+80
+00:03:54,830 --> 00:03:59,490
+fazendo duzentos de h t ML que que é isso
+
+81
+00:03:59,500 --> 00:04:03,929
+escreva no r e d né o código duzentos indicando
+
+82
+00:04:03,939 --> 00:04:05,960
+o que é sucesso, né? Que ele conseguiu
+
+83
+00:04:05,969 --> 00:04:10,629
+carregar e que aquilo foi encontrado etc e com tipo
+
+84
+00:04:10,639 --> 00:04:14,028
+texto h t ML depois escreva h t ML escreva
+
+85
+00:04:14,038 --> 00:04:19,329
+h t ML boy Reescreva servidor plataforma endereço o s
+
+86
+00:04:19,338 --> 00:04:24,379
+ponto plataforma o s ponto roney, né? Então
+
+87
+00:04:24,389 --> 00:04:28,220
+assim esse o s aqui seria o do sistema operacional.
+
+88
+00:04:28,230 --> 00:04:30,298
+Tá, ele vai fazer o que ele vai pegar,
+
+89
+00:04:30,309 --> 00:04:32,399
+qual a plataforma que esse ser do tá rodando e
+
+90
+00:04:32,410 --> 00:04:33,559
+qual é o host dele.
+
+91
+00:04:34,319 --> 00:04:36,769
+Em seguida a pra poder indicar que eu acabei de
+
+92
+00:04:36,778 --> 00:04:41,709
+escrever a quando se dá o Andy você mandou pro
+
+93
+00:04:41,720 --> 00:04:45,809
+cliente? Vou chamar um outro arquivo aqui, mas
+
+94
+00:04:45,819 --> 00:04:48,129
+daqui a pouco eu falo dele li, tem três
+
+95
+00:04:48,139 --> 00:04:53,629
+mil tá Então aqui eu tô usando um servidor,
+
+96
+00:04:53,639 --> 00:04:55,889
+então eu tô criando um servidor de uma forma muito
+
+97
+00:04:55,899 --> 00:04:59,189
+simples direto na biblioteca com t p tá, então
+
+98
+00:04:59,199 --> 00:05:03,100
+se eu pegar um terminal aqui ele deu um eh
+
+99
+00:05:03,108 --> 00:05:07,619
+note index ponto g e Eh Index.
+
+100
+00:05:07,629 --> 00:05:13,670
+Na verdade servidora escutando na porta três mil e aqui
+
+101
+00:05:13,678 --> 00:05:21,139
+eu vou precisar de um crome pra poder pegar ele
+
+102
+00:05:25,899 --> 00:05:28,988
+servidor um, um três, dois e tem lá
+
+103
+00:05:29,000 --> 00:05:30,470
+onde ele tá rodando.
+
+104
+00:05:30,480 --> 00:05:33,910
+Tá? Então assim eh, eu consigo informações do
+
+105
+00:05:33,920 --> 00:05:36,750
+se do sistema operacional com tranquilidade e eu posso usar
+
+106
+00:05:36,759 --> 00:05:39,509
+essas informações da forma que eu preferi, né?
+
+107
+00:05:39,519 --> 00:05:42,569
+Eh? Eu coloquei também o comando log que é
+
+108
+00:05:42,579 --> 00:05:44,189
+cada vez que esse cara é acessado.
+
+109
+00:05:44,199 --> 00:05:48,600
+Eu vou APE no arquivo Uh, eu tenho fi,
+
+110
+00:05:48,608 --> 00:05:51,858
+eu tenho fi eu tenho a fi a fi cinco
+
+111
+00:05:51,869 --> 00:05:56,488
+vai atendar informação no arquivo de forma sincronia, né?
+
+112
+00:05:56,500 --> 00:05:59,230
+Vou pegar esse arquivo com certeza já foi gerado aqui
+
+113
+00:05:59,238 --> 00:06:02,738
+oh blog GTX T Foi ele que foi gerando,
+
+114
+00:06:02,750 --> 00:06:04,678
+né? Cê vê que eu tô na linha dezessete
+
+115
+00:06:04,689 --> 00:06:05,480
+aqui em branco.
+
+116
+00:06:05,488 --> 00:06:13,600
+Se eu voltar e de umas atualizações aqui olha quantas
+
+117
+00:06:13,608 --> 00:06:16,509
+vezes eu de assessoria então eu tô criando um log
+
+118
+00:06:16,519 --> 00:06:19,189
+em tempo real dentro de um arquivo, né?
+
+119
+00:06:19,199 --> 00:06:20,988
+Eu poderia tá usando isso aí pra poder gravar as
+
+120
+00:06:21,000 --> 00:06:24,309
+ações do usuário, né? E só com elementos
+
+121
+00:06:24,319 --> 00:06:30,059
+do núcleo, né? Bom, se eu for
+
+122
+00:06:30,069 --> 00:06:32,170
+fazer isso, eu tava foi o teste aqui com
+
+123
+00:06:32,178 --> 00:06:32,790
+o local.
+
+124
+00:06:32,798 --> 00:06:36,670
+Ele estaria trazendo informação e gerando aquele arquivo de log
+
+125
+00:06:36,678 --> 00:06:37,379
+T x T.
+
+126
+00:06:37,389 --> 00:06:38,980
+Tem muito mais opções.
+
+127
+00:06:38,988 --> 00:06:42,778
+Mas essas são algumas que são muito úteis em qualquer
+
+128
+00:06:42,790 --> 00:06:44,819
+ambiente de servidor.
+
+129
+00:06:44,829 --> 00:06:48,009
+Você poder gravar, logs, você poder fazer reconhecimento
+
+130
+00:06:48,019 --> 00:06:51,428
+de elementos do sistema operacional, né? Bom,
+
+131
+00:06:51,439 --> 00:06:53,028
+aqui eu tenho um outro.
+
+132
+00:06:53,040 --> 00:06:58,470
+Nesse caso, eh F s qua é aquele cinco,
+
+133
+00:06:58,480 --> 00:07:05,059
+né? O FI cinco é a forma, Tá,
+
+134
+00:07:05,069 --> 00:07:07,769
+eh, A gente procura trabalhar no G S,
+
+135
+00:07:07,778 --> 00:07:11,178
+sempre da forma acro, né? Por quê?
+
+136
+00:07:11,189 --> 00:07:12,928
+Porque a gente não quer travar ele em nada!
+
+137
+00:07:13,170 --> 00:07:15,100
+Sempre que você faz a sí Crono, ele vai
+
+138
+00:07:15,108 --> 00:07:16,259
+gerar uma nova.
+
+139
+00:07:16,269 --> 00:07:18,980
+Essa vai cuidar daquilo que tiver de cuidar.
+
+140
+00:07:18,988 --> 00:07:21,338
+E no final vai ter uma cobec pra você poder!
+
+141
+00:07:21,350 --> 00:07:24,459
+Eh dar uma resposta ou você pode usar a,
+
+142
+00:07:24,470 --> 00:07:27,019
+Mas a gente procura trabalhar de forma CCNA.
+
+143
+00:07:27,028 --> 00:07:29,569
+Isso aqui é só uma opção de trabalho da forma
+
+144
+00:07:29,579 --> 00:07:32,298
+CCNA, embora não seja a melhor opção, mas
+
+145
+00:07:32,309 --> 00:07:35,699
+já faz parte também desse todo esse pacote do núcleo
+
+146
+00:07:35,709 --> 00:07:39,608
+básico, né, bom, então esse aí são
+
+147
+00:07:39,619 --> 00:07:41,660
+alguns elementos do núcleo, né? São o que
+
+148
+00:07:41,670 --> 00:07:44,358
+a gente chama de módulos do núcleo, módulos Core,
+
+149
+00:07:44,369 --> 00:07:47,220
+né? Que eles já trazem muito poder pro JS.
+
+150
+00:07:47,230 --> 00:07:50,100
+É claro que a gente não quer ficar fazendo toda
+
+151
+00:07:50,108 --> 00:07:51,619
+uma estrutura do zero.
+
+152
+00:07:51,629 --> 00:07:53,519
+Por exemplo, se a gente for trabalhar, eh
+
+153
+00:07:53,528 --> 00:07:55,619
+pra um ser criar um servidor web.
+
+154
+00:07:55,629 --> 00:07:58,139
+É melhor usar o express porque ele já traz toda
+
+155
+00:07:58,149 --> 00:08:00,819
+aquela parte de resposta do h t p.
+
+156
+00:08:00,829 --> 00:08:04,059
+Caso eh não tenha rota criação de rota e ali
+
+157
+00:08:04,069 --> 00:08:05,670
+eu teria que criar tudo no braço, né?
+
+158
+00:08:05,678 --> 00:08:08,350
+Mas eu tenho a possibilidade e é claro que eu
+
+159
+00:08:08,358 --> 00:08:11,048
+posso usar esses módulos core junto com o módulo de
+
+160
+00:08:11,059 --> 00:08:13,809
+terceiro, por exemplo, colocar um servidor Express e
+
+161
+00:08:13,819 --> 00:08:17,910
+usar o módulo F S pra poder gravar arquivos referentes
+
+162
+00:08:17,920 --> 00:08:20,470
+a coisas que foram enviadas pelos nossos usuários.
+
+163
+00:08:20,480 --> 00:08:23,988
+Então com isso a gente tem então essa pequena pincelada
+
+164
+00:08:24,000 --> 00:08:25,189
+dos módulos core.
+
+165
+00:08:25,199 --> 00:08:29,028
+É interessante saber utilizá-los pra poder extrair esse poder.
+
+166
+00:08:29,040 --> 00:08:31,689
+Eh já original do próprio JA
+

@@ -1,0 +1,740 @@
+1
+00:00:06,368 --> 00:00:08,118
+Olá, eu sou o professor da SCP, e
+
+2
+00:00:08,130 --> 00:00:09,978
+a gente vai falar um pouquinho sobre a evolução,
+
+3
+00:00:09,989 --> 00:00:11,579
+a gestão do ciclo de vida de um A P
+
+4
+00:00:11,589 --> 00:00:15,978
+I, né? Inicialmente, é interessante identificar o
+
+5
+00:00:15,989 --> 00:00:19,658
+que é uma biblioteca um e um A P I
+
+6
+00:00:19,670 --> 00:00:22,699
+são três termos que são muito utilizados no mercado e,
+
+7
+00:00:22,708 --> 00:00:25,658
+em geral, as pessoas utilizam sem nem saber o
+
+8
+00:00:25,670 --> 00:00:27,219
+que significam realmente, né.
+
+9
+00:00:27,228 --> 00:00:30,899
+Mas é interessante que a gente saiba essas pequenas diferenças
+
+10
+00:00:30,908 --> 00:00:34,668
+entre três recursos que podem se confundir em alguns momentos,
+
+11
+00:00:34,679 --> 00:00:39,658
+né? Vamos lá, bom sobre bibliotecas e a
+
+12
+00:00:39,668 --> 00:00:44,598
+P I s Inicialmente que são bibliotecas, né?
+
+13
+00:00:44,609 --> 00:00:47,389
+Ah, a biblioteca ela é um modelo de reúso.
+
+14
+00:00:47,399 --> 00:00:50,819
+Eh mais antigo, né? Qualquer linguagem pode ter
+
+15
+00:00:50,829 --> 00:00:54,658
+bibliotecas, né? Bibliotecas da linguagem C que eu
+
+16
+00:00:54,668 --> 00:00:56,658
+tinha lá o leeb eh.
+
+17
+00:00:56,668 --> 00:00:59,959
+Se eu for pegar uma biblioteca do Java, tem
+
+18
+00:00:59,969 --> 00:01:05,959
+por exemplo ates do eh J do J BBC que
+
+19
+00:01:05,969 --> 00:01:08,088
+é o o x s q l ou cê pegar
+
+20
+00:01:08,099 --> 00:01:11,448
+bibliotecas no caso do jovem script um, ja qua
+
+21
+00:01:11,459 --> 00:01:15,769
+tudo isso aí são bibliotecas, tá qual características delas
+
+22
+00:01:15,778 --> 00:01:18,849
+são? Ela tem um reuso passivo, né?
+
+23
+00:01:18,859 --> 00:01:22,000
+Ou seja, você importa e usa, né?
+
+24
+00:01:22,010 --> 00:01:25,260
+Mas ela não tem nenhuma influência na forma com que
+
+25
+00:01:25,269 --> 00:01:27,689
+você vai trabalhar, né? Então você tem a
+
+26
+00:01:27,698 --> 00:01:29,969
+biblioteca pra ler p d f, uma biblioteca pra
+
+27
+00:01:29,980 --> 00:01:32,209
+gravar em arquivo, mas você não vai ter assim
+
+28
+00:01:32,219 --> 00:01:34,969
+eh nenhuma interatividade com ela Simplesmente.
+
+29
+00:01:34,980 --> 00:01:38,638
+Você importa e usa, por exemplo o S.
+
+30
+00:01:38,650 --> 00:01:41,000
+Ele é uma biblioteca, né? É uma coisa
+
+31
+00:01:41,010 --> 00:01:45,159
+engraçada, porque você pode pegar e usar pra criar
+
+32
+00:01:45,168 --> 00:01:48,799
+um aplicativo embaixo do note, mas também pode usar
+
+33
+00:01:48,808 --> 00:01:51,409
+o embaixo do Java script padrão, né? Então
+
+34
+00:01:51,418 --> 00:01:52,359
+é só uma biblioteca.
+
+35
+00:01:52,370 --> 00:01:54,739
+Ele tem um reúso, é diferente do angular,
+
+36
+00:01:54,750 --> 00:01:57,319
+por exemplo, que é um, né? Então,
+
+37
+00:01:57,329 --> 00:02:01,480
+assim bibliotecas elas tem esse reuso passivo, elas não
+
+38
+00:02:01,489 --> 00:02:03,698
+têm uma grande influência sobre o seu sistema.
+
+39
+00:02:04,370 --> 00:02:06,750
+A inclusão normalmente é só em porte ou recue,
+
+40
+00:02:06,760 --> 00:02:09,909
+né? E? Por exemplo, alguns módulos internos
+
+41
+00:02:09,919 --> 00:02:12,659
+do G s podem ser tratados como bibliotecas.
+
+42
+00:02:12,669 --> 00:02:18,419
+Tá bom e o RK né? Eh um que
+
+43
+00:02:18,429 --> 00:02:22,490
+ele é um modelo customizável de uma área de negócio,
+
+44
+00:02:22,500 --> 00:02:25,689
+né? Por exemplo, Área de persistência de dados
+
+45
+00:02:25,699 --> 00:02:27,528
+Eu sei que eu tenho que criar um Dow.
+
+46
+00:02:27,538 --> 00:02:29,490
+Eu sei que tem que criar uma entidade.
+
+47
+00:02:29,500 --> 00:02:31,508
+Eu sei que eu tenho que pegar e fazer o
+
+48
+00:02:31,520 --> 00:02:32,058
+inset.
+
+49
+00:02:32,069 --> 00:02:34,689
+O Inset é quase sempre muito parecido.
+
+50
+00:02:34,699 --> 00:02:37,710
+né? Pô, eu posso ter um que que
+
+51
+00:02:37,719 --> 00:02:40,830
+já cria pra mim isso e me dá algum.
+
+52
+00:02:40,838 --> 00:02:43,449
+Eh alguns tre x pra poder preencher as características do
+
+53
+00:02:43,460 --> 00:02:45,758
+meu negócio, né? Então, assim, são
+
+54
+00:02:45,770 --> 00:02:49,788
+modelos customizáveis, né? São o que eles têm,
+
+55
+00:02:49,800 --> 00:02:50,979
+um modelo já pronto.
+
+56
+00:02:50,990 --> 00:02:53,169
+E você customiza pra aquilo que você precisa.
+
+57
+00:02:53,179 --> 00:02:55,659
+Boa parte das coisas que acontecem é ele que vai
+
+58
+00:02:55,669 --> 00:02:56,479
+controlar.
+
+59
+00:02:56,490 --> 00:03:01,580
+E aí entram duas coisas injeção de dependências e inversão
+
+60
+00:03:01,588 --> 00:03:02,379
+de controle.
+
+61
+00:03:02,389 --> 00:03:05,729
+Tá o que que é injeção de dependência, né?
+
+62
+00:03:05,740 --> 00:03:10,308
+Eh injeção de dependência é quando você coloca eh alguma
+
+63
+00:03:10,319 --> 00:03:14,868
+Uma palavra que faça naquele momento ele utilizar algo que
+
+64
+00:03:14,879 --> 00:03:18,788
+foi gerenciado pelo né? Então, você tá injetando
+
+65
+00:03:18,800 --> 00:03:24,409
+naquele código algo que eh que vai ser fornecido pelo
+
+66
+00:03:24,419 --> 00:03:30,710
+próprio Tá e inversão de controle É quando eh O
+
+67
+00:03:30,719 --> 00:03:33,569
+código deixa de ser, eh executado pelo que você
+
+68
+00:03:33,580 --> 00:03:35,659
+tá fazendo e passa a ser controlado pelo próprio,
+
+69
+00:03:35,669 --> 00:03:38,308
+né? Então, assim, a inversão de controle
+
+70
+00:03:38,319 --> 00:03:40,569
+tá de deixa o freio fazer isso né, Tá
+
+71
+00:03:40,580 --> 00:03:42,409
+invertendo, o controle não é você que controla é
+
+72
+00:03:42,419 --> 00:03:44,990
+o freio que controla aquele trecho, né? Então,
+
+73
+00:03:45,000 --> 00:03:47,569
+quando você trabalha com injeção de dependência, inversão de
+
+74
+00:03:47,580 --> 00:03:50,629
+controle, você faz de forma simples, né?
+
+75
+00:03:50,868 --> 00:03:53,240
+eh um modelo customizável.
+
+76
+00:03:53,250 --> 00:03:55,679
+Hoje em dia, em geral é baseado em anotações.
+
+77
+00:03:55,689 --> 00:03:58,960
+Tem exemplos no Python, tem exemplos no Java,
+
+78
+00:03:58,969 --> 00:04:01,860
+tem exemplos no JS Tá bom aqui.
+
+79
+00:04:03,229 --> 00:04:05,558
+Eu tenho um pequeno exemplo que ele mostra muito bem
+
+80
+00:04:05,569 --> 00:04:08,610
+O que é um tá, esse é um R
+
+81
+00:04:08,618 --> 00:04:11,278
+que em Java, né? Não é Java script,
+
+82
+00:04:11,288 --> 00:04:15,199
+mas ele é feito eh que é o spring tá.
+
+83
+00:04:15,210 --> 00:04:18,500
+Então, assim ele é um exemplo bom de porque
+
+84
+00:04:18,509 --> 00:04:22,379
+ele mostra muito bem as características de do que é
+
+85
+00:04:22,389 --> 00:04:26,230
+um tá, por exemplo, tem lá pessoa controle,
+
+86
+00:04:26,238 --> 00:04:28,899
+né? Quando começa ali em cima, pessoa controle
+
+87
+00:04:30,470 --> 00:04:34,879
+private, o repositor E tem o eh.
+
+88
+00:04:35,819 --> 00:04:38,910
+Tenho ali public list pessoa Gott, retorne pessoa,
+
+89
+00:04:38,920 --> 00:04:43,389
+repositora, GE em cima disso eu tenho várias anotações.
+
+90
+00:04:43,399 --> 00:04:45,369
+Se eu fosse pegar essa classe, aí seria uma
+
+91
+00:04:45,379 --> 00:04:46,269
+classe simples.
+
+92
+00:04:46,278 --> 00:04:52,278
+É uma classe pessoa controle que tem um atributo interno.
+
+93
+00:04:52,290 --> 00:04:56,329
+Eh pessoa, né? E também tem um método
+
+94
+00:04:56,338 --> 00:04:59,750
+GATT Pessoa tá é uma clássica, simplesmente é um
+
+95
+00:04:59,759 --> 00:05:02,910
+Pojo um get! Ele não vai fazer nada,
+
+96
+00:05:02,920 --> 00:05:04,910
+tá! E o que que vai fazer esse cara
+
+97
+00:05:04,920 --> 00:05:08,980
+virar um web service? As anotações tá a primeira
+
+98
+00:05:08,988 --> 00:05:10,670
+anotação fala arroba.
+
+99
+00:05:10,678 --> 00:05:14,250
+Essa anotação fala Esse cara é um web ser né?
+
+100
+00:05:14,259 --> 00:05:17,709
+Um webb sert do tipo e já vai deixado embaixo
+
+101
+00:05:17,720 --> 00:05:21,488
+do tá então assim, quando ele pegar o frame
+
+102
+00:05:21,500 --> 00:05:23,850
+que olha essa anotação fala eh arroba, controle ele
+
+103
+00:05:23,858 --> 00:05:25,488
+fala não esse cara aqui eu vou tratar como web
+
+104
+00:05:25,500 --> 00:05:29,350
+service, então você tá invertendo o controle! Por
+
+105
+00:05:29,358 --> 00:05:34,569
+quê Você tá colocando na mão do A a gerência
+
+106
+00:05:34,579 --> 00:05:41,540
+da execução dessa classe? Tá eh Mapp também eh
+
+107
+00:05:41,548 --> 00:05:44,629
+e pessoa eu tô definindo uma rota ele define uma
+
+108
+00:05:44,639 --> 00:05:48,850
+rota pe- barrar a pessoa que vai responder através desse
+
+109
+00:05:48,858 --> 00:05:52,829
+eh desse método aí né? Então assim você tá
+
+110
+00:05:52,838 --> 00:05:54,238
+invertendo o controle.
+
+111
+00:05:54,250 --> 00:05:55,869
+Ah, você tá deixando o controle na mão do
+
+112
+00:05:55,879 --> 00:06:00,738
+spring e aquele arroba ou que tem ali O spring
+
+113
+00:06:00,750 --> 00:06:03,819
+vai injetar nessa classe vai ser uma injeção de dependência
+
+114
+00:06:03,829 --> 00:06:06,699
+e ali aquele pessoa repositor vai ser vai passar a
+
+115
+00:06:06,709 --> 00:06:10,509
+ser um cara que consegue fazer eh inclusão alteração exclusão
+
+116
+00:06:10,519 --> 00:06:15,160
+numa base específica tá então já eh com poucas palavras,
+
+117
+00:06:15,170 --> 00:06:18,600
+poucas classes poucas eh uma classe com pequenos elementos,
+
+118
+00:06:18,608 --> 00:06:22,519
+né atributos métodos como se fosse uma classe simples através
+
+119
+00:06:22,528 --> 00:06:25,980
+de anotações passa controle pro RK tá, então é
+
+120
+00:06:25,988 --> 00:06:28,600
+um bom exemplo de Frau que que você customiza,
+
+121
+00:06:28,608 --> 00:06:31,660
+Você coloca lá o que você precisa coloca as anotações
+
+122
+00:06:31,670 --> 00:06:32,778
+e deixa o fazer.
+
+123
+00:06:32,790 --> 00:06:35,399
+O resto então, é um modelo customizável.
+
+124
+00:06:35,410 --> 00:06:37,819
+Ele tem muito mais influência no seu código do que
+
+125
+00:06:37,829 --> 00:06:39,319
+simplesmente uma biblioteca.
+
+126
+00:06:39,329 --> 00:06:43,000
+Quando você adota um, você tem que aceitar as
+
+127
+00:06:43,009 --> 00:06:43,798
+regras dele.
+
+128
+00:06:43,809 --> 00:06:46,670
+Então você passa a programar de acordo com as regras
+
+129
+00:06:46,678 --> 00:06:49,600
+do E você só completa aquilo que ele precisa pra
+
+130
+00:06:49,608 --> 00:06:53,108
+funcionar, né? Bom, e as a p
+
+131
+00:06:53,119 --> 00:06:54,838
+i s o que são a p i S A
+
+132
+00:06:54,850 --> 00:06:57,230
+p i a ti é um programa interface não é
+
+133
+00:06:57,238 --> 00:06:59,730
+um conceito novo, tá, eh! É a
+
+134
+00:06:59,738 --> 00:07:03,160
+interface oferecida por um sistema operacional, um sistema eh
+
+135
+00:07:03,170 --> 00:07:07,410
+gráfico, um sistema qualquer hum, por exemplo,
+
+136
+00:07:07,420 --> 00:07:10,230
+eu tenho a interface do Windows.
+
+137
+00:07:10,238 --> 00:07:13,259
+Eu tenho a interface do Linux, que vai me
+
+138
+00:07:13,269 --> 00:07:15,259
+permitir, por exemplo, criar uma.
+
+139
+00:07:15,269 --> 00:07:19,178
+A gente fala de classes, né eu tenho um
+
+140
+00:07:19,189 --> 00:07:23,379
+é uma classe que permite paralelismo, mas tudo bem.
+
+141
+00:07:23,389 --> 00:07:27,619
+Isso permite paralelismo ao nível do software tá mas quando
+
+142
+00:07:27,629 --> 00:07:30,858
+chega no sistema operacional, isso aí é uma chamada
+
+143
+00:07:30,869 --> 00:07:34,338
+Tá pela P i do sistema operacional pro sistema operacional
+
+144
+00:07:34,350 --> 00:07:38,819
+alocar um processo em baixo nível tá lá praticamente no
+
+145
+00:07:38,829 --> 00:07:44,000
+nível do tá, Então um é uma estrutura binária
+
+146
+00:07:44,009 --> 00:07:46,858
+que vai no nível do ace O que você faz
+
+147
+00:07:46,869 --> 00:07:50,738
+é representar essa estrutura no tá, então você tem
+
+148
+00:07:50,750 --> 00:07:52,720
+eh a chamada da A P i pra poder fazer
+
+149
+00:07:52,730 --> 00:07:55,459
+isso, senão você teria que programar em sempre qualquer
+
+150
+00:07:55,470 --> 00:07:57,149
+coisa que se fosse fazer em paralelo, né?
+
+151
+00:07:57,160 --> 00:07:59,459
+Só um exemplo, né? Ou se fosse colocar
+
+152
+00:07:59,470 --> 00:08:01,798
+um sistema de arquivos, você teria que pegar lá
+
+153
+00:08:01,809 --> 00:08:03,798
+e reconhecer qual é o setor do disco.
+
+154
+00:08:03,809 --> 00:08:07,129
+Depois de reconhecer o setor do disco, escrever cada
+
+155
+00:08:07,139 --> 00:08:10,178
+eh sequencialmente pela controladora não, Você tem a p
+
+156
+00:08:10,189 --> 00:08:12,420
+i do sistema profissional que vai ter uma função da
+
+157
+00:08:12,428 --> 00:08:15,189
+escrita em disco, né? Então você tem isso
+
+158
+00:08:15,199 --> 00:08:19,410
+aí que evolui e vai pra sistemas de um nível
+
+159
+00:08:19,420 --> 00:08:20,220
+mais alto.
+
+160
+00:08:20,230 --> 00:08:21,858
+Eu tenho, por exemplo o de excel tem a
+
+161
+00:08:21,869 --> 00:08:22,079
+t i s.
+
+162
+00:08:22,088 --> 00:08:25,619
+Eu posso pegar e criar uma planilha a partir do
+
+163
+00:08:25,629 --> 00:08:30,079
+Java usando a T I do Excel tá e eh
+
+164
+00:08:30,088 --> 00:08:33,119
+evoluindo acima! Você chega nas a PS de web
+
+165
+00:08:33,129 --> 00:08:39,070
+que são hum ou né? Basicamente eu tenho os
+
+166
+00:08:39,080 --> 00:08:45,798
+e os arts eles visam interoperabilidade Assim como outras apas,
+
+167
+00:08:45,808 --> 00:08:47,899
+tá, se eu falo que o Java vai falar
+
+168
+00:08:47,908 --> 00:08:50,700
+com o Excel eu tô sendo eu tô usando interoperabilidade
+
+169
+00:08:50,710 --> 00:08:52,649
+dele, eu tenho a p i, Mas aqui
+
+170
+00:08:52,658 --> 00:08:56,168
+eu tô falando de interpa de qualquer sistema falando de
+
+171
+00:08:56,178 --> 00:08:58,690
+sistemas aplicativos que não são.
+
+172
+00:08:58,700 --> 00:09:02,450
+Eh comerciais assim de pla de prateleira que tão se
+
+173
+00:09:02,460 --> 00:09:05,788
+falando por um protocolo padronizado, né? Então é
+
+174
+00:09:05,798 --> 00:09:05,889
+eh.
+
+175
+00:09:05,899 --> 00:09:06,479
+Exa.
+
+176
+00:09:06,489 --> 00:09:07,450
+São a P I s web.
+
+177
+00:09:07,460 --> 00:09:09,840
+Em todos os casos são a P i S Chama
+
+178
+00:09:09,849 --> 00:09:14,979
+de aplica Program Interface Bom, Isso aí demonstra um
+
+179
+00:09:14,989 --> 00:09:17,519
+pouquinho do que é a diferença de cada um só
+
+180
+00:09:17,529 --> 00:09:20,279
+resumindo rapidamente, né? A biblioteca tem um reuso
+
+181
+00:09:20,288 --> 00:09:23,750
+passivo, o que é o modelo customizável.
+
+182
+00:09:23,759 --> 00:09:26,599
+E a T i só mostra a ponta do iceberg,
+
+183
+00:09:26,609 --> 00:09:28,859
+né? Você só tem o sistema por baixo E
+
+184
+00:09:28,869 --> 00:09:31,719
+ele só mostra algumas funções que vão chamar.
+
+185
+00:09:31,729 --> 00:09:33,859
+Ah, os elementos internos desse sistema.
+

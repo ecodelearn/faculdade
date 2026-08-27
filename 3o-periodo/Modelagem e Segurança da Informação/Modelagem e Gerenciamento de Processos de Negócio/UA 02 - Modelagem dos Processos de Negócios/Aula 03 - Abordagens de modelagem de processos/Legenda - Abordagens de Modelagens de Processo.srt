@@ -1,0 +1,812 @@
+1
+00:00:06,669 --> 00:00:09,579
+Olá, seja bem vindo novamente, vamos continuar nosso
+
+2
+00:00:09,589 --> 00:00:12,880
+aprendizado sobre modelagem de processos.
+
+3
+00:00:12,890 --> 00:00:16,399
+Okay, eh Nesta aula nós vamos trabalhar com as
+
+4
+00:00:16,408 --> 00:00:18,760
+abordagens de modelagem de processo, né? Vamos na
+
+5
+00:00:18,769 --> 00:00:22,920
+verdade, vamos falar de abordagens especializadas relacionadosà modelagem
+
+6
+00:00:22,929 --> 00:00:26,138
+e a cadeia de valor de eh de uma organização
+
+7
+00:00:26,149 --> 00:00:29,620
+Okay, Bom como a gente bem já sabe,
+
+8
+00:00:29,629 --> 00:00:32,798
+né? Eh a modelagem de negócio ela tem como
+
+9
+00:00:32,810 --> 00:00:36,798
+fundamento? Como eh proposição que a gente entenda e
+
+10
+00:00:36,810 --> 00:00:40,639
+otimize o funcionamento organizacional por meio da construção de um
+
+11
+00:00:40,649 --> 00:00:43,840
+processo com início com meio e com o fim?
+
+12
+00:00:43,848 --> 00:00:47,118
+Essa é a proposta que a gente vem discutindo ao
+
+13
+00:00:47,130 --> 00:00:50,389
+longo dessas de dessa nossa caminhada, né? E
+
+14
+00:00:50,399 --> 00:00:55,484
+é claro que eh pra facilitar esta abordagem nós utilizamos
+
+15
+00:00:55,493 --> 00:00:56,444
+metodologias.
+
+16
+00:00:56,454 --> 00:01:00,283
+Então a disciplina de modelagem de processos, de negócio
+
+17
+00:01:00,293 --> 00:01:03,923
+ela tem uma uma série de metodologias que, dentro
+
+18
+00:01:03,935 --> 00:01:07,484
+desse contexto, nos ajudam a perceber a entender e
+
+19
+00:01:07,495 --> 00:01:11,084
+a determinar, né? O caminho? Melhor,
+
+20
+00:01:11,094 --> 00:01:14,683
+né? O caminho mais eh eficiente, mais eficaz
+
+21
+00:01:14,694 --> 00:01:17,084
+na agregação de valor e na entrega de valor pro
+
+22
+00:01:17,094 --> 00:01:17,864
+nosso cliente.
+
+23
+00:01:17,875 --> 00:01:22,719
+Tá legal! Bom pensando nesse nessa, nessa perspectiva,
+
+24
+00:01:22,730 --> 00:01:24,400
+né? Então, a gente tem aqui o conceito
+
+25
+00:01:24,409 --> 00:01:26,439
+de abordagem especializada, que é justamente isso aí.
+
+26
+00:01:26,448 --> 00:01:30,569
+oh, são as técnicas e ferramentas específicas pra que
+
+27
+00:01:30,579 --> 00:01:32,689
+a gente possa usar repre.
+
+28
+00:01:32,698 --> 00:01:37,230
+Eh para representar, analisar, otimizar e comunicar o
+
+29
+00:01:37,239 --> 00:01:39,379
+processo dentro de uma organização.
+
+30
+00:01:39,388 --> 00:01:40,989
+Olha só que interessante, né? Então a gente
+
+31
+00:01:41,000 --> 00:01:44,159
+vai utilizar uma técnica específica, qual é o foco
+
+32
+00:01:44,168 --> 00:01:46,430
+de uma técnica específica, Qual é o foco de
+
+33
+00:01:46,439 --> 00:01:49,790
+desse desse método, dessa abordagem que a a gente
+
+34
+00:01:49,799 --> 00:01:53,500
+tá tentando trazer é justamente fazer com que o processo
+
+35
+00:01:53,510 --> 00:01:57,319
+organizacional ele possa ser representado de uma de uma maneira
+
+36
+00:01:57,329 --> 00:02:01,750
+eficiente, né? Que ele possa eh ofertar eh
+
+37
+00:02:01,760 --> 00:02:05,709
+baseado, numa análise, né? Possa otimizar também
+
+38
+00:02:05,719 --> 00:02:10,449
+e comunicar tudo eh que se propõe junto ao processo
+
+39
+00:02:10,460 --> 00:02:13,429
+dentro da organização, né? Então, essa é
+
+40
+00:02:13,439 --> 00:02:16,909
+a nossa visão, nós temos alguns processos, né?
+
+41
+00:02:16,919 --> 00:02:21,500
+Que a gente vai? Eh discorrer aqui nesta caminhada
+
+42
+00:02:21,508 --> 00:02:24,580
+que o eh O Cadeia de valor é o eh,
+
+43
+00:02:24,588 --> 00:02:27,500
+a dinâmica de de de sistemas, E a gente
+
+44
+00:02:27,508 --> 00:02:30,960
+vai falar um pouco sobre essas pra ter um site.
+
+45
+00:02:30,969 --> 00:02:34,038
+Eh de como eh isso, se a isso se
+
+46
+00:02:34,250 --> 00:02:38,240
+eh formata dentro de uma organização, né? Bom?
+
+47
+00:02:38,250 --> 00:02:40,939
+É importante a gente falar que, ao contrário das
+
+48
+00:02:40,949 --> 00:02:44,860
+abordagens tradicionais geralmente, né, Que concentra os fluxos
+
+49
+00:02:44,868 --> 00:02:49,460
+de trabalho atividade uma abordagem especializada tem um aspecto mais
+
+50
+00:02:49,469 --> 00:02:51,960
+amplo, né? Uma Uma eh Ele mostra uma
+
+51
+00:02:51,969 --> 00:02:54,558
+forma mais mácula da da daquilo que a gente tá
+
+52
+00:02:54,569 --> 00:02:55,679
+querendo demonstrar.
+
+53
+00:02:55,758 --> 00:02:59,189
+Enquanto a mensagem que a gente tá querendo passar,
+
+54
+00:02:59,199 --> 00:03:02,088
+né, então eh muitas das vezes eh ela.
+
+55
+00:03:02,099 --> 00:03:04,960
+Ela trabalha com essa questão da geração do valor,
+
+56
+00:03:04,969 --> 00:03:08,409
+com interações sistêmicas, com relações casuais, né?
+
+57
+00:03:08,419 --> 00:03:12,649
+E isso considerando os diversos elementos dentro de um processo,
+
+58
+00:03:12,659 --> 00:03:13,278
+tá bom.
+
+59
+00:03:13,288 --> 00:03:16,419
+Então, vamos entender que nós temos um um um
+
+60
+00:03:16,429 --> 00:03:17,189
+processo.
+
+61
+00:03:17,629 --> 00:03:22,758
+Já vimos, né? Algumas ferramentas dentro da disciplina
+
+62
+00:03:22,770 --> 00:03:25,439
+eh dum flu de fluxo de construção, de fluxo.
+
+63
+00:03:25,449 --> 00:03:28,500
+Vimos uma anotação também que é o b PM n.
+
+64
+00:03:28,508 --> 00:03:32,118
+E agora a gente vai usar eh pra chegar,
+
+65
+00:03:32,129 --> 00:03:35,240
+né? Pra complementar todo esse conhecimento, nós vamos
+
+66
+00:03:35,250 --> 00:03:40,000
+usar as técnicas que nos permitem, né? EH
+
+67
+00:03:40,008 --> 00:03:43,258
+eh, eh, vamos dizer agregar valor ao longo
+
+68
+00:03:43,270 --> 00:03:47,899
+do processo de negócio ou da modelagem do processo que
+
+69
+00:03:47,909 --> 00:03:48,520
+nós estaremos eh.
+
+70
+00:03:48,528 --> 00:03:50,000
+Queremos trabalhar, né.
+
+71
+00:03:50,008 --> 00:03:54,538
+O primeiro que a gente vai tá eh focando basicamente,
+
+72
+00:03:54,550 --> 00:03:56,360
+aqui é o cadeia de Valor.
+
+73
+00:03:56,368 --> 00:03:57,860
+Mas, já como eu falei, né, Nós
+
+74
+00:03:57,868 --> 00:04:00,899
+vamos tá trabalhando com três modelagens aqui especializadas.
+
+75
+00:04:00,909 --> 00:04:04,000
+Uma é a cadeia de valor que é eh desenvolvida
+
+76
+00:04:04,008 --> 00:04:05,419
+pelo pensador Michael Porter.
+
+77
+00:04:05,429 --> 00:04:08,838
+esse cara eh esse, esse eh, esse pensador
+
+78
+00:04:08,849 --> 00:04:10,860
+realmente é um cara que fez muita diferença aí no
+
+79
+00:04:10,868 --> 00:04:14,080
+mundo! Eh organizacional, né? O foco dessa
+
+80
+00:04:14,145 --> 00:04:20,314
+dessa abordagem é é uma anotação baseada em processos e
+
+81
+00:04:20,324 --> 00:04:21,375
+atividades aqui.
+
+82
+00:04:21,384 --> 00:04:25,244
+Oh processos e atividades que adicionam valor ao serviço,
+
+83
+00:04:25,254 --> 00:04:25,673
+ao produto.
+
+84
+00:04:25,684 --> 00:04:28,553
+Olha só que interessante é um processo e atividade.
+
+85
+00:04:28,564 --> 00:04:31,394
+O foco é adicionar valor ao serviço ou produto que
+
+86
+00:04:31,403 --> 00:04:31,803
+eu faço.
+
+87
+00:04:31,814 --> 00:04:33,233
+O que que eu entrego ao meu cliente? Assim
+
+88
+00:04:33,244 --> 00:04:35,875
+a gente vem falando aí ao longo da nossa caminhada
+
+89
+00:04:35,884 --> 00:04:37,233
+tá, eh a cadeia de valor.
+
+90
+00:04:37,244 --> 00:04:40,233
+Ela proporciona uma visão geral, mas não uma visão
+
+91
+00:04:40,244 --> 00:04:41,605
+detalhada do processo de negócio.
+
+92
+00:04:41,613 --> 00:04:42,894
+Então, o que foi O que a gente falou
+
+93
+00:04:43,108 --> 00:04:46,459
+no contexto, né? Ela proporciona, nos apresenta
+
+94
+00:04:46,470 --> 00:04:50,178
+uma visão, eh especializada, mas olha só uma
+
+95
+00:04:50,189 --> 00:04:54,059
+abordagem, com aspectos amplos aqui, essa aqui é
+
+96
+00:04:54,069 --> 00:04:56,369
+É, É? Eu falei agora anteriormente, né?
+
+97
+00:04:56,379 --> 00:04:59,858
+Da eh da DA Ao contrário das abordagens tradicionais,
+
+98
+00:04:59,869 --> 00:05:03,100
+eu tenho uma abordagem especializada focada em aspectos amplos e
+
+99
+00:05:03,108 --> 00:05:05,160
+uma delas é a cadeia de valor.
+
+100
+00:05:05,399 --> 00:05:08,798
+A segunda é o CIC que envolve eh os termos
+
+101
+00:05:08,809 --> 00:05:13,410
+de sup process output a, ou seja, é
+
+102
+00:05:13,420 --> 00:05:17,048
+um processo que foca no o o usado em Lian
+
+103
+00:05:17,059 --> 00:05:18,230
+eh SIC.
+
+104
+00:05:18,238 --> 00:05:21,428
+Pra enfatizar a fonte de entrada de dados, né?
+
+105
+00:05:21,670 --> 00:05:24,278
+Eh aqui e os alvos da saída que são os
+
+106
+00:05:24,290 --> 00:05:26,040
+meus clientes meus, né? Então, a gente
+
+107
+00:05:26,048 --> 00:05:28,019
+vai falar um pouco mais cada um, cada letrinha
+
+108
+00:05:28,028 --> 00:05:31,838
+dessa representa uma particularidade dentro dessa modelagem, né?
+
+109
+00:05:31,850 --> 00:05:35,079
+Dentro dessa abordagem e o último é o dinâmica de
+
+110
+00:05:35,088 --> 00:05:39,199
+sistemas né? Que apresenta uma visão do desempenho dos
+
+111
+00:05:39,209 --> 00:05:41,119
+sistemas de negócio, né? Então são as três
+
+112
+00:05:41,129 --> 00:05:44,420
+abordagens que a gente vai Eh procurar caracterizar ao longo
+
+113
+00:05:44,428 --> 00:05:44,678
+dessa.
+
+114
+00:05:44,689 --> 00:05:46,548
+Nossa aula.
+
+115
+00:05:46,559 --> 00:05:49,889
+Tá bom, a primeira eh Abordagem que nós vamos
+
+116
+00:05:49,899 --> 00:05:50,470
+tratar.
+
+117
+00:05:50,480 --> 00:05:52,470
+Vai ser justamente a cadeia de valor, né.
+
+118
+00:05:52,480 --> 00:05:55,988
+Então a cadeia de valor vai ser essa abordagem inicial,
+
+119
+00:05:56,000 --> 00:06:00,730
+com foco em processo e atividade de agregação de valor,
+
+120
+00:06:00,738 --> 00:06:03,829
+né? Então, vamos lá pra gente eh perceber,
+
+121
+00:06:03,838 --> 00:06:05,709
+né? A gente vai entender que a Cadeia de
+
+122
+00:06:05,720 --> 00:06:07,869
+Valor, ela demonstra um fluxo simples.
+
+123
+00:06:07,879 --> 00:06:09,108
+O conceito básico é isso aí.
+
+124
+00:06:09,119 --> 00:06:13,588
+Oh, demonstrar um fluxo simples contínuo da esquerda para
+
+125
+00:06:13,600 --> 00:06:15,850
+a direita, né? Da esquerda, pra direita
+
+126
+00:06:16,199 --> 00:06:21,470
+dos processos que diretamente contribuem para agregar valor aos nossos
+
+127
+00:06:21,480 --> 00:06:25,759
+clientes, né? Então, eh são as atividades
+
+128
+00:06:25,769 --> 00:06:29,500
+eh começando, né? Com a atividade mais primária,
+
+129
+00:06:29,509 --> 00:06:34,819
+evoluindo pra atividades de apoio evoluindo pra Eh eh características
+
+130
+00:06:34,829 --> 00:06:37,338
+que garantam essa esse valor aos nossos clientes.
+
+131
+00:06:37,350 --> 00:06:40,858
+Então ela tem as anotações de cadeia como um conjunto
+
+132
+00:06:40,869 --> 00:06:41,699
+de símbolos.
+
+133
+00:06:41,709 --> 00:06:44,019
+A anotação dela é um conjunto de símbolos pra visualizar
+
+134
+00:06:44,028 --> 00:06:47,298
+essa agregação de valor e os passos pra atingir este
+
+135
+00:06:47,309 --> 00:06:52,660
+objetivo, né? Então eh a a as principais
+
+136
+00:06:52,670 --> 00:06:55,500
+caracter na verdade, antes das características, é o
+
+137
+00:06:55,509 --> 00:06:57,939
+ex um exemplo que da cadeia de valor é justamente
+
+138
+00:06:57,949 --> 00:06:59,720
+isso aqui que a gente pode, tá observando aqui.
+
+139
+00:06:59,730 --> 00:07:01,199
+Oh, né? Então a gente tem aqui os
+
+140
+00:07:01,209 --> 00:07:06,079
+macro proces aqui em cima, desenhados okay macro process,
+
+141
+00:07:06,088 --> 00:07:09,000
+nós temos eh a cadeia de valor ao longo,
+
+142
+00:07:09,009 --> 00:07:12,858
+considerando o macro processo de gestão, o macro processo
+
+143
+00:07:12,869 --> 00:07:16,139
+finalística e o macro processo de suporte, né?
+
+144
+00:07:16,149 --> 00:07:20,040
+Tudo isso, né? Tem base na missão organizacional,
+
+145
+00:07:20,858 --> 00:07:25,509
+né na pra alcançar a visão institucional e com foco
+
+146
+00:07:25,519 --> 00:07:29,189
+nas nossas, eh nos nossos clientes aqui nos nossos,
+
+147
+00:07:29,199 --> 00:07:31,629
+né? Então, esta é um exemplo de cadeia
+
+148
+00:07:31,639 --> 00:07:34,689
+de valor tá legal? Bom, É claro que
+
+149
+00:07:34,699 --> 00:07:36,350
+quando a gente fala de cadeia, de valor,
+
+150
+00:07:36,358 --> 00:07:36,588
+eu vou.
+
+151
+00:07:36,600 --> 00:07:40,309
+Tá falando também nas características dessas qual é quais sejam
+
+152
+00:07:40,319 --> 00:07:41,269
+análise.
+
+153
+00:07:41,278 --> 00:07:44,178
+Ambien A abrangente, perdão, análise abrangente, o
+
+154
+00:07:44,189 --> 00:07:46,500
+que que é uma análise abrangente? Ela fala duma
+
+155
+00:07:46,509 --> 00:07:50,838
+visão completa dessas atividades que vão contribuir justamente pra essa
+
+156
+00:07:50,850 --> 00:07:53,379
+criação do produto ou do valor, né? Então
+
+157
+00:07:53,389 --> 00:07:56,338
+geralmente é mostrado por meio de um diagrama como nós
+
+158
+00:07:56,350 --> 00:07:56,819
+já vimos.
+
+159
+00:07:56,829 --> 00:07:58,119
+Agora né.
+
+160
+00:07:58,129 --> 00:08:01,019
+Eh de cadeia de valor agregado, outra coisa!
+
+161
+00:08:01,028 --> 00:08:03,660
+Outra característica é essa divisão de atividades, ou seja,
+
+162
+00:08:03,670 --> 00:08:07,379
+ela tem as atividades primárias, eh e e atividades
+
+163
+00:08:07,389 --> 00:08:08,619
+de apoio.
+
+164
+00:08:08,629 --> 00:08:10,420
+E um fluxo de como isso acontece.
+
+165
+00:08:10,428 --> 00:08:13,069
+Então, por exemplo, uma atividade primária nós temos
+
+166
+00:08:13,079 --> 00:08:16,394
+o logística, nós temos operação, Nós temos marketing,
+
+167
+00:08:16,403 --> 00:08:17,233
+nós temos vendas.
+
+168
+00:08:17,244 --> 00:08:19,713
+São atividades primárias, né, Que a gente pode?
+
+169
+00:08:19,725 --> 00:08:21,954
+Tá que vai ser demonstrado que a gente pode usar
+
+170
+00:08:21,963 --> 00:08:24,194
+né? E atividade de apoio, por exemplo,
+
+171
+00:08:24,204 --> 00:08:27,875
+aquisição eh, gestão de recursos, humanos, infraestrutura
+
+172
+00:08:27,884 --> 00:08:28,944
+são atividades de apoio.
+
+173
+00:08:28,954 --> 00:08:31,605
+Então, uma outra característica é justamente essa divisão e
+
+174
+00:08:31,613 --> 00:08:32,215
+a atividade.
+
+175
+00:08:32,224 --> 00:08:35,974
+Outra perspectiva é o foco estratégico, ou seja,
+
+176
+00:08:35,984 --> 00:08:39,114
+ela tá concentrando na geração de valor pro pro meu
+
+177
+00:08:39,125 --> 00:08:43,080
+cliente na entrega de valor, cujo foco é criar
+
+178
+00:08:43,090 --> 00:08:46,960
+uma vantagem competitiva, tá e forma holística.
+
+179
+00:08:46,969 --> 00:08:49,639
+Ou seja, ela tem abordagem em todas as áreas
+
+180
+00:08:49,649 --> 00:08:50,389
+organizacionais.
+
+181
+00:08:50,399 --> 00:08:54,239
+Então, se nós eh percebermos aqui um po voltar
+
+182
+00:08:54,250 --> 00:08:56,359
+aqui no no nosso desenho, aqui eu tenho um
+
+183
+00:08:56,369 --> 00:08:59,239
+exemplo de uma cadeia de valor, né? Eh
+
+184
+00:08:59,250 --> 00:09:00,899
+de Potter, bem aqui, sim, Bom,
+
+185
+00:09:00,908 --> 00:09:04,158
+Potter, okay, em que ele aborda no os
+
+186
+00:09:04,168 --> 00:09:08,440
+processos de apoioà infraestrutura, a gestão de recursos
+
+187
+00:09:08,450 --> 00:09:13,840
+humanos, desenvolvimento tecnológico, aquisição e compras como processos
+
+188
+00:09:13,849 --> 00:09:17,408
+primários, a parte de logística de entrada, operações,
+
+189
+00:09:17,418 --> 00:09:22,840
+logística de saída, marketing e vendas, Serviços Aqui
+
+190
+00:09:22,849 --> 00:09:27,038
+a gente vai estar entregando toda essa cadeia de valor,
+
+191
+00:09:27,048 --> 00:09:32,239
+todo esse processo dentro dessa perspectiva de a atender a
+
+192
+00:09:32,250 --> 00:09:34,779
+este cara aqui, oh de gerar valor pra esse
+
+193
+00:09:34,788 --> 00:09:38,619
+público aqui pra sociedade, pra aluno pra clientes,
+
+194
+00:09:38,629 --> 00:09:41,038
+pra quem está envolvido com essa com e com esse
+
+195
+00:09:41,048 --> 00:09:41,658
+processo.
+
+196
+00:09:41,668 --> 00:09:44,200
+Ou seja, na verdade é o que a organização
+
+197
+00:09:44,210 --> 00:09:46,158
+se pressupõe a entregar.
+
+198
+00:09:46,168 --> 00:09:50,250
+Então, isso dentro da sua missão, da sua
+
+199
+00:09:50,259 --> 00:09:55,849
+visão, considerando também também os valores institucionais organizacionais que
+
+200
+00:09:55,859 --> 00:09:58,869
+tão importantes, né? Então uma organização com missão,
+
+201
+00:09:58,879 --> 00:10:01,849
+com visão, com valores, com entrega de valor
+
+202
+00:10:01,859 --> 00:10:03,830
+ao cliente com agregação de valor ao cliente.
+
+203
+00:10:03,840 --> 00:10:06,509
+Okay Esta é a cadeia de valor até a próxima
+

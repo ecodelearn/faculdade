@@ -1,0 +1,700 @@
+1
+00:00:05,650 --> 00:00:08,800
+Olá, aluno Seja bem vindo Professor Fabrício Melo Estamos
+
+2
+00:00:08,810 --> 00:00:12,099
+trabalhando com a parte de camada de aplicação camada sete
+
+3
+00:00:12,108 --> 00:00:14,720
+do modelo o camada quatro do modelo da C P
+
+4
+00:00:14,728 --> 00:00:18,920
+I P e estudamos alguns protocolos relacionados a essa camada.
+
+5
+00:00:18,929 --> 00:00:21,359
+Já vimos aí a parte um do protocolo h t
+
+6
+00:00:21,370 --> 00:00:24,440
+t P né Que opera dentro do serviço WWW que
+
+7
+00:00:24,449 --> 00:00:28,239
+é o serviço web ou surface web, que é
+
+8
+00:00:28,250 --> 00:00:30,408
+aquele serviço que nos dá o quê? Acessoàs
+
+9
+00:00:30,420 --> 00:00:33,939
+páginas Então quando nós acessamos aí uma página na web,
+
+10
+00:00:33,950 --> 00:00:38,740
+estamos aí utilizando o serviço WWW através do protocolo h
+
+11
+00:00:38,750 --> 00:00:41,154
+T P ou do protocolo h T t PS que
+
+12
+00:00:41,164 --> 00:00:43,353
+nada mais é do que o protocolo h t t
+
+13
+00:00:43,365 --> 00:00:47,993
+P com uma camada adicional de segurança, Essa camada
+
+14
+00:00:48,005 --> 00:00:53,673
+aí torna as informações criptografadas e obviamente utilizando certificação digital.
+
+15
+00:00:53,685 --> 00:00:56,814
+Então vamos pra parte dois aí desse protocolo h t
+
+16
+00:00:56,825 --> 00:00:59,115
+P O que que a gente precisa ver sobre eles
+
+17
+00:00:59,125 --> 00:01:02,154
+são os métodos h t t P tá os métodos
+
+18
+00:01:02,164 --> 00:01:05,620
+aí quando você faz a transmissão, né? O
+
+19
+00:01:05,629 --> 00:01:09,138
+primeiro método é o método que ele vai solicitar a
+
+20
+00:01:09,150 --> 00:01:13,778
+representação de um recurso específico e as requisições vão utilizar
+
+21
+00:01:13,790 --> 00:01:17,049
+o método que deve retornar apenas dados como assim oh
+
+22
+00:01:17,058 --> 00:01:20,150
+neste método os dados enviados pelo cliente são enviados o
+
+23
+00:01:20,159 --> 00:01:22,409
+que na U R l no campo consulta, ou
+
+24
+00:01:22,418 --> 00:01:25,230
+seja, no endereço okay e esses dados não podem
+
+25
+00:01:25,239 --> 00:01:27,709
+ser criptografados pelo protocolo S L o t L S.
+
+26
+00:01:27,719 --> 00:01:30,849
+Então quando cê tá utilizando o sistema h t PS,
+
+27
+00:01:30,859 --> 00:01:33,079
+eles não vão e os dados não vão passar por
+
+28
+00:01:33,088 --> 00:01:33,829
+criptografia.
+
+29
+00:01:33,838 --> 00:01:36,400
+Tá cuidado com isso temos o reto que seria aí
+
+30
+00:01:36,409 --> 00:01:38,388
+como se fosse o cabe o cabe, né?
+
+31
+00:01:38,400 --> 00:01:42,463
+Solicita uma resposta de forma idêntica ao só que sem
+
+32
+00:01:42,474 --> 00:01:45,745
+conter o corpo da resposta a esse método não tem
+
+33
+00:01:45,754 --> 00:01:48,944
+o corpo aí da resposta o método post ele é
+
+34
+00:01:48,954 --> 00:01:53,144
+utilizado para submeter uma unidade a um recurso específico,
+
+35
+00:01:53,153 --> 00:01:56,234
+então frequentemente causando uma mudança no estado do recurso a
+
+36
+00:01:56,245 --> 00:01:58,984
+efeitos colaterais do servidor que que seria isso? Oh
+
+37
+00:01:58,995 --> 00:02:02,013
+os dados enviados? Eles são anexados no corpo do
+
+38
+00:02:02,025 --> 00:02:04,903
+documento e os dados enviados são anexados no corpo do
+
+39
+00:02:04,915 --> 00:02:08,183
+documento, possibilitando que os mesmos sejam criptografados.
+
+40
+00:02:08,194 --> 00:02:08,324
+São.
+
+41
+00:02:08,335 --> 00:02:12,558
+Nesse método, você já tem um sistema de criptografia
+
+42
+00:02:12,569 --> 00:02:14,719
+do S S L T L s, lembrando que
+
+43
+00:02:14,729 --> 00:02:17,520
+o S S L já é um protocolo já ultrapassado
+
+44
+00:02:17,528 --> 00:02:20,159
+hoje O T L S é o protocolo aí que
+
+45
+00:02:20,169 --> 00:02:23,219
+manda, né? O protocolo utilizado e o método
+
+46
+00:02:23,229 --> 00:02:26,990
+P U t que substitui todas as atuais representações do
+
+47
+00:02:27,000 --> 00:02:30,274
+recurso, deixando pela carga de dados da requisição e
+
+48
+00:02:30,284 --> 00:02:34,145
+o ele remove um recurso específico, Tá? Então
+
+49
+00:02:34,153 --> 00:02:36,524
+é pra efeito aí,às vezes de prova pra
+
+50
+00:02:36,534 --> 00:02:37,743
+efeito aí de conhecimento.
+
+51
+00:02:37,754 --> 00:02:40,804
+Se pedir esses métodos você tem que saber tá e
+
+52
+00:02:40,814 --> 00:02:41,925
+eu vou ter aqui um destaque.
+
+53
+00:02:41,933 --> 00:02:44,558
+Oh, os métodos h t t P padrão definem
+
+54
+00:02:44,569 --> 00:02:47,819
+as ações o que que serão executadas lá no servidor.
+
+55
+00:02:47,830 --> 00:02:51,159
+Por isso também são conhecidos como verbos h t t
+
+56
+00:02:51,169 --> 00:02:54,399
+P Então se vier tanto métodos h t t p
+
+57
+00:02:54,409 --> 00:02:57,479
+como verbos h t t p você tem aí uma
+
+58
+00:02:57,490 --> 00:03:02,099
+coincidência entre esses dois termos Tá bom perfeito E aí
+
+59
+00:03:02,110 --> 00:03:05,080
+oh a resposta h t t p Como é que
+
+60
+00:03:05,088 --> 00:03:08,319
+a gente estuda essa resposta do servidor h t p
+
+61
+00:03:08,330 --> 00:03:12,429
+Você tem no servidor a linha de resposta onde tem
+
+62
+00:03:12,439 --> 00:03:13,669
+a versão do h t t p que é um
+
+63
+00:03:13,679 --> 00:03:16,939
+campo código de resposta, né Cê tem um texto
+
+64
+00:03:16,949 --> 00:03:19,569
+da resposta aí tem a linha as linhas de cabeçalho
+
+65
+00:03:19,580 --> 00:03:22,479
+e tem a linha em branco e o corpo obviamente
+
+66
+00:03:22,490 --> 00:03:24,899
+da mensagem eu vou ter o destaque é o seguinte
+
+67
+00:03:24,909 --> 00:03:26,610
+Oh, uma resposta h T t P ela pode
+
+68
+00:03:26,618 --> 00:03:30,028
+retorná lo no resultado da requisição h t P efetuado
+
+69
+00:03:30,038 --> 00:03:33,088
+pelo cliente e ele pode conter os dados que foram
+
+70
+00:03:33,099 --> 00:03:36,550
+solicitados, né? Na na requisição e a informação
+
+71
+00:03:36,558 --> 00:03:39,569
+que o servidor recebeu, sua solicitação ou até mesmo
+
+72
+00:03:39,580 --> 00:03:42,349
+informar um problema com a requisição já deve ter visto
+
+73
+00:03:42,360 --> 00:03:45,149
+isso aí Na prática, quando você faz uma requisição
+
+74
+00:03:45,159 --> 00:03:48,368
+h t t P e retornaàs vezes um erro,
+
+75
+00:03:48,379 --> 00:03:50,189
+né?Às vezes a página ali não aparece pra
+
+76
+00:03:50,199 --> 00:03:52,569
+você e ali vai ter um código de erro.
+
+77
+00:03:52,580 --> 00:03:54,569
+Você já viu esse código de erro? Eu vou
+
+78
+00:03:54,580 --> 00:03:55,210
+te passar.
+
+79
+00:03:55,219 --> 00:03:57,679
+Daqui a pouco vamos só entender o que que tem
+
+80
+00:03:57,689 --> 00:03:59,129
+dentro desses campos de resposta.
+
+81
+00:03:59,139 --> 00:04:01,569
+Oh, você tem a linha de resposta que é
+
+82
+00:04:01,580 --> 00:04:05,649
+pra indicar os parâmetros da resposta versão do protocolo h
+
+83
+00:04:05,659 --> 00:04:09,610
+T T P O código de status da resposta e
+
+84
+00:04:09,618 --> 00:04:13,368
+um texto descrevendo esse status eh separados por um espaço
+
+85
+00:04:13,379 --> 00:04:15,528
+seguidos de um fim de linha e uma marca de
+
+86
+00:04:15,538 --> 00:04:17,009
+parágrafo C R mais.
+
+87
+00:04:17,019 --> 00:04:19,434
+L F Cê tem as linhas de cabeça, o
+
+88
+00:04:19,444 --> 00:04:22,035
+que que tem as linhas de cabe como lá Na
+
+89
+00:04:22,045 --> 00:04:25,475
+requisição as linhas de cabe são opcionais Oh, que
+
+90
+00:04:25,483 --> 00:04:28,274
+tem o objetivo de passar informações adicionais entre o servidor
+
+91
+00:04:28,285 --> 00:04:30,954
+e o cliente e também são formatadas com pares.
+
+92
+00:04:30,963 --> 00:04:32,855
+Aí tem lá os separados por dois pontos, oh,
+
+93
+00:04:32,863 --> 00:04:36,875
+tá vendo nome e valor podem representar informações obviamente relacionadas
+
+94
+00:04:36,884 --> 00:04:39,584
+às respostas ou então a entidade que é o corpo
+
+95
+00:04:39,595 --> 00:04:44,040
+da mensagem tá temos a linho branco que indica o
+
+96
+00:04:44,048 --> 00:04:47,059
+fim do cabeçalho, ou seja, é o início
+
+97
+00:04:47,069 --> 00:04:50,608
+do corpo da mensagem representada por fim de linha.
+
+98
+00:04:50,619 --> 00:04:52,819
+Uma marca de parágrafo também c r mais L f
+
+99
+00:04:52,829 --> 00:04:55,540
+então essa li em branco fica ali indica o fim
+
+100
+00:04:55,548 --> 00:04:58,338
+do cabeçalho e o início do corpo da mensagem ela
+
+101
+00:04:58,350 --> 00:05:02,160
+tá fazendo a divisão Como você acabou de ver aqui
+
+102
+00:05:02,170 --> 00:05:04,709
+oh tá vendo oh! É a divisão aí né
+
+103
+00:05:04,720 --> 00:05:07,259
+do cabeça com o corpo da mensagem e obviamente o
+
+104
+00:05:07,269 --> 00:05:09,230
+que que tem no corpo da mensagem o corpo do
+
+105
+00:05:09,238 --> 00:05:11,470
+documento oh lá o corpo de uma resposta h t
+
+106
+00:05:11,480 --> 00:05:14,540
+t p vai conter os dados, né Referentes o
+
+107
+00:05:14,548 --> 00:05:17,358
+quê ao recurso solicitado pelo cliente, o que que
+
+108
+00:05:17,369 --> 00:05:20,649
+o cliente solicitou vai conter esses dados? As respostas
+
+109
+00:05:20,660 --> 00:05:24,170
+h t t P podem não conter corpo, mas
+
+110
+00:05:24,178 --> 00:05:27,290
+quando são incluídos a mensagem o tipo de dados deverá
+
+111
+00:05:27,298 --> 00:05:29,970
+ser especificado O quê no cabe? Aí você vai
+
+112
+00:05:29,980 --> 00:05:31,129
+usar uma chave.
+
+113
+00:05:31,139 --> 00:05:36,928
+Tá então tecnicamente é assim que é representado uma resposta
+
+114
+00:05:36,939 --> 00:05:38,928
+E aí eu tenho pra você o código, você
+
+115
+00:05:38,939 --> 00:05:40,088
+já deve ter visto isso aí.
+
+116
+00:05:40,100 --> 00:05:42,928
+Isso é uma coisa que a gente até tem contato
+
+117
+00:05:42,939 --> 00:05:44,230
+no nosso dia-a-dia.
+
+118
+00:05:44,238 --> 00:05:48,579
+Quando a gente tá acessando aí uma página lá os
+
+119
+00:05:48,588 --> 00:05:50,619
+códigos estados h t, p mais comum você tem
+
+120
+00:05:50,629 --> 00:05:53,699
+os códigos duzentos, os mais comuns.
+
+121
+00:05:53,709 --> 00:05:58,579
+Tá duzentos sucesso, né? O acesso tá duzentos
+
+122
+00:05:58,588 --> 00:06:00,139
+e um criada.
+
+123
+00:06:00,149 --> 00:06:02,399
+E a duzentos e dois a transação aceita.
+
+124
+00:06:03,048 --> 00:06:05,220
+O servidor retomaria esses códigos aí.
+
+125
+00:06:05,230 --> 00:06:09,019
+Quando você tem um código trezentos é redirecionamento, ele
+
+126
+00:06:09,028 --> 00:06:13,459
+foi movido permanentemente e aqui oh os códigos quatrocentos que
+
+127
+00:06:13,470 --> 00:06:16,500
+são códigos de erro do cliente que a gente conhece
+
+128
+00:06:16,509 --> 00:06:18,579
+muito esse esse aqui quer ver Oh, o quatrocentos
+
+129
+00:06:18,588 --> 00:06:22,459
+é pedido ruim, quatrocentos e um não autorizado quatrocentos
+
+130
+00:06:22,470 --> 00:06:25,139
+e três proibido e oh o quatrocentos e quatro aqui
+
+131
+00:06:25,149 --> 00:06:26,559
+Oh isso aqui é muito comum.
+
+132
+00:06:26,879 --> 00:06:31,689
+Página não encontrada lembra geralmente é um relacionado DNS ele
+
+133
+00:06:31,699 --> 00:06:32,869
+foi tentar buscar aquela página.
+
+134
+00:06:32,879 --> 00:06:34,670
+Aquela página não foi encontrada.
+
+135
+00:06:34,678 --> 00:06:37,449
+Aquela página pode ter sido ali eh já removida,
+
+136
+00:06:37,459 --> 00:06:39,629
+tirada ele não encontrou.
+
+137
+00:06:39,639 --> 00:06:40,269
+Aí dá um erro.
+
+138
+00:06:40,278 --> 00:06:42,588
+Esse é mais comum que a gente vê, até
+
+139
+00:06:42,600 --> 00:06:45,189
+aparece lá, erro quatrocentos e quatro.
+
+140
+00:06:45,199 --> 00:06:47,178
+Você já deve ter visto isso aí, já aluno,
+
+141
+00:06:47,189 --> 00:06:50,088
+Aí temos os erros quinhentos da família, quinhentos,
+
+142
+00:06:50,100 --> 00:06:53,869
+que são erros do servidor, Tá não, mas
+
+143
+00:06:53,879 --> 00:06:54,670
+do lado do cliente.
+
+144
+00:06:54,678 --> 00:06:56,790
+Do lado do servidor, aí tem um erro do
+
+145
+00:06:56,798 --> 00:06:58,699
+servidor interno, que é o quinhentos e o quinhentos.
+
+146
+00:06:58,709 --> 00:07:02,088
+E três é quando o serviço não está disponível.
+
+147
+00:07:02,100 --> 00:07:05,309
+Ou seja,às vezes o servidor está fora do
+
+148
+00:07:05,319 --> 00:07:09,519
+ar, é gerado esse erro aí de número quinhentos
+
+149
+00:07:09,528 --> 00:07:10,959
+e três Tranquilo.
+
+150
+00:07:10,970 --> 00:07:12,519
+Então isso é um status aí, bem comum.
+
+151
+00:07:12,528 --> 00:07:14,519
+Você deve ter visto por isso oh tá vendo que
+
+152
+00:07:14,528 --> 00:07:17,178
+a gente opera ali no na porta TC p por
+
+153
+00:07:17,189 --> 00:07:20,259
+causa aí dessa, né, Dessa desse retorno de
+
+154
+00:07:20,269 --> 00:07:23,350
+erro coisas que o D P não teria tá explicado,
+
+155
+00:07:23,358 --> 00:07:25,819
+né? E olha uma questão pra você dar uma
+
+156
+00:07:25,829 --> 00:07:30,670
+relembrada uma né Uma um resumo uma revisão sobre o
+
+157
+00:07:30,678 --> 00:07:33,028
+que a gente tá vendo lá é característica.
+
+158
+00:07:33,040 --> 00:07:35,329
+Tá vendo do h T T P o envio e
+
+159
+00:07:35,338 --> 00:07:39,149
+o recebimento de dados na camada de quê de aplicação
+
+160
+00:07:39,160 --> 00:07:41,869
+do modelo TC p i P sim camada de aplicação
+
+161
+00:07:41,879 --> 00:07:43,928
+do modelo TC p i p nós vimos que a
+
+162
+00:07:43,939 --> 00:07:46,629
+camada de número quatro, né? Aluno? As
+
+163
+00:07:46,639 --> 00:07:48,910
+definições do h t t p oh trabalham com o
+
+164
+00:07:48,920 --> 00:07:54,619
+quê? Com códigos de erros tanto do lado cliente
+
+165
+00:07:54,629 --> 00:07:58,540
+quanto do lado do servidor, aí só pra complementar,
+
+166
+00:07:58,548 --> 00:08:02,500
+a gente sabe que os códigos de erro do cliente
+
+167
+00:08:02,509 --> 00:08:05,738
+é o código q quatrocentos, não é isso?
+
+168
+00:08:05,750 --> 00:08:09,420
+Vamos puxar aqui cliente, e do lado do servidor
+
+169
+00:08:09,428 --> 00:08:12,819
+são os erros de código quinhentos, né? Então
+
+170
+00:08:12,829 --> 00:08:17,139
+questão bem bacana, bem interessante, correta só pra
+
+171
+00:08:17,149 --> 00:08:20,108
+você fazer uma revisão, né? Ver uma ideia
+
+172
+00:08:20,119 --> 00:08:24,738
+do que poderia ser essa ideia do protocolo h t
+
+173
+00:08:24,750 --> 00:08:27,600
+p De maneira mais técnica aí, perfeito, então
+
+174
+00:08:27,608 --> 00:08:30,879
+aluno é isso, Tem grande abraço.
+
+175
+00:08:30,889 --> 00:08:33,019
+Foi essa questão Até a próxima
+

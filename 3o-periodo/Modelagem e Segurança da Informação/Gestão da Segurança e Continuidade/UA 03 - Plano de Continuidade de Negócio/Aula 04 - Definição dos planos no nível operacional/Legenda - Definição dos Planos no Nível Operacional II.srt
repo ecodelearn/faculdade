@@ -1,0 +1,668 @@
+1
+00:00:06,078 --> 00:00:07,349
+vamos lá, A gente tá com a gente.
+
+2
+00:00:07,360 --> 00:00:10,929
+Nós estamos falando sobre gestão operacional, lembrando que a
+
+3
+00:00:10,939 --> 00:00:13,630
+gente já falou de estratégico de tático.
+
+4
+00:00:13,640 --> 00:00:15,769
+Agora, ali o nível operacional, a gente já
+
+5
+00:00:15,778 --> 00:00:16,658
+falou sobre o documento.
+
+6
+00:00:16,670 --> 00:00:19,010
+Como é importante ter um documento, um documento que
+
+7
+00:00:19,019 --> 00:00:20,958
+fala sobre a gestão operacional e agora a gente vai
+
+8
+00:00:20,969 --> 00:00:24,609
+falar sobre algo muito importante que são os procedimentos de
+
+9
+00:00:24,620 --> 00:00:25,568
+resposta excedente.
+
+10
+00:00:25,579 --> 00:00:27,989
+Nós precisamos ter procedimentos claros, bem escritos.
+
+11
+00:00:28,000 --> 00:00:30,208
+Então a gente vai pra alguns alguns parâmetros aí de
+
+12
+00:00:30,219 --> 00:00:31,309
+procedimentos.
+
+13
+00:00:31,318 --> 00:00:35,917
+Por exemplo, os procedimentos de resposta excedente normalmente envolve
+
+14
+00:00:35,929 --> 00:00:39,597
+várias etapas para lidar com incidentes de segurança da informação.
+
+15
+00:00:39,609 --> 00:00:43,438
+Essas etapas podem variar eh em detalhes específicos, mas
+
+16
+00:00:43,448 --> 00:00:46,819
+geralmente inclui um processo padrão, que inclui Vamos lá
+
+17
+00:00:46,828 --> 00:00:49,139
+pra gente saber que existe um incidente.
+
+18
+00:00:49,149 --> 00:00:51,539
+Primeiro temos que identificar incidente, né? Então,
+
+19
+00:00:51,548 --> 00:00:53,819
+aí identificação dos de incidentes.
+
+20
+00:00:53,829 --> 00:00:56,668
+Essa é a fase inicial no qual os incidentes são
+
+21
+00:00:56,679 --> 00:01:00,298
+identificados por meio de monitoramento contínuo, alerta de segurança,
+
+22
+00:01:00,310 --> 00:01:03,418
+relatórios de usuários e fo- e outras fontes.
+
+23
+00:01:03,429 --> 00:01:06,500
+A detec a detecção eficaz é essencial para iniciar a
+
+24
+00:01:06,510 --> 00:01:08,489
+resposta de a tempo.
+
+25
+00:01:08,500 --> 00:01:11,308
+Então a gente precisa entender que a identificação é primordial.
+
+26
+00:01:11,319 --> 00:01:13,558
+A gente precisa de ferramenta, precisa de pessoas existe
+
+27
+00:01:13,569 --> 00:01:15,989
+um negócio chamado que que provavelmente a gente vai estudar
+
+28
+00:01:16,000 --> 00:01:19,680
+na nas próximas aulas, que é operation center,
+
+29
+00:01:19,689 --> 00:01:22,879
+ou seja, centro de operação de segurança é uma
+
+30
+00:01:22,888 --> 00:01:24,760
+equipe que vai tá ali monitorando vinte e quatro por
+
+31
+00:01:24,769 --> 00:01:26,918
+sete hoje, ou seja, vinte e quatro horas
+
+32
+00:01:26,930 --> 00:01:28,939
+por dia, sete dias da semana.
+
+33
+00:01:28,948 --> 00:01:30,480
+Ou seja, todo dia.
+
+34
+00:01:30,489 --> 00:01:33,599
+Se dia Santo dia feriado Natal Ano Novo, vai
+
+35
+00:01:33,609 --> 00:01:35,948
+ter uma equipe monitorando isso, então a gente precisa
+
+36
+00:01:35,959 --> 00:01:41,558
+ter uma equipe qualificada, Ferramentas qualificadas eh relatórios.
+
+37
+00:01:41,569 --> 00:01:44,058
+Enfim, tem que ter toda uma parada tecnológica ali,
+
+38
+00:01:44,069 --> 00:01:48,909
+que venha a suportar a detecção de incidentes, classificação
+
+39
+00:01:48,918 --> 00:01:49,769
+e avaliação.
+
+40
+00:01:49,778 --> 00:01:53,629
+Os acidentes detectados são avaliados junto a gravidade, impacto
+
+41
+00:01:53,638 --> 00:01:54,349
+e prioridade.
+
+42
+00:01:54,359 --> 00:01:58,469
+Isso ajuda a equipe de respostas a determinações apropriadas e
+
+43
+00:01:58,480 --> 00:02:00,388
+alocar recursos de forma eficiente.
+
+44
+00:02:00,400 --> 00:02:02,168
+A gente precisa ter um catálogo ali de serviço,
+
+45
+00:02:02,180 --> 00:02:03,549
+né? Com esse catálogo de serviços a gente tem
+
+46
+00:02:03,558 --> 00:02:06,138
+um catálogo de atividades, catálogo de ações e cômico.
+
+47
+00:02:06,150 --> 00:02:08,038
+A gente começa a ter esse catálogo dentro dos nossos
+
+48
+00:02:08,050 --> 00:02:08,929
+sistemas de TEC.
+
+49
+00:02:09,002 --> 00:02:13,493
+A gente consegue identificar e cale categorizar esses incidentes E
+
+50
+00:02:13,502 --> 00:02:15,653
+a gente já sabe qual o impacto, qual é
+
+51
+00:02:15,663 --> 00:02:19,274
+a probabilidade? Qual é a prioridade a partir desse
+
+52
+00:02:19,282 --> 00:02:22,372
+desse dessa prévia desse prévio cadastro.
+
+53
+00:02:22,383 --> 00:02:23,854
+Não é na hora que acontece que a gente vai
+
+54
+00:02:23,862 --> 00:02:25,252
+sair definindo a prioridade.
+
+55
+00:02:25,264 --> 00:02:27,713
+Já foi feito isso de forma pré né? De
+
+56
+00:02:27,723 --> 00:02:34,058
+forma a maior possível notificação e ativação após a avaliação,
+
+57
+00:02:34,069 --> 00:02:35,939
+a equipe de resposta é acionada.
+
+58
+00:02:35,949 --> 00:02:39,580
+Isso pode incluir especialista em segurança da informação, gerenciamento
+
+59
+00:02:39,588 --> 00:02:42,538
+de crises e em outras partes relevantes, dependendo da
+
+60
+00:02:42,550 --> 00:02:43,580
+gravidade do acidente.
+
+61
+00:02:43,588 --> 00:02:44,979
+Então, a partir do momento que eu identifico o
+
+62
+00:02:44,990 --> 00:02:46,659
+problema, identifiquei o problema.
+
+63
+00:02:46,669 --> 00:02:50,058
+Tá bom, eu categoria esse problema, ou seja,
+
+64
+00:02:50,069 --> 00:02:51,500
+vi com a gravidade.
+
+65
+00:02:51,508 --> 00:02:53,979
+Vi qual o impacto e qual a prioridade.
+
+66
+00:02:53,990 --> 00:02:56,300
+A partir daí ele já me lista ali.
+
+67
+00:02:56,308 --> 00:02:59,179
+Quais são as pessoas, quais são os técnicos?
+
+68
+00:02:59,189 --> 00:03:03,118
+Quais são os que eu preciso informar, que precisa
+
+69
+00:03:03,129 --> 00:03:04,558
+tomar ações necessárias.
+
+70
+00:03:04,569 --> 00:03:09,080
+Detectei caso classifiquei e já vou começar a notificar as
+
+71
+00:03:09,088 --> 00:03:12,558
+pessoas e as equipes as partes interessadas.
+
+72
+00:03:12,569 --> 00:03:13,500
+Aí vamos pro próximo.
+
+73
+00:03:13,849 --> 00:03:17,199
+Aí a gente começa a investigar e coletar evidências.
+
+74
+00:03:17,210 --> 00:03:21,240
+Uma di uma investigação aprofundada é conduzida para entender a
+
+75
+00:03:21,250 --> 00:03:24,860
+natureza do incidente, identificar a sua origem, determinar
+
+76
+00:03:24,868 --> 00:03:27,899
+seu escopo, e isso geralmente envolve a coleta de
+
+77
+00:03:27,909 --> 00:03:32,058
+evidências como BGS, registro de atividades e outras fontes
+
+78
+00:03:32,069 --> 00:03:33,058
+de dados relevantes.
+
+79
+00:03:33,069 --> 00:03:34,719
+Então, ou seja, a equipe técnica ali que
+
+80
+00:03:34,729 --> 00:03:36,750
+foi ativada anteriormente.
+
+81
+00:03:36,758 --> 00:03:39,058
+Ela começa a trabalhar através de evidências pra saber o
+
+82
+00:03:39,069 --> 00:03:41,460
+que tá acontecendo, né? Aí a partir daí
+
+83
+00:03:41,469 --> 00:03:43,558
+a gente começa a ter o isolamento e a contenção
+
+84
+00:03:44,169 --> 00:03:46,500
+para evitar que o incidente se espalhe ou, caso
+
+85
+00:03:46,508 --> 00:03:49,860
+cause mais danos, medidas de isolamento e contenção são
+
+86
+00:03:49,868 --> 00:03:50,740
+tomadas.
+
+87
+00:03:50,750 --> 00:03:54,538
+Isso pode incluir a desconexão de sistemas afetados, bloqueios
+
+88
+00:03:54,550 --> 00:03:57,080
+de contas comprometidas e outras ações de segurança.
+
+89
+00:03:57,088 --> 00:03:59,199
+Então, a partir do momento que você coleta as,
+
+90
+00:03:59,210 --> 00:04:02,659
+né? A os logs registros de atividades você consegue
+
+91
+00:04:02,669 --> 00:04:05,419
+ter tomadas de decisões que pode ser isolamento.
+
+92
+00:04:05,429 --> 00:04:09,899
+Bloquear conta eh isolar um sistema baseado, é lógico,
+
+93
+00:04:09,909 --> 00:04:14,808
+nos registros anteriores que você analisou, Aí vem em
+
+94
+00:04:14,819 --> 00:04:16,750
+erradicação e recuperação.
+
+95
+00:04:16,759 --> 00:04:19,410
+Uma vez que o acidente é isolado, A equipe
+
+96
+00:04:19,420 --> 00:04:23,009
+trabalha pra eliminar a causa raiz e restaurar a operação
+
+97
+00:04:23,019 --> 00:04:24,528
+normal dos sistemas.
+
+98
+00:04:24,540 --> 00:04:28,509
+E isso pode envolver uma remoção de correção de vulnerabilidades
+
+99
+00:04:28,519 --> 00:04:30,608
+e restauração de dados a partir de backups.
+
+100
+00:04:30,619 --> 00:04:33,790
+Então, vamos lá, Identificou, classificou Eh EH,
+
+101
+00:04:33,798 --> 00:04:39,149
+Eh acionou a equipe re analisou os logs eh,
+
+102
+00:04:39,160 --> 00:04:42,649
+isolou o problema e agora você vai recuperar, você
+
+103
+00:04:42,660 --> 00:04:45,470
+vai trazer que né Resolver aquele problema que tá acontecendo.
+
+104
+00:04:45,480 --> 00:04:49,170
+Depois disso ter a comunicação com as partes interessadas durante
+
+105
+00:04:49,178 --> 00:04:52,528
+o incidente é essencial manter a comunicação com as partes
+
+106
+00:04:52,540 --> 00:04:58,769
+interessadas como clientes Acionistas reguladores eh equipes internas.
+
+107
+00:04:58,778 --> 00:05:01,769
+Isso inclui informar sobre o incidente, seu impacto,
+
+108
+00:05:01,778 --> 00:05:04,329
+as medidas e as medidas que estão sendo tomadas pra
+
+109
+00:05:04,338 --> 00:05:05,250
+mitigá los.
+
+110
+00:05:05,259 --> 00:05:07,629
+Então é fundamental fazer isso depois.
+
+111
+00:05:08,470 --> 00:05:12,678
+Relatórios e documentação Todas as ações tomadas durante o acidente
+
+112
+00:05:12,689 --> 00:05:14,959
+são documentadas de forma abrangente.
+
+113
+00:05:14,970 --> 00:05:20,238
+Isso é crucial para as futuras investigações, relatórios regulatórios,
+
+114
+00:05:20,250 --> 00:05:25,000
+relatórios regulatórios e para melhorar a capacidade de resposta a
+
+115
+00:05:25,009 --> 00:05:25,899
+esse dentes futuro.
+
+116
+00:05:25,910 --> 00:05:28,559
+Ou seja, a gente precisa ter uma base de
+
+117
+00:05:28,569 --> 00:05:32,040
+erros conhecidas, uma base se dentes conhecidas e isso
+
+118
+00:05:32,048 --> 00:05:34,500
+vai ajudar, vai contribuir com a evolução do si
+
+119
+00:05:34,509 --> 00:05:37,699
+do serviço, do sistema, da aplicação, da
+
+120
+00:05:37,709 --> 00:05:38,449
+solução.
+
+121
+00:05:38,459 --> 00:05:41,769
+Por quê? Porque se acontecer novamente aquele acidente,
+
+122
+00:05:41,778 --> 00:05:44,160
+a gente já tem uma base histórica, ou se
+
+123
+00:05:44,170 --> 00:05:47,119
+a gente não corrigiu aquele acidente baseado naquele erro,
+
+124
+00:05:47,129 --> 00:05:50,678
+naquele acidente dente, a gente consegue resolver de forma
+
+125
+00:05:50,689 --> 00:05:51,459
+mais rápida.
+
+126
+00:05:51,470 --> 00:05:53,298
+Ou seja, a gente já passou por aquele caminho,
+
+127
+00:05:53,309 --> 00:05:56,119
+não precisa passar novamente, então é fundamental a gente
+
+128
+00:05:56,129 --> 00:05:59,869
+ter uma documentação e ter os relatórios necessários para os
+
+129
+00:05:59,879 --> 00:06:03,278
+no os órgãos regulatórios, caso venha a ser necessário.
+
+130
+00:06:03,290 --> 00:06:07,798
+Tá, análise pós incidente após o acidente ter sido
+
+131
+00:06:07,809 --> 00:06:11,319
+resolvido é feito a análise pós ocidente para revis revisar
+
+132
+00:06:11,329 --> 00:06:15,920
+o que aconteceu, identificar lições aprendidas e fazer melhorias
+
+133
+00:06:15,928 --> 00:06:18,139
+no processo de resposta a incidente.
+
+134
+00:06:18,699 --> 00:06:19,899
+A gente precisa entender que é um.
+
+135
+00:06:19,910 --> 00:06:22,509
+É um processo bem detalhado, quando a gente tá
+
+136
+00:06:22,519 --> 00:06:26,269
+falando sobre eh gerenciamento de de de de riscos,
+
+137
+00:06:26,278 --> 00:06:29,028
+né? Quando a gente tá falando de tratar incidentes
+
+138
+00:06:29,040 --> 00:06:31,220
+relacionadosà segurança que a gente tem que ter lá?
+
+139
+00:06:31,230 --> 00:06:34,670
+Uma equipe, um soque bem estabelecido, com ferramentas,
+
+140
+00:06:34,678 --> 00:06:37,709
+aí a gente vai identificar aquele problema, a gente
+
+141
+00:06:37,720 --> 00:06:39,470
+vai a partir do momento que a gente identifica aquele
+
+142
+00:06:39,480 --> 00:06:41,850
+problema, a gente classifica aquele problema com a classe.
+
+143
+00:06:41,940 --> 00:06:45,062
+A gente consegue identificar quem a gente vai acionar.
+
+144
+00:06:45,071 --> 00:06:46,391
+A partir do momento que a gente identifica, quem
+
+145
+00:06:46,401 --> 00:06:49,391
+a gente vai acionar, aquela equipe já consegue analisar
+
+146
+00:06:49,401 --> 00:06:51,471
+os logs, analisar o que tá acontecendo, já
+
+147
+00:06:51,480 --> 00:06:55,391
+consegue separar, né? Eh separar o ambiente ou
+
+148
+00:06:55,401 --> 00:06:58,511
+eh com bloquear uma conta E a partir daí a
+
+149
+00:06:58,521 --> 00:07:01,690
+gente come, ela começa a trabalhar pra restaurar,
+
+150
+00:07:01,701 --> 00:07:04,711
+né? Aquele sistema que caiu ou aquela conta que
+
+151
+00:07:04,721 --> 00:07:07,273
+o que o que aconteceu com aquela conta ela começa
+
+152
+00:07:07,283 --> 00:07:11,552
+a trabalhar a execução? Ela gera relatórios, ela
+
+153
+00:07:11,562 --> 00:07:15,033
+informa a comunidade, ela informa as partes interessadas.
+
+154
+00:07:15,043 --> 00:07:17,824
+Ela cria uma base de dados de erros conhecidos ou
+
+155
+00:07:17,834 --> 00:07:19,394
+incidentes conhecidos.
+
+156
+00:07:19,403 --> 00:07:23,113
+Então tem todo um ciclo de vida muito importante para
+
+157
+00:07:23,122 --> 00:07:27,824
+a vida útil de um ambiente que trata incidentes de
+
+158
+00:07:27,834 --> 00:07:32,276
+segurança da informação e tudo começa com a detecção.
+
+159
+00:07:32,286 --> 00:07:35,415
+Tudo começa ali, numa equipe especializada, com ferramenta,
+
+160
+00:07:35,425 --> 00:07:39,915
+habilidade técnica que consegue identificar os problemas relacionadosà segurança.
+
+161
+00:07:39,925 --> 00:07:42,526
+Informação tá bom, Então se você aí provavelmente a
+
+162
+00:07:42,536 --> 00:07:43,915
+gente vai ter uma aula, nós nós vamos ter
+
+163
+00:07:43,925 --> 00:07:45,954
+uma aula sobre Soque, E aí você vai ver
+
+164
+00:07:45,966 --> 00:07:48,276
+um pouco mais detalhado o que essa equipe de Soque
+
+165
+00:07:48,286 --> 00:07:49,196
+pode fazer.
+
+166
+00:07:49,204 --> 00:07:51,574
+E qual o papel dessa equipe dentro de uma organização
+
+167
+00:07:52,259 --> 00:07:53,088
+até a próxima.
+

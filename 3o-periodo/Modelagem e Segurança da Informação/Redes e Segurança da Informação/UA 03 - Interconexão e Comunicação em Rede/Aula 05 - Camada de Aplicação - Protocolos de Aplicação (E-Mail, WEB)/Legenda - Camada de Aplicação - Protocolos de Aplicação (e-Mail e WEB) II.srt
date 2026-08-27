@@ -1,0 +1,656 @@
+1
+00:00:06,019 --> 00:00:06,828
+olá! Alunos.
+
+2
+00:00:06,839 --> 00:00:07,929
+Seja muito bem-vindo.
+
+3
+00:00:07,940 --> 00:00:12,550
+Fabrício Melo Estamos aqui tratando Matéria, camada de aplicação
+
+4
+00:00:12,560 --> 00:00:15,108
+é os protocolos de serviços.
+
+5
+00:00:15,118 --> 00:00:18,449
+E qual o protocolo que a gente vai tratar agora
+
+6
+00:00:18,458 --> 00:00:20,670
+em cima de um serviço? Nós não temos o
+
+7
+00:00:20,679 --> 00:00:26,208
+serviço WWW a WWW a famosa sur face WB,
+
+8
+00:00:26,219 --> 00:00:30,548
+que aquela camada da internet que nós acessamos comumente aí
+
+9
+00:00:30,559 --> 00:00:34,250
+por navegadores, né? Pelos softwares, Eh Eh
+
+10
+00:00:34,332 --> 00:00:36,661
+Ah, não confunde com a web, né?
+
+11
+00:00:36,673 --> 00:00:39,923
+A web é aquela camada abaixo da surface que é
+
+12
+00:00:39,932 --> 00:00:43,021
+aquele conteúdo que a gente realmente não tem acesso pelos
+
+13
+00:00:43,033 --> 00:00:43,743
+buscadores.
+
+14
+00:00:43,752 --> 00:00:48,143
+Agora, WWW é a surface web que a gente
+
+15
+00:00:48,152 --> 00:00:51,942
+tem um acesso comumente aí pro navegadores tradicionais e a
+
+16
+00:00:51,951 --> 00:00:54,942
+gente vai ver a parte do protocolo h T t
+
+17
+00:00:54,951 --> 00:00:58,222
+p parte um, que é o protocolo de transferência
+
+18
+00:00:58,232 --> 00:00:58,982
+de pretexto.
+
+19
+00:00:58,993 --> 00:01:00,862
+Esse é um protocolo importantíssimo.
+
+20
+00:01:00,872 --> 00:01:04,254
+É um dos protocolos mais utilizados nas nossas navegações,
+
+21
+00:01:04,265 --> 00:01:06,775
+apesar que ele tá ficando ultrapassado porque você já tem
+
+22
+00:01:06,786 --> 00:01:09,265
+aí o h t t PS que é o protocolo
+
+23
+00:01:09,275 --> 00:01:12,415
+h T T P que nele é utilizado uma camada
+
+24
+00:01:12,426 --> 00:01:16,536
+extra que é uma camada de segurança gerando criptografia na
+
+25
+00:01:16,545 --> 00:01:19,456
+transmissão, né? Um protocolo que vai utilizar certificado
+
+26
+00:01:19,465 --> 00:01:22,575
+digital, por exemplo, dando ali a garantia que
+
+27
+00:01:22,584 --> 00:01:26,015
+aquela pessoa está num site, né? Original?
+
+28
+00:01:26,025 --> 00:01:29,745
+Perfeito, então vamos ver uma parte técnica sobre isso
+
+29
+00:01:29,754 --> 00:01:32,459
+oh lá o h t t P ele é definido,
+
+30
+00:01:32,469 --> 00:01:34,838
+né? Nome Protocolo de transferência de P TC PT
+
+31
+00:01:34,849 --> 00:01:36,198
+Você pode ler como um site, né? O
+
+32
+00:01:36,209 --> 00:01:38,719
+site é um hipertexto que é uma combinação ali de
+
+33
+00:01:38,730 --> 00:01:48,099
+textos, áudios, imagens, vídeos.
+
+34
+00:01:48,109 --> 00:01:56,058
+Aí cê forma links aí cê forma o sistema de
+
+35
+00:01:56,709 --> 00:01:59,319
+e porta quatrocentos e quarenta e três que o h
+
+36
+00:01:59,329 --> 00:02:02,040
+t t PS, ou seja, o seguro abre
+
+37
+00:02:02,049 --> 00:02:04,439
+porta quatrocentos e quarenta e três com o servidor.
+
+38
+00:02:04,448 --> 00:02:09,360
+O protocolo normal abre a porta oitenta e obviamente a
+
+39
+00:02:09,368 --> 00:02:13,038
+transferência de sites em cima da famosa h T ML,
+
+40
+00:02:13,050 --> 00:02:17,479
+Porque toda página que nós construímos que nós desenvolvemos é
+
+41
+00:02:17,490 --> 00:02:20,824
+feita em cima de uma linguagem de para hipertexto,
+
+42
+00:02:20,835 --> 00:02:22,304
+vulgo H t ML.
+
+43
+00:02:22,314 --> 00:02:27,383
+Então aquele cara chamado web designer que eh cria as
+
+44
+00:02:27,395 --> 00:02:30,304
+páginas, ele vai criar os sites, né?
+
+45
+00:02:30,314 --> 00:02:32,974
+Na linguagem aí h t ML não tô falando em
+
+46
+00:02:32,985 --> 00:02:34,705
+linguagem de programação porque não é, mas é uma
+
+47
+00:02:34,713 --> 00:02:38,014
+linguagem de marcação tá e esse h t p vai
+
+48
+00:02:38,024 --> 00:02:42,254
+fazer essa codificação dessas páginas em h t ML então!
+
+49
+00:02:42,264 --> 00:02:43,883
+E a a ideia dele é muito simples oh,
+
+50
+00:02:43,895 --> 00:02:47,064
+quando você tem aqui oh um browser, né?
+
+51
+00:02:47,074 --> 00:02:51,838
+Navegador num cliente Cê vai fazer uma requisição para o
+
+52
+00:02:51,849 --> 00:02:55,240
+servidor web na porta oitenta a porta quatrocentos e quarenta
+
+53
+00:02:55,250 --> 00:02:57,909
+e quarenta quatrocentos e quarenta e três esse servidor,
+
+54
+00:02:57,919 --> 00:02:58,969
+o que que ele vai fazer? Vai te dar
+
+55
+00:02:58,979 --> 00:03:02,088
+uma resposta? Então olha lá quando um cliente da
+
+56
+00:03:02,099 --> 00:03:05,330
+web navegador recebe a u r l endereço de um
+
+57
+00:03:05,338 --> 00:03:07,949
+servidor da web, ele usa o nome, o
+
+58
+00:03:07,960 --> 00:03:10,778
+endereço i p, né? E a porta que
+
+59
+00:03:10,788 --> 00:03:13,979
+é o soquete para solicitar o serviço da web utilizando
+
+60
+00:03:13,990 --> 00:03:16,038
+o protocolo h t P o h t t PS
+
+61
+00:03:16,050 --> 00:03:21,199
+Quando o servidor recebe essa requisição, ele responde enviando
+
+62
+00:03:21,210 --> 00:03:23,319
+a página da web solicitada um R L para o
+
+63
+00:03:23,330 --> 00:03:27,469
+cliente, então é muito simples servidor oi da página
+
+64
+00:03:27,479 --> 00:03:30,080
+aí meu filho a porta oitenta quatrocentos e quarenta e
+
+65
+00:03:30,088 --> 00:03:31,479
+três a quatrocentos e quarenta e três é um site
+
+66
+00:03:31,490 --> 00:03:33,758
+seguro, toma pronto é? É, é é
+
+67
+00:03:33,770 --> 00:03:37,618
+muito simples essa comunicação, né, eh entre aí
+
+68
+00:03:37,629 --> 00:03:40,189
+um cliente uma u R l através da um browse
+
+69
+00:03:40,199 --> 00:03:41,960
+através de um R L, que é o endereço
+
+70
+00:03:41,969 --> 00:03:44,500
+com o servidor e essa u r L é definida
+
+71
+00:03:44,508 --> 00:03:47,588
+como de maneira técnica tá vendo oh a u r
+
+72
+00:03:47,599 --> 00:03:50,479
+l você divide ela em esquema que que é o
+
+73
+00:03:50,490 --> 00:03:53,000
+esquema? É o protocolo h t P h t
+
+74
+00:03:53,008 --> 00:03:55,979
+PS f T P Então uma u R L que
+
+75
+00:03:55,990 --> 00:04:00,580
+a gente conhece como localizador uniforme de recursos, vulgarmente
+
+76
+00:04:00,588 --> 00:04:04,278
+conhecida como endereço, começa com o esquema o protocolo.
+
+77
+00:04:04,288 --> 00:04:08,460
+Depois vem a autoridade que que essa autoridade aqui aluno
+
+78
+00:04:08,469 --> 00:04:11,139
+é o servidor é a máquina tá vendo? Eu
+
+79
+00:04:11,149 --> 00:04:14,520
+estou acessando a máquina biblioteca ponto sofia ponto com ponto
+
+80
+00:04:14,528 --> 00:04:17,139
+BR Então a máquina é um servidor que a gente
+
+81
+00:04:17,149 --> 00:04:20,379
+chama de autoridade e pode ter oh depois dos dois
+
+82
+00:04:20,389 --> 00:04:20,939
+pontos.
+
+83
+00:04:20,949 --> 00:04:23,790
+Isso geralmente hoje é implícito não a gente não,
+
+84
+00:04:23,798 --> 00:04:26,100
+a gente não vê mais nos endereços o número da
+
+85
+00:04:26,108 --> 00:04:26,699
+porta.
+
+86
+00:04:26,709 --> 00:04:29,980
+Então você tem especificação da porta se o site é
+
+87
+00:04:29,988 --> 00:04:32,858
+h t t p oitenta inclusive aqui h t PS,
+
+88
+00:04:32,869 --> 00:04:34,899
+né Tinha que ser porta quatrocentos e quarenta e três
+
+89
+00:04:34,910 --> 00:04:37,699
+tá e depois aqui oh, cê tem um caminho
+
+90
+00:04:37,709 --> 00:04:40,459
+que que é o caminho É onde tá o recurso.
+
+91
+00:04:40,470 --> 00:04:43,838
+Eu não estou acessando uma página pra buscar um recurso
+
+92
+00:04:43,850 --> 00:04:44,379
+aqui.
+
+93
+00:04:44,389 --> 00:04:46,119
+Cê tem um caminho oh, tá vendo.
+
+94
+00:04:46,449 --> 00:04:49,480
+Eu tô indo em alguma pasta desse servidor buscar um
+
+95
+00:04:49,488 --> 00:04:52,939
+recurso e pode ser que você tenha a Cary string
+
+96
+00:04:52,949 --> 00:04:56,059
+que é a consulta tá vendo? Ela é opcional.
+
+97
+00:04:56,069 --> 00:04:59,019
+Geralmente você vai ter aí essa interrogação.
+
+98
+00:04:59,028 --> 00:05:02,338
+Você vai ter uns caracteres meio estranhos que é a
+
+99
+00:05:02,350 --> 00:05:05,019
+Cary Stream que faz a a manutenção do estado da
+
+100
+00:05:05,028 --> 00:05:07,980
+página muito usado pra fazer, por exemplo aquisição,
+
+101
+00:05:07,988 --> 00:05:11,220
+consulta em banco de dados ou cê tá ali trabalhando
+
+102
+00:05:11,230 --> 00:05:15,548
+com É como é que eu posso te dizer que
+
+103
+00:05:15,559 --> 00:05:18,149
+um formulário né? Eh, ele vai tá em
+
+104
+00:05:18,160 --> 00:05:20,949
+branco pra você Se eu entrar também vai tá em
+
+105
+00:05:20,959 --> 00:05:22,869
+branco pra mim então cê tá trabalhando com esse sistema
+
+106
+00:05:22,879 --> 00:05:26,220
+de Cary Tre Okay e a re tá aí a
+
+107
+00:05:26,230 --> 00:05:28,750
+requisição h t p ela é dividida como quando você
+
+108
+00:05:28,759 --> 00:05:30,790
+vai fazer uma requisição lá Oh, cê tem a
+
+109
+00:05:30,798 --> 00:05:34,040
+linha de requisição, as linhas de cabeçalho, uma
+
+110
+00:05:34,048 --> 00:05:36,829
+linha em branco e o corpo da mensagem tá vendo?
+
+111
+00:05:36,838 --> 00:05:38,709
+E as mensagens do h t P são mensagem de
+
+112
+00:05:38,720 --> 00:05:42,160
+texto tá que é no padrão é ASC, né?
+
+113
+00:05:42,170 --> 00:05:45,619
+Com uma estrutura básica dividindo o cabeçalho, né,
+
+114
+00:05:45,629 --> 00:05:48,899
+e o corpo o RY, então cabeça e corpo,
+
+115
+00:05:48,910 --> 00:05:51,540
+O formato específico da mensagem vai depender do tipo de
+
+116
+00:05:51,548 --> 00:05:56,338
+mensagem, requisição ou resposta requisição do browser, né?
+
+117
+00:05:56,350 --> 00:05:59,975
+Do usuário do servidor olha lá o que que tem
+
+118
+00:05:59,983 --> 00:06:02,863
+na linha de requisição? Tá vendo os parâmetros da
+
+119
+00:06:02,875 --> 00:06:03,863
+requisição.
+
+120
+00:06:03,875 --> 00:06:06,524
+Meto h t p a ser utilizado a u R
+
+121
+00:06:06,535 --> 00:06:10,184
+l né? O endereço A versão do protocolo aí
+
+122
+00:06:10,194 --> 00:06:13,105
+tem separação por espaço, seguido de um fim de
+
+123
+00:06:13,113 --> 00:06:15,004
+linha e uma marca de parágrafo.
+
+124
+00:06:15,014 --> 00:06:16,824
+Depois vem as linhas de cabeça.
+
+125
+00:06:16,834 --> 00:06:18,785
+O que que tem nas linhas de cabe? São
+
+126
+00:06:18,795 --> 00:06:21,625
+linhas opcionais? Temos um jeito de passar informações adicionais
+
+127
+00:06:21,634 --> 00:06:24,639
+entre clientes do servidor são formatadas como pares, né?
+
+128
+00:06:24,649 --> 00:06:27,160
+Cê tem nome e valor separado sempre por dois pontos?
+
+129
+00:06:27,170 --> 00:06:28,559
+Tá? Tá vendo aqui oh, vai ter um
+
+130
+00:06:28,569 --> 00:06:31,850
+nome, dois pontos valor e podem apresentar informações relacionadas
+
+131
+00:06:31,858 --> 00:06:35,798
+à requisiçãoà entidade corpo da mensagem Depois cê tem
+
+132
+00:06:35,809 --> 00:06:37,759
+a linha em branco que indica o fim do cabe,
+
+133
+00:06:37,769 --> 00:06:40,600
+né? Aluno e o início do corpo da mensagem
+
+134
+00:06:40,608 --> 00:06:44,278
+representada por fim de linha e uma marca de parágrafo
+
+135
+00:06:44,290 --> 00:06:46,439
+e depois o corpo do documento que que tem no
+
+136
+00:06:46,449 --> 00:06:50,209
+corpo do documento nesse corpo contém os dados referentes ao
+
+137
+00:06:50,220 --> 00:06:52,470
+recurso que o cliente quer manipular.
+
+138
+00:06:52,480 --> 00:06:55,509
+Oh lá as requisições, os métodos h t p
+
+139
+00:06:55,519 --> 00:07:00,170
+post o pet geralmente estão incluídos, né? Dependendo
+
+140
+00:07:00,178 --> 00:07:02,410
+do método h t P Esse corpo pode ser até
+
+141
+00:07:02,420 --> 00:07:05,809
+opcional, mas quando são incluídos na mensagem, o
+
+142
+00:07:05,819 --> 00:07:08,329
+tipo de dado deverá ser especificado no cabeça usando a
+
+143
+00:07:08,338 --> 00:07:13,569
+chave, então no na estrutura do h t P
+
+144
+00:07:13,579 --> 00:07:16,889
+você vai ter esses campos aí né? Que a
+
+145
+00:07:16,899 --> 00:07:21,028
+gente viu aqui quando você faz uma requisição, tá
+
+146
+00:07:21,040 --> 00:07:23,488
+e aí em cima disso? Olha só uma questão
+
+147
+00:07:23,500 --> 00:07:26,278
+pra gente testar aqui bem legal Oh o h t
+
+148
+00:07:26,290 --> 00:07:30,399
+t p Protocolo de transferência de pretexto é o protocolo
+
+149
+00:07:30,410 --> 00:07:33,959
+que permite ao usuário acessar diversos sites na web.
+
+150
+00:07:34,988 --> 00:07:38,639
+Ele tem a função de transferir páginas escritas em quê
+
+151
+00:07:38,649 --> 00:07:42,678
+em h t ML, né? Hipertens marca le-
+
+152
+00:07:42,689 --> 00:07:45,879
+linguagem, ou seja, uma linguagem marcação de pretexto
+
+153
+00:07:45,889 --> 00:07:49,199
+para o navegador instalado no computador do usuário e aí
+
+154
+00:07:49,209 --> 00:07:50,899
+sim, ele é o protocolo que faz.
+
+155
+00:07:50,910 --> 00:07:52,858
+Isso é é um protocolo que faz isso.
+
+156
+00:07:53,369 --> 00:07:55,939
+E o h T PS é o protocolo que faz
+
+157
+00:07:55,949 --> 00:08:00,000
+de maneira segura acessando sites aí que trabalham com T
+
+158
+00:08:00,009 --> 00:08:02,459
+L s, né Que é o protocolo que substitui
+
+159
+00:08:02,470 --> 00:08:04,540
+o S S L que faz a camada ali de
+
+160
+00:08:04,548 --> 00:08:08,579
+apresentação, gerando a criptografia da página.
+
+161
+00:08:08,588 --> 00:08:11,059
+Tá, então! Cê conheceu aí de maneira técnica,
+
+162
+00:08:11,069 --> 00:08:14,500
+né? Como funciona o protocolo h t t P
+
+163
+00:08:14,509 --> 00:08:18,980
+A sua parte estrutural perfeito! Grande abraço até a
+
+164
+00:08:18,988 --> 00:08:19,358
+próxima
+

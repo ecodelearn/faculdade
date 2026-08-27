@@ -1,0 +1,596 @@
+1
+00:00:06,658 --> 00:00:09,880
+Olá, vamos falar um pouquinho de da camada vel,
+
+2
+00:00:09,890 --> 00:00:12,589
+né? Falar sobre a camada moda eh que é
+
+3
+00:00:12,599 --> 00:00:15,929
+construída no caso no JS, com base no sequelas,
+
+4
+00:00:15,939 --> 00:00:17,870
+E a gente vai colocar um Down, né?
+
+5
+00:00:17,879 --> 00:00:22,449
+O Dow não é obrigatório no no G S Porque
+
+6
+00:00:22,458 --> 00:00:24,129
+eh! A partir da entidade, você tem o
+
+7
+00:00:24,138 --> 00:00:25,510
+acessoàs funcionalidades.
+
+8
+00:00:25,519 --> 00:00:27,708
+Mas é uma questão de organização.
+
+9
+00:00:27,719 --> 00:00:31,030
+Em termos de código, você ali vai eh deixar
+
+10
+00:00:31,039 --> 00:00:34,490
+bem assim num componente específico, né? Toda a
+
+11
+00:00:34,500 --> 00:00:37,590
+funcionalidade se refereà persistência e vai evitar que esses
+
+12
+00:00:37,598 --> 00:00:41,130
+códigos de persistência se propaguem pelo restante do sistema,
+
+13
+00:00:41,139 --> 00:00:43,829
+o que seria um problema em termos de manutenção,
+
+14
+00:00:43,840 --> 00:00:46,270
+né? Com isso, a gente organiza a forma
+
+15
+00:00:46,279 --> 00:00:49,709
+de usar os sequelas, né? Bom, vamos
+
+16
+00:00:49,719 --> 00:00:53,590
+dar uma olhadinha como isso funciona? É claro que
+
+17
+00:00:53,598 --> 00:00:55,548
+a gente tem que usar os sequelas, como sempre
+
+18
+00:00:55,560 --> 00:00:58,270
+uso, né? Eu preciso do das bibliotecas,
+
+19
+00:00:58,279 --> 00:01:01,418
+sequelas e uma s Q l dois pra poder conectar
+
+20
+00:01:01,429 --> 00:01:04,278
+com uma SCA? Ou se poderia ser outra qualquer
+
+21
+00:01:04,900 --> 00:01:11,000
+o C pra poder usar Ah, o interfaces sequelas
+
+22
+00:01:11,010 --> 00:01:14,668
+e pra poder gerar os objetos com o Sese.
+
+23
+00:01:14,680 --> 00:01:17,650
+Ele gera a estrutura básica, né, Pra você
+
+24
+00:01:17,659 --> 00:01:20,948
+poder gerar os moldes? Et cetera onde ali você
+
+25
+00:01:20,959 --> 00:01:24,388
+coloca o a sua conexão com o banco, né?
+
+26
+00:01:24,400 --> 00:01:28,668
+Nesse caso aqui oh, eu tenho, já usou
+
+27
+00:01:28,680 --> 00:01:31,939
+e n? E o meu config tá lá,
+
+28
+00:01:32,900 --> 00:01:39,000
+onde eu tenho as minhas configurações, né? Aqui
+
+29
+00:01:39,010 --> 00:01:41,299
+ainda tá com configurações antigas.
+
+30
+00:01:42,698 --> 00:01:46,489
+Deixa eu pegar e alterar para o que eu preciso,
+
+31
+00:01:46,500 --> 00:01:53,719
+né? Ah, eu vou usar só o dev!
+
+32
+00:01:54,870 --> 00:02:02,969
+Put, né? Extremo? E o terminal.
+
+33
+00:02:03,909 --> 00:02:06,040
+Então assim eu já tô ali com o agenda d
+
+34
+00:02:06,049 --> 00:02:10,319
+f, né Rute Hot cento e oito sete zero
+
+35
+00:02:10,330 --> 00:02:13,679
+zero um c e Ah, isso aqui é se
+
+36
+00:02:13,689 --> 00:02:14,838
+a FG.
+
+37
+00:02:14,849 --> 00:02:18,439
+Ele é gerado pelo CEO d B create é o
+
+38
+00:02:18,449 --> 00:02:19,879
+que cria o banco.
+
+39
+00:02:19,889 --> 00:02:27,000
+Provavelmente se eu usar o n p x CDB seco
+
+40
+00:02:27,949 --> 00:02:33,808
+c bebê C eh, ele vai dar um erro
+
+41
+00:02:33,819 --> 00:02:35,069
+dizendo que o banco já existe.
+
+42
+00:02:38,159 --> 00:02:41,229
+Hum Ah, ele não reconheceu.
+
+43
+00:02:41,240 --> 00:02:45,508
+Ah, tudo bem n PM que eu tava usando
+
+44
+00:02:45,520 --> 00:02:47,629
+outro exemplo e outro exemplo ele tava com esse cara
+
+45
+00:02:47,639 --> 00:02:50,008
+já instalado, cerca que eu apaguei o Sno module
+
+46
+00:02:52,069 --> 00:02:57,368
+deixa ele e vou usar o sequela c de novo
+
+47
+00:03:00,008 --> 00:03:01,508
+certamente eu vou ter um erro.
+
+48
+00:03:01,520 --> 00:03:04,740
+Por quê? Porque eu já tenho esse banco criado,
+
+49
+00:03:04,750 --> 00:03:18,250
+né? Mas vamos executar, vai tentar Olha,
+
+50
+00:03:18,258 --> 00:03:19,689
+eu não tinha achei que tivesse.
+
+51
+00:03:19,699 --> 00:03:21,909
+Então, olha só, criou aqui o banco Agenda?
+
+52
+00:03:22,758 --> 00:03:25,129
+Tá eh se ele não tinha.
+
+53
+00:03:25,139 --> 00:03:28,210
+Eu vou também usar o The Bam grade que ele
+
+54
+00:03:28,219 --> 00:03:34,069
+vai definir as tabelas lá, né? Migra fazer
+
+55
+00:03:34,080 --> 00:03:37,050
+as migration, ele vai criar a minha entidade lá,
+
+56
+00:03:37,058 --> 00:03:38,508
+no caso a minha entidade.
+
+57
+00:03:38,520 --> 00:03:40,588
+A única entidade que eu tenho é uma entidade chamada
+
+58
+00:03:40,599 --> 00:03:45,788
+nota onde a nota tem o quê? Só o
+
+59
+00:03:45,800 --> 00:03:48,550
+título e a descrição dele, né? Eu devo
+
+60
+00:03:48,558 --> 00:03:51,588
+ter executado como teste antes e essa coisa não gerou,
+
+61
+00:03:51,599 --> 00:03:53,110
+né? Só gerou num banco de teste.
+
+62
+00:03:53,118 --> 00:03:55,830
+Então com isso aí eu tenho lá a minha base
+
+63
+00:03:55,838 --> 00:03:59,210
+criada E também foi migrado, criando lá minhas tabelas,
+
+64
+00:03:59,219 --> 00:04:03,490
+beleza, isso aqui cuida da parte das entidades.
+
+65
+00:04:03,500 --> 00:04:07,000
+Tá, minhas entidades ficam prontas com os seque,
+
+66
+00:04:07,008 --> 00:04:10,599
+heróis, né? Se eu quisesse criar essa entidade,
+
+67
+00:04:10,610 --> 00:04:14,409
+eu usaria Gene Moda, passando aqui o nome da
+
+68
+00:04:14,419 --> 00:04:17,480
+entidade e os atributos que que ele vai gerar.
+
+69
+00:04:17,488 --> 00:04:22,829
+Ele vai gerar a entidade aqui oh o código da
+
+70
+00:04:22,838 --> 00:04:29,649
+entidade com os seus atributos né? Bom, E
+
+71
+00:04:29,660 --> 00:04:32,209
+o migrate é o que vai fazer a vai executar.
+
+72
+00:04:32,220 --> 00:04:34,608
+Migration, né? Vai pegar e jogar no banco?
+
+73
+00:04:34,619 --> 00:04:36,709
+Vai criar as minhas tabelas.
+
+74
+00:04:37,420 --> 00:04:40,730
+Bom depois que eu tenho isso pronto, fica muito
+
+75
+00:04:40,738 --> 00:04:43,608
+fácil fazer um Down porque as entidades já cuidam de
+
+76
+00:04:43,619 --> 00:04:45,569
+tudo, né? Então, o que eu tenho
+
+77
+00:04:45,579 --> 00:04:48,129
+que fazer? Eu vou dar um rere naquele model
+
+78
+00:04:48,139 --> 00:04:52,100
+WX E aí eu vou fazer as minhas assim incluir
+
+79
+00:04:52,108 --> 00:04:55,100
+minhas funcionalidades na minha classe down né? Olha,
+
+80
+00:04:55,108 --> 00:04:58,298
+o que eu tô fazendo aqui oh, esse código
+
+81
+00:04:58,309 --> 00:05:03,709
+é do now! Primeiro eu pego o d b
+
+82
+00:05:04,689 --> 00:05:06,178
+que é onde tá meu deus.
+
+83
+00:05:06,189 --> 00:05:12,338
+Seria esse g s do mode obter todos a sí
+
+84
+00:05:12,350 --> 00:05:16,298
+crono sempre há sí crono retorne d b ponto nota
+
+85
+00:05:16,309 --> 00:05:21,028
+ponto india né eu posso dar um retorne ao wait,
+
+86
+00:05:21,040 --> 00:05:23,350
+mas aqui já vai dar um pro mais, então
+
+87
+00:05:23,358 --> 00:05:23,970
+vai dar na mesma.
+
+88
+00:05:24,829 --> 00:05:28,178
+Então o que eu tenho aqui seria um eh,
+
+89
+00:05:29,100 --> 00:05:31,988
+eu estaria fazendo aqui um obter todos.
+
+90
+00:05:32,000 --> 00:05:33,988
+Estou retornando todos os elementos posso dar um retorne ao
+
+91
+00:05:34,000 --> 00:05:38,170
+it aqui o obter pelo i d d b no
+
+92
+00:05:38,178 --> 00:05:42,629
+p k i d né? Então eu posso pegar
+
+93
+00:05:42,639 --> 00:05:46,358
+ele pelo pelo i d, né? Eh e
+
+94
+00:05:46,369 --> 00:05:50,278
+aí eu dou o P K que é o e
+
+95
+00:05:50,290 --> 00:05:54,019
+vai retornar através do I d tá sempre funções as
+
+96
+00:05:54,028 --> 00:05:57,639
+S CNAS tá incluir assim que o b j Jason
+
+97
+00:05:57,649 --> 00:06:00,319
+D B nota ou DJ, Jason e ele vai
+
+98
+00:06:00,329 --> 00:06:03,399
+retornar? Eh a partir de um objeto no formato
+
+99
+00:06:03,410 --> 00:06:05,199
+jason que eu vou passar aqui é um n,
+
+100
+00:06:05,209 --> 00:06:08,119
+ele vai criar cliente.
+
+101
+00:06:08,129 --> 00:06:10,358
+Então as operações que eu preciso eu já tenho nesse
+
+102
+00:06:10,369 --> 00:06:13,500
+cara, né? Aquilo que foi gerado no meu
+
+103
+00:06:13,509 --> 00:06:16,069
+seque o DJ jason, né? A informação que
+
+104
+00:06:16,079 --> 00:06:18,278
+eu quero, onde o i d é igual ao
+
+105
+00:06:18,290 --> 00:06:21,540
+I d informado, ou seja, altere para essas
+
+106
+00:06:21,548 --> 00:06:23,509
+informações onde aquele i d é o i d que
+
+107
+00:06:23,519 --> 00:06:25,988
+eu informei e o destrói onde o i d é
+
+108
+00:06:26,000 --> 00:06:27,629
+o i d informado, né.
+
+109
+00:06:27,639 --> 00:06:32,079
+Isso aqui eu criei a minha camada dow, né
+
+110
+00:06:32,088 --> 00:06:35,319
+Isso aqui é onde eu tenho concentrado todas as operações
+
+111
+00:06:35,329 --> 00:06:36,600
+de banco de dados.
+
+112
+00:06:36,608 --> 00:06:40,338
+Ao final eu dou um esporte em notas do E
+
+113
+00:06:40,350 --> 00:06:43,670
+esse cara vai poder ser usado por qualquer controlador que
+
+114
+00:06:43,678 --> 00:06:46,730
+queira fazer a gerência da parte de dados, né?
+
+115
+00:06:46,738 --> 00:06:51,579
+Então, eh em termos práticos, o que eu
+
+116
+00:06:51,588 --> 00:06:53,298
+faço quando eu trabalho com a camada down, com
+
+117
+00:06:53,309 --> 00:06:55,920
+sequelas, né? Eu já tenho sequela de toda
+
+118
+00:06:55,928 --> 00:06:58,660
+a funcionalidade, eu tô encapsulado no Dow, aquelas
+
+119
+00:06:58,670 --> 00:07:01,660
+chamadas que eu realmente vou precisar e com essas chamadas
+
+120
+00:07:01,670 --> 00:07:06,220
+encapsulados tipo criar eh alterar, excluir, listar,
+
+121
+00:07:06,230 --> 00:07:10,119
+obter todos obter por um D específico, né,
+
+122
+00:07:10,129 --> 00:07:13,379
+eh? Basta eu usar esse Dow em uma outra
+
+123
+00:07:13,389 --> 00:07:19,459
+parte do sistema, provavelmente um controlador tá para que
+
+124
+00:07:19,470 --> 00:07:22,858
+eh! Eu tenha toda essa parte da camada de
+
+125
+00:07:22,869 --> 00:07:25,278
+acesso ao banco já pronta, né? Então,
+
+126
+00:07:25,290 --> 00:07:27,899
+segundo o modelo M V C o Dow vai ser
+
+127
+00:07:27,910 --> 00:07:30,619
+usado pra fazer pertence em banco qualquer um.
+
+128
+00:07:30,629 --> 00:07:34,939
+Qualquer controlador que queira fazer acesso ao banco vai ter
+
+129
+00:07:34,949 --> 00:07:37,980
+que in instancia esse da e isso tem uma vantagem
+
+130
+00:07:37,988 --> 00:07:39,059
+muito grande pra mim.
+
+131
+00:07:39,069 --> 00:07:41,660
+Quando eu tiver que fazer a manutenção do acesso ao
+
+132
+00:07:41,670 --> 00:07:44,899
+banco eu vou fazer em um lugar apenas, não
+
+133
+00:07:44,910 --> 00:07:46,079
+em vários pontos do sistema.
+
+134
+00:07:46,338 --> 00:07:49,069
+Quando eu fizer pra ali eu vou fazer pra todos
+
+135
+00:07:49,079 --> 00:07:52,230
+os controladores que usam aquele down, né? Então
+
+136
+00:07:52,238 --> 00:07:54,059
+isso é uma grande vantagem, que é a centralização
+
+137
+00:07:54,069 --> 00:07:57,358
+da manutenção TÁ? Eh? E aí eu vou
+
+138
+00:07:57,369 --> 00:07:57,629
+também.
+
+139
+00:07:57,639 --> 00:07:59,309
+Uma outra regra que eu tenho no m v c
+
+140
+00:07:59,319 --> 00:08:01,730
+é que a camada vi não acessa a Dawn,
+
+141
+00:08:01,980 --> 00:08:04,548
+ou seja, só os controladores acessam o Dow.
+
+142
+00:08:04,559 --> 00:08:07,269
+Com isso, eu garanto o maior nível de segurança
+
+143
+00:08:07,278 --> 00:08:09,949
+quando eu trabalho no modelo M V C, já
+
+144
+00:08:09,959 --> 00:08:12,449
+que só os controladores vão conseguir fazer alguma coisa que
+
+145
+00:08:12,459 --> 00:08:15,899
+possa alterar a informação através do Dow, no banco
+
+146
+00:08:15,910 --> 00:08:18,410
+de dados, né? Então, essas são as
+
+147
+00:08:18,420 --> 00:08:22,079
+vantagens de você organizar essa coisa em termos de dal
+
+148
+00:08:22,088 --> 00:08:25,949
+e você ter ali centralizado toda a parte de acesso
+
+149
+00:08:25,959 --> 00:08:26,889
+ao banco de dados.
+

@@ -1,0 +1,712 @@
+1
+00:00:05,929 --> 00:00:09,460
+Olá aluno eu sou Fabrício Melo, estamos aqui novamente
+
+2
+00:00:09,470 --> 00:00:13,099
+pra continuarmos aí com a parte de endereçamento de serviços
+
+3
+00:00:13,108 --> 00:00:16,478
+e o que que a gente vai trabalhar agora nesse
+
+4
+00:00:16,489 --> 00:00:20,179
+bloco? Vamos trabalhar simplesmente com a parte do Nat
+
+5
+00:00:20,190 --> 00:00:20,699
+para o I P v.
+
+6
+00:00:20,708 --> 00:00:24,940
+Quatro Já ouvi falar naquele famoso protocolo Nat Network Edwar
+
+7
+00:00:24,949 --> 00:00:26,658
+translation é o Nat.
+
+8
+00:00:26,670 --> 00:00:31,899
+Aí foi uma invenção aí muito boa que veio pra
+
+9
+00:00:31,908 --> 00:00:36,179
+poder aí segurar um pouco da saturação dos I P
+
+10
+00:00:36,189 --> 00:00:38,380
+v quatro Lembra que a gente viu que o I
+
+11
+00:00:38,389 --> 00:00:41,298
+p v quatro ele tem uma limitação muito grande,
+
+12
+00:00:41,310 --> 00:00:43,500
+né? Você tem aí quatro bilhões, alguma coisa
+
+13
+00:00:43,509 --> 00:00:45,819
+de i p então imagina você não tem i p
+
+14
+00:00:45,829 --> 00:00:48,658
+v quatro pra quantidade de equipamentos que a gente tem
+
+15
+00:00:48,668 --> 00:00:52,779
+então imagina só se toda máquina tivesse numa rede local,
+
+16
+00:00:52,789 --> 00:00:55,590
+né? Todo equipamento ali da sua casa tivesse que
+
+17
+00:00:55,598 --> 00:00:59,359
+ter um ipê próprio pra ir pra internet ia ficar
+
+18
+00:00:59,368 --> 00:01:02,359
+bem complicado isso aí né? Então, qual foi
+
+19
+00:01:02,368 --> 00:01:04,079
+a ideia? A ideia é o seguinte Poxa,
+
+20
+00:01:04,088 --> 00:01:07,480
+em vez de eu ter vários equipamentos numa rede local,
+
+21
+00:01:07,489 --> 00:01:10,439
+cada um com um i p na internet, não.
+
+22
+00:01:10,448 --> 00:01:14,000
+Eu consigo dar um jeito de todos esses equipamentos irem
+
+23
+00:01:14,010 --> 00:01:17,948
+pra internet usando um ipê só olha só que genialidade
+
+24
+00:01:17,959 --> 00:01:21,028
+isso é a ideia do Nat é a ideia que
+
+25
+00:01:21,040 --> 00:01:25,189
+a gente vai trabalhar agora nesse exato momento olha só
+
+26
+00:01:25,198 --> 00:01:29,430
+o nat vem de network é do e a a
+
+27
+00:01:29,439 --> 00:01:30,870
+teoria dele é fornecer.
+
+28
+00:01:30,879 --> 00:01:33,409
+Tá vendo a conversão de endereço i p v quatro
+
+29
+00:01:33,418 --> 00:01:35,790
+e ele vai converter i p v quatro privados em
+
+30
+00:01:35,799 --> 00:01:38,838
+endereços públicos Tá? Vou traduzir isso pra você?
+
+31
+00:01:38,849 --> 00:01:41,370
+Então vamos imaginar que eu tenho aqui uma rede interna?
+
+32
+00:01:42,379 --> 00:01:45,069
+E aqui nós temos a internet okay e aqui nós
+
+33
+00:01:45,079 --> 00:01:48,388
+temos os servidores a internet aí do lado direito aí
+
+34
+00:01:48,400 --> 00:01:52,349
+da sua tela bem pode ver que cada máquina dessa
+
+35
+00:01:52,359 --> 00:01:56,569
+aqui oh que tá na rede local tem um i
+
+36
+00:01:56,579 --> 00:02:00,308
+p privado lembra aquelas classes de i PS privadas é
+
+37
+00:02:00,319 --> 00:02:03,198
+um nove dois tá vendo meia oito, um quarenta.
+
+38
+00:02:03,209 --> 00:02:07,150
+Esses IPs são reservados só pra rede local, então
+
+39
+00:02:07,159 --> 00:02:12,379
+eles não conseguem irà internet porque se a minha
+
+40
+00:02:12,389 --> 00:02:15,069
+rede utiliza esse i p e a rede sua rede,
+
+41
+00:02:15,080 --> 00:02:17,149
+aí também utiliza os mesmos i PS Como é que
+
+42
+00:02:17,159 --> 00:02:19,349
+a gente vai pra internet? Sendo que numa rede
+
+43
+00:02:19,360 --> 00:02:21,629
+nós não podemos ter, né? Dois i p
+
+44
+00:02:21,639 --> 00:02:23,750
+iguais, aí vai dar o que vai dar problema
+
+45
+00:02:23,758 --> 00:02:26,429
+vai dar choque, então essa que foi a ideia
+
+46
+00:02:26,439 --> 00:02:29,949
+perfeita eu posso usar essa classe de PS privados na
+
+47
+00:02:29,960 --> 00:02:30,669
+minha rede.
+
+48
+00:02:30,679 --> 00:02:34,229
+Você também pode utilizar aí na sua rede E quando
+
+49
+00:02:34,240 --> 00:02:36,629
+a gente for pra internet, não vai dar problema
+
+50
+00:02:36,639 --> 00:02:36,969
+nenhum.
+
+51
+00:02:36,979 --> 00:02:40,330
+Por quê? Que vai ter um i p Público
+
+52
+00:02:40,338 --> 00:02:42,740
+que vai tá conectando essas máquinas? Olha só que
+
+53
+00:02:42,750 --> 00:02:46,550
+interessante tá vendo aqui oh! No roteador eu vou
+
+54
+00:02:46,558 --> 00:02:49,758
+ter um nat de saída! Ou seja, quando
+
+55
+00:02:49,770 --> 00:02:52,919
+essa máquina com o IP de origem for fazer uma
+
+56
+00:02:52,929 --> 00:02:58,240
+solicitação lá pro ipê de destino, o meu roteador
+
+57
+00:02:58,250 --> 00:03:03,118
+vai receber esses pacotes dessas máquinas da rede local com
+
+58
+00:03:03,129 --> 00:03:08,919
+os ipês privados e vai converter no ipê do roteador
+
+59
+00:03:08,929 --> 00:03:11,360
+que é um ipê público que é o I P
+
+60
+00:03:11,368 --> 00:03:15,750
+que vai pra internet e vai mandar quando receber de
+
+61
+00:03:15,758 --> 00:03:16,229
+novo.
+
+62
+00:03:16,240 --> 00:03:20,028
+Ele faz a reconversão pro ipê da máquina local,
+
+63
+00:03:20,038 --> 00:03:23,830
+então essas duas três máquinas aqui Oh que eu tenho
+
+64
+00:03:23,838 --> 00:03:25,349
+aqui na rede local que você tá vendo.
+
+65
+00:03:25,360 --> 00:03:30,868
+Aí elas podem estar fazendo requisições para os servidores através
+
+66
+00:03:30,879 --> 00:03:33,469
+de um ipê que é o Ipê do roteador aí
+
+67
+00:03:33,479 --> 00:03:35,229
+através do nat de saída.
+
+68
+00:03:35,240 --> 00:03:36,849
+Tá vendo? Você tem um ipê de destino oh,
+
+69
+00:03:36,860 --> 00:03:40,409
+aí ele vai te mandar pro ipê de origem e
+
+70
+00:03:40,419 --> 00:03:41,929
+depois vai ter outro ipê de destino.
+
+71
+00:03:41,939 --> 00:03:45,969
+Então ele faz essa convenção do Ipê privado para o
+
+72
+00:03:45,979 --> 00:03:48,849
+ipê Público, né? É uma sacada muito interessante,
+
+73
+00:03:48,860 --> 00:03:50,308
+então é o que eu sempre falo.
+
+74
+00:03:50,319 --> 00:03:52,889
+Por exemplo, você tá na sua casa tá ali
+
+75
+00:03:52,899 --> 00:03:57,610
+com dez pessoas eh, eh dez amigos e eles
+
+76
+00:03:57,618 --> 00:03:59,550
+estão conectadosà sua wi-fi.
+
+77
+00:04:00,159 --> 00:04:02,830
+Provavelmente o que que tá acontecendo ali? O i
+
+78
+00:04:02,838 --> 00:04:07,169
+p do seu roteador que está mandando os pacotes pros
+
+79
+00:04:07,179 --> 00:04:11,129
+servidores e depois reconverte pra essas máquinas que são conectadas
+
+80
+00:04:11,139 --> 00:04:11,449
+a ele.
+
+81
+00:04:11,460 --> 00:04:14,729
+Então o nat aí é uma grande salvação que nós
+
+82
+00:04:14,740 --> 00:04:17,449
+temos, né? Pra poder fazer essa economia do
+
+83
+00:04:17,459 --> 00:04:20,250
+i p v quatro Tá aí avançando mais oh lá
+
+84
+00:04:20,259 --> 00:04:23,028
+o nat tem sido responsável tá vendo oh por preservar
+
+85
+00:04:23,040 --> 00:04:26,178
+endereços i p v quatro públicos Cê faz uma grande
+
+86
+00:04:26,189 --> 00:04:29,608
+economia de Pedro, então cinco equipamentos tratando um i
+
+87
+00:04:29,619 --> 00:04:32,028
+p só, né na rede olha a economia que
+
+88
+00:04:32,040 --> 00:04:34,170
+eu tô fazendo aí é um mecanismo e toma cuidado,
+
+89
+00:04:34,259 --> 00:04:38,108
+ele é associadoà camada três, mas também ele
+
+90
+00:04:38,119 --> 00:04:40,928
+é utilizado para conversão de endereço de serviço da camada
+
+91
+00:04:40,939 --> 00:04:42,790
+quatro, que é o Pat, então vai pra
+
+92
+00:04:42,798 --> 00:04:46,230
+camada, né? De transporte tá, e aí
+
+93
+00:04:46,238 --> 00:04:48,588
+oh, nós temos o famoso Nat dinâmico que que
+
+94
+00:04:48,600 --> 00:04:50,009
+é o nat dinâmico.
+
+95
+00:04:50,019 --> 00:04:53,790
+Ele vai usar um pool de endereços públicos e os
+
+96
+00:04:53,798 --> 00:04:55,709
+atribui por ordem de chegada.
+
+97
+00:04:55,720 --> 00:05:01,949
+Então você tem lá alguns endereços públicos que ele cria,
+
+98
+00:05:01,959 --> 00:05:04,509
+aí ele pega as máquinas oh igual, por exemplo
+
+99
+00:05:04,519 --> 00:05:07,028
+que é um nove dois meia oito um quarenta e
+
+100
+00:05:07,040 --> 00:05:10,269
+ele vai ter um d i PS já públicos pra
+
+101
+00:05:10,278 --> 00:05:11,269
+fazer associação.
+
+102
+00:05:11,278 --> 00:05:12,980
+Tá vendo lá, oh, aí ele pega aqui
+
+103
+00:05:12,988 --> 00:05:15,829
+um nove dois um quarenta e um oh e associou
+
+104
+00:05:15,838 --> 00:05:16,649
+ao duzentos.
+
+105
+00:05:16,660 --> 00:05:18,309
+Dois três, quatro dois, três, seis doze
+
+106
+00:05:18,319 --> 00:05:22,009
+aí a outra máquina um nove dois um um ponto
+
+107
+00:05:22,019 --> 00:05:24,139
+oito um quarenta e dois Ele associou com o endereço
+
+108
+00:05:24,149 --> 00:05:26,108
+duzentos dois, três, quatro, dois, três
+
+109
+00:05:26,119 --> 00:05:28,379
+três ponto onze Então esse é o na dinâmica.
+
+110
+00:05:28,389 --> 00:05:30,488
+Ele já faz esse de endereços públicos.
+
+111
+00:05:30,500 --> 00:05:35,588
+Então a hora que essas máquinas chegarem pra pedir os
+
+112
+00:05:35,600 --> 00:05:37,230
+eh, eh os pacotes.
+
+113
+00:05:37,238 --> 00:05:39,689
+Ele já faz essa conversão em cima desses endereços que
+
+114
+00:05:39,699 --> 00:05:42,269
+ele já tem aí, né? De maneira dinâmica
+
+115
+00:05:42,278 --> 00:05:43,569
+Esse é um tipo de nat.
+
+116
+00:05:43,579 --> 00:05:46,569
+Temos também o Pat, que vem de porta e
+
+117
+00:05:46,579 --> 00:05:47,399
+translation.
+
+118
+00:05:47,410 --> 00:05:50,649
+Ele faz aí a a a tradução aí da porta
+
+119
+00:05:50,660 --> 00:05:52,928
+seria o seguinte Oh, ele vai mapear os endereços
+
+120
+00:05:52,939 --> 00:05:56,009
+I P v quatro privado então vai fazer o mapeamento
+
+121
+00:05:56,019 --> 00:05:59,949
+para um único endereço público ou para alguns endereços,
+
+122
+00:06:00,379 --> 00:06:02,189
+né? O o mais comum igual deu o exemplo
+
+123
+00:06:02,199 --> 00:06:03,129
+de casa.
+
+124
+00:06:03,139 --> 00:06:05,829
+É quando você tem um único endereço que é o
+
+125
+00:06:05,838 --> 00:06:08,509
+endereço I p ali do seu roteador tá vendo e
+
+126
+00:06:08,519 --> 00:06:11,588
+ele vai utilizar o soquete lembra o soquete Casamento do
+
+127
+00:06:11,600 --> 00:06:14,619
+Ipê com a porta para fazer o mapeamento das aquisições
+
+128
+00:06:14,629 --> 00:06:17,069
+e respostas, então quando ele sabe o ipê e
+
+129
+00:06:17,079 --> 00:06:19,759
+a porta ele consegue fazer esse mapeamento, então aqui
+
+130
+00:06:19,769 --> 00:06:22,189
+a gente tem lá oh as máquinas OH um nove
+
+131
+00:06:22,199 --> 00:06:25,988
+dois ponto um ponto quarenta e um oh utilizando a
+
+132
+00:06:26,000 --> 00:06:28,790
+porta trinta e um três quatro sete aí o que
+
+133
+00:06:28,798 --> 00:06:31,278
+que ele fez? Ele associou ao i P Público
+
+134
+00:06:31,290 --> 00:06:34,910
+duzentos dois três quatro cento e quinze dois dois dois.
+
+135
+00:06:34,920 --> 00:06:36,629
+Tá vendo Oh! Que é o do roteador aqui!
+
+136
+00:06:36,639 --> 00:06:41,069
+Oh pra poder ir pra internet okay e temos também
+
+137
+00:06:41,079 --> 00:06:44,389
+o nat estático que ele faz um mapeamento de endereço
+
+138
+00:06:44,399 --> 00:06:46,829
+para o endereço ou portas locais e globais, então
+
+139
+00:06:46,838 --> 00:06:50,428
+você vai ter uma tabela pro nome estática, ou
+
+140
+00:06:50,439 --> 00:06:53,028
+seja, ele pegou aqui Oh, o endereço local
+
+141
+00:06:53,040 --> 00:06:57,149
+privado, sempre associado ao endereço global Público.
+
+142
+00:06:57,160 --> 00:07:00,910
+Tá vendo aí oh, Então você já define essa
+
+143
+00:07:00,920 --> 00:07:04,709
+tabela e ele já faz esse casamento pra poder fazer
+
+144
+00:07:04,720 --> 00:07:05,629
+essa conversão.
+
+145
+00:07:05,639 --> 00:07:10,629
+Aí nós chamamos aí de nati e tático tranquilo!
+
+146
+00:07:10,639 --> 00:07:11,809
+E o que que eu trouxe pra você? Um
+
+147
+00:07:11,819 --> 00:07:14,389
+desafio? Uma questão pra você ver, né?
+
+148
+00:07:14,399 --> 00:07:15,910
+Como é que isso aí pode ser cobrado? Como
+
+149
+00:07:15,920 --> 00:07:18,389
+é que você vai funcionar, né na na pra
+
+150
+00:07:18,399 --> 00:07:20,790
+você o conhecimento que você vai ter que ter sobre
+
+151
+00:07:20,798 --> 00:07:24,350
+nat, olha, só eh em relação aos conceitos
+
+152
+00:07:24,358 --> 00:07:28,410
+oh e características das redes de computadores para minimizar problemas
+
+153
+00:07:28,420 --> 00:07:29,209
+relacionados.
+
+154
+00:07:29,220 --> 00:07:32,290
+Tá vendo a falta de endereços i p nas redes
+
+155
+00:07:32,298 --> 00:07:35,449
+baseadas na arquitetura TC p I p Com acessoà
+
+156
+00:07:35,459 --> 00:07:41,088
+internet foi criado um mecanismo baseado nas características listadas a
+
+157
+00:07:41,100 --> 00:07:42,100
+seguir.
+
+158
+00:07:42,108 --> 00:07:47,088
+Tá vendo? Utiliza endereços privados que fazem a tradução
+
+159
+00:07:47,100 --> 00:07:49,528
+dos endereços IP e portas.
+
+160
+00:07:49,540 --> 00:07:52,048
+Tá vendo TC p da rede local pra quem pra
+
+161
+00:07:52,059 --> 00:07:55,809
+internet? Assim o pacote é enviado ou a ser
+
+162
+00:07:55,819 --> 00:07:56,410
+recebido.
+
+163
+00:07:56,420 --> 00:07:59,850
+O microcomputador na rede local vai até o servidor,
+
+164
+00:07:59,858 --> 00:08:02,028
+né? Onde é trocado pelo ipê? Tá vendo
+
+165
+00:08:02,040 --> 00:08:04,730
+oh desse computador! Validando o envio do pacote da
+
+166
+00:08:04,738 --> 00:08:05,088
+internet.
+
+167
+00:08:05,100 --> 00:08:07,250
+Ou seja, passa pro ipê público não é isso.
+
+168
+00:08:07,259 --> 00:08:11,629
+No retorno do pacote, ocorre procedimento semelhante o pacote
+
+169
+00:08:11,639 --> 00:08:14,170
+chega e o I P do servidor é trocado pelo
+
+170
+00:08:14,178 --> 00:08:17,100
+IP do microcomputador de destino que faz a aquisição do
+
+171
+00:08:17,108 --> 00:08:17,829
+pacote.
+
+172
+00:08:17,838 --> 00:08:21,879
+Esse recurso é conhecido pela seguinte sigla Então, quando
+
+173
+00:08:21,889 --> 00:08:25,439
+você se deparar com essa ideia que você tá precisando
+
+174
+00:08:25,449 --> 00:08:29,959
+converter I pê privado pra i p público ou vice-versa
+
+175
+00:08:29,970 --> 00:08:34,479
+público pra privado você não tem nenhuma sombra de dúvidas
+
+176
+00:08:34,489 --> 00:08:40,279
+que você vai destacar aí o famoso nat tranquilidade!
+
+177
+00:08:40,288 --> 00:08:44,369
+Aluno conseguiu aí pegar a ideia? Então é isso?
+
+178
+00:08:44,379 --> 00:08:46,979
+Fechamos grande abraço até a próxima!
+

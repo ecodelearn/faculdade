@@ -1,0 +1,744 @@
+1
+00:00:05,900 --> 00:00:08,750
+Olá aluno! Professor Fabrício Melo estamos aqui com o
+
+2
+00:00:08,759 --> 00:00:09,538
+i p v quatro.
+
+3
+00:00:09,550 --> 00:00:12,509
+Vamos falar sobre endereçamento como é que é feito aí
+
+4
+00:00:12,519 --> 00:00:15,750
+os endereçamento? I p v quatro em uma rede
+
+5
+00:00:15,759 --> 00:00:19,289
+quais são aí as identificações dele? Cê sabe que
+
+6
+00:00:19,298 --> 00:00:22,469
+o i p v quatro é pra identificar exclusivamente um
+
+7
+00:00:22,478 --> 00:00:25,568
+st em uma rede, então você não pode ter
+
+8
+00:00:25,579 --> 00:00:28,609
+na mesma rede, né? Na mesma rede dois
+
+9
+00:00:28,620 --> 00:00:30,179
+i PS iguais, por isso que a ideia é
+
+10
+00:00:30,190 --> 00:00:31,449
+do exclusivo.
+
+11
+00:00:31,829 --> 00:00:34,560
+Ele é um número binário um zero de tamanho de
+
+12
+00:00:34,569 --> 00:00:35,840
+trinta e dois bits.
+
+13
+00:00:35,848 --> 00:00:37,459
+Você deve ter aprendido isso aí, né? Fazer
+
+14
+00:00:37,469 --> 00:00:41,639
+a conversão né? Representado na forma de quatro arquitetos
+
+15
+00:00:41,649 --> 00:00:45,639
+mostrados aí decima separados por um ponto oh então quando
+
+16
+00:00:45,649 --> 00:00:47,959
+eu tenho lá o binário oh e eu vou para
+
+17
+00:00:47,969 --> 00:00:51,770
+o decimal, eu consigo fazer essa conversão aí então
+
+18
+00:00:51,779 --> 00:00:53,200
+o nove dois, um meia oito, dez e
+
+19
+00:00:53,209 --> 00:00:57,279
+dez é um número que no binário trabalha desse jeito
+
+20
+00:00:57,289 --> 00:00:59,798
+Okay, Então você já deve ter feito aí essa
+
+21
+00:00:59,810 --> 00:01:03,560
+conversão trabalhado com essa conversão é importante saber isso.
+
+22
+00:01:03,569 --> 00:01:05,879
+Tá você conhecer o i p v quatro na forma
+
+23
+00:01:05,888 --> 00:01:10,760
+desse mal, mas também conhecê-lo na forma binária tá
+
+24
+00:01:10,769 --> 00:01:13,879
+e dentro do I p nós temos a famosa máscara
+
+25
+00:01:13,888 --> 00:01:16,879
+de sub rede é máscara de sub rede é o
+
+26
+00:01:16,888 --> 00:01:21,439
+que aluno é um indica em qual rede o equipamento
+
+27
+00:01:21,448 --> 00:01:23,819
+se encontra, Porque o que que você tem?
+
+28
+00:01:23,829 --> 00:01:27,299
+Olha, só imagina você tem uma rede, né?
+
+29
+00:01:27,308 --> 00:01:31,019
+E dentro dessa rede cê pode separá la em sub
+
+30
+00:01:31,028 --> 00:01:33,918
+redes? Olha que interessante! Então eu posso ter,
+
+31
+00:01:33,930 --> 00:01:38,719
+por exemplo, em uma empresa a rede da empresa
+
+32
+00:01:39,010 --> 00:01:42,778
+e essa rede eu dividia em sub redes.
+
+33
+00:01:42,790 --> 00:01:45,739
+Então você tem um i P que é responsável por
+
+34
+00:01:45,750 --> 00:01:49,579
+essa máscara de sub rede que vai indicar onde o
+
+35
+00:01:49,588 --> 00:01:51,719
+rosto se encontra, como é que é o endereço
+
+36
+00:01:51,730 --> 00:01:52,778
+aí de máscara de sub rede.
+
+37
+00:01:52,790 --> 00:01:55,459
+Olha que interessante anota isso aí oh, a massa
+
+38
+00:01:55,469 --> 00:01:58,459
+de sub rede padrão é a dois cinco cinco dois,
+
+39
+00:01:58,469 --> 00:02:02,019
+cinco cinco dois cinco cinco, terminada com zero que
+
+40
+00:02:02,028 --> 00:02:04,969
+que cê tem que entender que ela é uma sequência
+
+41
+00:02:04,980 --> 00:02:07,010
+de um bit? Por quê? Porque dois cinco
+
+42
+00:02:07,019 --> 00:02:10,778
+cinco é tudo um bit não é seguida por uma
+
+43
+00:02:10,788 --> 00:02:14,250
+sequência de zero bits, então o endereço final aqui
+
+44
+00:02:14,258 --> 00:02:16,368
+oh tem que ser zero.
+
+45
+00:02:16,379 --> 00:02:18,849
+Então você tem ali uma uma um exemplo de um
+
+46
+00:02:18,860 --> 00:02:20,770
+endereço de uma máscara de sub rede.
+
+47
+00:02:20,778 --> 00:02:23,569
+Tá aí como é que você faz pra descobrir por
+
+48
+00:02:23,580 --> 00:02:29,909
+exemplo, o endereço da rede onde tá esse equipamento
+
+49
+00:02:29,919 --> 00:02:33,179
+que lembre-se você tem a máscara de sub rede que
+
+50
+00:02:33,189 --> 00:02:36,699
+vai mostrar a rede que o equipamento encontra agora?
+
+51
+00:02:36,710 --> 00:02:39,830
+Como é que eu faço essa identificação? Porque você
+
+52
+00:02:39,838 --> 00:02:41,629
+tem oh detalhe cê vai ter que ter o i
+
+53
+00:02:41,639 --> 00:02:44,588
+p máscara de sub rede Cê vai ter o i
+
+54
+00:02:44,599 --> 00:02:48,159
+p da rede e o i p do do equipamento
+
+55
+00:02:48,169 --> 00:02:51,229
+quando falar roxo é equipamento que está nessa rede,
+
+56
+00:02:51,240 --> 00:02:57,599
+Então perceba cê vai usar o famoso e lógico que
+
+57
+00:02:57,610 --> 00:02:59,469
+é o e né? Um e um v i
+
+58
+00:02:59,479 --> 00:03:02,618
+v v já viu isso né? Um zero zero
+
+59
+00:03:02,629 --> 00:03:06,020
+zero zero zero que é falso aquela ideia toda tá
+
+60
+00:03:06,028 --> 00:03:08,240
+então olha só o que que cê faz Perceba nesse
+
+61
+00:03:08,250 --> 00:03:11,889
+quadro aqui oh cê vai pegar o endereço do ROH
+
+62
+00:03:11,899 --> 00:03:14,979
+do i p v quatro Tá vendo oh e a
+
+63
+00:03:14,990 --> 00:03:19,699
+máscara de sub rede e vai comparar lá oh os
+
+64
+00:03:19,710 --> 00:03:22,520
+binários tá vendo oh! Um em um dá um
+
+65
+00:03:22,528 --> 00:03:24,300
+tá vendo oh, cê vai fazendo a comparação um
+
+66
+00:03:24,308 --> 00:03:26,949
+em um dá um zero em um cê sabe que
+
+67
+00:03:26,960 --> 00:03:30,300
+dá zero zero e um dá zero e aí vai
+
+68
+00:03:30,308 --> 00:03:36,080
+oh aí quando você chegar no último o último aqui
+
+69
+00:03:36,088 --> 00:03:39,000
+octeto que seria aí os últimos bits aqui Oh!
+
+70
+00:03:39,008 --> 00:03:42,719
+Que que vai acontecer cê tem que tratá-los todos pra
+
+71
+00:03:42,729 --> 00:03:46,679
+zero porque cê vai achar o endereço de rede i
+
+72
+00:03:46,689 --> 00:03:48,758
+p v quatro o endereço de rede i p v
+
+73
+00:03:48,770 --> 00:03:52,038
+quatro ele vai iniciar com zero, então se eu
+
+74
+00:03:52,050 --> 00:03:55,580
+tenho aqui oh um o número i p que é
+
+75
+00:03:55,588 --> 00:03:58,319
+um nove dois vamos tratar em decimal agora um meia
+
+76
+00:03:58,330 --> 00:04:01,610
+oito, dez e dez numa máscara dois cinco,
+
+77
+00:04:01,618 --> 00:04:05,699
+cinco dois, cinco cinco zero O endereço da minha
+
+78
+00:04:05,710 --> 00:04:09,028
+rede é um nove dois um meia oito, dez
+
+79
+00:04:09,038 --> 00:04:11,868
+e zero, então lembre-se, esse um, nove,
+
+80
+00:04:11,879 --> 00:04:14,419
+dois meia, oito, dez e zero eu não
+
+81
+00:04:14,429 --> 00:04:17,309
+posso usar pra endereçar um equipamento.
+
+82
+00:04:17,319 --> 00:04:20,428
+Ele é um endereço da minha rede.
+
+83
+00:04:20,439 --> 00:04:24,028
+Tá vendo, iniciando pelo zero em cima da minha
+
+84
+00:04:24,040 --> 00:04:28,509
+máscara Eu fiz lá o né, binário aí do
+
+85
+00:04:28,519 --> 00:04:31,509
+endereço da máquina com a máscara sub rede, eu
+
+86
+00:04:31,519 --> 00:04:33,619
+consigo achar o endereço da minha rede.
+
+87
+00:04:33,629 --> 00:04:37,309
+Tá aí dando sequência, olha como é que funciona?
+
+88
+00:04:37,319 --> 00:04:39,329
+E o endereço de rede tá vendo que é o
+
+89
+00:04:39,338 --> 00:04:41,389
+que eu falei é o endereço que vai representar uma
+
+90
+00:04:41,399 --> 00:04:45,028
+rede específica é aquele que todos os bits da porção
+
+91
+00:04:45,040 --> 00:04:47,649
+roxo Tá vendo oh! São iguais a zero!
+
+92
+00:04:48,778 --> 00:04:52,428
+Tá! E aí? Você tem um outro endereço
+
+93
+00:04:52,439 --> 00:04:55,199
+que é o de cast, que é o que
+
+94
+00:04:55,209 --> 00:04:58,350
+é o endereço que vai pra todas as máquinas que
+
+95
+00:04:58,358 --> 00:04:59,548
+fazem parte daquela rede.
+
+96
+00:04:59,559 --> 00:05:02,189
+Quando você quer enviar pra todas elas aí, o
+
+97
+00:05:02,199 --> 00:05:04,149
+que que vai mudar? Você tem que saber que
+
+98
+00:05:04,160 --> 00:05:07,790
+o endereço de broadcast era acessar todos os dispositivos em
+
+99
+00:05:07,798 --> 00:05:10,579
+rede e os bits na página Roxo tem que ser
+
+100
+00:05:10,588 --> 00:05:11,519
+iguais a um.
+
+101
+00:05:11,528 --> 00:05:14,988
+Então o endereço de rede os últimos bits ali tem
+
+102
+00:05:15,000 --> 00:05:18,459
+que ser zero quando você fazer o ente e o
+
+103
+00:05:18,470 --> 00:05:21,720
+endereço de tem que ser um, então já são
+
+104
+00:05:21,730 --> 00:05:24,139
+dois números que você tem que eliminar da sua rede,
+
+105
+00:05:24,759 --> 00:05:26,129
+entendeu porque vamos lá.
+
+106
+00:05:26,139 --> 00:05:28,410
+O endereço de de da máscara de sub rede é
+
+107
+00:05:28,420 --> 00:05:32,488
+pra localizar a rede certo? O endereço da rede
+
+108
+00:05:32,500 --> 00:05:34,879
+vai terminar com zero, ou seja, elimina ele
+
+109
+00:05:34,889 --> 00:05:38,338
+da quantidade e o endereço de broadcast termina com um,
+
+110
+00:05:38,350 --> 00:05:41,369
+geralmente vai ser o último, você elimina também.
+
+111
+00:05:41,379 --> 00:05:43,509
+Então se você tem uma rede que tem capacidade pra
+
+112
+00:05:43,519 --> 00:05:47,819
+ter oito equipamentos, Cê gira dois, então na
+
+113
+00:05:47,829 --> 00:05:52,040
+realidade você vai ter o quê seis equipamentos conectados ali
+
+114
+00:05:52,048 --> 00:05:55,619
+porque um vai ser o endereço de e o outro
+
+115
+00:05:55,629 --> 00:05:57,259
+vai ser o endereço da rede.
+
+116
+00:05:57,269 --> 00:05:58,178
+Vamos achar aqui.
+
+117
+00:05:58,189 --> 00:06:00,619
+Olha aqui o exemplo tá vendo oh, eu tenho
+
+118
+00:06:00,629 --> 00:06:03,809
+aqui o endereço i p do meu st tá vendo
+
+119
+00:06:03,819 --> 00:06:05,338
+que é um nove dois um meia oito, dez
+
+120
+00:06:05,350 --> 00:06:08,139
+e onze Aí eu tenho minha máscara de rede foi
+
+121
+00:06:08,149 --> 00:06:10,178
+dada essa máscara tá vendo oh dois, cinco,
+
+122
+00:06:10,189 --> 00:06:11,939
+cinco, dois, cinco, cinco dois cinco cinco
+
+123
+00:06:11,949 --> 00:06:15,178
+zero aí o que que você viu? Quando eu
+
+124
+00:06:15,189 --> 00:06:18,088
+faço? O endereçamento de rede? Ele é o
+
+125
+00:06:18,100 --> 00:06:20,290
+ed lógico entre o i p e a máscara não
+
+126
+00:06:20,298 --> 00:06:23,009
+é? Então oh lá quando eu fiz o wende
+
+127
+00:06:23,019 --> 00:06:27,329
+lógico entre esses dois oh lá eu achei o nove
+
+128
+00:06:27,338 --> 00:06:29,009
+dois um meia oito dez e zero tá vendo oh
+
+129
+00:06:29,019 --> 00:06:31,088
+lá, o endereço da rede tem que terminar com
+
+130
+00:06:31,100 --> 00:06:34,369
+zero E agora o que que eu vou fazer?
+
+131
+00:06:34,379 --> 00:06:37,488
+O endereço de broca, O endereço de broadcast oh
+
+132
+00:06:37,500 --> 00:06:40,829
+lá os do host tem que ser um então oh
+
+133
+00:06:40,838 --> 00:06:43,649
+lá o meu endereço de broca deu um nove dois
+
+134
+00:06:43,660 --> 00:06:47,319
+um meia oito dez dois cinco cinco Por quê?
+
+135
+00:06:47,329 --> 00:06:50,670
+Porque dois cinco cinco é um um um um um?
+
+136
+00:06:51,319 --> 00:06:55,488
+Então eu consegui localizar com essa máscara de sub rede
+
+137
+00:06:55,500 --> 00:06:57,209
+aí, quem é o endereço da minha rede?
+
+138
+00:06:57,220 --> 00:07:00,709
+Um nove dois um meia oito, dez e zero
+
+139
+00:07:00,720 --> 00:07:03,449
+Quem é o broadcast? Um nove dois um Meia
+
+140
+00:07:03,459 --> 00:07:04,410
+oito dez dois cinco cinco.
+
+141
+00:07:04,420 --> 00:07:08,470
+Então zero dois cinco cinco estão sendo já usados as
+
+142
+00:07:08,480 --> 00:07:13,100
+máquinas os vão tá nesse meio aí nesse intervalo aí
+
+143
+00:07:13,108 --> 00:07:17,129
+de p É assim que você consegue achar esse endereço.
+
+144
+00:07:17,139 --> 00:07:19,309
+Tá vendo oh lá o endereço de são aqueles que
+
+145
+00:07:19,319 --> 00:07:21,230
+podem ser atribuídos, que é um dispositivo né?
+
+146
+00:07:21,569 --> 00:07:23,459
+A gente fala roxo porque pode ser um equipamento,
+
+147
+00:07:23,470 --> 00:07:26,298
+um laptop smartphone, câmera qualquer dispositivo que tá na
+
+148
+00:07:26,309 --> 00:07:29,338
+sua rede tá quando você vai lá no Windows naqueles
+
+149
+00:07:29,350 --> 00:07:32,798
+naquelas propriedades do protocolo TC p i p tá vendo
+
+150
+00:07:32,809 --> 00:07:36,970
+oh, você consegue vê o seu endereço i p
+
+151
+00:07:36,980 --> 00:07:41,178
+oh lá ver o endereço da máscara de sub rede
+
+152
+00:07:41,189 --> 00:07:43,379
+tá vendo Oh, essa é a má realmente padrão
+
+153
+00:07:43,389 --> 00:07:44,579
+aí da classe C, né como eu falei?
+
+154
+00:07:44,588 --> 00:07:46,298
+Dois cinco cinco dois, cinco cinco, dois cinco
+
+155
+00:07:46,309 --> 00:07:49,220
+cinco zero tá vendo e você tem a opção de
+
+156
+00:07:49,230 --> 00:07:50,819
+fazer o endereço automático? Tá.
+
+157
+00:07:50,829 --> 00:07:53,699
+Você pode obter automaticamente o endereço i p sem ter
+
+158
+00:07:53,709 --> 00:07:54,858
+que configurar manual.
+
+159
+00:07:54,869 --> 00:07:57,379
+Cê vai utilizar um servidor D HC P né?
+
+160
+00:07:57,389 --> 00:08:00,278
+D HC P é o famoso protocolo de configuração de
+
+161
+00:08:00,290 --> 00:08:01,540
+i P dinâmico.
+
+162
+00:08:01,548 --> 00:08:04,699
+Ele é um protocolo que gera dinamicamente o i P
+
+163
+00:08:04,709 --> 00:08:06,959
+da sua rede, então quando você habilita ele oh,
+
+164
+00:08:07,189 --> 00:08:11,480
+ele vai definir automaticamente e o que que é?
+
+165
+00:08:11,488 --> 00:08:14,358
+Esse é o dispositivo né o seu aí O roteador
+
+166
+00:08:14,369 --> 00:08:16,559
+que vai encaminhar o tráfego pra outras redes tá vendo?
+
+167
+00:08:16,569 --> 00:08:18,858
+Então ele também tem que ter o endereço que a
+
+168
+00:08:18,869 --> 00:08:20,559
+sua máquina vai tá conectada a ele.
+
+169
+00:08:20,569 --> 00:08:24,358
+Então ele vai ter o endereço dele lá Oh tá
+
+170
+00:08:24,369 --> 00:08:27,119
+vendo oh padrão lá na minha rede ele é o
+
+171
+00:08:27,129 --> 00:08:29,608
+nove dois um meia oito um um por que que
+
+172
+00:08:29,619 --> 00:08:31,278
+não é o nove dois, um meia oito um
+
+173
+00:08:31,290 --> 00:08:35,178
+zero porque o zero é o endereço da minha rede.
+
+174
+00:08:35,188 --> 00:08:39,717
+O roteador tá sendo o primeiro número de ST da
+
+175
+00:08:39,729 --> 00:08:42,957
+minha rede e o meu equipamento ficou com nove dois
+
+176
+00:08:42,967 --> 00:08:46,327
+um meia oito um dois cinco quatro Por que que
+
+177
+00:08:46,337 --> 00:08:48,337
+não é o dois cinco cinco que o dois cinco
+
+178
+00:08:48,347 --> 00:08:50,957
+cinco é o endereço de cast pra enviar pra todo
+
+179
+00:08:50,967 --> 00:08:55,048
+mundo perfeito, entendeu essa ideia? Então é.
+
+180
+00:08:55,058 --> 00:09:00,317
+Espero que você tenha conseguido identificar a diferença do endereço,
+
+181
+00:09:00,327 --> 00:09:04,000
+o endereço de rede zero no final do Rost,
+
+182
+00:09:04,009 --> 00:09:08,479
+o endereço de St um No final já não geralmente
+
+183
+00:09:08,489 --> 00:09:10,359
+ele é o último número dois cinco cinco do nosso
+
+184
+00:09:10,369 --> 00:09:13,649
+exemplo ali tá e a máscara de sub rede que
+
+185
+00:09:13,658 --> 00:09:18,038
+vai definir onde é a rede aí daquele Rost perfeito.
+
+186
+00:09:18,048 --> 00:09:19,658
+Abraço até logo!
+

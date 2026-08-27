@@ -1,0 +1,756 @@
+1
+00:00:06,730 --> 00:00:10,460
+Olá, vamos continuar o nosso aprendizado sobre modelagem de
+
+2
+00:00:10,470 --> 00:00:11,060
+processo.
+
+3
+00:00:11,069 --> 00:00:14,380
+Agora nós vamos falar sobre as anotações de modelagem de
+
+4
+00:00:14,390 --> 00:00:17,780
+processo, né? Nós vamos falar sobre b PM
+
+5
+00:00:17,789 --> 00:00:21,079
+n e PC u ML e i D f são
+
+6
+00:00:21,089 --> 00:00:23,359
+algumas das anotações de modelagem de processo.
+
+7
+00:00:23,370 --> 00:00:26,129
+Cada um tem a sua característica ali A sua aplicação
+
+8
+00:00:26,138 --> 00:00:29,519
+tá, nós estamos aqui vendo uma parte introdutória do
+
+9
+00:00:29,530 --> 00:00:33,000
+que é essa anotação de modelagem e b PM n
+
+10
+00:00:33,009 --> 00:00:36,039
+o b PM n na verdade é a anotação do
+
+11
+00:00:36,048 --> 00:00:38,200
+b PM que é a gestão de processos que a
+
+12
+00:00:38,209 --> 00:00:38,618
+gente tá falando.
+
+13
+00:00:38,630 --> 00:00:40,918
+A forma de de eu enxergar o b PM A
+
+14
+00:00:40,929 --> 00:00:45,679
+gestão de processo é usar a notação desta desse dessa
+
+15
+00:00:45,689 --> 00:00:49,000
+atividade dessa dessa disciplina que é o b PM n
+
+16
+00:00:49,009 --> 00:00:55,569
+okay Bom eh as anotações de modelagem de processo,
+
+17
+00:00:55,579 --> 00:00:58,389
+né? Que como conforme nós estamos ali eh,
+
+18
+00:00:58,399 --> 00:01:01,728
+vimos no no no título inicial, né? A
+
+19
+00:01:01,740 --> 00:01:03,168
+primeira que a gente tem o b PM n,
+
+20
+00:01:03,179 --> 00:01:06,489
+que é o A, a olha só processo a
+
+21
+00:01:06,500 --> 00:01:08,750
+nota que é a notação.
+
+22
+00:01:08,760 --> 00:01:13,409
+Este Isso é um padrão padrão de gestão de processo
+
+23
+00:01:13,418 --> 00:01:16,290
+pra modelagem de processo de negócio.
+
+24
+00:01:16,299 --> 00:01:20,469
+Okay Processo de negócio Olha só ele foi criado por
+
+25
+00:01:20,480 --> 00:01:24,168
+pelo objetivo, né? E é útil pra representar
+
+26
+00:01:24,180 --> 00:01:28,109
+modelos para públicos alvos diferente Okay.
+
+27
+00:01:28,120 --> 00:01:30,980
+Então a gente usa essa anotação.
+
+28
+00:01:30,989 --> 00:01:35,659
+Quando a gente quer mostrar eh esse padrão de notação,
+
+29
+00:01:35,668 --> 00:01:39,459
+né? Baseado em processos de negócio para o meu
+
+30
+00:01:39,469 --> 00:01:41,040
+cliente, então eu vou construir ela.
+
+31
+00:01:41,049 --> 00:01:43,540
+Essa anotação tem uma série de símbolos.
+
+32
+00:01:43,549 --> 00:01:50,609
+Uma série de eh eh características próprias que me conduzem.
+
+33
+00:01:50,620 --> 00:01:54,209
+Ah, ao longo do meu entendimento pra pra que
+
+34
+00:01:54,219 --> 00:01:56,510
+eu possa entender, né, Aquele processo tá,
+
+35
+00:01:56,519 --> 00:02:00,859
+outro que nós temos é o e PC even driver
+
+36
+00:02:00,870 --> 00:02:02,969
+cha eh aqui.
+
+37
+00:02:02,980 --> 00:02:05,948
+Ele tá desenvolvido como parte de estrutura de trabalho.
+
+38
+00:02:05,959 --> 00:02:08,129
+Oh estrutura de trabalho! Opa aqui! Oh!
+
+39
+00:02:08,139 --> 00:02:11,800
+Estrutura de trabalho, né? Ari Considera eventos como
+
+40
+00:02:11,808 --> 00:02:15,399
+gatilhos para resultados de uma etapa de processo É útil
+
+41
+00:02:15,409 --> 00:02:19,038
+pra modelar conjuntos complexos de processo, né? Então
+
+42
+00:02:19,050 --> 00:02:24,778
+você quer trabalhar com eventos, eh ou resultados pra
+
+43
+00:02:24,788 --> 00:02:28,278
+um determinado processo você usa o e PC, né?
+
+44
+00:02:28,288 --> 00:02:35,159
+Então eh focado especificamente ne nesse entendimento nesse objetivo,
+
+45
+00:02:35,169 --> 00:02:37,899
+né? Um outro que nós temos é a U
+
+46
+00:02:37,909 --> 00:02:42,088
+ML Unid Mode, que é um conjunto Padrões de
+
+47
+00:02:42,099 --> 00:02:47,080
+anotações técnicas pra diagramação Olha aqui oh de requisitos de
+
+48
+00:02:47,088 --> 00:02:50,770
+sistema de informação tá que é a O ML nasceu
+
+49
+00:02:50,778 --> 00:02:52,659
+como ML Beleza.
+
+50
+00:02:52,669 --> 00:02:55,038
+Então o que você quer fazer? Eh descrição de
+
+51
+00:02:55,050 --> 00:02:58,800
+requisito de sistema de informação, desenvolvimento de sistema Anotação
+
+52
+00:02:58,808 --> 00:03:00,300
+é o ML, né? Ah, ah!
+
+53
+00:03:00,308 --> 00:03:03,149
+Ah, é muito utilizado hoje em dia o ML,
+
+54
+00:03:03,159 --> 00:03:05,879
+né? Você pode utilizar pra representar? Eh Diagrama
+
+55
+00:03:05,889 --> 00:03:11,000
+de con Eh Diagrama de de estado, eh uma
+
+56
+00:03:11,008 --> 00:03:15,038
+série de de de de diagramas que são disponibilizados pra
+
+57
+00:03:15,050 --> 00:03:17,278
+essa linguagem que você vai trabalhar com ela aí,
+
+58
+00:03:17,288 --> 00:03:22,599
+né eh diagrama de sequência, enfim tá uma ML,
+
+59
+00:03:22,610 --> 00:03:24,599
+é uma linguagem bem completa, aí, na minha
+
+60
+00:03:24,610 --> 00:03:26,460
+época não era um ML não, a gente usava
+
+61
+00:03:26,469 --> 00:03:29,479
+a o EH Análise estruturada por meio do D F
+
+62
+00:03:29,490 --> 00:03:32,399
+D Diagrama de fluxo de dados era totalmente diferente.
+
+63
+00:03:32,409 --> 00:03:37,419
+Hoje a base é esse é mantido pelo objeto de
+
+64
+00:03:37,429 --> 00:03:38,129
+manejo de grupo.
+
+65
+00:03:38,139 --> 00:03:41,469
+Então, quando uma padrão técnico justamente voltado pra eh
+
+66
+00:03:41,479 --> 00:03:44,368
+requisito sistema de informação, o outro que nós temos
+
+67
+00:03:44,379 --> 00:03:47,909
+é o I d Integra Deti, né? Que
+
+68
+00:03:47,919 --> 00:03:52,770
+é? Ah, focado em entradas, saídas e
+
+69
+00:03:52,778 --> 00:03:55,808
+mecanismos de controle de processo, né? Em relação
+
+70
+00:03:55,819 --> 00:03:59,368
+dos detalhes desse processo de nível superior e inferior,
+
+71
+00:03:59,379 --> 00:04:02,569
+né? Seu ponto de partida é a visão corporativa
+
+72
+00:04:02,580 --> 00:04:05,189
+da organização, Ou seja, seria uma visão muito
+
+73
+00:04:05,199 --> 00:04:08,569
+olhando uma visão top Down, né? Olha pra
+
+74
+00:04:08,580 --> 00:04:13,210
+visão corporativa e desdobra isso, né EH no no,
+
+75
+00:04:13,219 --> 00:04:16,750
+no detalhe mais inferior desse desse seu processo.
+
+76
+00:04:16,759 --> 00:04:20,309
+Observe que ele é um padrão federal, né?
+
+77
+00:04:20,319 --> 00:04:23,488
+Oh Federal lá, dos Estados Unidos, utilizado lá
+
+78
+00:04:23,500 --> 00:04:25,290
+pra PE pelo pessoal beleza.
+
+79
+00:04:25,298 --> 00:04:29,488
+Então são alguns tipos de modelagem, a exemplo pra
+
+80
+00:04:29,500 --> 00:04:32,149
+gente compreender como é que é o funcionamento, né?
+
+81
+00:04:32,160 --> 00:04:35,259
+Quais são as os modelos? As propostas de modelagem
+
+82
+00:04:35,269 --> 00:04:37,250
+que nós temos de processo? A gente vai olhar
+
+83
+00:04:37,259 --> 00:04:40,170
+aqui pra vimos aqui, que pra desenvolvimento de sistemas
+
+84
+00:04:40,178 --> 00:04:43,608
+pra sistema de informação tem uma pra questão de desdobramento
+
+85
+00:04:43,619 --> 00:04:44,369
+de corporativo.
+
+86
+00:04:44,379 --> 00:04:46,069
+Eu tenho o outro pra representar.
+
+87
+00:04:46,079 --> 00:04:48,399
+Mo- modelo com público de algo diferente é outro.
+
+88
+00:04:48,410 --> 00:04:50,629
+Então cada uma tem um pressuposto, né? E
+
+89
+00:04:50,639 --> 00:04:53,369
+aí a gente vai aplicar isso dentro do nosso interesse.
+
+90
+00:04:53,379 --> 00:04:58,910
+Eh organizacional tá legal? Eh nós basicamente aqui vamos
+
+91
+00:04:58,920 --> 00:05:03,949
+utilizar o o modelo eh b PM, porque a
+
+92
+00:05:03,959 --> 00:05:08,269
+nossa gestão de processo é focado dentro do modelo do
+
+93
+00:05:08,278 --> 00:05:10,829
+b PM E aí? E a óbvio dentro do
+
+94
+00:05:10,838 --> 00:05:13,369
+modelo do BPN, nós vamos usar a anotação b
+
+95
+00:05:13,379 --> 00:05:16,108
+PM n né? Então b PM n, como
+
+96
+00:05:16,119 --> 00:05:19,548
+eu já falei é um padrão criado pelo processo eh
+
+97
+00:05:19,559 --> 00:05:25,189
+iniciativa b PM i que é incorporado a um grupo
+
+98
+00:05:25,199 --> 00:05:27,910
+que é chamado objeto de um grupo, né?
+
+99
+00:05:27,920 --> 00:05:30,829
+Estabelece o padrão pra um sistema de informação, né?
+
+100
+00:05:30,838 --> 00:05:33,670
+Mas aqui não é pra desenvolvimento de sistema, aqui
+
+101
+00:05:33,678 --> 00:05:34,738
+é sistema de informação.
+
+102
+00:05:34,750 --> 00:05:36,750
+A representação do fluxo da informação, de como ele
+
+103
+00:05:36,759 --> 00:05:39,309
+é ocorre dentro da organização, né? Então olha
+
+104
+00:05:39,319 --> 00:05:42,949
+só, ele foi desenvolvido pra dar aos negócios uma
+
+105
+00:05:42,959 --> 00:05:45,709
+notação gráfica fácil de ler e compreender.
+
+106
+00:05:45,720 --> 00:05:48,790
+Então, o modelo pressupõe, né? O o
+
+107
+00:05:48,798 --> 00:05:56,449
+a anotação pressupõe ofertar essa facilidade? Essa essa tranquilidade
+
+108
+00:05:56,459 --> 00:05:58,608
+em se compreender o que eu tô querendo dizer o
+
+109
+00:05:58,619 --> 00:06:02,129
+que eu tô querendo demonstrar do fluxo de processo no
+
+110
+00:06:02,139 --> 00:06:05,949
+qual estou trabalhando, no que eu estou representando,
+
+111
+00:06:05,959 --> 00:06:06,548
+tá bom.
+
+112
+00:06:07,410 --> 00:06:09,980
+Então, isso é importante a gente entender por isso
+
+113
+00:06:09,988 --> 00:06:14,939
+essa essa essa essa eh essa importância em se desenhar
+
+114
+00:06:14,949 --> 00:06:19,100
+Os processos e as características por trás desses modelos envolvem
+
+115
+00:06:19,108 --> 00:06:22,939
+notação, Uma notação gráfica, né? A representação
+
+116
+00:06:22,949 --> 00:06:26,259
+por meio de uma caixinha Por meio de um fluxo
+
+117
+00:06:26,269 --> 00:06:28,559
+por meio de uma bolinha? Cada uma tem uma
+
+118
+00:06:28,569 --> 00:06:29,220
+representação.
+
+119
+00:06:29,230 --> 00:06:30,699
+Se minha bolinha ficou hor, mas cada uma tem
+
+120
+00:06:30,709 --> 00:06:33,605
+uma representação, é diferente, né? Então você
+
+121
+00:06:33,613 --> 00:06:36,725
+tem aqui um fluxo de início, um fluxo de
+
+122
+00:06:36,733 --> 00:06:40,545
+término, Você tem um fluxo pontilhado, você tem
+
+123
+00:06:40,553 --> 00:06:43,095
+enfim, uma série de de de de de de
+
+124
+00:06:43,105 --> 00:06:43,644
+anotações.
+
+125
+00:06:43,653 --> 00:06:47,605
+Aí eh interessantes padronização, porque padronização, uma vez
+
+126
+00:06:47,613 --> 00:06:50,244
+que foi definido esse conjunto de fluxos aí igual a
+
+127
+00:06:50,254 --> 00:06:53,384
+gente tá falando essa anotação você padronizou aquele pro.
+
+128
+00:06:53,394 --> 00:06:55,625
+Você padronizou com como isso vai ser escrito.
+
+129
+00:06:55,970 --> 00:06:58,500
+Isso é muito legal, porque você não é assim.
+
+130
+00:06:58,509 --> 00:07:01,160
+Todo mundo que enxerga que lê ele vai entender a
+
+131
+00:07:01,170 --> 00:07:04,139
+mesma coisa independente se o cara tá aqui no Brasil,
+
+132
+00:07:04,149 --> 00:07:06,259
+se o cara tá na Europa, se o cara
+
+133
+00:07:06,269 --> 00:07:07,819
+tá nos Estados Unidos, Se o cara tá na
+
+134
+00:07:07,829 --> 00:07:09,459
+China, não quer dizer nada.
+
+135
+00:07:09,470 --> 00:07:13,759
+A padronização do B PM n é uma linguagem mundial,
+
+136
+00:07:13,769 --> 00:07:15,790
+né? Então você, em qualquer lugar, vo-
+
+137
+00:07:15,798 --> 00:07:19,480
+aquele aquele ícone aquela aquela bolinha, aquele, aquele
+
+138
+00:07:19,488 --> 00:07:23,000
+retângulo, aquela aquele fluxo representa a mesma coisa,
+
+139
+00:07:23,009 --> 00:07:27,149
+então você padroniza e dentro da organização Também é fundamental
+
+140
+00:07:27,160 --> 00:07:30,170
+a padronização, porque todos vão ter acesso ao mesmo
+
+141
+00:07:30,178 --> 00:07:31,048
+conhecimento.
+
+142
+00:07:31,639 --> 00:07:33,639
+A partir do momento que você entendeu um fluxo,
+
+143
+00:07:33,649 --> 00:07:36,939
+você entendeu um processo, você entendeu aquela anotação,
+
+144
+00:07:36,949 --> 00:07:40,350
+todos os demais vão ser a mesma coisa, né?
+
+145
+00:07:40,358 --> 00:07:43,350
+O mesmo entendimento, então a padronização é fundamental.
+
+146
+00:07:44,470 --> 00:07:47,858
+Flexibilidade que flexibilidade, porque ele nos dá a a
+
+147
+00:07:47,869 --> 00:07:53,220
+a a possibilidade de trabalhar o fluxo de diversas formas
+
+148
+00:07:53,230 --> 00:07:57,759
+flexíveis de A A, A, A a atender
+
+149
+00:07:57,769 --> 00:08:01,338
+ao requisito do meu processo, né? E por
+
+150
+00:08:01,350 --> 00:08:03,019
+isso a flexibilidade ele não amarra.
+
+151
+00:08:03,028 --> 00:08:05,858
+Meu processo só só é desenhado pra esse processo.
+
+152
+00:08:05,869 --> 00:08:08,639
+Não em qualquer processo ele serve, tá legal,
+
+153
+00:08:08,649 --> 00:08:12,259
+outra Ele traz uma abstração de detalhes técnicos.
+
+154
+00:08:12,269 --> 00:08:14,459
+Ele permite ver ali essa abstração de como é o
+
+155
+00:08:14,470 --> 00:08:15,980
+detalhe técnico daquilo que funciona.
+
+156
+00:08:15,988 --> 00:08:18,019
+Uma, por exemplo, um armazenamento em banco de
+
+157
+00:08:18,028 --> 00:08:20,178
+dados, uma consulta a um cliente, uma consulta
+
+158
+00:08:20,189 --> 00:08:22,619
+a um banco, uma consulta a um pro uma,
+
+159
+00:08:22,629 --> 00:08:28,000
+um subprocessos é legal e extensibilidade ele é extens e
+
+160
+00:08:28,009 --> 00:08:33,080
+ele pode eh, está eh integrado, né?
+
+161
+00:08:33,090 --> 00:08:38,678
+Ser extensível eh, eh com outros outras linguagens de
+
+162
+00:08:38,690 --> 00:08:42,599
+de de de modelagens, né? Outras abstrações outros,
+
+163
+00:08:42,609 --> 00:08:45,558
+por isso ele é pode ser integrado a outros modelos,
+
+164
+00:08:45,570 --> 00:08:47,908
+não é estático em si mesmo, então você pode
+
+165
+00:08:47,918 --> 00:08:50,320
+integrar a outros modelos, por isso é a questão
+
+166
+00:08:50,330 --> 00:08:55,158
+da extensibilidade tá? E ah, pra gente eh
+
+167
+00:08:55,168 --> 00:08:57,719
+aprender, né? Pra gente pra demonstrar até que
+
+168
+00:08:57,729 --> 00:09:00,399
+um fluxo de b PM n pra gente chegar,
+
+169
+00:09:00,408 --> 00:09:01,639
+né? E quando você vai usar, né?
+
+170
+00:09:01,649 --> 00:09:05,479
+Olha, quando você tem, eh complexidade, colaboração,
+
+171
+00:09:05,489 --> 00:09:07,239
+automatização e otimização.
+
+172
+00:09:07,250 --> 00:09:09,739
+Olha que Que legal, você recebe uma solicitação?
+
+173
+00:09:09,750 --> 00:09:12,158
+Esse é um símbolo, você verifica o perfil do
+
+174
+00:09:12,168 --> 00:09:14,798
+cliente, é outro símbolo padronizado, né? Ou
+
+175
+00:09:14,808 --> 00:09:17,200
+seja a gente falou aqui, oh de de falamos
+
+176
+00:09:17,210 --> 00:09:19,119
+aqui de anotação, tá aqui as no as,
+
+177
+00:09:19,129 --> 00:09:22,359
+as anotações Tá aqui a padronização, né? Olha
+
+178
+00:09:22,369 --> 00:09:26,399
+só aqui você tem uma atividade sendo executada verificar aqui
+
+179
+00:09:26,408 --> 00:09:31,408
+você tem uma informação se sendo trabalhada E isso é
+
+180
+00:09:31,418 --> 00:09:34,989
+flexibilidade, né? Oh, você tem aqui,
+
+181
+00:09:35,000 --> 00:09:39,440
+eh, eh oferecer novos produtos, enfim, veja
+
+182
+00:09:39,450 --> 00:09:43,359
+que isso aqui você consegue observar o fluxo de como
+
+183
+00:09:43,369 --> 00:09:45,719
+ocorre a informação aqui dentro.
+
+184
+00:09:45,729 --> 00:09:49,080
+Isso é muito importante para o desenho do processo,
+
+185
+00:09:49,090 --> 00:09:52,119
+pra atividade daquele processo propriamente dito, né? Então
+
+186
+00:09:52,129 --> 00:09:55,918
+essa essa anotação dessa modelagem nos permite toma, eh
+
+187
+00:09:55,928 --> 00:09:59,798
+nos permite enxergar de forma integrada, como acontece no
+
+188
+00:09:59,808 --> 00:10:01,639
+meu processo Okay! Obrigado.
+
+189
+00:10:01,649 --> 00:10:02,460
+Até a próxima!
+

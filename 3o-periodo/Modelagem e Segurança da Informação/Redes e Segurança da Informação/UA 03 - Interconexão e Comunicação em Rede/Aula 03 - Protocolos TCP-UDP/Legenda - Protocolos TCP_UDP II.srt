@@ -1,0 +1,976 @@
+1
+00:00:06,059 --> 00:00:09,839
+Olá, aluno seja bem-vindo Professor Fabrício Melo vamos dar
+
+2
+00:00:09,849 --> 00:00:14,189
+sequência e estamos tratando isso é protocolo TC p Famoso
+
+3
+00:00:14,198 --> 00:00:18,989
+protocolo confiável famoso protocolo que está lá na camada quatro
+
+4
+00:00:19,000 --> 00:00:22,539
+do modelo o a camada de transporte e aí a
+
+5
+00:00:22,548 --> 00:00:26,579
+parte cabeçalho como é identificado aí os campos de protocolo
+
+6
+00:00:26,589 --> 00:00:30,219
+TC P e agora a gente vai ver algumas funcionalidades
+
+7
+00:00:30,228 --> 00:00:33,200
+desse protocolo? Quais são as funcionalidades? Como é
+
+8
+00:00:33,209 --> 00:00:36,719
+que opera esse protocolo? TC p Aí na prática,
+
+9
+00:00:36,728 --> 00:00:39,798
+perceba aqui primeiramente, como é que é feito o
+
+10
+00:00:39,810 --> 00:00:42,539
+estabelecimento de conexão? Oh quando você vai fazer um
+
+11
+00:00:42,548 --> 00:00:46,139
+estabelecimento de conexão TC p Cê tem a famosa de
+
+12
+00:00:46,149 --> 00:00:49,700
+três vias que é o famoso wa que famoso aí
+
+13
+00:00:49,709 --> 00:00:54,158
+oh aperto de mão Como é que funciona um segmento
+
+14
+00:00:54,168 --> 00:00:59,000
+s y n Cem de abertura aí você vai ter
+
+15
+00:00:59,009 --> 00:01:03,240
+um segmento sim mais um a secar de resposta e
+
+16
+00:01:03,250 --> 00:01:07,058
+depois uma seca de confirmação, então perceba que nesse
+
+17
+00:01:07,069 --> 00:01:10,719
+desenho você tem aqui origem e você tem um destino
+
+18
+00:01:10,730 --> 00:01:14,049
+você tem nenhum cliente com um servidor, então o
+
+19
+00:01:14,058 --> 00:01:17,879
+cliente manda ali um sim, né? Os destino
+
+20
+00:01:17,888 --> 00:01:21,000
+vai mandar um sim mais uma seca de resposta e
+
+21
+00:01:21,010 --> 00:01:25,198
+depois o origem vai mandar uma seca de quê de
+
+22
+00:01:25,209 --> 00:01:28,278
+confirmação, Então, lembre sempre disso, você tem
+
+23
+00:01:28,290 --> 00:01:32,150
+ali um sim de abertura? Servidor responde com um
+
+24
+00:01:32,159 --> 00:01:36,159
+sim mais uma seca de resposta e depois uma seca
+
+25
+00:01:36,168 --> 00:01:37,359
+de confirmação.
+
+26
+00:01:37,370 --> 00:01:42,180
+É oi, oi, tudo bem, tudo Okay,
+
+27
+00:01:42,189 --> 00:01:45,379
+Então você fez um estabelecimento da conexão.
+
+28
+00:01:45,388 --> 00:01:49,480
+Você estabeleceu uma conexão aí? TC p ou seja,
+
+29
+00:01:49,489 --> 00:01:54,579
+utilizando aí o famoso aperto de mão a famosa aí,
+
+30
+00:01:54,588 --> 00:01:57,819
+como é que é feito agora o encerramento da conexão
+
+31
+00:01:57,829 --> 00:02:01,109
+aluno TC p i P Cê vai ter um duplo.
+
+32
+00:02:01,120 --> 00:02:04,400
+Você vai ter um envio de um segmento F n
+
+33
+00:02:04,409 --> 00:02:08,149
+chamado fim e um segmento a secar, né?
+
+34
+00:02:08,159 --> 00:02:11,919
+Que lógico para cada um dos participantes, então perfei
+
+35
+00:02:11,929 --> 00:02:15,278
+perceba origem, mandou aí o fim.
+
+36
+00:02:15,288 --> 00:02:21,229
+O destino mandou uma secar e um fim E a
+
+37
+00:02:21,240 --> 00:02:25,588
+origem mandou o a secar, confirmando e encerrando a
+
+38
+00:02:25,599 --> 00:02:28,308
+conexão? Então tá vendo que interessante.
+
+39
+00:02:28,319 --> 00:02:30,788
+Então você tem ali o quê o uso do fim
+
+40
+00:02:30,800 --> 00:02:31,469
+e do a secar.
+
+41
+00:02:31,479 --> 00:02:33,528
+Por isso que é um duplo.
+
+42
+00:02:33,538 --> 00:02:34,929
+Você vai trabalhar só com esses dois.
+
+43
+00:02:34,939 --> 00:02:36,490
+Aí mandou um fim.
+
+44
+00:02:37,199 --> 00:02:40,569
+O servidor mandou um fim, uma seca e um
+
+45
+00:02:40,580 --> 00:02:44,129
+fim de confirmação e depois o a origem, O
+
+46
+00:02:44,139 --> 00:02:47,330
+cliente, outro a secar fechou.
+
+47
+00:02:47,338 --> 00:02:48,729
+Temos aí um duplo.
+
+48
+00:02:48,740 --> 00:02:53,629
+Esse é feito o encerramento da conexão TC p tá
+
+49
+00:02:54,580 --> 00:02:56,788
+aí olha só aí, Como é que funciona o
+
+50
+00:02:56,800 --> 00:03:00,088
+sequenciamento de remontagens? Isso que é muito interessante?
+
+51
+00:03:00,099 --> 00:03:04,270
+Perceba aqui oh! Após o estabelecimento aluno da conexão
+
+52
+00:03:04,278 --> 00:03:07,710
+o número de sequência inicial que é o I s
+
+53
+00:03:07,719 --> 00:03:09,909
+n, né? O? O próprio nome já
+
+54
+00:03:09,919 --> 00:03:11,830
+diz é número de sequência inicial.
+
+55
+00:03:11,838 --> 00:03:16,050
+A tradução é definido indicando o valor inicial para os
+
+56
+00:03:16,058 --> 00:03:18,990
+bits que são transmitidos ao aplicativo receptor.
+
+57
+00:03:19,000 --> 00:03:21,159
+Então perceba de novo aqui Oh, nós temos a
+
+58
+00:03:21,169 --> 00:03:24,508
+origem e nós temos o destino aí vamos ter um
+
+59
+00:03:24,520 --> 00:03:26,710
+cheio de três vias, oh! Então oh a
+
+60
+00:03:26,719 --> 00:03:30,788
+origem mandou um sim igual a zero! Sequência um
+
+61
+00:03:30,800 --> 00:03:31,699
+a mais um.
+
+62
+00:03:31,710 --> 00:03:34,729
+Depois mandou um cinco a zero Tá vendo sequência a
+
+63
+00:03:34,740 --> 00:03:38,308
+mais dois sim igual a zero Sequência a mais três
+
+64
+00:03:38,319 --> 00:03:41,868
+Que que o servidor vai retornar Ele vai botar um
+
+65
+00:03:41,879 --> 00:03:42,838
+cinco a um.
+
+66
+00:03:42,849 --> 00:03:46,008
+Sequência igual a B a secar a mais quatro.
+
+67
+00:03:46,020 --> 00:03:48,669
+Ou seja, ele seguiu a sequência.
+
+68
+00:03:48,679 --> 00:03:51,585
+Quer dizer que houve o recebimento de A a um,
+
+69
+00:03:51,594 --> 00:03:55,115
+dois e três e ele respondeu fazendo a sequência.
+
+70
+00:03:55,125 --> 00:03:58,903
+Então você tem aí um sequenciamento e uma remontagem.
+
+71
+00:03:58,913 --> 00:04:01,625
+Quando você tá fazendo uma troca tá como é que
+
+72
+00:04:01,633 --> 00:04:04,463
+é feito isso aí olha, só tenta entender esse
+
+73
+00:04:04,474 --> 00:04:07,604
+desenho ohà medida que os dados oh são transmitidos
+
+74
+00:04:07,615 --> 00:04:11,085
+durante a sessão, tá vendo o número de sequência
+
+75
+00:04:11,094 --> 00:04:14,663
+a ele é incrementado do número de bites que serão
+
+76
+00:04:14,675 --> 00:04:16,345
+transmitidos, então, por isso que aqui no nosso
+
+77
+00:04:16,355 --> 00:04:18,069
+desenho oh lá, oh, você tem o a
+
+78
+00:04:18,079 --> 00:04:21,108
+mais um a mais dois e a mais três tá
+
+79
+00:04:21,119 --> 00:04:26,209
+vendo, vai tendo incremento a cada vez que você
+
+80
+00:04:26,220 --> 00:04:29,269
+tá transmitindo esses dados aí o que acontece? Oh
+
+81
+00:04:29,278 --> 00:04:32,588
+aí,à medida que os dados são transmitidos durante
+
+82
+00:04:32,600 --> 00:04:35,230
+a sessão, oh o número de sequência a ele
+
+83
+00:04:35,238 --> 00:04:37,750
+é incrementado, o número de s serão transmitidos,
+
+84
+00:04:37,759 --> 00:04:41,928
+gerando para cada segmento um número único para aquela conexão.
+
+85
+00:04:41,939 --> 00:04:45,819
+Ou seja, se é cada sequência numérica, não
+
+86
+00:04:45,829 --> 00:04:46,720
+tem como repetir.
+
+87
+00:04:46,730 --> 00:04:47,420
+É um número único.
+
+88
+00:04:47,428 --> 00:04:50,819
+Tá vendo, permitindo que cada um oh seja identificado
+
+89
+00:04:50,829 --> 00:04:54,459
+e confirmado de forma o que única Cê não vai
+
+90
+00:04:54,470 --> 00:04:57,309
+ter uma duplicação aí, porque se cada um usa
+
+91
+00:04:57,319 --> 00:04:59,838
+uma sequência de bikes usa, usa o número cê
+
+92
+00:04:59,850 --> 00:05:02,588
+tem como confirmar individualmente, Tá vendo, oh aí
+
+93
+00:05:02,600 --> 00:05:06,358
+o que acontece Se tiver segmentos perdidos, eles são
+
+94
+00:05:06,369 --> 00:05:07,519
+identificados.
+
+95
+00:05:07,528 --> 00:05:10,678
+Por isso que o TC p fornece a garantia da
+
+96
+00:05:10,689 --> 00:05:14,220
+entrega dos pacotes, então tá aí o segredinho do
+
+97
+00:05:14,230 --> 00:05:16,399
+TC P Aí olha que interessante como é que é
+
+98
+00:05:16,410 --> 00:05:21,199
+feito esse controle de erro? A confirmação antecipatória Eu
+
+99
+00:05:21,209 --> 00:05:22,399
+acho isso muito legal.
+
+100
+00:05:22,410 --> 00:05:24,420
+Oh, Cê tem um número de sequência aluno que
+
+101
+00:05:24,428 --> 00:05:26,649
+é o c e CEO Número de confirmação que a
+
+102
+00:05:26,660 --> 00:05:28,678
+gente já viu que é o a secar.
+
+103
+00:05:28,689 --> 00:05:31,769
+Eles são usados oh pra confirmar o recebimento dos segmentos,
+
+104
+00:05:31,778 --> 00:05:34,119
+então perceba que no nosso desenho de novo Oh,
+
+105
+00:05:34,129 --> 00:05:37,009
+foi enviado um Sing a zero com a sequência a
+
+106
+00:05:37,019 --> 00:05:39,250
+mais um um cinco a zero.
+
+107
+00:05:39,259 --> 00:05:41,149
+Sequência A mais dois aqui teve um problema lá,
+
+108
+00:05:41,160 --> 00:05:44,899
+o Xinho quer dizer que foi interrompido e depois ele
+
+109
+00:05:44,910 --> 00:05:45,928
+mandou um cinco a zero.
+
+110
+00:05:45,939 --> 00:05:50,480
+Sequência a mais três beleza ao que aconteceu, o
+
+111
+00:05:50,488 --> 00:05:54,540
+servidor responde um cinco a zero a secar a mais
+
+112
+00:05:54,548 --> 00:05:57,858
+dois, ou seja, não houve o recebimento aí
+
+113
+00:05:57,869 --> 00:06:00,209
+o que que vai acontecer? Ele vai o de
+
+114
+00:06:00,220 --> 00:06:02,858
+A origem vai enviar de novo o sequência mais a
+
+115
+00:06:02,869 --> 00:06:05,858
+dois, Só que ele vai enviar o sequência a
+
+116
+00:06:05,869 --> 00:06:08,660
+mais três de novo, porque como foi o do
+
+117
+00:06:08,670 --> 00:06:13,230
+meio que falhou o dois e o servidor devolveu que
+
+118
+00:06:13,238 --> 00:06:16,858
+houve uma resposta, houve uma uma perda, vai
+
+119
+00:06:16,869 --> 00:06:18,379
+ser enviado o dois e o três.
+
+120
+00:06:18,389 --> 00:06:22,970
+Então cê teve o quê? Um segmento duplicado aí
+
+121
+00:06:22,980 --> 00:06:26,809
+então você vai ter uma confirmação, tá vendo antecipatória
+
+122
+00:06:26,819 --> 00:06:28,608
+aí! O que acontece? Oh, tá vendo
+
+123
+00:06:28,619 --> 00:06:30,889
+o número Se aqui oh, identifica o bite,
+
+124
+00:06:30,899 --> 00:06:32,970
+né? Que está sendo transmitido e o número de
+
+125
+00:06:32,980 --> 00:06:36,410
+confirmação a secar enviado de voltaà origem.
+
+126
+00:06:36,420 --> 00:06:38,088
+E ele indica o próximo, bite que o destino
+
+127
+00:06:38,100 --> 00:06:39,928
+espera a receber.
+
+128
+00:06:39,939 --> 00:06:42,569
+Por isso que ele fez aquela duplicação lá, Oh
+
+129
+00:06:42,579 --> 00:06:45,209
+o host tá vendo origem lá, enviou os seguimentos,
+
+130
+00:06:45,220 --> 00:06:48,040
+lembra mais um e a mais três até o a
+
+131
+00:06:48,048 --> 00:06:48,278
+mais.
+
+132
+00:06:48,290 --> 00:06:49,798
+Três né, a um a dois ou a três
+
+133
+00:06:49,809 --> 00:06:52,879
+se todos os segmentos chegarem, exceto o segmento A
+
+134
+00:06:52,889 --> 00:06:54,358
+mais dois foi o que deu erro.
+
+135
+00:06:54,369 --> 00:06:58,199
+O Roger Destino responderia com a secar, indicando que
+
+136
+00:06:58,209 --> 00:07:01,178
+o pró seguimento esperado é o a mais três,
+
+137
+00:07:01,879 --> 00:07:03,009
+como o ross de origem.
+
+138
+00:07:03,019 --> 00:07:05,790
+Não sabe, né? Se os outros segmentos chegaram,
+
+139
+00:07:05,798 --> 00:07:08,009
+ele reenvia o a dois E o a três,
+
+140
+00:07:08,019 --> 00:07:10,009
+Por isso que é feito a duplicação.
+
+141
+00:07:10,019 --> 00:07:13,209
+Tá isso, acarreta a transmissão de segmentos duplicados.
+
+142
+00:07:13,220 --> 00:07:16,819
+Então você pode ocasionar desperdi de banda e problemas de
+
+143
+00:07:16,829 --> 00:07:17,389
+congestionamento.
+
+144
+00:07:17,463 --> 00:07:20,994
+Então se for utilizar esse processo aí você vai ter
+
+145
+00:07:21,004 --> 00:07:22,954
+porque vai ser duplicado.
+
+146
+00:07:22,963 --> 00:07:25,394
+O envio tá agora? Olha só quando você tem
+
+147
+00:07:25,403 --> 00:07:27,954
+um controle de erro que é o famoso s a
+
+148
+00:07:27,963 --> 00:07:31,795
+secar o SAC com reconhecimento seletivo.
+
+149
+00:07:31,803 --> 00:07:34,384
+Olha como é que funciona o receptor? Ele pode
+
+150
+00:07:34,394 --> 00:07:39,494
+reconhecer explicitamente quais segmentos foram recebidos e quais não.
+
+151
+00:07:40,309 --> 00:07:43,290
+Aí o emissor só precisa transmitir os segmentos ausentes.
+
+152
+00:07:43,298 --> 00:07:44,519
+Ele já corrige isso.
+
+153
+00:07:44,528 --> 00:07:48,639
+Olha que interessante origem mandou oh o cinco a zero!
+
+154
+00:07:48,649 --> 00:07:49,759
+Sequência a mais um.
+
+155
+00:07:49,769 --> 00:07:52,000
+Depois ele incrementou o bate a mais dois e deu
+
+156
+00:07:52,009 --> 00:07:54,358
+um erro no A mais dois E depois ele mandou
+
+157
+00:07:54,369 --> 00:07:57,079
+o a mais três que que vai acontecer? O
+
+158
+00:07:57,088 --> 00:08:00,439
+destino vai responder com a secar a mais dois e
+
+159
+00:08:00,449 --> 00:08:03,829
+o A e o saque Oh, tá vendo Oh!
+
+160
+00:08:03,838 --> 00:08:07,428
+Que é o reconhecimento seletivo! A mais três significa
+
+161
+00:08:07,439 --> 00:08:09,298
+o seguinte O a três eu recebi.
+
+162
+00:08:09,309 --> 00:08:11,500
+Eu só não recebi o a mais dois.
+
+163
+00:08:11,509 --> 00:08:13,720
+Aí o que que vai acontecer? A origem vai
+
+164
+00:08:13,730 --> 00:08:16,858
+mandar só o a mais dois e aí ele segue
+
+165
+00:08:16,869 --> 00:08:20,069
+com a secar a mais quatro, incrementando o próximo,
+
+166
+00:08:20,079 --> 00:08:21,420
+não é legal.
+
+167
+00:08:21,428 --> 00:08:25,449
+Viu a diferença nesse processo com o saque aí,
+
+168
+00:08:25,459 --> 00:08:29,629
+se a secar, ele conseguiu dar um retorno dizendo
+
+169
+00:08:29,639 --> 00:08:31,250
+que o A mais três foi recebido.
+
+170
+00:08:31,879 --> 00:08:35,288
+Então a origem vai reenviar só o a mais dois.
+
+171
+00:08:35,298 --> 00:08:38,570
+Aí depois ele incrementa mais um o a quatro e
+
+172
+00:08:38,580 --> 00:08:40,590
+aí vai muito legal, né? EH, eh!
+
+173
+00:08:40,599 --> 00:08:42,769
+É um esquema bem legal aí oh, vamos aí,
+
+174
+00:08:42,779 --> 00:08:44,969
+oh! O rosto de origem viu os segmentos de
+
+175
+00:08:44,979 --> 00:08:46,509
+A mais um até o a mais três para o
+
+176
+00:08:46,519 --> 00:08:49,889
+rosto de destino, se todos os segmentos chegarem exceto
+
+177
+00:08:49,899 --> 00:08:52,769
+o segmento A mais dois, o destino responderia com
+
+178
+00:08:52,779 --> 00:08:55,969
+confirmação especificando que o próximo segmento esperado é o a
+
+179
+00:08:55,979 --> 00:08:59,389
+mais dois e que recebeu o a mais três que
+
+180
+00:08:59,399 --> 00:09:01,500
+é usando o SAC tá vendo o rosto de origem,
+
+181
+00:09:01,509 --> 00:09:04,139
+então reenviar apenas o segmento a mais dois e isso
+
+182
+00:09:04,149 --> 00:09:07,298
+evita segmentos duplicados dio de banda.
+
+183
+00:09:07,308 --> 00:09:10,519
+Isso é quando usa o SAC Tá e temos aí
+
+184
+00:09:10,529 --> 00:09:13,038
+o controle de fluxo que você deve ter visto lá
+
+185
+00:09:13,048 --> 00:09:14,418
+na naquele no.
+
+186
+00:09:14,428 --> 00:09:17,460
+Cabe que o TC P utiliza o campo tamanho da
+
+187
+00:09:17,469 --> 00:09:20,099
+janela que determina o número de bits que podem ser
+
+188
+00:09:20,109 --> 00:09:23,928
+enviados antes de esperar uma confirmação e o tamanho máximo
+
+189
+00:09:23,940 --> 00:09:24,460
+da janela.
+
+190
+00:09:24,469 --> 00:09:26,710
+Tá vendo? Oh então oh lá o envio da
+
+191
+00:09:26,719 --> 00:09:30,779
+janela dez mil Bites tá vendo aí ele vai enviando
+
+192
+00:09:30,788 --> 00:09:32,820
+o número de sequência um Ele recebe um a um
+
+193
+00:09:32,830 --> 00:09:36,519
+quatrocentos e sessenta depois, oh a próxima sequência,
+
+194
+00:09:37,139 --> 00:09:40,119
+aí ele devolve, tá vendo uma seca de confirmação
+
+195
+00:09:40,129 --> 00:09:43,190
+de quanto foi enviado e ele vai enviando o resto
+
+196
+00:09:43,200 --> 00:09:46,649
+porque o tamanho da janela é dez mil, Então
+
+197
+00:09:46,658 --> 00:09:50,548
+aquele controle de fluxo consegue definir isso pra evitar,
+
+198
+00:09:50,558 --> 00:09:54,029
+né? De você fazer aí o envio de um
+
+199
+00:09:54,038 --> 00:09:57,129
+pacote maior? Então você con ele consegue fazer esse
+
+200
+00:09:57,139 --> 00:09:57,500
+controle.
+
+201
+00:09:57,509 --> 00:10:00,250
+Na medida que tá sendo enviado, ele vai confirmando
+
+202
+00:10:00,259 --> 00:10:04,330
+e vai somando a quantidade de bites que estão sendo
+
+203
+00:10:04,340 --> 00:10:04,869
+recebidos.
+
+204
+00:10:04,879 --> 00:10:06,950
+Tá vendo Oh, o tamanho da janela inicial do
+
+205
+00:10:06,960 --> 00:10:08,769
+PC b oh é de dez mil bites, oh
+
+206
+00:10:08,779 --> 00:10:11,678
+lá e o M S S é de mil quatrocentos
+
+207
+00:10:11,690 --> 00:10:14,330
+e sessenta, né? Ou seja, quando ele
+
+208
+00:10:14,340 --> 00:10:17,308
+envia cada um aqui oh, ele pode enviar mil
+
+209
+00:10:17,320 --> 00:10:20,558
+quatrocentos e sessenta tá vendo até chegar aos dez mil.
+
+210
+00:10:20,570 --> 00:10:24,019
+Aí o tamanho do primeiro chegou a um e o
+
+211
+00:10:24,029 --> 00:10:26,239
+último é o dez mil.
+
+212
+00:10:26,250 --> 00:10:29,599
+Aí ele vai fazendo esse envio com um limite até
+
+213
+00:10:29,609 --> 00:10:30,479
+chegar a dez mil.
+
+214
+00:10:30,489 --> 00:10:33,038
+Tá? É um exemplo bem bacana e aqui eu
+
+215
+00:10:33,048 --> 00:10:35,918
+trouxe um desafio pra você uma questão? Olha só
+
+216
+00:10:35,928 --> 00:10:38,119
+o protocolo TC P ele é ori, orientado da
+
+217
+00:10:38,129 --> 00:10:41,899
+conexão certo, Ou seja, antes de iniciar uma
+
+218
+00:10:41,908 --> 00:10:46,918
+transmissão de dados, é necessário estabelecer uma sessão conhecida
+
+219
+00:10:46,928 --> 00:10:51,678
+como Hand Shake, então o TC P ele faz
+
+220
+00:10:51,690 --> 00:10:53,340
+essa checagem.
+
+221
+00:10:53,349 --> 00:10:57,690
+Essa esse aperto de mão pra estabelecer a sessão então
+
+222
+00:10:57,700 --> 00:10:58,779
+é uma típica da questão.
+
+223
+00:10:58,788 --> 00:11:02,619
+Aí, bem bolada e correta, tá só mais
+
+224
+00:11:02,629 --> 00:11:03,580
+uma aí pra gente fechar.
+
+225
+00:11:03,590 --> 00:11:08,099
+Olha só o TC P utiliza um campo de seis
+
+226
+00:11:08,109 --> 00:11:13,798
+bits rotulado como bits de código no seu cabeçalho para
+
+227
+00:11:13,808 --> 00:11:18,200
+determinar a finalidade e o conteúdo do segmento.
+
+228
+00:11:18,830 --> 00:11:21,599
+E aí ele vai ter um campo de seis bits,
+
+229
+00:11:21,609 --> 00:11:25,320
+né que é utilizado pra determinar o seu segmento oh
+
+230
+00:11:25,330 --> 00:11:28,460
+lá durante o estabelecimento de uma conexão, o primeiro
+
+231
+00:11:28,469 --> 00:11:32,580
+segmento do de três vias pode ser identificado porque o
+
+232
+00:11:32,590 --> 00:11:35,538
+beach marcado no campo de S e código é o,
+
+233
+00:11:35,548 --> 00:11:38,899
+então ele quer oh! O primeiro segmento do de
+
+234
+00:11:38,908 --> 00:11:43,879
+três vias, ele é identificado como é um O
+
+235
+00:11:43,889 --> 00:11:46,109
+R G é um sim um R S T PS
+
+236
+00:11:46,119 --> 00:11:48,690
+h ou A C k Vamos ver lá atrás Oh
+
+237
+00:11:48,700 --> 00:11:51,969
+só pra gente confirmar oh lá, como é que
+
+238
+00:11:51,979 --> 00:11:58,690
+é feito a A identificação é através de um sim,
+
+239
+00:11:58,700 --> 00:12:01,308
+né? Aqui é o encerramento oh lá, o
+
+240
+00:12:01,320 --> 00:12:05,899
+estabelecimento é feito pelo s n, perfeito, então
+
+241
+00:12:05,908 --> 00:12:09,139
+questão bem interessante, porque ele pediu o início,
+
+242
+00:12:09,149 --> 00:12:13,899
+né? Então a gente tem aqui letra B tranquilo,
+
+243
+00:12:13,908 --> 00:12:17,969
+aluno perfeito, Então, fechamos grande abraço até a
+
+244
+00:12:17,979 --> 00:12:18,308
+próxima!
+

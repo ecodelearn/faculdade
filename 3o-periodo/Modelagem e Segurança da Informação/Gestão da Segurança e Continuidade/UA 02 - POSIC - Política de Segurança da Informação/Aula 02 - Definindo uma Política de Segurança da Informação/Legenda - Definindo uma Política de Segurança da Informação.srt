@@ -1,0 +1,600 @@
+1
+00:00:06,500 --> 00:00:09,269
+vamos continuar a nossa jornada aqui nessa aula.
+
+2
+00:00:09,278 --> 00:00:11,710
+Agora a gente vai falar sobre definições da política,
+
+3
+00:00:11,720 --> 00:00:12,839
+da segurança, da informação.
+
+4
+00:00:12,849 --> 00:00:17,068
+Vamos entrar num aspecto bem legal que elementos essenciais para
+
+5
+00:00:17,079 --> 00:00:22,609
+a política de informação e comunicação E vamos lá,
+
+6
+00:00:23,589 --> 00:00:28,199
+esses elementos tem alguns elementos muito importantes e fundamentais para
+
+7
+00:00:28,208 --> 00:00:31,408
+o sucesso de qualquer política que foi implementada dentro da
+
+8
+00:00:31,420 --> 00:00:32,060
+organização.
+
+9
+00:00:32,069 --> 00:00:35,759
+A base sólida de qualquer política de segurança da informação
+
+10
+00:00:35,770 --> 00:00:39,918
+reside na compressão detalhada dos elementos essenciais.
+
+11
+00:00:39,929 --> 00:00:45,719
+Tá bom, Esses componentes cuidadosamente concebidos formam a espinha
+
+12
+00:00:45,728 --> 00:00:50,130
+dorsal que sustenta a organização dos ativos de informação de
+
+13
+00:00:50,139 --> 00:00:50,899
+organização.
+
+14
+00:00:51,168 --> 00:00:55,959
+Tá então nessa aula explorar minuciosamente cada um desses elementos,
+
+15
+00:00:55,969 --> 00:00:59,899
+fornecendo uma visão profunda de como eles contribuem para a
+
+16
+00:00:59,908 --> 00:01:01,598
+eficácia da política.
+
+17
+00:01:03,298 --> 00:01:04,388
+Vamos lá primeiro.
+
+18
+00:01:04,400 --> 00:01:08,269
+A declaração da política é um dos elementos mais cruciais
+
+19
+00:01:08,278 --> 00:01:11,888
+de qualquer política de segurança da informação e comunicação.
+
+20
+00:01:11,900 --> 00:01:16,769
+Ela representa a pedra fundamental da estrutura, estabelecendo os
+
+21
+00:01:16,778 --> 00:01:19,909
+princípios e os objetivos gerais que orientam a segurança da
+
+22
+00:01:19,918 --> 00:01:21,870
+informação em uma organização.
+
+23
+00:01:21,879 --> 00:01:25,549
+Consiste em uma afirmação clara e cocisa que estabelece os
+
+24
+00:01:25,558 --> 00:01:29,569
+princípios e objetivos gerais da segurança da informação na organização.
+
+25
+00:01:29,888 --> 00:01:33,769
+Esta declaração serve como um guia que define o compromisso
+
+26
+00:01:33,778 --> 00:01:36,900
+da empresa com a produção dos dados, além do
+
+27
+00:01:36,909 --> 00:01:42,099
+seu compromisso e o cumprimento de regulamentações e padrões de
+
+28
+00:01:42,109 --> 00:01:43,278
+segurança.
+
+29
+00:01:43,290 --> 00:01:45,239
+Então, quando a gente tá falando dessa desse,
+
+30
+00:01:45,250 --> 00:01:48,620
+da declaração da política, ela é fundamental, porque
+
+31
+00:01:48,629 --> 00:01:51,040
+ela vai ser a pedra, a pedra fundamental,
+
+32
+00:01:51,049 --> 00:01:53,709
+o lançamento da política que ela vai definir, uma
+
+33
+00:01:53,719 --> 00:01:56,790
+estrutura, ela vai cons oh ela e ela tem
+
+34
+00:01:56,799 --> 00:01:58,760
+que ter uma consistência com afirma.
+
+35
+00:01:58,769 --> 00:02:00,510
+Claras, concisa.
+
+36
+00:02:00,519 --> 00:02:04,629
+Tá, Ela precisa estabelecer princípios e objetivos gerais dentro
+
+37
+00:02:04,638 --> 00:02:08,169
+da disciplina segurança da informação dentro da organização tá e
+
+38
+00:02:08,179 --> 00:02:10,528
+ela vai servir como guia, como um guia,
+
+39
+00:02:10,538 --> 00:02:13,610
+ou seja, como um norte, como um documento
+
+40
+00:02:13,618 --> 00:02:18,129
+orientador do compromisso da empresa para proteção de dados.
+
+41
+00:02:18,429 --> 00:02:21,800
+Então, quando elementos externos da organização, empresas de
+
+42
+00:02:21,808 --> 00:02:24,679
+auditoria olham, né, começar a olhar pra dentro
+
+43
+00:02:24,689 --> 00:02:26,960
+de uma organização Tá quando a gente tá falando sobre
+
+44
+00:02:26,969 --> 00:02:28,558
+segurança de informação dentro da sua empresa, o que
+
+45
+00:02:28,569 --> 00:02:32,118
+que define quais são as diretrizes? É a política
+
+46
+00:02:32,129 --> 00:02:35,490
+de segurança, formação e comunida e continuidade que vai
+
+47
+00:02:35,500 --> 00:02:38,860
+em comunicação, desculpa que vai ter essas orientações,
+
+48
+00:02:38,868 --> 00:02:42,159
+então é fundamental entender isso que a declaração da política
+
+49
+00:02:42,169 --> 00:02:42,399
+vai ser.
+
+50
+00:02:42,409 --> 00:02:45,080
+Essa pedra fundamental que vai dar esse norte vai dar
+
+51
+00:02:45,088 --> 00:02:47,379
+esse guia pra toda a política de informação.
+
+52
+00:02:47,770 --> 00:02:49,038
+Além da declaração da PO.
+
+53
+00:02:49,050 --> 00:02:52,580
+Além da declaração de políticas, outros elementos devem ser
+
+54
+00:02:52,588 --> 00:02:58,278
+evidenciados na política de segurança e de formação e comunicação,
+
+55
+00:02:58,288 --> 00:03:06,990
+como objetivos, objetivos, procedimentos, diretrizes, padrões,
+
+56
+00:03:07,000 --> 00:03:12,179
+responsabilidades e infla infrações ou punições.
+
+57
+00:03:12,189 --> 00:03:17,258
+Tá bom? Eh fora referências legais e normativas.
+
+58
+00:03:17,270 --> 00:03:21,179
+A ordem desses elementos são apresentados na própria política e
+
+59
+00:03:21,189 --> 00:03:26,729
+é definida completamente pela relevância imposta neles pelo comitê responsável
+
+60
+00:03:26,740 --> 00:03:28,199
+para elaborar este documento.
+
+61
+00:03:28,210 --> 00:03:31,460
+O que realmente importa é que tudo esteja conciso e,
+
+62
+00:03:31,469 --> 00:03:35,460
+claro, tá, então lembrando teremos um comitê,
+
+63
+00:03:35,469 --> 00:03:40,379
+um comitê, e esse comitê é o responsável para
+
+64
+00:03:40,389 --> 00:03:44,860
+a a elaboração desse documento que neste documento teremos todos
+
+65
+00:03:44,868 --> 00:03:48,338
+esses aqui oh, teremos objetivos, procedimentos, diretrizes.
+
+66
+00:03:48,349 --> 00:03:52,659
+Quando eu falo de procedimentos será que tá bem claro
+
+67
+00:03:52,669 --> 00:03:54,979
+pra você que procedimento não vai? Tá lá escrito
+
+68
+00:03:54,990 --> 00:03:57,000
+o procedimento, mas vai ficar lá bem claro que
+
+69
+00:03:57,008 --> 00:03:59,979
+oh, precisamos um procedimento pra tratar, segun,
+
+70
+00:03:59,990 --> 00:04:01,618
+eh os incidentes de segurança.
+
+71
+00:04:01,629 --> 00:04:03,899
+Vai, Tá escrito nesse documento quais, como é,
+
+72
+00:04:03,909 --> 00:04:07,330
+detalhe o processo deste procedimento.
+
+73
+00:04:07,338 --> 00:04:10,909
+Não vai ter um procedimento, uma norma específica para
+
+74
+00:04:10,919 --> 00:04:14,149
+tratar incidente desse caso, mas a gente precisa definir
+
+75
+00:04:14,159 --> 00:04:16,309
+quais são os procedimentos que nós precisamos, quais são
+
+76
+00:04:16,319 --> 00:04:19,670
+os mínimos procedimentos que necessitamos dentro da organização Aí vai
+
+77
+00:04:19,678 --> 00:04:23,250
+ter um outro documento que vai detalhar aquele processo.
+
+78
+00:04:23,259 --> 00:04:24,730
+Aquele procedimento tá bom.
+
+79
+00:04:26,920 --> 00:04:29,819
+A política não costuma ser muito grande devido a sua
+
+80
+00:04:29,829 --> 00:04:32,209
+característica de ser um documento de alto nível, com
+
+81
+00:04:32,220 --> 00:04:35,970
+poucas definições específicas, mas deve englobar tudo relacionadoà
+
+82
+00:04:35,980 --> 00:04:36,750
+segurança da informação.
+
+83
+00:04:36,759 --> 00:04:39,869
+Como eu falei, ela vai ser um alto nível.
+
+84
+00:04:39,879 --> 00:04:41,809
+Ela não vai tá em detalhes, vai ter outros
+
+85
+00:04:41,819 --> 00:04:43,829
+documentos que irão entrar nesses detalhes.
+
+86
+00:04:44,350 --> 00:04:48,519
+Precisamos de metas, objetivos e metas devem ser específicos
+
+87
+00:04:48,528 --> 00:04:51,639
+e imensuráveis para que a organização possa avaliar o seu
+
+88
+00:04:51,649 --> 00:04:52,298
+progresso.
+
+89
+00:04:52,309 --> 00:04:56,079
+Se a gente não consegue mensurar, tá os nossos
+
+90
+00:04:56,088 --> 00:04:56,559
+progressos.
+
+91
+00:04:56,569 --> 00:04:58,540
+A gente não tem gestão de nada.
+
+92
+00:04:58,548 --> 00:05:00,920
+Precisamos ter números, precisamos ter dados.
+
+93
+00:05:00,928 --> 00:05:02,480
+Os números as.
+
+94
+00:05:02,488 --> 00:05:05,079
+Tudo o que acontece tem que ser mensurável porque com
+
+95
+00:05:05,088 --> 00:05:08,819
+isso nós conseguimos fazer a gestão da da organização.
+
+96
+00:05:09,238 --> 00:05:12,720
+Devem incentivar ações específicas que contribuem para a segurança,
+
+97
+00:05:12,730 --> 00:05:15,790
+como treinamento e redução de incidente.
+
+98
+00:05:15,798 --> 00:05:18,019
+Precisamos de procedimentos, tá bom.
+
+99
+00:05:18,028 --> 00:05:20,528
+Os procedimentos são procedimentos mais técnicos, né? Refere
+
+100
+00:05:20,540 --> 00:05:25,048
+referencia os procedimentos que fornecem orientações mais detalhadas sobre como
+
+101
+00:05:25,059 --> 00:05:27,100
+executar ações específicas.
+
+102
+00:05:27,108 --> 00:05:28,928
+Vamos lá, por exemplo, como criar senhas,
+
+103
+00:05:28,939 --> 00:05:32,670
+fotos, relatar incidentes, gerenciar acesso a sistemas críticos.
+
+104
+00:05:32,769 --> 00:05:37,019
+Os procedimentos irão entrar em detalhes, diretrizes, as
+
+105
+00:05:37,028 --> 00:05:40,480
+diretrizes devem oferecer detalhes e boas práticas.
+
+106
+00:05:40,488 --> 00:05:44,778
+Exemplos específicos facilitam a aplicação das políticas e boas práticas
+
+107
+00:05:44,790 --> 00:05:45,439
+no dia a dia.
+
+108
+00:05:45,449 --> 00:05:49,639
+Então, procedimentos e diretrizes precisam estar na nossa política.
+
+109
+00:05:49,889 --> 00:05:51,858
+Normas e padrões.
+
+110
+00:05:51,869 --> 00:05:56,259
+Especificações técnicas referências As normas que gerenciam o segurança da
+
+111
+00:05:56,269 --> 00:05:58,660
+informação Lembra que nós falamos de algumas normas, por
+
+112
+00:05:58,670 --> 00:06:00,588
+exemplo, a no vinte e sete mil e um
+
+113
+00:06:00,600 --> 00:06:04,619
+né? Algumas normas que gerencia a segurança da informação
+
+114
+00:06:04,629 --> 00:06:06,869
+tá porque vai garantir algumas coisas.
+
+115
+00:06:06,879 --> 00:06:10,879
+Garan garante a conformidade técnica, acto, autenticação,
+
+116
+00:06:10,889 --> 00:06:12,738
+enfim, responsabilidades.
+
+117
+00:06:12,750 --> 00:06:14,139
+Tá botam normas e padrões.
+
+118
+00:06:14,149 --> 00:06:16,939
+Eles precisam ser estabelecidos e detalhados.
+
+119
+00:06:16,949 --> 00:06:20,759
+Há atribuições e funções, define quem é responsável?
+
+120
+00:06:20,769 --> 00:06:22,769
+Por quê? Como se fosse uma matriz racing.
+
+121
+00:06:22,778 --> 00:06:24,278
+Nós precisamos fazer uma matriz racing.
+
+122
+00:06:24,290 --> 00:06:26,850
+Sabe qual é a responsabilidade, qual, quem tem
+
+123
+00:06:26,858 --> 00:06:28,759
+que ser informado, quem é responsável por aquela e
+
+124
+00:06:28,769 --> 00:06:32,720
+aquela ação? Então definir as funções é fundamental?
+
+125
+00:06:32,730 --> 00:06:34,889
+Tá bom? Então, como eh a gente?
+
+126
+00:06:34,899 --> 00:06:38,009
+Nós vimos nessa aula a questão da da, da
+
+127
+00:06:38,019 --> 00:06:42,910
+política, criar parâmetros pra essa política, criar normas,
+
+128
+00:06:42,920 --> 00:06:47,108
+procedimentos, elementos, elementos essenciais pra essa política.
+
+129
+00:06:47,119 --> 00:06:50,528
+São fundamentais entender isso, entender que esse documento é
+
+130
+00:06:50,540 --> 00:06:52,399
+um com altas diretrizes.
+
+131
+00:06:52,410 --> 00:06:54,600
+Um documento que vai ser curto, pequeno, onde
+
+132
+00:06:54,608 --> 00:06:57,798
+ele vai mostrar o que precisamos e em outras normas,
+
+133
+00:06:57,809 --> 00:07:00,559
+em outros documentos, nós iremos entrar em detalhes mais
+
+134
+00:07:00,569 --> 00:07:03,338
+específicos de implementação, então isso é muito importante.
+
+135
+00:07:03,350 --> 00:07:06,079
+Não é um documento extenso, é um documento bem
+
+136
+00:07:06,088 --> 00:07:08,939
+a de bem, eh, é uma cara,
+
+137
+00:07:08,949 --> 00:07:10,178
+tem que ser bem alta, assim, de alta
+
+138
+00:07:10,189 --> 00:07:11,028
+direção.
+
+139
+00:07:11,040 --> 00:07:12,379
+É uma outra visão.
+
+140
+00:07:12,389 --> 00:07:14,540
+Tá bom, a gente não vai entrar em detalhes,
+
+141
+00:07:14,548 --> 00:07:17,298
+tá é? Só eh bem superficial no sentido de
+
+142
+00:07:17,309 --> 00:07:18,019
+que olha.
+
+143
+00:07:18,028 --> 00:07:21,980
+Precisamos dessas diretrizes, dessas normas, desses procedimentos e
+
+144
+00:07:21,988 --> 00:07:24,119
+aí sim, teremos outros procedimentos.
+
+145
+00:07:24,213 --> 00:07:27,144
+Ou os documentos que irão ser mais específicos serão provavelmente
+
+146
+00:07:27,153 --> 00:07:32,204
+serão maiores e terão todos os detalhes de implementação técnica
+
+147
+00:07:32,213 --> 00:07:36,345
+e normas específicas pra cada organização ou pra cada área
+
+148
+00:07:36,355 --> 00:07:36,983
+da sua empresa.
+
+149
+00:07:36,994 --> 00:07:39,704
+Tá bom, Vamos Nos encontramos na próxima aula,
+
+150
+00:07:39,713 --> 00:07:40,285
+até bre
+

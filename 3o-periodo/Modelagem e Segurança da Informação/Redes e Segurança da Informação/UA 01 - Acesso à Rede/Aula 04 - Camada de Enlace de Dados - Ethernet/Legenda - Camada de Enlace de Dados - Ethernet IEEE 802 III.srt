@@ -1,0 +1,956 @@
+1
+00:00:06,009 --> 00:00:08,140
+Olá aluno! Professor Fabrício Melo.
+
+2
+00:00:08,148 --> 00:00:10,618
+Estamos aí trabalhando com a camada dois de enlace!
+
+3
+00:00:10,630 --> 00:00:14,460
+Vamos trabalhar agora com a internet com que faz parte,
+
+4
+00:00:14,470 --> 00:00:17,458
+né? Da internet e oitocentos e dois como nós
+
+5
+00:00:17,469 --> 00:00:17,859
+falamos.
+
+6
+00:00:17,870 --> 00:00:20,940
+Camada dois O modelo O é uma camada importantíssima aí
+
+7
+00:00:20,949 --> 00:00:24,798
+e uma camada bem complexa pra poder estudar aí nessa
+
+8
+00:00:24,809 --> 00:00:27,899
+matéria sobre redes tá o que? Que falamos sobre
+
+9
+00:00:27,908 --> 00:00:31,440
+a internet com Primeiramente vamos falar com o esquema da
+
+10
+00:00:31,449 --> 00:00:34,939
+internet compartilhada, que é usar o famoso protocolo C
+
+11
+00:00:34,950 --> 00:00:36,959
+S M a CD que a gente viu que é
+
+12
+00:00:36,969 --> 00:00:39,439
+um método de acesso onde as estações, o que
+
+13
+00:00:39,450 --> 00:00:42,118
+disputam o acesso ao meio pra transmitir os seus dados?
+
+14
+00:00:42,130 --> 00:00:42,880
+Lembra a ideia.
+
+15
+00:00:42,889 --> 00:00:45,880
+Quando um fala o outro tem que escutar.
+
+16
+00:00:45,889 --> 00:00:48,859
+Então isso é convertido nessa ideia aqui.
+
+17
+00:00:48,868 --> 00:00:50,098
+Oh, que você tá vendo aí oh, oh,
+
+18
+00:00:50,109 --> 00:00:53,840
+quando duas ou mais estações vão transmitir ao mesmo tempo
+
+19
+00:00:53,848 --> 00:00:55,179
+a ocorrência de colisões.
+
+20
+00:00:55,719 --> 00:00:58,429
+E essas colisões crescem com o aumento do quê do
+
+21
+00:00:58,439 --> 00:01:01,728
+número de estações que estão conectadas ao barramento e do
+
+22
+00:01:01,740 --> 00:01:04,370
+tráfego, né? Total da rede a um ponto
+
+23
+00:01:04,379 --> 00:01:06,730
+que vai colapsar essa rede! Ou seja, eh
+
+24
+00:01:06,739 --> 00:01:11,329
+quanto mais máquinas na rede, maior é o perigo
+
+25
+00:01:11,338 --> 00:01:13,528
+de você ter transmissão simultânea e ter o colapso.
+
+26
+00:01:13,540 --> 00:01:15,448
+Aí cê tem que ter esse controle pelo C S
+
+27
+00:01:15,459 --> 00:01:18,469
+m a CD Olha que interessante vamos pegar aqui Oh
+
+28
+00:01:18,480 --> 00:01:22,109
+a transmissão corrigem oh no PC zero um e o
+
+29
+00:01:22,120 --> 00:01:25,709
+destino PC zero três um segmento a da rede tá
+
+30
+00:01:25,719 --> 00:01:27,989
+vendo oh lá oh PC zero um Dá uma olhada
+
+31
+00:01:28,000 --> 00:01:32,168
+nele aqui oh PC zero um que ele vai se
+
+32
+00:01:32,180 --> 00:01:34,989
+comunicar com quem com o PC zero três Tá vendo
+
+33
+00:01:35,000 --> 00:01:39,489
+aqui oh eles tão no mesmo segmento percebeu? Eh
+
+34
+00:01:39,500 --> 00:01:41,750
+aí o que que vai acontecer? Ele vai colidir
+
+35
+00:01:41,760 --> 00:01:45,069
+com a transmissão com origem no PC zero quatro e
+
+36
+00:01:45,079 --> 00:01:47,549
+deixa no PC zero seis no segmento B.
+
+37
+00:01:47,558 --> 00:01:50,040
+Então pode ver que lá no segmento B lá em
+
+38
+00:01:50,049 --> 00:01:53,109
+cima oh o PC zero quatro Se comunicando com o
+
+39
+00:01:53,120 --> 00:01:56,409
+seis teve uma colisão oh lá em cima o chi
+
+40
+00:01:56,418 --> 00:01:59,388
+por que que teve essa colisão, pois mesmo em
+
+41
+00:01:59,400 --> 00:02:03,730
+segmentos diferentes, eles pertencem ao mesmo domínio de colisão,
+
+42
+00:02:04,010 --> 00:02:06,439
+pois a rede se comporta com uma barra única.
+
+43
+00:02:06,448 --> 00:02:10,278
+Então mesmo você tendo duas segmentações, essas máquinas não
+
+44
+00:02:10,288 --> 00:02:14,538
+poderiam falar ao mesmo tempo que que vai acontecer vai
+
+45
+00:02:14,550 --> 00:02:16,258
+ter uma colisão entre elas.
+
+46
+00:02:16,270 --> 00:02:18,338
+Tá é esse aí que vai ter o controle.
+
+47
+00:02:18,349 --> 00:02:22,044
+Outra parte da internet comutada é a segmentação da rede
+
+48
+00:02:22,054 --> 00:02:25,224
+com as famosas Pontes As Bridges, né Oh!
+
+49
+00:02:25,235 --> 00:02:27,085
+Lá bridge! Ela vai dividir a rede em dois
+
+50
+00:02:27,094 --> 00:02:27,653
+domínios.
+
+51
+00:02:27,663 --> 00:02:30,205
+Olha que legal de colisão! Então em vez de
+
+52
+00:02:30,213 --> 00:02:32,085
+ter só um domínio igual, a gente viu ali.
+
+53
+00:02:32,094 --> 00:02:35,979
+Ela consegue dividir em dois e que os quadros tá
+
+54
+00:02:35,990 --> 00:02:38,580
+vendo com origem no PC um e destino três no
+
+55
+00:02:38,588 --> 00:02:42,860
+segmento A da rede e os quadros Oh com origem
+
+56
+00:02:42,868 --> 00:02:46,819
+no quadro Destino seis não são replicados para outros segmentos.
+
+57
+00:02:46,830 --> 00:02:50,058
+Ela vai dividir é a função da ponte que estudamos
+
+58
+00:02:50,069 --> 00:02:51,219
+nessa camada de enlace.
+
+59
+00:02:51,229 --> 00:02:53,250
+Tá vendo aí oh, pois as portas ao lado
+
+60
+00:02:53,258 --> 00:02:58,058
+da ponte vão descartar os quadros restri restringindo esse tráfego
+
+61
+00:02:58,069 --> 00:03:00,618
+aos seus domínios de colisão, então a ponte ela
+
+62
+00:03:00,629 --> 00:03:02,538
+já consegue fazer aquela divisão.
+
+63
+00:03:02,550 --> 00:03:05,139
+Tá por outro lado o tráfico br lá lá no
+
+64
+00:03:05,149 --> 00:03:08,538
+PC seis e eu quero comunicar com um vai ser
+
+65
+00:03:08,550 --> 00:03:11,788
+recebido pela porta p um da bridge encaminhada para a
+
+66
+00:03:11,800 --> 00:03:13,849
+porta p dois A bridge também faz isso oh lá
+
+67
+00:03:13,860 --> 00:03:17,679
+então oh voltando aqui Oh o PC um quer comunicar
+
+68
+00:03:17,689 --> 00:03:21,909
+com seis ela vai conseguir mudar de segmentação indo pra
+
+69
+00:03:21,919 --> 00:03:27,118
+outra porta pra fazer essa comunicação entre os dois computadores
+
+70
+00:03:27,129 --> 00:03:30,368
+Os dois nós okay olha aí como é que funciona
+
+71
+00:03:30,379 --> 00:03:32,500
+a segmentação de redes com as pontes? Oh,
+
+72
+00:03:32,508 --> 00:03:34,588
+o detalhe tá vendo! Aí! Oh, você
+
+73
+00:03:34,599 --> 00:03:37,469
+tem dois domínios de colisão, agora oh domínio b
+
+74
+00:03:37,778 --> 00:03:40,588
+e o domínio a tá vendo, Então ela consegue
+
+75
+00:03:40,599 --> 00:03:45,028
+separar, né? Eh e dividir aí essa transmissão
+
+76
+00:03:45,038 --> 00:03:48,868
+entre essas máquinas perfeito, Então a ponte consegue fazer
+
+77
+00:03:48,879 --> 00:03:52,439
+essa internet comutada? Tá e temos também os suits
+
+78
+00:03:52,449 --> 00:03:55,349
+e né? Que são aí aqueles famosos equipamentos que
+
+79
+00:03:55,360 --> 00:03:57,949
+a gente chama de equipamento inteligente? É até uma
+
+80
+00:03:57,960 --> 00:04:00,270
+dica que a gente dá aí pro concurseiro, quando
+
+81
+00:04:00,278 --> 00:04:02,344
+vai fazer concurso público, por exemplo, se a
+
+82
+00:04:02,354 --> 00:04:04,335
+gente fala que o hub é o burro e o
+
+83
+00:04:04,344 --> 00:04:08,183
+switch é o dispositivo inteligente, porque olha só só
+
+84
+00:04:08,194 --> 00:04:11,383
+que o rub opera lá na camada um camada física
+
+85
+00:04:11,395 --> 00:04:12,925
+okay porque trabalha com os bits.
+
+86
+00:04:12,933 --> 00:04:14,883
+Quando a gente sop a camada dois que é a
+
+87
+00:04:14,895 --> 00:04:17,384
+camada, agora a gente tá trabalha com a camada
+
+88
+00:04:17,394 --> 00:04:21,045
+o quê com endereço físico, lembra o MC eds.
+
+89
+00:04:21,053 --> 00:04:23,634
+E o switch é responsável Tá Vendo Oh! Ele
+
+90
+00:04:23,644 --> 00:04:25,923
+é a base das redes da Internet comutadas.
+
+91
+00:04:26,730 --> 00:04:30,660
+Ele usa os endereços MAC para tomar as decisões de
+
+92
+00:04:30,670 --> 00:04:33,358
+encaminhamento dos quadros, ou seja, o switch.
+
+93
+00:04:33,369 --> 00:04:35,399
+Por que que ela é de camada dois? Porque
+
+94
+00:04:35,410 --> 00:04:38,259
+ele trabalha com endereço físico? Ele trabalha com MAC
+
+95
+00:04:38,269 --> 00:04:41,500
+AD tá e ele tem dentro dele uma tabela de
+
+96
+00:04:41,509 --> 00:04:43,639
+conteúdo endere.
+
+97
+00:04:43,910 --> 00:04:46,000
+É aqui é uma tabelinha, oh então na medida
+
+98
+00:04:46,009 --> 00:04:50,720
+que você vai conectando aí as máquinas nas portas,
+
+99
+00:04:50,730 --> 00:04:56,699
+ele consegue identificar o número físico e montando uma tabela.
+
+100
+00:04:56,709 --> 00:05:00,459
+Por isso que quando a informação chega ele consegue,
+
+101
+00:05:00,798 --> 00:05:03,988
+né? Levar apenas pra máquina que pediu como é
+
+102
+00:05:04,000 --> 00:05:06,209
+que é feita essa tabela? Olha só cê tem
+
+103
+00:05:06,220 --> 00:05:08,410
+primeiramente o aprendizado aluno, O que que é o
+
+104
+00:05:08,420 --> 00:05:10,869
+aprendizado? O switch tá vendo? Ele preenche a
+
+105
+00:05:10,879 --> 00:05:16,048
+tabela do de Endereçamento Mac dinamicamente, examinando esse endereço
+
+106
+00:05:16,059 --> 00:05:18,928
+de origem dos quadros recebidos em cada uma das portas.
+
+107
+00:05:18,939 --> 00:05:22,509
+Se o endereço m de origem não consta na tabela,
+
+108
+00:05:22,759 --> 00:05:25,649
+é adicionado juntamente com o número da porta de entrada.
+
+109
+00:05:25,660 --> 00:05:28,250
+Então observa Só oh, nós temos aqui o PC
+
+110
+00:05:28,259 --> 00:05:30,928
+a oh que foi transmitido tá vendo oh lá na
+
+111
+00:05:30,939 --> 00:05:33,209
+porta um Olha a tabela lá oh qual que é
+
+112
+00:05:33,220 --> 00:05:35,420
+o endereço físico do PC A é o quatro a
+
+113
+00:05:35,428 --> 00:05:38,189
+três b Tá vendo aqui, oh! E o
+
+114
+00:05:38,199 --> 00:05:40,009
+que vai lá na porta dois é o quarenta e
+
+115
+00:05:40,019 --> 00:05:42,439
+cinco do do dois A aí é o três Oh,
+
+116
+00:05:42,449 --> 00:05:45,350
+então ele vai ter que ser adicionado porque quando você
+
+117
+00:05:45,358 --> 00:05:47,189
+tem um quadro, o que que tem nesse quadro?
+
+118
+00:05:47,199 --> 00:05:50,238
+Preâmbulo que a gente viu lembra endereço de destino,
+
+119
+00:05:50,250 --> 00:05:52,879
+endereço de origem, o tipo tamanho, os dados
+
+120
+00:05:52,889 --> 00:05:55,428
+e o F C s que entrava aquele C R
+
+121
+00:05:55,439 --> 00:05:58,028
+C que era o controle, eh de erro cíclico.
+
+122
+00:05:58,040 --> 00:06:00,649
+Tá vendo aí oh aí, olha só que interessante
+
+123
+00:06:00,660 --> 00:06:03,970
+Após ele fazer que é o aprendizado, ele faz
+
+124
+00:06:03,980 --> 00:06:06,970
+o encaminhamento que que é o encaminhamento ele vai encaminhar
+
+125
+00:06:06,980 --> 00:06:11,809
+os quadros procurando uma correspondência oh entre o endereço mac
+
+126
+00:06:11,819 --> 00:06:15,009
+de destino do quadro a uma entrada na tabela de
+
+127
+00:06:15,019 --> 00:06:15,410
+endereços.
+
+128
+00:06:15,420 --> 00:06:17,809
+MAC então observa lá oh, cê tem ali na
+
+129
+00:06:17,819 --> 00:06:21,709
+porta um oh o quatro a três b Tá vendo
+
+130
+00:06:21,720 --> 00:06:25,079
+Oh conectado a porta um aí o que acontece como
+
+131
+00:06:25,088 --> 00:06:27,559
+o endereço de destino do quadro chega ao switch pela
+
+132
+00:06:27,569 --> 00:06:33,108
+porta um Não consta na tabela de endereços Oh o
+
+133
+00:06:33,119 --> 00:06:36,579
+switch! Ele inunda olha só que interessante Isso é
+
+134
+00:06:36,588 --> 00:06:40,358
+o quadro ele é encaminhado pra todas as portas suíte,
+
+135
+00:06:40,369 --> 00:06:42,879
+então o que que vai acontecer? Que que seria
+
+136
+00:06:42,889 --> 00:06:47,519
+essa inundação é quando ele receber não tem o o
+
+137
+00:06:47,528 --> 00:06:50,160
+destino, ele vai mandar pra todas as portas.
+
+138
+00:06:50,170 --> 00:06:52,559
+Tá Então Isso faz parte aí do encaminhamento.
+
+139
+00:06:52,569 --> 00:06:55,838
+Aí olha que interessante o quadro com origem no p
+
+140
+00:06:55,850 --> 00:07:00,970
+CD e com destino no ar recebido na porta quatro
+
+141
+00:07:00,980 --> 00:07:03,160
+é encaminhado diretamente pra porta.
+
+142
+00:07:03,170 --> 00:07:07,480
+Um por quê? Porque foi associado ao endereço quatro
+
+143
+00:07:07,488 --> 00:07:08,699
+a três b tá vendo.
+
+144
+00:07:08,709 --> 00:07:11,639
+Enquanto o MAC quatro a sete e oh que tava
+
+145
+00:07:11,649 --> 00:07:14,259
+na porta quatro de origem é aprendido.
+
+146
+00:07:14,689 --> 00:07:17,939
+Aí ele vai ser adicionadoà tabela de endereços Mac.
+
+147
+00:07:17,949 --> 00:07:21,040
+Ele passa a entrar na tabela e fazer parte do
+
+148
+00:07:21,048 --> 00:07:24,420
+reconhecimento do switch Tá aí? Como é feito esses
+
+149
+00:07:24,428 --> 00:07:28,559
+métodos de encaminhamento dos quadros? Cê tem um Sut
+
+150
+00:07:28,569 --> 00:07:31,980
+and Ford que é a ideia ali de você receber
+
+151
+00:07:31,988 --> 00:07:35,579
+o quadro inteiro, armazenar ele em memória e fazer
+
+152
+00:07:35,588 --> 00:07:36,829
+a verificação de erro.
+
+153
+00:07:36,838 --> 00:07:39,569
+Okay Se o quadro estiver íntegro o que que vai
+
+154
+00:07:39,579 --> 00:07:42,579
+acontecer? O switch procura uma tabela de endereços Mac
+
+155
+00:07:42,588 --> 00:07:43,600
+O endereço de destino.
+
+156
+00:07:44,088 --> 00:07:46,220
+Aí ele vai determinar a interface de saída.
+
+157
+00:07:46,230 --> 00:07:48,178
+Em seguida, o quadro é encaminhado pra fora da
+
+158
+00:07:48,189 --> 00:07:49,379
+porta correspondente.
+
+159
+00:07:49,389 --> 00:07:51,540
+Então cê tem essa forma de encaminhamento do quadro.
+
+160
+00:07:51,548 --> 00:07:55,259
+A outra forma é o SW TG, que seria
+
+161
+00:07:55,269 --> 00:07:57,858
+o seguinte você tem a opção Fast Ford, que
+
+162
+00:07:57,869 --> 00:08:01,528
+seria o switch encaminhar o quadro antes de ser totalmente
+
+163
+00:08:01,540 --> 00:08:01,980
+recebido.
+
+164
+00:08:01,988 --> 00:08:04,500
+Olha que interessante ele já começa a encaminhar antes de
+
+165
+00:08:04,509 --> 00:08:07,920
+receber tudo tá e encaminhando imediatamente o quadro.
+
+166
+00:08:07,928 --> 00:08:09,819
+Depois de ler o endereço de destino e depois que
+
+167
+00:08:09,829 --> 00:08:11,838
+ele lê, ele encaminha o restante.
+
+168
+00:08:12,250 --> 00:08:14,970
+Então ele faz ali uma espécie de corte, Tá
+
+169
+00:08:14,980 --> 00:08:17,720
+pra acelerar! E tem um fragmento livre que é
+
+170
+00:08:17,730 --> 00:08:21,278
+o que acontece? O switch armazena os primeiros sessenta
+
+171
+00:08:21,290 --> 00:08:22,509
+e quatro bits do quadro.
+
+172
+00:08:22,519 --> 00:08:24,759
+Lembra do quadro? Então ele pega só os sessenta
+
+173
+00:08:24,769 --> 00:08:28,379
+e quatro primeiros bites antes de encaminhá-lo que a maioria
+
+174
+00:08:28,389 --> 00:08:31,439
+dos erros das colisões de redes né? Vão ocorrer
+
+175
+00:08:31,838 --> 00:08:34,690
+durante esses primeiros? Então, se não tiver erro
+
+176
+00:08:34,700 --> 00:08:37,129
+nenhum, ele sabe que não vai ter mais.
+
+177
+00:08:37,139 --> 00:08:40,690
+Então ele vai encaminhar esse quadro interessante, né?
+
+178
+00:08:40,700 --> 00:08:43,668
+Porque se tiver algum erro vem antes desses sessenta e
+
+179
+00:08:43,678 --> 00:08:46,168
+quatro, aí ele já consegue, né? Fazer
+
+180
+00:08:46,178 --> 00:08:47,288
+o controle do erro.
+
+181
+00:08:47,298 --> 00:08:50,000
+E tem também ele com a negociação automática permite que
+
+182
+00:08:50,009 --> 00:08:55,080
+dois dispositivos negociem automaticamente as melhores capacidades de velocidade e
+
+183
+00:08:55,090 --> 00:08:55,668
+duplex.
+
+184
+00:08:55,678 --> 00:08:58,769
+Suítes aí mais modernos fazem isso e tem o alto
+
+185
+00:08:58,779 --> 00:09:03,269
+MD e X que vai detectar automaticamente o tipo de
+
+186
+00:09:03,279 --> 00:09:07,590
+cabo conectadoà porta e configura de forma apropriada.
+
+187
+00:09:07,599 --> 00:09:11,259
+Então, conectou o cabo, ele automaticamente já faz
+
+188
+00:09:11,269 --> 00:09:15,428
+aí a configuração, né? Na melhor forma possível.
+
+189
+00:09:15,440 --> 00:09:18,979
+Bem interessante, né? Essas formas aí de encaminhamento,
+
+190
+00:09:18,989 --> 00:09:21,570
+tá e graças a isso aluno, a gente tem
+
+191
+00:09:21,580 --> 00:09:24,379
+as redes hierárquicas, que é o que é propor
+
+192
+00:09:24,389 --> 00:09:27,570
+um projeto em três camadas de de rede, que
+
+193
+00:09:27,580 --> 00:09:30,529
+é o acesso a distribuição e o núcleo.
+
+194
+00:09:30,538 --> 00:09:33,330
+Olha que interessante esse desenho, cê tem lá embaixo
+
+195
+00:09:33,340 --> 00:09:37,250
+o acesso lá em cima, cê tem a distribuição
+
+196
+00:09:37,259 --> 00:09:39,808
+E lá você tem os núcleos onde você tem,
+
+197
+00:09:39,820 --> 00:09:42,649
+né? Por exemplo, a ida pras redes aí.
+
+198
+00:09:42,658 --> 00:09:45,330
+O que que vai acontecer com isso? A camada
+
+199
+00:09:45,340 --> 00:09:47,570
+de acesso oh que é a camada lá de baixo,
+
+200
+00:09:47,580 --> 00:09:49,369
+Tá vendo aí de uma rede hierárquica.
+
+201
+00:09:49,379 --> 00:09:51,668
+O que que vai acontecer com ela? Vai prover
+
+202
+00:09:51,678 --> 00:09:55,029
+a conectividade para os dispositivos finais? Lembra os PC
+
+203
+00:09:55,038 --> 00:09:57,869
+s, as impressoras e et cetera, né?
+
+204
+00:09:58,109 --> 00:10:00,200
+Nessa camada oh, a gente vai encontrar o que
+
+205
+00:10:00,210 --> 00:10:02,918
+os suítes e os pontos de acesso, que seria
+
+206
+00:10:02,928 --> 00:10:03,519
+os Axis.
+
+207
+00:10:03,529 --> 00:10:06,080
+Pontes por exemplo, né? Um dos principais objetivos
+
+208
+00:10:06,090 --> 00:10:08,719
+é o que é prover o controle de acesso ao
+
+209
+00:10:08,729 --> 00:10:11,840
+meio físico da rede, quando você entra na camada
+
+210
+00:10:11,849 --> 00:10:14,000
+de distribuição oh voltando aqui Oh, que é essa
+
+211
+00:10:14,009 --> 00:10:16,639
+do meio o que que a distribuição faz? Ela
+
+212
+00:10:16,649 --> 00:10:19,879
+é responsável por agregar os dados recebidos dos suítes,
+
+213
+00:10:19,889 --> 00:10:22,239
+da camada de acesso que ela vai receber e vai
+
+214
+00:10:22,250 --> 00:10:24,734
+agregar, né? E transmitimos, pra onde?
+
+215
+00:10:24,744 --> 00:10:27,854
+Pra camada de núcleo, Então essa camada oh anota
+
+216
+00:10:27,864 --> 00:10:30,974
+aí vai controlar o fluxo do tráfego, agregando as
+
+217
+00:10:30,984 --> 00:10:35,494
+funções de ate entre as redes locais virtuais as vãs
+
+218
+00:10:35,504 --> 00:10:37,774
+não é isso? E a camada de núcleo lá
+
+219
+00:10:37,783 --> 00:10:40,960
+em cima oh que é lá de cima.
+
+220
+00:10:40,969 --> 00:10:42,759
+O que que vai acontecer com ela? É o
+
+221
+00:10:42,769 --> 00:10:45,279
+backbone é a espinha do sal, de alta velocidade
+
+222
+00:10:45,288 --> 00:10:46,639
+das redes interconectadas.
+
+223
+00:10:46,649 --> 00:10:50,320
+Então ela prevê a conectividade nos dispositivos da camada de
+
+224
+00:10:50,330 --> 00:10:55,080
+distribuição com muita disponibilidade de redundância e também prevê acesso
+
+225
+00:10:55,090 --> 00:10:56,719
+quem oh láàs redes externas.
+
+226
+00:10:56,729 --> 00:10:59,840
+Ela que vai enviar pra uma rede externa que no
+
+227
+00:10:59,849 --> 00:11:03,330
+caso é a internet tá e temos o boni colapsando,
+
+228
+00:11:03,340 --> 00:11:06,009
+que é a junção da camada de distribuição e da
+
+229
+00:11:06,019 --> 00:11:08,649
+camada de núcleo em uma única camada usada em redes
+
+230
+00:11:08,658 --> 00:11:09,090
+menores.
+
+231
+00:11:09,099 --> 00:11:12,070
+Então quando ele fala em backbone colapsando é porque você
+
+232
+00:11:12,080 --> 00:11:14,889
+fez a junção da camada de distribuição e da camada
+
+233
+00:11:14,899 --> 00:11:15,418
+de núcleo.
+
+234
+00:11:15,428 --> 00:11:17,769
+Dá uma olhada aqui Oh, eu pego a camada
+
+235
+00:11:17,779 --> 00:11:21,408
+de distribuição e de núcleo e faço uma junção.
+
+236
+00:11:21,418 --> 00:11:25,109
+Aí você vai chamar isso aí de backbone colapsando,
+
+237
+00:11:25,119 --> 00:11:25,908
+tranquilo.
+
+238
+00:11:26,158 --> 00:11:28,849
+Então é isso aí que são as principais características da
+
+239
+00:11:28,859 --> 00:11:31,989
+internet comutada, grande abraço e até.
+

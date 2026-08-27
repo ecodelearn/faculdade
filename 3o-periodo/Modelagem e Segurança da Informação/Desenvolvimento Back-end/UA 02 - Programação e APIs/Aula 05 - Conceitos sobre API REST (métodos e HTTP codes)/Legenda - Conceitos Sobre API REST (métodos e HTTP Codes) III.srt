@@ -1,0 +1,480 @@
+1
+00:00:06,469 --> 00:00:09,720
+Olá, vamos falar um pouquinho sobre os códigos de
+
+2
+00:00:09,728 --> 00:00:11,478
+resposta do h t P, né? Eh?
+
+3
+00:00:11,489 --> 00:00:14,849
+É importante saber trabalhar com os dados que vem no
+
+4
+00:00:14,859 --> 00:00:15,759
+Jason EH.
+
+5
+00:00:15,769 --> 00:00:18,559
+É importante saber lidar com o formato jason em conhecer
+
+6
+00:00:18,568 --> 00:00:20,728
+os métodos do h t p Pra saber o que
+
+7
+00:00:20,739 --> 00:00:25,420
+isso vai ser feito, né? Mas é importante
+
+8
+00:00:25,429 --> 00:00:28,519
+também saber como responder no h T P.
+
+9
+00:00:28,530 --> 00:00:32,000
+Existe um protocolo já bem definido e existem códigos de
+
+10
+00:00:32,009 --> 00:00:35,598
+resposta bem definidos que expressam cada tipo de operação.
+
+11
+00:00:35,609 --> 00:00:37,880
+A partir disso que a gente consegue lidar com os
+
+12
+00:00:37,889 --> 00:00:41,658
+erros de rede, né? Eh o nosso aplicativo
+
+13
+00:00:41,668 --> 00:00:45,630
+ele tem que tá integrado nesse ambiente dando respostas compatíveis
+
+14
+00:00:45,639 --> 00:00:48,639
+com os demais pra que as pessoas saibam, né?
+
+15
+00:00:48,649 --> 00:00:51,359
+Quando tão acessando nossa T i, que tipo de
+
+16
+00:00:51,368 --> 00:00:54,079
+erro por onde elas devem trilhar pra poder chegar no
+
+17
+00:00:54,090 --> 00:00:59,090
+resultado? Tá bom? Vamos ver como isso funciona!
+
+18
+00:01:01,139 --> 00:01:07,808
+Eh Os códigos sempre indicam o resultado de uma operação,
+
+19
+00:01:07,819 --> 00:01:10,329
+né? H T P Status code, né?
+
+20
+00:01:10,338 --> 00:01:12,569
+Até no x ML h T P Quando você trabalha
+
+21
+00:01:12,579 --> 00:01:15,049
+só com a jaque padrão, você tem o status
+
+22
+00:01:15,058 --> 00:01:16,230
+code eh.
+
+23
+00:01:16,239 --> 00:01:19,528
+Códigos de sucesso começam com a o número dois é
+
+24
+00:01:19,540 --> 00:01:22,370
+dois com alguma coisa depois né? Duzentos e um,
+
+25
+00:01:22,379 --> 00:01:25,528
+duzentos, duzentos e três tá então todo o código
+
+26
+00:01:25,540 --> 00:01:29,588
+de sucesso começa com dois códigos de erro do cliente.
+
+27
+00:01:29,599 --> 00:01:32,588
+Quando o erro foi feito a partir de uma chamada
+
+28
+00:01:32,599 --> 00:01:37,750
+cliente começa com quatro um exemplo quatrocentos e quatro not,
+
+29
+00:01:37,760 --> 00:01:40,370
+né? É um erro um código de erro do
+
+30
+00:01:40,379 --> 00:01:42,549
+cliente, né? Ele tá buscando algo que não
+
+31
+00:01:42,558 --> 00:01:43,049
+existe.
+
+32
+00:01:43,750 --> 00:01:47,079
+Código de erro do servidor começa com cinco erro quinhentos
+
+33
+00:01:47,088 --> 00:01:51,049
+em geral tá, eh o atributo status code da
+
+34
+00:01:51,058 --> 00:01:53,888
+resposta é que vai definir isso é que vai eh
+
+35
+00:01:53,900 --> 00:01:57,359
+fornecer esse código de erro? Tá, Então vamos
+
+36
+00:01:57,370 --> 00:02:00,790
+ver algumas coisinhas aqui, por exemplo, duzentos Recurso
+
+37
+00:02:00,799 --> 00:02:02,209
+obtido com sucesso é o padrão.
+
+38
+00:02:02,219 --> 00:02:04,730
+Então todo get, na verdade vai usar o o
+
+39
+00:02:04,739 --> 00:02:10,460
+status code duzentos tá eh duzentos e um recurso criado.
+
+40
+00:02:10,469 --> 00:02:14,020
+Então a resposta certa quando você faz um post,
+
+41
+00:02:14,028 --> 00:02:16,699
+né? Quando você responde a um post, não
+
+42
+00:02:16,710 --> 00:02:18,319
+seria duzentos? A na maior parte das vezes,
+
+43
+00:02:18,330 --> 00:02:19,179
+a gente usa duzentos.
+
+44
+00:02:19,189 --> 00:02:21,520
+Tá? A maior parte dos temas usa duzentos,
+
+45
+00:02:21,528 --> 00:02:23,758
+mas a melhor resposta seria duzentos, e um,
+
+46
+00:02:24,508 --> 00:02:27,460
+né? Assim como duzentos e quatro, sem conteúdo,
+
+47
+00:02:27,469 --> 00:02:31,139
+muita gente coloca lá na resposta do eh do,
+
+48
+00:02:31,149 --> 00:02:32,719
+né? Nesse caso aqui, por exemplo, que
+
+49
+00:02:32,729 --> 00:02:36,778
+ele pega eh pega o F.
+
+50
+00:02:37,699 --> 00:02:41,069
+Ele tá pegando assim o último segmento do endereço.
+
+51
+00:02:41,080 --> 00:02:44,278
+Oh! Pegue a string a partir do último índice
+
+52
+00:02:44,288 --> 00:02:46,080
+de barra, né? Ou seja, após a
+
+53
+00:02:46,088 --> 00:02:49,558
+última barra ele vai pegar o que tiver escrito,
+
+54
+00:02:49,569 --> 00:02:51,618
+tá? EH E com isso ele vai pegar o
+
+55
+00:02:51,629 --> 00:02:52,479
+último segmento.
+
+56
+00:02:52,490 --> 00:02:55,849
+Com isso vai pegar o código remover produto código den
+
+57
+00:02:55,860 --> 00:02:57,990
+hasta cods duzentos e quatro.
+
+58
+00:02:58,689 --> 00:03:01,099
+Por que duzentos e quatro e não duzentos, porque
+
+59
+00:03:01,110 --> 00:03:03,899
+não tem eh corpo é uma resposta que só diz
+
+60
+00:03:03,909 --> 00:03:07,139
+o seguinte Oh, eh o O código é duzentos
+
+61
+00:03:07,149 --> 00:03:09,819
+e quatro e duzentos e quatro é sem conteúdo.
+
+62
+00:03:09,830 --> 00:03:12,538
+Porém, com sucesso, né? Então seria a
+
+63
+00:03:12,550 --> 00:03:18,080
+resposta viável? Resposta boa para o método de né?
+
+64
+00:03:18,889 --> 00:03:24,990
+Ah, quatrocentos é uma requisição incorreta, né?
+
+65
+00:03:25,000 --> 00:03:28,800
+Não foi reconhecido nada! Quatrocentos e um não está
+
+66
+00:03:28,808 --> 00:03:32,819
+autenticado e quatrocentos e três não está autorizado.
+
+67
+00:03:33,419 --> 00:03:36,469
+São dois erros importantíssimos, né? O quatrocentos,
+
+68
+00:03:36,479 --> 00:03:38,319
+e um Porque o cara não autenticou, né?
+
+69
+00:03:38,330 --> 00:03:40,949
+O usuário não tem um usuário logado e o quatrocentos
+
+70
+00:03:40,960 --> 00:03:43,270
+e três é como assim eh ele tá logado,
+
+71
+00:03:43,278 --> 00:03:45,750
+mas ele não pode usar aquele recurso, né?
+
+72
+00:03:45,758 --> 00:03:48,469
+Por exemplo, é um eh uma alteração de nota
+
+73
+00:03:48,479 --> 00:03:50,588
+tem que ser feita por um professor, então se
+
+74
+00:03:50,599 --> 00:03:53,028
+for um usuário de outro tipo não vai conseguir,
+
+75
+00:03:53,038 --> 00:03:55,429
+vai dar um erro do tipo forde, né ele
+
+76
+00:03:55,439 --> 00:03:59,169
+não pode alterar tá embora esteja logado de repente é
+
+77
+00:03:59,179 --> 00:04:02,210
+outro tipo de usuário recurso não é encontrado quatrocentos e
+
+78
+00:04:02,219 --> 00:04:04,050
+quatro quatrocentos e cinco o mto do h t p
+
+79
+00:04:04,058 --> 00:04:04,949
+não é aceito.
+
+80
+00:04:04,960 --> 00:04:07,740
+Por exemplo você tem um e de repente só aceita
+
+81
+00:04:07,750 --> 00:04:09,868
+não aceita put não tem alteração.
+
+82
+00:04:09,879 --> 00:04:12,770
+Eu posso colocar um erro quatrocentos e cinco quatrocentos e
+
+83
+00:04:12,778 --> 00:04:14,649
+vinte e nove muitas requisições para o período quando não
+
+84
+00:04:14,659 --> 00:04:19,410
+tem uma sobrecarga de requisições tá erro quinhentos erro interno
+
+85
+00:04:19,420 --> 00:04:24,738
+do servidor erro quinhentos e três serviço indisponível tá você
+
+86
+00:04:24,750 --> 00:04:27,920
+pode mandar um erro desse quinhentos e cinco versão do
+
+87
+00:04:27,928 --> 00:04:30,259
+h T P não suportada Você pode tá trabalhando com
+
+88
+00:04:30,269 --> 00:04:32,678
+versões de h t p que seja diferente do h
+
+89
+00:04:32,689 --> 00:04:34,980
+t eh do protocolo que tá sendo usado pelo cliente.
+
+90
+00:04:34,988 --> 00:04:37,278
+Eu posso dar uma resposta quinhentos e cinco né,
+
+91
+00:04:37,899 --> 00:04:42,269
+e quinhentos e onze necessária autenticação de rede Cuidado que
+
+92
+00:04:42,278 --> 00:04:45,629
+tem a autenticação do sistema pode não ser igual a
+
+93
+00:04:45,639 --> 00:04:49,119
+autenticação da rede tá eh o cara pode ter que
+
+94
+00:04:49,129 --> 00:04:51,928
+tá autenticado na rede pra usar aquele serviço né?
+
+95
+00:04:51,939 --> 00:04:54,709
+E essa autenticação era da rede interna, né?
+
+96
+00:04:54,720 --> 00:04:58,028
+Normalmente no próprio protocolo h? T P Não você
+
+97
+00:04:58,040 --> 00:04:58,230
+pode.
+
+98
+00:04:58,238 --> 00:05:00,149
+Tá autenticado no sistema, né? Através de uma
+
+99
+00:05:00,160 --> 00:05:02,588
+s ou algo do tipo e na rede você não
+
+100
+00:05:02,600 --> 00:05:12,838
+tá bom, Então? Esses são os principais códigos
+
+101
+00:05:12,850 --> 00:05:15,559
+de retorno, né? Nas respostas que a gente
+
+102
+00:05:15,569 --> 00:05:17,879
+dá no nosso sistema eh Quando a gente trabalha com
+
+103
+00:05:17,889 --> 00:05:20,040
+a e t p como o trabalha em cima do
+
+104
+00:05:20,048 --> 00:05:22,338
+ambiente da t p, é interessante dar as respostas
+
+105
+00:05:22,350 --> 00:05:26,000
+compatíveis com aquelas que são usadas pelos servidores mais comuns.
+
+106
+00:05:26,009 --> 00:05:27,850
+Tá, em geral a gente vai trabalhar com as
+
+107
+00:05:27,858 --> 00:05:30,259
+de início, dois e início quatro né? Eh
+
+108
+00:05:30,269 --> 00:05:34,439
+só pra indicar erro ou eh sucesso! Tá,
+
+109
+00:05:34,449 --> 00:05:37,338
+Mas eh! É interessante também diferenciar essa coisa de
+
+110
+00:05:37,350 --> 00:05:39,959
+duzentos pra duzentos e um duzentos e quatro em cada
+
+111
+00:05:39,970 --> 00:05:42,178
+momento é interessante usar um ou outro.
+
+112
+00:05:42,189 --> 00:05:46,139
+Tem alguns programas que fazem uso desses códigos pra poder
+
+113
+00:05:46,149 --> 00:05:47,059
+adaptar.
+
+114
+00:05:47,069 --> 00:05:50,738
+Eh melhor assim a identificação da resposta, por exemplo,
+
+115
+00:05:50,750 --> 00:05:55,100
+com os programas, como programas de realmente de teste,
+
+116
+00:05:55,108 --> 00:05:56,939
+em que eles conseguem, pelo erro, saber se
+
+117
+00:05:56,949 --> 00:05:58,500
+eles têm que ler um corpo ou não, Se
+
+118
+00:05:58,509 --> 00:06:01,139
+aquilo deveria tá ali ou não, né, Bom,
+
+119
+00:06:01,149 --> 00:06:03,738
+então é isso isso a gente finaliza Essa parte de
+
+120
+00:06:03,750 --> 00:06:06,358
+código de respostas do protocolo h T P
+

@@ -1,0 +1,428 @@
+1
+00:00:06,320 --> 00:00:09,710
+Olá, vamos falar um pouquinho sobre algumas ferramentas pra
+
+2
+00:00:09,720 --> 00:00:11,710
+documentação de a P I S, né? E
+
+3
+00:00:11,720 --> 00:00:14,648
+eu não tenho apenas um padrão para documentar a t
+
+4
+00:00:14,659 --> 00:00:14,769
+i.
+
+5
+00:00:14,778 --> 00:00:17,829
+Eu tenho, por exemplo o p a P i
+
+6
+00:00:17,839 --> 00:00:19,769
+s, né? É o que é o mais
+
+7
+00:00:19,780 --> 00:00:24,059
+usado é usado pelo sge eh, ele aceita Jason
+
+8
+00:00:24,068 --> 00:00:26,388
+e a, mas eu também tenho outros padrões.
+
+9
+00:00:26,399 --> 00:00:28,269
+Eu tenho também, por exemplo, o padrão a
+
+10
+00:00:28,280 --> 00:00:30,469
+pay Bl, print, né? O padrão a
+
+11
+00:00:30,478 --> 00:00:33,590
+Pablo print Ele já é um padrão completamente diferente,
+
+12
+00:00:33,598 --> 00:00:36,569
+mas que é usado por algumas das ferramentas.
+
+13
+00:00:36,579 --> 00:00:39,020
+Tá eh! Vamos dar uma olhadinha aqui.
+
+14
+00:00:39,029 --> 00:00:43,259
+O que a gente tem disponível então? Ferramenta pra
+
+15
+00:00:43,270 --> 00:00:48,219
+documentação que eu cito algumas o are né? A
+
+16
+00:00:48,228 --> 00:00:51,189
+P ele segue a SX, a play Blueprint,
+
+17
+00:00:51,200 --> 00:00:54,868
+né? Design, especificação e geração Tá então assim
+
+18
+00:00:54,880 --> 00:00:58,950
+O interessante do up Hary é que você pode Eh
+
+19
+00:01:00,009 --> 00:01:03,219
+modelar, né? Pela play print, né?
+
+20
+00:01:03,228 --> 00:01:06,540
+Fazer o design, fazer especificação e mandar ele gerar
+
+21
+00:01:06,549 --> 00:01:09,489
+o código? Então isso é interessante? Tá?
+
+22
+00:01:09,500 --> 00:01:12,808
+Inclusive tem alguns serviços no estilo do Amazon.
+
+23
+00:01:12,819 --> 00:01:19,329
+Eh eh em que você pode especificar sem codificar?
+
+24
+00:01:19,338 --> 00:01:22,769
+Né? Alguns serviços que você pode eh simplesmente especificar
+
+25
+00:01:22,778 --> 00:01:26,028
+o design dele e mandar ele gerar numa num ambiente
+
+26
+00:01:26,040 --> 00:01:29,448
+em nuvem tá? Eh, mas é uma funcionalidade
+
+27
+00:01:29,459 --> 00:01:31,609
+um pouco mais avançada, né? Aqui, por
+
+28
+00:01:31,620 --> 00:01:34,010
+exemplo, eu tenho um exemplo de A b print
+
+29
+00:01:34,019 --> 00:01:38,540
+nessas, nessas de a i d me Gatt.
+
+30
+00:01:38,549 --> 00:01:42,459
+Ou seja, se você chama tá o endereço messe
+
+31
+00:01:42,469 --> 00:01:45,930
+de passar no e d vai recuperar uma mensagem pelo
+
+32
+00:01:45,939 --> 00:01:49,939
+método got, né, responde duzentos, né?
+
+33
+00:01:49,948 --> 00:01:53,058
+Seria essa a mensagem aqui Eu tô especificando a funcionalidade
+
+34
+00:01:53,069 --> 00:01:59,599
+de um a função de ser tá então aqui só
+
+35
+00:01:59,609 --> 00:02:02,480
+pra ter uma ideia isso aqui seria a visão geral
+
+36
+00:02:02,489 --> 00:02:06,338
+da pay BL Print e ele vai falando como você
+
+37
+00:02:06,349 --> 00:02:10,929
+consegue eh, responderam uma mensagem qualquer, por exemplo,
+
+38
+00:02:10,939 --> 00:02:18,808
+gets messe responde duzentos tá olha, gat messe responde
+
+39
+00:02:18,819 --> 00:02:26,028
+Duzentos seria o você pegar uma mensagem no endereço qualquer
+
+40
+00:02:26,038 --> 00:02:29,149
+que vai responder com Alô Mundo.
+
+41
+00:02:29,990 --> 00:02:34,099
+Tá agora tem várias coisas aqui, como por exemplo
+
+42
+00:02:34,770 --> 00:02:39,110
+eu posso definir minhas requisições, né? Quais são
+
+43
+00:02:39,118 --> 00:02:40,689
+os que tem que passar? Você pode ter um
+
+44
+00:02:40,699 --> 00:02:42,349
+de autenticação, por exemplo.
+
+45
+00:02:42,360 --> 00:02:42,469
+Tá.
+
+46
+00:02:42,479 --> 00:02:46,588
+Então você tem ali diversas funcionalidades que são feitas em
+
+47
+00:02:46,599 --> 00:02:48,710
+cima do A P i Blunt, né? É
+
+48
+00:02:48,719 --> 00:02:52,069
+uma SX diferente do UP I, mas ele tem
+
+49
+00:02:52,080 --> 00:02:55,389
+ali, eh algumas coisas interessantes, principalmente se essa
+
+50
+00:02:55,399 --> 00:02:59,110
+definição de dele é bem legalzinho E o up ele
+
+51
+00:02:59,118 --> 00:03:01,588
+consegue fazer essa conversão.
+
+52
+00:03:01,599 --> 00:03:05,479
+Tá? Eh pra pra código fazer a geração de
+
+53
+00:03:05,490 --> 00:03:07,808
+código a p da espe a partir da especificação é
+
+54
+00:03:07,819 --> 00:03:12,080
+o bom a p i designer ou I, p
+
+55
+00:03:12,088 --> 00:03:14,479
+i e designer, né? Ele trabalha com uma
+
+56
+00:03:14,490 --> 00:03:18,659
+série de especificações ele trabalha com a L, né?
+
+57
+00:03:18,669 --> 00:03:22,439
+Eh que seria aquela de especificação de OU a s
+
+58
+00:03:22,449 --> 00:03:25,520
+assim que a p i, uma outra forma de
+
+59
+00:03:25,528 --> 00:03:28,520
+trabalhar e o gráfico é l tá então assim ele
+
+60
+00:03:28,528 --> 00:03:33,599
+consegue trabalhar eh com diversos fermentada diferentes né? E
+
+61
+00:03:33,610 --> 00:03:36,058
+ele consegue fazer a construção por fragmentos em C,
+
+62
+00:03:36,069 --> 00:03:40,258
+né? Então é interessante que ao mesmo tempo que
+
+63
+00:03:40,270 --> 00:03:45,300
+você documenta você pode criar pseudo servidores e gerar eh
+
+64
+00:03:45,308 --> 00:03:51,659
+definir fragmentos né? EH de funcionalidade e combinar essas
+
+65
+00:03:51,669 --> 00:03:54,379
+funcionalidades com o Graf L pra poder gerar novas a
+
+66
+00:03:54,389 --> 00:03:57,689
+t i tá então ele não só documenta tá como
+
+67
+00:03:57,699 --> 00:03:59,960
+ele também cria isso aí é a tal da A
+
+68
+00:03:59,969 --> 00:04:02,368
+p i designer, né? E você tem lá,
+
+69
+00:04:02,379 --> 00:04:05,508
+por exemplo aqui, um formato R L, né?
+
+70
+00:04:05,520 --> 00:04:09,288
+Eh que é o Ian, né? Basicamente ele
+
+71
+00:04:09,300 --> 00:04:11,508
+usa o Ian do o p A P I tá,
+
+72
+00:04:12,639 --> 00:04:14,050
+mas o que que eu tenho.
+
+73
+00:04:14,058 --> 00:04:17,009
+Eu tenho aquele que a gente prefere quando trabalha com
+
+74
+00:04:17,019 --> 00:04:21,569
+o JS que é o Suge tá? O tor
+
+75
+00:04:21,579 --> 00:04:24,649
+é uma das ferramentas que eu tenho nesse ambiente,
+
+76
+00:04:24,660 --> 00:04:27,329
+o sogra, na verdade tem uma série de opções
+
+77
+00:04:27,338 --> 00:04:31,910
+Tá o eu posso editar, né? No formato
+
+78
+00:04:31,920 --> 00:04:34,730
+que ou ou Jason, ele aceita os dois?
+
+79
+00:04:34,738 --> 00:04:37,809
+Tá, Mas eu posso eh definir lá o que
+
+80
+00:04:37,819 --> 00:04:41,649
+eu quero em termos de documentação, seguindo a Open
+
+81
+00:04:41,660 --> 00:04:44,500
+e, né? E aí, eu consigo eh,
+
+82
+00:04:44,509 --> 00:04:46,899
+Ele gera pra gente automaticamente medida que a gente vai
+
+83
+00:04:46,910 --> 00:04:47,738
+fazendo aqui.
+
+84
+00:04:47,750 --> 00:04:51,889
+A documentação do lado aqui seria o original o escrito
+
+85
+00:04:51,899 --> 00:04:55,079
+e aqui o formatado que seria a documentação já gerada,
+
+86
+00:04:55,309 --> 00:04:58,358
+faz integração com diversas plataformas.
+
+87
+00:04:58,369 --> 00:05:02,040
+Tá? Eu já usei Yam com Spring no Java.
+
+88
+00:05:02,048 --> 00:05:05,079
+Já usei no JS, já usei Yama com várias
+
+89
+00:05:05,088 --> 00:05:06,238
+plataformas diferentes.
+
+90
+00:05:06,250 --> 00:05:10,519
+Ele consegue detectar uma série de coisas do próprio sistema
+
+91
+00:05:10,528 --> 00:05:12,439
+sem que você tenha que ficar especificando.
+
+92
+00:05:12,449 --> 00:05:13,959
+E aí você só complementa a informação.
+
+93
+00:05:13,970 --> 00:05:17,059
+Então ele é muito prático, né? Bom,
+
+94
+00:05:17,738 --> 00:05:24,980
+eh então aí eu tenho algumas ferramentas, Claro que
+
+95
+00:05:24,988 --> 00:05:26,819
+eu tenho, outras tá, Mas essas são as
+
+96
+00:05:26,829 --> 00:05:31,579
+mais utilizadas, são as que mais reconhecidas pelo mercado,
+
+97
+00:05:31,588 --> 00:05:34,178
+né? Eh, eu acho interessante o modelo bro
+
+98
+00:05:34,189 --> 00:05:34,428
+print.
+
+99
+00:05:34,439 --> 00:05:37,619
+Embora não seja o mais usado, tá e sempre
+
+100
+00:05:37,629 --> 00:05:40,500
+acho interessante que a ferramenta possa gerar código, né?
+
+101
+00:05:40,509 --> 00:05:43,059
+Quanto menos a gente codifica, mais a gente organiza
+
+102
+00:05:43,069 --> 00:05:46,178
+as coisas em termos de modelagem e codifica menos no
+
+103
+00:05:46,189 --> 00:05:49,738
+final, Tá, eh mais, eh proficiência,
+
+104
+00:05:49,750 --> 00:05:50,579
+a gente tem mais.
+
+105
+00:05:50,588 --> 00:05:54,139
+Eh mais eficiência, né? A gente consegue fazer
+
+106
+00:05:54,149 --> 00:05:55,819
+as coisas em menos tempo, o que te dá
+
+107
+00:05:55,829 --> 00:05:57,439
+mais competitividade também.
+

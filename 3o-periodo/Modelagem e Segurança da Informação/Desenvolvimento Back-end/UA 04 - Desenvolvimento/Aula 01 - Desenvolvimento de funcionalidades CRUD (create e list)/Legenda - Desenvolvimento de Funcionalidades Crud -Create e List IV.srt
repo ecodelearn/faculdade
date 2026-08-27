@@ -1,0 +1,868 @@
+1
+00:00:06,110 --> 00:00:09,079
+Olá, vamos falar um pouquinho sobre o cliente.
+
+2
+00:00:09,089 --> 00:00:11,960
+Axe, né? Que seria para a definição de
+
+3
+00:00:11,970 --> 00:00:15,210
+clientes h t p De uma forma simplificada eh é
+
+4
+00:00:15,220 --> 00:00:17,010
+possível usar o h t p, né? O
+
+5
+00:00:17,019 --> 00:00:19,969
+próprio h t p nativo do que tá lá no
+
+6
+00:00:19,978 --> 00:00:23,809
+core pra fazer um cliente h t P perfeitamente como
+
+7
+00:00:23,818 --> 00:00:26,149
+é possível fazer um servidor também, né? Mas
+
+8
+00:00:26,158 --> 00:00:28,850
+nós preferimos usar o Express pro servidor por que é
+
+9
+00:00:28,859 --> 00:00:31,030
+mais fácil, né? Da mesma forma, eu
+
+10
+00:00:31,039 --> 00:00:33,750
+tenho como uma forma de criar eh clientes mais simples
+
+11
+00:00:33,759 --> 00:00:37,168
+através do axel que vai me permitir, né?
+
+12
+00:00:37,408 --> 00:00:41,179
+Eh a controlar essa comunicação com o servidor de uma
+
+13
+00:00:41,189 --> 00:00:44,020
+forma facilitada, né? Vamos ver como é que
+
+14
+00:00:44,029 --> 00:00:48,709
+isso funciona? Bom cliente pra consulta e inserção com
+
+15
+00:00:48,719 --> 00:00:49,189
+Axel.
+
+16
+00:00:50,200 --> 00:00:52,590
+Primeiro tem que expor importar a biblioteca AWS com a
+
+17
+00:00:52,598 --> 00:00:57,719
+n PM tal axe Ah, eh Nesse caso eu
+
+18
+00:00:57,728 --> 00:00:59,219
+já tenho ela importada aqui.
+
+19
+00:01:00,618 --> 00:01:04,668
+Hum porque meu packs Jason já tá configurado a dependência.
+
+20
+00:01:04,680 --> 00:01:07,230
+Então! No meu caso, eu apenas escrevo n
+
+21
+00:01:07,239 --> 00:01:11,189
+PM e ele já vai instalar o axis porque já
+
+22
+00:01:11,198 --> 00:01:13,430
+tá nas dependências, né? Essa é a única
+
+23
+00:01:13,439 --> 00:01:19,058
+dependência que eu usei nesse exemplo pra criar o objeto
+
+24
+00:01:19,069 --> 00:01:23,299
+de conexão com o servidor você cria um objeto Axel,
+
+25
+00:01:23,308 --> 00:01:25,418
+apontando pra R L.
+
+26
+00:01:25,430 --> 00:01:27,338
+Quem chama de R L é o real de base
+
+27
+00:01:27,349 --> 00:01:28,338
+do servidor.
+
+28
+00:01:28,349 --> 00:01:31,198
+Pode ser eh, é o real de base a
+
+29
+00:01:31,209 --> 00:01:34,819
+partir de da qual você vai completar com outras informações,
+
+30
+00:01:34,829 --> 00:01:37,299
+né? Então assim, nesse caso eu usei a
+
+31
+00:01:37,308 --> 00:01:38,859
+raiz, mas podia ser barra.
+
+32
+00:01:38,870 --> 00:01:41,939
+Personagens, né? Então a axel USS é igual
+
+33
+00:01:41,948 --> 00:01:45,319
+a recuar é a o Axel e o Axel é
+
+34
+00:01:45,329 --> 00:01:47,500
+que vai dar a construção do que a gente chamei
+
+35
+00:01:47,510 --> 00:01:51,980
+aqui de a P i, né? Então se
+
+36
+00:01:51,989 --> 00:01:55,308
+eu olhar pra cá esse aqui é o meu cliente,
+
+37
+00:01:56,129 --> 00:01:58,579
+o que eu tô fazendo são essas duas operações aqui
+
+38
+00:01:58,588 --> 00:02:02,638
+Oh, essa é minha a p i eu chamei
+
+39
+00:02:02,650 --> 00:02:04,260
+de A P i pra não confundir com o meu
+
+40
+00:02:04,269 --> 00:02:08,419
+cliente de comunicação tá, e aí no meu cliente
+
+41
+00:02:08,429 --> 00:02:11,500
+eu vou fazer as chamadas, né? Então,
+
+42
+00:02:11,508 --> 00:02:16,399
+por exemplo, o incluir vai ser uma chamada,
+
+43
+00:02:16,409 --> 00:02:20,399
+né? A sincronia sempre Onde a resposta vai ser
+
+44
+00:02:20,409 --> 00:02:23,899
+ao a P e post personagens passando nome, ataque
+
+45
+00:02:23,909 --> 00:02:24,758
+e defesa.
+
+46
+00:02:24,770 --> 00:02:28,338
+Então assim eu vou receber essas três informações nome,
+
+47
+00:02:28,349 --> 00:02:29,118
+ataque e defesa.
+
+48
+00:02:29,788 --> 00:02:34,069
+E vou passar essas informações via post na rota.
+
+49
+00:02:34,080 --> 00:02:38,460
+Personagens para o meu servidor, que tá localizado em
+
+50
+00:02:38,469 --> 00:02:43,379
+local HO três mil e vai esperar a resposta retorne
+
+51
+00:02:43,389 --> 00:02:46,199
+ao ponto data, Ou seja, ele manda a
+
+52
+00:02:46,210 --> 00:02:49,080
+requisição, espera a resposta e retorna o resto data
+
+53
+00:02:49,088 --> 00:02:51,278
+isso aqui eu tô usando o axis.
+
+54
+00:02:51,288 --> 00:02:54,399
+Ele é muito mais simples de trabalhar com essa manutenção
+
+55
+00:02:54,409 --> 00:02:57,278
+da comunicação h T P né? Aqui eu já
+
+56
+00:02:57,288 --> 00:03:01,000
+tenho outros que seriam obter todos é um assim que
+
+57
+00:03:01,008 --> 00:03:05,080
+vai retornar o que a p e personagens Ele vai
+
+58
+00:03:05,088 --> 00:03:08,778
+pegar aquele jason que veio de lá e vai retornar
+
+59
+00:03:08,788 --> 00:03:12,929
+pra quem chamar resto ponto data e o assim que
+
+60
+00:03:12,939 --> 00:03:16,439
+de né? Que é o obter que vai ser
+
+61
+00:03:16,449 --> 00:03:19,479
+uma síndrome que recebe um a i D vai chamar
+
+62
+00:03:19,490 --> 00:03:22,808
+personagens barra dolar a i, d e vai re
+
+63
+00:03:22,819 --> 00:03:26,729
+eh receber a data Nota Isso aqui é só uma
+
+64
+00:03:26,740 --> 00:03:29,330
+dinâmica do jovem script tá? O que eu tenho
+
+65
+00:03:29,338 --> 00:03:31,599
+aqui eu tô só formando o endereço através do jovem
+
+66
+00:03:31,610 --> 00:03:32,129
+script.
+
+67
+00:03:32,139 --> 00:03:36,909
+Eu tenho aqui o endereço personagens, personagens, Personagens
+
+68
+00:03:36,919 --> 00:03:40,588
+com a D eh o eixos ele trabalha sempre com
+
+69
+00:03:40,599 --> 00:03:43,669
+a rota e quando tem informação no boy ela é
+
+70
+00:03:43,679 --> 00:03:44,868
+passada após a vírgula.
+
+71
+00:03:46,330 --> 00:03:49,669
+Okay Então aqui eu tenho uma string dinâmica.
+
+72
+00:03:49,679 --> 00:03:52,069
+Se for aí de um vai ser personagem Barra um
+
+73
+00:03:52,080 --> 00:03:54,469
+nota que é aquele uso da crase pra fazer string
+
+74
+00:03:54,479 --> 00:03:59,258
+dinâmica em Java Script tá feito isso aqui, né?
+
+75
+00:03:59,270 --> 00:04:02,399
+Esse cara é exportado e vai ser usado por alguém,
+
+76
+00:04:03,219 --> 00:04:07,929
+né? Isso é um cliente de comunicação tá até
+
+77
+00:04:07,939 --> 00:04:08,169
+aqui.
+
+78
+00:04:08,179 --> 00:04:11,610
+Eu criei meu cliente de comunicação através do Axel eu
+
+79
+00:04:11,618 --> 00:04:13,569
+consigo, e capturar as chamadas que eu precisava pro
+
+80
+00:04:13,580 --> 00:04:14,710
+meu servidor.
+
+81
+00:04:14,719 --> 00:04:17,139
+E com a criação do cliente, fica muito mais
+
+82
+00:04:17,149 --> 00:04:18,009
+fácil eu gerenciar.
+
+83
+00:04:18,019 --> 00:04:21,928
+Agora, só que eh aqui eu tô fugindo de
+
+84
+00:04:21,939 --> 00:04:23,928
+fazer um teste, por exemplo com o Boomerang,
+
+85
+00:04:23,939 --> 00:04:26,608
+né? Se eu quisesse testar só os dados,
+
+86
+00:04:26,619 --> 00:04:28,548
+eu usava o Boomerang aqui.
+
+87
+00:04:28,559 --> 00:04:31,790
+O que eu quero é fazer um sistema em linha
+
+88
+00:04:31,798 --> 00:04:35,379
+de comando que seja capaz de falar com esse meu
+
+89
+00:04:35,389 --> 00:04:36,189
+web service.
+
+90
+00:04:36,199 --> 00:04:39,108
+E aí eu tô criando um cliente, um programa
+
+91
+00:04:39,119 --> 00:04:40,548
+cliente pro meu servidor.
+
+92
+00:04:40,559 --> 00:04:43,189
+Eu tô criando minha camada vil no modo linha de
+
+93
+00:04:43,199 --> 00:04:45,449
+comando, né? Então como é que ele vai
+
+94
+00:04:45,459 --> 00:04:48,338
+ficar nesse caso, se a linha de comando eu
+
+95
+00:04:48,350 --> 00:04:51,129
+tenho que ler do teclado? Leitura do teclado é
+
+96
+00:04:51,139 --> 00:04:56,528
+através da Biblioteca Redline, né? Biblioteca Redline permite
+
+97
+00:04:56,540 --> 00:05:02,100
+isso E aí eu vou criar uma interface usando em
+
+98
+00:05:02,108 --> 00:05:04,790
+se eu não me engano Redline ele é nativo,
+
+99
+00:05:04,798 --> 00:05:08,509
+então não vou precisar importar, ler vai ser o
+
+100
+00:05:08,519 --> 00:05:10,910
+quê? Vou ter uma pergunta qualquer e vai retornar
+
+101
+00:05:10,920 --> 00:05:12,769
+uma pro mais? A leitura do teclado também é
+
+102
+00:05:12,778 --> 00:05:15,329
+a síndrome, né? Vai retornar uma pro mais
+
+103
+00:05:16,389 --> 00:05:21,170
+que vai ter leitor Esse é meu redline ponto question
+
+104
+00:05:21,178 --> 00:05:26,660
+pergunta em Resol tá então o que ele tá fazendo
+
+105
+00:05:26,670 --> 00:05:32,600
+aqui eh nesse ler é retornar um resultado, né?
+
+106
+00:05:32,608 --> 00:05:35,059
+Eh do que foi digitado é uma é simplesmente um
+
+107
+00:05:35,069 --> 00:05:39,579
+encapsulamentos da leitura de teclado no formato do EH Java
+
+108
+00:05:39,588 --> 00:05:42,480
+Script do JS isso aqui tá aqui! Oh!
+
+109
+00:05:45,600 --> 00:05:53,028
+Ah, lá Leitor Create Inter fez tô já colocando
+
+110
+00:05:53,040 --> 00:05:55,069
+aqui um cliente meu cliente, aquele cliente que eu
+
+111
+00:05:55,079 --> 00:05:58,869
+criei de comunicação e aqui eu tô encapsulado a leitura
+
+112
+00:05:58,879 --> 00:05:59,509
+de uma linha.
+
+113
+00:05:59,519 --> 00:06:01,709
+Isso é o quê pra eu vou poder eh mandar
+
+114
+00:06:01,720 --> 00:06:04,670
+uma pergunta e o usuário responder com alguma informação?
+
+115
+00:06:04,678 --> 00:06:09,178
+Tá aqui eu criei um outro método chamado menu a
+
+116
+00:06:09,189 --> 00:06:12,660
+sí crono tudo a sí crono tá vendo que que
+
+117
+00:06:12,670 --> 00:06:14,949
+esse menu faz ele vai imprimir um.
+
+118
+00:06:14,959 --> 00:06:17,259
+Listar dois, incluir três, alterar quatro zero,
+
+119
+00:06:17,269 --> 00:06:20,059
+sair as opções do sistema, né? Por enquanto
+
+120
+00:06:20,069 --> 00:06:22,500
+as que eu quero são só essas duas aqui.
+
+121
+00:06:22,509 --> 00:06:26,988
+Depois a outra tá e aí o que eu vou
+
+122
+00:06:27,000 --> 00:06:30,869
+fazer? Valor é igual ao Wat ler, digita
+
+123
+00:06:30,879 --> 00:06:32,470
+e opção quando ele coloca esse wait, ler,
+
+124
+00:06:32,480 --> 00:06:36,129
+digito e opção, ele vai fazer uma em que
+
+125
+00:06:36,139 --> 00:06:39,949
+vai pegar o que veio do teclado também de forma
+
+126
+00:06:39,959 --> 00:06:42,899
+sincronia e que é uma coisa muito interessante, né?
+
+127
+00:06:42,910 --> 00:06:45,019
+Eu tô trabalhando com alimentos a cinco e nos direto,
+
+128
+00:06:45,028 --> 00:06:47,459
+o cara vai aparecer lá, vai digitar o que
+
+129
+00:06:47,470 --> 00:06:49,858
+ele quer, né? Se é listar e incluir,
+
+130
+00:06:49,869 --> 00:06:52,160
+ou sair, vamos ver isso na prática.
+
+131
+00:06:53,309 --> 00:06:56,819
+Como é que essa coisa fica aqui? Eu tenho
+
+132
+00:06:56,829 --> 00:07:01,588
+as operações Listar, incluir, alterar que eu não
+
+133
+00:07:01,600 --> 00:07:03,730
+vou usar agora, né? Aí eu vou colocar
+
+134
+00:07:03,738 --> 00:07:06,588
+listar de esta com refused.
+
+135
+00:07:06,600 --> 00:07:08,488
+Por quê? Porque o meu servidor não tá rodando
+
+136
+00:07:09,778 --> 00:07:13,769
+ou porque eu fiz alguma coisa diferente.
+
+137
+00:07:14,389 --> 00:07:18,298
+Eu acho que ele só não tá rodando é no
+
+138
+00:07:18,309 --> 00:07:23,338
+Index eu tenho que tá com o servidor rodando pro
+
+139
+00:07:23,350 --> 00:07:24,889
+cliente fazer alguma coisa, claro.
+
+140
+00:07:27,869 --> 00:07:29,100
+Opção ali está.
+
+141
+00:07:30,009 --> 00:07:32,220
+Como não tem nenhum personagem ainda, eu não vou
+
+142
+00:07:32,230 --> 00:07:34,338
+conseguir listar ninguém, mas daqui a pouco eu vou
+
+143
+00:07:34,350 --> 00:07:37,100
+incluir um e ele vai aparecer, né? Ah,
+
+144
+00:07:37,108 --> 00:07:39,379
+eu também tenho o método de obter dados em que
+
+145
+00:07:39,389 --> 00:07:41,059
+ele vai receber o nome.
+
+146
+00:07:41,069 --> 00:07:44,139
+O ataque E a defesa do personagem vai, vai
+
+147
+00:07:44,149 --> 00:07:48,819
+ler no formato e vai gerar aqui eu tô retornando
+
+148
+00:07:48,829 --> 00:07:53,879
+um com esse col Ele tá usando um vetor com
+
+149
+00:07:53,889 --> 00:07:56,869
+as três informações sendo que aqui eu tô usando eval
+
+150
+00:07:56,879 --> 00:07:59,798
+esse método eval, ele serve pra transformar de string
+
+151
+00:07:59,809 --> 00:08:00,329
+pra inteiro.
+
+152
+00:08:00,338 --> 00:08:03,678
+Ele vai avaliar naquele cara e vai retornar na forma
+
+153
+00:08:03,689 --> 00:08:04,519
+numérica.
+
+154
+00:08:04,528 --> 00:08:07,838
+Como eu tô tra eh usando números ali aquela vai
+
+155
+00:08:07,850 --> 00:08:10,269
+ser transformada inteiro pra não dar confusão na hora de
+
+156
+00:08:10,278 --> 00:08:10,920
+formar um objeto.
+
+157
+00:08:10,928 --> 00:08:14,829
+Jason, tá? Então, obter dados é essa
+
+158
+00:08:14,838 --> 00:08:15,559
+é a Crono.
+
+159
+00:08:15,569 --> 00:08:17,720
+Eu vou usar aquela função de leitura pedindo nome,
+
+160
+00:08:17,730 --> 00:08:20,079
+ataque e defesa onde isso aqui é usado.
+
+161
+00:08:20,088 --> 00:08:21,619
+Depois a gente vê como é que ele vai funcionar.
+
+162
+00:08:22,509 --> 00:08:29,189
+Inclui nome eh, sei lá, Mago ataque dele!
+
+163
+00:08:29,199 --> 00:08:32,219
+Vai ser mil, a defesa dele é baixa!
+
+164
+00:08:32,229 --> 00:08:35,830
+Duzentos cê oh, se eu for listar agora,
+
+165
+00:08:37,019 --> 00:08:40,817
+eu já tenho lá o mago na base de dados
+
+166
+00:08:40,827 --> 00:08:45,889
+Tá? Então, aqui eh eu tô fazendo as
+
+167
+00:08:45,899 --> 00:08:47,369
+operações, né.
+
+168
+00:08:47,379 --> 00:08:50,940
+Eu tenho a pergunta né Aqui eu tenho um menu
+
+169
+00:08:50,950 --> 00:08:54,298
+que vai pedir aquela informação, né? E quando
+
+170
+00:08:54,308 --> 00:08:57,729
+pede aquela informação que seria o que seria eh um
+
+171
+00:08:57,739 --> 00:08:59,019
+ou dois? Seria o que é a opção que
+
+172
+00:08:59,029 --> 00:09:03,428
+você quer, né? Sendo opção um ele vai
+
+173
+00:09:03,440 --> 00:09:06,678
+fazer o quê? Vamos ver se a opção é
+
+174
+00:09:06,690 --> 00:09:10,389
+um, manda obter todos e pra cada elemento vai
+
+175
+00:09:10,399 --> 00:09:11,029
+dar um console.
+
+176
+00:09:11,038 --> 00:09:14,629
+Ou seja pra cada objeto que eu recebi a partir
+
+177
+00:09:14,639 --> 00:09:16,668
+de dados, nota que eu tô usando aqui na
+
+178
+00:09:16,678 --> 00:09:20,989
+principal também a sinc pra poder usar a, né?
+
+179
+00:09:21,000 --> 00:09:23,029
+Eu vou dar ao cliente obter todos.
+
+180
+00:09:23,038 --> 00:09:25,308
+Ele vai falar com o servidor e vai retornar os
+
+181
+00:09:25,320 --> 00:09:27,529
+dados e aqui eu vou mostrar no log se a
+
+182
+00:09:27,538 --> 00:09:29,918
+opção for dois, eu tenho lá nome, ataque
+
+183
+00:09:29,928 --> 00:09:33,719
+e defesa recebe a obter dados nota como eu recebo
+
+184
+00:09:33,729 --> 00:09:36,719
+na forma também de um vetor e aí eu chamo
+
+185
+00:09:36,729 --> 00:09:38,940
+meu cliente chamando incluir o nome, ataque e defesa.
+
+186
+00:09:39,629 --> 00:09:42,979
+Tá então assim esse dado que eu digitei aqui,
+
+187
+00:09:43,629 --> 00:09:46,279
+ele já vai chegar aqui convertido pra poder mandar o
+
+188
+00:09:46,288 --> 00:09:50,210
+incluir lá pro servidor da forma correta, não!
+
+189
+00:09:51,070 --> 00:09:52,639
+E é isso que eu tô fazendo aqui.
+
+190
+00:09:52,649 --> 00:09:55,519
+Oh, né, chama usando aqueles métodos anteriores,
+
+191
+00:09:55,529 --> 00:10:00,700
+né? Eh o cliente vai ser unir o cliente,
+
+192
+00:10:00,710 --> 00:10:03,210
+tá o meni vai ser um cinco que eleva o
+
+193
+00:10:03,219 --> 00:10:05,288
+valor, né? Então, o que eu vou
+
+194
+00:10:05,298 --> 00:10:07,739
+fazer aqui é o seguinte no final, tudo que
+
+195
+00:10:07,750 --> 00:10:11,479
+eu vou fazer é chamar a função principal que ela
+
+196
+00:10:11,489 --> 00:10:15,320
+é, a sincronia e ao final den, né?
+
+197
+00:10:15,330 --> 00:10:18,678
+Quando acabar de executar esse cara fecha o leitor.
+
+198
+00:10:18,690 --> 00:10:20,639
+Ou seja, não vou deixar esse cara aberto lá
+
+199
+00:10:20,649 --> 00:10:23,359
+fazendo leitura de tecla aqui, Fecha o leitor quando
+
+200
+00:10:23,369 --> 00:10:24,590
+acabar de executar.
+
+201
+00:10:24,599 --> 00:10:26,379
+E com isso ele não vai nem ficar preso aqui
+
+202
+00:10:26,389 --> 00:10:26,619
+Nada.
+
+203
+00:10:26,629 --> 00:10:29,359
+Se der uma opção zero de sair, ele vai
+
+204
+00:10:29,369 --> 00:10:30,418
+parar rapidinho.
+
+205
+00:10:30,428 --> 00:10:32,979
+O programa não vai ficar esperando, né? Então,
+
+206
+00:10:32,989 --> 00:10:34,700
+com isso aí eu tenho a criação.
+
+207
+00:10:35,538 --> 00:10:41,019
+Tá de uma interface real, uma interface sistemática.
+
+208
+00:10:41,029 --> 00:10:45,739
+Tá para um servidor no modelo de eh linha de
+
+209
+00:10:45,750 --> 00:10:46,500
+comando.
+
+210
+00:10:46,509 --> 00:10:48,019
+Eu não tô usando uma ferramenta de teste, Eu
+
+211
+00:10:48,029 --> 00:10:50,759
+tô realmente criando um sistema que se comunica com a
+
+212
+00:10:50,769 --> 00:10:53,629
+que meu servidor que o meu servidor que é um
+
+213
+00:10:53,639 --> 00:10:54,820
+nesse ponto.
+
+214
+00:10:54,830 --> 00:10:57,940
+Então a gente termina essa primeira parte aí referenteà
+
+215
+00:10:57,950 --> 00:11:02,239
+criação de funcionalidades do crude tá, e a gente
+
+216
+00:11:02,250 --> 00:11:06,058
+fica nesse ponto e espero ter agregado conhecimento, bons
+
+217
+00:11:06,070 --> 00:11:07,440
+estudos e até a próxima!
+

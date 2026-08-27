@@ -1,0 +1,356 @@
+1
+00:00:05,929 --> 00:00:09,630
+Olá, aluno seja bem-vindo Professor Fabrício Melo Estamos trabalhando
+
+2
+00:00:09,640 --> 00:00:11,919
+com os protocolos da camada de rede, lembra a
+
+3
+00:00:11,929 --> 00:00:15,599
+camada três modelos, Ou seja, nós estamos subindo
+
+4
+00:00:15,609 --> 00:00:18,620
+aí lá da camada dois Enlace já estamos agora na
+
+5
+00:00:18,629 --> 00:00:22,059
+camada três e vamos trabalhar com as características dessa camada
+
+6
+00:00:22,068 --> 00:00:23,440
+aí a segunda parte dela.
+
+7
+00:00:23,449 --> 00:00:27,254
+Olha só nós vamos falar sobre a cotação de pacotes
+
+8
+00:00:27,263 --> 00:00:30,054
+oh então a gente já começa a falar em camada
+
+9
+00:00:30,065 --> 00:00:31,434
+três, né? Quando a gente fala dos P
+
+10
+00:00:31,443 --> 00:00:33,875
+d, U S dos pacotes, o que que
+
+11
+00:00:33,884 --> 00:00:37,103
+seria essa comutação de pacotes? Olha só que interessante
+
+12
+00:00:37,115 --> 00:00:40,554
+pra ser encaminhado a mensagem, ela é dividida em
+
+13
+00:00:40,564 --> 00:00:43,473
+pacotes menores! Oh, olha que interessante eu faço
+
+14
+00:00:43,484 --> 00:00:45,134
+muita comparação seguinte.
+
+15
+00:00:45,145 --> 00:00:48,493
+Cê Vai um açougue comprar um pedaço de carne,
+
+16
+00:00:49,289 --> 00:00:51,418
+né? Mas você vai fazer um estrogonofe! É
+
+17
+00:00:51,429 --> 00:00:53,618
+o que que cê fala com o açougueiro que você
+
+18
+00:00:53,630 --> 00:00:56,579
+quer que ele corte a carne em cubículos, né?
+
+19
+00:00:56,590 --> 00:00:59,500
+Em pedaços é mais ou menos essa ideia da informação,
+
+20
+00:00:59,509 --> 00:01:02,939
+a informação quando é feita essa comutação de pacotes,
+
+21
+00:01:02,950 --> 00:01:05,900
+né? Você quebra a informação em pedaços menores?
+
+22
+00:01:05,909 --> 00:01:08,540
+Tá vendo? Oh aí! Cada pacote possui informações
+
+23
+00:01:08,549 --> 00:01:10,879
+de endereço, de origem, destino.
+
+24
+00:01:11,138 --> 00:01:14,750
+Cada um pode ser encaminhado individualmente através da rede tá
+
+25
+00:01:14,760 --> 00:01:17,219
+vendo Oh! Cada nota é uma adesão de qual
+
+26
+00:01:17,230 --> 00:01:19,750
+rota deverá ser usada pra encaminhar cada pacote para o
+
+27
+00:01:19,760 --> 00:01:20,209
+próximo no.
+
+28
+00:01:20,219 --> 00:01:22,028
+Ou seja, você vai ter a presença aqui da
+
+29
+00:01:22,040 --> 00:01:26,579
+camada três Camada de rede do roteador enquanto você viu
+
+30
+00:01:26,588 --> 00:01:29,370
+lá na camada um o hub e depois lá na
+
+31
+00:01:29,379 --> 00:01:33,138
+camada dois você viu switch quando você chegarà camada
+
+32
+00:01:33,150 --> 00:01:36,129
+três, cê já vai trabalhar com o famoso roteador?
+
+33
+00:01:36,579 --> 00:01:40,250
+Ou então switch camada três? Porque suíte camada três
+
+34
+00:01:40,260 --> 00:01:43,448
+porque tem as mesmas características aí de roteador ele herda,
+
+35
+00:01:43,459 --> 00:01:45,109
+né? Características? E olha lá, oh!
+
+36
+00:01:45,120 --> 00:01:49,430
+Os endereços i p de origem destino permanecem os mesmos,
+
+37
+00:01:49,439 --> 00:01:51,980
+né? Desde o momento que o pacote sai do
+
+38
+00:01:51,989 --> 00:01:54,808
+rosto de origem até chegar o rosto de destino,
+
+39
+00:01:54,819 --> 00:01:58,558
+exceto toma cuidado com isso.
+
+40
+00:01:58,569 --> 00:02:01,680
+Quando traduzido pelo dispositivo que executa a tradução de endereço,
+
+41
+00:02:01,689 --> 00:02:07,088
+o Nat nat é um protocolo network ed translation que
+
+42
+00:02:07,099 --> 00:02:11,569
+tem a função aí de traduzir endereços i PS numa
+
+43
+00:02:11,580 --> 00:02:15,528
+rede local para endereços i PS da internet.
+
+44
+00:02:15,538 --> 00:02:17,649
+Então, por isso que há essa mudança ali no
+
+45
+00:02:17,659 --> 00:02:20,449
+roteador, porque você temàs vezes endereços ali na
+
+46
+00:02:20,460 --> 00:02:22,649
+rede local que só ficam na rede local.
+
+47
+00:02:22,659 --> 00:02:24,990
+Eles não vão pra internet, mas como você quer
+
+48
+00:02:25,000 --> 00:02:28,469
+trocar a informação na internet, aquele pacote é trocado,
+
+49
+00:02:28,479 --> 00:02:31,868
+o endereço dele por do roteador vai ir pra internet
+
+50
+00:02:31,879 --> 00:02:34,599
+voltar e depois o Nat volta pro endereço anterior.
+
+51
+00:02:34,610 --> 00:02:37,028
+Então você tem essa exceção aí.
+
+52
+00:02:37,038 --> 00:02:40,240
+Quando trabalhar com Nat tá como é que é feito
+
+53
+00:02:40,250 --> 00:02:42,639
+um roteamento? Aluno tá vendo a camada de rede
+
+54
+00:02:42,649 --> 00:02:45,558
+oh lá, pega Isso aqui tá fornece o serviço
+
+55
+00:02:45,569 --> 00:02:48,719
+para direcionar os pacotes para o voo de destino em
+
+56
+00:02:48,729 --> 00:02:49,159
+outra rede.
+
+57
+00:02:49,169 --> 00:02:53,368
+Ou seja Rede local Conversando com a internet a camada
+
+58
+00:02:53,379 --> 00:02:55,710
+de rede que vai ser responsável por isso, através
+
+59
+00:02:55,719 --> 00:02:58,979
+obviamente dos endereços lógicos I p tá vendo para trafegar
+
+60
+00:02:58,990 --> 00:03:01,118
+para outras redes oh! O pacote deve ser processado
+
+61
+00:03:01,129 --> 00:03:03,679
+por quem oh por um roteador famoso.
+
+62
+00:03:04,250 --> 00:03:07,469
+É aí que tá a função do roteador uma função
+
+63
+00:03:07,479 --> 00:03:10,368
+básica de um roteador óbvio, além de rotear e
+
+64
+00:03:10,379 --> 00:03:14,270
+escolher a melhor rota é justamente interligar redes distintas.
+
+65
+00:03:14,278 --> 00:03:17,149
+É uma rede local pra internet, ele vai fazer
+
+66
+00:03:17,159 --> 00:03:19,069
+esse papel! Tá venha lá! A função aí
+
+67
+00:03:19,080 --> 00:03:22,868
+do roteador é escolher o melhor caminho e encaminhar os
+
+68
+00:03:22,879 --> 00:03:26,788
+pacotes pra quem? Para o rosto de destino Em
+
+69
+00:03:26,800 --> 00:03:31,008
+um processo conhecido como o roteamento tá vendo o roteamento
+
+70
+00:03:31,020 --> 00:03:33,250
+é feito a parte de tabelas né? Que podem
+
+71
+00:03:33,258 --> 00:03:36,409
+ser construídas de forma estática ou dinâmica, né?
+
+72
+00:03:36,419 --> 00:03:39,649
+De maneira automática todo o dispositivo que opera utilizando quem
+
+73
+00:03:39,659 --> 00:03:41,349
+oh o TC p i p possui uma tabela de
+
+74
+00:03:41,360 --> 00:03:44,210
+rotas, Então você vai ter ali no roteador essa
+
+75
+00:03:44,219 --> 00:03:46,270
+tabela, né? Os roteadores, porém, utilizam
+
+76
+00:03:46,278 --> 00:03:47,288
+protocolos de roteamento.
+
+77
+00:03:47,300 --> 00:03:51,210
+Aí você vai ter os protocolos responsáveis em fazer esse
+
+78
+00:03:51,219 --> 00:03:54,210
+roteamento que vão construir essas tabelas aí.
+
+79
+00:03:54,219 --> 00:03:56,949
+Os mais famosos têm o algoritmo de vetor de distância
+
+80
+00:03:57,229 --> 00:04:01,199
+e o estado do link que são aí os mais
+
+81
+00:04:01,210 --> 00:04:06,679
+conhecidos tá e lembre-se Oh na internet cada sistema final,
+
+82
+00:04:06,689 --> 00:04:09,558
+ou seja, cada dispositivo ali que tá conectado tem
+
+83
+00:04:09,569 --> 00:04:13,639
+o endereço no nado q i p você só consegue
+
+84
+00:04:13,649 --> 00:04:16,238
+ir pra internet por meio de um i p z,
+
+85
+00:04:16,250 --> 00:04:18,608
+né? Então, quando o sistema final de origem
+
+86
+00:04:18,619 --> 00:04:22,170
+quer enviar um pacote a um destino, a origem
+
+87
+00:04:22,178 --> 00:04:23,838
+vai incluir o quê? O endereço i p do
+
+88
+00:04:23,850 --> 00:04:29,889
+destino no cabeçalho do pacote é isso dois mil e
+
+89
+00:04:29,899 --> 00:04:36,569
+quatorze página dezenove Legal tranquilidade então voltamos grande abraço
+

@@ -1,0 +1,632 @@
+1
+00:00:05,908 --> 00:00:07,710
+Olá, aluno seja muito bemvindo.
+
+2
+00:00:07,719 --> 00:00:11,409
+Professor Fabrício Melo Estamos falando sobre redes sem fio e
+
+3
+00:00:11,419 --> 00:00:14,720
+agora vamos, Vamos entrar no topo de associação de
+
+4
+00:00:14,728 --> 00:00:17,120
+clientes sem fio, ponto de acesso, Ou seja,
+
+5
+00:00:17,129 --> 00:00:20,318
+quando você vai fazer a associação, né? Do
+
+6
+00:00:20,329 --> 00:00:23,458
+seu dispositivo com um ponto de acesso, como é
+
+7
+00:00:23,469 --> 00:00:26,079
+que é feito aí? Aqueles campos de identificação,
+
+8
+00:00:26,089 --> 00:00:28,958
+queàs vezes são siglas que aparecem, né?
+
+9
+00:00:28,969 --> 00:00:32,130
+Para o usuário olha só quando você vê aquele campo
+
+10
+00:00:32,139 --> 00:00:35,270
+lá chamado S, S e D é o nome
+
+11
+00:00:35,279 --> 00:00:35,990
+da rede.
+
+12
+00:00:36,000 --> 00:00:38,709
+Tá vendo anunciado pelo axpo e aparece o que na
+
+13
+00:00:38,719 --> 00:00:41,750
+lista de rede sem fio do cliente Vários pontos de
+
+14
+00:00:41,759 --> 00:00:45,750
+acesso em uma rede pode podem compartilhar um SSD comum,
+
+15
+00:00:45,759 --> 00:00:49,279
+Então quando você vai lá no seu ali telefone o
+
+16
+00:00:49,289 --> 00:00:53,039
+wi-fi aparece Aquele monte de nome de rede é conhecido
+
+17
+00:00:53,048 --> 00:00:55,978
+como S S e d tá aí tem obviamente a
+
+18
+00:00:55,990 --> 00:00:59,439
+senha que é uma chave configurada lá no APO de
+
+19
+00:00:59,450 --> 00:01:02,000
+acordo com a segurança escolhida que a gente vai trabalhar
+
+20
+00:01:02,009 --> 00:01:04,879
+quais são os tipos de segurança e temos aí o
+
+21
+00:01:04,888 --> 00:01:06,719
+padrão, né? Que é os padrões que a
+
+22
+00:01:06,730 --> 00:01:08,959
+gente viu que é o oitocentos e onze a b
+
+23
+00:01:08,969 --> 00:01:11,870
+g n a c a d qual que ele tá
+
+24
+00:01:11,879 --> 00:01:14,040
+trabalhando? Tá vendo oh os pontos de acesso.
+
+25
+00:01:14,049 --> 00:01:17,620
+Roteadores sem fio podem operar em modo misto, o
+
+26
+00:01:17,629 --> 00:01:20,359
+que significa que eles podem oferecer suporte simultâneo a clientes
+
+27
+00:01:20,370 --> 00:01:22,000
+que se conecta por vários padrões.
+
+28
+00:01:22,010 --> 00:01:24,959
+Ou seja,às vezes cê tem ali um roteador
+
+29
+00:01:24,969 --> 00:01:27,750
+que já opera num, né? Num a c,
+
+30
+00:01:27,760 --> 00:01:30,359
+por exemplo, num a x e você tem um
+
+31
+00:01:30,370 --> 00:01:35,019
+dispositivo que é anterior, então você tem a retroalimentação,
+
+32
+00:01:35,028 --> 00:01:36,739
+né? Então cê vai ter esse padrão.
+
+33
+00:01:36,750 --> 00:01:39,500
+Qual é o tipo de conexão que você tá utilizando
+
+34
+00:01:39,510 --> 00:01:42,260
+tá e temos a segurança, a segurança define o
+
+35
+00:01:42,269 --> 00:01:44,180
+quê? Qual é o tipo de senha que você
+
+36
+00:01:44,189 --> 00:01:46,760
+vai usar? É o padrão app que é bem
+
+37
+00:01:46,769 --> 00:01:49,579
+ultrapassada, né? W P a w P a
+
+38
+00:01:49,588 --> 00:01:51,058
+dois tem agora o três.
+
+39
+00:01:51,069 --> 00:01:53,459
+Então você tem que sempre habilitar o nível de segurança
+
+40
+00:01:53,469 --> 00:01:57,198
+mais Autosport Se no seu vizinho pode tá ali dando
+
+41
+00:01:57,209 --> 00:02:00,838
+uma olhadinha, né? No que você tá fazendo,
+
+42
+00:02:00,849 --> 00:02:02,388
+ou seja, ele pode entrar na sua rede,
+
+43
+00:02:02,400 --> 00:02:04,799
+roubar a sua rede ali pra ele, ou até
+
+44
+00:02:04,808 --> 00:02:07,319
+se for uma pessoa entendida ela pode.
+
+45
+00:02:07,329 --> 00:02:10,719
+Quem sabe até pegar dados, né? Fazer invasão
+
+46
+00:02:10,729 --> 00:02:12,838
+aí e temos o canal, o canal que é
+
+47
+00:02:12,849 --> 00:02:15,439
+as bandas de frequência usar pra transmitir os dados.
+
+48
+00:02:15,449 --> 00:02:18,278
+Lembra que cê tem lá a banda dois ponto quatro
+
+49
+00:02:18,288 --> 00:02:21,038
+cinco ponto zero Então ela pode verificar lá os canais
+
+50
+00:02:21,050 --> 00:02:25,319
+de frequência de rádio e selecionar automaticamente um canal,
+
+51
+00:02:25,330 --> 00:02:27,399
+né? Apropriado? O canal também pode ser configurado
+
+52
+00:02:27,409 --> 00:02:28,278
+anualmente.
+
+53
+00:02:28,288 --> 00:02:30,479
+Se tiver interferência, entendeu o exemplo.
+
+54
+00:02:30,490 --> 00:02:34,520
+Às vezes tem roteadores aí que fazem a concorrência e
+
+55
+00:02:34,528 --> 00:02:37,629
+automaticamente conecta no na na melhor frequência.
+
+56
+00:02:37,639 --> 00:02:40,118
+Então isso aí faz parte do canal, então observa
+
+57
+00:02:40,129 --> 00:02:44,159
+só ao instalar um aponte um administrador de rede,
+
+58
+00:02:44,169 --> 00:02:47,719
+ele designa ao ponto de acesso um identificador de conjunto
+
+59
+00:02:47,729 --> 00:02:51,080
+de serviços que é o SSD compôs de uma ou
+
+60
+00:02:51,088 --> 00:02:55,058
+duas palavras aí quem disse foi o dois mil e
+
+61
+00:02:55,069 --> 00:02:58,758
+quatorze página Trezentos e noventa e um perfeito e os
+
+62
+00:02:58,770 --> 00:03:01,399
+métodos de autenticação vamos a eles.
+
+63
+00:03:01,409 --> 00:03:05,479
+Quando você vai autenticar a um aponte, cê tem
+
+64
+00:03:05,490 --> 00:03:07,879
+autenticação de sistema? Aberto, né? Quem dera
+
+65
+00:03:07,889 --> 00:03:08,879
+poucos trabalham.
+
+66
+00:03:08,889 --> 00:03:12,360
+Assim, qualquer cliente ao sem fio pode conexa,
+
+67
+00:03:12,368 --> 00:03:14,520
+né, Deve ser usado apenas no sistema de segurança?
+
+68
+00:03:14,528 --> 00:03:18,610
+Não é necessárioàs vezes cê tá ali numa lanchonete.
+
+69
+00:03:18,618 --> 00:03:21,969
+Essa lanchonete fica num lugar remoto, então o pessoal
+
+70
+00:03:21,979 --> 00:03:24,800
+libera ali o aponte sem nenhum tipo de senha.
+
+71
+00:03:24,808 --> 00:03:27,409
+Então cê já entra e já conecta Tá oh,
+
+72
+00:03:27,419 --> 00:03:29,088
+como é que é feito aqui? Oh, cê
+
+73
+00:03:29,099 --> 00:03:31,490
+vai requisitar uma autenticação tá vendo um desenho aí?
+
+74
+00:03:31,500 --> 00:03:34,710
+Oh, o aponte envia o desafio que é a
+
+75
+00:03:34,719 --> 00:03:35,288
+senha.
+
+76
+00:03:35,300 --> 00:03:39,558
+Você responde ao desafio e depois ele de criptografa e
+
+77
+00:03:39,569 --> 00:03:43,240
+verifica a resposta se okay e te autentica aí você
+
+78
+00:03:43,250 --> 00:03:47,199
+se associaà rede e faz parte daquela rede wi-fi
+
+79
+00:03:47,210 --> 00:03:51,360
+tá e temos a autenticação por meio da chave compartilhada,
+
+80
+00:03:51,368 --> 00:03:52,919
+que é o tal desafio que ele citou.
+
+81
+00:03:52,929 --> 00:03:56,319
+Aí vai fornecer mecanismo de criptografia pra você se autenticar
+
+82
+00:03:56,330 --> 00:03:58,778
+como APP W P A do um ao três,
+
+83
+00:03:58,788 --> 00:04:01,038
+né? Porém a senha deve ser o quê pré
+
+84
+00:04:01,050 --> 00:04:02,599
+compartilhada em duas partes.
+
+85
+00:04:02,610 --> 00:04:04,278
+Por isso que a pessoa chega na sua casa e
+
+86
+00:04:04,288 --> 00:04:07,058
+fala assim qual que é a senha da sua WiFi?
+
+87
+00:04:07,479 --> 00:04:10,969
+É isso aí tá aí você vai passar para ela
+
+88
+00:04:10,979 --> 00:04:14,008
+tá? Cê tem se de cunho pessoal que é
+
+89
+00:04:14,020 --> 00:04:17,769
+usado aí nas nossas casas usados os nossos é no
+
+90
+00:04:17,778 --> 00:04:20,629
+nosso Home office, seja pequenos escritórios, né?
+
+91
+00:04:20,850 --> 00:04:24,259
+Então você vai se autenticar usando uma chave pré compartilhada
+
+92
+00:04:24,269 --> 00:04:26,579
+e temos um sistema corporativo, Tá aluno usado em
+
+93
+00:04:26,588 --> 00:04:31,040
+redes corporativas e aí geralmente cê vai co eh conectar
+
+94
+00:04:31,048 --> 00:04:33,500
+por meio de um servidor rádios que eu vou te
+
+95
+00:04:33,509 --> 00:04:35,178
+explicar aí, como é que funciona? Então?
+
+96
+00:04:35,189 --> 00:04:38,019
+Cê vai ter um servidor que vai fazer o gerenciamento
+
+97
+00:04:38,028 --> 00:04:41,619
+dessa autenticação? Cê não vai fazer essa autenticação diretamente
+
+98
+00:04:41,629 --> 00:04:44,100
+por meio do A do aponte Tá, como é
+
+99
+00:04:44,108 --> 00:04:47,079
+que funciona aí? Oh os tipos de senhas Cê
+
+100
+00:04:47,088 --> 00:04:50,730
+tinha um ap, né? Esse método aí pessoal
+
+101
+00:04:50,738 --> 00:04:52,889
+oh que eu já disse não sendo mais recomendado,
+
+102
+00:04:52,899 --> 00:04:56,309
+nunca deve ser usado, é uma chave já ultrapassada.
+
+103
+00:04:57,178 --> 00:05:00,269
+Cê tem aqueles programas de força bruta que trabalha com
+
+104
+00:05:00,278 --> 00:05:03,869
+tentativa e erro que quebra facilmente esse tipo de senha.
+
+105
+00:05:03,879 --> 00:05:06,790
+Depois veio a w P a que é o wi-fi
+
+106
+00:05:06,798 --> 00:05:10,269
+Protec axis já é um padrão bem mais difícil.
+
+107
+00:05:10,278 --> 00:05:14,829
+Um algoritmo mais forte né? Dificultando a quebra também
+
+108
+00:05:14,838 --> 00:05:16,069
+ficou ultrapassado.
+
+109
+00:05:16,079 --> 00:05:18,470
+Roteadores passaram a trabalhar com o W P a dois,
+
+110
+00:05:18,480 --> 00:05:21,069
+que é uma né? Um avanço aí do w
+
+111
+00:05:21,079 --> 00:05:24,588
+p a um okay e temos já roteadores com w
+
+112
+00:05:24,600 --> 00:05:26,829
+P a três que vai ser essa próxima geração aí
+
+113
+00:05:26,838 --> 00:05:30,108
+tá vendo aí cê tem, aí eh uma um
+
+114
+00:05:30,119 --> 00:05:33,750
+sistema de segurança muito mais pesado, muito mais difícil,
+
+115
+00:05:33,759 --> 00:05:37,649
+então quando você vai lá configurar a sua autenticação se
+
+116
+00:05:37,660 --> 00:05:39,428
+já tiver o W P a três use.
+
+117
+00:05:39,439 --> 00:05:42,309
+Se não tiver o três, pelo menos aí o
+
+118
+00:05:42,319 --> 00:05:45,548
+dois tá o app não é mais recomendável.
+
+119
+00:05:45,559 --> 00:05:49,079
+Tá e autenticação oitocentos e dois ponto um x que
+
+120
+00:05:49,088 --> 00:05:51,579
+é o servidor rádios aí, como eu falei,
+
+121
+00:05:51,588 --> 00:05:54,858
+você vai ter que ter um um um um servidor
+
+122
+00:05:54,869 --> 00:05:57,298
+envolvido nessas autenticações.
+
+123
+00:05:57,309 --> 00:05:59,338
+O bom é que ali cê tem ge- gerenciamento de
+
+124
+00:05:59,350 --> 00:06:01,699
+log, máquinas que vão acessar e etc.
+
+125
+00:06:01,709 --> 00:06:05,379
+Então é muito usado aí em grandes empresas né,
+
+126
+00:06:05,389 --> 00:06:08,459
+oh lá, então você tem aí pra você configurar
+
+127
+00:06:08,470 --> 00:06:11,019
+um rádios cê tem que ter o endereço i p
+
+128
+00:06:11,028 --> 00:06:12,238
+desse servidor.
+
+129
+00:06:12,250 --> 00:06:13,899
+Cê vai ter que ter o número da porta,
+
+130
+00:06:13,910 --> 00:06:16,819
+né? Também desse servidor, qual é a chave
+
+131
+00:06:16,829 --> 00:06:20,778
+compartilhada que é pra autenticar pelo ponto de acesso com
+
+132
+00:06:20,790 --> 00:06:23,678
+o servidor rádios e lá na configuração tá vendo Oh,
+
+133
+00:06:23,689 --> 00:06:26,879
+você vai escolher tá vendo oh, cê vai oh
+
+134
+00:06:26,889 --> 00:06:30,028
+lá fazer identificação oh quando é uma tá vendo da
+
+135
+00:06:30,040 --> 00:06:32,220
+t p a Inter prize Oh, cê tem que
+
+136
+00:06:32,230 --> 00:06:34,939
+saber a porta tem que saber o i p tá
+
+137
+00:06:34,949 --> 00:06:37,899
+vendo oh o servidor então já trabalhando com um sistema
+
+138
+00:06:37,910 --> 00:06:42,509
+mais complexo aí de autenticação tá, ele vai utilizar
+
+139
+00:06:42,519 --> 00:06:44,790
+o e a P que permite que você escolha entre
+
+140
+00:06:44,798 --> 00:06:47,189
+os vários diferentes mes de autenticação.
+
+141
+00:06:47,199 --> 00:06:49,829
+E quais são esses me de autenticação? É a
+
+142
+00:06:49,838 --> 00:06:53,389
+p PS k é a PT l s, né?
+
+143
+00:06:53,399 --> 00:06:58,069
+É a PM s o pi p e a p
+
+144
+00:06:58,079 --> 00:07:01,750
+fest também são exemplos aí e aqui no desenho a
+
+145
+00:07:01,759 --> 00:07:04,730
+gente mostra como é que funciona a autenticação Tá vendo
+
+146
+00:07:04,738 --> 00:07:08,278
+Oh quem é o suplicante é o equipamento tá vendo
+
+147
+00:07:08,290 --> 00:07:11,689
+é a entidade que está requerendo a autenticação a uma
+
+148
+00:07:11,699 --> 00:07:14,889
+estação sem fio aí, quem é o autentica?
+
+149
+00:07:14,899 --> 00:07:17,250
+O autenticado é o equipamento que está na linha de
+
+150
+00:07:17,259 --> 00:07:19,910
+frente que é o a p com suporte ao padrão
+
+151
+00:07:20,559 --> 00:07:23,410
+e aí lá atrás vai ter o servidor de autenticação
+
+152
+00:07:23,420 --> 00:07:27,369
+Oh é a entidade que vai possuir os dados pra
+
+153
+00:07:27,379 --> 00:07:29,639
+poder autenticar Tá vendo que é o servidor rádios oh,
+
+154
+00:07:29,649 --> 00:07:31,970
+então cê já tem um servidor aí que é o
+
+155
+00:07:31,980 --> 00:07:36,048
+que vai ser responsável em fazer a autenticação da máquina
+
+156
+00:07:36,059 --> 00:07:38,649
+conhecida como suplicante.
+
+157
+00:07:38,660 --> 00:07:41,410
+Tranquilo! Então é isso.
+
+158
+00:07:41,420 --> 00:07:44,588
+Fechamos grande abraço até lá
+

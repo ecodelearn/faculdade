@@ -1,0 +1,536 @@
+1
+00:00:06,269 --> 00:00:09,000
+Olá, vamos falar um pouquinho sobre os web.
+
+2
+00:00:09,009 --> 00:00:11,038
+Hook, né que seriam os ganchos da web?
+
+3
+00:00:11,050 --> 00:00:13,278
+Basicamente é uma filosofia bem simples.
+
+4
+00:00:13,288 --> 00:00:16,039
+É o fato de que, em alguns momentos,
+
+5
+00:00:16,048 --> 00:00:20,839
+você pode ter uma chamada que ela aciona outra chamada
+
+6
+00:00:20,850 --> 00:00:21,519
+em outro servidor.
+
+7
+00:00:21,530 --> 00:00:24,039
+Ou seja, ela é um gancho pra alguma chamada.
+
+8
+00:00:24,048 --> 00:00:24,399
+Tá.
+
+9
+00:00:24,408 --> 00:00:26,079
+Então, assim são chamadas de web Hook.
+
+10
+00:00:26,089 --> 00:00:31,379
+Tá os ganchos da web? Então como funcionam eu
+
+11
+00:00:31,388 --> 00:00:33,439
+tenho que ter uma função de cobec baseado em h
+
+12
+00:00:33,450 --> 00:00:34,740
+t p, né? Quando você tem um web
+
+13
+00:00:34,750 --> 00:00:36,340
+hook, você tem que ter uma função de cobec
+
+14
+00:00:36,348 --> 00:00:39,279
+qualquer baseado no h t P quando fez eh ocorrer
+
+15
+00:00:39,289 --> 00:00:42,380
+a chamada daquele endereço, aquela Cobec acionou alguma ação
+
+16
+00:00:42,389 --> 00:00:45,319
+qualquer, né? Comunicação entre duas a p i
+
+17
+00:00:45,329 --> 00:00:47,520
+S É muito comum você colocar um web HK pra
+
+18
+00:00:47,529 --> 00:00:51,478
+poder fazer a comunicação entre dois, né? Porque
+
+19
+00:00:51,490 --> 00:00:53,679
+você tem um web e mandando informação pra outro.
+
+20
+00:00:54,079 --> 00:00:55,969
+Agora não é a única forma.
+
+21
+00:00:55,978 --> 00:00:59,929
+Eu posso também comunicar esses dois web através da mensageira,
+
+22
+00:00:59,939 --> 00:01:01,569
+que já seria um processo acro, que é bem
+
+23
+00:01:01,579 --> 00:01:06,180
+interessante, tá, eh chamada de a PS reversas
+
+24
+00:01:06,189 --> 00:01:08,760
+ou a p i de Tá, então o zb
+
+25
+00:01:08,769 --> 00:01:10,730
+Huck quando ele faz a chamada da outra a p
+
+26
+00:01:10,739 --> 00:01:13,028
+i, ele é muitas vezes chamado de a p
+
+27
+00:01:13,040 --> 00:01:14,888
+i reversa, né? A P i de S
+
+28
+00:01:14,900 --> 00:01:18,150
+A P i reversa E é oferecida por site como
+
+29
+00:01:18,159 --> 00:01:20,879
+hub, né? O hub tem muito disso porque
+
+30
+00:01:20,888 --> 00:01:24,930
+você tem, por exemplo, aquelas atualizações de EH
+
+31
+00:01:24,939 --> 00:01:28,329
+diversão, algo do tipo você tem lá? Ah,
+
+32
+00:01:28,338 --> 00:01:31,209
+aque aquele aviso praticamente em tempo real, né?
+
+33
+00:01:31,219 --> 00:01:34,528
+Então o h trabalha com esses Hulk, né?
+
+34
+00:01:34,540 --> 00:01:37,290
+Tem vários Hulk e também o tem o Hulk que
+
+35
+00:01:37,299 --> 00:01:41,808
+são oferecidos pela pelo Google em diversas dos serviços das
+
+36
+00:01:41,819 --> 00:01:46,638
+A P I S dele Tá bom como eu posso
+
+37
+00:01:46,650 --> 00:01:48,680
+demonstrar um web? Hook, né? Ah,
+
+38
+00:01:48,689 --> 00:01:52,239
+tem um pacote chamado no de Web Hook que já
+
+39
+00:01:52,250 --> 00:01:55,079
+é preparado pra lidar com esse tipo de programação?
+
+40
+00:01:55,088 --> 00:01:57,400
+Tá pra poder demonstrar isso aí? Eu tenho que
+
+41
+00:01:57,409 --> 00:02:00,359
+ter dois servidores rodando, né? Por quê?
+
+42
+00:02:00,370 --> 00:02:04,019
+Vou ter um servidor fazendo uma chamada em outro servidor,
+
+43
+00:02:04,028 --> 00:02:06,418
+decorrente de uma chamada que foi feita nele, né?
+
+44
+00:02:06,430 --> 00:02:08,599
+Por isso que ele é gancho, né? Então
+
+45
+00:02:08,610 --> 00:02:09,429
+eu tenho o express.
+
+46
+00:02:09,439 --> 00:02:12,000
+Eu vou precisar de servidores Express, Node, Web,
+
+47
+00:02:12,008 --> 00:02:15,439
+Hook e um aqui, só pra no caso.
+
+48
+00:02:15,449 --> 00:02:16,868
+Nem sei se vai precisar do aqui.
+
+49
+00:02:17,830 --> 00:02:22,300
+Ah, com dados igual um dois três Roots Barra,
+
+50
+00:02:22,308 --> 00:02:28,929
+hehe Jason Valores Dados Olha só isso aqui Pá está
+
+51
+00:02:28,939 --> 00:02:38,000
+aqui tem um aqui Ah, tá, eh eu
+
+52
+00:02:38,008 --> 00:02:41,558
+não vou chegar a usar essas rotas Não vou vou,
+
+53
+00:02:41,569 --> 00:02:44,288
+vou chegar a usar a rota, então olha só
+
+54
+00:02:44,300 --> 00:02:50,770
+eh uhum aqui eu tenho o meu servidor principal,
+
+55
+00:02:50,778 --> 00:02:54,368
+né? Ele tem umas rota aqui também E eu
+
+56
+00:02:54,379 --> 00:02:57,229
+tenho o quê? O Express Boy Jason e o
+
+57
+00:02:57,240 --> 00:03:01,649
+Cross de Ater pra evitar eh que ele pra conseguir
+
+58
+00:03:01,659 --> 00:03:04,969
+acessar de domínios diferentes e também usar o Jason e
+
+59
+00:03:04,979 --> 00:03:09,088
+use valores, né? Barra valores vai usar as
+
+60
+00:03:09,099 --> 00:03:12,558
+rotas e vai colocar esse cara na porta três mil.
+
+61
+00:03:12,569 --> 00:03:14,469
+Quando você coloca o Listen, ele não para que
+
+62
+00:03:14,479 --> 00:03:17,149
+ele continua executando ele é a sinc, né?
+
+63
+00:03:17,159 --> 00:03:20,669
+Aí eu vou criar um outro servidor BO PAR jason
+
+64
+00:03:20,679 --> 00:03:25,300
+um coral ater a PP dois post web Holt Inside
+
+65
+00:03:25,308 --> 00:03:28,319
+HK Esse é o servidor dois na porta oito mil
+
+66
+00:03:28,330 --> 00:03:31,819
+e cinco tá Então tem dois servidores e esse aqui
+
+67
+00:03:31,830 --> 00:03:33,020
+tem a rota valores.
+
+68
+00:03:33,028 --> 00:03:35,270
+Essa é a estrutura que tá sendo criada aqui Oh,
+
+69
+00:03:35,278 --> 00:03:43,610
+tá teria lá o servidor Ah, eh e eu
+
+70
+00:03:43,618 --> 00:03:46,588
+vou registrar meus Hulk, né? Então olha só
+
+71
+00:03:46,599 --> 00:03:50,080
+que que eu tenho na rota nessa Rota Valores na
+
+72
+00:03:50,088 --> 00:03:53,788
+rota Valores Eu tenho essa esse barra aqui é minha
+
+73
+00:03:53,800 --> 00:03:54,588
+rota.
+
+74
+00:03:54,599 --> 00:03:58,008
+Onde eu tenho o Jason Valores dados tá.
+
+75
+00:03:58,020 --> 00:04:00,210
+Ou seja esses valores dados aqui seriam Na verdade esses
+
+76
+00:04:00,219 --> 00:04:03,028
+dados aqui é o que eu tô fazendo nessa rota.
+
+77
+00:04:03,038 --> 00:04:06,710
+Eh quando eu dou got na base dela que que
+
+78
+00:04:06,719 --> 00:04:09,770
+eu tô fazendo retornando esse vetor com um dois três
+
+79
+00:04:09,778 --> 00:04:16,290
+tá eh hots ponto post barra hehe dado ponto post
+
+80
+00:04:16,298 --> 00:04:19,877
+body valor Então ele tá fazendo o quê e tá
+
+81
+00:04:19,889 --> 00:04:22,899
+colocando no vetor o novo valor cada vez que ele
+
+82
+00:04:22,910 --> 00:04:25,798
+colocar um novo valor eu vou criar um Hulk huk
+
+83
+00:04:26,509 --> 00:04:29,720
+Olha só no registro Hook o que eu falo aqui
+
+84
+00:04:29,730 --> 00:04:34,189
+Oh web Hook d b Cabe Hulk local Roxo Web
+
+85
+00:04:34,199 --> 00:04:39,548
+Hook Clint Então aqui eu coloco um vetor de servidores
+
+86
+00:04:39,559 --> 00:04:42,069
+que eu quero avisar na hora que tiver uma inserção
+
+87
+00:04:42,079 --> 00:04:45,470
+tá Então assim aqui eu vou chamar esses endereços aqui
+
+88
+00:04:45,480 --> 00:04:47,129
+que eu coloquei um poderia ser dez, vinte.
+
+89
+00:04:48,100 --> 00:04:50,829
+Esse é K back HK tá, Então ele vai
+
+90
+00:04:50,838 --> 00:04:51,129
+pegar.
+
+91
+00:04:51,139 --> 00:04:53,928
+Vai registrar os Hulk? Vai associar os servidores?
+
+92
+00:04:54,838 --> 00:04:57,170
+Vai da Trigger K Beck Hulk Cê nota que eu
+
+93
+00:04:57,178 --> 00:04:58,449
+poderia ter mais de uma trig.
+
+94
+00:04:58,459 --> 00:05:01,309
+Poderia ter lá vários conjuntos de servidores diferentes.
+
+95
+00:05:02,079 --> 00:05:06,600
+Vou mandar pra esses servidores aqui Oh a mensagem novo
+
+96
+00:05:06,608 --> 00:05:11,759
+valor com hack body valor, jason valores dados respondendo
+
+97
+00:05:11,769 --> 00:05:15,338
+no meu servidor então assim aqui eu tô fazendo no
+
+98
+00:05:15,350 --> 00:05:18,670
+meu servidor e aqui eu tô fazendo um hook pra
+
+99
+00:05:18,678 --> 00:05:23,059
+enviar pra outro servidor Tá? Eh quando esse cara
+
+100
+00:05:23,069 --> 00:05:25,439
+enviar pra esse Hulk aqui Oh é do CNT.
+
+101
+00:05:27,028 --> 00:05:30,639
+Ele vai passar por aqui e vai escrever no console
+
+102
+00:05:30,649 --> 00:05:34,660
+Hook Hack Boy e só um status duzentos tá mas
+
+103
+00:05:34,670 --> 00:05:39,439
+ele vai imprimir o H e o boy a outra
+
+104
+00:05:39,449 --> 00:05:41,379
+rota que eu tenho não só tem essa rota aqui
+
+105
+00:05:41,389 --> 00:05:46,759
+mesmo modo e modo post tá então o que eu
+
+106
+00:05:46,769 --> 00:05:49,759
+tenho aqui seria a rota Get Post na Poxa,
+
+107
+00:05:49,769 --> 00:05:53,540
+eu tô registrando os Hulk e aqui eu vou ativar
+
+108
+00:05:53,548 --> 00:05:58,689
+aquela cobec mandando a mensagem pra cada um deles tá?
+
+109
+00:05:58,699 --> 00:06:03,149
+Ah, o registro tá aqui oh, já vai
+
+110
+00:06:03,160 --> 00:06:08,678
+mandar automaticamente naquele modo tá e eu vou precisar de
+
+111
+00:06:08,689 --> 00:06:13,369
+dois serviços a PP um e o a PP dois
+
+112
+00:06:14,509 --> 00:06:20,119
+tá eh que tão eh mostrando ali né? Ah,
+
+113
+00:06:20,129 --> 00:06:25,790
+a execução deles tá então aqui você vai ver que
+
+114
+00:06:27,139 --> 00:06:29,028
+quando eu rodo a PP dois ele vai logar a
+
+115
+00:06:29,040 --> 00:06:33,028
+PP dois Quando eu rodar a PP um, né,
+
+116
+00:06:33,040 --> 00:06:38,129
+Ele vai logar ali no console a PP um E
+
+117
+00:06:38,139 --> 00:06:45,798
+aí eu vou mandar executar agora oh no Index a
+
+118
+00:06:45,809 --> 00:06:48,899
+PP um e a PP dois vou lá no bumerang,
+
+119
+00:06:48,910 --> 00:06:53,209
+pego lá valores no modo Guedes sente aí não vai
+
+120
+00:06:53,220 --> 00:06:56,389
+fazer nada aqui, oh, mas aí eu vou
+
+121
+00:06:56,399 --> 00:07:00,548
+fazer o que eu vou colocar um post E aí
+
+122
+00:07:00,559 --> 00:07:01,720
+eu vou colocar no body.
+
+123
+00:07:01,730 --> 00:07:07,040
+Ah, Jason, Se eu não me engano é
+
+124
+00:07:07,048 --> 00:07:20,319
+valor, mas eu vou confirmar valor cinco, né?
+
+125
+00:07:20,329 --> 00:07:23,199
+Quando o del Sand aqui oh, tem um novo
+
+126
+00:07:23,209 --> 00:07:27,778
+valor adicionado e inside Cobec.
+
+127
+00:07:27,790 --> 00:07:30,019
+Ou seja, ele passou pelos dois servidores, cada
+
+128
+00:07:30,028 --> 00:07:31,059
+um numa porta diferente.
+
+129
+00:07:31,069 --> 00:07:35,629
+É claro, né bom, eh Com isso,
+
+130
+00:07:36,738 --> 00:07:40,298
+a gente tem um uma demonstração de que seria um
+
+131
+00:07:40,309 --> 00:07:42,420
+web HK, né? Eh! Você tem várias
+
+132
+00:07:42,428 --> 00:07:44,769
+formas de implementar, Mas esse modo das trig do
+
+133
+00:07:44,778 --> 00:07:47,269
+próprio web Hulk é bem mais interessante do que se
+
+134
+00:07:47,278 --> 00:07:48,170
+fazer manualmente.
+

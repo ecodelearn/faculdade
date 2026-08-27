@@ -1,0 +1,684 @@
+1
+00:00:05,809 --> 00:00:07,379
+continua nessa nossa jornada.
+
+2
+00:00:07,389 --> 00:00:09,739
+A gente tem que tentar entender que, como é
+
+3
+00:00:09,750 --> 00:00:16,589
+importante a gente conscientizar toda organização, a sua família,
+
+4
+00:00:16,600 --> 00:00:19,000
+sobre a questão da segurança, da informação, Hoje
+
+5
+00:00:19,010 --> 00:00:22,019
+a gente está falando de dados de todo mundo acessando
+
+6
+00:00:22,030 --> 00:00:26,519
+internet, acessando redes sociais o dia inteiro.
+
+7
+00:00:26,530 --> 00:00:30,039
+Então, eu tenho essa consciência que a segurança dos
+
+8
+00:00:30,048 --> 00:00:33,168
+seus dados, a segurança da informação é parte fundamental
+
+9
+00:00:33,179 --> 00:00:36,000
+da sua vida, tanto corporativa como o pessoal.
+
+10
+00:00:36,009 --> 00:00:38,039
+É fundamental? Tá, porque quando a gente tá
+
+11
+00:00:38,048 --> 00:00:41,039
+falando de de segurança, de você, está falando
+
+12
+00:00:41,048 --> 00:00:43,840
+de segurança dos seus cartões de crédito, das suas
+
+13
+00:00:43,848 --> 00:00:46,359
+senhas pessoais, da segurança.
+
+14
+00:00:46,368 --> 00:00:49,200
+Se você tiver filho, seus filhos acessam a internet,
+
+15
+00:00:49,209 --> 00:00:54,918
+então você precisa ter consciência de como a segurança desses
+
+16
+00:00:54,929 --> 00:00:58,020
+dados, a segurança da informação é importante pra você,
+
+17
+00:00:58,029 --> 00:00:59,759
+dentro ou fora da empresa.
+
+18
+00:00:59,770 --> 00:01:03,560
+Uma das principais táticas de proteção e segurança da informação
+
+19
+00:01:03,569 --> 00:01:08,109
+é o trabalho de conscientização sobre ela noâmbito pessoal
+
+20
+00:01:08,120 --> 00:01:09,730
+ou no ambiente corporativo.
+
+21
+00:01:09,739 --> 00:01:13,189
+Essa conscientização envolve a educação e a promoção de boas
+
+22
+00:01:13,198 --> 00:01:17,028
+práticas de segurança para indivíduos e organização, visando criar
+
+23
+00:01:17,040 --> 00:01:18,969
+uma cultura de segurança.
+
+24
+00:01:18,980 --> 00:01:22,189
+Essa palavra que a cultura de segurança é muito importante,
+
+25
+00:01:22,198 --> 00:01:24,569
+às vezes a gente quer transferir, ou seja,
+
+26
+00:01:24,668 --> 00:01:29,079
+terceirizar essa questão da segurança para a equipe, né?
+
+27
+00:01:29,088 --> 00:01:31,400
+Para as outras equipes, para a equipe de a
+
+28
+00:01:31,409 --> 00:01:34,719
+própria equipe de segurança ou para o próprio sistema,
+
+29
+00:01:34,730 --> 00:01:37,918
+enfim, gente, a questão da segurança é ela,
+
+30
+00:01:37,930 --> 00:01:40,719
+vem, ela é, ela é transversal, ela
+
+31
+00:01:40,730 --> 00:01:44,099
+embarca toda a empresa, ela embarca toda a sua
+
+32
+00:01:44,109 --> 00:01:44,599
+vida.
+
+33
+00:01:44,609 --> 00:01:46,620
+Nós precisamos ter uma cultura de segurança.
+
+34
+00:01:46,629 --> 00:01:48,959
+Hoje em dia você precisa entender que a segurança dos
+
+35
+00:01:48,969 --> 00:01:51,308
+seus dados primeiramente depende de você.
+
+36
+00:01:51,319 --> 00:01:53,599
+A segurança da sua empresa depende dos nossos, das
+
+37
+00:01:53,609 --> 00:01:55,138
+nossas ações no dia-a-dia.
+
+38
+00:01:55,150 --> 00:01:58,219
+Então, a gente precisa entender que noâmbito pessoal
+
+39
+00:01:58,230 --> 00:02:05,000
+ou noâmbito aqui oh corporativo você é fundamental para
+
+40
+00:02:05,010 --> 00:02:07,519
+a segurança de tudo, de toda a informação que
+
+41
+00:02:07,528 --> 00:02:08,319
+passa na sua vida.
+
+42
+00:02:08,330 --> 00:02:11,099
+Tá bom? Eh E aí.
+
+43
+00:02:11,599 --> 00:02:14,069
+Quando a gente fala emâmbito nacional amplo, pessoal.
+
+44
+00:02:14,080 --> 00:02:17,360
+Primeira Primeira Dica Simples essa questão de senha? Olha
+
+45
+00:02:17,368 --> 00:02:20,330
+aqui, senha? Vamos ler aqui o primeiro passo
+
+46
+00:02:20,338 --> 00:02:23,129
+que todos devem dar em direçãoà segurança.
+
+47
+00:02:23,139 --> 00:02:27,569
+É o mais simples, melhores e mais complexas senhas,
+
+48
+00:02:27,580 --> 00:02:31,710
+senhas fortes que contenha variações de caracteres com maiúsculas e
+
+49
+00:02:31,719 --> 00:02:35,330
+minúsculas, letras e números, caracteres especiais, senhas
+
+50
+00:02:35,338 --> 00:02:37,569
+únicas para cada tipo de acesso e, claro,
+
+51
+00:02:37,580 --> 00:02:40,889
+evitar senhas óbvias, como datas de aniversário ou coisa
+
+52
+00:02:40,899 --> 00:02:41,389
+do gênero.
+
+53
+00:02:41,778 --> 00:02:45,490
+Vocês preci Nós precisamos entender que senha eh eh sabe
+
+54
+00:02:45,500 --> 00:02:48,288
+quando aqueles o sistema nos pedem pra ter uma ai?
+
+55
+00:02:48,300 --> 00:02:50,429
+Ai, olha só você precisa de oito caracteres,
+
+56
+00:02:50,439 --> 00:02:54,270
+sendo que carácter especial eh letras, números especiais Aí
+
+57
+00:02:54,278 --> 00:02:56,830
+você acha ruim nossa Que sistema chato puxa, eu
+
+58
+00:02:56,838 --> 00:02:58,550
+só queria criar uma senha, mas isso é pra
+
+59
+00:02:58,558 --> 00:02:59,569
+sua proteção.
+
+60
+00:02:59,580 --> 00:03:03,349
+Precisamos de ter senhas fortes porque, como eu falei
+
+61
+00:03:03,360 --> 00:03:06,909
+na no na aula anterior, nós te existem pessoas
+
+62
+00:03:06,919 --> 00:03:10,368
+que trabalham somente para tentar corromper a sua senha.
+
+63
+00:03:10,379 --> 00:03:12,750
+E quando você usa uma senha simples, sei lá
+
+64
+00:03:12,758 --> 00:03:15,588
+vamos por aqui! Eh! Tem muita gente que
+
+65
+00:03:15,599 --> 00:03:17,750
+escreve aqui, oh, senha, Já vi isso
+
+66
+00:03:17,758 --> 00:03:19,990
+muitas vezes um, dois, três essa senha,
+
+67
+00:03:20,000 --> 00:03:22,689
+que geralmente é uma senha padrão que o pessoal coloca
+
+68
+00:03:22,699 --> 00:03:23,788
+na na.
+
+69
+00:03:23,800 --> 00:03:27,149
+Quando você cria seu e-mail e você deixa essa senha
+
+70
+00:03:27,159 --> 00:03:28,949
+o resto da sua vida dentro da corporação, não
+
+71
+00:03:28,960 --> 00:03:29,588
+faça isso.
+
+72
+00:03:29,599 --> 00:03:33,080
+A gente tem que entender que a senha faz parte
+
+73
+00:03:33,088 --> 00:03:35,129
+da sua segurança como um todo.
+
+74
+00:03:35,139 --> 00:03:37,409
+Você não fica preocupado,às vezes, quando eh
+
+75
+00:03:37,419 --> 00:03:40,629
+perde o celular ou esqueci a chave do carro Que
+
+76
+00:03:40,639 --> 00:03:41,909
+que eu A chave do carro em algum lugar?
+
+77
+00:03:41,919 --> 00:03:42,750
+O que que eu vou fazer nossa.
+
+78
+00:03:42,758 --> 00:03:45,308
+Vamos roubar o meu carro, a sua, a
+
+79
+00:03:45,319 --> 00:03:48,189
+chave da do da O, A chave do cofre,
+
+80
+00:03:48,199 --> 00:03:51,330
+de todas as suas informações que estão na grande rede
+
+81
+00:03:51,338 --> 00:03:52,439
+é a sua senha.
+
+82
+00:03:52,449 --> 00:03:54,649
+Então, quando a gente tá falando em amplo pessoal,
+
+83
+00:03:54,659 --> 00:03:59,210
+proteger os a as suas informações é fundamental com senhas
+
+84
+00:03:59,219 --> 00:04:00,169
+complexas.
+
+85
+00:04:00,258 --> 00:04:04,849
+Gente precisa colocar caracteres especiais, letras maiúsculas minúsculas.
+
+86
+00:04:04,860 --> 00:04:08,300
+Por favor, não coloque a sua data de nascimento
+
+87
+00:04:08,308 --> 00:04:09,308
+como senha.
+
+88
+00:04:09,319 --> 00:04:10,949
+Isso é a primeira é a primeira eh, eh
+
+89
+00:04:10,960 --> 00:04:16,028
+talvez, com certeza, é a primeira porta onde
+
+90
+00:04:16,040 --> 00:04:19,588
+as pessoas tentam acessar a sua vida.
+
+91
+00:04:19,600 --> 00:04:23,470
+Senha de senha de de cartão de crédito Não são
+
+92
+00:04:23,480 --> 00:04:26,629
+senhas diferentes de datas de nascimento, mas eu vou
+
+93
+00:04:26,639 --> 00:04:28,250
+colocar a data de nascimento do meu filho.
+
+94
+00:04:28,259 --> 00:04:31,069
+É fraco a data do nascimento da minha avó,
+
+95
+00:04:31,079 --> 00:04:32,750
+do dos meus pais.
+
+96
+00:04:32,759 --> 00:04:33,869
+Tudo isso é fraco.
+
+97
+00:04:33,879 --> 00:04:36,949
+Vocês precisam entender que essa questão tá cada vez mais
+
+98
+00:04:36,959 --> 00:04:38,189
+complexa e certifica.
+
+99
+00:04:38,199 --> 00:04:43,069
+Sofi Soda A cada dia é difícil gente todo dia
+
+100
+00:04:43,079 --> 00:04:48,528
+e existem ferramentas e pessoas trabalhando pra entender como corromper
+
+101
+00:04:48,540 --> 00:04:51,189
+qualquer sistema, como invadir o seu sistema? Isso
+
+102
+00:04:51,199 --> 00:04:52,488
+é muito complexo, Tá.
+
+103
+00:04:53,420 --> 00:04:56,069
+E quando a gente tá falando em ambiente corporativo,
+
+104
+00:04:56,079 --> 00:04:56,548
+amplia.
+
+105
+00:04:56,559 --> 00:04:59,569
+Ainda mais porque você tá falando Você saiu do seu,
+
+106
+00:04:59,579 --> 00:05:01,428
+né do seu habitat ali pessoal.
+
+107
+00:05:01,439 --> 00:05:03,790
+E aí você tá trabalhando numa organização e sua organização
+
+108
+00:05:03,798 --> 00:05:06,769
+precisa que você se adequeàs normas.
+
+109
+00:05:06,778 --> 00:05:10,470
+Já no ambiente corporativo, esta responsabilidade quanto ao conhecimento
+
+110
+00:05:10,480 --> 00:05:13,129
+da segurança cabeà própria empresa.
+
+111
+00:05:13,139 --> 00:05:16,889
+É necessário que a empresa faça treinamentos de funcionários regular
+
+112
+00:05:16,963 --> 00:05:20,673
+sobre boas práticas de segurança, incluindo, como reconhecer
+
+113
+00:05:20,684 --> 00:05:24,014
+como ameaças com Fischer e como agir em casos de
+
+114
+00:05:24,024 --> 00:05:24,673
+incidentes.
+
+115
+00:05:24,684 --> 00:05:29,535
+Empresa deve estar bem estabelecida, políticas de segurança deve
+
+116
+00:05:29,545 --> 00:05:32,375
+ter bem estabelecida políticas de segurança de dados.
+
+117
+00:05:32,384 --> 00:05:35,454
+Essas devem ser claras e comunicadas a todos os funcionários,
+
+118
+00:05:35,463 --> 00:05:39,254
+definindo as responsabilidades e consequências para o não cumprimento das
+
+119
+00:05:39,264 --> 00:05:39,514
+mesas.
+
+120
+00:05:39,524 --> 00:05:42,389
+Ou seja, primeiro quando a gente fala de ambiente
+
+121
+00:05:42,399 --> 00:05:43,069
+corporativo.
+
+122
+00:05:43,079 --> 00:05:46,519
+A responsabilidade tá da segurança? É, sim,
+
+123
+00:05:46,528 --> 00:05:47,629
+da própria empresa.
+
+124
+00:05:47,639 --> 00:05:49,809
+Tá a empresa, ela tem que eh, eh
+
+125
+00:05:49,819 --> 00:05:52,428
+habilitar os funcionários através de treinamentos.
+
+126
+00:05:52,439 --> 00:05:56,850
+Tá regulares, regulares, regulares, tá regulares?
+
+127
+00:05:56,858 --> 00:06:01,170
+Vamos que por baixo, regulares, regulares.
+
+128
+00:06:01,959 --> 00:06:04,889
+Eh sobre o que sobre as práticas de segurança tá
+
+129
+00:06:04,899 --> 00:06:05,119
+bom.
+
+130
+00:06:05,129 --> 00:06:06,528
+E aí que que a gente, que que e
+
+131
+00:06:06,540 --> 00:06:10,129
+e essa, e criar políticas de segurança e essas
+
+132
+00:06:10,139 --> 00:06:14,088
+políticas de segurança precisam ser claras, tá e comunicadas
+
+133
+00:06:14,100 --> 00:06:16,809
+a todos os funcionários! Tá e Aí a gente
+
+134
+00:06:16,819 --> 00:06:19,769
+tem que entender quais são as responsabilidades quando a gente
+
+135
+00:06:19,778 --> 00:06:21,649
+não cumpra, né? Que a gente não a
+
+136
+00:06:21,660 --> 00:06:24,850
+gente venha a falhar com algumas dessas normas, que
+
+137
+00:06:24,858 --> 00:06:27,009
+geralmente a gente até assina, né, Essas políticas
+
+138
+00:06:27,019 --> 00:06:29,119
+de segurança, quando você entra na empresa ou quando
+
+139
+00:06:29,129 --> 00:06:31,309
+ela é aplicada na empresa, você tem um treinamento.
+
+140
+00:06:31,399 --> 00:06:34,428
+Você reconhece aquela política de segurança e você assina eh
+
+141
+00:06:34,439 --> 00:06:36,449
+entendendo aquela política de segurança.
+
+142
+00:06:36,459 --> 00:06:37,459
+O último texto aqui oh.
+
+143
+00:06:37,470 --> 00:06:41,559
+Vale ressaltar que que a conscientização de segurança da informação
+
+144
+00:06:41,569 --> 00:06:45,649
+não é um evento único, mas um processo contínuo.
+
+145
+00:06:45,660 --> 00:06:49,250
+Processo contínuo Você vai sempre estar ouvindo, estudando sobre
+
+146
+00:06:49,259 --> 00:06:49,548
+isso.
+
+147
+00:06:49,928 --> 00:06:53,220
+Ela ajuda a reduzir o risco de violações de segurança,
+
+148
+00:06:53,230 --> 00:06:57,259
+protege informações confidenciais e contribui para a construção de uma
+
+149
+00:06:57,269 --> 00:07:01,660
+cultura organizacional de segurança, Cultura e cultura.
+
+150
+00:07:01,670 --> 00:07:03,298
+Não muda de um dia pro outro.
+
+151
+00:07:03,309 --> 00:07:06,588
+Por isso que a gente precisa de um trabalho contínuo.
+
+152
+00:07:06,600 --> 00:07:09,939
+Tá tanto noâmbito pessoal quanto noâmbito corporativo,
+
+153
+00:07:09,949 --> 00:07:13,579
+a educação e a conscientização desempenham um papel crucial na
+
+154
+00:07:13,588 --> 00:07:16,040
+prevenção das ameaças cibernéticas.
+
+155
+00:07:16,048 --> 00:07:20,358
+Ou seja ou seja, a gente precisa entender que
+
+156
+00:07:20,369 --> 00:07:23,879
+a segurança da informação é algo contínuo, tanto na
+
+157
+00:07:23,889 --> 00:07:27,278
+vida pessoal como na, na, na vida corporativa.
+
+158
+00:07:27,290 --> 00:07:29,519
+Tá, porque é uma cultura, a gente precisa
+
+159
+00:07:29,528 --> 00:07:30,119
+aprender.
+
+160
+00:07:30,129 --> 00:07:31,519
+É algo novo ainda, né? Quando a gente
+
+161
+00:07:31,528 --> 00:07:34,639
+fala de de, nesse ambiente da internet, esse
+
+162
+00:07:34,649 --> 00:07:37,569
+ambiente que hoje nós estamos todos envolvidos a cada dia,
+
+163
+00:07:37,579 --> 00:07:38,600
+é um ambiente novo.
+
+164
+00:07:38,608 --> 00:07:41,588
+Então, entender essa cultura, a importância de proteger
+
+165
+00:07:41,600 --> 00:07:45,730
+seus dados, tanto pessoais como os dados da empresa,
+
+166
+00:07:45,738 --> 00:07:48,389
+tem que ser trabalhado todo dia todo dia e desde
+
+167
+00:07:48,399 --> 00:07:54,149
+a infância, até até a maior.
+
+168
+00:07:54,160 --> 00:07:56,108
+Quando a gente tá bem mais velhinho, a gente
+
+169
+00:07:56,119 --> 00:07:59,569
+precisa entender como é importante proteger os nossos dados.
+
+170
+00:07:59,798 --> 00:08:04,500
+Muito obrigado pela pela participação de todos e até a
+
+171
+00:08:04,509 --> 00:08:05,108
+próxima aula.
+

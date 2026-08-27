@@ -1,0 +1,816 @@
+1
+00:00:06,780 --> 00:00:11,148
+Olá, vamos continuar o nosso aprendizado sobre a gestão
+
+2
+00:00:11,159 --> 00:00:15,349
+de processos, né? Neste capítulo, agora nessa
+
+3
+00:00:15,359 --> 00:00:18,068
+aula, nós vamos ver a importância da governança da
+
+4
+00:00:18,079 --> 00:00:19,609
+governança de processo.
+
+5
+00:00:19,620 --> 00:00:21,750
+E, antes, de mais nada, a gente
+
+6
+00:00:21,760 --> 00:00:24,750
+precisa caracterizar que a governança.
+
+7
+00:00:24,760 --> 00:00:29,429
+Ela pressupõe a perspectiva de direção e de controle,
+
+8
+00:00:29,440 --> 00:00:33,548
+Ou seja, eu estou trabalhando numa perspectiva de garantir
+
+9
+00:00:33,560 --> 00:00:37,509
+que as minhas ações sejam dirigidas e sejam controladas na
+
+10
+00:00:37,520 --> 00:00:39,889
+perspectiva organizacional.
+
+11
+00:00:39,984 --> 00:00:45,935
+Isso garante que eu tenha um andamento e uma disposição,
+
+12
+00:00:45,944 --> 00:00:50,325
+dentro da minha instituição de que eu tenho processos que
+
+13
+00:00:50,334 --> 00:00:54,395
+garantam que ela vai atender aos requisitos pra qual ela
+
+14
+00:00:54,404 --> 00:00:57,514
+foi constituída, dentro das suas estratégias, dentro das
+
+15
+00:00:57,524 --> 00:00:58,554
+suas perspectivas.
+
+16
+00:00:58,564 --> 00:01:01,395
+Okay Então, a gente vai trabalhar essa perspectiva da
+
+17
+00:01:01,404 --> 00:01:04,355
+governança e entendendo, também que a governança não é
+
+18
+00:01:04,364 --> 00:01:09,680
+só a governança voltada a uma área.
+
+19
+00:01:09,689 --> 00:01:12,379
+Na verdade, ela se aplica a várias outras áreas.
+
+20
+00:01:12,388 --> 00:01:13,338
+Nós temos governança.
+
+21
+00:01:13,349 --> 00:01:18,180
+Por exemplo, a corporativa Nós temos governança ambiental,
+
+22
+00:01:18,189 --> 00:01:20,838
+né? Nós temos diversos tipos de governança, cujo
+
+23
+00:01:20,849 --> 00:01:24,019
+foco e a estrutura e o objetivo é sempre o
+
+24
+00:01:24,028 --> 00:01:26,278
+mesmo, né? É a direção E é o
+
+25
+00:01:26,290 --> 00:01:27,540
+controle okay.
+
+26
+00:01:27,549 --> 00:01:30,769
+Nós vamos ver alguns pensadores o que eles falam sobre
+
+27
+00:01:30,778 --> 00:01:34,138
+governança, pra gente contextualizar melhor esse assunto.
+
+28
+00:01:34,150 --> 00:01:37,573
+né? Então, eh a governança, conforme Burton.
+
+29
+00:01:37,584 --> 00:01:40,094
+Ele diz que é a governança de processos.
+
+30
+00:01:40,105 --> 00:01:41,534
+E aí a gente já vai falar de processos,
+
+31
+00:01:41,543 --> 00:01:42,375
+né? Porque eu já falei que a gente tem
+
+32
+00:01:42,385 --> 00:01:46,933
+governança corporativa, Temos governança eh ambiental, temos governança
+
+33
+00:01:46,944 --> 00:01:49,094
+pública, temos governança de t I, que é
+
+34
+00:01:49,105 --> 00:01:51,694
+bem famosa aí pra pessoal da da área de t
+
+35
+00:01:51,704 --> 00:01:52,213
+i né.
+
+36
+00:01:52,224 --> 00:01:54,513
+Que é por meio do né.
+
+37
+00:01:55,159 --> 00:02:00,120
+Nós temos eh a essa perspectiva de governança de processos
+
+38
+00:02:00,129 --> 00:02:03,909
+como um ato de estabelecer a clareza de orientação,
+
+39
+00:02:03,918 --> 00:02:08,770
+responsabilidade e mecanismo de monitoramento e controle dos processos de
+
+40
+00:02:08,778 --> 00:02:09,149
+negócio.
+
+41
+00:02:09,159 --> 00:02:12,569
+Olha, só como conforme eu já falei, agora
+
+42
+00:02:12,580 --> 00:02:14,899
+da questão da governança da direção e controle.
+
+43
+00:02:14,909 --> 00:02:19,389
+Então, eh, no processo estabelecer clareza, né?
+
+44
+00:02:19,399 --> 00:02:22,649
+O que eu estou entendendo daquele processo, de forma
+
+45
+00:02:22,659 --> 00:02:26,038
+que ele fique, eh eh de forma que ele
+
+46
+00:02:26,050 --> 00:02:29,419
+possa ser assimilado por todos de forma sem eh,
+
+47
+00:02:29,429 --> 00:02:32,258
+sem haver nenhum tipo de redundância, sem haver nenhum
+
+48
+00:02:32,270 --> 00:02:36,139
+tipo de ah duplo sentido, enfim, pelo próprio
+
+49
+00:02:36,149 --> 00:02:38,960
+sentido de ser e de se expressar, né?
+
+50
+00:02:38,969 --> 00:02:43,479
+Eh quantoà sua orientação eh na responsabilidade.
+
+51
+00:02:43,490 --> 00:02:46,058
+Ou seja, ah, quem faz o quê?
+
+52
+00:02:46,069 --> 00:02:49,219
+Como é feito quando é feito, né? Na
+
+53
+00:02:49,229 --> 00:02:53,625
+verdade a responsabilidade ela tá relacionada a quem está fazendo
+
+54
+00:02:53,633 --> 00:02:55,004
+aquele processo, né? Mas, quando a gente
+
+55
+00:02:55,014 --> 00:02:56,524
+fala de processo, a gente sempre tá falando O
+
+56
+00:02:56,534 --> 00:02:58,764
+que que eu tô eh? Eh, eh gerindo.
+
+57
+00:02:58,774 --> 00:03:00,804
+Que processo! Eu tô gerindo como eu estou gerindo
+
+58
+00:03:00,814 --> 00:03:02,205
+quem está gerindo, né? A gente já falou
+
+59
+00:03:02,213 --> 00:03:05,383
+isso um pouquinho antes e também mecanismo de monitoramento e
+
+60
+00:03:05,395 --> 00:03:05,844
+controle.
+
+61
+00:03:05,854 --> 00:03:07,205
+Se eu não tenho um monitoramento, se eu não
+
+62
+00:03:07,213 --> 00:03:08,883
+tenho controle, a gente já viu que eh,
+
+63
+00:03:08,895 --> 00:03:11,444
+eh a gente pode, vamos dizer No jargão das
+
+64
+00:03:11,455 --> 00:03:13,383
+palavras, a gente pode desandar no meio do caminho,
+
+65
+00:03:13,395 --> 00:03:16,993
+o que não é agradável para a organização que pressupõe
+
+66
+00:03:17,004 --> 00:03:18,604
+a a gestão de processo.
+
+67
+00:03:18,615 --> 00:03:21,699
+Tá o outro pensador que é o Harmon.
+
+68
+00:03:21,710 --> 00:03:24,399
+Ele fala também em governança de processo, envolve o
+
+69
+00:03:24,409 --> 00:03:28,699
+estabelecimento de uma estrutura de responsabilidade para assegurar que os
+
+70
+00:03:28,710 --> 00:03:33,460
+processos da empresa seja um eficiente, eficaz e alinhado
+
+71
+00:03:33,469 --> 00:03:34,490
+à estratégia de organização.
+
+72
+00:03:34,500 --> 00:03:36,330
+Veja que esse o harmon.
+
+73
+00:03:36,338 --> 00:03:40,569
+Já ele ele reforça a a estrutura do Burton em
+
+74
+00:03:40,580 --> 00:03:43,368
+que ele fala da questão da responsabilidade a orientação de
+
+75
+00:03:43,379 --> 00:03:48,330
+responsabilidade e acrescenta, né? Algumas perspectivas inerentes a
+
+76
+00:03:48,338 --> 00:03:51,008
+processos que também já já já comentamos que a questão
+
+77
+00:03:51,020 --> 00:03:54,250
+da eficiência e da eficácia, bem como o alinhamento
+
+78
+00:03:54,258 --> 00:03:56,189
+a estratégia empresarial.
+
+79
+00:03:56,199 --> 00:03:58,649
+A gente já observou que os nossos processos tem que
+
+80
+00:03:58,659 --> 00:04:03,264
+garantir que a a estratégia eh ela esteja dentro do
+
+81
+00:04:03,274 --> 00:04:08,294
+contexto em que possa realizar e entregar os resultados organizacionais.
+
+82
+00:04:08,304 --> 00:04:10,683
+E por fim o Davin Port, né que é
+
+83
+00:04:10,694 --> 00:04:12,274
+um outro pensador bem importante.
+
+84
+00:04:12,284 --> 00:04:15,433
+Fala de governança de processo, um conjunto coordenado de
+
+85
+00:04:15,444 --> 00:04:20,314
+políticas práticas e métricas para monitorar e melhorar eficiência e
+
+86
+00:04:20,324 --> 00:04:20,814
+eficácia.
+
+87
+00:04:20,824 --> 00:04:24,613
+Observe que o Davin Port também reforça a ideia,
+
+88
+00:04:24,928 --> 00:04:30,009
+eh de monitoramento, de melhoria e a questão da
+
+89
+00:04:30,019 --> 00:04:32,459
+da, da, do, desse conjunto de políticas
+
+90
+00:04:32,470 --> 00:04:35,639
+que ele coloca como práticas e eh, eh,
+
+91
+00:04:35,649 --> 00:04:38,879
+bem como as métricas, né, políticas, práticas
+
+92
+00:04:38,889 --> 00:04:40,980
+e métricas para monitorar e melhorar.
+
+93
+00:04:40,988 --> 00:04:46,920
+Então esses conceitos eles abordam uma perspectiva muito interna muito
+
+94
+00:04:46,928 --> 00:04:50,000
+direta do que se pressupõe uma governança de processo,
+
+95
+00:04:50,009 --> 00:04:51,759
+né? Uma governança em si, mas sim,
+
+96
+00:04:51,769 --> 00:04:55,899
+uma governança de processos que implica justamente em garantir que
+
+97
+00:04:55,910 --> 00:04:59,358
+aquilo que eu defini por meio das minhas políticas,
+
+98
+00:04:59,369 --> 00:05:03,100
+por meio da minha estratégia institucional, possa ser praticada,
+
+99
+00:05:03,108 --> 00:05:06,302
+possa ter uma meta pra que eu possa monitorar.
+
+100
+00:05:06,312 --> 00:05:11,302
+Controlar o foco final é garantir eficiência e eficácia dentro
+
+101
+00:05:11,312 --> 00:05:13,781
+dos meus processos, né? Agilidade dos meus processos
+
+102
+00:05:13,791 --> 00:05:17,502
+e garantindo a entrega tempestiva e agregando valor ao meu
+
+103
+00:05:17,512 --> 00:05:18,062
+cliente.
+
+104
+00:05:18,072 --> 00:05:21,101
+Esse é o que pressupõe essa perspectiva da governança de
+
+105
+00:05:21,112 --> 00:05:23,762
+processo em si, né? Então bem, eh
+
+106
+00:05:23,773 --> 00:05:27,685
+pontual! Esse nosso eh! Eh nosso! Essa
+
+107
+00:05:27,696 --> 00:05:31,286
+nossa interação tá Agora, Quando a gente fala da
+
+108
+00:05:31,295 --> 00:05:36,446
+aplicação dessa governança, ela implica em algumas perspectivas quais
+
+109
+00:05:36,454 --> 00:05:37,985
+sejam, né? Porque a gente já falou e
+
+110
+00:05:37,995 --> 00:05:41,786
+vai agora, pra gente finalizar esse entendimento é a
+
+111
+00:05:41,795 --> 00:05:45,565
+primeira tomada de decisão estruturada de como esse processo funciona.
+
+112
+00:05:45,574 --> 00:05:47,966
+A relação de entrega de valor para o cliente,
+
+113
+00:05:47,975 --> 00:05:52,319
+Ou seja, eh quando eu pressuponho um processo,
+
+114
+00:05:52,329 --> 00:05:57,579
+eu estou garantindo, eu busco garantir que a governança
+
+115
+00:05:57,588 --> 00:06:01,480
+né, em cima deste processo, possa melhorar,
+
+116
+00:06:01,488 --> 00:06:07,319
+facilitar, possa viabilizar a minha tomada de decisão estruturada
+
+117
+00:06:07,329 --> 00:06:09,600
+na na, no sentido de que ela tenha um
+
+118
+00:06:09,608 --> 00:06:10,319
+contexto.
+
+119
+00:06:10,329 --> 00:06:12,379
+Ela tem um um um pressuposto.
+
+120
+00:06:12,389 --> 00:06:14,759
+Ela tem uma razão de ser, né? E
+
+121
+00:06:14,769 --> 00:06:17,920
+a questão da entrega, justamente de valor ao meu
+
+122
+00:06:17,928 --> 00:06:20,798
+cliente, por meio do meu processo, do funcionamento,
+
+123
+00:06:20,809 --> 00:06:24,540
+do meu processo, né? Uma outra questão essa
+
+124
+00:06:24,548 --> 00:06:27,600
+que é essa abordagem estruturada de desse controle, de
+
+125
+00:06:27,608 --> 00:06:30,678
+mudanças, né? Trabalhem pra entregar valor ao meu
+
+126
+00:06:30,689 --> 00:06:31,009
+cliente.
+
+127
+00:06:31,019 --> 00:06:34,980
+Então a gente volta a aàquele pressuposto básico que
+
+128
+00:06:34,988 --> 00:06:37,399
+a gente vem falando dentro da gestão de de processo,
+
+129
+00:06:37,410 --> 00:06:39,500
+que é a entrega de valor ao cliente, ou
+
+130
+00:06:39,509 --> 00:06:42,500
+seja, o o o aquela entrada que eu tenho
+
+131
+00:06:42,509 --> 00:06:46,819
+daqueles insumos que são transformados, né? Que eles
+
+132
+00:06:46,829 --> 00:06:50,084
+são eh e nessa transformação, eu já agrego o
+
+133
+00:06:50,096 --> 00:06:51,005
+valor a ela.
+
+134
+00:06:51,014 --> 00:06:54,125
+Já agrego o valor a ela e aí esse essa
+
+135
+00:06:54,134 --> 00:06:57,615
+agregação de valor vai entregar o valor para o meu
+
+136
+00:06:57,625 --> 00:07:00,846
+cliente, né? Agregar o valor é o que
+
+137
+00:07:00,855 --> 00:07:01,324
+faz.
+
+138
+00:07:01,334 --> 00:07:04,884
+É o diferencial organizacional, é o que vai manter
+
+139
+00:07:04,894 --> 00:07:06,125
+as empresas no topo.
+
+140
+00:07:06,134 --> 00:07:08,276
+É o que vai manter as empresas na vanguarda.
+
+141
+00:07:08,286 --> 00:07:10,605
+É o que vai encantar o cliente.
+
+142
+00:07:10,615 --> 00:07:13,005
+É o que vai fazer com que ele retorne pra
+
+143
+00:07:13,014 --> 00:07:14,665
+minha organização.
+
+144
+00:07:14,675 --> 00:07:17,690
+Que ele volte a fazer fazer negócios comigo, né?
+
+145
+00:07:17,701 --> 00:07:23,230
+Dentro desse dessa, dessa perspectiva de governança, a
+
+146
+00:07:23,242 --> 00:07:26,951
+importância dela pode ser traduzida nesse quadro, que a
+
+147
+00:07:26,961 --> 00:07:30,312
+gente vai observar agora né, Em que ele envolve
+
+148
+00:07:30,321 --> 00:07:32,661
+aspectos a importância benefício.
+
+149
+00:07:32,670 --> 00:07:37,031
+Então, quais são os aspectos relacionadosà governança dos
+
+150
+00:07:37,040 --> 00:07:40,190
+processos? Primeiro o alinhamento estratégico, né, garantindo
+
+151
+00:07:40,201 --> 00:07:44,858
+que os objetivos e metas das organizações estejam alinhados,
+
+152
+00:07:44,869 --> 00:07:46,959
+né? Ou seja eu tenho foco no no no,
+
+153
+00:07:46,970 --> 00:07:48,350
+no objetivo, nas me.
+
+154
+00:07:48,358 --> 00:07:50,160
+E tem maior chance de alcançar.
+
+155
+00:07:50,170 --> 00:07:53,678
+A partir do momento que eu tenho esse estreitamento dessa
+
+156
+00:07:53,689 --> 00:07:56,600
+direção da onde eu quero chegar a eficiência operacional,
+
+157
+00:07:56,608 --> 00:07:58,838
+ou seja, a padronização e e e de e
+
+158
+00:07:58,850 --> 00:08:00,040
+otimização desses processos.
+
+159
+00:08:00,048 --> 00:08:02,600
+O que me levaà redução de custos, o
+
+160
+00:08:02,608 --> 00:08:05,238
+controle e conformidade, ou seja, eh eu,
+
+161
+00:08:05,250 --> 00:08:08,204
+tenho conformidade com aquilo, eh com o processo,
+
+162
+00:08:08,213 --> 00:08:09,524
+garantindo qualidade dele.
+
+163
+00:08:09,535 --> 00:08:13,524
+Eu tenho conformidade com eh le, leis e regulamentos,
+
+164
+00:08:13,535 --> 00:08:15,363
+regulamentos até da própria área, né? Se você
+
+165
+00:08:15,375 --> 00:08:18,884
+vai, por exemplo, eh produzir um carro.
+
+166
+00:08:18,894 --> 00:08:22,165
+Se você vai produzir um relógio, isso tem,
+
+167
+00:08:22,173 --> 00:08:25,144
+eh, eh, eh regulamentos que garantam, né?
+
+168
+00:08:25,153 --> 00:08:28,463
+EH, eh o seu processo produtivo, né?
+
+169
+00:08:28,475 --> 00:08:32,750
+Ou seja, reduzindo os riscos aí de multas,
+
+170
+00:08:32,759 --> 00:08:35,099
+danos e garantindo a qualidade do seu produto, né?
+
+171
+00:08:35,109 --> 00:08:35,989
+Melhoria contínua.
+
+172
+00:08:36,000 --> 00:08:38,869
+A gente vem falando isso ao longo da nossa caminhada,
+
+173
+00:08:38,879 --> 00:08:42,029
+que é identificar sempre dentro do meu processo, aquilo
+
+174
+00:08:42,038 --> 00:08:44,408
+que pode ser melhorado sempre né, Ou seja eu
+
+175
+00:08:44,418 --> 00:08:47,428
+consigo me adaptar rapidamenteà mudança de mercado.
+
+176
+00:08:47,440 --> 00:08:51,330
+Quando eu adoto uma melhoria contínua, transparência e responsabilidade,
+
+177
+00:08:51,340 --> 00:08:55,582
+ou seja, monitoramento avaliação, acaba gerando a clareza
+
+178
+00:08:55,592 --> 00:08:58,143
+dessas responsabilidades, né, que é mais fácil de
+
+179
+00:08:58,153 --> 00:09:02,182
+administrar a parte de flexibilidade e adaptabilidade.
+
+180
+00:09:02,192 --> 00:09:05,062
+Ou seja, eu posso reconfigurar meus processos, eu
+
+181
+00:09:05,072 --> 00:09:08,822
+posso me adaptar melhor ao mundo e as mudanças que
+
+182
+00:09:08,832 --> 00:09:11,023
+ele no no no nos proporciona.
+
+183
+00:09:11,033 --> 00:09:13,741
+Também tenho a tomada de decisão porque a gente acabou
+
+184
+00:09:13,751 --> 00:09:15,582
+de falar, ou seja, eu tenho dados pra
+
+185
+00:09:15,592 --> 00:09:16,552
+tomar uma decisão.
+
+186
+00:09:16,562 --> 00:09:18,335
+Eu tenho decisões mais rápidas.
+
+187
+00:09:18,346 --> 00:09:20,014
+Eu tenho decisões mais assertivas.
+
+188
+00:09:20,025 --> 00:09:23,056
+Assertivas, né? Eu tenho a satisfação do cliente,
+
+189
+00:09:23,065 --> 00:09:26,014
+ou seja, eh a melhoria desse processo, a
+
+190
+00:09:26,025 --> 00:09:26,495
+governança.
+
+191
+00:09:26,504 --> 00:09:29,176
+Esse processo faz com que o meu cliente eh fique
+
+192
+00:09:29,184 --> 00:09:32,335
+melhor, eh integrado ao ao que eu tô entregando
+
+193
+00:09:32,346 --> 00:09:35,716
+pra ele aquilo agregando valor a ele e o engajamento
+
+194
+00:09:35,725 --> 00:09:36,575
+dos funcionários.
+
+195
+00:09:36,585 --> 00:09:39,754
+Ou seja o meu ambiente de trabalho fica mais tranquilo.
+
+196
+00:09:39,764 --> 00:09:46,239
+Fica mais eh vamos dizer produtivo, ao passo que
+
+197
+00:09:46,250 --> 00:09:48,038
+ele sabe o que tem que fazer, tá e
+
+198
+00:09:48,048 --> 00:09:48,820
+aqui.
+
+199
+00:09:48,830 --> 00:09:51,019
+Por último, o nosso quadro de uma estrutura de
+
+200
+00:09:51,029 --> 00:09:55,259
+governança em que ele envolve a assembleia envolve controle,
+
+201
+00:09:55,269 --> 00:09:58,019
+Envolve a parte estratégica, envolve a parte de gestão,
+
+202
+00:09:58,029 --> 00:10:01,298
+a tática e a operacional Okay.
+
+203
+00:10:01,308 --> 00:10:03,879
+Então esta é a nossa perspectiva de governança.
+
+204
+00:10:03,889 --> 00:10:05,759
+Obrigado até a próxima aula.
+

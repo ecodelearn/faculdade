@@ -1,0 +1,1352 @@
+1
+00:00:05,799 --> 00:00:07,690
+Olá, aluno seja muito bemvindo.
+
+2
+00:00:07,698 --> 00:00:10,528
+Professor Fabrício Melo Vamos dar sequência a nossa matéria de
+
+3
+00:00:10,538 --> 00:00:13,890
+segurança da informação e vamos trabalhar com a mitigação de
+
+4
+00:00:13,898 --> 00:00:16,649
+ataques, né? Já vimos aí alguma coisa vamos
+
+5
+00:00:16,658 --> 00:00:19,929
+para o próximo tema, onde abordaremos, mitigando o
+
+6
+00:00:19,940 --> 00:00:24,179
+risco, riscos na borda da rede e em dispositivos
+
+7
+00:00:24,190 --> 00:00:26,859
+finais, como a gente faz essa mitigação, como
+
+8
+00:00:26,870 --> 00:00:30,280
+que a gente consegue aí prevenir esses ataques, né?
+
+9
+00:00:30,289 --> 00:00:35,098
+Conseguimos aí reduzir né drasticamente e a possibilidade de algum
+
+10
+00:00:35,109 --> 00:00:38,939
+atacante chegar até a rede da empresa até os computadores,
+
+11
+00:00:38,950 --> 00:00:40,399
+por exemplo, da empresa.
+
+12
+00:00:40,408 --> 00:00:42,759
+Vamos lá, vamos começar trabalhando com isso aí.
+
+13
+00:00:42,770 --> 00:00:46,639
+Obviamente uma ferramenta amplamente utilizada aí pelas grandes empresas,
+
+14
+00:00:46,704 --> 00:00:50,673
+até por nós usuários em nossos computadores pessoal é o
+
+15
+00:00:50,685 --> 00:00:51,755
+Fire W, né? Pessoal, não tem a
+
+16
+00:00:51,764 --> 00:00:54,793
+menor sombra de dúvidas que o Fire W é uma
+
+17
+00:00:54,804 --> 00:00:56,715
+ferramenta importantíssima.
+
+18
+00:00:56,723 --> 00:01:00,075
+Aí a partir do momento que nós eh temos acesso
+
+19
+00:01:00,084 --> 00:01:01,734
+à rede pública, a internet.
+
+20
+00:01:01,743 --> 00:01:03,454
+Por quê? Qual é o papel do Fire?
+
+21
+00:01:03,465 --> 00:01:06,034
+O Fire W, Primeiramente, ele é uma ferramenta
+
+22
+00:01:06,043 --> 00:01:08,674
+que trabalha na camada três e quatro do modelo.
+
+23
+00:01:08,683 --> 00:01:11,153
+O por que que ele trabalha na camada três lembra
+
+24
+00:01:11,165 --> 00:01:13,709
+a camada do Ipê, então o Fire W ele
+
+25
+00:01:13,719 --> 00:01:19,269
+consegue através de regras bloquear acessos não autorizados a uma
+
+26
+00:01:19,278 --> 00:01:23,209
+rede, além de identificar a origem desses ataques.
+
+27
+00:01:23,219 --> 00:01:26,948
+Então por ele trabalhar com identificação, listas de pesos
+
+28
+00:01:26,959 --> 00:01:31,540
+autorizados ou não autorizados, ele vai atuar lá na
+
+29
+00:01:31,549 --> 00:01:33,219
+camada três e na camada quatro.
+
+30
+00:01:33,230 --> 00:01:35,739
+Por quê? Porque o farol também trabalha com regras
+
+31
+00:01:35,750 --> 00:01:38,579
+em cima das portas TC p e o d p
+
+32
+00:01:38,588 --> 00:01:40,778
+né? Em cima de pacotes tem como você criar
+
+33
+00:01:40,790 --> 00:01:44,638
+regras com relação aos pacotes para que o farol possa
+
+34
+00:01:44,650 --> 00:01:49,159
+impedir ou liberar a entrada desses pacotes em determinadas portas.
+
+35
+00:01:49,168 --> 00:01:51,040
+C C P e o D P depende da aplicação
+
+36
+00:01:51,120 --> 00:01:54,528
+que você tá utilizando, obviamente que tem algumas aplicações
+
+37
+00:01:54,540 --> 00:01:58,129
+já tradicionais que o próprio fiel libera o acesso,
+
+38
+00:01:58,138 --> 00:02:00,489
+masàs vezes você vai instalar um novo programa no
+
+39
+00:02:00,500 --> 00:02:03,290
+seu computador e você não consegue usá-lo porque pode ser
+
+40
+00:02:03,299 --> 00:02:06,808
+que o farol esteja protegendo, bloqueando aí aqui nós
+
+41
+00:02:06,819 --> 00:02:08,889
+temos um esquema, tá vendo oh que aqui é
+
+42
+00:02:08,899 --> 00:02:11,020
+nós temos a utilização de uma d M z que
+
+43
+00:02:11,028 --> 00:02:12,550
+que é uma d m z, né? A
+
+44
+00:02:12,558 --> 00:02:16,288
+famosa rede desmilitarizada que nada mais é do que isso
+
+45
+00:02:16,300 --> 00:02:16,419
+aqui.
+
+46
+00:02:16,429 --> 00:02:18,729
+Olha que interessante oh, aqui tá a rede externa
+
+47
+00:02:18,740 --> 00:02:22,429
+certo! A internet e aqui tá a rede interna
+
+48
+00:02:22,439 --> 00:02:25,449
+que é a intranet, por exemplo da empresa e
+
+49
+00:02:25,460 --> 00:02:29,879
+aqui em cima estão os servidores web da empresa.
+
+50
+00:02:29,889 --> 00:02:32,409
+O que que significa isso? Que esses servidores web
+
+51
+00:02:32,419 --> 00:02:36,129
+oh Ah, o tráfico deles da rede externa é
+
+52
+00:02:36,139 --> 00:02:36,889
+permitido.
+
+53
+00:02:36,899 --> 00:02:40,250
+Então as pessoas que tão na internet podem acessar esse
+
+54
+00:02:40,258 --> 00:02:42,679
+servidor aí sem problema que é onde tá o site
+
+55
+00:02:42,689 --> 00:02:46,750
+da empresa? Agora a rede interna, ela pode
+
+56
+00:02:46,758 --> 00:02:48,569
+acessar esses servidores também.
+
+57
+00:02:48,580 --> 00:02:50,808
+Porém, oh com restrição tá vendo que você tem
+
+58
+00:02:50,819 --> 00:02:56,008
+ali uma setinha né? Preta e o acesso do
+
+59
+00:02:56,020 --> 00:02:59,469
+servidor pra rede intranet é bloqueado.
+
+60
+00:02:59,479 --> 00:03:03,429
+Então o que acontece? Esse servidor web que pode
+
+61
+00:03:03,439 --> 00:03:07,110
+ser acessado pela rede pública e também pela intranet,
+
+62
+00:03:07,118 --> 00:03:09,750
+porém ele fica no meio ele forma uma d n
+
+63
+00:03:09,758 --> 00:03:09,830
+z.
+
+64
+00:03:09,838 --> 00:03:12,069
+Por quê? Porque você vai ter aqui oh no
+
+65
+00:03:12,080 --> 00:03:18,990
+meio um, onde tem menos restrições do acesso interno,
+
+66
+00:03:19,000 --> 00:03:23,300
+né? Da intranet pra servidores e outro com mais
+
+67
+00:03:23,308 --> 00:03:26,500
+restrições para o pessoal de fora.
+
+68
+00:03:26,508 --> 00:03:29,219
+Então quando você tem esse servidor que tá no meio
+
+69
+00:03:29,229 --> 00:03:31,460
+de uma rede pública e no meio de uma rede
+
+70
+00:03:31,469 --> 00:03:35,300
+privada intranet, a gente gera uma rede desmilitarizada com
+
+71
+00:03:35,308 --> 00:03:35,919
+Fiol.
+
+72
+00:03:35,929 --> 00:03:38,288
+Então o farol vai atuar nisso aí nesse controle,
+
+73
+00:03:38,300 --> 00:03:41,618
+né? De acesso aí a rede aí você pergunta
+
+74
+00:03:41,629 --> 00:03:44,008
+professor mas cê tava aí? Eh? Eh mitigar
+
+75
+00:03:44,020 --> 00:03:46,300
+serviços em borda segurança O que que é borda?
+
+76
+00:03:46,308 --> 00:03:49,179
+Tá aí, oh borda da rede é a interface
+
+77
+00:03:49,189 --> 00:03:52,088
+da rede interna com a rede externa, seja internet
+
+78
+00:03:52,099 --> 00:03:52,969
+ou uma rede corporativa.
+
+79
+00:03:52,979 --> 00:03:56,129
+Então aquela interface que tá fazendo ali a ligação da
+
+80
+00:03:56,139 --> 00:03:58,610
+rede interna e rede externa a gente fala aí borda
+
+81
+00:03:58,618 --> 00:04:02,368
+como tá colocado aí tá na matéria e temos também
+
+82
+00:04:02,379 --> 00:04:05,699
+a VPN é outra ferramenta aí que vai mitigar os
+
+83
+00:04:05,710 --> 00:04:10,588
+riscos aí também na bola da rede VPN vem virtual,
+
+84
+00:04:10,599 --> 00:04:12,788
+ou seja, uma rede privada virtual.
+
+85
+00:04:13,520 --> 00:04:15,649
+E qual é a função da VPN? Nada mais
+
+86
+00:04:15,659 --> 00:04:19,988
+é do que você conseguir gerar um tunelamento de conexão
+
+87
+00:04:20,000 --> 00:04:23,730
+entre você e um servidor e esse túnel você vai
+
+88
+00:04:23,738 --> 00:04:25,649
+trabalhar com dados criptografados.
+
+89
+00:04:25,660 --> 00:04:27,250
+Os dados serão criptografados.
+
+90
+00:04:27,259 --> 00:04:29,449
+Além de você poder trabalhar também com o I P
+
+91
+00:04:29,459 --> 00:04:32,889
+SEC que é aquele ipê seguro fazendo aí a máscara,
+
+92
+00:04:32,899 --> 00:04:35,670
+mascarando aí o seu ipê, Então pode observar aí
+
+93
+00:04:35,678 --> 00:04:39,470
+oh que você tem aqui oh a internet, computadores
+
+94
+00:04:39,480 --> 00:04:43,079
+externos? Oh! Que criam uma VPN pra poder
+
+95
+00:04:43,088 --> 00:04:47,108
+acessar servidores aí de uma empresa, Então isso é
+
+96
+00:04:47,119 --> 00:04:49,129
+muito usado, por exemplo, em home office,
+
+97
+00:04:49,139 --> 00:04:52,309
+né? Muito utilizado aí na na quem tá em
+
+98
+00:04:52,319 --> 00:04:54,149
+teletrabalho pandemia.
+
+99
+00:04:54,160 --> 00:04:56,149
+Eu precisei, por exemplo, acessar o servidor da
+
+100
+00:04:56,160 --> 00:04:57,769
+minha empresa lá da minha casa.
+
+101
+00:04:57,778 --> 00:05:01,358
+Eu não vou acessar pela rede tradicional pela internet.
+
+102
+00:05:01,369 --> 00:05:03,028
+Normal é suicídio.
+
+103
+00:05:03,040 --> 00:05:06,384
+Então dentro da internet eu crio esse túnel, esse
+
+104
+00:05:06,394 --> 00:05:08,725
+túnel, a gente chama de VPN, tá vendo
+
+105
+00:05:08,733 --> 00:05:11,004
+oh, Ele fornece um acesso seguro aos recursos da
+
+106
+00:05:11,014 --> 00:05:11,524
+rede interna.
+
+107
+00:05:11,535 --> 00:05:16,613
+Intranet tá vendo para usuários remotos usan usando túneis criptografados
+
+108
+00:05:16,625 --> 00:05:20,415
+seguros tá E temos também o sistema de detecção de
+
+109
+00:05:20,423 --> 00:05:22,694
+tu de intruso e o prevenção de intruso, que
+
+110
+00:05:22,704 --> 00:05:24,595
+é o i d s e o i PS,
+
+111
+00:05:24,605 --> 00:05:28,375
+que também são ferramentas que agem muito juntamente com o
+
+112
+00:05:28,384 --> 00:05:28,754
+W.
+
+113
+00:05:28,764 --> 00:05:30,355
+Como é que funciona o i d S O i
+
+114
+00:05:30,363 --> 00:05:33,949
+D S é um alarme, é uma ferramenta passiva
+
+115
+00:05:33,959 --> 00:05:35,869
+que eu gosto de falar que ele é o famoso
+
+116
+00:05:35,879 --> 00:05:36,509
+pincher.
+
+117
+00:05:36,519 --> 00:05:39,428
+Não tem um pincher que é aquele cachorrinho cinquenta por
+
+118
+00:05:39,439 --> 00:05:43,309
+cento raiva cinquenta por cento tremedeira não é assim como
+
+119
+00:05:43,319 --> 00:05:45,149
+é que funciona aí? O i d S O
+
+120
+00:05:45,160 --> 00:05:45,769
+i d S.
+
+121
+00:05:46,488 --> 00:05:49,899
+Ele é capaz apenas de alarmar quando está sendo aí
+
+122
+00:05:49,910 --> 00:05:51,879
+feito um ataque, ou seja, ele monitora o
+
+123
+00:05:51,889 --> 00:05:55,259
+tráfego da rede e quando aquele tráfego ele se torna
+
+124
+00:05:55,269 --> 00:05:58,100
+ali eh, Eh suspeito o i d ss pode
+
+125
+00:05:58,108 --> 00:06:00,720
+alarmar e o técnico da rede simplesmente, né?
+
+126
+00:06:00,730 --> 00:06:02,579
+Fazer a checagem tá vendo oh lá cê tem um
+
+127
+00:06:02,588 --> 00:06:03,379
+i d s.
+
+128
+00:06:03,389 --> 00:06:07,699
+Ele vai detectar oh e alertar o tráfego o fluxo
+
+129
+00:06:07,709 --> 00:06:10,759
+de dados aí que estão que estão entrando ou saindo
+
+130
+00:06:10,769 --> 00:06:14,608
+Já o i PS que eu chamo de pitbull que
+
+131
+00:06:14,619 --> 00:06:18,488
+pitbull porque o I PS já é uma ferramenta ativa,
+
+132
+00:06:18,500 --> 00:06:23,309
+o i PS além de detectar ele tem a função
+
+133
+00:06:23,319 --> 00:06:26,428
+também de bloquear aí o pacote, o tráfego.
+
+134
+00:06:26,439 --> 00:06:29,869
+Então ele também faz o monitoramento com a capacidade de
+
+135
+00:06:29,879 --> 00:06:33,269
+fazer o bloqueio que é o D S só faria
+
+136
+00:06:33,278 --> 00:06:35,949
+aí o alerta tá, Então são ferramentas também que
+
+137
+00:06:35,959 --> 00:06:39,319
+podem operar muito junto com o W e temos o
+
+138
+00:06:39,329 --> 00:06:40,528
+firo prox.
+
+139
+00:06:41,379 --> 00:06:44,509
+A gente chama ele muito de aplicação, geralmente é
+
+140
+00:06:44,519 --> 00:06:46,470
+um W Por que que ele é um farol de
+
+141
+00:06:46,480 --> 00:06:48,540
+aplicação, porque ele age lá na camada do software,
+
+142
+00:06:48,548 --> 00:06:50,428
+né? Ele é um farol que é o seguinte
+
+143
+00:06:50,439 --> 00:06:54,250
+ele pode inspecionar o conteúdo até utilizando antivírus, Ou
+
+144
+00:06:54,259 --> 00:06:57,670
+seja, eh tem como você fazer bloqueio de sites
+
+145
+00:06:57,678 --> 00:06:58,829
+não autorizados.
+
+146
+00:06:58,838 --> 00:07:01,149
+Cê pode fazer o bloqueio pelo próxi que é o
+
+147
+00:07:01,160 --> 00:07:02,548
+seguinte Tá vendo oh aqui.
+
+148
+00:07:02,559 --> 00:07:05,309
+Cê tem um app do cliente a origem e no
+
+149
+00:07:05,319 --> 00:07:07,329
+meio você bota um PROX.
+
+150
+00:07:07,769 --> 00:07:13,588
+Então aquele cliente só consegue acessar determinadas aplicações permitidas pelo
+
+151
+00:07:13,600 --> 00:07:13,939
+próx.
+
+152
+00:07:13,949 --> 00:07:16,910
+Você consegue bloquear por ele? O próx também pode
+
+153
+00:07:16,920 --> 00:07:18,579
+oh lá efetuar o controle.
+
+154
+00:07:18,588 --> 00:07:20,939
+Como eu falei, pode autenticar o usuário para conceder
+
+155
+00:07:20,949 --> 00:07:21,699
+acessoà internet.
+
+156
+00:07:21,709 --> 00:07:23,838
+Ou seja, o próx pode ter o d HC
+
+157
+00:07:23,850 --> 00:07:26,579
+p que vai conceder o acesso o i p para
+
+158
+00:07:26,588 --> 00:07:30,178
+o usuário ir para a internet, né? Ele
+
+159
+00:07:30,189 --> 00:07:33,459
+pode contabilizar dados do acessoà internet e efetuar o
+
+160
+00:07:33,470 --> 00:07:36,920
+balanceamento de carga com px reverso Além de servir como
+
+161
+00:07:36,928 --> 00:07:38,858
+Cash, né? O que que é uma cash?
+
+162
+00:07:38,869 --> 00:07:43,189
+Todas as páginas que os usuários da rede acessarem vão
+
+163
+00:07:43,199 --> 00:07:45,639
+ser descarregadas na cash do próx.
+
+164
+00:07:45,649 --> 00:07:48,319
+Aí, depois, no acesso futuro, o próxi
+
+165
+00:07:48,329 --> 00:07:51,959
+carrega a página tornando aquele acesso mais rápido Tá?
+
+166
+00:07:51,970 --> 00:07:54,100
+Aí eu trouxe pra você aí, né? Aquele
+
+167
+00:07:54,108 --> 00:07:56,290
+velho teste que a gente gosta de fazer pra gente
+
+168
+00:07:56,298 --> 00:08:00,019
+pegar esses temas de maneira, mas a gente vê
+
+169
+00:08:00,028 --> 00:08:02,480
+onde que esses temas são abordados pra gente dar uma
+
+170
+00:08:02,488 --> 00:08:04,899
+né? Fazer um pequeno teste aqui olha lá com
+
+171
+00:08:04,910 --> 00:08:07,100
+Relação a aplicativos para segurança, procedimento de B K,
+
+172
+00:08:07,108 --> 00:08:10,619
+armazenamento de dados em nuvem julgue os itens subsequentes ao
+
+173
+00:08:10,629 --> 00:08:16,559
+bloquear tráfego de rede atípico um farol pessoal adequadamente configurado,
+
+174
+00:08:16,819 --> 00:08:20,108
+ele é capaz de evitar que códigos maliciosos se propaguem
+
+175
+00:08:20,119 --> 00:08:23,750
+para a rede a partir de um computador infectado muito
+
+176
+00:08:23,759 --> 00:08:27,428
+interessante, porque o Fire não tem aquela função de
+
+177
+00:08:27,439 --> 00:08:31,910
+pegar vírus, pegar malware essa função aí do antivírus
+
+178
+00:08:31,920 --> 00:08:35,048
+Okay, porém um pessoal que é o farol que
+
+179
+00:08:35,058 --> 00:08:36,190
+a gente tem no Windows.
+
+180
+00:08:36,200 --> 00:08:40,210
+Ele é capaz sim de bloquear tá vendo lá,
+
+181
+00:08:40,219 --> 00:08:43,408
+ainda mais que ele tá adequadamente configurado Oh, ele
+
+182
+00:08:43,418 --> 00:08:47,580
+é capaz de evitar que códigos se propaguem por quê
+
+183
+00:08:47,590 --> 00:08:49,609
+Cê pega um, o mesmo que vai ficar se
+
+184
+00:08:49,619 --> 00:08:51,090
+propagando pela rede.
+
+185
+00:08:51,099 --> 00:08:54,070
+Ele vai gerar tráfego e o fi é capaz de
+
+186
+00:08:54,080 --> 00:08:56,908
+fazer esse bloqueio dessa propagação.
+
+187
+00:08:56,918 --> 00:08:59,989
+Tá, Então temos aqui uma questão correta e olha
+
+188
+00:09:00,000 --> 00:09:03,070
+dois Um dispositivo configurado como o I PS oh é
+
+189
+00:09:03,080 --> 00:09:07,070
+só lembrar do pit bul analisa tráfegos na rede de
+
+190
+00:09:07,080 --> 00:09:10,269
+computadores em busca de quê de assinatura de ataques e
+
+191
+00:09:10,279 --> 00:09:12,908
+notifica os administradores.
+
+192
+00:09:12,918 --> 00:09:17,629
+Porém não possui autonomia aluno para bloquear o tráfego de
+
+193
+00:09:17,639 --> 00:09:18,009
+rede.
+
+194
+00:09:18,019 --> 00:09:20,950
+Olá, ele diz que o I PS não possui
+
+195
+00:09:20,960 --> 00:09:25,668
+autonomia, possui o i PS pode sim fazer o
+
+196
+00:09:25,678 --> 00:09:28,389
+bloqueio do tráfico de rede.
+
+197
+00:09:28,399 --> 00:09:30,950
+Aí vem a três sobre a segurança da informação em
+
+198
+00:09:30,960 --> 00:09:33,469
+redes públicas e privadas marca a alternativa correta.
+
+199
+00:09:33,479 --> 00:09:37,149
+Olha lá, dividir grandes redes oh em diferentes domínios
+
+200
+00:09:37,158 --> 00:09:39,960
+de redes é um método de controlar a segurança da
+
+201
+00:09:39,969 --> 00:09:42,590
+informação boa, né? Se fazer a divisão ali
+
+202
+00:09:42,599 --> 00:09:45,389
+de redes em diferentes domínios, os domínios podem ser
+
+203
+00:09:45,399 --> 00:09:47,750
+escolhidos com base no nível de confiança em todas as
+
+204
+00:09:47,759 --> 00:09:51,190
+áreas da organização, por exemplo recursos humanos, financeiro
+
+205
+00:09:51,200 --> 00:09:51,908
+e marketing.
+
+206
+00:09:51,918 --> 00:09:55,548
+Tá vendo Oh, faz a definição pra cada rede,
+
+207
+00:09:55,558 --> 00:09:58,629
+né? Aí ele coloca lá a segregação pode ser
+
+208
+00:09:58,639 --> 00:10:01,950
+feita tanto usando diferentes redes físicas quanto usando diferentes redes
+
+209
+00:10:01,960 --> 00:10:02,389
+lógicas.
+
+210
+00:10:02,399 --> 00:10:04,788
+Por exemplo, a VPN é aquele desenho que a
+
+211
+00:10:04,798 --> 00:10:09,178
+gente viu da VPN entrando, Então fazer essa divisão
+
+212
+00:10:09,190 --> 00:10:12,908
+é muito importante porque você consegue controlar a segurança,
+
+213
+00:10:12,918 --> 00:10:14,989
+né? Eu gostei da letra A ela vai ser
+
+214
+00:10:15,000 --> 00:10:17,178
+a nossa resposta, porque a letra b, redes,
+
+215
+00:10:17,190 --> 00:10:18,710
+o ar e less que é a rede sem fio
+
+216
+00:10:18,719 --> 00:10:22,408
+devem ser sempre tratadas como conexão externa.
+
+217
+00:10:22,879 --> 00:10:24,960
+Devem ser segregados até que o acesso tenha passado por
+
+218
+00:10:24,969 --> 00:10:27,298
+um gato e o VPN antes de conceder o acesso
+
+219
+00:10:27,308 --> 00:10:28,489
+aos temas internos.
+
+220
+00:10:28,500 --> 00:10:31,570
+Tá? Mas e uma uma rede local sem fio?
+
+221
+00:10:31,580 --> 00:10:34,969
+Então elas devem ser tratadas sempre com conexão externa,
+
+222
+00:10:34,979 --> 00:10:37,668
+né? E devem ser segregadas? Não depende aí,
+
+223
+00:10:37,899 --> 00:10:40,908
+né? Da da rede as redes cabeada e estão
+
+224
+00:10:40,918 --> 00:10:45,229
+sendo progressivamente estendidas Além dos limites organizacionais tradicionais, principalmente
+
+225
+00:10:45,239 --> 00:10:47,869
+quando parcerias de negócios, são formadas, requerem o
+
+226
+00:10:47,879 --> 00:10:50,849
+compartilhamento do processamento de informação, recursos de redes.
+
+227
+00:10:50,859 --> 00:10:53,629
+Tais extensões reduzem o risco de acesso não autorizado aos
+
+228
+00:10:53,639 --> 00:10:54,830
+sistemas de informação existente.
+
+229
+00:10:54,840 --> 00:10:58,509
+Pelo contrário, tais extensões aumentam o risco se você
+
+230
+00:10:58,519 --> 00:11:02,330
+tá aumentando estendendo você tá aumentando o risco, né?
+
+231
+00:11:02,340 --> 00:11:04,389
+Capt é um programa de computador responsável por controlar e
+
+232
+00:11:04,399 --> 00:11:07,450
+gerenciar o acessoà internet em redes públicas e privadas.
+
+233
+00:11:08,989 --> 00:11:11,009
+Ao digitar o endereço de qualquer cidade de navegador,
+
+234
+00:11:11,019 --> 00:11:13,469
+usuário é interceptado pelo sistema internacional pelo Inter V solicita
+
+235
+00:11:13,479 --> 00:11:14,029
+a autenticação.
+
+236
+00:11:14,038 --> 00:11:15,298
+Isso aí pode ser o prox.
+
+237
+00:11:15,308 --> 00:11:17,779
+Pode ser um servidor de autenticação também, né?
+
+238
+00:11:17,788 --> 00:11:20,750
+Tia, É aquele sistema de segurança que evita d
+
+239
+00:11:20,759 --> 00:11:21,719
+o ataque.
+
+240
+00:11:21,729 --> 00:11:22,719
+D d o s.
+
+241
+00:11:22,729 --> 00:11:24,599
+Você acessa uma página, ele pede pra você achar
+
+242
+00:11:24,609 --> 00:11:27,389
+ali a faixa de pedra, achar o hidrante,
+
+243
+00:11:27,399 --> 00:11:29,308
+aquilo ali que é considerado o tia.
+
+244
+00:11:29,320 --> 00:11:31,509
+Não é isso que ele tá falando aí? Então
+
+245
+00:11:31,519 --> 00:11:34,428
+nós temos de fato aí a resposta Letra a tá
+
+246
+00:11:34,440 --> 00:11:37,668
+bom e temos também aí oh! Mitigar os riscos
+
+247
+00:11:37,678 --> 00:11:40,750
+dos dispositivos finais que o Windows Cê sabe que o
+
+248
+00:11:40,759 --> 00:11:43,048
+Windows tem uma u T M, né? Aluno
+
+249
+00:11:43,058 --> 00:11:46,830
+Gerenciamento unificado de ameaças do Windows Se você for lá
+
+250
+00:11:46,840 --> 00:11:50,330
+nas configurações Windows e e acessar lá, Oh,
+
+251
+00:11:51,200 --> 00:11:54,190
+a parte de segurança do Windows Cê tem a u
+
+252
+00:11:54,200 --> 00:11:54,649
+t m dele.
+
+253
+00:11:54,658 --> 00:11:57,090
+Tá vendo! E essa u t m dele é
+
+254
+00:11:57,099 --> 00:11:57,729
+composta.
+
+255
+00:11:57,739 --> 00:12:01,080
+De quê? Oh do Fire, W do antivírus
+
+256
+00:12:01,090 --> 00:12:05,779
+Proteção pra família, pra você fazer bloqueio fazer censura
+
+257
+00:12:05,788 --> 00:12:08,320
+pra vezes pro seu filho pequeno, né? Tem
+
+258
+00:12:08,330 --> 00:12:11,719
+lá o smart que que é o o famoso filtro
+
+259
+00:12:11,729 --> 00:12:15,058
+que simplesmente consegue ali alertar de sites duvidosos e downloads
+
+260
+00:12:15,070 --> 00:12:15,879
+duvidosos.
+
+261
+00:12:15,889 --> 00:12:18,719
+Então os sistemas finais que seria o Windows, né?
+
+262
+00:12:18,729 --> 00:12:21,668
+Que a maioria dos computadores utilizam se preocupam muito com
+
+263
+00:12:21,678 --> 00:12:22,408
+segurança.
+
+264
+00:12:22,418 --> 00:12:26,099
+Então lá nessas configurações você tem essas ferramentas Aí tá
+
+265
+00:12:26,109 --> 00:12:29,460
+vendo Oh uma foto do da configuração do Fire w
+
+266
+00:12:29,469 --> 00:12:31,519
+tá vendo Oh! Que você pode ativar ele?
+
+267
+00:12:31,529 --> 00:12:35,219
+Você pode fazer as configurações devidas do seu local,
+
+268
+00:12:35,229 --> 00:12:37,519
+né? Que é o pessoal tá vendo Oh,
+
+269
+00:12:37,529 --> 00:12:40,058
+oh! O Windows defende que é o antivírus que
+
+270
+00:12:40,070 --> 00:12:40,979
+você também tem.
+
+271
+00:12:40,989 --> 00:12:42,580
+É um bom antivírus, inclusive muita gente.
+
+272
+00:12:42,590 --> 00:12:46,099
+Pergunta Professor O antivírus do Windows é bom é Ele
+
+273
+00:12:46,109 --> 00:12:49,599
+já foi aí eleito aí no topo dos melhores Agora,
+
+274
+00:12:49,609 --> 00:12:51,759
+óbvio, se você puder ter um melhor ainda,
+
+275
+00:12:51,769 --> 00:12:52,820
+tudo bem.
+
+276
+00:12:52,830 --> 00:12:55,399
+Cê tem um que é um antivírus aí muito eficiente,
+
+277
+00:12:55,408 --> 00:12:56,798
+muito consistente.
+
+278
+00:12:56,808 --> 00:12:58,719
+Mas por ser um antivírus aí que já vem no
+
+279
+00:12:58,729 --> 00:13:01,899
+Windows o defender, ele consegue aí dar uma proteção
+
+280
+00:13:01,908 --> 00:13:03,960
+até razoável.
+
+281
+00:13:03,969 --> 00:13:07,928
+Tá bom e depois nós temos aí a ideia de
+
+282
+00:13:07,940 --> 00:13:13,649
+autenticação, autorização e audi, estabilidade aí dos sistemas
+
+283
+00:13:13,658 --> 00:13:16,450
+pra você fazer a mitigação dos sistemas, né?
+
+284
+00:13:16,460 --> 00:13:19,158
+A ideia de ler, apagar, criar e modificar
+
+285
+00:13:19,168 --> 00:13:21,729
+e você tem autorização pra isso.
+
+286
+00:13:21,739 --> 00:13:24,969
+Então os sistemas também fazem essa divisão do que pode
+
+287
+00:13:24,979 --> 00:13:27,769
+ou não pode ser feito, né? Através de
+
+288
+00:13:27,779 --> 00:13:29,690
+uma informação tá vendo oh e como é que é
+
+289
+00:13:29,700 --> 00:13:34,399
+feito? Por exemplo, essa autenticação? Autenticação ela
+
+290
+00:13:34,408 --> 00:13:37,158
+pode ser feita por algo que você sabe que que
+
+291
+00:13:37,168 --> 00:13:40,320
+é algo que você sabe uma senha senha é algo
+
+292
+00:13:40,330 --> 00:13:44,219
+que você sabe Okay, então eu sei uma senha.
+
+293
+00:13:44,229 --> 00:13:47,658
+Então uma pergunta secreta qual é o nome do seu
+
+294
+00:13:47,668 --> 00:13:51,038
+animal de estimação também é algo que você sabe a
+
+295
+00:13:51,048 --> 00:13:53,928
+outra autenticação é algo que você tem, por exemplo,
+
+296
+00:13:53,940 --> 00:13:54,399
+um toque.
+
+297
+00:13:54,408 --> 00:13:57,219
+Você não tem um toque que você pode autenticar é
+
+298
+00:13:57,229 --> 00:14:00,080
+assim e algo que você é que que é algo
+
+299
+00:14:00,090 --> 00:14:03,759
+que você é biometria, então a herança algo que
+
+300
+00:14:03,769 --> 00:14:07,000
+eu sou e eu uso pra me autenticar qualquer tipo
+
+301
+00:14:07,009 --> 00:14:10,158
+de biometria aí tá, então são as três autenticações
+
+302
+00:14:10,168 --> 00:14:13,599
+aí que a gente conhece pra mitigar acessos, fazer
+
+303
+00:14:13,609 --> 00:14:16,519
+autenticação E olha um aí uma questãozinha boa, Oh!
+
+304
+00:14:16,529 --> 00:14:20,038
+O Windows Defender pode ser utilizado pra dar segurança por
+
+305
+00:14:20,048 --> 00:14:23,798
+meio tanto de Fire W quanto de sistema anti mae
+
+306
+00:14:23,808 --> 00:14:26,428
+tá vendo? Então você tem lá o defender que
+
+307
+00:14:26,440 --> 00:14:28,859
+é a central de segurança do Windows, composta aí
+
+308
+00:14:28,869 --> 00:14:32,219
+do Fire W composta do antivírus composta do Smart Queen.
+
+309
+00:14:32,229 --> 00:14:35,759
+Boa questão só pra você entender, né? A
+
+310
+00:14:35,769 --> 00:14:39,019
+a entrada dessa ferramenta aí u T M do Windows
+
+311
+00:14:39,029 --> 00:14:42,139
+olha lá dois Entre os procedimentos de segurança mais comuns
+
+312
+00:14:42,149 --> 00:14:43,979
+está a autenticação aí oh, o que a gente
+
+313
+00:14:43,989 --> 00:14:46,460
+viu para aumentar a segurança e autenticação? Eu posso
+
+314
+00:14:46,469 --> 00:14:50,210
+utilizar o autenticação multi fato, né? A respeito
+
+315
+00:14:50,219 --> 00:14:53,359
+dos conceitos de autenticação multi fatores assina alternativa que apresenta
+
+316
+00:14:53,369 --> 00:15:02,509
+três tipos de fatores diferentes usados em autenticação.
+
+317
+00:15:03,678 --> 00:15:06,190
+É o que o usuário sabe, né? O
+
+318
+00:15:06,200 --> 00:15:09,250
+que que é? Pim pim é uma senha também
+
+319
+00:15:09,259 --> 00:15:10,950
+é algo que o usuário sabe, geralmente uma senha
+
+320
+00:15:10,960 --> 00:15:15,389
+numérica e toquem ao que o usuário possui.
+
+321
+00:15:15,399 --> 00:15:18,090
+Então não temos três diferentes aí né.
+
+322
+00:15:18,099 --> 00:15:20,590
+O que que é posse? Posse? É algo
+
+323
+00:15:20,599 --> 00:15:23,190
+que eu tenho, não é isso o que que
+
+324
+00:15:23,200 --> 00:15:27,750
+é herança, Algo que eu sou eu herdei hereditário
+
+325
+00:15:27,759 --> 00:15:30,229
+e o que que é? Conhecimento ao que eu
+
+326
+00:15:30,239 --> 00:15:33,700
+sei então olha que legal ele usou sinônimos aí?
+
+327
+00:15:33,710 --> 00:15:37,460
+Então aprenda que algo que você é sabe, possui.
+
+328
+00:15:37,469 --> 00:15:39,979
+São esses sinônimos aí, né, Porque toque em
+
+329
+00:15:39,989 --> 00:15:42,619
+algo que você tem e meio é algo que você
+
+330
+00:15:42,629 --> 00:15:45,538
+tem, possui e sem algo que você sabe,
+
+331
+00:15:45,548 --> 00:15:48,229
+biometria é algo que você é íris, é algo
+
+332
+00:15:48,239 --> 00:15:50,979
+que você é e sem algo que você sabe e
+
+333
+00:15:50,989 --> 00:15:55,408
+a biometria é algo que você é toque é algo
+
+334
+00:15:55,418 --> 00:15:58,279
+que você possui, reconhece, de reconhecimento de voz
+
+335
+00:15:58,288 --> 00:16:00,989
+em uma biometria é algo que você é, tá
+
+336
+00:16:01,000 --> 00:16:03,190
+então só pra você perceber que existem.
+
+337
+00:16:03,200 --> 00:16:06,178
+Aí sinônimos também pra esses nomes que a gente viu
+
+338
+00:16:06,190 --> 00:16:09,570
+tá bom, Então fechamos grande abraço até a longo
+

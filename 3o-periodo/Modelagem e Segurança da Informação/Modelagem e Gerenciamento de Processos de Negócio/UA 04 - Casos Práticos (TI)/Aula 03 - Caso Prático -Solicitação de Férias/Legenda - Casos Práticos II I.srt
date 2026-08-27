@@ -1,0 +1,888 @@
+1
+00:00:06,738 --> 00:00:09,130
+Olá, seja bem vindo, meu nome é Michel,
+
+2
+00:00:09,140 --> 00:00:12,470
+Nós vamos continuar trabalhando nos nossos casos.
+
+3
+00:00:12,478 --> 00:00:15,509
+Práticos, né? Que casos práticos são esses da
+
+4
+00:00:15,519 --> 00:00:17,870
+nossa disciplina, de gerenciamento e moderada de processo?
+
+5
+00:00:17,879 --> 00:00:20,888
+De negócio, né? Nós estamos aí eh veri,
+
+6
+00:00:20,899 --> 00:00:21,708
+eh, já, fiz.
+
+7
+00:00:21,719 --> 00:00:25,388
+Fizemos um primeiro caso prático e hoje nós vamos ver
+
+8
+00:00:25,399 --> 00:00:28,190
+um segundo Caso Prático, né? Nessa interação nós
+
+9
+00:00:28,199 --> 00:00:31,989
+trabalharemos com o segundo caso prático, que também será
+
+10
+00:00:32,000 --> 00:00:35,689
+dividido em três partes, né? A primeira parte
+
+11
+00:00:35,700 --> 00:00:40,130
+é um eh seria uma parte textual do No caso
+
+12
+00:00:40,139 --> 00:00:43,908
+do do processo, a segunda envolve também essa perspectiva
+
+13
+00:00:43,918 --> 00:00:45,990
+do entendimento desse processo.
+
+14
+00:00:46,000 --> 00:00:50,209
+E no terceiro a gente conclui o processo ou desenhando
+
+15
+00:00:50,219 --> 00:00:51,908
+o fluxo do processo, como nós vimos no,
+
+16
+00:00:51,918 --> 00:00:54,189
+na, na, no caso, prático, um
+
+17
+00:00:54,200 --> 00:00:57,490
+ou simplesmente construindo esse processo por meio de um quadro
+
+18
+00:00:57,500 --> 00:00:59,368
+que a gente já sugeriu aqui também, que pode
+
+19
+00:00:59,380 --> 00:01:00,750
+ser aplicado, tá legal.
+
+20
+00:01:01,118 --> 00:01:04,489
+Então o nosso objetivo aqui é trabalhar esse entendimento da
+
+21
+00:01:04,500 --> 00:01:05,489
+modelagem de processo.
+
+22
+00:01:05,500 --> 00:01:10,209
+Vamos reforçar mais ainda o conceito de que ah,
+
+23
+00:01:10,219 --> 00:01:13,650
+a a aquilo que nós estudamos, ao longo da
+
+24
+00:01:13,659 --> 00:01:15,769
+modelagem, do gerenciamento, de modelagem, de processo
+
+25
+00:01:15,778 --> 00:01:19,028
+de negócio, né? Nós vamos tentar traduzir isso
+
+26
+00:01:19,040 --> 00:01:23,573
+agora em uma eh uma em uma materialização, né?
+
+27
+00:01:23,584 --> 00:01:27,454
+Nós vamos tentar materializar esse conhecimento por meio do entendimento
+
+28
+00:01:27,463 --> 00:01:29,855
+ou da aplicabilidade dos nossos conceitos que a gente estudou
+
+29
+00:01:29,864 --> 00:01:30,995
+até agora Tá legal.
+
+30
+00:01:31,004 --> 00:01:33,174
+Então tá, oh, nós estamos no caso prático
+
+31
+00:01:33,183 --> 00:01:35,495
+dois e a primeira parte do nosso caso prático.
+
+32
+00:01:35,504 --> 00:01:35,734
+Dois.
+
+33
+00:01:35,745 --> 00:01:38,194
+O que que envolve esse caso prático? Aliás,
+
+34
+00:01:38,204 --> 00:01:39,834
+só diga-se de passagem.
+
+35
+00:01:39,844 --> 00:01:41,334
+Esse aqui eh foi elaborado.
+
+36
+00:01:41,344 --> 00:01:45,739
+É um caso prático, até bem bem atual,
+
+37
+00:01:45,750 --> 00:01:48,260
+né? Bem atual, pra quem tá na eh
+
+38
+00:01:48,269 --> 00:01:52,500
+trabalhando nas nas organizações, nas empresas e até nós
+
+39
+00:01:52,510 --> 00:01:56,219
+mesmo, né usuários Aí eh clientes do do,
+
+40
+00:01:56,230 --> 00:01:59,838
+do governo, clientes do estado, clientes da sociedade,
+
+41
+00:01:59,849 --> 00:02:00,579
+ou fazendo fa fa.
+
+42
+00:02:00,588 --> 00:02:03,900
+Fazemos parte da sociedade, né? A gente eh,
+
+43
+00:02:03,909 --> 00:02:06,980
+tá se deparando agora com a privacidade de dados,
+
+44
+00:02:06,989 --> 00:02:09,300
+né? Que é baseado na lei treze mil setecentos
+
+45
+00:02:09,308 --> 00:02:12,300
+e nove Tá, E aí? É importante que
+
+46
+00:02:12,308 --> 00:02:14,219
+a Gen que a gente quis representar aqui nesse e
+
+47
+00:02:14,229 --> 00:02:17,099
+estudo de caso, é justamente a gente eh entender
+
+48
+00:02:17,110 --> 00:02:21,338
+um pouco dentro desse contexto organizacional, como se se
+
+49
+00:02:21,349 --> 00:02:24,439
+desdobra pra minha, pra minha empresa, né?
+
+50
+00:02:24,449 --> 00:02:25,860
+Na no meu dia-a-dia.
+
+51
+00:02:25,868 --> 00:02:29,139
+E aí? É uma coisa que eu gosto de
+
+52
+00:02:29,149 --> 00:02:31,319
+eh a gente vale a pena chamar atenção aqui.
+
+53
+00:02:31,330 --> 00:02:33,409
+Cê pode falar assim poxa, mas pô, o
+
+54
+00:02:33,419 --> 00:02:35,979
+cara tá pegando aí uma uma lei e vai traduzir
+
+55
+00:02:35,990 --> 00:02:37,558
+essa lei um processo.
+
+56
+00:02:37,929 --> 00:02:44,319
+Nós falamos nas nossas, li interações acerca do do
+
+57
+00:02:44,330 --> 00:02:46,419
+conhecimento que a gente adquiriu em relação a essa.
+
+58
+00:02:46,429 --> 00:02:52,419
+Essa eh essa essa disciplina de que é um processo,
+
+59
+00:02:52,429 --> 00:02:54,679
+não necessariamente ele.
+
+60
+00:02:54,689 --> 00:02:59,118
+Ele nasce e vem somente da organização de uma de
+
+61
+00:02:59,129 --> 00:03:00,439
+uma de uma perspectiva.
+
+62
+00:03:00,449 --> 00:03:03,038
+Opa pera isso! O processo só existe porque eu
+
+63
+00:03:03,050 --> 00:03:04,758
+faço isso dentro da minha organização.
+
+64
+00:03:04,770 --> 00:03:05,800
+É o meu objeto.
+
+65
+00:03:05,808 --> 00:03:06,758
+É o que eu produzo.
+
+66
+00:03:06,770 --> 00:03:09,038
+É o meu serviço, é o que é sobre
+
+67
+00:03:09,050 --> 00:03:10,479
+o meu produto, é sobre o meu ser.
+
+68
+00:03:10,490 --> 00:03:11,740
+Não é? Não é.
+
+69
+00:03:12,050 --> 00:03:14,580
+Vamos desmistificar isso, porque não? E não é
+
+70
+00:03:14,588 --> 00:03:18,179
+assim? Tá então, eh, neste caso,
+
+71
+00:03:18,189 --> 00:03:21,229
+o objetivo de ter representando este processo.
+
+72
+00:03:21,240 --> 00:03:25,139
+Esse caso prático é justamente pra gente olhar que a
+
+73
+00:03:25,149 --> 00:03:30,300
+necessidade eh veio de um ente externo.
+
+74
+00:03:30,308 --> 00:03:32,899
+Tá de um ente externo quem é o ente externo?
+
+75
+00:03:32,909 --> 00:03:36,979
+A lei é o governo que formatou a lei,
+
+76
+00:03:36,990 --> 00:03:38,520
+publicou a lei.
+
+77
+00:03:38,729 --> 00:03:42,919
+E aí né, A gente faz uma eh uma,
+
+78
+00:03:43,550 --> 00:03:48,000
+vamos dizer assim, uma afirmação que que que pode
+
+79
+00:03:48,008 --> 00:03:51,000
+pode, pode, pode parecer assim esdrúxula, mas
+
+80
+00:03:51,008 --> 00:03:55,368
+é que lei não é discutida é cumpra, ser
+
+81
+00:03:55,379 --> 00:03:56,439
+cumpra, ser.
+
+82
+00:03:56,449 --> 00:03:58,490
+E a partir do momento que é determinado a minha
+
+83
+00:03:58,500 --> 00:04:00,240
+organização não tem que cumprir.
+
+84
+00:04:00,250 --> 00:04:06,319
+E pra hum o cumprimento desta obrigação legal eu estabeleci
+
+85
+00:04:06,330 --> 00:04:08,778
+isso por meio de um processo que é como esta
+
+86
+00:04:08,788 --> 00:04:12,419
+lei eh Eh, aparece pra mim e ela eh
+
+87
+00:04:12,429 --> 00:04:15,460
+como ela entra dentro da minha organização por meio de
+
+88
+00:04:15,469 --> 00:04:18,119
+um processo, por meio da formalização.
+
+89
+00:04:18,738 --> 00:04:22,028
+Eh desta atividade? Então vamos lá então Olha só
+
+90
+00:04:22,040 --> 00:04:25,048
+o estudo de casa fala do encara de de p
+
+91
+00:04:25,059 --> 00:04:27,629
+o né? Que é eh do relativo a gestão
+
+92
+00:04:27,639 --> 00:04:31,470
+de privacidade na para o atendimento das manifestações dos titulares?
+
+93
+00:04:31,480 --> 00:04:34,410
+Então, pra quem não sabe, eh a nossa
+
+94
+00:04:34,420 --> 00:04:41,509
+lei do do A lei do nossa, até engasguei
+
+95
+00:04:41,519 --> 00:04:44,428
+aqui agora vamos lá a nossa lei relativa a privacidade
+
+96
+00:04:44,439 --> 00:04:48,428
+de dados ela vem, eh foi colocada no mercado,
+
+97
+00:04:48,439 --> 00:04:49,410
+ela ela.
+
+98
+00:04:49,420 --> 00:04:53,108
+Ela é um preceito legal e ela pressupõe.
+
+99
+00:04:53,119 --> 00:04:57,588
+Que eh eu sou, né? O titular dos
+
+100
+00:04:57,600 --> 00:04:59,790
+meus dados, o dono dos meus dados.
+
+101
+00:04:59,798 --> 00:05:03,869
+E eu tenho que ter a minha privacidade garantida e
+
+102
+00:05:03,879 --> 00:05:06,850
+quem? Quem que essa? Essa garantia da privacidade
+
+103
+00:05:06,944 --> 00:05:10,153
+é feito por meio da gestão que a organização faz
+
+104
+00:05:10,165 --> 00:05:12,434
+em relação aos meus dados? E quem é a
+
+105
+00:05:12,444 --> 00:05:16,233
+autoridade dentro de uma empresa responsável por essa gestão de
+
+106
+00:05:16,244 --> 00:05:21,295
+privacidade, né? E no atendimentoàs minhas manifestações
+
+107
+00:05:21,303 --> 00:05:22,795
+como dono do meu dado.
+
+108
+00:05:22,803 --> 00:05:24,795
+O que quer dizer a manifestação? Como dono do
+
+109
+00:05:24,803 --> 00:05:26,475
+meu dado, né? Eu posso pedir pra alterar
+
+110
+00:05:26,483 --> 00:05:29,879
+um dado pra escolhi um dado, né? E
+
+111
+00:05:29,889 --> 00:05:30,678
+isso é uma Mari, é um, é um
+
+112
+00:05:30,689 --> 00:05:33,399
+é um direito que eu tenho saber o que que
+
+113
+00:05:33,410 --> 00:05:35,100
+cê tá fazendo com a minha informação, aí isso
+
+114
+00:05:35,108 --> 00:05:36,319
+é um direito que eu tenho bom.
+
+115
+00:05:36,329 --> 00:05:39,389
+Quem é o cara lá dentro da organização responsável por
+
+116
+00:05:39,399 --> 00:05:42,028
+isso e inclusive definido por lei, é o cara
+
+117
+00:05:42,040 --> 00:05:44,278
+chamado de P o que é o encarregado de dados.
+
+118
+00:05:44,290 --> 00:05:46,269
+Tá? Então aqui nós temos aqui um contexto que
+
+119
+00:05:46,278 --> 00:05:50,949
+diz que ah! Solte é uma empresa de tecnologia
+
+120
+00:05:50,959 --> 00:05:54,269
+e ela expandiu as suas operações e começou a coletar
+
+121
+00:05:54,278 --> 00:05:56,309
+dados dos clientes em larga escala.
+
+122
+00:05:56,319 --> 00:05:57,290
+Oh, que o importante é aqui, oh!
+
+123
+00:05:57,298 --> 00:06:01,420
+Coletar dados dos clientes em larga escala tá na verdade,
+
+124
+00:06:01,428 --> 00:06:03,189
+o importante mais aqui é o coletar dados.
+
+125
+00:06:03,199 --> 00:06:06,019
+O coletar dados é um pressuposto básico eh do início
+
+126
+00:06:06,028 --> 00:06:09,350
+da privacidade, Então você coleta dados de cliente,
+
+127
+00:06:09,358 --> 00:06:13,369
+você tá coletando nome, endereço, CPF qualquer dado
+
+128
+00:06:13,379 --> 00:06:17,869
+de cliente que você coleta qualquer informação, né,
+
+129
+00:06:18,730 --> 00:06:23,298
+ela ela? Ela é objeto de privacidade, Tá.
+
+130
+00:06:23,309 --> 00:06:25,420
+E o que que ele tá falando aqui? Ele
+
+131
+00:06:25,428 --> 00:06:29,660
+quer fornecer serviços mais eh personalizados? E aí veio
+
+132
+00:06:29,670 --> 00:06:31,338
+a l GP D né? Que é a lei
+
+133
+00:06:31,350 --> 00:06:34,920
+geral é lei geral de proteção de dados pessoais,
+
+134
+00:06:34,928 --> 00:06:36,379
+né? Que regula.
+
+135
+00:06:36,389 --> 00:06:40,040
+EH que e as suas regulamentações, bem como outras
+
+136
+00:06:40,048 --> 00:06:40,439
+juris.
+
+137
+00:06:40,449 --> 00:06:46,199
+Judi Jurisdições e tornou imprescindível essa questão da da da
+
+138
+00:06:46,209 --> 00:06:46,759
+privacidade.
+
+139
+00:06:46,769 --> 00:06:48,559
+Tá? Então a gente tá falando aqui de l
+
+140
+00:06:48,569 --> 00:06:48,858
+GP D.
+
+141
+00:06:48,869 --> 00:06:51,798
+Mas existem outras aí tá tem a A a lá
+
+142
+00:06:51,809 --> 00:06:52,834
+aí eh Ace.
+
+143
+00:06:52,845 --> 00:06:58,024
+A Lei de Acessoà Informação eh alguns outros requisitos
+
+144
+00:06:58,035 --> 00:07:00,303
+legais que se impõe em relação ao processo.
+
+145
+00:07:00,314 --> 00:07:02,024
+Enfim, uma série de coisas aí a gente tem
+
+146
+00:07:02,035 --> 00:07:03,704
+que considerar tudo, mas aqui a gente tá falando
+
+147
+00:07:03,713 --> 00:07:05,983
+só exatamente do encarregado.
+
+148
+00:07:05,994 --> 00:07:08,244
+E essa gestão de privacidade tá bom, bom,
+
+149
+00:07:09,170 --> 00:07:12,209
+eh Se você não tem cu-, você não leu
+
+150
+00:07:12,220 --> 00:07:14,449
+a lei te eh Eh, eh, eu vou
+
+151
+00:07:14,459 --> 00:07:16,649
+aguçar a sua curiosidade Deu uma lida porque o que
+
+152
+00:07:16,660 --> 00:07:18,629
+foi tirado de O que o que tá aqui foi
+
+153
+00:07:18,639 --> 00:07:20,970
+tirado da lei, então? E você vai ver
+
+154
+00:07:20,980 --> 00:07:24,009
+que quando você eh se interar do que se trata
+
+155
+00:07:24,019 --> 00:07:27,088
+e você vai observar que a primeira coisa que uma
+
+156
+00:07:27,100 --> 00:07:30,454
+organização tem que fazer em relação a proteção dos dados
+
+157
+00:07:30,463 --> 00:07:33,613
+é nomear um cara chamado encarregado de dados, que
+
+158
+00:07:33,625 --> 00:07:34,673
+é o cara do DO de P.
+
+159
+00:07:34,684 --> 00:07:36,634
+O que que esse cara faz? Ele garante a
+
+160
+00:07:36,644 --> 00:07:38,095
+conformidade e as leis.
+
+161
+00:07:38,105 --> 00:07:42,553
+Ele garante eh um ponto de contato com os titulares
+
+162
+00:07:42,564 --> 00:07:43,415
+com os meus clientes.
+
+163
+00:07:43,423 --> 00:07:47,475
+Então você você é cliente, Você é um eh,
+
+164
+00:07:47,483 --> 00:07:49,088
+eh, tá coletando o seu dado.
+
+165
+00:07:49,100 --> 00:07:51,548
+Qual gente olha, cê quer qualquer empresa tá qualquer
+
+166
+00:07:51,559 --> 00:07:53,649
+empresa, pode ser a empresa.
+
+167
+00:07:53,660 --> 00:07:55,290
+Ah! O primeiro estudo de caso a gente falou
+
+168
+00:07:55,298 --> 00:07:57,129
+de uma concessionária, pode ser uma concessionária.
+
+169
+00:07:57,139 --> 00:07:58,579
+Quando ele fez seu pedido de venda, ele pegou
+
+170
+00:07:58,588 --> 00:08:00,250
+os seus dados lá dentro, ele te ele tá
+
+171
+00:08:00,259 --> 00:08:02,209
+incorrendo em coleta de dados, ele tá incorrendo na
+
+172
+00:08:02,220 --> 00:08:02,709
+lei.
+
+173
+00:08:02,720 --> 00:08:04,970
+Pode ser, por exemplo, você fez uma compra
+
+174
+00:08:04,980 --> 00:08:06,309
+no mercadinho da esquina.
+
+175
+00:08:06,319 --> 00:08:08,088
+Se ele pegou o seu CPF ali, pegou o
+
+176
+00:08:08,100 --> 00:08:09,970
+seu nome, vai tá constando lá.
+
+177
+00:08:09,980 --> 00:08:12,629
+Então isto é, vale pra qualquer uma okay.
+
+178
+00:08:12,639 --> 00:08:14,488
+Qualquer lei ou qualquer lei.
+
+179
+00:08:14,500 --> 00:08:18,699
+Perdão qualquer empresa e qualquer processo, então, eh.
+
+180
+00:08:18,709 --> 00:08:21,170
+O que a gente tem que observar é o seguinte
+
+181
+00:08:21,178 --> 00:08:26,588
+eu preciso ah manifestar a a a eh com em
+
+182
+00:08:26,600 --> 00:08:28,829
+relação aos meus dados, né? Eu preciso eh
+
+183
+00:08:28,838 --> 00:08:31,720
+ter um ponto de de, de de interação com
+
+184
+00:08:31,730 --> 00:08:33,349
+a organização que coletou meu dado.
+
+185
+00:08:33,359 --> 00:08:35,509
+Quem é esse ponto central? Quem é esse cara
+
+186
+00:08:35,519 --> 00:08:37,349
+é o de p O Ele é o encarregado de
+
+187
+00:08:37,359 --> 00:08:40,509
+dados, ele responde eh pela questão da privacidade,
+
+188
+00:08:40,519 --> 00:08:42,349
+ele é a autoridade pra fazer a gestão dentro da
+
+189
+00:08:42,359 --> 00:08:42,710
+empresa.
+
+190
+00:08:42,719 --> 00:08:46,629
+Ali tá legal, bom acerca ainda desse desses dessas
+
+191
+00:08:46,639 --> 00:08:49,830
+perspectivas, né? Nós temos uma série de de
+
+192
+00:08:49,840 --> 00:08:54,450
+de desafios que são, eh envolvidos neste processo.
+
+193
+00:08:54,460 --> 00:08:56,969
+Tá alguns desafios, nós vamos ver alguns agora,
+
+194
+00:08:56,979 --> 00:09:00,330
+está aqui oh atender as solicitações dos titulares, como
+
+195
+00:09:00,340 --> 00:09:03,590
+por exemplo acessar o dado, Corrigir, excluir,
+
+196
+00:09:03,599 --> 00:09:06,710
+responder como o cara tá usando dados dentro da empresa
+
+197
+00:09:06,719 --> 00:09:07,070
+também.
+
+198
+00:09:07,080 --> 00:09:08,849
+É um desafio que eu tenho que responder.
+
+199
+00:09:08,859 --> 00:09:10,649
+Eu tenho o meu processo tem que ser, eh
+
+200
+00:09:10,658 --> 00:09:12,928
+transparente, tem que ser eficiente, Eu não posso
+
+201
+00:09:12,940 --> 00:09:14,580
+dizer chegar pro meu cliente e falar assim.
+
+202
+00:09:14,590 --> 00:09:14,769
+Espera.
+
+203
+00:09:14,779 --> 00:09:16,359
+Aí eu não vou te falar o que que eu
+
+204
+00:09:16,369 --> 00:09:17,479
+faço com o seu dado? Não.
+
+205
+00:09:17,489 --> 00:09:18,840
+Isso não existe mais tá.
+
+206
+00:09:18,849 --> 00:09:20,960
+Eu tenho que falar, eu tenho que comprovar.
+
+207
+00:09:20,969 --> 00:09:23,359
+Eu tenho que materializar isso e qualquer coisa que esteja
+
+208
+00:09:23,369 --> 00:09:27,080
+fora do contexto que não esteja adequadoà finalidade no
+
+209
+00:09:27,090 --> 00:09:31,058
+qual o cara coletou meu dado automaticamente Eu posso exigir,
+
+210
+00:09:31,070 --> 00:09:36,190
+né? Reparações! E sou também como empresa objeto
+
+211
+00:09:36,200 --> 00:09:39,918
+de eh reparações também tá! Também tem aqui eh
+
+212
+00:09:39,928 --> 00:09:43,509
+implementação de um portal de privacidade? Isso aqui já
+
+213
+00:09:43,519 --> 00:09:47,239
+é, eh a os desafios que não só de
+
+214
+00:09:47,250 --> 00:09:50,075
+atender a atividade de como sim, mas também de
+
+215
+00:09:50,085 --> 00:09:54,835
+prover, né? Prover? Prover formas de interação,
+
+216
+00:09:54,844 --> 00:09:59,315
+Formas onde eh Eu posso relacionar e ter condições que
+
+217
+00:09:59,325 --> 00:10:04,315
+possam ser trocadas entre os diversos elementos envolvidos nesse processo?
+
+218
+00:10:04,325 --> 00:10:05,705
+Tá legal.
+
+219
+00:10:05,715 --> 00:10:08,244
+Te aguardo na segunda parte e a gente vai continuar
+
+220
+00:10:08,254 --> 00:10:12,335
+falando dos desafios e evoluir mais um pouco desse contexto
+
+221
+00:10:12,344 --> 00:10:13,634
+dentro desse processo.
+
+222
+00:10:13,644 --> 00:10:14,654
+Obrigado até lá.
+

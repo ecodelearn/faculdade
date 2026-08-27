@@ -1,0 +1,852 @@
+1
+00:00:05,349 --> 00:00:08,329
+seja bem vindo novamente, vamos dar continuidade aos nossos
+
+2
+00:00:08,339 --> 00:00:10,239
+estudos da disciplina de modelagem.
+
+3
+00:00:10,250 --> 00:00:11,909
+Gerencia o processo de negócio.
+
+4
+00:00:11,919 --> 00:00:15,519
+Hoje a nossa aula é sobre análise de desempenho dos
+
+5
+00:00:15,528 --> 00:00:16,719
+processos de negócio.
+
+6
+00:00:16,728 --> 00:00:19,199
+O objetivo aqui é a gente falar um pouco dessa
+
+7
+00:00:19,208 --> 00:00:21,879
+análise de desempenho em relação aos processos que a gente
+
+8
+00:00:21,888 --> 00:00:23,690
+está empregando, dentro das organizações.
+
+9
+00:00:23,699 --> 00:00:28,739
+Tão importante que a gente já viu muito do nosso
+
+10
+00:00:28,750 --> 00:00:37,380
+contexto em vamos dizer oficializar, né? Formalizar essa
+
+11
+00:00:37,389 --> 00:00:40,439
+questão da importância do processo dentro da organização? Então,
+
+12
+00:00:40,450 --> 00:00:43,700
+bem? Não só né? Eh a importância,
+
+13
+00:00:43,709 --> 00:00:48,939
+mas também a como ele se desdobra dentro da instituição
+
+14
+00:00:48,950 --> 00:00:51,529
+e pra isso a gente vai fechando aí esse esse
+
+15
+00:00:51,539 --> 00:00:54,500
+nosso entendimento e falar um pouco eh falando um pouco
+
+16
+00:00:54,509 --> 00:00:56,560
+hoje sobre desempenho dos processos.
+
+17
+00:00:56,569 --> 00:01:00,179
+Tá bom, Ah, a primeira citação que a
+
+18
+00:01:00,189 --> 00:01:01,418
+gente vai ver é do Robert.
+
+19
+00:01:01,429 --> 00:01:03,755
+How, né? Essa que tá aqui na nossa
+
+20
+00:01:03,764 --> 00:01:05,555
+telinha? Que fala assim? Oh, descobri que
+
+21
+00:01:05,564 --> 00:01:07,954
+um processo está fora de controle, não é um
+
+22
+00:01:07,963 --> 00:01:09,454
+evento terrível.
+
+23
+00:01:09,463 --> 00:01:10,635
+Isso não deve ser omitido.
+
+24
+00:01:10,644 --> 00:01:14,754
+Supervisores gestores, auditores, especialistas, em controle de
+
+25
+00:01:14,763 --> 00:01:18,275
+qualidade? Ou mais importa, ou mais importante,
+
+26
+00:01:18,284 --> 00:01:19,495
+dos clientes.
+
+27
+00:01:19,504 --> 00:01:21,314
+De certo modo, esse é um evento que deve
+
+28
+00:01:21,323 --> 00:01:24,674
+ser celebrado, pois proporciona ao dono do processo uma
+
+29
+00:01:24,683 --> 00:01:26,415
+oportunidade para melhorar o processo.
+
+30
+00:01:26,609 --> 00:01:30,939
+Bom arrecado aqui é nem tudo está perdido.
+
+31
+00:01:30,948 --> 00:01:34,299
+Okay está fora do controle, não, não pressupõe
+
+32
+00:01:34,308 --> 00:01:37,219
+que a gente não tem salvação.
+
+33
+00:01:37,230 --> 00:01:40,750
+Que nada vai, eh, eh, eh ser
+
+34
+00:01:40,760 --> 00:01:44,138
+encaminhado de forma eh adequada.
+
+35
+00:01:44,150 --> 00:01:47,019
+Enfim, não é essa esse pressuposto é o pressuposto
+
+36
+00:01:47,028 --> 00:01:49,459
+Aqui é temos um problema.
+
+37
+00:01:49,469 --> 00:01:52,719
+Temos uma falta de controle, né? Então,
+
+38
+00:01:52,730 --> 00:01:55,180
+o que nós vamos trabalhar pra melhorar esse controle E
+
+39
+00:01:55,189 --> 00:01:57,918
+esse é o pressuposto da da da, da gestão
+
+40
+00:01:57,930 --> 00:02:00,430
+de eh, de modelagem de processo, né?
+
+41
+00:02:00,439 --> 00:02:03,549
+De uma gestão efetiva que a gente pode dizer né,
+
+42
+00:02:03,558 --> 00:02:06,808
+A gente já viu que gestão e controle caminham juntos
+
+43
+00:02:06,819 --> 00:02:10,508
+e quando eu me deparo com algo, eh que
+
+44
+00:02:10,520 --> 00:02:12,270
+não está bacana, que não está legal.
+
+45
+00:02:12,278 --> 00:02:16,229
+A minha intenção aqui deve ser de ajustar e não
+
+46
+00:02:16,240 --> 00:02:17,788
+de me omitir.
+
+47
+00:02:17,800 --> 00:02:20,189
+Então a comunicação deve ser feita.
+
+48
+00:02:20,199 --> 00:02:24,550
+Deve ser eh o time, todo organizacional, deve
+
+49
+00:02:24,558 --> 00:02:27,899
+entender que aquilo ali eh o que está ocorrendo,
+
+50
+00:02:27,909 --> 00:02:32,939
+né? E buscar trabalhar juntos pra poder resolver,
+
+51
+00:02:32,949 --> 00:02:36,899
+né? Esses gargalos? Esses gaps essas essas inconsistências
+
+52
+00:02:36,909 --> 00:02:40,139
+aí né? Esse essa falta de controle, né?
+
+53
+00:02:40,149 --> 00:02:42,258
+E fica um recado, já que a gente tá
+
+54
+00:02:42,270 --> 00:02:46,020
+absorvendo esse conteúdo, né? eh a falta de
+
+55
+00:02:46,028 --> 00:02:49,118
+controle não deve ser ensejo para punição, né?
+
+56
+00:02:49,129 --> 00:02:52,118
+Muitas vezes a gente associa algo que não tá legal,
+
+57
+00:02:52,129 --> 00:02:55,104
+legal, a a a buscar um culpado pra isso,
+
+58
+00:02:55,115 --> 00:02:57,524
+Não, aqui não é essa a palavra que eu
+
+59
+00:02:57,534 --> 00:02:58,403
+quero deixar pra vocês.
+
+60
+00:02:58,413 --> 00:03:00,993
+Eu quero deixar a palavra de que temos uma um
+
+61
+00:03:01,004 --> 00:03:01,804
+problema.
+
+62
+00:03:01,814 --> 00:03:04,224
+Temos uma uma falta de controle.
+
+63
+00:03:04,235 --> 00:03:06,524
+E o que nós vamos trabalhar é como um time
+
+64
+00:03:06,534 --> 00:03:10,383
+pra colocar de novo nos trilhos né? O nosso
+
+65
+00:03:10,395 --> 00:03:12,724
+processo, e aí vem é claro, né?
+
+66
+00:03:12,735 --> 00:03:16,925
+Que vem aquela perspectiva de primeiro trazer toda a organização.
+
+67
+00:03:16,933 --> 00:03:20,058
+E segundo, de olhar pra dentro, daquilo que
+
+68
+00:03:20,069 --> 00:03:23,520
+precisa ser feito juntando todo o time, né?
+
+69
+00:03:23,528 --> 00:03:25,189
+Eh e buscar essa oportunidade de melhoria.
+
+70
+00:03:25,199 --> 00:03:29,008
+Esse é o recado nessa primeira eh esse primeiro site
+
+71
+00:03:29,020 --> 00:03:31,300
+que nós temos aqui, né? Bom o que
+
+72
+00:03:31,308 --> 00:03:31,899
+pressupõe.
+
+73
+00:03:31,909 --> 00:03:33,008
+Então? O que? Que? O que quer
+
+74
+00:03:33,020 --> 00:03:36,520
+dizer o desempenho de processo? Acompanhando E analisando esse
+
+75
+00:03:36,528 --> 00:03:39,258
+primeiro o acompanhamento do processo, né? Ele é
+
+76
+00:03:39,270 --> 00:03:41,550
+obtido por meio de monitoramento e controle.
+
+77
+00:03:41,558 --> 00:03:44,699
+Olha, aqui, oh Monitoramento e controle fala dessa
+
+78
+00:03:44,710 --> 00:03:47,729
+palavrinha aqui ao longo do nosso trabalho Okay.
+
+79
+00:03:47,740 --> 00:03:49,349
+Então elas fazem diferença.
+
+80
+00:03:49,360 --> 00:03:52,479
+Então não é simplesmente desenhar um processo, escreveu Lá
+
+81
+00:03:52,490 --> 00:03:54,929
+bonitinho ele tá lindo, maravilhoso, tá perfeito.
+
+82
+00:03:54,939 --> 00:03:56,929
+Eu devo monitorar e controlar.
+
+83
+00:03:56,939 --> 00:04:00,008
+Eu faço a gestão desse processo e a gestão só
+
+84
+00:04:00,020 --> 00:04:01,960
+pode ser feita quando eu, quando eu sei o
+
+85
+00:04:01,969 --> 00:04:04,770
+que eu estou trabalhando, né? E pra garantir
+
+86
+00:04:04,778 --> 00:04:06,569
+que isso aconteça? Eu vou monitorar, né?
+
+87
+00:04:06,580 --> 00:04:08,610
+Vou monitorar e vou controlar, por meio de aplicação
+
+88
+00:04:08,618 --> 00:04:12,469
+de indicadores de metas definidos, os objetivos, Enfim,
+
+89
+00:04:12,479 --> 00:04:14,449
+né Tudo aquilo que a gente já eh já viu
+
+90
+00:04:14,460 --> 00:04:20,937
+anteriormente depois A perspectiva é precisamos construir indicadores que expressem
+
+91
+00:04:20,949 --> 00:04:23,098
+a verdade do desempenho que queremos auferir.
+
+92
+00:04:23,108 --> 00:04:25,699
+Olha só algumas palavrinhas importantes aqui.
+
+93
+00:04:25,709 --> 00:04:29,098
+Oh, Construir indicadores é uma eh eh! São
+
+94
+00:04:29,108 --> 00:04:34,117
+duas palavras importantes verdade do desempenho, que queremos auferir
+
+95
+00:04:34,127 --> 00:04:36,418
+okay, porque a gente tem que ter tem que
+
+96
+00:04:36,427 --> 00:04:40,149
+tá eh, eh sintonizado Ou sincronizar aquilo com o
+
+97
+00:04:40,160 --> 00:04:44,149
+contexto que nós estamos medindo, nem mais nem menos
+
+98
+00:04:44,160 --> 00:04:46,389
+né? Eu já vi casos, por exemplo,
+
+99
+00:04:46,399 --> 00:04:52,189
+de processos de venda cujo indicador era x, né?
+
+100
+00:04:52,199 --> 00:04:53,988
+Vamos dizer o cara vai vender.
+
+101
+00:04:54,000 --> 00:04:55,149
+E ele tinha que faturar.
+
+102
+00:04:55,160 --> 00:04:57,588
+Sei lá cem mil no, no, no final
+
+103
+00:04:57,600 --> 00:04:59,369
+do do período, a venda dele total, no
+
+104
+00:04:59,379 --> 00:05:01,028
+final do do, do, de um certo certo
+
+105
+00:05:01,040 --> 00:05:02,329
+período, tinha que ser cem mil reais.
+
+106
+00:05:02,639 --> 00:05:05,088
+E aí finalizava aquele período, a empresa falava assim,
+
+107
+00:05:05,100 --> 00:05:05,889
+bacanas a.
+
+108
+00:05:05,899 --> 00:05:07,129
+Atendemos a meta.
+
+109
+00:05:07,139 --> 00:05:08,980
+Agora vamos melhorar essa meta aí.
+
+110
+00:05:08,988 --> 00:05:12,048
+Ele pegava a meta de cem mil e triplicava essa
+
+111
+00:05:12,059 --> 00:05:13,028
+meta quadruplica.
+
+112
+00:05:13,040 --> 00:05:15,129
+Agora cê tem que vender quinhentos mil opa pera Aí
+
+113
+00:05:15,139 --> 00:05:17,569
+será que isso tá adequado? Esse indicador expressa a
+
+114
+00:05:17,579 --> 00:05:19,730
+verdade do desempenho que esse cara consegue.
+
+115
+00:05:19,738 --> 00:05:21,129
+Ele tem um instrumento correto.
+
+116
+00:05:21,139 --> 00:05:22,509
+Eu vou alcançar isso.
+
+117
+00:05:22,519 --> 00:05:26,115
+Não adianta a gente dar uma perspectiva absurda, né?
+
+118
+00:05:26,125 --> 00:05:28,384
+E daí depois sai correndo atrás, feito um maluco
+
+119
+00:05:28,394 --> 00:05:32,175
+tentando atingir aquilo que muitas das vezes geram.
+
+120
+00:05:32,185 --> 00:05:34,295
+Estresse geram conformismo.
+
+121
+00:05:34,305 --> 00:05:36,995
+Não é essa a A a o que a gente
+
+122
+00:05:37,005 --> 00:05:40,685
+tem que eh trabalhar, né? Quando trabalhamos numa
+
+123
+00:05:40,696 --> 00:05:43,795
+organização séria, numa organização que tem crescimento, que
+
+124
+00:05:43,805 --> 00:05:46,701
+tem continuidade que tem um processo bem okay, então
+
+125
+00:05:46,711 --> 00:05:50,321
+a construção de indicador tem que esperar, eh expressar
+
+126
+00:05:50,331 --> 00:05:53,380
+essa verdade que nós estamos querendo eh, eh construir
+
+127
+00:05:53,391 --> 00:05:57,182
+dentro da organização e depois oh Sem medição, não
+
+128
+00:05:57,190 --> 00:06:00,221
+temos controle e gestão! Ou seja, eh,
+
+129
+00:06:00,230 --> 00:06:02,901
+já vimos isso por meio de algumas frases no passado
+
+130
+00:06:02,911 --> 00:06:04,860
+é que a gente só controla o que a gente
+
+131
+00:06:04,872 --> 00:06:05,321
+mede.
+
+132
+00:06:05,331 --> 00:06:08,319
+Se eu não sei o que eu estou, eh
+
+133
+00:06:08,329 --> 00:06:10,559
+eh se eu não tenho o controle da medida.
+
+134
+00:06:10,569 --> 00:06:11,920
+Como é que eu vou vo? Vou gerir,
+
+135
+00:06:11,928 --> 00:06:12,798
+como é que eu sei se é bom ou se
+
+136
+00:06:12,809 --> 00:06:14,579
+é ruim? Não tem como, né? Então
+
+137
+00:06:14,588 --> 00:06:15,899
+eu preciso estabelecer uma medida.
+
+138
+00:06:15,910 --> 00:06:19,858
+A partir daí eu consigo determinar se eu estou dentro
+
+139
+00:06:19,869 --> 00:06:23,379
+ou fora dentro dessa medida e consigo trabalhar ela com
+
+140
+00:06:23,389 --> 00:06:24,738
+perspectiva de melhoria.
+
+141
+00:06:24,750 --> 00:06:27,199
+Com perspectiva de eh de co.
+
+142
+00:06:27,209 --> 00:06:31,220
+Eh correção de, né, com perspectiva de realmente
+
+143
+00:06:31,230 --> 00:06:34,858
+conduzir e alcançar naquele objetivo no qual eu eu tô
+
+144
+00:06:34,869 --> 00:06:38,139
+trabalhando pra alcançar, né? Sempre em função da
+
+145
+00:06:38,149 --> 00:06:42,088
+estratégia institucional Okay, bom, vamos detalhar um pouquinho
+
+146
+00:06:42,100 --> 00:06:45,269
+mais, falando sobre os passos pra construção desses indicadores,
+
+147
+00:06:45,278 --> 00:06:47,790
+então tá lá o passo um definir o problema,
+
+148
+00:06:47,798 --> 00:06:49,879
+o qual indicador se aplica.
+
+149
+00:06:49,889 --> 00:06:53,019
+Então, a gente tem que ter um entendimento sobre
+
+150
+00:06:53,028 --> 00:06:56,338
+esse problema completo que eu vou resolver, O que
+
+151
+00:06:56,350 --> 00:06:58,189
+é claro que se eu não tenho, olha se
+
+152
+00:06:58,199 --> 00:07:02,230
+os gestores agem com frequência, sem ter entendimento né?
+
+153
+00:07:02,238 --> 00:07:04,069
+Do problema, não vou conseguir resolver.
+
+154
+00:07:04,079 --> 00:07:06,309
+Então a primeira coisa é definir o problema.
+
+155
+00:07:06,319 --> 00:07:10,480
+Qual é o problema Okay que esse indicador se aplica.
+
+156
+00:07:10,488 --> 00:07:11,649
+Então essa é a primeira coisa.
+
+157
+00:07:11,660 --> 00:07:16,290
+Segundo, identificar os critérios pra indicadores, né?
+
+158
+00:07:16,298 --> 00:07:19,379
+Então eh eh critérios, é que que eu vou
+
+159
+00:07:19,389 --> 00:07:21,730
+considerar pra definir esse indicador.
+
+160
+00:07:21,738 --> 00:07:28,189
+Vai ser performance, vai ser eh, por exemplo,
+
+161
+00:07:28,199 --> 00:07:32,230
+quantidade de eh de erros eh, eh minimizar erros!
+
+162
+00:07:32,238 --> 00:07:33,389
+Enfim! Benchmark.
+
+163
+00:07:33,399 --> 00:07:35,689
+Qual é o critério que eu vou trabalhar com isso
+
+164
+00:07:35,699 --> 00:07:38,649
+agora? Eu vou avaliar os critérios pra esses indicadores,
+
+165
+00:07:38,660 --> 00:07:40,738
+né? Então, observando assim, se eu trabalhar
+
+166
+00:07:40,750 --> 00:07:42,670
+com um critério diferente, a importância vai ser distinta.
+
+167
+00:07:42,678 --> 00:07:44,629
+Então, se por um conjunto de indicadores eu trabalho
+
+168
+00:07:44,639 --> 00:07:48,470
+um critério pra outro critérios diferentes eu vou ter pesos
+
+169
+00:07:48,480 --> 00:07:52,059
+diferentes ali, né? E importâncias distintas ali.
+
+170
+00:07:52,069 --> 00:07:54,230
+Então é importante a gente avaliar esses critérios, esses
+
+171
+00:07:54,238 --> 00:07:57,389
+indicadores, pra ver se tá adequado pra nossa organização.
+
+172
+00:07:57,399 --> 00:08:00,720
+Depois, conheça mais sobre as alternativas relevantes.
+
+173
+00:08:00,730 --> 00:08:03,488
+O indicador deve gerar possíveis cursos de ação.
+
+174
+00:08:03,500 --> 00:08:07,139
+Então o indicador ele serve pra nos dar um norte,
+
+175
+00:08:07,149 --> 00:08:10,600
+dar esse caminho e qualquer desvio, né? Po,
+
+176
+00:08:10,608 --> 00:08:14,699
+Vai me gerar uma um curso de ação, quer
+
+177
+00:08:14,709 --> 00:08:19,189
+seja pra melhoria também, como pra ajustes de possíveis
+
+178
+00:08:19,199 --> 00:08:21,480
+distorções que nós tenhamos aí no meio do caminho.
+
+179
+00:08:22,259 --> 00:08:26,269
+Passo cinco é classificar cada curso de ação com base
+
+180
+00:08:26,278 --> 00:08:28,250
+em cada critério, Ou seja, com frequência,
+
+181
+00:08:28,259 --> 00:08:31,230
+essa aqui é uma parte difícil porque requer uma previsão
+
+182
+00:08:31,238 --> 00:08:32,288
+de evento futuro.
+
+183
+00:08:32,298 --> 00:08:35,109
+Então quando você usa, EH, classifica o curso
+
+184
+00:08:35,119 --> 00:08:37,389
+em razão a um critério a uma ação com base
+
+185
+00:08:37,399 --> 00:08:40,090
+no critério aquela ação, ela não vai ter um
+
+186
+00:08:40,099 --> 00:08:41,989
+efeito imediato, ela vai ter um efeito um pouco
+
+187
+00:08:42,000 --> 00:08:44,168
+mais, eh pra frente.
+
+188
+00:08:44,178 --> 00:08:46,769
+Então, isso aí seja um pouco mais de vamos
+
+189
+00:08:46,779 --> 00:08:49,048
+dizer, de desconhecimento e de risco.
+
+190
+00:08:49,058 --> 00:08:51,308
+E aí é, É difícil a gente trabalhar com
+
+191
+00:08:51,320 --> 00:08:53,308
+isso, mas é importante a gente veri, eh,
+
+192
+00:08:53,320 --> 00:08:57,090
+é importante a gente considerar e o passo seis Mapear
+
+193
+00:08:57,099 --> 00:09:00,288
+as alternativas e escolher o melhor, a melhor,
+
+194
+00:09:00,298 --> 00:09:04,308
+utilizando os indicadores, então mapeia as alternativas de escolha
+
+195
+00:09:04,320 --> 00:09:06,629
+Melhor indicando as, indica eh usando os indicadores.
+
+196
+00:09:06,639 --> 00:09:09,048
+Então esse mapeamento ele é fundamental.
+
+197
+00:09:09,058 --> 00:09:10,908
+Lembrando que a gente vem de passo a passo,
+
+198
+00:09:10,918 --> 00:09:14,408
+A gente vai definir um conjunto de indicadores, critérios
+
+199
+00:09:14,418 --> 00:09:17,509
+e depois nós vamos buscar aquilo que é melhor para
+
+200
+00:09:17,519 --> 00:09:20,945
+nosso aquilo que vai atender os requisitos nos quais eu
+
+201
+00:09:20,955 --> 00:09:25,264
+quero estabelecer e quero caminhar, eh, eh organização,
+
+202
+00:09:25,274 --> 00:09:27,783
+se situe e alcance simples, né? Dentro de
+
+203
+00:09:27,793 --> 00:09:31,663
+uma perspectiva realizável dentro de uma de uma perspectiva que
+
+204
+00:09:31,673 --> 00:09:35,840
+eu possa entregar, tá E por fim, né?
+
+205
+00:09:35,849 --> 00:09:40,200
+O processo de medição reporte, avaliação e resposta deve
+
+206
+00:09:40,210 --> 00:09:43,379
+estar contextualizado dentro de uma expectativa adequada.
+
+207
+00:09:43,389 --> 00:09:45,599
+Ou seja, a organização deve entender o que é
+
+208
+00:09:45,609 --> 00:09:49,080
+possível e necessário.
+
+209
+00:09:49,090 --> 00:09:53,379
+Ou seja, a adequação pressupõe que a medição todo
+
+210
+00:09:53,389 --> 00:09:55,960
+o reporte, toda variação está dentro daquilo que eu
+
+211
+00:09:55,969 --> 00:10:00,019
+espero que a expectativa da organização trabalha, que ela
+
+212
+00:10:00,029 --> 00:10:01,798
+deseja que ela quer alcançar.
+
+213
+00:10:01,808 --> 00:10:04,399
+Okay, Obrigado e até a próxima aula.
+

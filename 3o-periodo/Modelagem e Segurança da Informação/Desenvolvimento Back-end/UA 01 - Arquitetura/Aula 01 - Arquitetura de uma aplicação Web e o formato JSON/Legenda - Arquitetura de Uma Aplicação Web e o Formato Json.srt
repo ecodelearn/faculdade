@@ -1,0 +1,464 @@
+1
+00:00:06,780 --> 00:00:08,509
+Olá, eu sou o professor Dani S Cop e
+
+2
+00:00:08,519 --> 00:00:11,269
+nós vamos falar um pouquinho sobre arquitetura de redes,
+
+3
+00:00:11,278 --> 00:00:15,108
+né? E pra internet e também sobre o formato
+
+4
+00:00:15,118 --> 00:00:20,708
+jason, que é muito usado nos vamos lá então.
+
+5
+00:00:20,719 --> 00:00:24,940
+Principais protocolos da web hum Ah, o TC p
+
+6
+00:00:24,949 --> 00:00:26,780
+i p é o protocolo de base de toda a
+
+7
+00:00:26,789 --> 00:00:27,239
+internet.
+
+8
+00:00:27,250 --> 00:00:29,760
+Na verdade, são dois protocolos o TC P,
+
+9
+00:00:29,769 --> 00:00:31,318
+que é na camada de transporte.
+
+10
+00:00:31,329 --> 00:00:33,840
+O i p quer na camada de internet, né,
+
+11
+00:00:33,848 --> 00:00:36,200
+seria de conexão? Então o i p é o
+
+12
+00:00:36,209 --> 00:00:38,298
+endereço né? Da máquina.
+
+13
+00:00:38,609 --> 00:00:39,719
+E você tem o TC p, que é a
+
+14
+00:00:39,728 --> 00:00:40,500
+camada de transporte.
+
+15
+00:00:40,509 --> 00:00:43,259
+Eles trabalham em conjunto, né? Eles dois juntos
+
+16
+00:00:43,270 --> 00:00:46,500
+fornecem a base de toda a internet, né?
+
+17
+00:00:46,509 --> 00:00:49,259
+O h t t P é o protocolo de hipertexto,
+
+18
+00:00:49,270 --> 00:00:51,500
+né? Todos os serviços h t, p,
+
+19
+00:00:51,509 --> 00:00:53,459
+f, t p e todos os demais vão rodar
+
+20
+00:00:53,469 --> 00:00:55,819
+em cima do TC p i p, né tá?
+
+21
+00:00:55,829 --> 00:00:58,340
+Funciona de acordo com aquele modelo o de camadas,
+
+22
+00:00:58,348 --> 00:01:01,000
+né? Eh o h t t P Ele é
+
+23
+00:01:01,009 --> 00:01:03,529
+um protocolo de hipertexto, né? Seria pra você
+
+24
+00:01:03,539 --> 00:01:05,959
+transferir páginas, né? O h t ML!
+
+25
+00:01:06,400 --> 00:01:09,448
+Eh e ele tem essa funcionalidade Básica, né?
+
+26
+00:01:09,459 --> 00:01:12,230
+Ah, hoje em dia ele consegue também dar suporte
+
+27
+00:01:12,239 --> 00:01:14,489
+a várias outras coisas, como por exemplo, o
+
+28
+00:01:14,500 --> 00:01:18,370
+web do tipo ou o web, né? Então
+
+29
+00:01:18,379 --> 00:01:21,290
+ele foi aproveitado pra outras finalidades, embora a sua
+
+30
+00:01:21,299 --> 00:01:25,418
+finalidade original fosse apenas a navegação, seria os links
+
+31
+00:01:25,430 --> 00:01:28,239
+de Perm, né? Bom o F t P
+
+32
+00:01:28,250 --> 00:01:31,278
+F T P seria o protocolo de transferência de arquivos.
+
+33
+00:01:31,290 --> 00:01:34,019
+Fala de transfer, né? Ele é usado pra
+
+34
+00:01:34,028 --> 00:01:37,540
+transferir arquivos entre máquinas binárias ou modo texto, né?
+
+35
+00:01:37,549 --> 00:01:40,159
+Eh? Hoje em dia você tem muito acesso direto
+
+36
+00:01:40,168 --> 00:01:42,888
+pelo próprio eh h, t p né? O
+
+37
+00:01:42,900 --> 00:01:45,159
+F T p rodando sobre ele, né? Então
+
+38
+00:01:45,168 --> 00:01:47,799
+assim o f t p eh ainda é muito usado.
+
+39
+00:01:47,808 --> 00:01:50,239
+Por exemplo, quando você vai fazer um eh de
+
+40
+00:01:50,250 --> 00:01:53,260
+um aplicativo qualquer pra um servidor, né? Normalmente
+
+41
+00:01:53,269 --> 00:01:54,459
+a gente trabalha o f t p que é mais
+
+42
+00:01:54,469 --> 00:01:57,260
+seguro pra poder fazer a transferência de arquivo.
+
+43
+00:01:57,269 --> 00:02:01,120
+Um f t PS o s m t p é
+
+44
+00:02:01,129 --> 00:02:05,000
+o protocolo de envio de e-mails, né? Eu
+
+45
+00:02:05,010 --> 00:02:06,439
+tenho o protocolo de envio de e-mails.
+
+46
+00:02:06,448 --> 00:02:08,319
+Eu tenho o pop que é pra recepção.
+
+47
+00:02:08,330 --> 00:02:09,889
+É um comportamento ací.
+
+48
+00:02:09,899 --> 00:02:12,830
+Crono O que significa que você não tem uma resposta
+
+49
+00:02:12,838 --> 00:02:15,879
+imediata? Você envia aquele e-mail.
+
+50
+00:02:15,889 --> 00:02:18,258
+Alguém vai ler em algum momento? Tá.
+
+51
+00:02:18,469 --> 00:02:20,960
+É muito comum você ter esse tipo de sistema a
+
+52
+00:02:20,969 --> 00:02:21,479
+SC.
+
+53
+00:02:21,490 --> 00:02:24,979
+Em algumas situações, por exemplo, mensageiras mensageiras também
+
+54
+00:02:24,990 --> 00:02:30,189
+trabalham dessa forma né? Bom e com relação aos
+
+55
+00:02:30,199 --> 00:02:33,599
+endereços, né? Eh o i p, né,
+
+56
+00:02:33,610 --> 00:02:36,189
+seria um número o i p v quatro seria um
+
+57
+00:02:36,199 --> 00:02:39,719
+número de quatro dígitos, né? Quatro posições onde
+
+58
+00:02:39,729 --> 00:02:41,740
+eu teria uma variação de zero a dois cinco cinco
+
+59
+00:02:41,750 --> 00:02:44,879
+em cada uma das quatro posições é de zero zero
+
+60
+00:02:44,889 --> 00:02:48,210
+f f decimal, né? Para nós, humanos,
+
+61
+00:02:48,219 --> 00:02:51,808
+é muito difícil guardar números, então eu preciso de
+
+62
+00:02:51,819 --> 00:02:54,849
+alguma coisa que faça uma relação com nomes, né?
+
+63
+00:02:54,860 --> 00:02:58,088
+É mais fácil guardar o endereço como WWW ponto google
+
+64
+00:02:58,099 --> 00:03:03,819
+ponto com Do que simplesmente gravar um número IP daquele
+
+65
+00:03:03,830 --> 00:03:07,129
+daquele servidor, né? E esse serviço que fornece
+
+66
+00:03:07,139 --> 00:03:10,129
+os nomes é chamado de DNS, que é sistema
+
+67
+00:03:10,139 --> 00:03:12,569
+de nomes e domínios, né? Então você tem
+
+68
+00:03:12,580 --> 00:03:16,368
+ali, eh um servidor que tem o objetivo de
+
+69
+00:03:16,379 --> 00:03:18,750
+pegar o seu endereço e retornar ao i P,
+
+70
+00:03:18,758 --> 00:03:22,028
+Porque a conexão entre as máquinas, né? No
+
+71
+00:03:22,038 --> 00:03:23,270
+final é de i.
+
+72
+00:03:23,278 --> 00:03:25,710
+P pra i p e a gente não vai ficar
+
+73
+00:03:25,719 --> 00:03:28,149
+guardando IPs, né? Então o DNS ele vai
+
+74
+00:03:28,159 --> 00:03:32,389
+sempre colocar os nomes pra que você eh, descubra
+
+75
+00:03:32,399 --> 00:03:34,058
+eh eh Qual é o i p pra poder se
+
+76
+00:03:34,069 --> 00:03:37,270
+conectar um outro conceito muito importante é o de Ke,
+
+77
+00:03:37,278 --> 00:03:41,110
+né? Um é o seguinte eh Quando você acessa
+
+78
+00:03:41,118 --> 00:03:43,899
+um servidor, você tem lá um i p mas
+
+79
+00:03:43,909 --> 00:03:45,500
+ele pode ter n serviços.
+
+80
+00:03:45,508 --> 00:03:47,479
+Como é que você vai saber o que você quer
+
+81
+00:03:47,490 --> 00:03:49,500
+dele, né? Como o servidor vai saber o
+
+82
+00:03:49,508 --> 00:03:53,300
+que você quer cada serviço fica em uma porta porta
+
+83
+00:03:53,308 --> 00:03:56,558
+oitenta pra h t p tem porta do teu net,
+
+84
+00:03:56,569 --> 00:03:58,338
+porta do f t p e as portas de cada
+
+85
+00:03:58,349 --> 00:04:01,159
+aplicativo que fizer, né? Então você tem o
+
+86
+00:04:01,169 --> 00:04:03,319
+quê o i p mais uma porta que é a
+
+87
+00:04:03,330 --> 00:04:06,118
+base? Basicamente um soquete, né? Mas eu
+
+88
+00:04:06,129 --> 00:04:08,899
+tenho o soquete do servidor que no caso ele fica
+
+89
+00:04:08,909 --> 00:04:10,838
+no Estado que chama de listen, né? Ele
+
+90
+00:04:10,849 --> 00:04:14,520
+vai ficar escutando conexões, mas só pra poder recebê-las,
+
+91
+00:04:14,528 --> 00:04:16,439
+mas ele não faz a comunicação.
+
+92
+00:04:16,449 --> 00:04:19,980
+O servidor fica em Listen escutando lá aquela porta.
+
+93
+00:04:19,988 --> 00:04:23,949
+Quando o cliente pede uma conexão, ele gera um
+
+94
+00:04:23,959 --> 00:04:26,488
+novo sock do lado do servidor e com isso faz
+
+95
+00:04:26,500 --> 00:04:27,059
+a conexão.
+
+96
+00:04:27,069 --> 00:04:30,108
+Só! Catia soc com essa comunicação tá, eh.
+
+97
+00:04:30,119 --> 00:04:33,028
+É claro que isso é um ambiente que necessita de
+
+98
+00:04:33,040 --> 00:04:36,988
+sem as eu vou ser obrigado a trabalhar com o
+
+99
+00:04:37,000 --> 00:04:39,629
+servidor, ou seja, poder responder um cliente de
+
+100
+00:04:39,639 --> 00:04:40,209
+cada vez.
+
+101
+00:04:40,619 --> 00:04:42,579
+E eu tenho que responder a vários clientes ao mesmo
+
+102
+00:04:42,588 --> 00:04:43,100
+tempo.
+
+103
+00:04:43,108 --> 00:04:46,389
+Então eu preciso de né, as tarefas para que
+
+104
+00:04:46,399 --> 00:04:50,548
+eu possa eh individualizar as conexões e fazer a comunicação
+
+105
+00:04:50,559 --> 00:04:52,970
+Eh, Eh! Eh daquele soc a nível servidor,
+
+106
+00:04:52,980 --> 00:04:55,649
+e o soc, a nível cliente, né?
+
+107
+00:04:55,660 --> 00:05:01,238
+E bom eh basicamente, esses são os elementos principais
+
+108
+00:05:01,250 --> 00:05:03,480
+em termos de uma arquitetura ou web, né?
+
+109
+00:05:03,488 --> 00:05:05,579
+A questão do TC p i P o uso do
+
+110
+00:05:05,588 --> 00:05:08,639
+h t p aquele conceito de Socrates, né?
+
+111
+00:05:08,649 --> 00:05:13,588
+E a necessidade de elementos, né? Aqui a
+
+112
+00:05:13,600 --> 00:05:16,338
+gente consegue ter uma ideia geral de quais são os
+
+113
+00:05:16,350 --> 00:05:20,899
+elementos principais básicos em termos de construção de aplicativos web.
+
+114
+00:05:20,910 --> 00:05:24,709
+Claro que cada área tem suas necessidades, mas para
+
+115
+00:05:24,720 --> 00:05:27,660
+que a gente precisa em termos de aplicativos web,
+
+116
+00:05:27,670 --> 00:05:31,319
+essa é o tipo de informação necessária.
+

@@ -1,0 +1,548 @@
+1
+00:00:06,368 --> 00:00:09,839
+Olá, vamos falar um pouquinho sobre os métodos do
+
+2
+00:00:09,849 --> 00:00:12,019
+h t P né? Na verdade, assim,
+
+3
+00:00:12,028 --> 00:00:14,179
+os métodos do h t P são utilização dentro do
+
+4
+00:00:14,189 --> 00:00:15,118
+ambiente do st.
+
+5
+00:00:15,728 --> 00:00:19,298
+Porque eh! Eu vou usar esses métodos pra diferenciar
+
+6
+00:00:19,309 --> 00:00:21,559
+o tipo de operação que eu quero fazer, né?
+
+7
+00:00:21,568 --> 00:00:25,839
+Vamos dar uma olhadinha aqui, então o método do
+
+8
+00:00:25,850 --> 00:00:29,899
+h t p pra p um mto got é pra
+
+9
+00:00:29,908 --> 00:00:32,779
+consultas, né? Então, assim a rota de
+
+10
+00:00:32,789 --> 00:00:35,380
+base retornou todas as entidades, Eu tenho sempre uma
+
+11
+00:00:35,389 --> 00:00:37,130
+rota de base que a gente chama de base,
+
+12
+00:00:37,139 --> 00:00:41,139
+R L eh onde você tem ali o endereço principal,
+
+13
+00:00:41,149 --> 00:00:43,429
+né? Eu tenho, por exemplo, aqui h
+
+14
+00:00:43,439 --> 00:00:46,348
+T p três mil barra produtos A rota com a
+
+15
+00:00:46,359 --> 00:00:50,579
+chave no final retorna uma entidade, né? Aí
+
+16
+00:00:50,590 --> 00:00:53,500
+tem os três mil barra produtos, barra um e
+
+17
+00:00:53,509 --> 00:00:55,829
+o retorno dos dados é sempre em Jason, né?
+
+18
+00:00:55,840 --> 00:00:57,689
+Bom, eu posso fazer esse teste aqui.
+
+19
+00:01:00,139 --> 00:01:04,879
+Ah, a que eu posso usar o próprio eh
+
+20
+00:01:06,069 --> 00:01:12,019
+Não posso usar aqui o próprio h t p gt,
+
+21
+00:01:12,028 --> 00:01:18,099
+né? A requisição dentro do do código Java Script
+
+22
+00:01:18,109 --> 00:01:23,099
+ou poderia usar também um navegador pra isso, né?
+
+23
+00:01:23,109 --> 00:01:27,528
+Então, aqui eu já tenho alguns produtos comentar essa
+
+24
+00:01:27,540 --> 00:01:30,370
+parte aqui deixar só o Server o server h t
+
+25
+00:01:30,379 --> 00:01:54,250
+p padrão não uhum okay Hum ainda três abriu um
+
+26
+00:01:54,260 --> 00:02:05,930
+crome aqui, quatrocentos e quatro smartphone já foi uma
+
+27
+00:02:05,939 --> 00:02:12,058
+que eu mandei pra ele que aqui já tá pegando
+
+28
+00:02:12,710 --> 00:02:17,879
+a que eu poderia também fazer inclusões alterações exclusões em
+
+29
+00:02:17,889 --> 00:02:18,800
+outros métodos.
+
+30
+00:02:18,808 --> 00:02:20,919
+Aí é interessante usar outras ferramentas.
+
+31
+00:02:20,929 --> 00:02:24,240
+Uma que eu gosto bastante é o plugin do Chrome
+
+32
+00:02:24,250 --> 00:02:27,399
+é do Boomerang que ele consegue fazer esse tipo de
+
+33
+00:02:27,409 --> 00:02:30,080
+coisa, né? Mas só pra consulta você pode
+
+34
+00:02:30,088 --> 00:02:32,538
+consultar simplesmente fazendo isso.
+
+35
+00:02:32,550 --> 00:02:37,349
+Ah, ele não achou ou alguma coisa deu errado?
+
+36
+00:02:38,899 --> 00:02:46,689
+Não continua rodando hum já sei o que ele tá
+
+37
+00:02:46,699 --> 00:02:53,330
+fazendo, não, não é só colo, é
+
+38
+00:02:53,338 --> 00:02:57,250
+só colo reconhecendo o post não tá reconhecendo um produto
+
+39
+00:02:57,258 --> 00:03:01,868
+específico? Tá? Eh se pra reconhecer o produto
+
+40
+00:03:01,879 --> 00:03:05,368
+teria que pegar aquele seg pra poder usar.
+
+41
+00:03:05,379 --> 00:03:09,088
+Realmente o eh fazer acesso lá aquele recurso, né?
+
+42
+00:03:09,099 --> 00:03:11,270
+Então como não tá programado o recurso vai conseguir pegar
+
+43
+00:03:11,278 --> 00:03:12,689
+todos bom.
+
+44
+00:03:14,949 --> 00:03:17,860
+Então assim, dentro do padrão do ST se eu
+
+45
+00:03:17,868 --> 00:03:21,099
+coloco três mil barra produtos eu tô pegando todos.
+
+46
+00:03:21,710 --> 00:03:23,479
+Se eu pego o carro três de produtos barra um
+
+47
+00:03:23,490 --> 00:03:25,750
+eu tô pegando produto de código um né, que
+
+48
+00:03:25,758 --> 00:03:27,520
+não foi programado ali por isso não aparece.
+
+49
+00:03:27,528 --> 00:03:30,419
+Mas eh, eu poderia pegar e programar pra poder
+
+50
+00:03:30,429 --> 00:03:33,319
+pegar aquele pedaço né? O P f eh que
+
+51
+00:03:33,330 --> 00:03:37,460
+seria equivalente ao eh o código do produto e a
+
+52
+00:03:37,469 --> 00:03:40,118
+partir daí, fazer a busca por um produto específico.
+
+53
+00:03:40,129 --> 00:03:44,229
+Retorno de dados de formato Jason, né? Método
+
+54
+00:03:44,240 --> 00:03:47,270
+post pra inclusão de entidade Rota de é de base
+
+55
+00:03:47,278 --> 00:03:48,588
+utilizada na inclusão.
+
+56
+00:03:48,599 --> 00:03:51,270
+Tá então assim, aquele mesmo endereço de base que
+
+57
+00:03:51,278 --> 00:03:54,750
+retorna a todos acessado no modo Got Tá.
+
+58
+00:03:54,758 --> 00:03:58,669
+Se for acessado no modo post, vai incluir um
+
+59
+00:03:58,679 --> 00:04:02,028
+produto, né? E aí eu deixo isso programado!
+
+60
+00:04:02,038 --> 00:04:02,909
+Olha só aqui.
+
+61
+00:04:02,919 --> 00:04:08,308
+Oh ah, que aqui eu tenho oh, se
+
+62
+00:04:08,319 --> 00:04:12,088
+a rota é produtos e o método é post,
+
+63
+00:04:13,308 --> 00:04:14,419
+pega os dados.
+
+64
+00:04:15,058 --> 00:04:21,428
+Faço parte dos dados e eh incluo, Incluo esse
+
+65
+00:04:21,439 --> 00:04:24,129
+produto na base e depois eu mando o produto criado
+
+66
+00:04:24,139 --> 00:04:28,910
+com o código tal tá, eh, essa parte
+
+67
+00:04:28,920 --> 00:04:32,350
+de baixo aqui tá fazendo isso através de JS,
+
+68
+00:04:32,358 --> 00:04:36,500
+né? Então eu posso colocar o quê? Pegue
+
+69
+00:04:36,509 --> 00:04:40,000
+o endereço local roxo na porta três mil pelo método
+
+70
+00:04:40,009 --> 00:04:40,528
+post.
+
+71
+00:04:40,540 --> 00:04:45,889
+Caminho barra produtos, né? É a resposta,
+
+72
+00:04:45,899 --> 00:04:47,790
+aqui é uma requisição.
+
+73
+00:04:49,209 --> 00:04:53,949
+A resposta vai ser impressa, né? Quando tiver
+
+74
+00:04:53,959 --> 00:04:55,988
+o evento data, ou seja chegou alguma coisa da
+
+75
+00:04:56,000 --> 00:05:00,149
+resposta e imprima lá no console Tá? Então,
+
+76
+00:05:00,160 --> 00:05:01,189
+assim ele vai.
+
+77
+00:05:01,199 --> 00:05:03,738
+Esse comportamento é sempre a sincronia, né? Então
+
+78
+00:05:03,750 --> 00:05:05,949
+você tem o quê? Ele vai esperar uma resposta.
+
+79
+00:05:05,959 --> 00:05:09,480
+Quando essa resposta vier no evento, data, dá
+
+80
+00:05:09,488 --> 00:05:10,600
+resposta que a resposta ainda tem.
+
+81
+00:05:10,608 --> 00:05:12,588
+Evento data, depois vai até o fechamento e tudo
+
+82
+00:05:12,600 --> 00:05:13,119
+mais.
+
+83
+00:05:13,129 --> 00:05:15,778
+Ele vai mandar imprimir o que chegou.
+
+84
+00:05:15,790 --> 00:05:17,480
+E, nesse caso, o que vai imprimir é
+
+85
+00:05:17,488 --> 00:05:20,678
+produto criado E o código do produto que foi criado,
+
+86
+00:05:20,689 --> 00:05:24,528
+né? Então, se eu fizer aqui e executar
+
+87
+00:05:24,540 --> 00:05:27,838
+novamente oh produto criado com índice seis, que acabou
+
+88
+00:05:27,850 --> 00:05:29,338
+de ser criado hã.
+
+89
+00:05:29,970 --> 00:05:32,699
+Se eu for pegar aqui e atualizar, vai aparecer
+
+90
+00:05:32,709 --> 00:05:33,519
+um seis aqui.
+
+91
+00:05:34,410 --> 00:05:38,548
+Então eh, eu tô usando o post pra poder
+
+92
+00:05:38,559 --> 00:05:42,238
+fazer a inclusão de uma entidade.
+
+93
+00:05:42,250 --> 00:05:46,420
+E os dados dela são feitos são em Jason Tá.
+
+94
+00:05:46,428 --> 00:05:50,319
+Os dados que você transmite são no formato Jason Okay
+
+95
+00:05:51,230 --> 00:05:56,559
+Bom, o método put seria para fazer a alteração
+
+96
+00:05:56,569 --> 00:05:59,389
+da entidade, né? E aí, no caso
+
+97
+00:05:59,399 --> 00:06:01,879
+eu tenho novos dados no corpo da requisição, que
+
+98
+00:06:01,889 --> 00:06:03,879
+nem o o verdade é inclusão.
+
+99
+00:06:03,889 --> 00:06:05,389
+A inclusão é jogada no corpo.
+
+100
+00:06:05,399 --> 00:06:08,389
+Tá, ela é feita no corpo, né?
+
+101
+00:06:08,399 --> 00:06:11,869
+Eh! Aqui eu só coloquei o EH, tá
+
+102
+00:06:11,879 --> 00:06:12,350
+no corpo.
+
+103
+00:06:12,358 --> 00:06:15,790
+Nesse caso eh então assim você pega do corpo da
+
+104
+00:06:15,798 --> 00:06:20,358
+requisição o os dados do Put e você pega no
+
+105
+00:06:20,369 --> 00:06:21,059
+caminho da rota.
+
+106
+00:06:21,069 --> 00:06:23,548
+Quem vai tá sendo alterado? Tá, e o
+
+107
+00:06:23,559 --> 00:06:28,309
+delite vai saber pelo caminho da rota? Qual vai
+
+108
+00:06:28,319 --> 00:06:32,899
+ser? O eh o código de quem tá sendo
+
+109
+00:06:32,910 --> 00:06:33,670
+alterado.
+
+110
+00:06:33,678 --> 00:06:36,600
+Tá, então a rota tem a chave que é
+
+111
+00:06:36,608 --> 00:06:39,278
+usada tanto pra alteração quanto para remoção.
+
+112
+00:06:39,290 --> 00:06:41,910
+São os métodos put pra alteração.
+
+113
+00:06:41,920 --> 00:06:46,189
+E o delite pra remoção aqui tem um exemplo de
+
+114
+00:06:46,199 --> 00:06:51,170
+um oh por p f produto três, né?
+
+115
+00:06:51,178 --> 00:06:53,899
+Esse aqui seria pra alteração do produto de código três.
+
+116
+00:06:53,910 --> 00:06:56,649
+Seria dessa forma que seria escrito, né? Seria
+
+117
+00:06:56,660 --> 00:06:59,670
+a rota incluindo a chave e aqui, os dados
+
+118
+00:07:00,689 --> 00:07:05,319
+tá os dados sendo fornecidos? Tá? Seria nome,
+
+119
+00:07:06,040 --> 00:07:09,009
+quantidades e o ed pra envio, né? Então
+
+120
+00:07:09,019 --> 00:07:11,579
+assim, eh o put e o elite.
+
+121
+00:07:11,588 --> 00:07:12,608
+Ambos colocam a chave.
+
+122
+00:07:12,619 --> 00:07:14,379
+Só que o put tem que colocar os dados novos
+
+123
+00:07:14,389 --> 00:07:15,108
+que vão ser alterados.
+
+124
+00:07:15,119 --> 00:07:18,028
+Como foi feito no post? Tá para a inclusão?
+
+125
+00:07:19,670 --> 00:07:23,879
+Bom, Esses são os elementos dos os métodos h
+
+126
+00:07:23,889 --> 00:07:25,980
+T P e como eles são utilizados dentro de uma
+
+127
+00:07:25,988 --> 00:07:30,379
+arquitetura, né? Organizando direitinho esses essas chamadas,
+
+128
+00:07:30,389 --> 00:07:33,420
+fica bem simples você definir o sistema e a definição
+
+129
+00:07:33,428 --> 00:07:35,858
+de um crude básico, que seria a consulta,
+
+130
+00:07:35,869 --> 00:07:39,399
+né? Eh a a leitura, a escrita,
+
+131
+00:07:40,129 --> 00:07:42,738
+a alteração e a exclusão, né? Seria o
+
+132
+00:07:42,750 --> 00:07:46,778
+crude, tá a criação, leitura, alteração e
+
+133
+00:07:46,790 --> 00:07:47,809
+remoção.
+
+134
+00:07:47,819 --> 00:07:47,858
+Okay.
+
+135
+00:07:47,869 --> 00:07:50,720
+Então a gente fica nesse ponto por aqui, compreendendo
+
+136
+00:07:50,730 --> 00:07:52,500
+um pouquinho melhor os métodos h t p dentro da
+
+137
+00:07:52,509 --> 00:07:53,838
+arquitetura.
+

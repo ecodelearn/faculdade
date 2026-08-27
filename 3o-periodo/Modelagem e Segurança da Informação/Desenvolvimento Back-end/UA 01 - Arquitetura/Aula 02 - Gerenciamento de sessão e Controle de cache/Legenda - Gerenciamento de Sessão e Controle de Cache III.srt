@@ -1,0 +1,404 @@
+1
+00:00:06,429 --> 00:00:09,679
+bom, vamos falar um pouquinho sobre como funciona o
+
+2
+00:00:09,689 --> 00:00:12,239
+sistema de cash, né? Tanto o cash do
+
+3
+00:00:12,250 --> 00:00:14,478
+lado do cliente, quanto cash ao nível do servidor,
+
+4
+00:00:14,489 --> 00:00:16,530
+né? O h t P Ele é um protocolo
+
+5
+00:00:16,539 --> 00:00:21,929
+que ele busca otimizar ao máximo a reutilização de consultas.
+
+6
+00:00:21,940 --> 00:00:25,170
+Já efetuadas né? E como ele é um protocolo,
+
+7
+00:00:25,179 --> 00:00:28,908
+né? Se você fosse fazer cada consulta do zero,
+
+8
+00:00:28,920 --> 00:00:29,929
+demoraria mais tempo.
+
+9
+00:00:29,940 --> 00:00:31,250
+Então, ele tem um sistema que é chamado de
+
+10
+00:00:31,260 --> 00:00:32,090
+sistema de cash.
+
+11
+00:00:32,098 --> 00:00:35,009
+Aquelas consultas que já foram feitas, elas podem ficar
+
+12
+00:00:35,020 --> 00:00:38,649
+armazenadas em pontos intermediários, né? Desde a máquina
+
+13
+00:00:38,658 --> 00:00:41,270
+cliente até a máquina servidora, vamos ver como funciona
+
+14
+00:00:41,279 --> 00:00:41,590
+isso.
+
+15
+00:00:42,469 --> 00:00:46,500
+Então, como funciona o cash eh o cash é
+
+16
+00:00:46,509 --> 00:00:49,109
+uma algum elemento né? Que eu vou é acessado
+
+17
+00:00:49,118 --> 00:00:52,139
+recentemente e você deixa pelo fato de ser mais acessado.
+
+18
+00:00:52,149 --> 00:00:54,950
+Disponível para um próximo acesso.
+
+19
+00:00:54,959 --> 00:00:57,139
+É o usado, por exemplo, desde a arquitetura
+
+20
+00:00:57,149 --> 00:00:58,899
+de computadores mais básica.
+
+21
+00:00:58,908 --> 00:01:01,399
+Quando cê fala de memória cash, que é uma
+
+22
+00:01:01,408 --> 00:01:05,138
+memória rápida onde tem as últimas informações que o usuário
+
+23
+00:01:05,150 --> 00:01:06,769
+acessou, os registradores, etc.
+
+24
+00:01:06,778 --> 00:01:08,659
+A nível de memória, então a memória cache,
+
+25
+00:01:08,668 --> 00:01:11,260
+o que guarda os últimos acessos de memória e o
+
+26
+00:01:11,269 --> 00:01:14,209
+cash em termos de web guarda os últimos acessos na
+
+27
+00:01:14,219 --> 00:01:16,558
+web O que é que ele vai guardar? Ele
+
+28
+00:01:16,569 --> 00:01:19,859
+vai guardar o conteúdo né? Teoricamente pra ele se
+
+29
+00:01:19,870 --> 00:01:21,569
+você não muda o L, você não muda o
+
+30
+00:01:21,579 --> 00:01:25,079
+conteúdo e ele identifica se ele tem que eh recarregar
+
+31
+00:01:25,088 --> 00:01:27,129
+aquele cash ou não, de acordo com a mudança
+
+32
+00:01:27,138 --> 00:01:29,599
+da u R l né? O cast no h
+
+33
+00:01:29,609 --> 00:01:32,680
+t p é esse cash do cliente, né?
+
+34
+00:01:32,689 --> 00:01:37,278
+Você pode mudar o comportamento dele através de alguns eh
+
+35
+00:01:37,290 --> 00:01:41,180
+do da chamada h t P tá eh já o
+
+36
+00:01:41,189 --> 00:01:44,540
+cash no servidor ele vai usar diversas formas diferentes de
+
+37
+00:01:44,549 --> 00:01:47,138
+trabalhar, uma forma bem interessante através do redi,
+
+38
+00:01:47,150 --> 00:01:50,219
+né? O redi é um sistema de cash né?
+
+39
+00:01:50,230 --> 00:01:51,579
+Que ele é distribuído.
+
+40
+00:01:51,588 --> 00:01:54,719
+Você pode ter eh em termos de várias máquinas trabalhando
+
+41
+00:01:54,730 --> 00:01:58,329
+com isso e assim você pode guardar resultados recentes no
+
+42
+00:01:58,338 --> 00:02:00,620
+redis pra evitar novas consultas.
+
+43
+00:02:00,629 --> 00:02:04,569
+Tá bom aqui eu tenho o cash no protocolo h
+
+44
+00:02:04,579 --> 00:02:08,258
+t p Ele tem o chamado seria o nível privado,
+
+45
+00:02:08,270 --> 00:02:12,580
+o nível xi e nível gerenciado né? Então assim
+
+46
+00:02:12,588 --> 00:02:16,599
+no nível privado seria da máquina mesmo de navegador Quando
+
+47
+00:02:16,610 --> 00:02:19,778
+cê fala do xi é porque algumas sequências h T
+
+48
+00:02:19,788 --> 00:02:21,599
+P não! Elas são guardadas a nível do XI
+
+49
+00:02:21,610 --> 00:02:24,319
+você vai fazendo uma sequência de creches no h t
+
+50
+00:02:24,330 --> 00:02:28,139
+P não é só na máquina, eh que seria
+
+51
+00:02:28,149 --> 00:02:31,558
+do cliente, tá e você vai subindo isso aí
+
+52
+00:02:31,569 --> 00:02:34,118
+até alguns que são gerenciados como o CD n,
+
+53
+00:02:34,129 --> 00:02:39,338
+né Seria um cash eh compartilhado onde você tem ali
+
+54
+00:02:39,349 --> 00:02:42,058
+que a gente chama de ge gerenciado? Tá?
+
+55
+00:02:42,069 --> 00:02:45,099
+EH como é que eu controlo isso, né?
+
+56
+00:02:46,610 --> 00:02:49,778
+Você pode quando trabalha com cash do h t P
+
+57
+00:02:49,788 --> 00:02:52,618
+você pode indicar que você não quer que ele seja
+
+58
+00:02:52,629 --> 00:02:54,179
+eh reescrito.
+
+59
+00:02:54,189 --> 00:02:57,500
+Você pode dizer que não use cash tem diferentes formas
+
+60
+00:02:57,508 --> 00:02:58,419
+de configurar isso aí.
+
+61
+00:02:58,429 --> 00:03:00,399
+Isso vai ser o nível da programação.
+
+62
+00:03:00,409 --> 00:03:03,439
+Quando a gente for trabalhar no servidor, tá bom
+
+63
+00:03:03,449 --> 00:03:06,379
+E no caso do redis, né? O Redis
+
+64
+00:03:06,389 --> 00:03:09,419
+Ele é um sistema gerenciador de cash, né?
+
+65
+00:03:09,429 --> 00:03:13,099
+Você pode guardar eh pra acesso rápido tá, eh
+
+66
+00:03:13,110 --> 00:03:16,778
+qualquer tipo de informação, inclusive o conteúdo de páginas
+
+67
+00:03:16,788 --> 00:03:20,909
+tá, então você pode usar ele inclusive eh pra
+
+68
+00:03:20,919 --> 00:03:21,899
+guardar entidades.
+
+69
+00:03:21,909 --> 00:03:26,520
+Recentemente eh acessadas qualquer coisa desse tipo Tá, eh
+
+70
+00:03:26,528 --> 00:03:29,969
+o você pode usar o Reidi embaixo do dock.
+
+71
+00:03:29,979 --> 00:03:32,580
+Até mesmo pra teste, né? É bem mais
+
+72
+00:03:32,588 --> 00:03:35,479
+fácil hoje em dia trabalhar com contêineres, porque você
+
+73
+00:03:35,490 --> 00:03:37,819
+já tem toda aquela infraestrutura organizada.
+
+74
+00:03:37,830 --> 00:03:39,419
+É só colocar em cima ao lado do doca e
+
+75
+00:03:39,429 --> 00:03:47,979
+deixar ele rodar aqui eu tenho o Redi rodando em
+
+76
+00:03:47,990 --> 00:03:50,349
+cima do dock, né? O nome do meu
+
+77
+00:03:50,360 --> 00:03:57,569
+contêiner não que é baseado na minha imagem essa imagem
+
+78
+00:03:57,580 --> 00:04:01,319
+que cê usa, né? Ah, essa imagem
+
+79
+00:04:01,330 --> 00:04:06,879
+mais prática dele agora containeres esse aqui é o meu
+
+80
+00:04:06,889 --> 00:04:07,460
+conteiner.
+
+81
+00:04:09,580 --> 00:04:12,429
+Vamos lá se eu quiser eu posso fazer um testezinho
+
+82
+00:04:12,439 --> 00:04:19,899
+nele oh p meia três sete nove ah c e
+
+83
+00:04:19,910 --> 00:04:26,028
+aí ele vai acessar, né? Eh esse ambiente
+
+84
+00:04:26,040 --> 00:04:29,019
+do meia três sete nove da que seria o redis
+
+85
+00:04:29,028 --> 00:04:31,259
+ali eu posso testar se ele tá ativo pra colocar
+
+86
+00:04:31,269 --> 00:04:35,259
+no ping ele vai ter responder png tá bom,
+
+87
+00:04:37,108 --> 00:04:44,379
+então quando falamos então de cash eu tenho cash cliente
+
+88
+00:04:44,389 --> 00:04:46,670
+e o castro servidor o castro servidor é interessante usar
+
+89
+00:04:46,678 --> 00:04:49,750
+uma ferramenta como Redi, né? E ao nível
+
+90
+00:04:49,759 --> 00:04:51,879
+do h t P você vai poder ter vários níveis
+
+91
+00:04:51,889 --> 00:04:54,819
+de cash tanto ao nível do navegador que é o
+
+92
+00:04:54,829 --> 00:04:55,579
+privado.
+
+93
+00:04:55,588 --> 00:04:57,778
+Quanto ao nível do que é um nível intermediário,
+
+94
+00:04:57,790 --> 00:05:01,019
+você pode ter certos pontos na rede onde vão sendo
+
+95
+00:05:01,028 --> 00:05:04,899
+armazenadas informações e o menage compartilhado seria gerenciado.
+
+96
+00:05:04,910 --> 00:05:08,778
+Seria aquele que é pra várias pessoas acessarem e trabalho
+
+97
+00:05:08,790 --> 00:05:11,290
+em cima de CD n, né? Eh Com
+
+98
+00:05:11,298 --> 00:05:13,449
+isso, a gente tem uma visão assim um pouco
+
+99
+00:05:13,459 --> 00:05:16,910
+do que seria esse sistema de cash e ou como
+
+100
+00:05:16,920 --> 00:05:19,928
+Redis pode ser interessante em terror de cast ao nível
+
+101
+00:05:19,939 --> 00:05:20,750
+do servidor.
+

@@ -1,0 +1,500 @@
+1
+00:00:06,549 --> 00:00:10,698
+Olá, vamos falar sobre o plugin Boomerang, né,
+
+2
+00:00:10,710 --> 00:00:13,038
+porque plugin porque ele roda embaixo do Chrome? Na
+
+3
+00:00:13,050 --> 00:00:15,898
+verdade, ele não é uma eh uma ferramenta que
+
+4
+00:00:15,909 --> 00:00:18,760
+vai rodar isolada via web ou então em desktop.
+
+5
+00:00:18,769 --> 00:00:21,440
+Tá? Eh o uh o Boomerang.
+
+6
+00:00:21,449 --> 00:00:23,519
+Ele roda embaixo do Chrome, mas é um plugin
+
+7
+00:00:23,530 --> 00:00:24,199
+muito prático.
+
+8
+00:00:24,208 --> 00:00:28,120
+Qualquer local que você esteja tá independente de que direitos
+
+9
+00:00:28,129 --> 00:00:29,839
+você tenha de acessoà máquina.
+
+10
+00:00:29,850 --> 00:00:31,739
+Você simplesmente pode instalar esse plug.
+
+11
+00:00:31,750 --> 00:00:34,368
+Tá é porque eh é um pgn que não é
+
+12
+00:00:34,380 --> 00:00:37,770
+agressivo E assim ninguém bloqueia ele, né? E
+
+13
+00:00:37,779 --> 00:00:40,560
+ele é um PGN que permite testar todas as chamadas
+
+14
+00:00:40,569 --> 00:00:45,009
+do tipo porque ele consegue fazer eh o got o
+
+15
+00:00:45,020 --> 00:00:47,009
+post, o post de elite da mesma forma que
+
+16
+00:00:47,020 --> 00:00:49,709
+ferramentas como postman ou insônia, né? Vamos ver
+
+17
+00:00:49,719 --> 00:00:53,590
+como ele funciona, Particularmente, eu gosto muito dele.
+
+18
+00:00:54,469 --> 00:00:57,750
+É um GI que e é simples.
+
+19
+00:00:57,759 --> 00:01:01,259
+Ele consegue associar a sua conta no Google, né?
+
+20
+00:01:01,270 --> 00:01:06,918
+Eh as suas variáveis de OU então você pode buscar
+
+21
+00:01:06,930 --> 00:01:10,290
+de um computador pra outro na sincronia e passar os
+
+22
+00:01:10,299 --> 00:01:11,109
+testes de um pra outro.
+
+23
+00:01:11,120 --> 00:01:13,668
+Basta estar logado, né? Então ele é um
+
+24
+00:01:13,680 --> 00:01:15,138
+do chron, tá.
+
+25
+00:01:15,150 --> 00:01:22,379
+Você pode baixar ele simplesmente você buscar ele no buscar
+
+26
+00:01:22,388 --> 00:01:27,609
+lá eh Boomerang St.
+
+27
+00:01:29,730 --> 00:01:34,079
+Ah! Boomerang plugin, por exemplo, ele vai
+
+28
+00:01:34,088 --> 00:01:37,959
+chegar lá Boomerang C ele vai ser o endereço pra
+
+29
+00:01:37,969 --> 00:01:40,489
+baixar O plugin é um plugin, uma extensão do
+
+30
+00:01:40,500 --> 00:01:43,120
+Crown, né? Quando ele tá instalado, é
+
+31
+00:01:43,129 --> 00:01:45,819
+só vim aqui e clicar nele que ele aparece.
+
+32
+00:01:46,730 --> 00:01:49,430
+Tá, tá, já tô com ele aberto aqui.
+
+33
+00:01:50,058 --> 00:01:53,109
+Então ele permite que você crie requisições através de folders,
+
+34
+00:01:53,120 --> 00:01:56,989
+organizar em e em E aí você pode testar todos
+
+35
+00:01:57,000 --> 00:01:58,430
+os métodos.
+
+36
+00:01:58,439 --> 00:02:01,230
+É o R L, né? Tem lá só
+
+37
+00:02:01,239 --> 00:02:03,760
+digitar qual método que cê quer? Qual o R
+
+38
+00:02:03,769 --> 00:02:05,709
+L e o sand pode ser um em Jason?
+
+39
+00:02:05,719 --> 00:02:06,769
+Então eu tenho aqui.
+
+40
+00:02:06,778 --> 00:02:12,469
+Por exemplo requests eu posso criar uma requisição qualquer.
+
+41
+00:02:13,569 --> 00:02:17,219
+Eu digo pra onde eu quero ir dois pontos barra
+
+42
+00:02:17,229 --> 00:02:25,110
+barra local? Roche três mil notas.
+
+43
+00:02:25,118 --> 00:02:27,149
+Se eu não me engano é tá ali.
+
+44
+00:02:27,879 --> 00:02:31,889
+E se eu quiser fazer post eu vou fazer isso.
+
+45
+00:02:31,899 --> 00:02:35,838
+Só que aí no caso eu tenho que informar essa,
+
+46
+00:02:35,849 --> 00:02:38,909
+tem que dar informação no boy que eu mudo aqui
+
+47
+00:02:38,919 --> 00:02:43,508
+Pra Jason é muito prático, né? Lembra bastante
+
+48
+00:02:43,520 --> 00:02:48,110
+a a funcionalidade da insônia e eu posso ficar mudando
+
+49
+00:02:48,118 --> 00:02:50,528
+aqui como eu quiser, né? Então, aqui
+
+50
+00:02:50,538 --> 00:02:55,528
+eu consigo testar com facilidade aquele meu web, né?
+
+51
+00:02:55,538 --> 00:02:57,649
+Mas ele tem mais uma coisa interessante.
+
+52
+00:02:57,659 --> 00:03:01,199
+Tá aqui eu tô colocando.
+
+53
+00:03:01,210 --> 00:03:02,278
+Como faz uma requisição.
+
+54
+00:03:02,288 --> 00:03:05,639
+Isso aqui é a nível de tá.
+
+55
+00:03:05,649 --> 00:03:07,338
+Se você tiver logado, como eu disse, você
+
+56
+00:03:07,349 --> 00:03:09,659
+pode pegar e transferir uma máquina pra outra.
+
+57
+00:03:10,758 --> 00:03:13,169
+Eh E eu posso colocar aqui no boy, mas
+
+58
+00:03:13,179 --> 00:03:15,069
+ele tem uma coisa bem interessante também, que é
+
+59
+00:03:15,080 --> 00:03:19,569
+teste de né? Eh testar o até que é
+
+60
+00:03:19,580 --> 00:03:23,050
+tranquilo testar o web é um pouquinho mais complicado,
+
+61
+00:03:23,058 --> 00:03:26,610
+porque tem toda aquela camada x ML todo aquele formalismo
+
+62
+00:03:26,618 --> 00:03:29,270
+do B, né? Então eu tenho que fazer
+
+63
+00:03:29,278 --> 00:03:31,088
+o que eh.
+
+64
+00:03:31,099 --> 00:03:34,169
+Eu tenho que pegar e ter ferramentas que me facilitem.
+
+65
+00:03:34,179 --> 00:03:36,610
+Esse trabalho de teste se eu não quiser.
+
+66
+00:03:36,618 --> 00:03:37,729
+Assim, se eu quiser ficar, saber como é
+
+67
+00:03:37,740 --> 00:03:40,338
+que é a chamada pra poder usar no meu lá
+
+68
+00:03:40,349 --> 00:03:41,699
+no meu sistema, tá.
+
+69
+00:03:41,710 --> 00:03:43,979
+Se eu quiser saber, por exemplo, como que
+
+70
+00:03:43,990 --> 00:03:46,338
+eu busco o CEP, que é uma funcionalidade que
+
+71
+00:03:46,349 --> 00:03:48,058
+muita gente usa aí dos Correios.
+
+72
+00:03:48,069 --> 00:03:51,139
+No caso dos Correios, eu tenho esse endereço aqui
+
+73
+00:03:51,149 --> 00:03:53,699
+E um correios com BR SIP Master J P A
+
+74
+00:03:53,710 --> 00:03:56,379
+esse aí é indicado na documentação dos Correios.
+
+75
+00:03:56,389 --> 00:03:58,699
+Tá? Não é um, não é nada mais
+
+76
+00:03:58,710 --> 00:04:03,000
+é simplesmente o descritor de serviços desse serviço aqui,
+
+77
+00:04:03,008 --> 00:04:05,618
+né? Eu coloquei isso aqui pra não ter que
+
+78
+00:04:05,629 --> 00:04:06,558
+ficar digitando.
+
+79
+00:04:08,939 --> 00:04:10,669
+E eu vou colocar aqui pra vocês verem o que
+
+80
+00:04:10,679 --> 00:04:15,439
+que é esse endereço, isso aqui é esse endereço.
+
+81
+00:04:17,608 --> 00:04:21,858
+Essa coisa gigantesca é o que ensina qualquer plataforma a
+
+82
+00:04:21,869 --> 00:04:24,920
+criar os pra fazer a comunicação com esse serviço.
+
+83
+00:04:25,689 --> 00:04:28,579
+E o Boomerang consegue reconhecer isso.
+
+84
+00:04:28,588 --> 00:04:31,139
+Tá Então, ao invés de pegar em requests eu
+
+85
+00:04:31,149 --> 00:04:34,540
+coloco em services e aí eu coloco a de ser
+
+86
+00:04:34,548 --> 00:04:38,980
+ele pega o quê um um sopro w b SD
+
+87
+00:04:38,988 --> 00:04:43,079
+l ou a documentação do GER do Open A P
+
+88
+00:04:43,088 --> 00:04:46,019
+i né? Então eu vou colocar aqui a minha.
+
+89
+00:04:46,028 --> 00:04:48,290
+Ele já tá até aqui Tá, ah, que
+
+90
+00:04:48,298 --> 00:04:51,410
+foi a última que eu coloquei o endereço que eu
+
+91
+00:04:51,420 --> 00:04:57,358
+coloquei lá do W SD L Boda ele pergunta Qual
+
+92
+00:04:57,369 --> 00:04:58,519
+é o nome que você quer pro serviço? Eu
+
+93
+00:04:58,528 --> 00:05:00,720
+vou colocar o mesmo nome dele padrão, ele já
+
+94
+00:05:00,730 --> 00:05:04,399
+coloca pra mim aqui todas as chamadas que ele reconheceu
+
+95
+00:05:04,410 --> 00:05:07,738
+na W B SD L, inclusive consulta CEP Se
+
+96
+00:05:07,750 --> 00:05:10,048
+eu clicar duas vezes aqui Oh, a gente já
+
+97
+00:05:10,059 --> 00:05:13,059
+tem ponto de interrogação dizendo Oh, cê, tem
+
+98
+00:05:13,069 --> 00:05:16,689
+que informar o CEP, né? E é isso
+
+99
+00:05:16,699 --> 00:05:18,189
+que eu teria que chamar de um dentro de um
+
+100
+00:05:18,199 --> 00:05:18,970
+programa qualquer.
+
+101
+00:05:18,980 --> 00:05:21,970
+Esse x ML teria que enviar pra esse endereço pra
+
+102
+00:05:21,980 --> 00:05:24,608
+que ele conseguisse recuperar o CEP né, aqui o
+
+103
+00:05:24,619 --> 00:05:26,869
+CEP que eu quiser nesse caso aqui.
+
+104
+00:05:26,879 --> 00:05:29,928
+Se eu mandar dessa forma, vai dar erro.
+
+105
+00:05:29,939 --> 00:05:34,069
+Mas isso é por causa do servidor dos Correios que
+
+106
+00:05:34,079 --> 00:05:37,949
+ele não aceita os de action e com isso tem
+
+107
+00:05:37,959 --> 00:05:40,470
+a ver com a diferença de tipos de x ML
+
+108
+00:05:40,480 --> 00:05:46,189
+usados no que pode ser do tipo Doc eh,
+
+109
+00:05:46,199 --> 00:05:48,949
+eh documento que eles chamam e o o versão do
+
+110
+00:05:48,959 --> 00:05:51,670
+Soup um ponto um Então tem uma diferençazinha aí que
+
+111
+00:05:51,678 --> 00:05:53,309
+quebrou algumas chamadas.
+
+112
+00:05:53,319 --> 00:05:54,670
+Mas ou é uma ou é outra? Ou então
+
+113
+00:05:54,678 --> 00:05:57,488
+você liga ou desliga, se não funcionou, desliga
+
+114
+00:05:57,500 --> 00:05:58,509
+e manda de novo.
+
+115
+00:05:58,519 --> 00:06:01,009
+Acabei de pegar as informações do CEP.
+
+116
+00:06:01,670 --> 00:06:07,238
+Bom que eu acho uma funcionalidade bem interessante do Boomerang
+
+117
+00:06:07,250 --> 00:06:10,410
+Okay, então a gente viu aí uma série de
+
+118
+00:06:10,420 --> 00:06:13,920
+ferramentas bem interessantes pra testar as funcionalidades do web,
+
+119
+00:06:13,928 --> 00:06:15,928
+rft www e mais essa questão também.
+
+120
+00:06:15,939 --> 00:06:18,048
+De repente você encara um se observe.
+
+121
+00:06:18,059 --> 00:06:20,970
+Você pode usar o Boomerang pra poder entender essas diversas
+
+122
+00:06:20,980 --> 00:06:23,088
+chamadas que são feitas em cima do servidor.
+
+123
+00:06:23,100 --> 00:06:24,329
+A gente fica então por aqui.
+
+124
+00:06:24,338 --> 00:06:27,449
+Espero ter agregado conhecimento, bons estudos e até a
+
+125
+00:06:27,459 --> 00:06:27,829
+próxima!
+

@@ -1,0 +1,732 @@
+1
+00:00:06,429 --> 00:00:10,278
+Olá pessoal, vamos continuar nossos estudos, os nossos
+
+2
+00:00:10,288 --> 00:00:10,640
+casos.
+
+3
+00:00:10,648 --> 00:00:12,720
+Práticos, né? Meu nome é Michel, nós
+
+4
+00:00:12,728 --> 00:00:14,679
+vamos falar agora sobre nós.
+
+5
+00:00:14,689 --> 00:00:17,949
+Vamos falar, nós vamos começar a trabalhar um novo
+
+6
+00:00:17,958 --> 00:00:18,280
+caso.
+
+7
+00:00:18,289 --> 00:00:19,440
+Prático, né? Na verdade, esse é o
+
+8
+00:00:19,449 --> 00:00:21,379
+nosso quinto caso prático.
+
+9
+00:00:21,388 --> 00:00:24,079
+Mais uma vez, dividido em três partes, vamos
+
+10
+00:00:24,089 --> 00:00:26,719
+a nossa primeira parte, que é a contextualização do
+
+11
+00:00:26,728 --> 00:00:30,420
+que eh esse caso prático aqui eh, Pressupõe.
+
+12
+00:00:30,429 --> 00:00:33,200
+O objetivo aqui neste tá é mostrar pra vocês uma
+
+13
+00:00:33,209 --> 00:00:35,380
+nova forma de escrita.
+
+14
+00:00:35,728 --> 00:00:41,029
+Eu vou ah, transcrever a essa descrição do processo
+
+15
+00:00:41,039 --> 00:00:43,590
+de uma outra forma e depois representar por meio de
+
+16
+00:00:43,598 --> 00:00:46,450
+um fluxo também usando a anotação b PM n tá
+
+17
+00:00:46,459 --> 00:00:49,810
+então pomos aí, caso prático parte eh, caso
+
+18
+00:00:49,819 --> 00:00:52,509
+prático cinco parte um Ah, estamos aqui a nossa
+
+19
+00:00:52,520 --> 00:00:53,639
+contextualização.
+
+20
+00:00:53,649 --> 00:00:57,469
+A empresa sote eh oferece serviço de tecnologia, né?
+
+21
+00:00:57,478 --> 00:01:00,509
+Aí pro Brasil tem a estrutura com quinhentos colaboradores,
+
+22
+00:01:00,520 --> 00:01:02,868
+adota a governança em seus processos, Ou seja,
+
+23
+00:01:02,880 --> 00:01:05,750
+tá bem alinhada aí ao que o mercado espera,
+
+24
+00:01:05,760 --> 00:01:08,760
+né? De forma a manter a empresa sempre atual,
+
+25
+00:01:08,769 --> 00:01:12,558
+na vanguarda ela adota as melhores práticas de mercado no
+
+26
+00:01:12,569 --> 00:01:15,180
+que tange aos processos de governança e gestão empresarial.
+
+27
+00:01:15,189 --> 00:01:19,959
+Um dos principais documentos da empresa é o P I
+
+28
+00:01:19,969 --> 00:01:23,980
+Plano Estratégico Institucional Desdobrado posteriormente um plano diretor de T
+
+29
+00:01:23,989 --> 00:01:26,500
+I que a gente muito bem conhece como sendo o
+
+30
+00:01:26,510 --> 00:01:29,338
+PDT I tá, aqui a gente faz uma breve
+
+31
+00:01:29,349 --> 00:01:32,579
+descrição do que é a organização, né? Pra
+
+32
+00:01:32,588 --> 00:01:35,388
+gente, é entender o que significa ela, Tá?
+
+33
+00:01:35,400 --> 00:01:38,599
+Eh essa eh esse primeiro é preciso Tá, Eu
+
+34
+00:01:38,609 --> 00:01:41,010
+tô falando de que eu tô tratando do que então.
+
+35
+00:01:41,019 --> 00:01:44,069
+Cê tá tratando de uma empresa, né? Essa
+
+36
+00:01:44,079 --> 00:01:46,808
+empresa tem uma perspectiva, eh eu tô falando aqui
+
+37
+00:01:46,819 --> 00:01:49,329
+de dois documentos importantes, né? Que é a
+
+38
+00:01:49,338 --> 00:01:54,790
+estratégia e eh tanto da instituição como da tecnologia,
+
+39
+00:01:55,638 --> 00:01:59,588
+Observando que a o nosso processo é É.
+
+40
+00:01:59,599 --> 00:02:01,168
+É importante aqui a gente fazer um paralelo aqui,
+
+41
+00:02:01,180 --> 00:02:03,329
+Porque assim a gente olha fazer um um uma vírgula
+
+42
+00:02:03,338 --> 00:02:06,058
+aqui nesse nessa, nessa questão do do caso prático,
+
+43
+00:02:06,069 --> 00:02:08,129
+e entender assim o processo.
+
+44
+00:02:08,139 --> 00:02:12,449
+Ele tem que tá alinhadoà estratégia institucional Okay Falamos
+
+45
+00:02:12,460 --> 00:02:14,610
+isso ao longo da nossa caminhada e eu volto a
+
+46
+00:02:14,618 --> 00:02:17,490
+reforçar esse assunto, né? Então, a estratégia
+
+47
+00:02:17,500 --> 00:02:21,338
+institucional ela determina o meu processo.
+
+48
+00:02:21,349 --> 00:02:24,949
+O meu processo, ele é eh eh, ele
+
+49
+00:02:24,960 --> 00:02:27,588
+é alinhado, ele está vinculado! Eles tem que
+
+50
+00:02:27,599 --> 00:02:31,830
+tá refletindo a estratégia organizacional, a estratégia institucional,
+
+51
+00:02:31,838 --> 00:02:35,330
+se não for se o processo não contribui pra estratégia,
+
+52
+00:02:35,338 --> 00:02:37,479
+né? Então ele não precisa existir.
+
+53
+00:02:37,490 --> 00:02:39,508
+Ah, você pode perguntar assim, mas ele vai
+
+54
+00:02:39,520 --> 00:02:43,788
+contribuir como pra estratégia se eu entrego um produto ou
+
+55
+00:02:43,800 --> 00:02:48,508
+um serviço, se eu qualquer atividade que vai me
+
+56
+00:02:48,520 --> 00:02:53,278
+permitir com que eu faça essa entrega, ela é
+
+57
+00:02:53,288 --> 00:02:55,919
+um processo e ela está alinhadaà estratégia institucional,
+
+58
+00:02:55,929 --> 00:02:58,360
+mesmo que não seja um processo.
+
+59
+00:02:58,368 --> 00:03:01,520
+Vamos dizer assim, de linha de montagem Okay,
+
+60
+00:03:01,528 --> 00:03:02,258
+se você fala assim, tá.
+
+61
+00:03:02,270 --> 00:03:04,558
+Mas o processo de a gente já viu, em
+
+62
+00:03:04,569 --> 00:03:06,819
+alguns casos, o processo de folha de pagamento.
+
+63
+00:03:06,830 --> 00:03:11,278
+Férias tem alguma alinhamento com o planejamento estratégico? Tem
+
+64
+00:03:11,288 --> 00:03:12,838
+por que? Que tem por quê? Hum a
+
+65
+00:03:12,849 --> 00:03:18,778
+a sua organização eh pra realizar estratégia? Ela precisa
+
+66
+00:03:18,788 --> 00:03:23,038
+de pessoas E as pessoas, claro, são vinculadas
+
+67
+00:03:23,050 --> 00:03:26,058
+dentro da sua empresa, que posteriormente obedecem a uma
+
+68
+00:03:26,069 --> 00:03:28,000
+lei que né, que é a lei de do,
+
+69
+00:03:28,008 --> 00:03:30,419
+EH Trabalhista, do do do do país.
+
+70
+00:03:30,429 --> 00:03:34,300
+E ela pressupõe a A a os requisitos legais.
+
+71
+00:03:34,308 --> 00:03:38,439
+Férias é um deles, então eu não posso descaracterizar.
+
+72
+00:03:38,449 --> 00:03:43,960
+Okay Então vejam independente da estratégia que você Olhe.
+
+73
+00:03:43,969 --> 00:03:45,118
+Se você vê assim, pô, mas não tem
+
+74
+00:03:45,129 --> 00:03:46,639
+nada a ver isso aqui com a, tem tudo
+
+75
+00:03:46,649 --> 00:03:48,679
+a ver tudo a ver o que eu não vou
+
+76
+00:03:48,689 --> 00:03:49,199
+colocar.
+
+77
+00:03:49,210 --> 00:03:51,639
+Por exemplo, o que eu não vou eh trabalhar.
+
+78
+00:03:51,649 --> 00:03:53,960
+É um processo que não tenha nada a ver com
+
+79
+00:03:53,969 --> 00:03:54,800
+a organização.
+
+80
+00:03:54,808 --> 00:03:58,240
+Nada que não tenha que não compete a a empresa
+
+81
+00:03:58,250 --> 00:04:02,520
+em si, mas todos os processos que contribuem direta
+
+82
+00:04:02,528 --> 00:04:04,099
+ou indiretamente.
+
+83
+00:04:04,110 --> 00:04:09,490
+Com né? A estratégia institucional eles devem estar contidos?
+
+84
+00:04:09,500 --> 00:04:11,689
+Tá, então, continuando no entendimento da da da
+
+85
+00:04:11,699 --> 00:04:12,429
+da empresa.
+
+86
+00:04:12,439 --> 00:04:14,868
+Então, assim a gente fala aqui, oh,
+
+87
+00:04:14,879 --> 00:04:18,608
+Considerando esse desdobramento e a premissa de controle e gestão
+
+88
+00:04:18,619 --> 00:04:22,889
+da Diretoria de tecnologia faz-se o monitoramento das ações de
+
+89
+00:04:22,899 --> 00:04:26,528
+T I E aí esse monitoramento garante que as serão
+
+90
+00:04:26,540 --> 00:04:27,170
+atingidas.
+
+91
+00:04:27,178 --> 00:04:30,069
+As metas que contribuindo assim, com a estratégia eh
+
+92
+00:04:30,079 --> 00:04:32,970
+institucional! Eh uma Uma coisa importante é que a
+
+93
+00:04:32,980 --> 00:04:36,980
+gente tá pra falar, né? Ah, acerca
+
+94
+00:04:36,988 --> 00:04:38,980
+de, na verdade, falar que a acerca de
+
+95
+00:04:38,988 --> 00:04:44,920
+governança, de gestão é que ah! Qualquer estratégia
+
+96
+00:04:44,928 --> 00:04:50,619
+Ah, desdobrada da estratégia institucional está alinhada a esta,
+
+97
+00:04:51,259 --> 00:04:52,910
+né? Então, a gente tá falando aqui de
+
+98
+00:04:52,920 --> 00:04:55,670
+um que falou no no No no texto sobre uma,
+
+99
+00:04:55,678 --> 00:04:58,548
+uma ação de t i e a ação de T
+
+100
+00:04:58,559 --> 00:05:01,588
+I que está dentro do plano da T I do
+
+101
+00:05:01,600 --> 00:05:03,910
+diretor de T I, ela é desdobrada da estratégia
+
+102
+00:05:03,920 --> 00:05:08,149
+institucional, né? Da estratégia organizacional justamente pra a
+
+103
+00:05:08,160 --> 00:05:11,204
+a ah! Ajudar o contribuir na consecução dos objetivos
+
+104
+00:05:11,213 --> 00:05:14,915
+da instituição ponto Isso é fato okay beleza então e
+
+105
+00:05:14,923 --> 00:05:16,553
+e? E aí? Fica um um um um
+
+106
+00:05:16,564 --> 00:05:19,595
+parêntese aqui também que eh Eu falei de PDT I
+
+107
+00:05:19,605 --> 00:05:21,754
+porque é um plano diretor de tecnologia da informação tá,
+
+108
+00:05:21,764 --> 00:05:26,014
+mas você deve dentro da sua organização desdobrar os seus
+
+109
+00:05:26,024 --> 00:05:31,250
+planos estratégicos, eh das da das áreas da sua
+
+110
+00:05:31,259 --> 00:05:32,019
+organização.
+
+111
+00:05:32,028 --> 00:05:35,100
+Então se for recursos humanos um plano estratégico do recursos
+
+112
+00:05:35,108 --> 00:05:38,600
+humanos, um plano desculpa um plano eh desdobrado da
+
+113
+00:05:38,608 --> 00:05:41,238
+estratégia institucional para o recurso humano.
+
+114
+00:05:41,250 --> 00:05:45,879
+Um plano eh e eh Eh desdobrado um plano diretor
+
+115
+00:05:45,889 --> 00:05:51,040
+desdobrado pro pessoal do financeiro! Eh do contabilidade,
+
+116
+00:05:51,048 --> 00:05:53,858
+enfim, assim por diante tá legal e por fim
+
+117
+00:05:53,869 --> 00:05:57,009
+por fim aqui oh! Pra formalizar esse monitoramento ela
+
+118
+00:05:57,019 --> 00:06:00,298
+criou um do uma documentação descritiva do processo de controle
+
+119
+00:06:00,309 --> 00:06:01,298
+das ações estratégicas.
+
+120
+00:06:01,309 --> 00:06:03,660
+Então o que que é importante aqui oh documentação descritiva
+
+121
+00:06:03,670 --> 00:06:08,319
+dos processos que nós vamos descrever, né? No
+
+122
+00:06:08,329 --> 00:06:09,980
+na na! Na, na parte dois! E
+
+123
+00:06:09,988 --> 00:06:14,540
+aí vocês vão observar que essa descrição acerca desse detalhamento
+
+124
+00:06:14,548 --> 00:06:17,019
+e eu, eu eu eu planejei e e trabalhei
+
+125
+00:06:17,028 --> 00:06:19,519
+de uma forma um pouco diferenciada, né? Nós
+
+126
+00:06:19,528 --> 00:06:22,420
+nós pensamos uma uma, uma uma estrutura um pouco
+
+127
+00:06:22,428 --> 00:06:25,139
+diferente pra mostrar que eh.
+
+128
+00:06:25,149 --> 00:06:27,980
+Existem formas de escrita, o que nós vemos representando
+
+129
+00:06:27,988 --> 00:06:32,809
+até agora nos casos é uma escrita textual ali com
+
+130
+00:06:32,819 --> 00:06:37,250
+o uso de planilhas que eh suportam e e me
+
+131
+00:06:37,259 --> 00:06:40,569
+dão apoio para o processo que eu descrevi e agora
+
+132
+00:06:40,579 --> 00:06:44,449
+eu vou descrever? Vou escrever esse processo considerando uma
+
+133
+00:06:44,459 --> 00:06:46,790
+perspectiva um pouco diferenciada.
+
+134
+00:06:46,798 --> 00:06:48,548
+Vocês vão ver que é bem bem bacana.
+
+135
+00:06:48,559 --> 00:06:52,153
+Eh essa essa parte a parte dois porque ela ajuda
+
+136
+00:06:52,165 --> 00:06:57,035
+a estruturar ela mostra, já delineia, faz esse
+
+137
+00:06:57,045 --> 00:07:01,824
+delineamento daquilo que é a perspectiva do processo eh usando
+
+138
+00:07:01,834 --> 00:07:04,875
+um outro método, uma outra, uma outra forma
+
+139
+00:07:04,884 --> 00:07:09,653
+de apresentação e de representação desse processo que aí eh,
+
+140
+00:07:09,665 --> 00:07:11,894
+eh, eh, eh, eu volto a dizer
+
+141
+00:07:12,709 --> 00:07:15,639
+considere pra sua organização isso que eu vou que a
+
+142
+00:07:15,649 --> 00:07:19,009
+gente vai trabalhar na parte dois não é o fim
+
+143
+00:07:19,019 --> 00:07:22,540
+de tudo, não é o suprassumo dentro da sua
+
+144
+00:07:22,548 --> 00:07:23,048
+organização.
+
+145
+00:07:23,059 --> 00:07:25,670
+Você pode entender que pode ser feito diferente.
+
+146
+00:07:25,678 --> 00:07:26,750
+Ah, eu não quero usar isso, eu quero
+
+147
+00:07:26,759 --> 00:07:28,629
+usar aquela descrição que a gente já viu lá nos
+
+148
+00:07:28,639 --> 00:07:32,629
+casos práticos anteriores gente eh, eh a critério,
+
+149
+00:07:32,639 --> 00:07:34,738
+né? Não é bom ou ruim.
+
+150
+00:07:34,750 --> 00:07:37,309
+O que é bom pra minha organização pode não ser
+
+151
+00:07:37,319 --> 00:07:38,738
+boa pra sua organização.
+
+152
+00:07:38,750 --> 00:07:41,629
+Existe a minha cultura, organização que eu respeito que
+
+153
+00:07:41,639 --> 00:07:45,088
+eu considero e trato ela ao tratá-la.
+
+154
+00:07:45,100 --> 00:07:49,129
+Eu tenho que referen lá tal como ela é,
+
+155
+00:07:49,579 --> 00:07:52,350
+eh entendida por todos dentro da organização.
+
+156
+00:07:52,358 --> 00:07:56,629
+Se a gente não tem essa maturidade em se trabalhar
+
+157
+00:07:56,639 --> 00:08:00,059
+com essa essa linha de pensamento, não vou adotar
+
+158
+00:08:00,069 --> 00:08:02,588
+ela dentro da minha empresa, né? Eu posso
+
+159
+00:08:02,600 --> 00:08:05,509
+até querer adotá-la, mas eu vou começar aos poucos
+
+160
+00:08:05,519 --> 00:08:05,809
+implanta.
+
+161
+00:08:05,899 --> 00:08:09,189
+Enfim, tá, lembra do processo de melhoria contínua?
+
+162
+00:08:09,199 --> 00:08:12,470
+Ela acontece no processo, ela acontece dentro das atividades
+
+163
+00:08:12,480 --> 00:08:13,428
+institucionais.
+
+164
+00:08:13,439 --> 00:08:16,790
+Okay Então a determinação do que você vai chegar Até
+
+165
+00:08:16,798 --> 00:08:19,509
+onde você chegar? Como você vai chegar, depende
+
+166
+00:08:19,519 --> 00:08:24,608
+somente do de do, do, do seu entendimento
+
+167
+00:08:24,619 --> 00:08:27,220
+e do valor que isso traz pra você pra sua
+
+168
+00:08:27,230 --> 00:08:29,649
+organização, lembrando agregando valor.
+
+169
+00:08:29,660 --> 00:08:32,769
+Tá? Então a gente vai mostrar na na no
+
+170
+00:08:32,779 --> 00:08:36,058
+próximo, na próxima parte uma perspectiva diferente.
+
+171
+00:08:36,070 --> 00:08:38,969
+Eu quero que vocês abram a mente pra que entender
+
+172
+00:08:38,979 --> 00:08:41,769
+que não é somente essa eh anterior.
+
+173
+00:08:41,779 --> 00:08:42,009
+Também.
+
+174
+00:08:42,019 --> 00:08:44,129
+Não é só essa que eu falei, né?
+
+175
+00:08:44,139 --> 00:08:48,769
+Existem outras perspectivas que devem ser tratadas e consideradas Tá
+
+176
+00:08:48,779 --> 00:08:52,769
+bom? Então eh, Eu vou ficar aguardando vocês
+
+177
+00:08:52,779 --> 00:08:53,629
+aí pra parte.
+
+178
+00:08:53,639 --> 00:08:57,629
+Dois Espero que a gente eh mostrar pra vocês isso
+
+179
+00:08:57,639 --> 00:09:01,070
+aí bem bem, de forma bem tranquila, bem
+
+180
+00:09:01,080 --> 00:09:01,830
+transparente.
+
+181
+00:09:01,840 --> 00:09:04,629
+E na última parte a gente vê o fluxo desenhado
+
+182
+00:09:04,639 --> 00:09:07,190
+derivando dessa segunda parte que a gente vai mostrar agora,
+
+183
+00:09:07,200 --> 00:09:09,729
+Okay? Até a segunda parte, um abraço.
+

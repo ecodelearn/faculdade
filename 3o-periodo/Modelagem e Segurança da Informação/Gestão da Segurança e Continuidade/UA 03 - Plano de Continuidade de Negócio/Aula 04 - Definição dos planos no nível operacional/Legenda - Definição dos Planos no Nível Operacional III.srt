@@ -1,0 +1,640 @@
+1
+00:00:05,828 --> 00:00:07,448
+Olá, tudo bom, seja bem vindo.
+
+2
+00:00:07,459 --> 00:00:10,038
+Então vamos continuar com a nossa disciplina de gestão de
+
+3
+00:00:10,050 --> 00:00:11,500
+segurança e continuidade.
+
+4
+00:00:11,509 --> 00:00:14,839
+Nós já falamos sobre vários documentos, sobre várias normas
+
+5
+00:00:14,849 --> 00:00:16,798
+e agora vai vir um documento muito específico, que
+
+6
+00:00:16,809 --> 00:00:19,420
+é um documento de recuperação técnica.
+
+7
+00:00:19,429 --> 00:00:23,600
+É um documento importantíssimo pra qualquer equipe operacional.
+
+8
+00:00:23,609 --> 00:00:25,170
+Lembrando que a gente tá falando agora sobre o nível
+
+9
+00:00:25,179 --> 00:00:28,079
+operacional, né? Já passamos pelo nível tático e
+
+10
+00:00:28,089 --> 00:00:30,339
+também passamos pelo nível estratégico.
+
+11
+00:00:30,425 --> 00:00:33,316
+Quando a gente tá falando em nível operacional, a
+
+12
+00:00:33,326 --> 00:00:35,515
+gente tem um plano de recuperação técnica, O que
+
+13
+00:00:35,526 --> 00:00:37,276
+que é isso? Vamos lá, no plano de
+
+14
+00:00:37,284 --> 00:00:37,915
+impacto.
+
+15
+00:00:37,924 --> 00:00:40,795
+No caso de impactos e perdas críticas, é necessário
+
+16
+00:00:40,804 --> 00:00:44,354
+se basear nos procedimentos de resposta a incidentes de segurança
+
+17
+00:00:44,365 --> 00:00:45,155
+da informação.
+
+18
+00:00:45,165 --> 00:00:48,816
+Em fase, visa restaurar os sistemas, dados e
+
+19
+00:00:48,826 --> 00:00:53,076
+recursos de tecnologia da informação afetada durante o incidente,
+
+20
+00:00:53,085 --> 00:00:57,512
+garantindo que a operação da organização seja retomada o mais
+
+21
+00:00:57,521 --> 00:00:59,152
+rapidamente possível.
+
+22
+00:00:59,161 --> 00:01:01,902
+Então, é um documento que assim tivemos incidentes,
+
+23
+00:01:01,911 --> 00:01:04,790
+como que nós podemos recuperar, né? A nossa
+
+24
+00:01:04,802 --> 00:01:08,191
+operação o mais rápido possível, nesse nesse, nesse
+
+25
+00:01:08,201 --> 00:01:09,231
+plano prevê.
+
+26
+00:01:09,240 --> 00:01:10,081
+Isso tá.
+
+27
+00:01:10,091 --> 00:01:14,191
+Uma das considerações fundamentais na recuperação técnica é a definição
+
+28
+00:01:14,201 --> 00:01:15,262
+de prioridades.
+
+29
+00:01:15,272 --> 00:01:18,191
+Nem todos os sistemas e dados têm o mesmo grau
+
+30
+00:01:18,201 --> 00:01:22,829
+de importância tá é evitar determinar quais devem ser restaurados
+
+31
+00:01:22,838 --> 00:01:23,549
+primeiro.
+
+32
+00:01:23,558 --> 00:01:25,948
+Ou seja, gente? Não, eu falei Temos
+
+33
+00:01:25,959 --> 00:01:28,278
+que trabalhar os nossos dados, os nossos acidentes.
+
+34
+00:01:28,290 --> 00:01:29,469
+A partir do momento que você tem um acidente,
+
+35
+00:01:29,480 --> 00:01:32,469
+você categoriza esse acidente e aí você vai entender qual
+
+36
+00:01:32,480 --> 00:01:33,799
+a prioridade pra tatá.
+
+37
+00:01:33,808 --> 00:01:36,829
+Qual que vai ser restaurado primeiramente? Porque senão vai
+
+38
+00:01:36,838 --> 00:01:40,150
+ser quê Quantas empresas já já com certeza já te
+
+39
+00:01:40,159 --> 00:01:42,948
+já passou uma empresa assim que ah, restaura o
+
+40
+00:01:42,959 --> 00:01:45,189
+sistema, O gerente que grita primeiro o diretor que
+
+41
+00:01:45,198 --> 00:01:47,010
+tem mais força não é assim.
+
+42
+00:01:47,299 --> 00:01:49,989
+A gente tem que ter uma, um documento prévio
+
+43
+00:01:50,000 --> 00:01:55,269
+estabelecido onde vai ter lá as os sistemas prioritários,
+
+44
+00:01:55,278 --> 00:01:58,430
+quais são os sistemas que deve ser restaurados de forma
+
+45
+00:01:58,439 --> 00:02:02,028
+rápida, objetiva E qual é a ordem dessa dessa
+
+46
+00:02:02,040 --> 00:02:04,189
+restauração? Tá, Não é quem grita vermelho ou
+
+47
+00:02:04,198 --> 00:02:06,549
+quem tem mais poder ou quem tem o crachá mais
+
+48
+00:02:06,558 --> 00:02:06,870
+forte.
+
+49
+00:02:06,879 --> 00:02:10,210
+Não é uma ordem estabelecida de forma prévia.
+
+50
+00:02:11,500 --> 00:02:15,149
+Além disso, a alocação eficaz de recursos técnicos é
+
+51
+00:02:15,159 --> 00:02:16,000
+essencial.
+
+52
+00:02:16,008 --> 00:02:19,028
+A equipe de resposta deve garantir que haja pessoal qualificado
+
+53
+00:02:19,038 --> 00:02:19,629
+de hardware.
+
+54
+00:02:19,639 --> 00:02:22,508
+Software necessários para recuperação do acidente.
+
+55
+00:02:22,520 --> 00:02:22,710
+Tá.
+
+56
+00:02:22,719 --> 00:02:25,949
+A coordenação com fornecedores e prestadores de serviços também pode
+
+57
+00:02:25,960 --> 00:02:30,308
+ser necessária para obter suporte técnico adicional e também a
+
+58
+00:02:30,319 --> 00:02:32,110
+gente tem que ter no plano de recuperação o acidente,
+
+59
+00:02:32,118 --> 00:02:34,610
+né? É uma parte fundamental dessa recuperação técnica.
+
+60
+00:02:34,711 --> 00:02:38,002
+Ele fornece um roteiro detalhado em forma, em caso
+
+61
+00:02:38,013 --> 00:02:39,542
+de falha o que tem que ser feito, ou
+
+62
+00:02:39,551 --> 00:02:41,442
+seja, gente, aqui a gente vai ter.
+
+63
+00:02:41,453 --> 00:02:43,882
+Quais são as equipes que vão ser envolvidas, qual
+
+64
+00:02:43,893 --> 00:02:46,442
+a equipe que vai tá envolvida na recuperação? Qual
+
+65
+00:02:46,453 --> 00:02:49,483
+a equipe terceirizada, quais são os fornecedores e ali
+
+66
+00:02:49,491 --> 00:02:52,263
+tá Qual é o roteiro detalhado, porque eu tenho
+
+67
+00:02:52,271 --> 00:02:55,842
+que seguir para restaurar o meu sistema da melhor forma
+
+68
+00:02:55,852 --> 00:02:56,542
+possível.
+
+69
+00:02:56,551 --> 00:02:57,822
+Outro ponto importante é B.
+
+70
+00:02:57,925 --> 00:03:01,094
+A gente precisa entender quais são os nossos procedimentos de
+
+71
+00:03:01,105 --> 00:03:01,656
+backup.
+
+72
+00:03:01,665 --> 00:03:04,895
+Qual os nossos procedimentos de recuperação? Já falei algumas
+
+73
+00:03:04,906 --> 00:03:08,474
+vezes é importante você ter uma política de backup e
+
+74
+00:03:08,485 --> 00:03:12,135
+testar se os backups estão sendo feitos de forma correta.
+
+75
+00:03:12,145 --> 00:03:17,165
+Mas também precisamos de uma política de recuperação de restauração
+
+76
+00:03:17,175 --> 00:03:20,335
+e entender se aquela restauração está sendo feita de forma
+
+77
+00:03:20,344 --> 00:03:21,075
+correta.
+
+78
+00:03:21,409 --> 00:03:23,569
+Quando você faz o backup, você tem um plano
+
+79
+00:03:23,580 --> 00:03:24,159
+de restauração.
+
+80
+00:03:24,169 --> 00:03:27,520
+Você executa essa esse plano de restauração? Ele tá
+
+81
+00:03:27,528 --> 00:03:29,219
+sendo executado de forma correta.
+
+82
+00:03:29,229 --> 00:03:31,808
+Eu já vi várias empresas que tem uma política de
+
+83
+00:03:31,819 --> 00:03:34,379
+recuperação de B desculpa uma política de backup, só
+
+84
+00:03:34,389 --> 00:03:37,139
+que quando vai restaurar a restauração não funciona.
+
+85
+00:03:37,149 --> 00:03:39,028
+O B K foi feito de forma errada, não
+
+86
+00:03:39,038 --> 00:03:40,058
+é o arquivo correto.
+
+87
+00:03:40,069 --> 00:03:44,099
+Enfim, gente precisamos testar o backup e precisamos testar
+
+88
+00:03:44,110 --> 00:03:45,500
+a restauração.
+
+89
+00:03:45,508 --> 00:03:47,740
+Vai fazer b cap de tudo, Não sei.
+
+90
+00:03:47,750 --> 00:03:49,860
+Vai depender da sua empresa quanto que ela quer gastar
+
+91
+00:03:49,868 --> 00:03:51,889
+por isso, lembrando que foi pra você fazer um
+
+92
+00:03:51,899 --> 00:03:55,508
+um backup de tudo é muito, muito muito caro.
+
+93
+00:03:55,520 --> 00:03:59,349
+Portanto você precisa priorizar quais são os backups diários.
+
+94
+00:03:59,360 --> 00:04:02,270
+Quais são os backups semanais? Quais são os backups
+
+95
+00:04:02,278 --> 00:04:06,449
+quinzenais ou mensais? Vai definir da criticidade? Cada
+
+96
+00:04:06,460 --> 00:04:10,189
+negócio vai de vai definir, vai depender do valor
+
+97
+00:04:10,199 --> 00:04:12,439
+a investir pra cada situação.
+
+98
+00:04:12,449 --> 00:04:15,588
+Então quem define isso são os são os par as
+
+99
+00:04:15,599 --> 00:04:19,709
+partes interessadas, porque quanto mais backs, mais caro
+
+100
+00:04:19,720 --> 00:04:22,309
+fica a operação eh.
+
+101
+00:04:22,319 --> 00:04:24,769
+Então a gente tem que definir isso tá porque tem
+
+102
+00:04:24,778 --> 00:04:28,709
+vários tipos de backup, então, de desde que
+
+103
+00:04:28,720 --> 00:04:31,189
+você vai colocar em cena na nuvem e ainda tem
+
+104
+00:04:31,199 --> 00:04:34,588
+muito físico, né? De fitas físicas que você
+
+105
+00:04:34,600 --> 00:04:36,069
+tem que guardar em locais.
+
+106
+00:04:36,079 --> 00:04:38,088
+Então a gente tem que definir bem bem, tem
+
+107
+00:04:38,100 --> 00:04:41,600
+uma definição bem clara dessas políticas de backup, tá!
+
+108
+00:04:41,608 --> 00:04:44,629
+Existe também outras coisas além do backup semanal o backup
+
+109
+00:04:44,639 --> 00:04:46,988
+eh o tempo do backup tem que tipo de backup.
+
+110
+00:04:47,000 --> 00:04:48,470
+Isso é o backup completo.
+
+111
+00:04:48,480 --> 00:04:50,928
+Isso é é um é um backup de diferença.
+
+112
+00:04:51,009 --> 00:04:54,528
+Se é um backup incremental, então existe vários modelos
+
+113
+00:04:54,540 --> 00:04:58,088
+e várias vantagens e desvantagens Vai depender do serviço,
+
+114
+00:04:58,100 --> 00:05:01,660
+vai depender do negócio, vai depender das normas regulatórias,
+
+115
+00:05:01,670 --> 00:05:05,699
+vai depender do cenário atual, não existe uma uma
+
+116
+00:05:05,709 --> 00:05:09,238
+política que você pode chega aqui um né? Um
+
+117
+00:05:09,259 --> 00:05:11,980
+um de backup que vai ser joga ali naquela empresa
+
+118
+00:05:11,988 --> 00:05:14,619
+e vai dar certo não vai depender da sua empresa
+
+119
+00:05:14,629 --> 00:05:17,399
+da sua necessidade e o valor que vai ser investido
+
+120
+00:05:17,410 --> 00:05:20,069
+pra aquela realidade que você tá falando tá? Eh
+
+121
+00:05:20,079 --> 00:05:23,730
+e aí a último ponto aqui que um talvez né?
+
+122
+00:05:23,738 --> 00:05:25,889
+Que a gente tem que entender que essa documentação ela
+
+123
+00:05:25,899 --> 00:05:28,928
+precisa ser detalhada bem detalhada, tá, tem os
+
+124
+00:05:28,939 --> 00:05:32,399
+procedimentos de backup eh são muito importa, é muito
+
+125
+00:05:32,410 --> 00:05:36,910
+importante ter tudo detalha tudo especificado quais são os arquivos
+
+126
+00:05:36,920 --> 00:05:40,088
+onde tá aguardado? Por quê lá essa documentação?
+
+127
+00:05:40,100 --> 00:05:43,480
+Ela engloba descrição mini onde os b caps estão sendo
+
+128
+00:05:43,488 --> 00:05:47,117
+realizado onde estão sendo armazenados, como a restauração é
+
+129
+00:05:47,127 --> 00:05:51,086
+conduzida e a equipe precisa ser devidamente treinada e familiarizada
+
+130
+00:05:51,096 --> 00:05:52,196
+com esses procedimentos.
+
+131
+00:05:52,206 --> 00:05:53,437
+então, quando a gente tá falando de backup,
+
+132
+00:05:53,446 --> 00:05:55,815
+muitas vezes as pessoas falam que pensam que é só
+
+133
+00:05:55,826 --> 00:05:58,766
+executa uma compra, uma ferramenta de backup e coloca
+
+134
+00:05:58,776 --> 00:06:00,795
+lá que tá tudo cem por cento feito.
+
+135
+00:06:00,807 --> 00:06:02,576
+Não é isso a política de backup.
+
+136
+00:06:02,586 --> 00:06:06,985
+Ela é algo muito especial e muito crítico pra organização,
+
+137
+00:06:06,997 --> 00:06:10,456
+porque ela vai garantir que a sua empresa volte em
+
+138
+00:06:10,466 --> 00:06:11,682
+caso de perda de dados.
+
+139
+00:06:11,694 --> 00:06:13,963
+Então você tem que garantir que essa política de B
+
+140
+00:06:13,973 --> 00:06:17,384
+k P ela tenha seja uma política forte, eficaz,
+
+141
+00:06:17,394 --> 00:06:20,944
+que tenha que se englobe todos os artefatos e todo
+
+142
+00:06:20,954 --> 00:06:23,903
+o arcabouço que se torna que gira em torno de
+
+143
+00:06:23,913 --> 00:06:28,584
+backup, desde a escolha da forma da periodicidade da
+
+144
+00:06:28,593 --> 00:06:31,223
+da, da, do plano de de de backup
+
+145
+00:06:31,233 --> 00:06:33,384
+até o plano de restauração.
+
+146
+00:06:33,394 --> 00:06:36,644
+Então, todo esse esse ciclo de vida, né?
+
+147
+00:06:36,721 --> 00:06:40,490
+Do do sistema do arquivo do processo do serviço ele
+
+148
+00:06:40,500 --> 00:06:42,610
+tem que tá englobado Dentro da política de backup,
+
+149
+00:06:42,620 --> 00:06:47,930
+a política de O backup vai garantir que sua empresa
+
+150
+00:06:47,940 --> 00:06:49,130
+tenha sucesso.
+
+151
+00:06:49,139 --> 00:06:54,071
+Continue com eh trabalhando sem nenhum prejuízo em caso de
+
+152
+00:06:54,079 --> 00:06:56,350
+desastre caso incidente de segurança.
+
+153
+00:06:56,360 --> 00:06:59,610
+Então você precisa ter e olhar com cuidado como está
+
+154
+00:06:59,620 --> 00:07:04,319
+sendo essa política de backup treinar as pessoas fazer simulações
+
+155
+00:07:04,329 --> 00:07:06,000
+de restauração de backup.
+
+156
+00:07:06,009 --> 00:07:10,040
+Então é fundamental você entender que para um sucesso tá
+
+157
+00:07:10,048 --> 00:07:12,600
+de uma restauração de um incidente, de um desastre.
+
+158
+00:07:12,608 --> 00:07:15,358
+A política de backup, ela eh, tem suma
+
+159
+00:07:15,369 --> 00:07:19,420
+importância, ela é parte fundamental de qualquer organização.
+
+160
+00:07:19,428 --> 00:07:21,778
+Muito obrigado, nos vemos na próxima aula.
+

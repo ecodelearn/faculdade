@@ -1,0 +1,672 @@
+1
+00:00:06,280 --> 00:00:09,970
+Olá, vamos falar um pouquinho sobre as operações Create
+
+2
+00:00:09,978 --> 00:00:13,288
+e list do Dow, né? Seriam as operações
+
+3
+00:00:13,300 --> 00:00:14,909
+de leitura e criação do crude.
+
+4
+00:00:15,569 --> 00:00:18,478
+Eh Essas são as operações mais básicas, porque a
+
+5
+00:00:18,489 --> 00:00:19,120
+gente sempre cria.
+
+6
+00:00:19,129 --> 00:00:21,079
+Primeiro essas duas, né.
+
+7
+00:00:21,089 --> 00:00:23,620
+Elas são rápidas de implementar.
+
+8
+00:00:23,629 --> 00:00:26,620
+E elas garantem que você possa alimentar o banco e
+
+9
+00:00:26,629 --> 00:00:30,219
+consultar o banco, né? Então são duas ações
+
+10
+00:00:30,228 --> 00:00:32,500
+básicas em seguida as que a gente faz.
+
+11
+00:00:32,509 --> 00:00:33,658
+São alteração.
+
+12
+00:00:33,668 --> 00:00:36,978
+Exclusão, né? Primeiro alimenta e consulta.
+
+13
+00:00:36,990 --> 00:00:41,098
+Depois faz as outras bom, Então vamos começar a
+
+14
+00:00:41,109 --> 00:00:42,380
+ver como isso funciona.
+
+15
+00:00:42,389 --> 00:00:48,209
+Operações Crea e List inicialmente, eu preciso do sequelas,
+
+16
+00:00:48,219 --> 00:00:49,130
+né.
+
+17
+00:00:49,139 --> 00:00:52,889
+Está sequela M K, L dois e sequelas deve
+
+18
+00:00:52,899 --> 00:00:53,289
+se colar.
+
+19
+00:00:53,298 --> 00:00:55,250
+Esse tá deve se colar.
+
+20
+00:00:55,259 --> 00:00:59,539
+Esse! Eu já tenho aqui esse programa que é
+
+21
+00:01:01,899 --> 00:01:04,948
+um exemplo com personagens de jogos.
+
+22
+00:01:04,959 --> 00:01:09,409
+Qual é a ideia? Eh criar um assim,
+
+23
+00:01:09,418 --> 00:01:11,609
+um ambiente com personagem de jogos, né? Que
+
+24
+00:01:11,620 --> 00:01:14,448
+seriam os personagens que normalmente tem um ataque e uma
+
+25
+00:01:14,459 --> 00:01:16,349
+defesa muito comum.
+
+26
+00:01:17,180 --> 00:01:19,689
+E aí, fazer um banco de dados referentes a
+
+27
+00:01:19,698 --> 00:01:23,120
+esses personagens, né? Que que eu vou fazer
+
+28
+00:01:23,129 --> 00:01:25,159
+aqui? Bom eh, eu vou dar n p
+
+29
+00:01:25,168 --> 00:01:25,819
+n tal.
+
+30
+00:01:27,269 --> 00:01:31,480
+Certamente esse cara tá sem os módulos, mas aqui
+
+31
+00:01:31,489 --> 00:01:33,079
+eu tô dando esse tal de coisas que já estão
+
+32
+00:01:33,088 --> 00:01:35,760
+configuradas, né? Ou seja, eu já tenho
+
+33
+00:01:35,769 --> 00:01:36,939
+esse arquivo configurado.
+
+34
+00:01:37,659 --> 00:01:39,269
+E com isso ele tá dando esta de tudo o
+
+35
+00:01:39,278 --> 00:01:41,870
+que ele acha no peca de ponto Jason, né?
+
+36
+00:01:41,879 --> 00:01:44,069
+Se eu não tivesse com ele configurado, eu teria
+
+37
+00:01:44,079 --> 00:01:47,549
+que usar n p MC p e m k l
+
+38
+00:01:47,558 --> 00:01:48,010
+dois.
+
+39
+00:01:48,829 --> 00:01:50,719
+Em seguida n P x C C t.
+
+40
+00:01:50,730 --> 00:01:55,159
+Se ele não tiver o c C instalado, ele
+
+41
+00:01:55,168 --> 00:01:59,239
+vai instalar, né? O C é o Inter,
+
+42
+00:01:59,250 --> 00:02:02,969
+né? Esse i n t vai fazer o que
+
+43
+00:02:02,980 --> 00:02:05,980
+né? Aqui eu tô com o meu jason,
+
+44
+00:02:06,599 --> 00:02:09,629
+eu já tenho as dependências aqui que eu preciso.
+
+45
+00:02:10,538 --> 00:02:15,550
+Ah, aqui eu tenho o o IG gerado pelos
+
+46
+00:02:15,558 --> 00:02:18,199
+seculares e o que que eu coloco aqui Eu coloco
+
+47
+00:02:18,210 --> 00:02:20,710
+usuário e senha e o nome do banco pra cada
+
+48
+00:02:20,719 --> 00:02:25,270
+ambiente de desenvolvimento, né? Então aqui eu posso
+
+49
+00:02:25,278 --> 00:02:28,179
+organizar? Ah, o meu ambiente eu vou usar
+
+50
+00:02:28,189 --> 00:02:30,830
+o ambiente deve então pra mim bastava colocar o jogo
+
+51
+00:02:30,838 --> 00:02:35,099
+deve Primeira coisa que você faz é criar o banco
+
+52
+00:02:35,110 --> 00:02:36,500
+P N P x.
+
+53
+00:02:36,508 --> 00:02:39,719
+Vamos ver se ele vai precisar instalar o sequela c,
+
+54
+00:02:39,729 --> 00:02:47,868
+vamos ver se C D B dois pontos Clientes como
+
+55
+00:02:47,879 --> 00:02:49,508
+eu tô no ambiente envie que é o padrão.
+
+56
+00:02:49,520 --> 00:02:52,788
+Ele vai criar o jogo? Deve, né?
+
+57
+00:02:52,800 --> 00:02:56,338
+O se o ambiente eh deve, né? O
+
+58
+00:02:56,349 --> 00:02:57,808
+Envy deve é o padrão, então ele criou o
+
+59
+00:02:57,819 --> 00:03:00,919
+jogo deve, Então ele criou um banco de dados
+
+60
+00:03:00,929 --> 00:03:06,520
+com o nome Jogo deve passo o seguinte seria Moda
+
+61
+00:03:07,278 --> 00:03:12,129
+name personagem Atributos, nomes string ataque Inger Defesa íntegra
+
+62
+00:03:12,139 --> 00:03:18,308
+se eu executo esse essa assim essa eh instrução através
+
+63
+00:03:18,319 --> 00:03:20,990
+do C, ele vai gerar.
+
+64
+00:03:21,000 --> 00:03:23,649
+Ah, o meu per assim a minha entidade chamada
+
+65
+00:03:23,659 --> 00:03:26,750
+personagem, né? É claro que aquela já tá
+
+66
+00:03:26,758 --> 00:03:30,139
+gerada, eu já gerei ela, mas ela tem
+
+67
+00:03:30,149 --> 00:03:31,338
+essa característica.
+
+68
+00:03:31,349 --> 00:03:36,838
+Ela tem nome do tipo string, ataque, íntegra
+
+69
+00:03:36,849 --> 00:03:37,490
+e defesa.
+
+70
+00:03:37,500 --> 00:03:37,899
+Íntegra.
+
+71
+00:03:38,538 --> 00:03:40,149
+Isso seria, por exemplo, se eu quisesse criar
+
+72
+00:03:40,159 --> 00:03:43,490
+um sistema de jogos RPG eh no caso eu teria
+
+73
+00:03:43,500 --> 00:03:45,020
+sempre ataque e defesa muito comum.
+
+74
+00:03:45,028 --> 00:03:47,629
+E uma classificação, um nome qualquer pra esse personagem.
+
+75
+00:03:47,639 --> 00:03:50,909
+Eu poderia acrescentar outras coisas como foto, né?
+
+76
+00:03:50,919 --> 00:03:53,588
+Qual é a animação do personagem? Isso que é
+
+77
+00:03:53,599 --> 00:03:56,169
+só um banco de dados de características, né?
+
+78
+00:03:56,758 --> 00:03:59,118
+E, é claro, quem gerou esse recuar,
+
+79
+00:03:59,129 --> 00:04:04,538
+sequela e tudo mais foi o comando moda Jurach.
+
+80
+00:04:05,129 --> 00:04:06,778
+Ele gera tudo organizadinho.
+
+81
+00:04:06,788 --> 00:04:08,879
+O que a gente acaba absorvendo é isso aqui,
+
+82
+00:04:09,520 --> 00:04:11,330
+né? Porque todo O resto é a configuração do
+
+83
+00:04:11,338 --> 00:04:15,800
+ambiente dos sequelas, né? Bom, então é
+
+84
+00:04:15,808 --> 00:04:18,720
+um personagem que vai ter nome, ataque e defesa
+
+85
+00:04:18,730 --> 00:04:22,170
+além do né? Eh? Data de criação update
+
+86
+00:04:22,178 --> 00:04:27,509
+da E o D O migrate é o cara que
+
+87
+00:04:27,519 --> 00:04:30,470
+vai fazer a geração desse cara lá.
+
+88
+00:04:30,480 --> 00:04:33,588
+No caso do banco de dados tá? Então assim
+
+89
+00:04:33,600 --> 00:04:36,869
+vai gerar tabela no meu banco, usando aquele urna,
+
+90
+00:04:36,879 --> 00:04:39,910
+aquele espaço, aquela data base, né? Então
+
+91
+00:04:39,920 --> 00:04:45,410
+eu vou usar agora o C d b gra,
+
+92
+00:04:45,420 --> 00:04:53,879
+né? Que migration, ele vai criar a tabela
+
+93
+00:04:53,889 --> 00:04:58,639
+de personagens lá no meu banco, né? Então
+
+94
+00:04:58,649 --> 00:05:00,660
+com isso aí eu tô com a minha tabela de
+
+95
+00:05:00,670 --> 00:05:05,278
+personagens configurado tá! E ele já vai poder funcionar
+
+96
+00:05:05,290 --> 00:05:07,079
+a nível do Dow como é que vai ser no
+
+97
+00:05:07,088 --> 00:05:10,338
+Dow, eu vou criar um cara chamado personagem Dow
+
+98
+00:05:11,500 --> 00:05:14,588
+onde eu vou usar os elementos daquele personagem, né?
+
+99
+00:05:14,600 --> 00:05:15,750
+Eu vou até colocar aqui.
+
+100
+00:05:15,759 --> 00:05:18,920
+Tem já um personagem Dow, mas o que eu
+
+101
+00:05:18,928 --> 00:05:21,079
+faria seria isso aqui oh, vou colocar um personagem
+
+102
+00:05:21,088 --> 00:05:28,920
+da O dois personagem da dois JS primeira coisa que
+
+103
+00:05:28,928 --> 00:05:39,629
+eu faço é eh definir uma referência não eh no
+
+104
+00:05:39,639 --> 00:05:58,540
+caso a d b qua eh Deus barra index ponto
+
+105
+00:05:58,548 --> 00:06:05,009
+JS Algumas configurações exigem JS e outras não tá?
+
+106
+00:06:05,608 --> 00:06:07,660
+Eh quando ele tá confirmado pra type script.
+
+107
+00:06:07,670 --> 00:06:09,358
+Normalmente ele não precisa da extensão.
+
+108
+00:06:10,238 --> 00:06:12,569
+Ah! Então eu vou colocar, por exemplo,
+
+109
+00:06:12,579 --> 00:06:15,569
+aqui se eu quisesse fazer fora da orientação do objeto,
+
+110
+00:06:15,579 --> 00:06:17,949
+porque aqui eu coloquei orientado do objeto eu usei uma
+
+111
+00:06:17,959 --> 00:06:20,569
+classe, se eu quisesse fazer alguma coisa fora,
+
+112
+00:06:20,579 --> 00:06:22,129
+poderia também fazer aqui.
+
+113
+00:06:22,139 --> 00:06:29,459
+Tá por exemplo? C assim com informação em Jason
+
+114
+00:06:31,769 --> 00:06:34,059
+Ah, e aí? O que eu vou fazer?
+
+115
+00:06:34,069 --> 00:06:36,790
+Com essa informação em Jason? Eu vou pegar essa
+
+116
+00:06:36,798 --> 00:06:39,819
+informação e eu vou mandar gerar um cara daquele tipo
+
+117
+00:06:39,829 --> 00:06:44,778
+retorne a wait sempre a sí Crono sempre a sí
+
+118
+00:06:44,790 --> 00:06:53,309
+crono tá D b ponto eh personagem Eu tô na
+
+119
+00:06:53,319 --> 00:06:58,829
+dúvida se ele trabalha assim mesmo ponto Create com a
+
+120
+00:06:58,838 --> 00:07:03,858
+informação que eu passei Ah, eu escrevi errado ali
+
+121
+00:07:03,869 --> 00:07:09,149
+mas tudo bem tá, então assim isso aqui seria
+
+122
+00:07:09,160 --> 00:07:11,809
+um método do meu down, né Eu tô usando
+
+123
+00:07:11,819 --> 00:07:15,028
+aquele cara lá né Eh então! Dentro da minha
+
+124
+00:07:15,040 --> 00:07:17,660
+classe do eu vou ter algo desse tipo onde eu
+
+125
+00:07:17,670 --> 00:07:21,509
+vou tá chamando as funções de cliente ou para a
+
+126
+00:07:21,519 --> 00:07:24,459
+consulta, pra opção, eu vou, Tá chamando
+
+127
+00:07:24,470 --> 00:07:26,980
+o né? O assim ele vai fazer o que
+
+128
+00:07:26,988 --> 00:07:28,540
+ele vai retornar ao D B.
+
+129
+00:07:28,548 --> 00:07:32,899
+Personagem Esse é todos de acordo com o método de
+
+130
+00:07:32,910 --> 00:07:34,139
+o critério de busca.
+
+131
+00:07:34,149 --> 00:07:39,170
+Se eu colocasse um alguma coisa aqui, ele já
+
+132
+00:07:39,178 --> 00:07:41,809
+não buscaria todos e buscaria todos para aquele ar,
+
+133
+00:07:41,819 --> 00:07:46,048
+né? O para sequela isso significa busque todos que
+
+134
+00:07:46,059 --> 00:07:48,009
+satisfaçam ao critério.
+
+135
+00:07:48,019 --> 00:07:50,449
+Tá então! Na verdade ele tá buscando todos,
+
+136
+00:07:50,459 --> 00:07:52,209
+já que eu não tenho ar, se eu não
+
+137
+00:07:52,220 --> 00:07:53,689
+tenho, o ar é todo mundo.
+
+138
+00:07:53,699 --> 00:07:57,230
+Se eu tenho a é todos que satisfazem aquele critério
+
+139
+00:07:57,238 --> 00:08:00,088
+air, né? Bom já o de vai I
+
+140
+00:08:00,100 --> 00:08:01,569
+P k não tem jeito, é a chave,
+
+141
+00:08:01,579 --> 00:08:03,329
+a chave primária, a chave primária não pode ter
+
+142
+00:08:03,338 --> 00:08:04,129
+duplicata.
+
+143
+00:08:04,139 --> 00:08:07,358
+Então quando você usa P k e passa aquele aí
+
+144
+00:08:07,369 --> 00:08:10,319
+dia ali você vai sempre retornar uma entidade, né?
+
+145
+00:08:10,329 --> 00:08:15,420
+Aqui são os métodos de leitura única que seria o
+
+146
+00:08:15,428 --> 00:08:19,540
+obter ou o e o que seria pra obter todos?
+
+147
+00:08:20,139 --> 00:08:26,389
+Tá? Eles correspondem ao né? Do crude seria
+
+148
+00:08:26,399 --> 00:08:31,689
+a listagem ao final Modulo Esportes exportando a minha classe
+
+149
+00:08:31,699 --> 00:08:33,509
+que é personagem dal.
+
+150
+00:08:33,519 --> 00:08:36,710
+Isso que permite que eu vá utilizar ela posteriormente em
+
+151
+00:08:36,719 --> 00:08:40,029
+outro lugar qualquer, né? Possivelmente através de um
+
+152
+00:08:40,038 --> 00:08:43,269
+controlador, né? Então, aqui eu tenho a
+
+153
+00:08:43,279 --> 00:08:46,029
+classe personagem dal E se eu não tivesse uma abordagem
+
+154
+00:08:46,038 --> 00:08:46,950
+orientada do objeto.
+
+155
+00:08:46,960 --> 00:08:54,820
+Eu poderia colocar algo como módulo ponto exports.
+
+156
+00:08:56,320 --> 00:09:01,369
+E aqui passar o que eu quero exportar, né?
+
+157
+00:09:01,379 --> 00:09:04,048
+Também poderia fazer uma abordagem mais estruturada, Mas aí
+
+158
+00:09:04,058 --> 00:09:05,408
+eu perderia o padrão Dow.
+
+159
+00:09:05,418 --> 00:09:07,779
+Então não é uma grande vantagem, é melhor organizar
+
+160
+00:09:07,788 --> 00:09:12,200
+em termos de classe bom, então com isso aí
+
+161
+00:09:12,210 --> 00:09:17,979
+eu tenho a implementação das primeiras operações do crude que
+
+162
+00:09:17,989 --> 00:09:21,119
+seriam a criação, né? Seria a inserção e
+
+163
+00:09:21,129 --> 00:09:24,019
+a obtenção, a listagem, operações que eu considero
+
+164
+00:09:24,029 --> 00:09:26,658
+fundamentais, porque você tem que ter como retornar os
+
+165
+00:09:26,668 --> 00:09:29,460
+dados e você tem que inserir eles pra que eles
+
+166
+00:09:29,469 --> 00:09:30,859
+sejam retornados com isso.
+
+167
+00:09:30,869 --> 00:09:34,599
+A gente começa com as duas operações básicas ao nível
+
+168
+00:09:34,609 --> 00:09:37,440
+eh da base, utilizando aí um Down.
+

@@ -1,0 +1,700 @@
+1
+00:00:06,049 --> 00:00:09,269
+olá, alô, seja muito bemvindo Professor Fabrício Melo,
+
+2
+00:00:09,278 --> 00:00:13,419
+Estamos tratando aí a parte de endereçamento de serviços okay,
+
+3
+00:00:13,429 --> 00:00:16,379
+Então vamos trabalhar com o endereço de serviço a parte
+
+4
+00:00:16,388 --> 00:00:19,339
+dois da nossa aula, o que que seria essa
+
+5
+00:00:19,350 --> 00:00:21,879
+parte dois? E a gente continuar com aquela ideia
+
+6
+00:00:21,888 --> 00:00:23,260
+das portas, lembra.
+
+7
+00:00:23,269 --> 00:00:26,329
+No bloco anterior, onde a gente tratou aquela parte
+
+8
+00:00:26,339 --> 00:00:28,789
+de soquete, tratamos a parte que a gente tem.
+
+9
+00:00:28,798 --> 00:00:31,929
+Aquelas portas que são dinâmicas do lado do cliente e
+
+10
+00:00:31,940 --> 00:00:35,450
+do lado do servidor, as portas são geralmente fixas.
+
+11
+00:00:35,459 --> 00:00:37,848
+Não foi isso que a gente tratou aqui, Então
+
+12
+00:00:37,859 --> 00:00:40,649
+vamos dar uma olhada aí olha só nós temos uma
+
+13
+00:00:40,658 --> 00:00:43,450
+tabela aluno que é uma tabela definida, né?
+
+14
+00:00:43,459 --> 00:00:45,908
+Pelos grupos de portas TC P e o d v
+
+15
+00:00:45,918 --> 00:00:48,679
+e o d P, que são definidas pelo a
+
+16
+00:00:48,689 --> 00:00:51,719
+que a gente até já viu isso aí olha só
+
+17
+00:00:51,728 --> 00:00:54,478
+cê tem as famosas os grupos de portas, as
+
+18
+00:00:54,490 --> 00:00:57,279
+portas baixas, que é a da porta zero a
+
+19
+00:00:57,289 --> 00:00:58,889
+porta mil e vinte e três.
+
+20
+00:00:58,899 --> 00:01:02,079
+Essas portas oh são conhecidas, né? Eh bem
+
+21
+00:01:02,090 --> 00:01:04,750
+conhecidas questão da gente pra aplicação como servidor, como
+
+22
+00:01:04,760 --> 00:01:07,040
+servidores, web, email e etc.
+
+23
+00:01:07,049 --> 00:01:10,379
+A gente lembra da porta oitenta? H T T
+
+24
+00:01:10,388 --> 00:01:12,959
+p lembra da porta, né? Quatrocentos e quarenta
+
+25
+00:01:12,969 --> 00:01:15,659
+e três? Então, elas são bem famosas aí
+
+26
+00:01:15,668 --> 00:01:18,150
+que são utilizadas por aplicativos de servidor, né?
+
+27
+00:01:18,159 --> 00:01:20,980
+Lá, Servidor web, servidor de E-mail e dentre
+
+28
+00:01:20,989 --> 00:01:21,719
+outros.
+
+29
+00:01:21,730 --> 00:01:24,299
+Temos as portas registradas que vai dar mil e vinte
+
+30
+00:01:24,308 --> 00:01:26,659
+e quatro a quarenta e nove mil cento e cinquenta
+
+31
+00:01:26,668 --> 00:01:28,159
+e um atribuída pela IANA.
+
+32
+00:01:28,418 --> 00:01:29,829
+E é o que acontece, ela é uma eh.
+
+33
+00:01:29,838 --> 00:01:33,709
+Há uma entidade solicitante para aplicativos específicos? Tá?
+
+34
+00:01:33,719 --> 00:01:34,750
+Então, guarde isso aí.
+
+35
+00:01:34,760 --> 00:01:37,709
+Ela é feita pra esse tipo de aplicativos específicos que
+
+36
+00:01:37,719 --> 00:01:41,189
+por algum motivo eles não podem ou não deseja utilizar
+
+37
+00:01:41,198 --> 00:01:44,028
+portas bem conhecidas, ou seja, aquelas portas tradicionais
+
+38
+00:01:44,040 --> 00:01:46,510
+que eu tô batendo aqui de do bloco passado,
+
+39
+00:01:46,519 --> 00:01:48,430
+né? Por exemplo, oh, um exemplo é
+
+40
+00:01:48,439 --> 00:01:51,870
+a Tá vendo, registrou a porta dezoito doze para
+
+41
+00:01:51,879 --> 00:01:53,689
+o servidor, rádios e autenticação.
+
+42
+00:01:53,959 --> 00:01:56,209
+Lembra que a gente viu isso que você tem um
+
+43
+00:01:56,219 --> 00:01:59,448
+famoso servidor de autenticação? Quando você vai a uma
+
+44
+00:01:59,459 --> 00:02:03,049
+rede wi-fi e vejo o roteador fazer a autenticação diretamente
+
+45
+00:02:03,058 --> 00:02:06,329
+com ele, você passa pelo servidor o servidor que
+
+46
+00:02:06,338 --> 00:02:07,888
+faz a autenticação pra você.
+
+47
+00:02:07,900 --> 00:02:11,210
+Então esse servidor a gente conhece como o famoso servidor
+
+48
+00:02:11,219 --> 00:02:14,599
+rádios Okay e temos as portas dinâmicas oh! Que
+
+49
+00:02:14,610 --> 00:02:16,300
+é a porta quarenta e nove mil cento e cinquenta
+
+50
+00:02:16,308 --> 00:02:19,729
+e dois até a sessenta e cinco mil quinhentos e
+
+51
+00:02:19,740 --> 00:02:20,508
+trinta e cinco.
+
+52
+00:02:20,520 --> 00:02:22,788
+Ou seja, pode observar que nós temos sessenta e
+
+53
+00:02:22,879 --> 00:02:27,288
+cinco mil quinhentas e trinta e seis portas disponíveis aí
+
+54
+00:02:27,300 --> 00:02:30,939
+na rede Oh, então são portas efêmeras sendo atribuídas
+
+55
+00:02:30,949 --> 00:02:32,849
+o que oh, Como eu já falei dinamicamente pelo
+
+56
+00:02:32,860 --> 00:02:35,808
+sistema nacional do cliente, quando uma conexão a um
+
+57
+00:02:35,819 --> 00:02:38,469
+serviço é iniciado, Então é usada para identificar o
+
+58
+00:02:38,479 --> 00:02:41,778
+aplicativo cliente durante a comunicação.
+
+59
+00:02:41,788 --> 00:02:44,490
+Então quando eu tenho um aplicativo que eu vou estabelecer
+
+60
+00:02:44,500 --> 00:02:47,308
+uma conexão com o servidor do meu lado de cá
+
+61
+00:02:47,319 --> 00:02:50,508
+vai ter uma porta aí dinâmica que pode estar utilizando
+
+62
+00:02:50,520 --> 00:02:53,868
+essa combinação que vai entre quarenta e nove cento e
+
+63
+00:02:53,879 --> 00:02:56,250
+cinquenta e dois até sessenta e cinco mil quinhentos e
+
+64
+00:02:56,258 --> 00:02:56,990
+trinta e cinco.
+
+65
+00:02:57,000 --> 00:03:02,069
+Tá aí Quais são as portas oh? Comumente utilizadas?
+
+66
+00:03:02,080 --> 00:03:05,629
+Já falamos um pouquinho disso, mas vamos reforçar aqui
+
+67
+00:03:05,639 --> 00:03:06,990
+pra você novamente.
+
+68
+00:03:07,000 --> 00:03:10,129
+Olha só porta vinte vinte e um operando com um
+
+69
+00:03:10,139 --> 00:03:13,580
+protocolo de transporte TC P e é a porta de
+
+70
+00:03:13,588 --> 00:03:15,899
+transferência de arquivos como eu falei, né? Vinte
+
+71
+00:03:15,909 --> 00:03:19,179
+geralmente dados vinte e um controle opera com duas portas,
+
+72
+00:03:19,189 --> 00:03:20,979
+por isso que o f t P tem uma característica
+
+73
+00:03:20,990 --> 00:03:25,058
+muito conhecida aí ser um protocolo rápido e versátil,
+
+74
+00:03:25,069 --> 00:03:26,699
+porque ele é rápido e versátil, que é um
+
+75
+00:03:26,710 --> 00:03:29,979
+protocolo que vai operar aí nessas duas portas.
+
+76
+00:03:29,990 --> 00:03:32,860
+Tá bom, Temos aí a porta vinte e dois
+
+77
+00:03:32,868 --> 00:03:36,689
+opera com o protocolo de transporte TC P se Shell
+
+78
+00:03:36,699 --> 00:03:40,419
+é o famoso protocolo de acesso remoto seguro porque a
+
+79
+00:03:40,429 --> 00:03:43,360
+porta vinte e três é a porta do Telnet.
+
+80
+00:03:43,368 --> 00:03:46,179
+O Teo Net, aí é um protocolo muito famoso
+
+81
+00:03:46,189 --> 00:03:50,580
+pra você fazer acesso remoto a um dispositivo terminal remoto,
+
+82
+00:03:50,588 --> 00:03:52,618
+geralmente, por exemplo, tá numa farmácia, um
+
+83
+00:03:52,629 --> 00:03:54,778
+caixa eletrônico, por exemplo, né? O sistema
+
+84
+00:03:54,788 --> 00:03:56,659
+não tá naquela máquina, aquela máquina é apenas um
+
+85
+00:03:56,669 --> 00:04:00,520
+terminal que vai tá acessando um servidor de maneira remota.
+
+86
+00:04:00,528 --> 00:04:03,679
+Então o Teo Net é um dos protocolos mais utilizados
+
+87
+00:04:03,689 --> 00:04:04,000
+pra isso.
+
+88
+00:04:04,008 --> 00:04:07,000
+Só que o Teo net não oferece nível de segurança,
+
+89
+00:04:07,008 --> 00:04:09,439
+né? Então o S s h praticamente é o
+
+90
+00:04:09,449 --> 00:04:12,800
+que tá substituindo porta vinte e cinco Oh famosíssima!
+
+91
+00:04:12,808 --> 00:04:15,149
+Porta pra enviar e-mail s n t P é o
+
+92
+00:04:15,159 --> 00:04:18,838
+famoso protocolo que vai despachar então quando você vai despachar
+
+93
+00:04:18,850 --> 00:04:21,579
+um e-mail lá no servidor, vai ter na porta
+
+94
+00:04:21,588 --> 00:04:24,259
+vinte e cinco porta cinquenta e três! Aí olha
+
+95
+00:04:24,269 --> 00:04:27,098
+só a observação aqui você pode ver que opera com
+
+96
+00:04:27,108 --> 00:04:30,307
+dois protocolos de transporte Oh cê tem na porta o
+
+97
+00:04:30,319 --> 00:04:33,348
+d p e TC p é o famoso DNS que
+
+98
+00:04:33,358 --> 00:04:35,918
+é o que faz a conversão do nome e busca
+
+99
+00:04:35,927 --> 00:04:38,459
+na tabela o i p daquele site que você tá
+
+100
+00:04:38,468 --> 00:04:40,519
+acessando aí eu botei no destaque aqui tá vendo oh!
+
+101
+00:04:40,528 --> 00:04:43,927
+Algumas aplicações usam tanto o TC p como o d
+
+102
+00:04:43,937 --> 00:04:47,019
+p aí eu dei o exemplo do DNS né o
+
+103
+00:04:47,028 --> 00:04:50,019
+DNS ele usa o D P quando os clientes envia
+
+104
+00:04:50,028 --> 00:04:52,939
+as requisições, então por isso que vai tratar com
+
+105
+00:04:52,949 --> 00:04:55,889
+o d P e depois quando é feita a comunicação
+
+106
+00:04:55,899 --> 00:04:58,699
+entre os dois servidores ele já usa o protocolo TC
+
+107
+00:04:58,709 --> 00:05:02,579
+p Então você tem alguns casos de protocolos que vão
+
+108
+00:05:02,588 --> 00:05:05,139
+operar com o TC P e o d P com
+
+109
+00:05:05,149 --> 00:05:08,379
+os dois protocolos de transporte oitenta e quatrocentos e quarenta
+
+110
+00:05:08,389 --> 00:05:11,970
+e três falei aqui várias vezes oitenta é a famosa
+
+111
+00:05:11,980 --> 00:05:14,769
+porta do h t t p quatrocentos e quarenta e
+
+112
+00:05:14,778 --> 00:05:17,088
+três a porta do h t t PS cê sabe
+
+113
+00:05:17,100 --> 00:05:19,129
+que h t t P é o protocolo de transferência
+
+114
+00:05:19,139 --> 00:05:21,480
+de pretexto, ou seja, o protocolo que nos
+
+115
+00:05:21,488 --> 00:05:24,928
+dá acessoàs páginas tradicionais só que páginas que não
+
+116
+00:05:24,939 --> 00:05:26,309
+oferecem segurança.
+
+117
+00:05:26,319 --> 00:05:29,389
+Quando você loga na porta quatrocentos e quarenta e três,
+
+118
+00:05:29,399 --> 00:05:31,850
+você está utilizando o protocolo h T T PS,
+
+119
+00:05:31,858 --> 00:05:35,475
+que é o protocolo h T T seguro protocolo trabalha
+
+120
+00:05:35,483 --> 00:05:39,535
+com certificação digital opera com criptografia, então você tem
+
+121
+00:05:39,545 --> 00:05:42,795
+um nível de segurança aí melhor tá bom cento e
+
+122
+00:05:42,803 --> 00:05:45,875
+dez cento e quarenta e três são as famosas portas
+
+123
+00:05:45,884 --> 00:05:47,963
+de recuperação de mensagem de e-mail.
+
+124
+00:05:47,975 --> 00:05:49,553
+O que eu quero dizer com a recuperação de mensagem
+
+125
+00:05:49,564 --> 00:05:52,254
+de e-mail Recebimento de e-mail Cê tem o pop e
+
+126
+00:05:52,264 --> 00:05:54,274
+o IMAP os dois protocolos tradicionais.
+
+127
+00:05:54,285 --> 00:05:58,170
+Qual a diferença que o pop ele retira os e-mails
+
+128
+00:05:58,178 --> 00:06:01,548
+do servidor mandando todos pra sua máquina? Certo?
+
+129
+00:06:01,559 --> 00:06:05,290
+Já o IMAP, ele faz uma sincronização entre o
+
+130
+00:06:05,298 --> 00:06:08,449
+seu computador e o servidor, então ele não baixa
+
+131
+00:06:08,459 --> 00:06:10,170
+as mensagens ele faz um sincronismo.
+
+132
+00:06:10,178 --> 00:06:12,548
+Cê tem a vantagem Se você for numa outra máquina,
+
+133
+00:06:12,559 --> 00:06:16,290
+você consegue acessar também os e-mails tá é um protocolo
+
+134
+00:06:16,298 --> 00:06:17,509
+aí mais moderno.
+
+135
+00:06:17,519 --> 00:06:18,769
+Opera nessas duas portas.
+
+136
+00:06:18,778 --> 00:06:22,850
+Então essa tabela aí toma cuidado que você vai tá
+
+137
+00:06:22,858 --> 00:06:26,278
+sempre operando com esses números! Se você for pular
+
+138
+00:06:26,290 --> 00:06:28,119
+de concurso público, você vai ter que saber isso
+
+139
+00:06:28,129 --> 00:06:28,519
+aí.
+
+140
+00:06:28,528 --> 00:06:31,079
+Se você for operar, né, eh no mercado
+
+141
+00:06:31,088 --> 00:06:34,238
+de rede for trabalhar, for dar suporte cê vai
+
+142
+00:06:34,250 --> 00:06:36,600
+também ter que conhecer essas portas famosas.
+
+143
+00:06:36,608 --> 00:06:38,639
+Aí não tem como fugir delas.
+
+144
+00:06:38,649 --> 00:06:41,519
+Tá? Temos aí uma famosa citação do Cro Rosa.
+
+145
+00:06:41,528 --> 00:06:43,750
+Lá algumas portas são reservadas.
+
+146
+00:06:43,759 --> 00:06:47,389
+Tá vendo para aplicações familiares oh lá, por exemplo,
+
+147
+00:06:47,399 --> 00:06:49,910
+o web f t P DNS servidores S M T
+
+148
+00:06:49,920 --> 00:06:52,910
+P que a gente viu e outras são utilizadas por
+
+149
+00:06:52,920 --> 00:06:55,470
+convenção por aplicações populares.
+
+150
+00:06:55,480 --> 00:06:59,670
+Aí mais um exemplo o Microsoft Server, houve a
+
+151
+00:06:59,678 --> 00:07:02,088
+solicitação na porta mil quatrocentos e trinta e quatro do
+
+152
+00:07:02,100 --> 00:07:02,488
+D P.
+
+153
+00:07:02,500 --> 00:07:07,028
+Aquilo que a gente viu alguma aplicações específicas pedem aí
+
+154
+00:07:07,040 --> 00:07:09,480
+reserva de portas, né? Aí tá aí no
+
+155
+00:07:09,488 --> 00:07:13,399
+livro dele, pra você ver essa famosa citação Okay
+
+156
+00:07:13,410 --> 00:07:16,738
+e eu separei pra você uma questão pra treinar,
+
+157
+00:07:16,750 --> 00:07:19,079
+pra ver o seu conhecimento aí pra você ter uma
+
+158
+00:07:19,088 --> 00:07:19,420
+noção.
+
+159
+00:07:19,428 --> 00:07:22,040
+Por exemplo, se você vai precisar ter esse conhecimento
+
+160
+00:07:22,048 --> 00:07:24,720
+de porta, olha só que questão interessante oh área
+
+161
+00:07:24,730 --> 00:07:28,319
+de suporte Oh! A porta oitenta, então ele
+
+162
+00:07:28,329 --> 00:07:28,959
+se separou.
+
+163
+00:07:28,970 --> 00:07:32,358
+A porta oitenta é a porta padrão utilizada pelo protocolo
+
+164
+00:07:32,369 --> 00:07:35,259
+h T T P para acesso a um ser da
+
+165
+00:07:35,269 --> 00:07:40,798
+web em uma intranet ou até mesmo pode ser numa
+
+166
+00:07:40,809 --> 00:07:44,750
+internet concorda? O que você tem que matar aqui
+
+167
+00:07:44,759 --> 00:07:48,259
+oh, é o casamento do protocolo com a porta,
+
+168
+00:07:48,269 --> 00:07:54,278
+casou, casou, então aqui nós temos uma questãozinha
+
+169
+00:07:54,290 --> 00:07:56,059
+Ssima perfeito.
+
+170
+00:07:56,069 --> 00:07:57,850
+Só pra você ter uma ideia, o cake logo
+
+171
+00:07:57,858 --> 00:08:00,119
+em cima de mim deixa eu botar o certo aqui
+
+172
+00:08:00,129 --> 00:08:03,559
+acima aí da minha tela tranquilo, aluno.
+
+173
+00:08:03,569 --> 00:08:06,709
+Então, espero que você tenha entendido essa parte dois
+
+174
+00:08:06,720 --> 00:08:08,838
+aí dos endereços de serviços.
+
+175
+00:08:08,850 --> 00:08:10,980
+Tá, voltamos grande abraço.
+

@@ -1,0 +1,872 @@
+1
+00:00:06,690 --> 00:00:10,019
+olá, seja bem-vindo, vamos para o nosso caso
+
+2
+00:00:10,028 --> 00:00:11,099
+prático.
+
+3
+00:00:11,108 --> 00:00:14,060
+Três né? Já fizemos um, fizemos o dois
+
+4
+00:00:14,069 --> 00:00:19,298
+Vamos pro pra nossa terceira eh nosso terceiro exercício,
+
+5
+00:00:19,309 --> 00:00:22,548
+né? Nossa terceira prática e agora eh a parte
+
+6
+00:00:22,559 --> 00:00:24,780
+um né, parte um parte dois parte três tá
+
+7
+00:00:24,789 --> 00:00:26,539
+legal eh aqui.
+
+8
+00:00:26,548 --> 00:00:29,818
+Nós vamos trabalhar uma perspectiva diferente, né? EH?
+
+9
+00:00:29,829 --> 00:00:32,539
+A gente trabalhou no caso, no primeiro eu falei
+
+10
+00:00:32,548 --> 00:00:38,098
+sobre uma e ali a gente viu eh algumas perspectivas
+
+11
+00:00:38,109 --> 00:00:41,348
+de um processo descrito e dentro desse processo eh!
+
+12
+00:00:41,359 --> 00:00:45,728
+Eu falei da gente usar eh os o os verbos
+
+13
+00:00:45,740 --> 00:00:46,918
+pra considerar as as ações.
+
+14
+00:00:46,929 --> 00:00:50,250
+As fases ali ajuda a identificar no caso dois A
+
+15
+00:00:50,259 --> 00:00:53,609
+gente usou lá uma uma, um requisito legal baseado
+
+16
+00:00:53,618 --> 00:00:54,009
+numa lei.
+
+17
+00:00:54,020 --> 00:00:55,319
+No caso, a gente usou a l GP d
+
+18
+00:00:55,329 --> 00:00:58,950
+ali pra derivar um um processo e a gente descreveu
+
+19
+00:00:58,959 --> 00:01:01,158
+as etapas e as fases desse processo, mas não
+
+20
+00:01:01,168 --> 00:01:03,329
+desenhamos ele nesse caso prático.
+
+21
+00:01:03,340 --> 00:01:03,859
+Três.
+
+22
+00:01:03,868 --> 00:01:10,349
+O nosso objetivo aqui é eh materializar um processo organizacional
+
+23
+00:01:10,359 --> 00:01:13,448
+e usar uma metodologia pra gente identificar que as fases
+
+24
+00:01:13,459 --> 00:01:16,010
+desse processo, a os processos em si, que
+
+25
+00:01:16,019 --> 00:01:19,370
+acontecem dentro desse desse desse dessa descrição e depois a
+
+26
+00:01:19,379 --> 00:01:21,650
+gente vai mostrar a anotação dela.
+
+27
+00:01:21,659 --> 00:01:22,088
+Tá legal.
+
+28
+00:01:22,099 --> 00:01:24,849
+Então nós vamos aqui pro nosso caso Prático.
+
+29
+00:01:24,859 --> 00:01:26,888
+Três Parti um, então vamos lá olha lá,
+
+30
+00:01:26,900 --> 00:01:29,430
+a primeira coisa que fala é justamente a questão da
+
+31
+00:01:29,439 --> 00:01:31,329
+empresa, né? Ele fala da empresa, faz
+
+32
+00:01:31,338 --> 00:01:32,948
+uma contextualização da empresa.
+
+33
+00:01:34,049 --> 00:01:37,120
+Tá em que diz o seguinte A empresa Caminho Feliz
+
+34
+00:01:37,129 --> 00:01:39,659
+tem dez anos de atuação no mercado, tem cento
+
+35
+00:01:39,668 --> 00:01:43,439
+e dez funcionários Tem processo de férias, né?
+
+36
+00:01:43,448 --> 00:01:46,629
+Que é baseado no preenchimento de uma solicitação por parte
+
+37
+00:01:46,638 --> 00:01:50,659
+do funcionário que depois é encaminhada, né? Feito
+
+38
+00:01:50,668 --> 00:01:52,299
+o respectivo encaminhamento.
+
+39
+00:01:52,308 --> 00:01:54,129
+E aí aqui tem uma descrição de como o processo
+
+40
+00:01:54,138 --> 00:01:54,459
+funciona.
+
+41
+00:01:54,469 --> 00:01:56,019
+Olha que que interessante a gente saiu lá de um
+
+42
+00:01:56,028 --> 00:01:59,864
+requisito legal de uma obrigação legal pra o que acontece
+
+43
+00:01:59,875 --> 00:02:00,644
+dentro da empresa.
+
+44
+00:02:00,653 --> 00:02:03,864
+No Dia-a-dia, né que a empresa estabelece aquilo que
+
+45
+00:02:03,875 --> 00:02:04,584
+ela vai fazer.
+
+46
+00:02:04,594 --> 00:02:05,944
+E, pô, nada mais legal do que um
+
+47
+00:02:05,954 --> 00:02:07,974
+processo de férias, né? Todo mundo adora.
+
+48
+00:02:07,984 --> 00:02:10,365
+Eu adoro tirar férias, né? Vamos lá,
+
+49
+00:02:10,375 --> 00:02:12,183
+eh ficar de boa assim.
+
+50
+00:02:12,194 --> 00:02:14,064
+Só gastando dinheiro, né? Mas vamos lá,
+
+51
+00:02:14,074 --> 00:02:16,104
+olha só então o processo aqui é o processo de
+
+52
+00:02:16,115 --> 00:02:18,944
+férias, Tá? Então, como é que é
+
+53
+00:02:18,955 --> 00:02:19,804
+essa? Como é que a gente vai fazer?
+
+54
+00:02:19,814 --> 00:02:22,344
+A gente vai fazer a descrição o nós vamos escrever
+
+55
+00:02:22,354 --> 00:02:27,229
+esse processo escrever neste momento eu eu eu peço pra
+
+56
+00:02:27,240 --> 00:02:31,719
+que quando vocês forem escrever um processo, as interações
+
+57
+00:02:31,729 --> 00:02:34,429
+que você vai que você vai realizar, lembrando quando
+
+58
+00:02:34,439 --> 00:02:35,969
+a gente falou de gerenciamento, de de modelagem de
+
+59
+00:02:35,979 --> 00:02:39,050
+processo que tem formas de eu obter o O,
+
+60
+00:02:39,058 --> 00:02:45,050
+o processo, né, entrevistas? Eh formulários manuais,
+
+61
+00:02:45,058 --> 00:02:48,710
+né? Eh, eu posso usar, por exemplo,
+
+62
+00:02:48,719 --> 00:02:53,469
+eh eh saber de alguma pessoa.
+
+63
+00:02:53,479 --> 00:02:56,069
+A pessoa já sabe muito, ela realiza é o
+
+64
+00:02:56,080 --> 00:02:56,508
+ela.
+
+65
+00:02:56,520 --> 00:02:59,210
+Eu uso ela pra poder escrever o processo.
+
+66
+00:02:59,219 --> 00:03:01,250
+Enfim, tem uma série de formas.
+
+67
+00:03:01,580 --> 00:03:04,429
+Neste caso, fica uma dica pra vocês que eh
+
+68
+00:03:04,439 --> 00:03:06,229
+a escrita do jeito que vai.
+
+69
+00:03:06,240 --> 00:03:08,788
+Tá aqui, não necessariamente vai representar a verdade toda.
+
+70
+00:03:08,800 --> 00:03:11,349
+Então, você vai quando você for desenhar um processo,
+
+71
+00:03:11,360 --> 00:03:13,270
+for começar a entender um processo.
+
+72
+00:03:13,278 --> 00:03:16,689
+A minha sugestão é escreva o processo, descreva o
+
+73
+00:03:16,699 --> 00:03:19,969
+processo exatamente como ele ocorre, sempre consultando o dono
+
+74
+00:03:19,979 --> 00:03:21,949
+do processo, que é o dono do processo.
+
+75
+00:03:21,960 --> 00:03:24,099
+É o cara que sabe o processo que executa o
+
+76
+00:03:24,110 --> 00:03:26,710
+processo é o que tem o domínio do processo,
+
+77
+00:03:26,719 --> 00:03:27,889
+descreve.
+
+78
+00:03:27,899 --> 00:03:31,939
+Pá pá pá pá pá formate o texto, ajuste
+
+79
+00:03:31,949 --> 00:03:32,618
+o texto.
+
+80
+00:03:32,629 --> 00:03:36,479
+Se precisar uma nova interação, volte a essa pessoa.
+
+81
+00:03:36,490 --> 00:03:40,179
+Você pode fazer isso por meio entrevistando ele pedindo pra
+
+82
+00:03:40,189 --> 00:03:44,500
+ele descrever num texto eh corrido ali a mão mesmo
+
+83
+00:03:44,508 --> 00:03:48,240
+digitar pode fazer por meio de um questionário a forma
+
+84
+00:03:48,250 --> 00:03:51,399
+como você vai obter o o a descrição do processo
+
+85
+00:03:52,288 --> 00:03:55,139
+eh como você trabalhar na tua organização tá legal,
+
+86
+00:03:55,149 --> 00:03:57,740
+usa as metodologias que cê tem as cartas que cê
+
+87
+00:03:57,750 --> 00:03:59,939
+tem na manga pra conseguir aqui? Tá, Então
+
+88
+00:03:59,949 --> 00:04:02,300
+aqui é a é uma interação, Tá gente,
+
+89
+00:04:02,308 --> 00:04:05,599
+pode ser que eh te pode não, com certeza,
+
+90
+00:04:05,610 --> 00:04:08,278
+ela de ela tem que ser muito mais bem detalhada,
+
+91
+00:04:08,288 --> 00:04:10,219
+muito mais aprimorada, mas é tipo de A a
+
+92
+00:04:10,229 --> 00:04:11,139
+título de exercício.
+
+93
+00:04:11,149 --> 00:04:13,399
+Eu acho que ela se com eh cumpre o propósito,
+
+94
+00:04:13,409 --> 00:04:13,699
+beleza.
+
+95
+00:04:13,710 --> 00:04:18,220
+Então essa descrição chamando a atenção hum você vai fazer
+
+96
+00:04:18,230 --> 00:04:20,819
+uma, duas, três, quatro, cinco vezes
+
+97
+00:04:20,829 --> 00:04:24,619
+tantas vezes quanto forem necessárias pra que você tenha o
+
+98
+00:04:24,629 --> 00:04:25,480
+conhecimento.
+
+99
+00:04:25,488 --> 00:04:27,649
+O detalhamento do processo, tal como ele corre,
+
+100
+00:04:27,660 --> 00:04:28,079
+tá legal.
+
+101
+00:04:28,088 --> 00:04:30,619
+Então vamos lá então olha só tá dizendo aqui oh,
+
+102
+00:04:30,629 --> 00:04:34,470
+o servidor preenche um requerimento de férias, encaminha pro
+
+103
+00:04:34,480 --> 00:04:37,819
+pro pro chefe imediato que analisa e aceita ou não
+
+104
+00:04:37,829 --> 00:04:38,858
+a solicitação.
+
+105
+00:04:38,869 --> 00:04:41,778
+Caso a solicitação não seja aceita, o chefe retorna
+
+106
+00:04:41,790 --> 00:04:43,278
+o requerimento ao servidor.
+
+107
+00:04:43,290 --> 00:04:45,759
+Entretanto, se esta for aceita, o requerimento é
+
+108
+00:04:45,769 --> 00:04:49,500
+encaminhado para o Departamento de Gestão de Pessoas confere o
+
+109
+00:04:49,509 --> 00:04:52,850
+Conferência do Departamento de Gestão de Pessoas, que confere
+
+110
+00:04:52,858 --> 00:04:54,019
+a solicitação.
+
+111
+00:04:54,028 --> 00:04:56,298
+Caso esta atenda a todos os requisitos.
+
+112
+00:04:56,309 --> 00:04:59,778
+É encaminhada para o gerente do Departamento de Gestão de
+
+113
+00:04:59,790 --> 00:05:00,420
+Pessoa.
+
+114
+00:05:00,428 --> 00:05:05,019
+Mas se a solicitação não estiver correta esta retorna para
+
+115
+00:05:05,028 --> 00:05:05,639
+o servidor.
+
+116
+00:05:06,209 --> 00:05:10,019
+O gerente do Departamento de Gestão de Pessoas autoriza as
+
+117
+00:05:10,028 --> 00:05:14,139
+férias, que estão corretas e retorna para esta.
+
+118
+00:05:14,149 --> 00:05:17,420
+E retorna esta para o Conferência do Departamento de Gestão
+
+119
+00:05:17,428 --> 00:05:20,579
+de Pessoas, que vai lançar as informações da requisição
+
+120
+00:05:20,588 --> 00:05:23,379
+nos sistemas, gera o processo de férias e,
+
+121
+00:05:23,389 --> 00:05:24,559
+informa o fornecedor.
+
+122
+00:05:24,569 --> 00:05:29,980
+Após o encaminhamento ao servidor, o processo vai para
+
+123
+00:05:29,988 --> 00:05:34,410
+o departamento financeiro para proceder com os processos financeiros eh
+
+124
+00:05:34,420 --> 00:05:37,009
+os respectivos processos financeiros, né? Claro? E
+
+125
+00:05:37,019 --> 00:05:38,608
+e e que ele seja finalizado.
+
+126
+00:05:38,619 --> 00:05:43,139
+Olha, só que interessante aqui tá essa eh essa
+
+127
+00:05:43,149 --> 00:05:44,480
+descrição eh, É.
+
+128
+00:05:44,488 --> 00:05:47,559
+É como se fosse assim, Se você olhar,
+
+129
+00:05:47,569 --> 00:05:50,858
+eh, é claro que que o texto foi traduzido!
+
+130
+00:05:50,869 --> 00:05:53,019
+Não é bonitinho de escrito, mas é uma uma
+
+131
+00:05:53,028 --> 00:05:53,559
+conversa.
+
+132
+00:05:53,569 --> 00:05:55,649
+Eu tenho uma conversa com com quem quem é o
+
+133
+00:05:55,660 --> 00:05:56,759
+dono? Ah! Como é que funciona o teu,
+
+134
+00:05:56,850 --> 00:05:57,838
+aí o cara começa lá.
+
+135
+00:05:57,850 --> 00:06:00,209
+Pá funciona assim, O cara vai lá e preenche
+
+136
+00:06:00,220 --> 00:06:01,338
+esse formulário.
+
+137
+00:06:01,350 --> 00:06:03,379
+E aí, e e outra coisa só pra você,
+
+138
+00:06:03,389 --> 00:06:05,178
+pra pra gente entender muito bem Porque você tá falando
+
+139
+00:06:05,189 --> 00:06:05,738
+de prática.
+
+140
+00:06:05,750 --> 00:06:06,480
+Tá pessoal.
+
+141
+00:06:06,488 --> 00:06:10,338
+Saber fazer o levantamento desse requisito eh desse processo é
+
+142
+00:06:10,350 --> 00:06:14,278
+fundamental! Tá beleza, Então vamos lá o o
+
+143
+00:06:14,290 --> 00:06:15,920
+o cara fala, oh, o servidor preenche um
+
+144
+00:06:15,928 --> 00:06:20,379
+requerimento de férias neste momento, Eh se, por
+
+145
+00:06:20,389 --> 00:06:24,410
+exemplo se sou eu que tô eh pegando esse processo,
+
+146
+00:06:24,420 --> 00:06:28,629
+tentando entender esse processo, fazendo esse levantamento desse processo,
+
+147
+00:06:28,639 --> 00:06:30,959
+né? Com essa primeira fala, por exemplo,
+
+148
+00:06:30,970 --> 00:06:32,928
+do dono do processo olha, o servidor vem aqui
+
+149
+00:06:32,939 --> 00:06:35,250
+e preenche um um formulário de férias, um requerimento
+
+150
+00:06:35,259 --> 00:06:35,528
+de férias.
+
+151
+00:06:35,540 --> 00:06:36,838
+Eu falei beleza, então me dá pra você tem
+
+152
+00:06:36,850 --> 00:06:39,564
+um formulário, um requerimento opa, já pego requerimento
+
+153
+00:06:39,574 --> 00:06:40,403
+de férias.
+
+154
+00:06:40,415 --> 00:06:44,584
+Esse requerimento de férias já é base da minha documentação.
+
+155
+00:06:44,595 --> 00:06:46,584
+Base do entendimento do processo.
+
+156
+00:06:46,595 --> 00:06:49,165
+Tá, aí, vai encaminhar pro chefe que vai
+
+157
+00:06:49,173 --> 00:06:50,264
+analisar.
+
+158
+00:06:50,274 --> 00:06:52,314
+Eh se aceita ou não a solicitação.
+
+159
+00:06:52,324 --> 00:06:54,423
+Opa, peraí! O que que aí veja?
+
+160
+00:06:54,809 --> 00:06:57,980
+Tá aí? Vai analisar se aceita ou não que,
+
+161
+00:06:57,988 --> 00:06:59,899
+caso não seja aceita reto, veja, Tem um
+
+162
+00:06:59,910 --> 00:07:03,319
+montão de de de de de de entrelinhas aqui.
+
+163
+00:07:03,329 --> 00:07:05,139
+Pergunta né? Que a gente vai se vai,
+
+164
+00:07:05,149 --> 00:07:07,619
+vai se fazendo e a gente tem que fazer o
+
+165
+00:07:07,629 --> 00:07:09,639
+que que se aceita ou não.
+
+166
+00:07:09,649 --> 00:07:12,278
+Quando é que é aceita? Quando não é aceita?
+
+167
+00:07:12,290 --> 00:07:15,699
+Em quais são as exceções? Eh que incorrem em
+
+168
+00:07:15,709 --> 00:07:19,439
+relação a essa análise que é realizada.
+
+169
+00:07:19,449 --> 00:07:23,338
+Por que que ele não aceita com base em quê
+
+170
+00:07:23,350 --> 00:07:27,079
+gera alguma coisa? Há alguma assinatura? Algum carimbo?
+
+171
+00:07:27,088 --> 00:07:29,858
+Tá entendendo Então assim, veja aqui o que que
+
+172
+00:07:29,869 --> 00:07:32,500
+o que nós escrevemos aqui que eu relatei pra vocês
+
+173
+00:07:32,509 --> 00:07:35,420
+não é? Não tá entrando nesse nível de detalhe,
+
+174
+00:07:35,428 --> 00:07:40,738
+mas é claro que para para trabalhar um processo na
+
+175
+00:07:40,750 --> 00:07:45,980
+sua totalidade na sua completude, eu preciso desses detalhes,
+
+176
+00:07:45,988 --> 00:07:48,699
+né? Vejam que aqui a gente tem um praticamente
+
+177
+00:07:48,709 --> 00:07:50,920
+um pa, é um parágrafo só de descrição.
+
+178
+00:07:51,420 --> 00:07:56,108
+Okay E eu tenho que trabalhar essa perspectiva, olha
+
+179
+00:07:56,119 --> 00:07:57,350
+aqui, oh o não acei.
+
+180
+00:07:57,358 --> 00:08:01,889
+O chefe retorna o requerimento ao servidor retorna de que
+
+181
+00:08:01,899 --> 00:08:05,108
+forma? Aí ele manda um e-mail? Ele manda
+
+182
+00:08:05,119 --> 00:08:09,230
+um formulário, né? Ele vai mandar, vai
+
+183
+00:08:09,238 --> 00:08:10,720
+mandar via sistema.
+
+184
+00:08:10,730 --> 00:08:12,160
+É um ofício.
+
+185
+00:08:12,170 --> 00:08:14,920
+Não sei, né? Aí, veja eh.
+
+186
+00:08:14,928 --> 00:08:17,540
+Entretanto, se for aceito, o requerimento é encaminhado
+
+187
+00:08:17,548 --> 00:08:19,858
+para o de Departamento de Gestão de Pessoas.
+
+188
+00:08:19,869 --> 00:08:22,639
+E é um WK Flow, né? Como é
+
+189
+00:08:22,649 --> 00:08:25,858
+que cê fez esse encaminhamento é um formulárioà parte.
+
+190
+00:08:25,869 --> 00:08:31,540
+Tem muitas muitas perguntas que podem ser feitas nesta entrelinha.
+
+191
+00:08:32,158 --> 00:08:35,570
+É claro que numa primeira interação talvez você não consiga
+
+192
+00:08:35,580 --> 00:08:39,570
+perceber eh todos esses detalhes, mas faz uma primeira
+
+193
+00:08:39,580 --> 00:08:43,918
+interação, tenha esse primeiro conhecimento, escreva e depois
+
+194
+00:08:43,928 --> 00:08:48,408
+você vai ponderando opa isso aqui Isso aqui vai marcando
+
+195
+00:08:48,418 --> 00:08:52,529
+do lado, né? Essas ponderações numa segunda interação,
+
+196
+00:08:52,538 --> 00:08:55,529
+você mostra o texto, o processo.
+
+197
+00:08:55,538 --> 00:08:58,408
+Como você descreveu aí a pessoa vai e falou Pô,
+
+198
+00:08:58,418 --> 00:08:59,710
+beleza É isso mesmo e tal tal.
+
+199
+00:08:59,719 --> 00:09:02,469
+Ah, mas é isso e isso você vai completando.
+
+200
+00:09:02,479 --> 00:09:03,889
+Vai pra uma segunda interação.
+
+201
+00:09:03,899 --> 00:09:07,849
+Reforma o texto, né? Reajusta o seu texto.
+
+202
+00:09:07,859 --> 00:09:13,369
+Okay reajusta seu texto, eh português, Ordenação das
+
+203
+00:09:13,379 --> 00:09:15,489
+ideias, gente presta atenção, né? E cê
+
+204
+00:09:15,500 --> 00:09:18,408
+tem que ser todo dentro de um processo você tem
+
+205
+00:09:18,418 --> 00:09:20,019
+que saber, tem escrever muito bem.
+
+206
+00:09:20,029 --> 00:09:22,379
+A comunicação é fundamental de um processo.
+
+207
+00:09:22,389 --> 00:09:27,259
+Como escrever mais ainda pra não ficar subentendido ou ficar
+
+208
+00:09:27,269 --> 00:09:30,500
+situações que não podem estar bem amarradas.
+
+209
+00:09:30,509 --> 00:09:34,379
+Tá, então procura entender, procura entender, procura
+
+210
+00:09:34,389 --> 00:09:36,879
+eh, eh, eh trabalhar.
+
+211
+00:09:36,889 --> 00:09:40,090
+O detalhe disso vá anotando, refaz.
+
+212
+00:09:40,099 --> 00:09:42,450
+O texto precisou de uma outra interação.
+
+213
+00:09:42,460 --> 00:09:45,649
+Volta lá! Você analisou o texto que você ajustou,
+
+214
+00:09:45,658 --> 00:09:47,889
+tem mais coisas, mais detalhes que cê tá chamando
+
+215
+00:09:47,899 --> 00:09:50,690
+a atenção que cê tem preocupação volta quando é que
+
+216
+00:09:50,700 --> 00:09:53,729
+você vai terminar quando você se sentir confortável e aquele
+
+217
+00:09:53,739 --> 00:09:58,330
+processo realmente representar a verdade como ele ocorre? Okay
+
+218
+00:09:58,340 --> 00:10:00,308
+Obrigado até a segunda parte.
+

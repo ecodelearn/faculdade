@@ -1,0 +1,908 @@
+1
+00:00:06,078 --> 00:00:07,629
+na primeira parte da nossa aula.
+
+2
+00:00:07,639 --> 00:00:10,089
+Nós falamos dessa aula de infraestrutura.
+
+3
+00:00:10,099 --> 00:00:11,970
+Nós falamos dois pontos importantes.
+
+4
+00:00:11,978 --> 00:00:15,380
+Tá pessoas e tecnologia.
+
+5
+00:00:15,390 --> 00:00:19,510
+Ou ferramenta, né? Eu quero lembrar, precisamos
+
+6
+00:00:19,519 --> 00:00:23,408
+treinar as pessoas, Precisamos qualificar nossas pessoas e terminamos
+
+7
+00:00:23,420 --> 00:00:25,370
+aquela aula falando do farol, né? E agora
+
+8
+00:00:25,379 --> 00:00:29,920
+a gente vai continuar falando de outras ferramentas agora vamos
+
+9
+00:00:29,929 --> 00:00:31,370
+começar pelo antivírus.
+
+10
+00:00:31,379 --> 00:00:34,579
+Tá? Apesar de não, não seja garantido que
+
+11
+00:00:34,590 --> 00:00:36,918
+um sistema de eh vamos lá começar de novo,
+
+12
+00:00:36,929 --> 00:00:40,399
+apesar que não seja garantia que um sistema viva sem
+
+13
+00:00:40,408 --> 00:00:41,539
+ataque nem sem invasões.
+
+14
+00:00:41,548 --> 00:00:44,618
+É bom antiv Um antivírus opa! Um bom antivírus
+
+15
+00:00:44,630 --> 00:00:47,859
+é capaz de eliminar A grande maioria das ameaças ter
+
+16
+00:00:47,868 --> 00:00:50,359
+um computador encontra no seu dia a dia.
+
+17
+00:00:50,609 --> 00:00:53,779
+O antivírus é fundamental não só pro computador agora né,
+
+18
+00:00:53,789 --> 00:00:56,418
+gente? Pra celular também pra qualquer tipo de equipamento.
+
+19
+00:00:56,429 --> 00:00:59,109
+Então o antivírus ele não garante que você não vai
+
+20
+00:00:59,118 --> 00:00:59,658
+ser invadido.
+
+21
+00:00:59,668 --> 00:01:02,520
+Não garante, mas ele já contribui.
+
+22
+00:01:02,529 --> 00:01:05,500
+Já diminui muito a ameaça do dia-a-dia.
+
+23
+00:01:05,510 --> 00:01:07,058
+Só que esse antivírus ele precisa! Tá, ele
+
+24
+00:01:07,069 --> 00:01:09,680
+precisa! Tá atualizado, né? Sabe aquela aquelas
+
+25
+00:01:09,689 --> 00:01:12,302
+aqueles mensagens? Atualiza o antivírus?Às vezes esse
+
+26
+00:01:12,313 --> 00:01:14,501
+antivírus você fala ah, deixa pra depois! Deixa
+
+27
+00:01:14,513 --> 00:01:17,302
+pra depois toda vez que tem uma atualização do antivírus
+
+28
+00:01:17,313 --> 00:01:21,302
+significa que existe uma nova brecha, uma nova ameaça
+
+29
+00:01:21,313 --> 00:01:22,182
+no mercado.
+
+30
+00:01:22,192 --> 00:01:25,141
+Ou seja, se você não atualizar aquela ameaça,
+
+31
+00:01:25,152 --> 00:01:28,263
+aquela brecha pode acessar o seu sistema de de de
+
+32
+00:01:28,272 --> 00:01:29,962
+comunicação, o seu sistema de informação.
+
+33
+00:01:29,971 --> 00:01:33,864
+Cê tá me entendendo antivírus é fundamental Atualizar o antivírus
+
+34
+00:01:33,875 --> 00:01:38,905
+é essencial para o seu dia-a-dia, lembrando toda vez
+
+35
+00:01:38,915 --> 00:01:42,706
+que existe uma atualização do seu antivírus, Significa que
+
+36
+00:01:42,715 --> 00:01:43,465
+existe uma.
+
+37
+00:01:43,474 --> 00:01:47,706
+Existem novas ameaças e eu te garanto novas ameaças existem
+
+38
+00:01:47,715 --> 00:01:49,825
+todo o santo dia A cada segundo existe uma nova
+
+39
+00:01:49,834 --> 00:01:50,206
+ameaça.
+
+40
+00:01:50,215 --> 00:01:53,625
+Você precisa deixar a atualização do seu ativ de preferência
+
+41
+00:01:53,635 --> 00:01:56,629
+automática e é fundamental pra ter um antivírus.
+
+42
+00:01:56,638 --> 00:01:58,829
+Ah, meu antivírus tá deixando o meu sistema lento,
+
+43
+00:01:58,838 --> 00:02:01,689
+o meu computador lento procure outro, não sei,
+
+44
+00:02:01,698 --> 00:02:04,730
+mas é fundamental você preci Cê precisa ter um sistema
+
+45
+00:02:04,739 --> 00:02:08,889
+de antivírus, sistema de detecta deteção e prevenção de
+
+46
+00:02:08,899 --> 00:02:09,368
+intrusos.
+
+47
+00:02:09,379 --> 00:02:11,330
+Tá que é conhecido como i d s ou i
+
+48
+00:02:11,338 --> 00:02:16,008
+PS tá eh é um sistema que bloqueia, né?
+
+49
+00:02:16,020 --> 00:02:18,770
+Quando a gente algum algum algum hacker, né?
+
+50
+00:02:18,778 --> 00:02:23,129
+Algum invasor tenta, tenta forçar a A A a
+
+51
+00:02:23,139 --> 00:02:26,740
+entrar no seu sistema? De forma? Geralmente isso
+
+52
+00:02:26,750 --> 00:02:28,028
+não é, não, não, não é num
+
+53
+00:02:28,038 --> 00:02:30,868
+computador pessoal, geralmente esse tipo de ataque é dentro
+
+54
+00:02:30,879 --> 00:02:31,699
+de uma organização.
+
+55
+00:02:31,710 --> 00:02:32,830
+Por isso que a gente tem que ter um um,
+
+56
+00:02:32,838 --> 00:02:35,169
+um sistema de proteção, de prevenção, de intrusão
+
+57
+00:02:35,179 --> 00:02:37,469
+muito forte, porque eles vão fazer vários tipos de
+
+58
+00:02:37,479 --> 00:02:38,868
+ataque, D, D, o, s,
+
+59
+00:02:38,879 --> 00:02:43,490
+vários outros tipos de ataque tentando procurando, né brechas
+
+60
+00:02:43,500 --> 00:02:44,288
+no seu sistema.
+
+61
+00:02:44,300 --> 00:02:49,508
+Então ter essa prevenção Detecção automática é importantíssima, porque
+
+62
+00:02:49,520 --> 00:02:54,088
+constantemente vão ter muitas e muitas e muitas pessoas tentando
+
+63
+00:02:54,099 --> 00:02:57,050
+invadir os nossos sistemas, ainda mais quanto maior empresa,
+
+64
+00:02:57,058 --> 00:03:01,729
+maior visibilidade, maior o impacto, maior probabilidade de
+
+65
+00:03:01,740 --> 00:03:05,949
+você ser, né? Ser invadido e ter eh
+
+66
+00:03:05,960 --> 00:03:08,849
+de tentativa de invasão no seu no seu ambiente.
+
+67
+00:03:08,860 --> 00:03:14,169
+Controle de acesso O motor de acesso implementa políticas e
+
+68
+00:03:14,179 --> 00:03:18,599
+mecanismos que garante que apenas pessoas autorizadas tenham acesso a
+
+69
+00:03:18,610 --> 00:03:20,550
+sistemas de e dados.
+
+70
+00:03:20,558 --> 00:03:23,610
+Isso aqui é que a questão da autenticação daqueles nossos
+
+71
+00:03:23,618 --> 00:03:24,969
+pilares, né? A partir do momento que a
+
+72
+00:03:24,979 --> 00:03:26,649
+gente fala de autenticação, também a gente tá falando
+
+73
+00:03:26,659 --> 00:03:30,639
+de eh integridade dos dados, os nossos dados estão
+
+74
+00:03:30,649 --> 00:03:31,360
+íntegros.
+
+75
+00:03:31,368 --> 00:03:34,129
+Então ter controle de acesso é fundamental, A gente
+
+76
+00:03:34,139 --> 00:03:36,479
+tem que ter políticas de controle de acesso, tá,
+
+77
+00:03:36,490 --> 00:03:39,679
+eh com troca de senha frequentes, enfim.
+
+78
+00:03:39,689 --> 00:03:41,719
+Então isso aqui é muito importante.
+
+79
+00:03:41,729 --> 00:03:45,838
+Você precisa entender e e e ter controle de todos
+
+80
+00:03:45,849 --> 00:03:50,274
+os acessos de todas as pessoas que passam pelo seu
+
+81
+00:03:50,284 --> 00:03:51,514
+sistema de informação.
+
+82
+00:03:51,524 --> 00:03:53,993
+Tudo tudo tudo tudo tudo precisa ter um backlog pra
+
+83
+00:03:54,004 --> 00:03:57,474
+saber quem em qual horário aquela pessoa acessou, o
+
+84
+00:03:57,485 --> 00:03:59,754
+que que ela acessou, até que nível de informação
+
+85
+00:03:59,764 --> 00:04:01,633
+que ela acessou? Então, quando a gente tá
+
+86
+00:04:01,645 --> 00:04:04,115
+falando isso e essa questão do controle de acesso é
+
+87
+00:04:04,125 --> 00:04:06,274
+fundamental, existem ferramentas.
+
+88
+00:04:06,284 --> 00:04:10,913
+Existem tecnologias somente focadas nesse controle de acesso.
+
+89
+00:04:10,925 --> 00:04:14,949
+Backup Uma política de backup permite que os dados estejam
+
+90
+00:04:14,960 --> 00:04:18,790
+disponíveis mesmo em casos que uma ameaça venha a ser
+
+91
+00:04:18,798 --> 00:04:19,829
+bem sucedida.
+
+92
+00:04:19,838 --> 00:04:25,259
+Muitas e muitas empresas já foram invadidas tá tiveram seus
+
+93
+00:04:25,269 --> 00:04:28,230
+dados ou corrompidos ou seus dados sequestrados.
+
+94
+00:04:28,238 --> 00:04:30,709
+Só que elas possuíam, né, Esse sistema de
+
+95
+00:04:30,720 --> 00:04:34,428
+backup e consequentemente, elas conseguem restaurar todo o seu
+
+96
+00:04:34,439 --> 00:04:35,028
+ambiente.
+
+97
+00:04:35,040 --> 00:04:39,220
+Então qualquer empresa precisa ter uma política de backup.
+
+98
+00:04:39,230 --> 00:04:42,053
+Eu não sei se vai ser diário, eh duas
+
+99
+00:04:42,064 --> 00:04:45,134
+vezes por dia semanal, mas você precisa ter uma
+
+100
+00:04:45,144 --> 00:04:45,894
+política de backup.
+
+101
+00:04:45,903 --> 00:04:47,613
+E não é só a política de backup.
+
+102
+00:04:47,625 --> 00:04:49,375
+Às vezes a gente fala assim nossa tem uma política
+
+103
+00:04:49,384 --> 00:04:51,863
+de backup A o B KP tá precisando direitinho.
+
+104
+00:04:51,875 --> 00:04:54,704
+Você precisa também ter uma uma política de restaurar o
+
+105
+00:04:54,713 --> 00:04:57,334
+backup, né? você precisa entender que quando você
+
+106
+00:04:57,345 --> 00:05:00,375
+faz o backup, você precisa conhecer a forma de
+
+107
+00:05:00,384 --> 00:05:01,295
+restaurar isso.
+
+108
+00:05:01,303 --> 00:05:05,028
+Garantir que ah, você vai conseguir restaurar todo o
+
+109
+00:05:05,040 --> 00:05:06,750
+ambiente quando for necessário.
+
+110
+00:05:06,759 --> 00:05:08,428
+Então você tem que ter uma política de backup,
+
+111
+00:05:08,439 --> 00:05:11,730
+né? Garantindo aquele backup esteja sendo feito, consta
+
+112
+00:05:11,738 --> 00:05:15,488
+constantemente e também testar se aquele backup tá funcionando,
+
+113
+00:05:15,500 --> 00:05:17,230
+porque muitas vezes eu já vi isso, né?
+
+114
+00:05:17,238 --> 00:05:19,869
+Na minha vida prática que a gente tem backup?
+
+115
+00:05:19,879 --> 00:05:20,548
+Ah, não.
+
+116
+00:05:20,559 --> 00:05:22,750
+Pô, tem o backup beleza, Cadê o backup?
+
+117
+00:05:22,759 --> 00:05:23,509
+Tá aqui o backup.
+
+118
+00:05:23,519 --> 00:05:24,949
+Ah, vou deixar eu restaurar o backup.
+
+119
+00:05:24,959 --> 00:05:28,608
+Você não consegue restaurar o backup, Então nós precisamos
+
+120
+00:05:28,619 --> 00:05:29,769
+ter todo todo esse ambiente.
+
+121
+00:05:29,778 --> 00:05:31,970
+Quando a gente tá falando de segurança da informação e
+
+122
+00:05:31,980 --> 00:05:35,809
+continuidade a questão do restaurar o backup de fazer o
+
+123
+00:05:35,819 --> 00:05:38,670
+backup e restaurar o backup é fundamental.
+
+124
+00:05:38,678 --> 00:05:40,309
+Não foque somente o backup.
+
+125
+00:05:40,319 --> 00:05:43,129
+Olhe também para a restauração desse backup.
+
+126
+00:05:43,139 --> 00:05:47,439
+Tá up e atualização a atualização de firme e software
+
+127
+00:05:47,449 --> 00:05:51,509
+reduza e mitiga as a vulnerabilidade, ajudando a garantir
+
+128
+00:05:51,519 --> 00:05:53,730
+um ambiente mais seguro de infraestrutura.
+
+129
+00:05:53,738 --> 00:05:57,028
+Sempre utilize sistemas e infraestruturas atualizado.
+
+130
+00:05:57,350 --> 00:06:00,759
+Atualize sempre seu celular, seu computador Ah, o
+
+131
+00:06:00,769 --> 00:06:02,439
+meu celular tá falando pra eu atualizar que eu não
+
+132
+00:06:02,449 --> 00:06:05,040
+vou atualizar se você der uma olhada toda vez que
+
+133
+00:06:05,048 --> 00:06:09,399
+qualquer tipo qualquer, enfim, Apple ou Samsung ou
+
+134
+00:06:09,410 --> 00:06:13,819
+se ou eh Android eh o todos esses temas operacionais,
+
+135
+00:06:13,829 --> 00:06:15,358
+a grande maioria.
+
+136
+00:06:15,369 --> 00:06:18,920
+Ah, quando tem as atualizações pequenas, são erros
+
+137
+00:06:18,928 --> 00:06:19,759
+de segurança.
+
+138
+00:06:19,769 --> 00:06:22,358
+Você precisa atualizar porque, ou seja, que eu
+
+139
+00:06:22,369 --> 00:06:23,738
+acabei de falar há um tempinho atrás.
+
+140
+00:06:23,988 --> 00:06:27,199
+Se você não atualizar esses erros, vão existir brechas
+
+141
+00:06:27,209 --> 00:06:28,420
+no seu sistema.
+
+142
+00:06:28,428 --> 00:06:30,959
+Precisa atualizar? Ah, o meu Windows tá pedindo
+
+143
+00:06:30,970 --> 00:06:34,108
+pra eu atualizar aqui há três dias você precisa atualizar
+
+144
+00:06:34,119 --> 00:06:34,500
+gente.
+
+145
+00:06:34,509 --> 00:06:38,879
+É fundamental sempre deixar atualizados todos os firmes de softwares.
+
+146
+00:06:38,889 --> 00:06:43,399
+Tá outro ponto controle de e-mail e mensagens internas.
+
+147
+00:06:43,410 --> 00:06:47,199
+Controlar o spam tá eh controle dos e-mails e mensagens
+
+148
+00:06:47,209 --> 00:06:50,738
+permite rastrear ameaças que podem ser passadas por eles.
+
+149
+00:06:50,750 --> 00:06:53,980
+Olha só esse! A questão do spam eh do
+
+150
+00:06:53,988 --> 00:06:59,298
+e do fish Eh é uma talvez seja das formas
+
+151
+00:06:59,309 --> 00:07:03,459
+mais fáceis e mais rotineiras que as pessoas usam pra
+
+152
+00:07:03,470 --> 00:07:04,399
+roubar dados.
+
+153
+00:07:04,410 --> 00:07:07,259
+Tá todo santo dia! Você recebe vários e vários
+
+154
+00:07:07,269 --> 00:07:09,699
+e-mails! Eh! Eh tentando roubar seus dados,
+
+155
+00:07:09,709 --> 00:07:13,639
+né? Desde de um de um de uma copa,
+
+156
+00:07:13,649 --> 00:07:16,959
+né, cópia fake do do do seu banco?
+
+157
+00:07:16,970 --> 00:07:19,639
+Clica aqui Pra garantir uma promoção, aí você digita
+
+158
+00:07:19,649 --> 00:07:20,379
+a senha.
+
+159
+00:07:20,389 --> 00:07:22,988
+Desde coisas simples, quando uma pessoa clica em um
+
+160
+00:07:23,000 --> 00:07:23,689
+link man.
+
+161
+00:07:23,699 --> 00:07:26,189
+Já aquele link abaixo é um arquivo e esse arquivo
+
+162
+00:07:26,199 --> 00:07:28,230
+já se instala no seu computador.
+
+163
+00:07:28,238 --> 00:07:32,269
+Então preocupe se principalmente com esses tipos de e-mail tanto
+
+164
+00:07:32,278 --> 00:07:34,350
+corporativo como os e-mails pessoais.
+
+165
+00:07:34,358 --> 00:07:36,209
+Não clique em qualquer e-mail.
+
+166
+00:07:36,220 --> 00:07:39,528
+Veja tranquilamente dá uma olhada se é aquele link que
+
+167
+00:07:39,540 --> 00:07:41,230
+a pessoa tá precisando pra clicar, né? Quando
+
+168
+00:07:41,238 --> 00:07:42,949
+você coloca o mouse em cima daquele link, ele
+
+169
+00:07:42,959 --> 00:07:48,379
+aparece lá uma uma aparece lá uma mensagenzinha.
+
+170
+00:07:48,389 --> 00:07:51,170
+Você consegue ver uma A A A, a,
+
+171
+00:07:51,178 --> 00:07:52,809
+u R L vê se aquela u R L é
+
+172
+00:07:52,819 --> 00:07:55,369
+confiável? Vê se aquela U RR não é estranha
+
+173
+00:07:55,379 --> 00:07:58,649
+às vezes é pra você o pessoal tenta né mandar
+
+174
+00:07:58,660 --> 00:08:01,139
+aqueles de banco? Aí tem aquela u R l,
+
+175
+00:08:01,149 --> 00:08:02,649
+aí você coloca um mouse lá em cima, você
+
+176
+00:08:02,660 --> 00:08:03,689
+vê que não é o banco, tem nada a
+
+177
+00:08:03,699 --> 00:08:05,988
+ver, né? Não é o endereço do banco,
+
+178
+00:08:06,084 --> 00:08:07,014
+é um outro endereço.
+
+179
+00:08:07,024 --> 00:08:08,375
+Então muito cuidado.
+
+180
+00:08:08,384 --> 00:08:10,713
+Essa é a forma mais comum e talvez das formas
+
+181
+00:08:10,725 --> 00:08:14,574
+mais fáceis que as pessoas usam para pegar o seu
+
+182
+00:08:14,584 --> 00:08:14,934
+dado.
+
+183
+00:08:14,944 --> 00:08:17,494
+Então questão de e-mail eh e todo dia a gente
+
+184
+00:08:17,504 --> 00:08:20,375
+recebe e-mail tanto no seu e-mail corporativo como no seu
+
+185
+00:08:20,384 --> 00:08:21,053
+e-mail pessoal.
+
+186
+00:08:21,064 --> 00:08:24,053
+você vai receber e-mails tentando roubar os seus dados.
+
+187
+00:08:24,064 --> 00:08:26,699
+Então é fundamental que você entenda que você não pode
+
+188
+00:08:26,709 --> 00:08:27,759
+clicar em qualquer coisa.
+
+189
+00:08:27,769 --> 00:08:28,579
+Você tem que dar uma olhada.
+
+190
+00:08:28,588 --> 00:08:31,838
+Você tem que analisar ver se que e-mail é aquele
+
+191
+00:08:31,850 --> 00:08:33,759
+que tipo de informação é aquela.
+
+192
+00:08:33,769 --> 00:08:37,460
+Não clique no primeiro opção na primeira, no primeiro
+
+193
+00:08:37,469 --> 00:08:39,989
+e-mail que você olhar, Não clique naquele link.
+
+194
+00:08:40,000 --> 00:08:42,590
+Só ah, olha a promoção ganhe cinco dias no
+
+195
+00:08:42,599 --> 00:08:43,259
+resort.
+
+196
+00:08:43,269 --> 00:08:46,629
+Não faça isso, não duvide de tudo que você
+
+197
+00:08:46,639 --> 00:08:47,460
+recebeu pela internet.
+
+198
+00:08:47,469 --> 00:08:50,139
+Gente dá uma olhadinha, verifique se aquilo ali faz
+
+199
+00:08:50,149 --> 00:08:51,000
+sentido pra você.
+
+200
+00:08:51,580 --> 00:08:55,668
+Padronização Tá, a gente tem que padronizar, Padronizar
+
+201
+00:08:55,678 --> 00:08:58,009
+todo o nosso sistema de de de de formação eh.
+
+202
+00:08:58,019 --> 00:08:59,389
+Tem que que a partir do momento que a gente
+
+203
+00:08:59,399 --> 00:09:01,229
+padroniza, a gente fica se torna mais fácil a
+
+204
+00:09:01,239 --> 00:09:01,710
+nossa vida.
+
+205
+00:09:01,719 --> 00:09:04,529
+Tá inventário, a gente precisa ter um inventário.
+
+206
+00:09:04,538 --> 00:09:08,109
+Você precisa saber qual é o seu parque tecnológico,
+
+207
+00:09:08,119 --> 00:09:10,509
+Oh, manter o inventário completo dos ativos de T
+
+208
+00:09:10,519 --> 00:09:13,428
+I, incluindo hardware e software, fornece um controle
+
+209
+00:09:13,440 --> 00:09:16,969
+preciso sobre os recursos necessários para o desempenho eficaz dos
+
+210
+00:09:16,979 --> 00:09:19,808
+negócios, facilitando o diretamento e a manutenção, Porque
+
+211
+00:09:19,820 --> 00:09:21,090
+a partir do momento que você tem um inventário,
+
+212
+00:09:21,099 --> 00:09:23,859
+você sabe o que tem dentro da sua é mais
+
+213
+00:09:23,869 --> 00:09:26,859
+fácil pra você mitigar erros mitigar riscos.
+
+214
+00:09:26,869 --> 00:09:30,379
+Se você não conhece nem o seu inventário, você
+
+215
+00:09:30,389 --> 00:09:32,619
+não sabe quais são as suas máquinas? Quais são
+
+216
+00:09:32,629 --> 00:09:35,479
+seus sofware? Você vai ficar muito mais difícil você
+
+217
+00:09:35,489 --> 00:09:39,418
+fazer a gestão desse dessa dessa desse seu parque tecnológico.
+
+218
+00:09:39,428 --> 00:09:45,200
+Então é fundamental você entender que saber olhar, ver
+
+219
+00:09:45,210 --> 00:09:48,399
+todo o o o o seu parque tecnológico, conhecer
+
+220
+00:09:48,408 --> 00:09:49,239
+o seu parque tecnológico.
+
+221
+00:09:49,250 --> 00:09:51,200
+Que tipo de máquina que você tem? Que tipo
+
+222
+00:09:51,210 --> 00:09:53,119
+de software que você vai ter, que você tem?
+
+223
+00:09:53,129 --> 00:09:56,759
+Contribui para sua política de segurança da informação? Se
+
+224
+00:09:56,769 --> 00:09:58,739
+você não tem o seu controle de ativos, você
+
+225
+00:09:58,750 --> 00:10:00,440
+precisa ter esse controle de ativos.
+
+226
+00:10:00,450 --> 00:10:03,019
+Tá bom? Então é isso, até a próxima
+
+227
+00:10:03,029 --> 00:10:04,619
+aula, Estamos juntos.
+

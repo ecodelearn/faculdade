@@ -1,0 +1,576 @@
+1
+00:00:05,948 --> 00:00:08,710
+Olá, querida aluno, sou professor Fabrício Melo.
+
+2
+00:00:08,720 --> 00:00:11,140
+É um grande prazer estar aqui com você na nossa
+
+3
+00:00:11,148 --> 00:00:14,599
+aula de fundamentos da comunicação onde eu vou trabalhar com
+
+4
+00:00:14,609 --> 00:00:15,478
+você.
+
+5
+00:00:15,489 --> 00:00:17,559
+O que tá na tela aí? Oh, componentes
+
+6
+00:00:17,568 --> 00:00:21,440
+de uma rede de computadores que faz parte da matéria
+
+7
+00:00:21,449 --> 00:00:23,760
+de fundamentos da comunicação.
+
+8
+00:00:23,769 --> 00:00:24,920
+Espero que você goste.
+
+9
+00:00:24,929 --> 00:00:29,219
+Espero que você entenda e consiga aí assimilar bem o
+
+10
+00:00:29,228 --> 00:00:30,120
+nosso conteúdo.
+
+11
+00:00:30,129 --> 00:00:32,679
+Tá o que que são os componentes aluno de uma
+
+12
+00:00:32,689 --> 00:00:35,595
+rede de computadores? O que que você traz com
+
+13
+00:00:35,604 --> 00:00:37,485
+relação a isso? O que que você estuda com
+
+14
+00:00:37,494 --> 00:00:39,545
+relação a isso? Olha lá, nós temos aí
+
+15
+00:00:39,554 --> 00:00:44,145
+os famosos dispositivos finais os você vai ver isso muito
+
+16
+00:00:44,155 --> 00:00:47,304
+aí em livros, material, sempre essa palavra,
+
+17
+00:00:47,316 --> 00:00:50,865
+oh esse nome que que seria nada mais seriam do
+
+18
+00:00:50,875 --> 00:00:54,145
+que os equipamentos que estão conectados a uma rede.
+
+19
+00:00:54,155 --> 00:00:58,604
+Então você tem aí os seguintes componentes e dispositivos finais
+
+20
+00:00:58,615 --> 00:01:00,865
+oh, temos os servidores, né? Conhecido aí,
+
+21
+00:01:00,875 --> 00:01:04,665
+como que eles executam o sistema operacional de redes,
+
+22
+00:01:04,676 --> 00:01:08,052
+né? Que vai permitir compartilhar os recursos como e-mail
+
+23
+00:01:08,061 --> 00:01:10,811
+páginas da web para os dispositivos finais na rede?
+
+24
+00:01:10,820 --> 00:01:13,891
+Ou seja, geralmente quando a gente tá acessando algum
+
+25
+00:01:13,902 --> 00:01:17,052
+serviço na rede, seja ele na internet, nós
+
+26
+00:01:17,061 --> 00:01:22,912
+estamos acessando servidores os famosos Okay e temos também Oh
+
+27
+00:01:22,921 --> 00:01:28,210
+os clientes que são conhecidos como dispositivo final que consome
+
+28
+00:01:28,221 --> 00:01:32,512
+os serviços disponibilizados pelos servidores ou dispositivos finais.
+
+29
+00:01:32,522 --> 00:01:34,272
+Por exemplo, eu tenho o equipamento.
+
+30
+00:01:34,948 --> 00:01:38,278
+Vou acessar aí uma página, vou acessar um servidor
+
+31
+00:01:38,290 --> 00:01:41,519
+de um e-mail, então dá-se o nome de cliente.
+
+32
+00:01:41,528 --> 00:01:43,198
+Por isso que você tem aí uma arquitetura que nós
+
+33
+00:01:43,209 --> 00:01:46,959
+estudaremos maisà frente chamada cliente servidor.
+
+34
+00:01:46,969 --> 00:01:50,299
+Então quando você vê esse esse termo, aí você
+
+35
+00:01:50,308 --> 00:01:54,079
+vai entender Pô, cliente sou eu computador que está
+
+36
+00:01:54,088 --> 00:01:57,480
+buscando algo na rede e o servidor é aquele que
+
+37
+00:01:57,489 --> 00:02:00,769
+está servindo tudo bem, e o outro equipamento que
+
+38
+00:02:00,778 --> 00:02:03,629
+a gente tem são os que são os equipamentos que
+
+39
+00:02:03,638 --> 00:02:07,808
+tanto disponibilizam serviços quanto fazem uso dos mesmos.
+
+40
+00:02:07,819 --> 00:02:10,169
+É quando você tem uma rede oh com uma arquitetura
+
+41
+00:02:10,179 --> 00:02:15,050
+chamada CHP a chamada rede ponto a ponto.
+
+42
+00:02:15,058 --> 00:02:15,808
+Isso é muito usado.
+
+43
+00:02:15,819 --> 00:02:18,770
+Por exemplo, nas criptomoedas é muito utilizado por exemplo
+
+44
+00:02:18,778 --> 00:02:21,569
+nos, ou seja, você não tem ali um
+
+45
+00:02:21,580 --> 00:02:26,250
+servidor central ao qual você tá buscando um serviço a
+
+46
+00:02:26,258 --> 00:02:27,250
+sua máquina.
+
+47
+00:02:27,258 --> 00:02:30,368
+Além de ser uma máquina que vai ser uma cliente,
+
+48
+00:02:30,379 --> 00:02:32,689
+ela também vai fornecer serviço.
+
+49
+00:02:32,699 --> 00:02:34,229
+Você pega, por exemplo Torrent, como eu dei
+
+50
+00:02:34,240 --> 00:02:36,550
+o exemplo aqui Quando você vai baixar um arquivo em
+
+51
+00:02:36,558 --> 00:02:39,909
+torrent, o arquivo é baixado do computador.
+
+52
+00:02:40,610 --> 00:02:44,979
+Outros computadores das pessoas que fazem parte da Rede Torrent.
+
+53
+00:02:44,990 --> 00:02:49,179
+Então ele pega os pedaços dos arquivos de cada computador
+
+54
+00:02:49,189 --> 00:02:49,868
+até o seu.
+
+55
+00:02:49,879 --> 00:02:52,830
+Então você se transforma num cliente e ao mesmo tempo
+
+56
+00:02:52,838 --> 00:02:54,979
+você se transforma em um servidor.
+
+57
+00:02:54,990 --> 00:02:57,899
+Então, quando você vê essa ideia dos, você
+
+58
+00:02:57,909 --> 00:03:00,500
+vai lembrar que são os equipamentos que fazem os dois
+
+59
+00:03:00,508 --> 00:03:02,618
+papéis aí usados nas redes.
+
+60
+00:03:02,629 --> 00:03:07,278
+Pip, tá bom então temos aí oh um diagrama
+
+61
+00:03:07,288 --> 00:03:10,699
+mostrando pra você que quando você também vê oh essa
+
+62
+00:03:10,710 --> 00:03:13,610
+esse nome oh recurso é T d tá vendo oh
+
+63
+00:03:13,618 --> 00:03:15,939
+cliente é t d significa o quê? Oh?
+
+64
+00:03:15,949 --> 00:03:20,460
+Qualquer dispositivo conectado a uma rede chamar dispositivos finais,
+
+65
+00:03:20,469 --> 00:03:22,899
+né? OS and points ou E T D que
+
+66
+00:03:22,909 --> 00:03:25,300
+a gente conhece como equipamento, terminal de dados,
+
+67
+00:03:25,308 --> 00:03:28,689
+É importante você já ir gravando essa sigla, um
+
+68
+00:03:28,699 --> 00:03:31,460
+dispositivo final, né? É a origem ou o
+
+69
+00:03:31,469 --> 00:03:35,750
+destino de uma mensagem transmitida pela rede? Então você
+
+70
+00:03:35,758 --> 00:03:38,110
+pode ver aqui oh que você tem por exemplo,
+
+71
+00:03:38,118 --> 00:03:40,389
+aqui, um servidor que tem como um e T
+
+72
+00:03:40,399 --> 00:03:40,750
+D.
+
+73
+00:03:40,758 --> 00:03:43,069
+Ele é a sigla, Então, quando você pegar
+
+74
+00:03:43,080 --> 00:03:46,028
+esses desenhos que você vai ter que fazer análise,
+
+75
+00:03:46,038 --> 00:03:48,939
+fazer estudos de caso, por exemplo, você vai
+
+76
+00:03:48,949 --> 00:03:51,229
+entender que quando ele cobrar e t D, ele
+
+77
+00:03:51,240 --> 00:03:53,669
+vai colocar em cima de um cliente como ele vai
+
+78
+00:03:53,679 --> 00:03:56,868
+colocar também em cima de um servidor por que são
+
+79
+00:03:56,879 --> 00:03:58,270
+os dispositivos finais.
+
+80
+00:03:58,278 --> 00:04:02,008
+Ou seja, ele é o final, é a
+
+81
+00:04:02,020 --> 00:04:06,800
+origem ou o destino de uma mensagem transmitida pela rede.
+
+82
+00:04:06,808 --> 00:04:11,439
+Tá bom, aí nós temos oh os dispositivos intermediários
+
+83
+00:04:11,449 --> 00:04:14,849
+quem são os dispositivos intermediários que fazem parte dos componentes
+
+84
+00:04:14,860 --> 00:04:16,920
+de uma rede de computadores? Oh temos os modens,
+
+85
+00:04:16,928 --> 00:04:20,410
+né? Responsáveis em interligar as redes, a internet,
+
+86
+00:04:20,420 --> 00:04:22,000
+a rede local corporativa.
+
+87
+00:04:22,009 --> 00:04:24,358
+Então, o modem é o famoso modulador e de
+
+88
+00:04:24,369 --> 00:04:28,088
+modulador de sinal que nós usamos muito aí pra termos
+
+89
+00:04:28,100 --> 00:04:30,428
+acesso, por exemplo,à internet, temos os
+
+90
+00:04:30,439 --> 00:04:34,250
+famosos roteadores ou os que são os responsáveis.
+
+91
+00:04:34,259 --> 00:04:37,290
+Por quê? Por encaminhar as mensagens na forma de
+
+92
+00:04:37,298 --> 00:04:40,278
+pacotes e determinar que o caminho vai seguir.
+
+93
+00:04:40,290 --> 00:04:43,170
+Por isso que é chamado de roteador, ele serve
+
+94
+00:04:43,178 --> 00:04:46,629
+para rotear os pacotes da rede, escolhendo o que
+
+95
+00:04:46,639 --> 00:04:47,970
+é a melhor rota.
+
+96
+00:04:47,980 --> 00:04:49,988
+Você, por exemplo, tem aí na sua casa
+
+97
+00:04:50,000 --> 00:04:53,259
+possivelmente um roteador que tá te dando aí acesso da
+
+98
+00:04:53,269 --> 00:04:56,379
+sua rede local, do seu equipamento com a internet
+
+99
+00:04:56,389 --> 00:04:59,298
+tá bom, temos também os famosos SWS.
+
+100
+00:04:59,309 --> 00:05:02,439
+É o famoso dispositivo que a gente chama inteligente quando
+
+101
+00:05:02,449 --> 00:05:04,319
+a gente compara com o hub que chama de burro,
+
+102
+00:05:04,329 --> 00:05:06,619
+né? Permitem que dispositivos oh lá, os e
+
+103
+00:05:06,629 --> 00:05:10,738
+t d S e os e CDS sejam que conectados
+
+104
+00:05:10,750 --> 00:05:11,980
+localmente.
+
+105
+00:05:11,988 --> 00:05:14,579
+Mas aí, professor que que são os e CD
+
+106
+00:05:14,588 --> 00:05:15,819
+aí eu vou te mostrar aqui.
+
+107
+00:05:15,829 --> 00:05:18,500
+Depois eu volto lá, oh, são os dispositivos
+
+108
+00:05:18,509 --> 00:05:21,298
+que conectam os dispositivos finais individuais.
+
+109
+00:05:21,309 --> 00:05:24,220
+Tá vendo? Oh e os servidores da rede ou
+
+110
+00:05:24,230 --> 00:05:27,910
+conectam várias redes individuais para formar uma rede? Eles
+
+111
+00:05:27,920 --> 00:05:32,509
+também são chamados o equipamentos de comunicação de dados.
+
+112
+00:05:32,519 --> 00:05:35,079
+Tá vendo aqui? Oh oh um exemplo aqui dum
+
+113
+00:05:35,088 --> 00:05:38,069
+e CD Você vai ter aqui oh os dispositivos!
+
+114
+00:05:38,079 --> 00:05:41,588
+Oh! Intermediários! Tá vendo que fazem aí essa
+
+115
+00:05:41,600 --> 00:05:45,778
+ligação dos demais equipamentos da da rede? Então é
+
+116
+00:05:45,790 --> 00:05:47,028
+o chamado aí o switch.
+
+117
+00:05:47,040 --> 00:05:49,528
+Ele permite que os dispositivos os e T D S
+
+118
+00:05:49,540 --> 00:05:53,755
+e OS e CDS sejam que conectado localmente.
+
+119
+00:05:53,764 --> 00:05:56,514
+Okay, temos aí os APPs que é conectar dispositivos
+
+120
+00:05:56,526 --> 00:05:57,954
+sinais de uma rede sem fio.
+
+121
+00:05:57,966 --> 00:06:01,196
+O famoso Axis point, que a gente vê muito
+
+122
+00:06:01,204 --> 00:06:03,656
+em hotel, por exemplo, você consegue fazer a
+
+123
+00:06:03,665 --> 00:06:05,846
+conexão aí, né? De acordo com o lugar
+
+124
+00:06:05,855 --> 00:06:07,596
+que você tá andando no hotel, você vai ali
+
+125
+00:06:07,605 --> 00:06:12,815
+conectando aos famosos Axis Pontes E temos também os WS
+
+126
+00:06:12,824 --> 00:06:14,975
+também são dispositivos intermediários.
+
+127
+00:06:15,071 --> 00:06:17,122
+Implementa a segurança na rede.
+
+128
+00:06:17,130 --> 00:06:20,682
+O Firo é o famoso filtro que permite ou nega
+
+129
+00:06:20,690 --> 00:06:24,360
+o fluxo de dados baseado em regras que nós implantamos
+
+130
+00:06:24,372 --> 00:06:25,081
+um Fire W.
+
+131
+00:06:25,091 --> 00:06:27,841
+Então ele vai conseguir fazer uma filtragem de pacotes filtragem
+
+132
+00:06:27,850 --> 00:06:30,701
+de ipês pra poder definir ali o que pode entrar
+
+133
+00:06:30,711 --> 00:06:32,940
+e o que pode sair? Tá? Então são
+
+134
+00:06:32,951 --> 00:06:38,509
+conhecidos aí oh como os dispositivos intermediários Okay E aí
+
+135
+00:06:38,519 --> 00:06:42,910
+temos os sistemas finais, os computadores de pacotes e
+
+136
+00:06:42,920 --> 00:06:47,790
+outras peças aluno da internet executam que os protocolos que
+
+137
+00:06:47,798 --> 00:06:50,750
+nós iremos estudar, que controlam o envio e recebimento
+
+138
+00:06:50,759 --> 00:06:51,428
+de informações.
+
+139
+00:06:51,439 --> 00:06:54,428
+Então, pra você ter sistemas finais, ter esses
+
+140
+00:06:54,439 --> 00:06:57,649
+computadores de pacotes e outras peças, você vai ter
+
+141
+00:06:57,660 --> 00:06:59,869
+que agir em cima de protocolos que será tema,
+
+142
+00:06:59,879 --> 00:07:03,230
+né? Da nossa aula, com certeza beleza,
+
+143
+00:07:03,238 --> 00:07:07,399
+então é isso, aí temos esses dispositivos que fazem
+
+144
+00:07:07,410 --> 00:07:11,420
+parte da rede e até logo voltamos Já já
+

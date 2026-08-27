@@ -1,0 +1,740 @@
+1
+00:00:06,269 --> 00:00:12,069
+olá, complementando ou continuando, né? Falando um
+
+2
+00:00:12,079 --> 00:00:14,890
+pouco mais sobre essa importância da modelagem de processos,
+
+3
+00:00:15,859 --> 00:00:21,388
+a gente pode perceber que ah os objetivos, esses
+
+4
+00:00:21,399 --> 00:00:26,109
+propósitos, que norteiam eh essa perspectiva organizacional, ou
+
+5
+00:00:26,120 --> 00:00:28,269
+seja, a A, A, o trabalho e
+
+6
+00:00:28,280 --> 00:00:32,609
+mo ah da modelagem E a aplicação dessa modelagem e
+
+7
+00:00:32,618 --> 00:00:35,509
+esse processo, a utilização e execução de de dentro
+
+8
+00:00:35,520 --> 00:00:38,868
+da organização eh são fundamentais.
+
+9
+00:00:38,880 --> 00:00:43,250
+Então dentro dessa questão a gente pode eh, eh,
+
+10
+00:00:43,750 --> 00:00:49,459
+eh identificar, elencar um conjunto de ob- objetivos e
+
+11
+00:00:49,469 --> 00:00:53,079
+propósitos relativosà modelagem de processo, né? Primeiro
+
+12
+00:00:53,090 --> 00:00:56,079
+nós já falamos, eh a compreensão e a documentação
+
+13
+00:00:56,090 --> 00:00:59,240
+tá aqui, oh então compreender o O? A
+
+14
+00:00:59,250 --> 00:01:01,719
+modelagem me ajuda a compreender o que é que está
+
+15
+00:01:01,728 --> 00:01:04,579
+sendo feito, como quem e o que e etc.
+
+16
+00:01:04,588 --> 00:01:09,900
+E bem como formalizar este conhecimento por meio da documentação,
+
+17
+00:01:10,629 --> 00:01:16,418
+né? Por meio desse desse conhecimento que vai ficar
+
+18
+00:01:17,109 --> 00:01:18,219
+escrito.
+
+19
+00:01:18,230 --> 00:01:20,819
+Pronto, isso é, é um do um.
+
+20
+00:01:20,829 --> 00:01:24,180
+Faz parte de um dos objetivos dos propósitos, segundo
+
+21
+00:01:24,189 --> 00:01:25,638
+melhoria de processo.
+
+22
+00:01:25,650 --> 00:01:28,439
+A partir do momento que você conhece o seu processo,
+
+23
+00:01:28,448 --> 00:01:33,319
+que você tem ele compreendido, que você tem documentado,
+
+24
+00:01:33,329 --> 00:01:35,079
+você vai buscar.
+
+25
+00:01:35,088 --> 00:01:38,278
+Agora, né? Com esse conhecimento, com essa
+
+26
+00:01:38,290 --> 00:01:42,198
+interação, buscar melhoria com o foco de aumentar a
+
+27
+00:01:42,209 --> 00:01:45,319
+sua eficiência, a sua eficácia, reduzir o seu
+
+28
+00:01:45,329 --> 00:01:45,900
+custo.
+
+29
+00:01:45,909 --> 00:01:48,959
+Enfim, então um dos propósitos e objetivos da modelagem
+
+30
+00:01:48,969 --> 00:01:55,359
+é permitir que os processos existentes sejam objetos de melhoria
+
+31
+00:01:55,370 --> 00:01:57,980
+também, porque eles não são estáticos.
+
+32
+00:01:58,409 --> 00:02:02,260
+Se o terceiro item aqui oh padronização, quando eu
+
+33
+00:02:02,269 --> 00:02:07,620
+modela um processo, eu padronize a forma da daquela
+
+34
+00:02:07,629 --> 00:02:11,699
+atividade daquela ocorrência, de como ele ocorre, né?
+
+35
+00:02:11,710 --> 00:02:15,139
+Como é que eu garanto essa padronização Utilizando, né?
+
+36
+00:02:15,149 --> 00:02:19,719
+A as anotações que vai Tá dentro da compreensão da
+
+37
+00:02:19,729 --> 00:02:23,558
+compreensão, e, claro, fazendo com que a
+
+38
+00:02:23,569 --> 00:02:24,899
+padronização de CO.
+
+39
+00:02:24,909 --> 00:02:27,179
+Vou colocar duas Perspectivas, né? A padronização da
+
+40
+00:02:27,189 --> 00:02:32,750
+dentro, da perspectiva de que aquela atividade sempre vai
+
+41
+00:02:32,758 --> 00:02:36,050
+ser realizada daquela forma, aquele processo garante essa padronização.
+
+42
+00:02:36,058 --> 00:02:38,830
+Ou seja, ele sempre ocorre daquela forma, porque
+
+43
+00:02:38,838 --> 00:02:40,389
+ele foi desenhado, ele foi escrito, ele é
+
+44
+00:02:40,399 --> 00:02:41,368
+compreendido.
+
+45
+00:02:41,379 --> 00:02:44,429
+Okay e a padronização sob uma perspectiva de que a
+
+46
+00:02:44,439 --> 00:02:50,409
+notação criada definiu um padrão institucional de entendimento acerca da
+
+47
+00:02:50,419 --> 00:02:51,649
+modelagem de processo.
+
+48
+00:02:51,659 --> 00:02:53,788
+Outra coisa que nós temos é a comunicação e o
+
+49
+00:02:53,800 --> 00:02:54,569
+treinamento.
+
+50
+00:02:54,580 --> 00:02:58,758
+Ou seja, a modelagem me permite eh efetivar,
+
+51
+00:02:58,770 --> 00:03:02,020
+né? Uma comunicação transparente dentro da organização, ao
+
+52
+00:03:02,028 --> 00:03:05,379
+passo que eu eu eh, as pessoas tem conhecimento
+
+53
+00:03:05,389 --> 00:03:08,368
+do processo, né? E bem como a questão
+
+54
+00:03:08,379 --> 00:03:09,349
+do treinamento.
+
+55
+00:03:09,360 --> 00:03:12,210
+Ou seja, eu consigo treinar porque eu tenho essa
+
+56
+00:03:12,219 --> 00:03:16,050
+formalização de que eu tenho um processo escrito.
+
+57
+00:03:16,058 --> 00:03:21,610
+Eu eu tenho essa atividade, eu tenho essa realização.
+
+58
+00:03:21,618 --> 00:03:25,770
+Eu tenho este fator que eu tenho que cumprir muito
+
+59
+00:03:25,778 --> 00:03:26,849
+bem definido.
+
+60
+00:03:26,860 --> 00:03:29,990
+E aí eu consigo eh, favorece o meu treinamento,
+
+61
+00:03:30,000 --> 00:03:32,429
+né? Também também fo eh, eh, eh,
+
+62
+00:03:32,439 --> 00:03:34,689
+tenho a a questão do planejamento.
+
+63
+00:03:34,699 --> 00:03:38,939
+Tomada de decisão estratégica, né? A modelagem de
+
+64
+00:03:38,949 --> 00:03:43,699
+processo me permite planejar e tomar decisões estratégicas porque eh
+
+65
+00:03:43,710 --> 00:03:45,319
+toda a estratégia.
+
+66
+00:03:45,330 --> 00:03:48,219
+Na verdade a gente vai vai, vai entender aqui
+
+67
+00:03:48,229 --> 00:03:51,659
+que a a, o processo ele tem que tá
+
+68
+00:03:51,669 --> 00:03:54,139
+alinhadoà estratégia institucional.
+
+69
+00:03:54,149 --> 00:03:58,379
+Então, se a o processo está alinhadoà estratégia
+
+70
+00:03:58,389 --> 00:04:06,368
+institucional, ele constitui o aspecto eh organizacional e estar
+
+71
+00:04:06,379 --> 00:04:11,610
+refletido dentro do planejamento institucional, o que me permite
+
+72
+00:04:11,618 --> 00:04:12,969
+tomar decisão.
+
+73
+00:04:12,979 --> 00:04:15,689
+Então, eu conheço o meu processo, eu compreendo
+
+74
+00:04:15,699 --> 00:04:18,869
+o meu processo, né? Eu tenho todo o
+
+75
+00:04:18,879 --> 00:04:22,410
+domínio sobre esse e aí sim, quando eu tenho
+
+76
+00:04:22,420 --> 00:04:26,509
+desvios, quando eu tenho eh, vamos dizer assim,
+
+77
+00:04:26,980 --> 00:04:29,629
+alterações, ajustes, mudanças.
+
+78
+00:04:29,639 --> 00:04:34,548
+Eu posso tomar uma decisão estratégica porque eu tenho o
+
+79
+00:04:34,559 --> 00:04:36,750
+o, o toda a, modelagem, né?
+
+80
+00:04:36,759 --> 00:04:39,670
+Toda descrição todo, o conhecimento necessário, muito bem,
+
+81
+00:04:39,678 --> 00:04:41,790
+internalizado, é muito mais fácil da gente trabalhar,
+
+82
+00:04:41,798 --> 00:04:45,290
+Tá, outra coisa e o outro objetivo? Estar
+
+83
+00:04:45,298 --> 00:04:49,389
+na conformidade e auditoria, ou seja, Ah,
+
+84
+00:04:49,399 --> 00:04:52,608
+eu, eu, eu, a a conformidade é
+
+85
+00:04:52,619 --> 00:04:55,689
+garantir que eu realizo realmente aquilo dentro da perspectiva no
+
+86
+00:04:55,699 --> 00:04:56,949
+qual eu fui traçado.
+
+87
+00:04:56,959 --> 00:05:01,048
+A auditoria, né? Ela vem pra garantir do
+
+88
+00:05:01,059 --> 00:05:03,889
+que o que estou fazendo e realmente reflete.
+
+89
+00:05:03,899 --> 00:05:06,209
+Aquilo que eu desenhei reflete aquilo que eu defini,
+
+90
+00:05:06,220 --> 00:05:09,730
+como o processo? Tá, então, a conformidade
+
+91
+00:05:09,738 --> 00:05:11,949
+e a auditoria eh, eh, eh, eh
+
+92
+00:05:11,959 --> 00:05:14,048
+alavancado.
+
+93
+00:05:14,059 --> 00:05:16,410
+Vamos dizer quando eu tenho uma modalidade de processo,
+
+94
+00:05:16,420 --> 00:05:20,319
+porque eu consigo por meio desta, né, modelagem,
+
+95
+00:05:20,329 --> 00:05:20,939
+né? É.
+
+96
+00:05:20,949 --> 00:05:25,139
+É fazer esse trabalho de garantia né? De eh
+
+97
+00:05:25,149 --> 00:05:29,000
+eh continuidade, beleza Outra coisa que a gente tem
+
+98
+00:05:29,009 --> 00:05:33,920
+é redução de custo bom, processos bem definidos,
+
+99
+00:05:33,928 --> 00:05:35,519
+bem modelados.
+
+100
+00:05:35,528 --> 00:05:39,000
+Ele tem que ter foco na eficiência e na eficácia.
+
+101
+00:05:39,009 --> 00:05:42,699
+Então, se eu foco na eficiência, na eficácia,
+
+102
+00:05:42,709 --> 00:05:45,459
+se eu tô olhando qualidade, eh, eh,
+
+103
+00:05:45,470 --> 00:05:49,619
+eh, não quer dizer que sempre vai haver uma
+
+104
+00:05:49,629 --> 00:05:50,959
+redução de custo.
+
+105
+00:05:50,970 --> 00:05:52,540
+Mas com certeza eu não vou ter um aumento de
+
+106
+00:05:52,548 --> 00:05:55,278
+custo porque o custo ele vai ser.
+
+107
+00:05:55,290 --> 00:05:58,338
+Eh proporcional exatamente ao um processo que eu estou executando.
+
+108
+00:05:58,350 --> 00:06:00,420
+Então, se eu tenho um processo legal, se
+
+109
+00:06:00,428 --> 00:06:01,540
+eu tenho um processo eficiente.
+
+110
+00:06:01,548 --> 00:06:03,319
+Se eu tenho um processo eficaz, ele vai tá
+
+111
+00:06:03,329 --> 00:06:08,059
+dentro de um custo esperado, diferente de não ter
+
+112
+00:06:08,069 --> 00:06:10,660
+o processo desenhado, porque você não vai ter um
+
+113
+00:06:10,670 --> 00:06:14,178
+custo bem apurado e é claro que quando você emprega
+
+114
+00:06:14,189 --> 00:06:16,858
+a modelagem de processo a tendência é que haja uma
+
+115
+00:06:16,869 --> 00:06:17,980
+redução de custo.
+
+116
+00:06:17,988 --> 00:06:20,829
+A partir do momento que você estabelece exatamente as funções
+
+117
+00:06:20,838 --> 00:06:23,160
+e os propósitos, muito bem definidos.
+
+118
+00:06:23,170 --> 00:06:25,100
+Ou seja, você não tem desvio, você não
+
+119
+00:06:25,108 --> 00:06:28,358
+tem, eh perda de qualidade, você não tem
+
+120
+00:06:29,209 --> 00:06:32,019
+eh, eh caminhos alternativos.
+
+121
+00:06:32,028 --> 00:06:35,019
+Você tem o desenho exatamente pra qual foi constituído,
+
+122
+00:06:35,028 --> 00:06:37,278
+né? Então, ele contribui pra redução de custo
+
+123
+00:06:37,290 --> 00:06:41,220
+também pra avaliação de impacto, né? Avaliação de
+
+124
+00:06:41,230 --> 00:06:44,619
+impacto, ou seja, eh eu olho para o
+
+125
+00:06:44,629 --> 00:06:46,939
+processo e o impacto que ele vai ter em relação
+
+126
+00:06:46,949 --> 00:06:50,139
+a A, a a a minha instituição em relação
+
+127
+00:06:50,149 --> 00:06:52,420
+àquilo que eu tô entregando em relaçãoàquilo que eu
+
+128
+00:06:52,428 --> 00:06:53,439
+tô produzindo.
+
+129
+00:06:53,778 --> 00:06:56,569
+Outra coisa também é que o meu processo favorece a
+
+130
+00:06:56,579 --> 00:07:00,108
+inovação, né? Conhecendo o processo, eu tenho
+
+131
+00:07:00,119 --> 00:07:03,949
+foco em inovação completa, né? Eu posso co
+
+132
+00:07:03,959 --> 00:07:07,428
+com o conhecimento do processo, sabendo como ele funciona,
+
+133
+00:07:07,439 --> 00:07:11,259
+né? Olhando pra pra perspectiva de eficiência e de
+
+134
+00:07:11,269 --> 00:07:14,129
+eficácia eu posso propor inovações.
+
+135
+00:07:14,879 --> 00:07:20,449
+Eu posso propor novas perspectivas acerca daquilo gerar novos negócios
+
+136
+00:07:20,459 --> 00:07:22,769
+baseado num processo okay.
+
+137
+00:07:22,778 --> 00:07:26,579
+Então, isso é quando você tem domínio, controle
+
+138
+00:07:26,588 --> 00:07:32,670
+e conhecimento, né? Compreensão? Lá você consegue
+
+139
+00:07:33,649 --> 00:07:36,858
+trabalhar uma inovação? Você consegue perceber isso? Esse
+
+140
+00:07:36,869 --> 00:07:39,600
+é um caminho que você vai, vai traçando Vai,
+
+141
+00:07:40,678 --> 00:07:45,329
+vai, eh fazendo dentro da sua organização também integração
+
+142
+00:07:45,338 --> 00:07:50,009
+entre sistemas né? Ou ou você consegue ver exatamente
+
+143
+00:07:50,019 --> 00:07:51,928
+né, Que é a integração entre sistemas Você consegue
+
+144
+00:07:51,939 --> 00:07:56,309
+ver exatamente onde o teu processo começa, onde ele
+
+145
+00:07:56,319 --> 00:08:00,470
+termina, onde ele se integra com os demais processos,
+
+146
+00:08:00,480 --> 00:08:03,850
+onde ele se integra com o sistema institucional inteiro,
+
+147
+00:08:03,858 --> 00:08:07,470
+onde ele faz integração, inclusive com sistemas propriamente dito.
+
+148
+00:08:07,480 --> 00:08:10,278
+Igual nós já vimos, né SISTEMAS eh por meio
+
+149
+00:08:10,290 --> 00:08:13,399
+de dados por meio de R P? Eh,
+
+150
+00:08:13,410 --> 00:08:14,000
+por exemplo.
+
+151
+00:08:14,009 --> 00:08:16,238
+Integração com R P EH Integração com o C,
+
+152
+00:08:16,250 --> 00:08:16,639
+R M.
+
+153
+00:08:16,649 --> 00:08:18,889
+A gente fala do sistema, mas vamos pensar na
+
+154
+00:08:18,899 --> 00:08:23,500
+integração do sistema como uma coisa de eh eh organizacional,
+
+155
+00:08:23,509 --> 00:08:26,720
+né? Em que eu vejo os diversos sistemas da
+
+156
+00:08:26,730 --> 00:08:32,940
+empresa conversando entre si em que um processo eh alimenta
+
+157
+00:08:32,950 --> 00:08:36,879
+o próximo processo, a saída de um alimento próximo.
+
+158
+00:08:36,889 --> 00:08:39,000
+Então, por exemplo, a saída de um processo
+
+159
+00:08:39,009 --> 00:08:43,080
+de venda alimenta o processo de financeiro, contas a
+
+160
+00:08:43,090 --> 00:08:45,960
+receber, o A saída do processo de contas a
+
+161
+00:08:45,969 --> 00:08:48,879
+receber alimenta meu fluxo de caixa.
+
+162
+00:08:48,889 --> 00:08:51,149
+E assim subsequentemente.
+
+163
+00:08:51,158 --> 00:08:54,038
+Tranquilo, né? Então o processo, né?
+
+164
+00:08:54,048 --> 00:08:58,379
+Tem essa integração entre esses diversos sistemas institucionais organizacionais e
+
+165
+00:08:59,288 --> 00:09:02,109
+o o último objetivo e propósito, né? Que
+
+166
+00:09:02,119 --> 00:09:05,399
+a gente descreve aqui é a rastreabilidade e monitoramento,
+
+167
+00:09:05,408 --> 00:09:10,259
+Porque rastreabilidade você consegue ver exatamente como começa e termina
+
+168
+00:09:10,269 --> 00:09:12,479
+como anda o teu fluxo, né? Cê!
+
+169
+00:09:12,489 --> 00:09:15,418
+Consegue perceber lá o início dele? Você consegue con
+
+170
+00:09:15,428 --> 00:09:19,090
+perceber como ele se se desdobra lá na transformação dele?
+
+171
+00:09:19,099 --> 00:09:22,399
+Como é que ele vai terminar E você consegue monitorar,
+
+172
+00:09:22,609 --> 00:09:24,739
+monitorar, Ou seja, ga eh, eu consigo
+
+173
+00:09:24,750 --> 00:09:26,619
+olhar porque eu tenho a compreensão dele.
+
+174
+00:09:26,629 --> 00:09:28,359
+Eu tenho o documento dele, eu tenho o desenho
+
+175
+00:09:28,369 --> 00:09:30,379
+dele, eu tenho a formatação, eu sei como
+
+176
+00:09:30,389 --> 00:09:33,460
+é que ele funciona e aquilo tá muito bem formatado
+
+177
+00:09:33,469 --> 00:09:35,479
+e aí eu vou monitorar pra saber se ele tá
+
+178
+00:09:35,489 --> 00:09:38,558
+executando exatamente pelo qual ele foi construído, constituído.
+
+179
+00:09:38,950 --> 00:09:43,139
+Se ele tá fazendo atendendo os requisitos para qual foi,
+
+180
+00:09:43,149 --> 00:09:47,279
+eh elaborado simples, né? Então, eu consigo
+
+181
+00:09:47,288 --> 00:09:49,239
+monitorar e consigo controlar.
+
+182
+00:09:49,250 --> 00:09:51,239
+A partir do momento que eu tenho a compreensão e
+
+183
+00:09:51,250 --> 00:09:56,000
+tenho a o completo domínio daquele processo, né?
+
+184
+00:09:56,009 --> 00:10:00,149
+Que eu modele que a minha instituição está utilizando tá
+
+185
+00:10:00,158 --> 00:10:02,460
+legal! Valeu e vamos pra próxima!
+

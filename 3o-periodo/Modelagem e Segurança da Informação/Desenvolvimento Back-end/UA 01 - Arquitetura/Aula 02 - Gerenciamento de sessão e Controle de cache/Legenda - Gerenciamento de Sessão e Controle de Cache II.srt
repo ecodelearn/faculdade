@@ -1,0 +1,712 @@
+1
+00:00:06,948 --> 00:00:10,880
+Olá, vamos falar um pouquinho sobre gerenciamento de sessões
+
+2
+00:00:10,890 --> 00:00:13,359
+do h t P, né? É um recurso
+
+3
+00:00:13,368 --> 00:00:17,798
+importante quando você fala de eh um protocolo h T
+
+4
+00:00:17,809 --> 00:00:21,940
+P eh no momento que você precisa de um recurso,
+
+5
+00:00:21,949 --> 00:00:23,978
+né? O que eu preciso de sessões? Sessões
+
+6
+00:00:23,989 --> 00:00:26,978
+são pra fazer login uma cesta de compras de memória,
+
+7
+00:00:26,989 --> 00:00:29,699
+uma série de coisas são feitas com sessões, porque
+
+8
+00:00:29,708 --> 00:00:34,020
+elas vão permitir manter informações entre chamadas sucessivas para uma
+
+9
+00:00:34,029 --> 00:00:37,319
+mesma conexão, né? Vamos ver como funciona isso,
+
+10
+00:00:38,560 --> 00:00:42,740
+então o gerenciamento de sessões h t p ele é
+
+11
+00:00:42,750 --> 00:00:45,618
+o que dá o comportamento ao h t P,
+
+12
+00:00:45,630 --> 00:00:49,020
+né? Eh! Você pode ter um gerenciamento local
+
+13
+00:00:49,029 --> 00:00:51,700
+com cookies! O que que são cookies, né?
+
+14
+00:00:51,709 --> 00:00:56,500
+EH Cookie São arquivos guardados lá no seu navegador,
+
+15
+00:00:56,509 --> 00:00:59,109
+né? No seu computador cliente também pode ter Cook
+
+16
+00:00:59,118 --> 00:01:01,560
+em nível de servidor, mas em geral são clientes.
+
+17
+00:01:02,079 --> 00:01:04,370
+Eh, tem uma informação qualquer.
+
+18
+00:01:04,379 --> 00:01:06,418
+Cookie são mais usados pra você fazer, por exemplo,
+
+19
+00:01:06,430 --> 00:01:09,010
+uma personalização de um site ou algo do tipo.
+
+20
+00:01:09,019 --> 00:01:12,808
+Aquela informação que você vai precisar uma uma segunda entrada
+
+21
+00:01:12,819 --> 00:01:15,010
+nesse site ou quando você quer guardar o nome de
+
+22
+00:01:15,019 --> 00:01:17,209
+usuário pra me digitar, sempre digitar sua senha.
+
+23
+00:01:17,219 --> 00:01:19,290
+É muito comum você ter cookies pra guardar esse tipo
+
+24
+00:01:19,299 --> 00:01:22,969
+de informação, né? Eh já o gerenciamento remoto
+
+25
+00:01:22,980 --> 00:01:26,168
+quando fala assim, eu quero manter uma informação para
+
+26
+00:01:26,180 --> 00:01:30,689
+essa conexão com esse servidor dessa conexão de agora ele
+
+27
+00:01:30,698 --> 00:01:33,730
+já é um mais comum você usar o session onde
+
+28
+00:01:33,739 --> 00:01:38,209
+você tem eh valores ao nível do servidor referentesà
+
+29
+00:01:38,219 --> 00:01:41,159
+conexão Enquanto estiver conectado, né? Por isso que
+
+30
+00:01:41,168 --> 00:01:43,448
+se chama sessão, né? É uma sessão de
+
+31
+00:01:43,459 --> 00:01:44,069
+conexão.
+
+32
+00:01:44,719 --> 00:01:48,189
+Ações partem do servidor em geral, né? E
+
+33
+00:01:48,198 --> 00:01:50,569
+eu tenho aí alguns pacotes que eu preciso pra poder
+
+34
+00:01:50,579 --> 00:01:51,489
+trabalhar com isso.
+
+35
+00:01:51,500 --> 00:01:52,989
+O Express, por exemplo, que seria o meu
+
+36
+00:01:53,000 --> 00:01:59,510
+servidor minimalista e express eh session, tá bom.
+
+37
+00:01:59,519 --> 00:02:01,049
+Vamos ver um pequeno exemplo aqui, isso aqui com
+
+38
+00:02:01,058 --> 00:02:03,668
+o Express, ou um pouquinho de prática.
+
+39
+00:02:06,689 --> 00:02:08,520
+Vou criar um projetinho aqui.
+
+40
+00:02:08,528 --> 00:02:12,858
+Eh, no caso, dá um nome qualquer pra
+
+41
+00:02:12,868 --> 00:02:19,649
+ele, precisa de uma pasta servidor, um,
+
+42
+00:02:20,360 --> 00:02:23,308
+um nome bem simples, né? E vou abrir
+
+43
+00:02:23,319 --> 00:02:30,429
+esse cara lá no meu visual estúdio Code File Open
+
+44
+00:02:30,439 --> 00:02:41,319
+folder Ah, pro servidor zero zero um aqui eu
+
+45
+00:02:41,330 --> 00:02:42,599
+tô trabalhando no Visual Studio.
+
+46
+00:02:42,610 --> 00:02:48,939
+Code, né? EH okay e eu vou criar
+
+47
+00:02:48,949 --> 00:02:53,979
+inicialmente um projetinho no JS como que eu crio n
+
+48
+00:02:53,990 --> 00:02:59,919
+PM e n t menos y fazendo isso? aqui.
+
+49
+00:03:01,169 --> 00:03:02,618
+Ah, ele já vai criar tudo o que eu
+
+50
+00:03:02,629 --> 00:03:05,610
+preciso, o menos y na verdade é só pra
+
+51
+00:03:05,618 --> 00:03:08,088
+não ter que ficar respondendo, né? E criou
+
+52
+00:03:08,099 --> 00:03:11,719
+aqui o meu pacote Jason, tá onde dá a
+
+53
+00:03:11,729 --> 00:03:14,719
+descrição geral do que eu vou usar no meu serviço
+
+54
+00:03:14,729 --> 00:03:17,379
+aqui no meu aplicativo, né? Inclusive o ponto
+
+55
+00:03:17,389 --> 00:03:19,199
+de entrada padrão que é o W index ponto de
+
+56
+00:03:19,210 --> 00:03:19,500
+S.
+
+57
+00:03:20,360 --> 00:03:24,599
+Aí eu vou precisar de alguns pacotes, Tá?
+
+58
+00:03:24,610 --> 00:03:26,679
+Vou precisar do pacote nesse início.
+
+59
+00:03:26,689 --> 00:03:29,550
+Aqui só o Express, né? Mas eu acho
+
+60
+00:03:29,558 --> 00:03:31,710
+que eu vou precisar do Cook Park nesse caso também.
+
+61
+00:03:31,719 --> 00:03:35,368
+Deixa eu ver, talvez não no início ainda não,
+
+62
+00:03:36,179 --> 00:03:39,770
+Então eu quero colocar o express nesse cara n PM
+
+63
+00:03:41,129 --> 00:03:48,669
+e Express O edital, né? Eu tô instalando
+
+64
+00:03:48,679 --> 00:03:49,110
+aqui.
+
+65
+00:03:49,118 --> 00:03:52,699
+O express no meu projeto é impossível trabalhar com s
+
+66
+00:03:52,710 --> 00:03:56,868
+sem internet? Tá assim no baixa tudo do GT,
+
+67
+00:03:56,879 --> 00:03:59,629
+Então você eh você tem que usar o comando da
+
+68
+00:03:59,639 --> 00:04:00,210
+n PM.
+
+69
+00:04:00,219 --> 00:04:01,919
+E com isso, cada coisa que você faz,
+
+70
+00:04:01,929 --> 00:04:05,550
+cada pacote que você inclui você precisa, Tá conectado,
+
+71
+00:04:05,558 --> 00:04:09,490
+né? Ah, é claro, depois que você
+
+72
+00:04:09,500 --> 00:04:10,610
+já configurou todo o projeto.
+
+73
+00:04:10,618 --> 00:04:11,610
+Você não precisa mais.
+
+74
+00:04:11,618 --> 00:04:16,488
+Ah, vou criar aqui um arquivo index ponto g
+
+75
+00:04:16,500 --> 00:04:19,160
+S né? um jovem script e esse aqui é
+
+76
+00:04:19,170 --> 00:04:22,069
+um arquivo jovens script do tipo e six né?
+
+77
+00:04:22,879 --> 00:04:28,579
+Ah, aqui vou colocar essa informação aqui sim,
+
+78
+00:04:30,059 --> 00:04:48,569
+Express qua express hum e vou criar um aplicativo express
+
+79
+00:04:48,579 --> 00:05:02,629
+a PP Express! Depois vou fazer uma rota chamada
+
+80
+00:05:02,639 --> 00:05:05,759
+Sete Cookie no modo got Na verdade eu não tô
+
+81
+00:05:05,769 --> 00:05:08,470
+obtendo sete Cook eu tô mandando uma rota no modo
+
+82
+00:05:08,480 --> 00:05:11,250
+gate sete Cook que vai ser usada pra escrever um
+
+83
+00:05:11,259 --> 00:05:15,750
+cookie tá? Então eu vou colocar aqui a t
+
+84
+00:05:15,759 --> 00:05:30,048
+p ponto gott na roda sete Cookie Ah sete Cook
+
+85
+00:05:30,059 --> 00:05:59,439
+ha ha Deixa assim é e aqui Cook uhum acessado
+
+86
+00:05:59,449 --> 00:06:07,319
+em dólar New Date Vamos ver se ele vai preci
+
+87
+00:06:07,329 --> 00:06:09,509
+vai fazer direto se vai precisar do cook pássaro né?
+
+88
+00:06:09,519 --> 00:06:19,369
+Ah! Acessado tal no data tal Eita é muito
+
+89
+00:06:19,379 --> 00:06:37,119
+parênteses, tá então e vou dar uma resposta Kosovo
+
+90
+00:06:39,220 --> 00:06:49,189
+Qualquer coisa aqui vamos ver Ah, falta agora só
+
+91
+00:06:49,199 --> 00:06:52,178
+fechar o parêntesis aqui e pronto definir uma rota tô
+
+92
+00:06:52,189 --> 00:06:54,738
+dizendo que vai pegar no modo got a rota sete
+
+93
+00:06:54,750 --> 00:06:57,819
+cookie e nela vai escrever um cookie no usuário,
+
+94
+00:06:57,829 --> 00:07:01,298
+né? No na máquina do usuário Eh aqui eu
+
+95
+00:07:01,309 --> 00:07:04,858
+tenho a informação e eu preciso agora só deixar o
+
+96
+00:07:04,869 --> 00:07:15,298
+meu servidor rodando a PP ponto porta três mil hum
+
+97
+00:07:16,129 --> 00:07:21,338
+tá aqui salvar isso aqui? Acredito que ele não
+
+98
+00:07:21,350 --> 00:07:23,278
+vá precisar do Cook par nesse nível não só na
+
+99
+00:07:23,290 --> 00:07:27,769
+hora da leitura, então vamos fazer o seguinte Agora
+
+100
+00:07:27,778 --> 00:07:35,639
+quero rodar esse cara pra executar Note index ponto g
+
+101
+00:07:35,649 --> 00:07:39,519
+s Qualquer erro que tem, a gente vai descobrir
+
+102
+00:07:39,528 --> 00:07:42,579
+agora hum não não deu erro, senão eu teria
+
+103
+00:07:42,588 --> 00:07:43,238
+aparecido ali.
+
+104
+00:07:43,980 --> 00:07:46,540
+Eu vou acessar aqui eu posso Tá assim, Se
+
+105
+00:07:46,548 --> 00:07:49,100
+eu quiser ter uma coisa que mostre pra mim que
+
+106
+00:07:49,108 --> 00:07:52,449
+tá rodando, eu poderia colocar uma cabe aqui oh
+
+107
+00:07:54,048 --> 00:08:07,350
+dizendo pra mim console ponto blog servidor executando fechei aqui
+
+108
+00:08:09,660 --> 00:08:16,129
+salvei né? Contra o s no g s Ah,
+
+109
+00:08:16,139 --> 00:08:23,238
+não, eu escrevi errado Console sem problema servidor executando
+
+110
+00:08:23,869 --> 00:08:28,439
+Ah, vou precisar agora de um navegador web pra
+
+111
+00:08:28,449 --> 00:08:42,009
+poder testar isso aí, né? Então cap h
+
+112
+00:08:42,019 --> 00:08:50,599
+T t P local host três mil Se eu colocar
+
+113
+00:08:50,609 --> 00:08:53,759
+no carro os três mil, ele vai falar que
+
+114
+00:08:53,769 --> 00:08:56,119
+não consegue gate porque eu não tenho uma rota na
+
+115
+00:08:56,129 --> 00:09:04,869
+raiz, mas se eu colocar barra sete cookie ah,
+
+116
+00:09:05,840 --> 00:09:11,979
+deixa eu ver qual rota eu coloquei lá? Hum,
+
+117
+00:09:11,989 --> 00:09:38,639
+você deve tá reclamando disso por garantia cookie salvo onde
+
+118
+00:09:38,649 --> 00:09:39,960
+que eu vou verificar isso? né? Então,
+
+119
+00:09:39,969 --> 00:09:42,259
+assim, ele salvou um cookie na máquina do usuário
+
+120
+00:09:42,940 --> 00:09:47,489
+bom, aí eu poderia também recuperar a S.
+
+121
+00:09:47,500 --> 00:09:50,908
+Cook, né? Ou usar uma sessão tá eh
+
+122
+00:09:50,918 --> 00:09:56,649
+uma sessão seria colocar, né? Colocar lá um
+
+123
+00:09:56,658 --> 00:09:59,229
+Esse cict na verdade, é uma chave de segurança.
+
+124
+00:09:59,239 --> 00:10:01,250
+E eu poderia ter lá um contador por exemplo,
+
+125
+00:10:01,259 --> 00:10:03,038
+né? Se eu tivesse um contador que que eu
+
+126
+00:10:03,048 --> 00:10:05,408
+faria com esse negócio da da sessão, né?
+
+127
+00:10:05,418 --> 00:10:08,330
+A sessão seria um valor que se mantém entre chamadas
+
+128
+00:10:08,340 --> 00:10:09,369
+sucessivas.
+
+129
+00:10:09,379 --> 00:10:11,048
+Tá, então, a sessão.
+
+130
+00:10:11,058 --> 00:10:13,509
+Ela tá usando parte da memória do servidor.
+
+131
+00:10:13,519 --> 00:10:16,269
+Por quê? Eu vou guardar essa informação no servidor.
+
+132
+00:10:16,629 --> 00:10:19,558
+Enquanto estiver conectado, acabou a conexão, tira da
+
+133
+00:10:19,570 --> 00:10:21,979
+memória? Tá? Então esse cara aqui seria o
+
+134
+00:10:21,989 --> 00:10:27,239
+seguinte pega a contagem zero tenta pegar a contagem da
+
+135
+00:10:27,250 --> 00:10:28,058
+sessão.
+
+136
+00:10:28,070 --> 00:10:31,750
+Oh é uma contagem, seria tenta pegar contagem que
+
+137
+00:10:31,759 --> 00:10:32,548
+tá na sessão.
+
+138
+00:10:32,558 --> 00:10:36,668
+Se tiver uma contagem de sessão pega da sessão incrementa
+
+139
+00:10:36,678 --> 00:10:38,109
+joga de volta pra sessão.
+
+140
+00:10:38,119 --> 00:10:40,989
+Em ambos os casos, seja por sessão por cookie,
+
+141
+00:10:41,000 --> 00:10:43,558
+eu vou ter a escrita de eh.
+
+142
+00:10:43,570 --> 00:10:47,519
+Informações de cookies et cetera na tra podem ser verificadas
+
+143
+00:10:47,529 --> 00:10:50,719
+através do inspetor da página, né? Por exemplo,
+
+144
+00:10:50,729 --> 00:10:53,399
+aqui eu só escrevi um cookie simples, né?
+
+145
+00:10:53,408 --> 00:10:54,899
+Eu posso inspecionar.
+
+146
+00:10:56,489 --> 00:11:07,639
+Ah, aqui eu tenho porque queixam cookies.
+
+147
+00:11:09,119 --> 00:11:14,408
+Tá lá o cookie acessado no endereço tal tal dia?
+
+148
+00:11:14,418 --> 00:11:16,690
+Tá Então ali, meu cookie tá gravado ali.
+
+149
+00:11:16,700 --> 00:11:19,869
+Poderia ter gravado também Alguma informação de sessão? Tá?
+
+150
+00:11:20,509 --> 00:11:20,519
+Eh.
+
+151
+00:11:20,529 --> 00:11:25,259
+Então, o que se diferencia? Esses caras seriam
+
+152
+00:11:25,269 --> 00:11:26,849
+capacidade de armazenagem.
+
+153
+00:11:26,859 --> 00:11:28,529
+O Cook é uma informação pequena.
+
+154
+00:11:28,538 --> 00:11:31,229
+Acesse Não pode ter uma informação maior, né?
+
+155
+00:11:31,239 --> 00:11:34,639
+Eh local de armazenagem, né? Se vai ser
+
+156
+00:11:34,649 --> 00:11:37,119
+armazenado no servidor ou vai ser baseada no cliente?
+
+157
+00:11:37,129 --> 00:11:39,239
+No caso, acesse onde trabalha com o servidor e
+
+158
+00:11:39,250 --> 00:11:40,479
+o cookie no cliente.
+
+159
+00:11:40,489 --> 00:11:43,190
+Ciclo de vida O cookie Ele se mantém mesmo depois
+
+160
+00:11:43,200 --> 00:11:45,759
+que você saiu do site E quando você volta,
+
+161
+00:11:45,769 --> 00:11:48,038
+né? Porque ele tem persistência em arquivo, Já
+
+162
+00:11:48,048 --> 00:11:48,469
+acesse.
+
+163
+00:11:48,479 --> 00:11:49,038
+Acaba.
+
+164
+00:11:49,048 --> 00:11:51,879
+Na hora que acaba a conexão e segurança dos dados,
+
+165
+00:11:51,889 --> 00:11:55,000
+a sessão em geral você consegue ter criptografia em cima.
+
+166
+00:11:55,009 --> 00:11:57,080
+Então os cookies são menos seguros em geral.
+
+167
+00:11:57,090 --> 00:12:01,009
+Então sessão ela pode ser iniciada e invalidada o cookie.
+
+168
+00:12:01,019 --> 00:12:01,239
+Não.
+
+169
+00:12:01,250 --> 00:12:03,000
+O Cook é um arquivo em que vai ficar ali,
+
+170
+00:12:03,009 --> 00:12:07,469
+né? Bom, então isso aí são características gerais.
+
+171
+00:12:07,479 --> 00:12:14,178
+Tá? Essas são algumas características gerais em termos de
+
+172
+00:12:14,190 --> 00:12:17,558
+gerenciamento, né? De cookies e de sessions tá?
+
+173
+00:12:17,570 --> 00:12:21,019
+E já usando um pouquinho do né? Pra criar
+
+174
+00:12:21,029 --> 00:12:23,340
+o servidor, colocar a gerência do Cookie e fazer
+
+175
+00:12:23,349 --> 00:12:26,859
+também o acréscimo de uma rota, tá então com
+
+176
+00:12:26,869 --> 00:12:29,678
+isso aí a gente consegue definir a questão de né?
+
+177
+00:12:29,690 --> 00:12:33,960
+A persistência do Estado para o ambiente do h T
+
+178
+00:12:33,969 --> 00:12:34,239
+P
+

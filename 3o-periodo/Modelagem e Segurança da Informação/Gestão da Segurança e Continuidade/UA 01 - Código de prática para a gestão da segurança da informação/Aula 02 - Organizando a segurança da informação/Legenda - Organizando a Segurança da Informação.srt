@@ -1,0 +1,800 @@
+1
+00:00:06,530 --> 00:00:07,788
+próxima aula.
+
+2
+00:00:07,799 --> 00:00:11,108
+E é engraçado que esse tema é interessante o nome
+
+3
+00:00:11,118 --> 00:00:14,978
+da aula construindo a Fortaleza da Defesa Digital.
+
+4
+00:00:14,989 --> 00:00:17,149
+É isso mesmo, A gente precisa construir, começar
+
+5
+00:00:17,158 --> 00:00:21,068
+a construir, entender como funciona essa fortaleza da defesa
+
+6
+00:00:21,079 --> 00:00:23,559
+digital, dos nossos dados, das nossas informações.
+
+7
+00:00:23,568 --> 00:00:25,379
+E como isso é importante, né? Pra cada
+
+8
+00:00:25,388 --> 00:00:27,899
+um de nós a segurança da informação é um pilar
+
+9
+00:00:27,908 --> 00:00:31,649
+fundamental para o funcionamento seguro e eficaz de qualquer organização,
+
+10
+00:00:31,658 --> 00:00:34,639
+independente do seu tamanho, ou do setor da atuação.
+
+11
+00:00:35,189 --> 00:00:39,020
+Vamos explorar a importância de estabelecer uma base sólida na
+
+12
+00:00:39,029 --> 00:00:42,158
+gestão da segurança e informação dentro de qualquer organização.
+
+13
+00:00:42,168 --> 00:00:45,679
+A organização adequada da segurança da informação envolve a definição
+
+14
+00:00:45,689 --> 00:00:50,048
+de políticas, estruturas e práticas que garantam a proteção
+
+15
+00:00:50,060 --> 00:00:53,548
+dos ativos de formação da empresa a reduzir os seus
+
+16
+00:00:53,560 --> 00:00:54,408
+riscos.
+
+17
+00:00:54,418 --> 00:00:57,709
+Então, com algumas palavras importantes nesse texto tá,
+
+18
+00:00:57,719 --> 00:01:00,668
+quando a gente está falando de a gente tem que
+
+19
+00:01:00,679 --> 00:01:03,810
+ter uma política, né, Uma segurança de informação
+
+20
+00:01:03,819 --> 00:01:08,588
+eu vou alterar aqui para o marca Texto, pra
+
+21
+00:01:08,599 --> 00:01:11,349
+ficar melhor pra vocês! Olha só então a peguei
+
+22
+00:01:11,359 --> 00:01:12,349
+quando a gente tá falando aqui.
+
+23
+00:01:12,359 --> 00:01:17,918
+A segurança da informação tá é uma definição de política,
+
+24
+00:01:17,930 --> 00:01:22,698
+tá com estrutura, práticas que garanta pro que protegem.
+
+25
+00:01:22,709 --> 00:01:27,480
+Tá pro os ativos tá e redução de risco.
+
+26
+00:01:27,489 --> 00:01:30,459
+Então são palavras que nós vamos ver muito nesse curso.
+
+27
+00:01:30,469 --> 00:01:35,299
+Tá? Eh políticas eh estrutura prática pra garantir o
+
+28
+00:01:35,308 --> 00:01:39,579
+quê? A proteção dos nossos ativos pra a fim
+
+29
+00:01:39,588 --> 00:01:43,260
+de reduzir risco? Isso é uma Fortaleza digital que
+
+30
+00:01:43,269 --> 00:01:48,120
+a gente vai construindo Oh, para gerenciar a segurança
+
+31
+00:01:48,129 --> 00:01:49,689
+da informação dentro da organização.
+
+32
+00:01:49,698 --> 00:01:52,918
+É necessário coordenar e supervisar todas as atividades.
+
+33
+00:01:52,930 --> 00:01:57,599
+Tá políticas, processos e práticas relacionadasà segurança da
+
+34
+00:01:57,609 --> 00:01:58,219
+informação.
+
+35
+00:01:58,918 --> 00:02:02,609
+Isso envolve a implementação de medidas e estratégias pra proteger
+
+36
+00:02:02,620 --> 00:02:05,230
+os ativos de forma eh contra.
+
+37
+00:02:05,239 --> 00:02:11,409
+Olha só ameaças, vulnerabilidades e riscos que possam comprometer
+
+38
+00:02:11,419 --> 00:02:12,250
+a OH, lembra.
+
+39
+00:02:12,258 --> 00:02:14,770
+Aqueles quatro pila, aqui vai ter os três pilares,
+
+40
+00:02:14,778 --> 00:02:17,788
+né? Oh Quais são os pilares, confidencialidade,
+
+41
+00:02:17,800 --> 00:02:21,569
+integridade e disponibilidade desses ativos? Então olha só que
+
+42
+00:02:21,580 --> 00:02:24,189
+legal! Tá? Então lembra que eu falei São
+
+43
+00:02:24,199 --> 00:02:27,250
+palavras que nós vamos ver durante toda a nossa trajetória
+
+44
+00:02:27,258 --> 00:02:29,449
+aqui que eu tô falando que a gente precisa ter
+
+45
+00:02:29,460 --> 00:02:30,250
+políticas.
+
+46
+00:02:30,258 --> 00:02:33,649
+Nós precisamos ter atividades, Precisamos ter ações, ações
+
+47
+00:02:33,659 --> 00:02:36,610
+culturais pra mudar a cultura da empresa, para que
+
+48
+00:02:36,618 --> 00:02:40,069
+a gente consiga proteger todos os nossos ativos aqui.
+
+49
+00:02:40,080 --> 00:02:46,008
+Oh contra ameaças, né? Vulnerabilidades e os riscos.
+
+50
+00:02:46,020 --> 00:02:49,189
+Porque se a gente não conseguir manter isso, né?
+
+51
+00:02:49,199 --> 00:02:53,528
+Seguro a gente vai ter problema com os documentos,
+
+52
+00:02:53,538 --> 00:02:56,758
+alguém pode acessar aquele documento que não tem a permissão.
+
+53
+00:02:56,770 --> 00:03:00,599
+Aí vem essa questão da compra e celeridade acessando essa
+
+54
+00:03:00,610 --> 00:03:00,899
+pessoa.
+
+55
+00:03:00,909 --> 00:03:03,379
+Pode alterar a informação.
+
+56
+00:03:03,389 --> 00:03:05,500
+Aí vem a questão da integridade.
+
+57
+00:03:05,508 --> 00:03:08,710
+E outro ponto que a gente pode ter quando alguém
+
+58
+00:03:08,719 --> 00:03:12,338
+acessa o seu ambiente corporativo, essa pessoa pode deixar
+
+59
+00:03:12,349 --> 00:03:14,538
+seus dados indisponíveis.
+
+60
+00:03:14,550 --> 00:03:17,099
+Pode derrubar o seu sistema de informação, derrubar os
+
+61
+00:03:17,110 --> 00:03:19,740
+seus servidores? Ou seja, com isso nós vamos
+
+62
+00:03:19,750 --> 00:03:21,800
+perder os três.
+
+63
+00:03:21,808 --> 00:03:23,300
+Eh algumas informações.
+
+64
+00:03:23,308 --> 00:03:26,909
+Vamos perder os pilares importantes da segunda informação.
+
+65
+00:03:26,919 --> 00:03:29,129
+A gente pode perder a disponibilidade, a gente pode
+
+66
+00:03:29,139 --> 00:03:32,528
+perder a integridade e a gente pode perder a fidelidade
+
+67
+00:03:32,538 --> 00:03:33,330
+desses dados.
+
+68
+00:03:33,338 --> 00:03:37,508
+Por isso é importante ter uma política, construir essa
+
+69
+00:03:37,520 --> 00:03:41,490
+questão dessa fortaleza digital para proteger os nossos dados.
+
+70
+00:03:41,500 --> 00:03:45,080
+E aí vem um papel fundamental dentro dessa dessa brincadeira
+
+71
+00:03:45,088 --> 00:03:47,288
+dessa estrutura que a gente tá falando, que é
+
+72
+00:03:47,300 --> 00:03:48,740
+o siso que que é o siso.
+
+73
+00:03:48,750 --> 00:03:51,689
+Tá o siso aqui? Oh, equivale ao general
+
+74
+00:03:51,699 --> 00:03:53,050
+da hierarquia militar.
+
+75
+00:03:53,058 --> 00:03:56,330
+Tá como se fosse o bamba bam lá de todo
+
+76
+00:03:56,338 --> 00:04:00,419
+o sistema de informação? Eh Ele é o líder
+
+77
+00:04:00,429 --> 00:04:04,800
+responsável por definir a visão estratégica da segurança, da
+
+78
+00:04:04,808 --> 00:04:09,199
+informação na organização e liderar a implementação de medidas de
+
+79
+00:04:09,210 --> 00:04:11,199
+segurança eficazes.
+
+80
+00:04:11,210 --> 00:04:12,550
+Olha, só então, quando a gente tava falando
+
+81
+00:04:12,558 --> 00:04:15,960
+de sis o que que é? C? Information
+
+82
+00:04:15,969 --> 00:04:18,439
+Office? Tá? Então, é o oficial chefe
+
+83
+00:04:18,449 --> 00:04:20,838
+da segurança, da informação, é o cara que
+
+84
+00:04:20,850 --> 00:04:23,410
+comanda toda a equipe da segurança, da informação.
+
+85
+00:04:23,420 --> 00:04:24,959
+E esse cara é um cara que vai ter um
+
+86
+00:04:24,970 --> 00:04:28,778
+uma visão muito, muito, muito, muito muito
+
+87
+00:04:28,790 --> 00:04:30,569
+eh estratégica dentro da organização.
+
+88
+00:04:30,579 --> 00:04:33,059
+É um cara que vai precisar entender, tudo.
+
+89
+00:04:33,139 --> 00:04:35,790
+Eu dou pra assinar, o técnico lá não.
+
+90
+00:04:35,798 --> 00:04:36,988
+Eu cara, mas é um cara que tem uma
+
+91
+00:04:37,000 --> 00:04:38,410
+visão muito grande.
+
+92
+00:04:38,420 --> 00:04:41,699
+É uma experiência muito grande em segurança da informação,
+
+93
+00:04:41,709 --> 00:04:44,588
+em, no, na camada tática, estratégica porque
+
+94
+00:04:44,600 --> 00:04:45,548
+ele vai precisar.
+
+95
+00:04:45,559 --> 00:04:48,509
+Tá? Ele vai precisar definir uma visão estratégica?
+
+96
+00:04:48,519 --> 00:04:52,869
+Tá pa e vai principalmente liderar toda a implementação da
+
+97
+00:04:52,879 --> 00:04:56,028
+segurança da informação, desde criar uma política a a
+
+98
+00:04:56,040 --> 00:04:58,790
+ter o auto patrocínio, então esse cara tem um
+
+99
+00:04:58,798 --> 00:05:02,660
+papel fundamental? Tá? Então Olhe, olhe se
+
+100
+00:05:02,670 --> 00:05:04,278
+você eh, eh, eh.
+
+101
+00:05:04,290 --> 00:05:07,199
+Gosta da área de segurança, de formação, né?
+
+102
+00:05:07,209 --> 00:05:09,379
+E gosta da principalmente, da gestão da área,
+
+103
+00:05:09,389 --> 00:05:10,699
+da da, da área, de segurança, de
+
+104
+00:05:10,709 --> 00:05:11,269
+formação.
+
+105
+00:05:11,278 --> 00:05:13,500
+Esse é um papel fundamental que você precisa estudar,
+
+106
+00:05:13,509 --> 00:05:15,100
+que Que que o siso faz o que que o
+
+107
+00:05:15,108 --> 00:05:17,540
+siso tem que fazer com as suas obrigações do do
+
+108
+00:05:17,548 --> 00:05:17,899
+siso.
+
+109
+00:05:17,910 --> 00:05:19,730
+Isso é muito legal, tá! E aí?
+
+110
+00:05:19,738 --> 00:05:21,319
+Quando a gente fala de obrigações, do desse siso,
+
+111
+00:05:21,329 --> 00:05:22,869
+a gente tá falando da gestão de risco.
+
+112
+00:05:22,879 --> 00:05:24,588
+O cara tem que identificar, tem que fazer,
+
+113
+00:05:24,600 --> 00:05:27,829
+sabe conhecer todos os riscos, identificar e avaliar os
+
+114
+00:05:27,838 --> 00:05:28,629
+riscos da segurança.
+
+115
+00:05:28,639 --> 00:05:32,548
+Então uma das obrigações desse desse perfil desse papel é
+
+116
+00:05:32,559 --> 00:05:34,170
+a gestão dos riscos.
+
+117
+00:05:34,178 --> 00:05:38,160
+Desenvolver políticas fundamental a gente tem que ter, tem
+
+118
+00:05:38,170 --> 00:05:40,709
+que ter vários tipos de políticas pra to vários tipos
+
+119
+00:05:40,720 --> 00:05:44,028
+de o ocasiões implementar controle de segurança.
+
+120
+00:05:44,040 --> 00:05:47,028
+Então não é só desenvolver as políticas, mas a
+
+121
+00:05:47,040 --> 00:05:48,410
+gente precisa implementar.
+
+122
+00:05:48,420 --> 00:05:52,889
+Tá? Esse é outro ponto importante treinamento e conscientização
+
+123
+00:05:53,259 --> 00:05:54,750
+e ge- gestão de equipe.
+
+124
+00:05:54,759 --> 00:05:58,149
+Então, treinamento e conscientização tem que fazer esse treinamento,
+
+125
+00:05:58,160 --> 00:06:00,899
+fazer a gestão da equipe diariamente.
+
+126
+00:06:00,910 --> 00:06:03,048
+Que a gente tá sempre ali fazendo aquela gestão daquela
+
+127
+00:06:03,059 --> 00:06:03,600
+equipe tal.
+
+128
+00:06:03,608 --> 00:06:05,209
+Então, quando a gente tá falando voltar até aqui,
+
+129
+00:06:05,220 --> 00:06:07,389
+oh quando a gente tá falando em educar em treinamento
+
+130
+00:06:07,399 --> 00:06:09,088
+é educar os todos os funcionários.
+
+131
+00:06:09,100 --> 00:06:11,488
+Não só os funcionários da da da equipe dele,
+
+132
+00:06:11,500 --> 00:06:13,709
+não só os funcionários ligadosà segurança, mas todos
+
+133
+00:06:13,720 --> 00:06:16,750
+os funcionários sobre as boas práticas da segurança e fazer
+
+134
+00:06:16,759 --> 00:06:19,600
+a gestão dessa equipe, né? Eh resposta a
+
+135
+00:06:19,608 --> 00:06:21,108
+incidente, tem que ter! A gente vai falar
+
+136
+00:06:21,119 --> 00:06:23,329
+lá na frente, mais de Soque, Então é
+
+137
+00:06:23,338 --> 00:06:27,069
+entender como coordenar, né? A resposta do incidente
+
+138
+00:06:27,079 --> 00:06:30,269
+e prestar eh, eh, eh fazer relatórios,
+
+139
+00:06:30,278 --> 00:06:33,108
+prestar conta pra alta direção, né? Comunicar a
+
+140
+00:06:33,119 --> 00:06:36,170
+questão da segurança da informação? Falhas, enfim,
+
+141
+00:06:36,178 --> 00:06:39,230
+eh isso é muito importante conformidade.
+
+142
+00:06:39,238 --> 00:06:41,709
+Então a gente tem várias leis que precisam ser seguidas,
+
+143
+00:06:41,720 --> 00:06:42,069
+ele precisa.
+
+144
+00:06:42,079 --> 00:06:44,629
+Tá dentro dessa lei, a depender da área de
+
+145
+00:06:44,639 --> 00:06:48,100
+atuação da empresa, tá desenvolver estratégias de segurança e
+
+146
+00:06:48,108 --> 00:06:51,439
+não criar planos pra alinhados com os planos da organização.
+
+147
+00:06:52,129 --> 00:06:54,059
+Tá e nesses planos a gente tem um plano muito
+
+148
+00:06:54,069 --> 00:06:56,660
+muito importante que é o o PC I Política de
+
+149
+00:06:56,670 --> 00:06:57,720
+segurança da informação.
+
+150
+00:06:57,730 --> 00:07:01,579
+É um processo colaborativo com outros departamentos e partes interessadas.
+
+151
+00:07:01,588 --> 00:07:04,619
+Tá toda a organização, Gente não é só isso,
+
+152
+00:07:04,629 --> 00:07:10,220
+Aqui não faz parte só da da da da área,
+
+153
+00:07:10,230 --> 00:07:11,649
+de forma da área de segurança.
+
+154
+00:07:11,660 --> 00:07:14,579
+Ele vai é transversal, ele vai passar por toda
+
+155
+00:07:14,588 --> 00:07:16,889
+a organização, até para jurídica, pra entender se
+
+156
+00:07:16,899 --> 00:07:18,588
+aquele documento tem valor jurídico.
+
+157
+00:07:18,600 --> 00:07:21,269
+Tá, o siso lidera a equipe na criação de
+
+158
+00:07:21,278 --> 00:07:25,250
+uma política abrangente que aborde todas as cidades específicas da
+
+159
+00:07:25,259 --> 00:07:28,588
+organização após o movimento, né? Após o movimento
+
+160
+00:07:28,600 --> 00:07:30,709
+do PC I deve passar por uma revisão interna.
+
+161
+00:07:30,720 --> 00:07:32,910
+Lembra que eu falei oh interna da aqui? Qual
+
+162
+00:07:32,920 --> 00:07:35,350
+área da dos departamentos de t I pra ver se
+
+163
+00:07:35,358 --> 00:07:39,009
+tecnologicamente a gente consegue aplicar tudo aquilo o jurídico,
+
+164
+00:07:39,019 --> 00:07:42,519
+né? E das operações E oh! Eles examinam
+
+165
+00:07:42,528 --> 00:07:45,119
+o documento para garantir que todos eles estejam de acordo
+
+166
+00:07:45,129 --> 00:07:47,579
+com as necessidades da organização.
+
+167
+00:07:47,588 --> 00:07:51,608
+Nessa etapa é necessário checar também todos as conformidades legais.
+
+168
+00:07:51,619 --> 00:07:53,519
+Então a gente precisa entender se o PC i ele
+
+169
+00:07:53,528 --> 00:07:55,879
+atende tecnicamente e juridicamente.
+
+170
+00:07:55,889 --> 00:07:59,838
+Precisa entender se todos os quesitos legais que a empresa
+
+171
+00:07:59,850 --> 00:08:02,709
+necessita, né, Que o ecossistema onde aquela empresa
+
+172
+00:08:02,720 --> 00:08:06,678
+trabalha eh eh todos as as leis, as normas
+
+173
+00:08:06,689 --> 00:08:08,399
+estão sendo cumpridas pela PC.
+
+174
+00:08:08,410 --> 00:08:11,358
+I tá eh e é fundamental.
+
+175
+00:08:11,369 --> 00:08:15,139
+Deixa eu voltar aqui a gente entender que A A
+
+176
+00:08:15,149 --> 00:08:19,129
+A A A PC i é um documento essencial transversal
+
+177
+00:08:19,139 --> 00:08:22,959
+novamente transversal e você precisa envolver todas as áreas a
+
+178
+00:08:22,970 --> 00:08:25,238
+o siso, a área de for a área de
+
+179
+00:08:25,250 --> 00:08:27,119
+informação, a área de segurança da informação.
+
+180
+00:08:27,129 --> 00:08:30,540
+Ela precisa envolver todas as áreas da empresa para a
+
+181
+00:08:30,548 --> 00:08:32,558
+construção de um siso, porque senão não vai ter
+
+182
+00:08:32,570 --> 00:08:36,288
+o comprometimento, a gente precisa entender que vai sim,
+
+183
+00:08:36,298 --> 00:08:37,327
+a gente vai ter, tem.
+
+184
+00:08:37,337 --> 00:08:40,207
+Temos a necessidade de que a alta direção patrocine todo
+
+185
+00:08:40,217 --> 00:08:42,249
+essa esse PC I, mas a partir do momento
+
+186
+00:08:42,258 --> 00:08:44,967
+que a gente coloca, né? As outras empresas,
+
+187
+00:08:44,979 --> 00:08:47,739
+as outras áreas da empresa, para trabalhar conosco nesse
+
+188
+00:08:47,749 --> 00:08:50,178
+PC i, a gente já tem um comprometimento deles
+
+189
+00:08:50,188 --> 00:08:51,528
+junto com esse documento.
+
+190
+00:08:51,538 --> 00:08:53,688
+Então, uma dica que eu dou se você vai
+
+191
+00:08:53,697 --> 00:08:55,590
+ou se vai, você vai fazer parte de uma
+
+192
+00:08:55,599 --> 00:08:57,700
+equipe que vai fazer trabalhar com um PC i,
+
+193
+00:08:57,710 --> 00:09:01,200
+envolva todas as partes interessadas desde o início.
+
+194
+00:09:01,210 --> 00:09:03,590
+Tá, desde o piloto do documento que, com
+
+195
+00:09:03,599 --> 00:09:05,849
+certeza as pessoas vão vestir a camisa da melhor forma
+
+196
+00:09:05,859 --> 00:09:09,149
+possível e vão construir um documento em diversas mãos.
+
+197
+00:09:09,158 --> 00:09:13,509
+E vai ter todo o apoio jurídico e, principalmente,
+
+198
+00:09:13,519 --> 00:09:14,369
+cultural.
+
+199
+00:09:14,379 --> 00:09:17,109
+No fim desse dessa sua jornada, tá bom?
+
+200
+00:09:17,119 --> 00:09:18,808
+Valeu até a próxima aula
+

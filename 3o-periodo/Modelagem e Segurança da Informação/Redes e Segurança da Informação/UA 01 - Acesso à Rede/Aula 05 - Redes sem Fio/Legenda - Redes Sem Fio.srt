@@ -1,0 +1,368 @@
+1
+00:00:06,078 --> 00:00:08,439
+O aluno professor Fabrício Melo é um grande prazer estar
+
+2
+00:00:08,439 --> 00:00:10,439
+aqui com você, onde nós iremos falar agora sobre
+
+3
+00:00:10,439 --> 00:00:11,720
+as redes sem fio.
+
+4
+00:00:12,239 --> 00:00:13,720
+E o que que nós temos que falar sobre as
+
+5
+00:00:13,720 --> 00:00:15,839
+redes sem fio nessa parte da aula.
+
+6
+00:00:15,919 --> 00:00:20,629
+Vamos falar sobre quem o espectro eletromagnético nome bonito,
+
+7
+00:00:21,079 --> 00:00:24,239
+mas o que que seria esse espectro eletromagnético? Olha
+
+8
+00:00:24,239 --> 00:00:28,579
+só o espectro de rádio frequências, né? É
+
+9
+00:00:28,579 --> 00:00:31,399
+um recurso aí que você tem limitado e ele é
+
+10
+00:00:31,399 --> 00:00:34,918
+constituído sim bem público saber disso, que inclusive ele
+
+11
+00:00:34,918 --> 00:00:35,118
+é.
+
+12
+00:00:36,929 --> 00:00:40,079
+orientado pela Agência Nacional, né? De telecomunicações,
+
+13
+00:00:40,130 --> 00:00:41,130
+a famosa Anatel.
+
+14
+00:00:41,469 --> 00:00:43,130
+Então você pode ver que todo o dispositivo que você
+
+15
+00:00:43,130 --> 00:00:47,649
+vai comprar aí que vai transmitir informação por um meio.
+
+16
+00:00:47,969 --> 00:00:50,439
+Você vai ter um adesivo da Anatel lá, né?
+
+17
+00:00:50,450 --> 00:00:53,429
+Certificando quando uma empresa, por exemplo, a Apple,
+
+18
+00:00:54,009 --> 00:00:55,959
+ela vai lançar um novo iPhone.
+
+19
+00:00:57,168 --> 00:00:58,090
+vaza na mídia.
+
+20
+00:00:58,168 --> 00:01:01,728
+A Apple já solicitou a Anatel a regulamentação do novo
+
+21
+00:01:01,728 --> 00:01:02,209
+iPhone.
+
+22
+00:01:02,298 --> 00:01:03,168
+Então a Anatel vai regulamentar.
+
+23
+00:01:04,650 --> 00:01:09,120
+Ela vai ali certificar que aquele dispositivo pode utilizar o
+
+24
+00:01:09,120 --> 00:01:12,760
+quê o aspecto, o aspecto de rádio frequência aqui
+
+25
+00:01:12,760 --> 00:01:13,918
+do Brasil, ok.
+
+26
+00:01:14,189 --> 00:01:17,290
+o que que nós temos aqui as faixas de frequência
+
+27
+00:01:17,500 --> 00:01:21,308
+consideradas como livres ou as faixas ISM, né?
+
+28
+00:01:21,409 --> 00:01:24,308
+O que que são essas faixas é a de 2.4
+
+29
+00:01:24,308 --> 00:01:27,370
+gigahertz, que é muito utilizada pelos dispositivos, como
+
+30
+00:01:27,370 --> 00:01:29,159
+as redes Wi-Fi, né, que já tão até
+
+31
+00:01:29,159 --> 00:01:33,579
+aí já colapsando, que são muitas Bluetooth também os
+
+32
+00:01:33,579 --> 00:01:35,469
+fornos de microondas, entre outros.
+
+33
+00:01:35,900 --> 00:01:37,959
+Então seu forno de microondas também tem que ter uma,
+
+34
+00:01:39,638 --> 00:01:41,888
+né? Uma certificação que ele vai trabalhar com uma
+
+35
+00:01:41,888 --> 00:01:42,260
+frequência.
+
+36
+00:01:42,602 --> 00:01:43,733
+microondas.
+
+37
+00:01:44,203 --> 00:01:47,042
+Você também tem uma faixa de cinto virgula oito gigahertz,
+
+38
+00:01:47,361 --> 00:01:50,802
+que também são os dispositivos wi fi os mais recentes,
+
+39
+00:01:51,042 --> 00:01:54,822
+sistema de comunicação sem fio de curto alcance, porque
+
+40
+00:01:54,822 --> 00:01:58,233
+como a frequência é muito alta, o alcance obviamente
+
+41
+00:01:58,233 --> 00:01:58,263
+diminui.
+
+42
+00:01:58,272 --> 00:02:02,802
+Tá e o de 4133915 megahertz, que são os
+
+43
+00:02:02,802 --> 00:02:07,212
+dispositivos de automação residencial, como alarme, controle remoto
+
+44
+00:02:07,212 --> 00:02:08,483
+de portão, entre outros.
+
+45
+00:02:08,662 --> 00:02:10,483
+Então, quando você vai abrir o portão.
+
+46
+00:02:10,716 --> 00:02:11,406
+da sua casa.
+
+47
+00:02:11,746 --> 00:02:15,615
+Aquele controle também trabalha com aspecto de frequência, né?
+
+48
+00:02:15,665 --> 00:02:19,705
+Uma frequência livre que foi também ali, né certificado,
+
+49
+00:02:19,746 --> 00:02:24,605
+obviamente pela Anatel, em cima dessas desses aspectos,
+
+50
+00:02:24,705 --> 00:02:28,985
+como é frequência, né? A trabalha aí de
+
+51
+00:02:28,985 --> 00:02:29,895
+forma sem desafio.
+
+52
+00:02:30,305 --> 00:02:33,504
+Você tem os fatores de degradação do sinal, o
+
+53
+00:02:33,504 --> 00:02:35,026
+sinal, ele pode ser degradado.
+
+54
+00:02:35,365 --> 00:02:36,865
+Nós temos aí três fatores.
+
+55
+00:02:36,944 --> 00:02:38,425
+O primeiro é a reflexão, tá vendo.
+
+56
+00:02:38,990 --> 00:02:43,270
+reflexão aluno é o desvio total do sinal de radiofrequência
+
+57
+00:02:43,270 --> 00:02:46,028
+lá ocorre quando um sinal, por exemplo, incide
+
+58
+00:02:46,028 --> 00:02:49,558
+sobre objeto, né? Que tem dimensões muito largas
+
+59
+00:02:49,719 --> 00:02:52,069
+quando comparado ao cumprimento, né? Da onda tá
+
+60
+00:02:52,069 --> 00:02:53,990
+vendo aí ó, você tem um sinal incidente,
+
+61
+00:02:54,508 --> 00:02:57,189
+ele pega na superfície e ele é refletido.
+
+62
+00:02:57,669 --> 00:02:59,229
+Eu tenho, por exemplo, muito problema.
+
+63
+00:03:00,159 --> 00:03:02,439
+Uma vez eu fui em um apartamento, aí eu
+
+64
+00:03:02,439 --> 00:03:04,919
+vi que estava a distância estava muito curta da do
+
+65
+00:03:04,919 --> 00:03:09,879
+roteador ali o Wi-Fi com onde estava pegando os equipamentos
+
+66
+00:03:09,879 --> 00:03:11,429
+e não estava chegando o sinal.
+
+67
+00:03:11,960 --> 00:03:14,300
+Aí o o técnico foi, né? Pra poder
+
+68
+00:03:14,300 --> 00:03:16,159
+dar uma olhada ver se o que que poderia fazer
+
+69
+00:03:16,159 --> 00:03:19,288
+e viu que constatou que como tinha banheiro.
+
+70
+00:03:20,050 --> 00:03:23,080
+na frente, passando cano com água e et cetera
+
+71
+00:03:23,569 --> 00:03:26,758
+estava dando essa reflexão aí Então o que que teve
+
+72
+00:03:26,758 --> 00:03:30,399
+teve que fazer um sistema para fazer com que desviasse
+
+73
+00:03:30,399 --> 00:03:31,659
+e o sinal chegasse lá.
+
+74
+00:03:31,969 --> 00:03:33,610
+Então a gente estava com um problema de reflexão,
+
+75
+00:03:33,729 --> 00:03:35,729
+né? O que que a refração aí já o
+
+76
+00:03:35,729 --> 00:03:38,679
+desvio ó parcial do sinal de rofrequência.
+
+77
+00:03:39,110 --> 00:03:41,490
+Então vou ocorrer quando o sinal de rádio frequência passa
+
+78
+00:03:41,490 --> 00:03:44,169
+por um meio de densidade diferente, né? Por
+
+79
+00:03:44,169 --> 00:03:48,169
+exemplo, paredeer gesso ou papelão famoso drywall tá vendo
+
+80
+00:03:48,169 --> 00:03:48,599
+aqui ó.
+
+81
+00:03:49,129 --> 00:03:52,889
+ele vai o sinal é incidente parte é refletido,
+
+82
+00:03:53,490 --> 00:03:55,210
+mas parte é retratado.
+
+83
+00:03:55,288 --> 00:03:58,169
+Tá vendo aí a gente tem uma refração e o
+
+84
+00:03:58,169 --> 00:04:01,689
+que que é uma difração é o desvio na direção
+
+85
+00:04:01,689 --> 00:04:06,368
+do sinal de rádiofrequência tá vendo Ele tenta contornar a
+
+86
+00:04:06,368 --> 00:04:08,889
+superfície do objeto e o que que ele vai fazer
+
+87
+00:04:08,889 --> 00:04:10,849
+aí ocorre quando o sinal de rofrequência.
+
+88
+00:04:11,219 --> 00:04:14,449
+Ele é obstruído por uma superfície com bordas de tamanho
+
+89
+00:04:14,449 --> 00:04:14,849
+irregulares.
+
+90
+00:04:14,969 --> 00:04:17,000
+Tá vendo aqui ó sinal incidente.
+
+91
+00:04:17,730 --> 00:04:22,928
+Ele foi oh desviado, aí o sinal foi difratado.
+
+92
+00:04:23,170 --> 00:04:23,439
+Tá.
+

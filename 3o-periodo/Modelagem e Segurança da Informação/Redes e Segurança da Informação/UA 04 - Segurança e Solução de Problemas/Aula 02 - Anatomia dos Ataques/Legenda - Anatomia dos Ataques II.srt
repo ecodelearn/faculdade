@@ -1,0 +1,768 @@
+1
+00:00:05,919 --> 00:00:09,050
+Olá aluno! Estamos de volta, vamos lá agora
+
+2
+00:00:09,060 --> 00:00:11,050
+com parte de segurança da informação que a gente tá
+
+3
+00:00:11,060 --> 00:00:11,868
+estudando.
+
+4
+00:00:11,880 --> 00:00:14,609
+Estamos falando sobre a anatomia dos ataques e agora eu
+
+5
+00:00:14,618 --> 00:00:18,408
+quero falar sobre os ataques de obtenção e manutenção de
+
+6
+00:00:18,420 --> 00:00:21,489
+acesso que que seria esses tipos aí de ataques?
+
+7
+00:00:21,500 --> 00:00:24,850
+São ataques bem famosos aí, no meio da segurança
+
+8
+00:00:24,859 --> 00:00:28,408
+da informação, como o famoso ataque de negação de
+
+9
+00:00:28,420 --> 00:00:33,908
+serviço que a gente conhece muito pela sigla D o
+
+10
+00:00:33,918 --> 00:00:38,908
+S ou quando é distribuído pela sigla D D o
+
+11
+00:00:38,918 --> 00:00:41,149
+S um D M A Service.
+
+12
+00:00:41,158 --> 00:00:43,609
+Ele gera o quê Uma grande sobrecarga no processamento de
+
+13
+00:00:43,618 --> 00:00:45,109
+dados de um computador, de modo que o usuário
+
+14
+00:00:45,118 --> 00:00:48,109
+não consiga utilizar o que que seria isso? Geralmente
+
+15
+00:00:48,118 --> 00:00:52,469
+são utilizados bots, robôs famosos, zumbis ao qual
+
+16
+00:00:52,478 --> 00:00:58,009
+eu consigo infectar aí um dispositivo e programar isso positivo
+
+17
+00:00:58,020 --> 00:01:02,168
+pra ficar acessando, requisitando ali a todo momento um
+
+18
+00:01:02,179 --> 00:01:06,668
+servidor, aquele servidor de tanto receber aquela requisição,
+
+19
+00:01:06,680 --> 00:01:09,930
+ele sai do ar, ele vai ficar offline.
+
+20
+00:01:09,939 --> 00:01:13,650
+Aí os demais usuários que tentarem acessar aquele servidor não
+
+21
+00:01:13,659 --> 00:01:14,370
+consegue.
+
+22
+00:01:14,379 --> 00:01:16,808
+A gente vê muito exemplo, inclusive até de maneira
+
+23
+00:01:16,819 --> 00:01:17,329
+lícita.
+
+24
+00:01:17,338 --> 00:01:17,650
+Tá.
+
+25
+00:01:17,659 --> 00:01:19,448
+Às vezes quando sai, por exemplo, aí um
+
+26
+00:01:19,459 --> 00:01:23,308
+resultado de um vestibular, resultado de um concurso você
+
+27
+00:01:23,319 --> 00:01:24,750
+tenta acessar e não consegue.
+
+28
+00:01:25,230 --> 00:01:27,719
+Já viu quando abre um um show, venda de
+
+29
+00:01:27,730 --> 00:01:30,209
+ingressos de um show? Cê tenta comprar o servidor
+
+30
+00:01:30,219 --> 00:01:33,120
+tá fora do ar, é exatamente isso aí,
+
+31
+00:01:33,129 --> 00:01:34,599
+o servidor sobrecarregou.
+
+32
+00:01:34,609 --> 00:01:38,159
+Só que aqui não aqui é um ataque feito propositalmente
+
+33
+00:01:38,168 --> 00:01:40,879
+pra sobrecarregar aí um sistema de um servidor, a
+
+34
+00:01:40,888 --> 00:01:42,278
+gente chama de negação de serviço.
+
+35
+00:01:42,290 --> 00:01:44,959
+Tá agora? E o distribuído distribuído é quando eu
+
+36
+00:01:44,969 --> 00:01:46,933
+já crio um exemplo exército de botes.
+
+37
+00:01:46,944 --> 00:01:50,323
+A gente até conhece como botnet o Exército de zumbis
+
+38
+00:01:50,334 --> 00:01:53,254
+e esse exército vai atacar um servidor.
+
+39
+00:01:53,263 --> 00:01:54,894
+Esse ataque é mais cruel.
+
+40
+00:01:54,903 --> 00:01:57,213
+Tirando um servidor de maneira mais rápida do ar,
+
+41
+00:01:57,224 --> 00:01:59,734
+Já viu que o servidor, os servidores, alunos,
+
+42
+00:01:59,745 --> 00:02:02,954
+quando a gente vai acessar, geralmente consultas na internet?
+
+43
+00:02:02,963 --> 00:02:06,234
+Fazer busca cadastro, Tem lá o tal do CAP,
+
+44
+00:02:06,859 --> 00:02:10,389
+que é aquela faixa de pedestre fazer aquela soma de
+
+45
+00:02:10,399 --> 00:02:13,750
+número, já viu achar lá o hidrante, aquilo
+
+46
+00:02:13,758 --> 00:02:15,429
+é pra evitar esse tipo de ataque.
+
+47
+00:02:15,439 --> 00:02:18,838
+É pra partir do princípio que quem tá acessando ali
+
+48
+00:02:18,849 --> 00:02:19,990
+é um ser humano.
+
+49
+00:02:20,000 --> 00:02:22,028
+Não é ali um um um robô.
+
+50
+00:02:22,038 --> 00:02:24,990
+Tá então? Geralmente o tia é pra evitar isso.
+
+51
+00:02:25,000 --> 00:02:28,179
+Tá vendo Oh cê tem o atacante aí? Ele
+
+52
+00:02:28,189 --> 00:02:31,399
+distribui oh os zumbis e faz aí o ataque.
+
+53
+00:02:31,409 --> 00:02:32,909
+Aí tem aqui a definição de cada um, o
+
+54
+00:02:32,919 --> 00:02:34,399
+que que é um zumbi? O que que é
+
+55
+00:02:34,409 --> 00:02:35,838
+um bote, que é o que é usado pra
+
+56
+00:02:35,849 --> 00:02:38,199
+fazer o ataque? É o botnet que eu falei
+
+57
+00:02:38,210 --> 00:02:39,899
+que é que é o grupo, tem o Handler,
+
+58
+00:02:39,909 --> 00:02:42,758
+que é o servidor mestre que vai dar o comando
+
+59
+00:02:42,770 --> 00:02:45,770
+para controlar esse esse botnet e o Master, que
+
+60
+00:02:45,778 --> 00:02:48,599
+é o responsável pelo desenvolvimento pra dar sua manutenção e
+
+61
+00:02:48,610 --> 00:02:49,558
+operação do botnet.
+
+62
+00:02:49,569 --> 00:02:52,189
+É o o cara que vai fazer aí né?
+
+63
+00:02:52,199 --> 00:02:54,868
+A coisa acontecer tá bom, e aí é o
+
+64
+00:02:54,879 --> 00:02:56,788
+objetivo, tá vendo gerar um grande tráfico de dados
+
+65
+00:02:56,800 --> 00:03:00,099
+para uma rede ocupando toda a banda disponível pro computador
+
+66
+00:03:00,110 --> 00:03:03,368
+ficar disponível tá vendo remover serviços importantes de um provedor
+
+67
+00:03:03,379 --> 00:03:05,909
+também Tá? Isso acontece, impossibilitando o acesso e
+
+68
+00:03:05,919 --> 00:03:07,058
+usuários suas caixas postais.
+
+69
+00:03:07,069 --> 00:03:09,449
+Então e-mail, DNS ser D web.
+
+70
+00:03:09,460 --> 00:03:12,308
+Ou seja, você não conseguiu acessar cara porque aquele
+
+71
+00:03:12,319 --> 00:03:13,429
+servidor foi derrubado.
+
+72
+00:03:13,439 --> 00:03:16,189
+É o que a gente tá tratando aí tá,
+
+73
+00:03:16,199 --> 00:03:20,129
+temos o Mac, né? Essa ideia de é
+
+74
+00:03:20,139 --> 00:03:23,439
+a ideia de você mascarar, né? Tanto que
+
+75
+00:03:23,449 --> 00:03:26,308
+você tem o i p tem o email o que
+
+76
+00:03:26,319 --> 00:03:29,189
+é mascaramento de i p mascaramento de de e-mail E
+
+77
+00:03:29,199 --> 00:03:31,750
+temos o Mac Aí tá vendo oh que que acontece
+
+78
+00:03:31,758 --> 00:03:37,069
+o dispositivo atacante ele responde a requisição! Arp lembra
+
+79
+00:03:37,080 --> 00:03:41,088
+do ARP que é aquele protocolo que pega o I
+
+80
+00:03:41,099 --> 00:03:45,449
+P pra fazer associação com o MEC? Então lá
+
+81
+00:03:45,460 --> 00:03:47,929
+ele vai responder o harp da vítima com o seu
+
+82
+00:03:47,939 --> 00:03:49,008
+próprio Mac.
+
+83
+00:03:49,618 --> 00:03:51,669
+Então o atacante vai responder com o MAC dele,
+
+84
+00:03:51,679 --> 00:03:55,710
+Então oh, todos os frames endereçadosà vítima vão
+
+85
+00:03:55,719 --> 00:04:00,508
+ser endereçados ao atacante também, então ele consegue aí
+
+86
+00:04:00,520 --> 00:04:04,389
+falsificar, né? Um um um um um endereço
+
+87
+00:04:04,399 --> 00:04:07,088
+físico, um Mac e receber, né? As
+
+88
+00:04:07,099 --> 00:04:10,949
+informações que foram tratadas pra vítima então aí tem um
+
+89
+00:04:10,960 --> 00:04:13,550
+esqueminha pra você ver uma tabela tá vendo, oh
+
+90
+00:04:13,558 --> 00:04:17,189
+antes do ataque e depois você tem aí a tabela
+
+91
+00:04:17,199 --> 00:04:18,750
+após o ataque tá vendo? Oh, você vai
+
+92
+00:04:18,759 --> 00:04:21,309
+perceber que houve, né? Um um, uma
+
+93
+00:04:21,319 --> 00:04:25,290
+requisição E o atacante passou também a receber.
+
+94
+00:04:25,548 --> 00:04:28,879
+Tá vendo esses dados aí da vítima muito interessante.
+
+95
+00:04:28,889 --> 00:04:31,879
+O famoso Mac tá vendo lá o dispositivo atacante Oh
+
+96
+00:04:31,889 --> 00:04:34,160
+e vai responder que são a ape da vítima,
+
+97
+00:04:34,170 --> 00:04:35,079
+o seu próprio MAC.
+
+98
+00:04:35,088 --> 00:04:38,838
+Então, todos os interessados serão endereçados ao atacante também.
+
+99
+00:04:38,850 --> 00:04:41,720
+Aí meu filho, o atacante vai ter o acesso
+
+100
+00:04:41,730 --> 00:04:46,579
+né? E temos o d HC P também que
+
+101
+00:04:46,588 --> 00:04:49,660
+é o que é um servidor não autorizado pode fornecer
+
+102
+00:04:49,670 --> 00:04:51,738
+uma variedade de informações enganosas.
+
+103
+00:04:51,750 --> 00:04:54,119
+Ele passa como um D HC p falso Oh!
+
+104
+00:04:54,129 --> 00:04:58,259
+Lá é um gato padrão falso tá passando pelo a
+
+105
+00:04:58,269 --> 00:05:02,759
+ideia do gato servidor DNS falso é isso que acontece,
+
+106
+00:05:02,769 --> 00:05:06,608
+ou seja, quando você jogar aquele nome lá ele
+
+107
+00:05:06,619 --> 00:05:07,540
+vai atrás de um ipê.
+
+108
+00:05:07,548 --> 00:05:09,850
+Como é falso, vai te retornar um site falso
+
+109
+00:05:09,858 --> 00:05:12,129
+Você pode ser vítima aí de um sh, né?
+
+110
+00:05:12,139 --> 00:05:14,569
+Oh lá endereço i p falso ele pode gerar pra
+
+111
+00:05:14,579 --> 00:05:17,170
+você o endereço de i p falso Então olha que
+
+112
+00:05:17,178 --> 00:05:20,290
+interessante oh preciso de parâmetros da rede aí o que
+
+113
+00:05:20,298 --> 00:05:22,920
+acontece? Seu I P é um nove dois um
+
+114
+00:05:22,928 --> 00:05:26,608
+meia oito dez cem seu então sou eu seu serve
+
+115
+00:05:26,619 --> 00:05:29,269
+sou eu também e isso é o atacante tá vendo
+
+116
+00:05:29,689 --> 00:05:32,699
+aí ele se passa por isso Então tá vendo ele
+
+117
+00:05:32,709 --> 00:05:35,778
+tá ali eh? Eh enganando a vítima Por isso
+
+118
+00:05:35,790 --> 00:05:37,459
+que a o i p é o mascaramento, o
+
+119
+00:05:37,470 --> 00:05:42,500
+IP de HC t e como nós vimos aí eu
+
+120
+00:05:42,509 --> 00:05:46,759
+também comentei O email também acontece do atacante ali criar
+
+121
+00:05:46,769 --> 00:05:48,819
+um email e conseguir mascarar, tá vendo? Tá
+
+122
+00:05:48,829 --> 00:05:53,160
+mascarando aí oh um servidor de HC p passando se
+
+123
+00:05:53,170 --> 00:05:56,509
+por ele, okay e temos o ataque de ed,
+
+124
+00:05:56,519 --> 00:05:58,949
+que é o que é o homem no meio,
+
+125
+00:05:58,959 --> 00:06:00,819
+a tradução, Se você pegar, tá vendo Oh,
+
+126
+00:06:00,829 --> 00:06:03,750
+pode ver que tá o atacante aqui no meio de
+
+127
+00:06:03,759 --> 00:06:07,269
+uma comunicação entre um usuário e um servidor, tá
+
+128
+00:06:07,278 --> 00:06:10,209
+vendo? Oh então em um ataque mami o atacante,
+
+129
+00:06:10,220 --> 00:06:13,459
+o que se posiciona entre as duas partes que vão
+
+130
+00:06:13,470 --> 00:06:16,980
+tentar o que se comunicar? Eles utilizam sites falsos
+
+131
+00:06:16,988 --> 00:06:20,500
+que são acessados ou por ou por ataques dos,
+
+132
+00:06:20,509 --> 00:06:23,389
+nos sites originais ou em servidores DNS.
+
+133
+00:06:23,399 --> 00:06:27,819
+Então, eles conseguem fazer esse esse posicionamento entre as
+
+134
+00:06:27,829 --> 00:06:31,100
+duas partes, né? Pra poder ir fazer essa
+
+135
+00:06:31,108 --> 00:06:34,678
+coleta, por exemplo, aí de dados perfeito,
+
+136
+00:06:34,689 --> 00:06:36,579
+Isso aí é um ataque de obtenção e manutenção de
+
+137
+00:06:36,588 --> 00:06:38,959
+acesso aí pra gente treinar.
+
+138
+00:06:38,970 --> 00:06:41,798
+Olha só que questão interessante essa aí, oh!
+
+139
+00:06:42,178 --> 00:06:46,709
+Enquanto ataques dos D O S negação de serviço tem
+
+140
+00:06:46,720 --> 00:06:50,028
+como objetivo derrubar um servidor, o ataque D T.
+
+141
+00:06:50,040 --> 00:06:53,129
+O S tem como objetivo derrubar o banco de dados
+
+142
+00:06:53,139 --> 00:06:55,528
+da aplicação.
+
+143
+00:06:56,250 --> 00:06:59,670
+E aí aluno é tudo a mesma coisa, né?
+
+144
+00:06:59,678 --> 00:07:02,738
+A diferença é que o D o S ele vai
+
+145
+00:07:02,750 --> 00:07:05,809
+o que ele vai atacar através de um bote e
+
+146
+00:07:05,819 --> 00:07:07,850
+o D D o S é distribuído, né?
+
+147
+00:07:07,858 --> 00:07:12,170
+Então você não tem essa objetivos distintos, os objetivos
+
+148
+00:07:12,178 --> 00:07:15,389
+são basicamente aí os mesmos.
+
+149
+00:07:15,399 --> 00:07:18,298
+Okay olha dois O objetivo principal de um ataque D
+
+150
+00:07:18,309 --> 00:07:21,129
+D o S é invadir bases de dados para coletar
+
+151
+00:07:21,139 --> 00:07:22,470
+informações sensíveis.
+
+152
+00:07:22,858 --> 00:07:25,910
+Para isso, realiza a sobrecarga dos recursos do servidor
+
+153
+00:07:25,920 --> 00:07:29,869
+por meio do envio de excessiva quantidade de requisições ou
+
+154
+00:07:29,879 --> 00:07:31,869
+por meio da geração de grande tráfico de dados na
+
+155
+00:07:31,879 --> 00:07:32,369
+rede.
+
+156
+00:07:32,379 --> 00:07:35,428
+Esse sinalzinho tá perfeito, mas ataque D D O
+
+157
+00:07:35,439 --> 00:07:39,088
+S não tem o objetivo de coletar informações sensíveis.
+
+158
+00:07:39,100 --> 00:07:41,778
+Isso aí já é um ataque de SP de programa
+
+159
+00:07:41,790 --> 00:07:43,509
+espião, o D D O S, que é
+
+160
+00:07:43,519 --> 00:07:47,149
+só o que derrubar a base de dados esse que
+
+161
+00:07:47,160 --> 00:07:51,858
+é o objetivo aí okay então aqui nós também temos
+
+162
+00:07:51,869 --> 00:07:54,540
+aí um pequeno erro e temos mais uma aí pra
+
+163
+00:07:54,548 --> 00:07:57,569
+você olha lá com relação a segurança em rede de
+
+164
+00:07:57,579 --> 00:07:59,689
+computadores, essa alternativa é com a técnica que cria
+
+165
+00:07:59,699 --> 00:08:03,988
+um mascaramento oh, tá vendo ele mascara, né?
+
+166
+00:08:04,000 --> 00:08:06,088
+Um i p utilizado pra realizar o acesso.
+
+167
+00:08:06,100 --> 00:08:08,809
+Dessa forma busca aparentar que o acesso foi feito por
+
+168
+00:08:08,819 --> 00:08:11,449
+um endereço de IP específico, Enquanto na verdade feito
+
+169
+00:08:11,459 --> 00:08:12,470
+pro outro endereço i P.
+
+170
+00:08:12,480 --> 00:08:15,608
+A gente viu alguns e esse entrou que eu cheguei
+
+171
+00:08:15,619 --> 00:08:18,129
+a comentar que também é um tipo de mascaramento.
+
+172
+00:08:18,139 --> 00:08:20,048
+É o que é o SPO tá vendo? Ele
+
+173
+00:08:20,059 --> 00:08:22,428
+cobrou de uma maneira geral aqui a questão, né?
+
+174
+00:08:22,769 --> 00:08:27,540
+Smith É aquela ideia de farejamento sot que farejam pacotes
+
+175
+00:08:27,548 --> 00:08:28,838
+de rede.
+
+176
+00:08:28,850 --> 00:08:33,408
+É ideia de pichação, é você desfigurar uma página
+
+177
+00:08:33,418 --> 00:08:36,379
+e for, é aquele ataque que fica tentando por
+
+178
+00:08:36,389 --> 00:08:40,058
+tentativa e erro descobrir ali uma senha, quebrar ali
+
+179
+00:08:40,070 --> 00:08:41,960
+uma criptografia, por exemplo.
+
+180
+00:08:41,969 --> 00:08:44,058
+Tá bom? Então tá aí pra gente treinar pra
+
+181
+00:08:44,070 --> 00:08:45,700
+você ampliar seus conhecimentos.
+
+182
+00:08:45,710 --> 00:08:49,080
+E tem mais uma olha só essa questão no contexto
+
+183
+00:08:49,090 --> 00:08:51,119
+de ameaças de segurança da informação na internet, a
+
+184
+00:08:51,129 --> 00:08:55,798
+interceptação tá vendo é a alteração do conteúdo das mensagens
+
+185
+00:08:55,808 --> 00:08:59,399
+trocadas nos usuários sem que estes o percebam.
+
+186
+00:08:59,408 --> 00:09:02,519
+Recebe o nome de quê? Lá lembra daquela parte
+
+187
+00:09:02,529 --> 00:09:07,229
+anterior que a gente viu Interceptor a troca entre os
+
+188
+00:09:07,239 --> 00:09:11,529
+usuários implementou uma página falsa, um acesso falso.
+
+189
+00:09:11,538 --> 00:09:15,759
+Então ele fez o que ele fez um ataque de
+
+190
+00:09:15,769 --> 00:09:19,820
+medo, O homem do meio igual a gente viu
+
+191
+00:09:19,830 --> 00:09:22,769
+agora tranquilidade, aluno, então tá, aí,
+
+192
+00:09:22,779 --> 00:09:24,580
+fica com Deus até a próxima!
+

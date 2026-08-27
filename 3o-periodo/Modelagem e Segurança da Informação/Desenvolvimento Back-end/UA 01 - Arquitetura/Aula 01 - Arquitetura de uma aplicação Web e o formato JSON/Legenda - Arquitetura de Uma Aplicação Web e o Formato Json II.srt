@@ -1,0 +1,616 @@
+1
+00:00:06,059 --> 00:00:09,970
+bom, Agora vamos falar um pouquinho sobre os aplicativos
+
+2
+00:00:09,978 --> 00:00:13,689
+web, né? Que os aplicativos web tradicionais Tá?
+
+3
+00:00:13,698 --> 00:00:15,909
+Quando se fala de aplicativos web tradicionais, a gente
+
+4
+00:00:15,919 --> 00:00:19,458
+tá falando daqueles que trabalham com h t ML com
+
+5
+00:00:19,469 --> 00:00:23,708
+formulários que seriam os sites tradicionais que estamos acostumados que
+
+6
+00:00:23,719 --> 00:00:26,359
+vieram lá dos C G I S os elementos mais
+
+7
+00:00:26,370 --> 00:00:28,388
+antigos em termos de programação.
+
+8
+00:00:28,399 --> 00:00:31,469
+Hoje a gente visa a interoperabilidade, Então é mais
+
+9
+00:00:31,478 --> 00:00:35,950
+comum termos sites criados em base de serviços com em
+
+10
+00:00:35,959 --> 00:00:37,709
+ferramentas diferenciadas.
+
+11
+00:00:37,719 --> 00:00:43,618
+Bom, vamos lá, então aplicativos web tradicionais eh
+
+12
+00:00:43,630 --> 00:00:47,700
+modelos C G, i e server pa tá,
+
+13
+00:00:47,709 --> 00:00:49,859
+Esses são dois modelos que a gente tem que prestar
+
+14
+00:00:49,868 --> 00:00:54,219
+atenção, porque são os modelos básicos dos aplicativos.
+
+15
+00:00:54,228 --> 00:00:56,298
+Web, né? O modelo c g i com
+
+16
+00:00:56,310 --> 00:01:00,500
+interface seria um programinha que fica rodando no servidor,
+
+17
+00:01:00,509 --> 00:01:04,079
+né? E ele é capaz de escutar aquela porta.
+
+18
+00:01:04,088 --> 00:01:07,650
+Eh oitenta né que seria da conexão e com isso,
+
+19
+00:01:07,659 --> 00:01:11,069
+responder com páginas h t ML, né? Então
+
+20
+00:01:11,079 --> 00:01:14,510
+basicamente é um programinha que roda ao nível do servidor
+
+21
+00:01:14,519 --> 00:01:18,409
+tá? Muitas tecnologias se baseiam nisso, os ser
+
+22
+00:01:18,418 --> 00:01:22,900
+do Java tem muitos c g i em linguagem como
+
+23
+00:01:22,909 --> 00:01:27,790
+né? Então você tem várias tecnologias voltadas pra construção
+
+24
+00:01:27,799 --> 00:01:32,189
+de respostas do protocolo h T P através de programinhas
+
+25
+00:01:32,198 --> 00:01:34,370
+e Cris que rodam do lado do servidor, né?
+
+26
+00:01:34,689 --> 00:01:37,379
+Bom, eh e o server page server page é
+
+27
+00:01:37,388 --> 00:01:40,579
+um pouquinho diferente tá quando se fala de C g
+
+28
+00:01:40,588 --> 00:01:43,918
+i a construção é linha a linha cada coisa que
+
+29
+00:01:43,930 --> 00:01:47,918
+você faz ali você tem uma linha eh eh de
+
+30
+00:01:47,930 --> 00:01:50,558
+saída da sua do seu documento.
+
+31
+00:01:50,569 --> 00:01:52,019
+Então, se eu tiver que imprimir uma página,
+
+32
+00:01:52,028 --> 00:01:53,000
+eu vou ter que imprimir.
+
+33
+00:01:53,010 --> 00:01:56,400
+Imprima h t ML, imprima body, imprima tal
+
+34
+00:01:56,409 --> 00:01:58,198
+coisa, ou seja, é como se tivesse sido
+
+35
+00:01:58,209 --> 00:01:59,379
+linha a linha.
+
+36
+00:01:59,388 --> 00:02:03,079
+Já o server page ele tem um modelo pré-definido,
+
+37
+00:02:03,088 --> 00:02:07,290
+né? E quando você trabalha com ah, um
+
+38
+00:02:07,299 --> 00:02:11,000
+designer ou algo do tipo ele pode editar esse modelo
+
+39
+00:02:11,008 --> 00:02:13,610
+numa ferramenta mais adequada ao design, ao invés de
+
+40
+00:02:13,618 --> 00:02:16,719
+deixar na mão do programador toda a parte de construção
+
+41
+00:02:16,729 --> 00:02:19,058
+de página, o que acaba não dando muitas vezes
+
+42
+00:02:19,069 --> 00:02:23,479
+bom resultado, né? Então você aproveita a característica
+
+43
+00:02:23,490 --> 00:02:26,639
+do designer e é do programador dentro da mesma ferramenta,
+
+44
+00:02:26,649 --> 00:02:29,159
+já que eu tenho ali um template do tipo server
+
+45
+00:02:29,169 --> 00:02:33,860
+peixe, né? Bom, então diferenças principais tá
+
+46
+00:02:33,868 --> 00:02:36,889
+são basicamente essas, ou seja, i você faz
+
+47
+00:02:36,899 --> 00:02:41,300
+linha a linha tá o server você trabalha com um
+
+48
+00:02:41,308 --> 00:02:43,679
+modelo, né? Basicamente, uma página h,
+
+49
+00:02:43,689 --> 00:02:46,729
+T, ML ou x ML tá pode ser qualquer
+
+50
+00:02:46,740 --> 00:02:47,129
+formato.
+
+51
+00:02:47,139 --> 00:02:50,288
+Na verdade, onde você tem trechos dinâmicos que são
+
+52
+00:02:50,300 --> 00:02:53,229
+executados no servidor, né? Então tá dividindo o
+
+53
+00:02:53,240 --> 00:02:56,699
+trabalho entre o designer e o programador eh em qualquer
+
+54
+00:02:56,710 --> 00:03:01,639
+situação você precisa de dois elementos básicos Reque, tá
+
+55
+00:03:01,649 --> 00:03:06,099
+reque a requisição, O que o usuário está requisitando
+
+56
+00:03:06,110 --> 00:03:11,300
+do servidor e é a resposta o que será respondido
+
+57
+00:03:11,308 --> 00:03:15,038
+ao cliente? Tá então através do request eu consigo,
+
+58
+00:03:15,050 --> 00:03:18,379
+por exemplo, pegar quais são os valores informados de
+
+59
+00:03:18,389 --> 00:03:21,538
+um formulário e no eu vou dar a página de
+
+60
+00:03:21,550 --> 00:03:22,300
+resposta pra ele.
+
+61
+00:03:22,308 --> 00:03:24,308
+Qual um h t ML de resposta do tipo olha
+
+62
+00:03:24,319 --> 00:03:28,580
+inclui, né, eh parâmetros podem ser informados via
+
+63
+00:03:28,588 --> 00:03:32,979
+Gatt, né? Quando você usa parâmetros via Gate,
+
+64
+00:03:32,990 --> 00:03:36,099
+o que tá acontecendo? Você tá eh colocando aquele
+
+65
+00:03:36,110 --> 00:03:39,058
+ponto de interrogação e ali coloca eh n um é
+
+66
+00:03:39,069 --> 00:03:40,219
+igual tal coisa.
+
+67
+00:03:40,229 --> 00:03:43,219
+E b um igual tal coisa você coloca na própria
+
+68
+00:03:43,229 --> 00:03:45,419
+u R L as informações.
+
+69
+00:03:45,429 --> 00:03:48,118
+Claro que isso não é nada seguro, tá?
+
+70
+00:03:48,399 --> 00:03:51,288
+Não é nada seguro porque você eh, tá deixando
+
+71
+00:03:51,300 --> 00:03:54,250
+no próprio endereço a informação minimamente eu vou precisar de
+
+72
+00:03:54,258 --> 00:03:57,250
+post, né? Pra poder enviar essa informação em
+
+73
+00:03:57,258 --> 00:04:00,849
+background e eh de preferência colocar o post em cima
+
+74
+00:04:00,860 --> 00:04:02,610
+de um s s l um, t l s,
+
+75
+00:04:02,618 --> 00:04:04,330
+né? Seria o h t t PS tá,
+
+76
+00:04:04,338 --> 00:04:06,409
+ou seja, o ideal! Pra você conseguir o
+
+77
+00:04:06,419 --> 00:04:11,449
+mínimo de segurança é deixar em método st com criptografia.
+
+78
+00:04:11,460 --> 00:04:12,710
+É o que a gente chama de h.
+
+79
+00:04:12,719 --> 00:04:15,669
+T t PS, né? E você pode ter
+
+80
+00:04:15,679 --> 00:04:18,069
+informação no segmento da rota, né? Ou seja,
+
+81
+00:04:18,079 --> 00:04:21,389
+no próprio endereço, você pode ter essa informação.
+
+82
+00:04:21,399 --> 00:04:24,199
+Algo que é muito usado pelos web services do tipo,
+
+83
+00:04:24,678 --> 00:04:28,088
+né? Então você tem ali? Eh h t
+
+84
+00:04:28,100 --> 00:04:31,759
+P local roxo três mil barra pessoas barra um aquele
+
+85
+00:04:31,769 --> 00:04:34,769
+barra um seria o i d da pessoa que você
+
+86
+00:04:34,778 --> 00:04:36,670
+quer buscar, né? Então, só pra ter
+
+87
+00:04:36,678 --> 00:04:39,750
+uma ideia de qual seria essa ideia do segmento,
+
+88
+00:04:39,759 --> 00:04:42,470
+né? Bom, vou dar um exemplo aqui uma
+
+89
+00:04:42,480 --> 00:04:45,769
+linguagem mais antiga, né? Essa linguagem é o
+
+90
+00:04:45,778 --> 00:04:46,509
+né.
+
+91
+00:04:46,519 --> 00:04:48,149
+Essa aí é o C! G I.
+
+92
+00:04:48,160 --> 00:04:51,649
+Ah, quando você trabalha com com Weber, é
+
+93
+00:04:51,660 --> 00:04:54,649
+uma das primeiras linguagens que teve esse impacto no mercado
+
+94
+00:04:54,660 --> 00:04:58,809
+mais usadas comercialmente para a construção de respostas dinâmicas na
+
+95
+00:04:58,819 --> 00:04:59,088
+web.
+
+96
+00:04:59,100 --> 00:05:00,649
+Seriam aplicativos web.
+
+97
+00:05:00,660 --> 00:05:04,358
+Foi o né? Então assim no você consegue escrever
+
+98
+00:05:04,369 --> 00:05:08,889
+C g dessa forma você coloca lá h t ML,
+
+99
+00:05:08,899 --> 00:05:10,369
+ou seja, é como uma máquina de escrever eu
+
+100
+00:05:10,379 --> 00:05:14,670
+vou imprimindo linha linha meu documento h t ML de
+
+101
+00:05:14,678 --> 00:05:18,988
+retorno então quando o usuário né o ele tá acessando
+
+102
+00:05:19,000 --> 00:05:22,319
+aquele endereço? Ele tá recebendo de volta só com
+
+103
+00:05:22,329 --> 00:05:25,809
+h t ML só aquilo que foi impresso na resposta,
+
+104
+00:05:25,819 --> 00:05:30,088
+né Bom tecnologia ASP já é do tipo Server PA
+
+105
+00:05:30,100 --> 00:05:32,689
+também ficou muito conhecido no mercado.
+
+106
+00:05:32,699 --> 00:05:34,250
+Hoje em dia a gente trabalha com asp net,
+
+107
+00:05:34,259 --> 00:05:38,548
+mas todo né, eh então o que? Que?
+
+108
+00:05:38,559 --> 00:05:41,410
+Como é que funciona? O ASP net? Asp?
+
+109
+00:05:41,420 --> 00:05:45,730
+Eh as várias formas de trabalhar com S, né?
+
+110
+00:05:45,738 --> 00:05:49,389
+Você tem um h T ML ou um x ML
+
+111
+00:05:49,399 --> 00:05:52,309
+ou algum outro formato e dentro dele você tem trechos
+
+112
+00:05:52,319 --> 00:05:54,980
+que executa no servidor, então aqui por exemplo,
+
+113
+00:05:54,988 --> 00:06:01,428
+aquele colocando ponto stre nome vai imprimir na página de
+
+114
+00:06:01,439 --> 00:06:05,428
+saída o nome que foi fornecido como parâmetro, né?
+
+115
+00:06:05,439 --> 00:06:07,709
+E com isso o usuário só vai receber por exemplo
+
+116
+00:06:07,720 --> 00:06:10,480
+h t ML boy h um bem vindo e ali
+
+117
+00:06:10,488 --> 00:06:14,879
+Dênis Barra H um Então você tem esse processamento ao
+
+118
+00:06:14,889 --> 00:06:18,899
+nível do servidor Bom aqui eu já tenho um exemplo
+
+119
+00:06:18,910 --> 00:06:21,619
+no JS Como é que o JS funciona ele trabalha
+
+120
+00:06:21,629 --> 00:06:23,600
+muito em cima de rotas.
+
+121
+00:06:23,608 --> 00:06:24,759
+Tá aqui.
+
+122
+00:06:24,769 --> 00:06:27,480
+Seria um aplicativo em cima do Express que é um
+
+123
+00:06:27,488 --> 00:06:30,170
+servidor minimalista do NO J.
+
+124
+00:06:30,178 --> 00:06:34,238
+Eh E ali você tem a seguinte situação A p
+
+125
+00:06:34,250 --> 00:06:37,399
+PG e u dois ponto d Ele tá falando o
+
+126
+00:06:37,410 --> 00:06:43,199
+seguinte quando for solicitado na rota e use barra um
+
+127
+00:06:43,209 --> 00:06:46,699
+número qualquer um dois três poderia ser até tá.
+
+128
+00:06:47,588 --> 00:06:49,678
+Ele vai no modo got.
+
+129
+00:06:49,689 --> 00:06:52,439
+Ele vai fazer o que ele vai pegar e vai
+
+130
+00:06:52,449 --> 00:06:55,509
+executar aquele trecho de código como resposta.
+
+131
+00:06:55,519 --> 00:06:59,959
+E você nota que ele já tem automaticamente hack,
+
+132
+00:06:59,970 --> 00:07:04,858
+que seria o a requisição e a resposta, né?
+
+133
+00:07:05,259 --> 00:07:09,548
+Basicamente esse aí é um dos elementos principais em termos
+
+134
+00:07:09,559 --> 00:07:13,790
+de criação de servidores com o Express.
+
+135
+00:07:13,798 --> 00:07:19,028
+É uma ferramenta fundamental em termos de criação de servidores.
+
+136
+00:07:19,040 --> 00:07:22,869
+Tá seja um servidor para um aplicativo web tradicional.
+
+137
+00:07:22,879 --> 00:07:27,629
+Seja um servidor, eh pra um Tá, porque
+
+138
+00:07:27,639 --> 00:07:30,548
+ele é um sistema de servidor embarcado? Você não
+
+139
+00:07:30,559 --> 00:07:32,588
+precisa de grandes instalações.
+
+140
+00:07:32,600 --> 00:07:35,790
+Rena Express Você pode colocar o servidor já dentro do
+
+141
+00:07:35,798 --> 00:07:38,588
+aplicativo sendo embarcado.
+
+142
+00:07:38,600 --> 00:07:40,829
+Isso significa que você não tem que configurar nada,
+
+143
+00:07:40,838 --> 00:07:42,509
+é simplesmente criar.
+
+144
+00:07:42,519 --> 00:07:46,509
+E daí executar Bom.
+
+145
+00:07:47,569 --> 00:07:52,899
+Então esses são os tipos de aplicativos web tradicionais,
+
+146
+00:07:52,910 --> 00:07:57,920
+né? EH não é a abordagem mais utilizada hoje.
+
+147
+00:07:57,928 --> 00:08:01,338
+Que onde a gente tem uma preocupação com interoperabilidade e
+
+148
+00:08:01,350 --> 00:08:04,338
+arquiteturas baseadas em serviços, né? Então é mais
+
+149
+00:08:04,350 --> 00:08:07,149
+comum hoje em dia você ter um serviço que prover
+
+150
+00:08:07,160 --> 00:08:10,819
+dados para um, e esse frond sim, vai
+
+151
+00:08:10,829 --> 00:08:12,959
+ter uma abordagem um pouco mais tradicional.
+
+152
+00:08:13,290 --> 00:08:16,899
+Eh interface com esse serviço, né? Mas no
+
+153
+00:08:16,910 --> 00:08:20,660
+nos aplicativos clássicos, o que você teria seria esse
+
+154
+00:08:20,670 --> 00:08:21,759
+tipo de programação?
+

@@ -1,0 +1,400 @@
+1
+00:00:06,280 --> 00:00:10,009
+vamos falar um pouquinho sobre o cast de entidades,
+
+2
+00:00:10,019 --> 00:00:13,810
+né? Ah, quando você trabalha com uma tecnologia
+
+3
+00:00:13,819 --> 00:00:17,370
+servidora é muito comum você usar cash cash pra diversas
+
+4
+00:00:17,379 --> 00:00:19,929
+coisas, né? No caso, o cast de
+
+5
+00:00:19,940 --> 00:00:24,519
+entidades seria pra você evitar múltiplas consultas com sequelas ou
+
+6
+00:00:24,530 --> 00:00:25,530
+banco de dados.
+
+7
+00:00:25,539 --> 00:00:28,289
+Por exemplo, se uma tabela não modifica muito,
+
+8
+00:00:28,298 --> 00:00:31,568
+vamos dizer aquela tabela seja atualizada, eh de um
+
+9
+00:00:31,579 --> 00:00:34,048
+em um mês ou de um em uma hora,
+
+10
+00:00:34,060 --> 00:00:34,450
+tá.
+
+11
+00:00:34,459 --> 00:00:37,368
+Se tiver mil usuários conectando a esse cara, né?
+
+12
+00:00:37,380 --> 00:00:39,649
+Mil usuários fazendo a mesma consulta em cima da mesma
+
+13
+00:00:39,658 --> 00:00:40,289
+tabela.
+
+14
+00:00:40,298 --> 00:00:42,418
+Uma tabela que atualiza de um em uma hora,
+
+15
+00:00:42,429 --> 00:00:44,810
+né? E esses mil usuários acessam a cada cinco
+
+16
+00:00:44,819 --> 00:00:45,429
+minutos.
+
+17
+00:00:46,039 --> 00:00:49,789
+Eu tô fazendo pelo menos o quê? Cinquenta e
+
+18
+00:00:49,798 --> 00:00:55,329
+nove mil Acessos desnecessários! Tá por que eu posso
+
+19
+00:00:55,340 --> 00:00:58,529
+usar um cash se esse dado não vai se alterar?
+
+20
+00:00:58,539 --> 00:01:02,929
+Se esse dado eh, vai continuar eh naquele formato.
+
+21
+00:01:02,939 --> 00:01:05,769
+Por aquela hora, eu posso usar um cash em
+
+22
+00:01:05,778 --> 00:01:08,370
+vez de acessar o banco, estressar o banco.
+
+23
+00:01:08,379 --> 00:01:11,010
+Eu posso pegar e baixar isso de um Cash,
+
+24
+00:01:11,019 --> 00:01:14,569
+como por exemplo Redis, né? Bom? Como
+
+25
+00:01:14,579 --> 00:01:17,629
+é que isso funciona? É uma caixa de entidades
+
+26
+00:01:18,849 --> 00:01:19,189
+cash.
+
+27
+00:01:19,198 --> 00:01:22,338
+Diminui tempo de acesso, né? Então assim no
+
+28
+00:01:22,349 --> 00:01:24,299
+caso do servidor, né? Quando eu falo num
+
+29
+00:01:24,308 --> 00:01:28,019
+cash do servidor eu posso usar o Redis, né?
+
+30
+00:01:28,028 --> 00:01:29,939
+É que eu vou usar o via pode usar o
+
+31
+00:01:29,948 --> 00:01:31,918
+Redi fora do dock, mas a opção a opção
+
+32
+00:01:31,930 --> 00:01:33,500
+do doca é a mais usada hoje.
+
+33
+00:01:33,510 --> 00:01:37,638
+Tá a ideia de container tá cada vez mais presente,
+
+34
+00:01:37,650 --> 00:01:39,939
+né? Então aqui, por exemplo, eu tô
+
+35
+00:01:39,948 --> 00:01:44,579
+usando o redis via e uma boa ferramenta pra gerenciar
+
+36
+00:01:44,588 --> 00:01:48,400
+é o do de né? Eu tô usando aqui
+
+37
+00:01:48,409 --> 00:01:54,959
+um contêiner Redi eh N PM S redi seria pra
+
+38
+00:01:54,969 --> 00:01:58,278
+poder usar o Redis no seu projeto? Tá Então
+
+39
+00:01:58,290 --> 00:02:01,198
+cê faz um projeto lá ele vai usar o redi,
+
+40
+00:02:01,209 --> 00:02:06,230
+né? Eh que o seu C tá busca individual
+
+41
+00:02:06,239 --> 00:02:08,389
+de entidades? Vamos dizer o seguinte eu vou colocar
+
+42
+00:02:08,399 --> 00:02:12,308
+uma entidade individualmente, eh no meu redis, né?
+
+43
+00:02:12,319 --> 00:02:15,080
+O ideal é que que você coloque a chave e
+
+44
+00:02:15,088 --> 00:02:17,710
+do que foi acessado e os dados do que foi
+
+45
+00:02:17,719 --> 00:02:20,710
+acessado, né? Então assim, através da chave
+
+46
+00:02:20,719 --> 00:02:23,050
+você altera ou exclui algo do tipo.
+
+47
+00:02:23,649 --> 00:02:27,058
+Seria necessário pra fazer um test completo na hora da
+
+48
+00:02:27,069 --> 00:02:27,699
+alteração.
+
+49
+00:02:27,710 --> 00:02:30,038
+Alterar o que tá no cash na hora do remoção
+
+50
+00:02:30,050 --> 00:02:33,860
+remover do cash senão você vai ter uma de sincronia
+
+51
+00:02:33,868 --> 00:02:35,300
+entre o que tá no banco e o que tá
+
+52
+00:02:35,308 --> 00:02:37,419
+no cash, que no caso é o Redi,
+
+53
+00:02:37,429 --> 00:02:40,129
+né? Como é que funciona a ideia de trabalhar
+
+54
+00:02:40,139 --> 00:02:44,169
+com Redis? Primeira coisa que eu faço é cria
+
+55
+00:02:44,179 --> 00:02:45,788
+o cliente do Redis.
+
+56
+00:02:46,719 --> 00:02:50,050
+Depois eu tenho o que todo evento né? Ou
+
+57
+00:02:50,058 --> 00:02:56,479
+um erro console erro ou um conecte redis desconectado redis
+
+58
+00:02:56,490 --> 00:02:59,750
+cli ponto connect tudo e eventos tá, você vai
+
+59
+00:02:59,758 --> 00:03:04,659
+criar um cliente? Tá, eh! Vai definir
+
+60
+00:03:04,669 --> 00:03:07,419
+quais são os eventos e depois vai esperar ele conectar,
+
+61
+00:03:07,429 --> 00:03:10,830
+né? Isso é uma função a síndroma pra retornar.
+
+62
+00:03:10,838 --> 00:03:15,778
+O cliente tá em seguida obter assim? Que código,
+
+63
+00:03:16,389 --> 00:03:19,199
+né? Se eu coloco que ele não está no
+
+64
+00:03:19,210 --> 00:03:22,699
+cash, tá se eh ele conseguir pegar do cash,
+
+65
+00:03:22,710 --> 00:03:25,399
+significa que ele está no cash, Então ele tenta
+
+66
+00:03:25,409 --> 00:03:28,360
+primeiro pegar do cash, não conseguiu.
+
+67
+00:03:28,368 --> 00:03:31,169
+Ele vai buscar do banco através de um controlador qualquer,
+
+68
+00:03:31,179 --> 00:03:33,800
+fazer um obter produto, né? Então aqui ele
+
+69
+00:03:33,808 --> 00:03:34,979
+sempre busca primeiro do cash.
+
+70
+00:03:34,990 --> 00:03:37,669
+Se tiver no cash, ele usa esse do cash
+
+71
+00:03:37,679 --> 00:03:41,058
+fazer um pequeno pequena brincadeira.
+
+72
+00:03:41,069 --> 00:03:44,550
+Com isso, esse código tá aqui, né?
+
+73
+00:03:44,558 --> 00:03:47,588
+Então assim se eh tiver no cash, ele pega
+
+74
+00:03:47,599 --> 00:03:49,149
+o do Cash, senão ele pega fora.
+
+75
+00:03:49,159 --> 00:03:51,659
+Eu vou pecar, obter um obter dois obter um,
+
+76
+00:03:51,669 --> 00:04:00,558
+né? Eh aqui é o Index dois! Tá
+
+77
+00:04:01,710 --> 00:04:05,770
+nota que nesse momento os três tão fora do Cash
+
+78
+00:04:06,689 --> 00:04:09,300
+porque não deu tempo ainda de se sincronizar com Cash,
+
+79
+00:04:09,308 --> 00:04:14,308
+né? Ah, ele deveria, nesse momento,
+
+80
+00:04:14,319 --> 00:04:16,928
+que ter parado também, mas vai demorar um pouquinho,
+
+81
+00:04:17,949 --> 00:04:23,798
+vou rodar de novo, agora os três estão no
+
+82
+00:04:23,809 --> 00:04:27,470
+cash Tá porque ele acabou de ler, colocou no
+
+83
+00:04:27,480 --> 00:04:27,829
+cash.
+
+84
+00:04:27,838 --> 00:04:29,730
+Numa segunda leitura, ele já pegou do Cash,
+
+85
+00:04:29,738 --> 00:04:30,608
+ele pegou do Redis.
+
+86
+00:04:30,619 --> 00:04:33,329
+Ele não pegou do banco de dados, né?
+
+87
+00:04:33,338 --> 00:04:36,588
+E isso é básico do uso de Cash, Tá
+
+88
+00:04:36,600 --> 00:04:39,278
+que é o que eu tô fazendo aqui, né?
+
+89
+00:04:39,290 --> 00:04:41,678
+Aí se nota que inicialmente ele não tá logo na
+
+90
+00:04:41,689 --> 00:04:42,449
+chamada seguinte.
+
+91
+00:04:42,459 --> 00:04:43,559
+Ele tá lá no Cash.
+
+92
+00:04:44,278 --> 00:04:48,178
+Uma coisa interessante também é que com Redis eu posso
+
+93
+00:04:48,189 --> 00:04:51,059
+definir um tempo de expiração pra aquela informação.
+
+94
+00:04:51,069 --> 00:04:53,778
+Então aquela entidade pode deixar de ser válida dentro de
+
+95
+00:04:53,790 --> 00:04:57,759
+um determinado tempo estabelecido e com isso a gente já
+
+96
+00:04:57,769 --> 00:05:01,500
+consegue gerenciar inclusões, alterações exclusões.
+
+97
+00:05:01,509 --> 00:05:06,579
+Consultas eh gerenciamento de transações e também lidar com um
+
+98
+00:05:06,588 --> 00:05:09,178
+test de objetos que pode agilizar as consultas no banco.
+
+99
+00:05:09,189 --> 00:05:12,420
+A gente fica então por aqui bons estudos e até
+
+100
+00:05:12,428 --> 00:05:12,798
+a próxima!
+

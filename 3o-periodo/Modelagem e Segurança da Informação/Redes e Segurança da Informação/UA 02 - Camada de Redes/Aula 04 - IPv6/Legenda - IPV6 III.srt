@@ -1,0 +1,504 @@
+1
+00:00:06,070 --> 00:00:09,179
+Olá, aluno Seja muito bemvindo Professor Fabrício Melo estamos
+
+2
+00:00:09,189 --> 00:00:11,099
+trabalhando aí com o sistema i p v seis né?
+
+3
+00:00:11,108 --> 00:00:13,679
+O protocolo I p v seis e vamos agora entrar
+
+4
+00:00:13,689 --> 00:00:16,399
+nos tipos de endereços i, p v c Quais
+
+5
+00:00:16,408 --> 00:00:19,719
+são aí os tipos de endereços que nós usamos aí
+
+6
+00:00:19,728 --> 00:00:22,920
+para i p? V seis Perceba aí na sua
+
+7
+00:00:22,929 --> 00:00:26,929
+tela? Olha só primeiramente uma citação aí do O
+
+8
+00:00:26,940 --> 00:00:27,079
+I p.
+
+9
+00:00:27,089 --> 00:00:27,318
+V.
+
+10
+00:00:27,329 --> 00:00:30,780
+Seis Ele introduziu um novo tipo de endereço, como
+
+11
+00:00:30,789 --> 00:00:33,618
+a gente já viu, né, denominado endereço para
+
+12
+00:00:33,628 --> 00:00:37,137
+qualquer membro do grupo Agora que é o famoso endereço
+
+13
+00:00:37,148 --> 00:00:42,539
+de cast cê tinha lá o st lembra o broca
+
+14
+00:00:42,548 --> 00:00:45,957
+agora a gente tem aí esse eh novo tipo que
+
+15
+00:00:45,969 --> 00:00:50,137
+é o cast okay, aí olha só temos também
+
+16
+00:00:50,148 --> 00:00:54,319
+um unicat que é o seguinte é identificar une invoca
+
+17
+00:00:54,329 --> 00:00:58,359
+quem uma interface em um dispositivo habilitado para I P
+
+18
+00:00:58,368 --> 00:01:00,819
+v seis né? Esse endereço aí esse tipo de
+
+19
+00:01:00,829 --> 00:01:03,679
+endereço continua o endereço unicat global.
+
+20
+00:01:03,689 --> 00:01:06,168
+Ele corresponde o que no i p v seis ao
+
+21
+00:01:06,180 --> 00:01:09,180
+endereço i p v quatro Público lembra que vai,
+
+22
+00:01:09,189 --> 00:01:11,239
+por exemplo, pra internet, oh lá rote na
+
+23
+00:01:11,250 --> 00:01:15,799
+internet e globalmente exclusivos podem ser configurados de forma estática
+
+24
+00:01:15,808 --> 00:01:17,918
+ou dinâmica quando a gente utiliza, por exemplo o
+
+25
+00:01:17,930 --> 00:01:21,459
+d HC p pra fazer lá de forma dinâmica tá
+
+26
+00:01:21,469 --> 00:01:24,838
+E temos também os endereços locais exclusivos, né?
+
+27
+00:01:24,849 --> 00:01:27,799
+O ULA que são definidos nesse intervalo aqui Oh cê
+
+28
+00:01:27,808 --> 00:01:31,338
+tem f c zero zero um monte de zero lembra
+
+29
+00:01:31,349 --> 00:01:34,799
+disso? Todo o restante zero que pode eh resumir
+
+30
+00:01:34,808 --> 00:01:36,900
+aí pra duas vezes dois pontos.
+
+31
+00:01:36,909 --> 00:01:40,959
+Quer dizer que você tá ocultando zeros barra sete bits
+
+32
+00:01:40,969 --> 00:01:45,239
+até esse f d f f f tudo zero barra
+
+33
+00:01:45,250 --> 00:01:48,480
+sete oh lá similaresàqueles endereços privados do I P
+
+34
+00:01:48,489 --> 00:01:51,838
+v quatro que não vão pra internet geralmente utilizados aí,
+
+35
+00:01:51,849 --> 00:01:55,308
+sempre na rede local tá? E temos também os
+
+36
+00:01:55,319 --> 00:01:59,198
+endereços de link local que utiliza essa faixa aí Oh
+
+37
+00:01:59,209 --> 00:02:03,948
+F E oitenta zero zero zero zero barra dez bits
+
+38
+00:02:03,959 --> 00:02:07,388
+é usado para comunicação com outros dispositivos dentro de um
+
+39
+00:02:07,400 --> 00:02:09,229
+mesmo link local.
+
+40
+00:02:09,240 --> 00:02:12,949
+Isso é na mesma rede ou sub rede, né?
+
+41
+00:02:12,960 --> 00:02:15,899
+Eles são únicos apenas para a rede que se encontram,
+
+42
+00:02:15,909 --> 00:02:17,088
+pois eles não são rote.
+
+43
+00:02:17,099 --> 00:02:20,368
+Então eles não conseguem ser roteado, ou seja,
+
+44
+00:02:20,379 --> 00:02:25,278
+ir pra outras redes okay e temos o endereço back
+
+45
+00:02:25,288 --> 00:02:27,399
+lembra do que a gente tá vindo no i p
+
+46
+00:02:27,409 --> 00:02:30,599
+v quatro Oh! Lá é o endereço que endereça
+
+47
+00:02:30,610 --> 00:02:31,699
+o próprio ST.
+
+48
+00:02:31,710 --> 00:02:34,319
+Então, quando você quiser fazer um teste ali de
+
+49
+00:02:34,330 --> 00:02:37,439
+uma rede com o seu própria máquina, você consegue
+
+50
+00:02:37,449 --> 00:02:40,479
+usar esse endereço aí oh um monte de zeros,
+
+51
+00:02:40,490 --> 00:02:46,520
+né tá ali? Lembra que tá eh abreviado um
+
+52
+00:02:46,528 --> 00:02:49,500
+barra cento e vinte e oito tá e temos como
+
+53
+00:02:49,508 --> 00:02:53,360
+destaque aí aluno o endereço esse aí oh dois mil
+
+54
+00:02:53,368 --> 00:02:56,479
+e um dois pontos d b oito tudo zero barra
+
+55
+00:02:56,490 --> 00:03:00,419
+trinta e dois é o quê é reservado para documentação,
+
+56
+00:03:00,808 --> 00:03:02,379
+incluindo o uso em exemplos.
+
+57
+00:03:02,389 --> 00:03:07,000
+Então eles eles reservaram essa faixa aí feita para documentação
+
+58
+00:03:07,008 --> 00:03:10,419
+tranquilo E temos também a estrutura de endere o endereço
+
+59
+00:03:10,429 --> 00:03:14,179
+unicat global, que seria o seguinte exclusivos e rote
+
+60
+00:03:14,189 --> 00:03:17,349
+na internet, né? Equivale aos endereços também?
+
+61
+00:03:17,360 --> 00:03:20,360
+I p v quatro públicos? Eles são atribuídos aí
+
+62
+00:03:20,368 --> 00:03:22,740
+pelo essa internet, comitê? Aí que é o
+
+63
+00:03:22,750 --> 00:03:26,199
+famoso Icann para os cinco operadores regionais, né?
+
+64
+00:03:26,210 --> 00:03:29,159
+Nos respectivos continentes, aí e são operados de serviço
+
+65
+00:03:29,169 --> 00:03:33,080
+de internet SP Então quando a gente volta lá naquela
+
+66
+00:03:33,088 --> 00:03:36,960
+parte lá do cê tem um unicat global, né?
+
+67
+00:03:36,969 --> 00:03:42,250
+E temos aí ele eh repetindo com aquela maneira dos
+
+68
+00:03:42,258 --> 00:03:44,538
+públicos que aí a grande maioria dos i P.
+
+69
+00:03:44,550 --> 00:03:44,939
+V C.
+
+70
+00:03:44,949 --> 00:03:47,300
+Como eu citei, já aqui, né? O
+
+71
+00:03:47,308 --> 00:03:49,580
+G U a perfeito, então ele tá se repetindo
+
+72
+00:03:49,588 --> 00:03:49,979
+aqui.
+
+73
+00:03:49,990 --> 00:03:53,300
+Mas é o mesmo raciocínio Tá bom? E como
+
+74
+00:03:53,308 --> 00:03:55,500
+é que a gente trabalha aí com esses, né?
+
+75
+00:03:55,508 --> 00:03:59,460
+Essa representação no pacote olha lá no momento tem só
+
+76
+00:03:59,469 --> 00:04:06,460
+essa observação Tá somente endereços unica globais com os primeiros
+
+77
+00:04:06,469 --> 00:04:11,110
+três bits de zero zero um Tá isto é oh
+
+78
+00:04:11,118 --> 00:04:14,778
+essa faixa aqui Oh! Dois mil tudo zero barra
+
+79
+00:04:14,788 --> 00:04:18,949
+três até o três f f f tudo zero barra
+
+80
+00:04:18,959 --> 00:04:24,709
+três que estão sendo atribuídos Tá até o momento a
+
+81
+00:04:24,720 --> 00:04:26,949
+rede distribuindo isso aí aí, como é que você
+
+82
+00:04:26,959 --> 00:04:29,970
+tem aí no pacote oh lá Cê tem de quarenta
+
+83
+00:04:29,980 --> 00:04:33,459
+e oito bits o prefixo global de roteamento Cê tem
+
+84
+00:04:33,470 --> 00:04:36,379
+com tamanho de dezesseis bits A e a i D
+
+85
+00:04:36,389 --> 00:04:39,600
+da rede na identificação da sua rede e sessenta e
+
+86
+00:04:39,608 --> 00:04:42,778
+quatro bits como a gente viu, né, o
+
+87
+00:04:42,790 --> 00:04:46,298
+tamanho barra meia quatro a i d da interface i
+
+88
+00:04:46,309 --> 00:04:49,319
+de rede né? Então você tem lá sessenta e
+
+89
+00:04:49,329 --> 00:04:52,160
+quatro bits de um a sessenta e quatro bits de
+
+90
+00:04:52,244 --> 00:04:54,084
+outro, formando cento e vinte e oito tá vendo
+
+91
+00:04:54,095 --> 00:04:57,173
+oh então cê tem um prefixo de roteamento barra quarenta
+
+92
+00:04:57,184 --> 00:04:59,855
+e oito mais o i de da sub rede de
+
+93
+00:04:59,863 --> 00:05:03,053
+dezesseis que dá sessenta e quatro lembra Então vocês tem
+
+94
+00:05:03,064 --> 00:05:05,975
+sessenta e quatro de um lado, sessenta e quatro
+
+95
+00:05:05,983 --> 00:05:09,053
+de outro lembra dessa parte da aula? Aí você
+
+96
+00:05:09,064 --> 00:05:13,250
+forma? Aí né? Essas as suas máscaras,
+
+97
+00:05:13,259 --> 00:05:15,850
+as suas sub redes que você tem aí uma quantidade
+
+98
+00:05:15,858 --> 00:05:20,250
+de endereços bem interessante no padrão i p v seis
+
+99
+00:05:20,259 --> 00:05:24,290
+Tranquilidade aluno entendido sobre essa parte aí do I p
+
+100
+00:05:24,298 --> 00:05:29,569
+v seis e os endereços, né? Lá é
+
+101
+00:05:29,579 --> 00:05:33,160
+esse grupo aqui oh f f f f f,
+
+102
+00:05:33,170 --> 00:05:36,480
+né zero dois tudo zero um que é um grupo
+
+103
+00:05:36,488 --> 00:05:39,480
+ao qual todos os dispositivos que estão habilitados pro i
+
+104
+00:05:39,488 --> 00:05:41,920
+p v c se juntam então o que acontece?
+
+105
+00:05:41,928 --> 00:05:45,959
+Oh multi lembra então o pacote enviado pra esse grupo?
+
+106
+00:05:45,970 --> 00:05:49,439
+Ele é recebido, né? E processado por todas
+
+107
+00:05:49,449 --> 00:05:52,720
+essas interfaces? I p v seis no link ou
+
+108
+00:05:52,730 --> 00:05:55,509
+na rede que você tá mandando tem a mesma função
+
+109
+00:05:55,519 --> 00:05:57,619
+que o endereço de broca no i p v quatro
+
+110
+00:05:57,920 --> 00:06:01,108
+Ele vai fazer essa mesma função esse multi do i
+
+111
+00:06:01,119 --> 00:06:04,250
+p v seis tá e tem o grupo de oh
+
+112
+00:06:04,259 --> 00:06:09,009
+dos roteadores que é esse f f zero Tudo zero
+
+113
+00:06:09,019 --> 00:06:12,699
+dois tá vendo? Esse é um grupo ao qual
+
+114
+00:06:12,709 --> 00:06:16,250
+todos roteadores i P V seis vão fazer o quê
+
+115
+00:06:16,259 --> 00:06:19,338
+vão se unir? Então o pacote é enviado pra
+
+116
+00:06:19,350 --> 00:06:22,769
+esse grupo e é recebido e processado por todos os
+
+117
+00:06:22,778 --> 00:06:26,420
+roteadores, né? Nesse link ou na rede tá
+
+118
+00:06:26,428 --> 00:06:30,178
+então você também tem esse endereço multi utilizado por todos
+
+119
+00:06:30,189 --> 00:06:34,420
+os nós e utilizado por todos os roteadores perfeito.
+
+120
+00:06:34,428 --> 00:06:36,660
+E olha a observação aí oh, os endereços multis
+
+121
+00:06:36,670 --> 00:06:41,699
+só podem ser utilizados como endereço de destinos só pra
+
+122
+00:06:41,709 --> 00:06:45,399
+destino você não pode usá-los ou como endereço de origem?
+
+123
+00:06:45,809 --> 00:06:48,939
+Por quê? Porque deve ser sempre endereços unica,
+
+124
+00:06:48,949 --> 00:06:53,420
+quando é o endereço de origem lembra-se disso? Então
+
+125
+00:06:53,428 --> 00:07:00,059
+toma cuidado com essa observação aí tranquilidade então é isso
+
+126
+00:07:00,069 --> 00:07:02,059
+grande abraço até mais.
+

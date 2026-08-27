@@ -1,0 +1,760 @@
+1
+00:00:06,509 --> 00:00:09,398
+Olá, seja bem vindo novamente a nossa disciplina de
+
+2
+00:00:09,409 --> 00:00:17,379
+modelar gerenciamento de processos de negócio nosso eh perspectiva aqui.
+
+3
+00:00:17,388 --> 00:00:21,699
+O nosso desejo aqui é que você trabalhe com a
+
+4
+00:00:21,708 --> 00:00:25,818
+modelagem, gerenciamento de processo com toda a sua totalidade,
+
+5
+00:00:25,829 --> 00:00:30,298
+toda a sua potencialidade e pra pra que nós possamos
+
+6
+00:00:30,309 --> 00:00:32,459
+visualizar isso dentro dessa disciplina.
+
+7
+00:00:32,469 --> 00:00:36,219
+Nós vamos falar hoje sobre transformação de processo e gerenciamento
+
+8
+00:00:36,228 --> 00:00:37,039
+de mudança.
+
+9
+00:00:37,048 --> 00:00:44,490
+Se nós percebermos e entendermos que o processo é importante
+
+10
+00:00:44,500 --> 00:00:50,539
+dentro da organização é a transformação é pressuposto básico pra
+
+11
+00:00:50,548 --> 00:00:53,340
+que isso ocorra, né? Então, a transformação
+
+12
+00:00:53,348 --> 00:00:56,020
+de processos? Então eu transformo o meu processo.
+
+13
+00:00:56,029 --> 00:00:58,618
+Transformo a minha organização, né? Ou a minha
+
+14
+00:00:58,630 --> 00:01:00,700
+organização, transformo o meu processo, veja aqui que
+
+15
+00:01:00,709 --> 00:01:01,179
+bacana, né.
+
+16
+00:01:01,189 --> 00:01:04,138
+Isso é uma coisa que a gente consegue perceber facilmente,
+
+17
+00:01:04,150 --> 00:01:07,778
+né? A transformação dos processos transforma a organização e
+
+18
+00:01:07,790 --> 00:01:09,900
+a organização transforma os processos.
+
+19
+00:01:09,909 --> 00:01:14,329
+E é uma integração isso dentro de uma instituição.
+
+20
+00:01:14,338 --> 00:01:18,528
+Tá bom a transformação organizacional.
+
+21
+00:01:18,540 --> 00:01:19,448
+Ela, por si só.
+
+22
+00:01:19,459 --> 00:01:21,969
+Ela é um processo, ela tem que ser disciplinada,
+
+23
+00:01:21,980 --> 00:01:24,209
+ela tem que ser planejada, né? Então a
+
+24
+00:01:24,219 --> 00:01:28,308
+transformação organizacional ela vai acontecer.
+
+25
+00:01:28,319 --> 00:01:30,829
+Por que que ela vai acontecer? Porque não depende
+
+26
+00:01:30,838 --> 00:01:36,709
+somente da organização, ela ela é influenciada por eh
+
+27
+00:01:36,719 --> 00:01:40,088
+a eh ambientes, né, Tanto no seu ambiente
+
+28
+00:01:40,099 --> 00:01:44,540
+interno quanto o seu ambiente externo e isso vai proporcionar
+
+29
+00:01:44,549 --> 00:01:45,260
+a transformação.
+
+30
+00:01:45,269 --> 00:01:49,138
+Isso vai proporcionar a sua mudança dentro da organização.
+
+31
+00:01:49,150 --> 00:01:50,579
+E a gente tem que refletir isso.
+
+32
+00:01:50,588 --> 00:01:53,599
+Tá bom? Eh, tá aqui, oh!
+
+33
+00:01:53,609 --> 00:01:59,349
+A transformação organizacional é um processo planejado e disciplinado,
+
+34
+00:01:59,359 --> 00:02:02,469
+Busca manter a continuidade do que é hoje, já
+
+35
+00:02:02,480 --> 00:02:06,510
+que está sendo realizado entregue assegurando o atingimento dos objetivos
+
+36
+00:02:06,519 --> 00:02:07,829
+de negócio.
+
+37
+00:02:07,838 --> 00:02:11,429
+Como permitirá a mudança necessária? Propor novos futuros?
+
+38
+00:02:11,439 --> 00:02:14,588
+Olha, só pessoal aqui eh! Eh algumas coisas
+
+39
+00:02:14,599 --> 00:02:16,849
+relevantes que a gente precisa entender, né? Primeiro
+
+40
+00:02:18,368 --> 00:02:23,020
+ah, a a organização ela, ela tem que
+
+41
+00:02:23,028 --> 00:02:27,219
+ter a o seu o seu eh, vamos dizer
+
+42
+00:02:27,229 --> 00:02:32,649
+assim a sua necessidade definida.
+
+43
+00:02:32,659 --> 00:02:35,349
+Não só necessidade, né? Mas a sua perspectiva,
+
+44
+00:02:35,360 --> 00:02:38,610
+a sua força definida em cima do seu objetivo de
+
+45
+00:02:38,618 --> 00:02:41,969
+negócio, Eu preciso entender o que é a minha
+
+46
+00:02:41,979 --> 00:02:44,368
+organização, qual é a sua missão, qual qual
+
+47
+00:02:44,379 --> 00:02:45,830
+é o seu Val, o sua missão, o
+
+48
+00:02:45,838 --> 00:02:47,449
+seu, sua visão e seus valores.
+
+49
+00:02:47,460 --> 00:02:51,649
+Quando eu entendo quem sou eu, eu vou definir
+
+50
+00:02:51,659 --> 00:02:55,889
+objetivos pra este negócio, pra entregar pra realizar,
+
+51
+00:02:55,899 --> 00:02:59,508
+né, né? Pra garantir essa missão essa visão,
+
+52
+00:03:00,308 --> 00:03:05,118
+pra que os meus valores se reflitam dentro de todo
+
+53
+00:03:05,129 --> 00:03:07,199
+o meu contexto institucional.
+
+54
+00:03:07,210 --> 00:03:12,038
+Então a A, A a perspectiva chave aqui é
+
+55
+00:03:12,050 --> 00:03:16,000
+um objetivo de negócio, tá? Então, você
+
+56
+00:03:16,008 --> 00:03:19,300
+tem que definir quais são os objetivos do seu negócio.
+
+57
+00:03:19,909 --> 00:03:24,058
+E isso é feito por meio de organização, de
+
+58
+00:03:24,069 --> 00:03:28,580
+planejamento, de estratégia, de estratégia, né?
+
+59
+00:03:28,588 --> 00:03:30,979
+Então, quando a gente fala que a transformação é
+
+60
+00:03:30,990 --> 00:03:36,240
+um processo planejado e disciplinado, porque eu tenho que
+
+61
+00:03:36,250 --> 00:03:41,000
+garantir que por meio desse planejamento e dessa disciplina,
+
+62
+00:03:41,008 --> 00:03:45,149
+eu faço isso aqui oh eu, atinja os objetivos
+
+63
+00:03:45,159 --> 00:03:48,569
+do meu negócio, eu atinjo aquilo que eu quero
+
+64
+00:03:48,580 --> 00:03:50,508
+alcançar dentro da minha organização.
+
+65
+00:03:50,520 --> 00:03:52,960
+Tá, então? Ah, ah, aí você
+
+66
+00:03:52,969 --> 00:03:53,929
+pode até perguntar assim tá.
+
+67
+00:03:53,939 --> 00:03:57,770
+Mas que objetivo são esses gente.
+
+68
+00:03:57,778 --> 00:04:02,629
+Qualquer que seja a intenção da sua organização, então
+
+69
+00:04:02,639 --> 00:04:08,580
+obter lucro, aumentar a vantagem competitiva, remunerar acionista,
+
+70
+00:04:08,588 --> 00:04:12,909
+não sei eh ser a melhor empresa é entregar produtos
+
+71
+00:04:12,919 --> 00:04:14,830
+com qualidade, eficiência fica.
+
+72
+00:04:14,838 --> 00:04:18,629
+Não sei o objetivo, você vai definir, mas
+
+73
+00:04:18,639 --> 00:04:21,629
+isso tem que tá claro pra sua organização Okay E
+
+74
+00:04:21,639 --> 00:04:24,000
+uma vez que está claro pra sua organização quais são
+
+75
+00:04:24,009 --> 00:04:26,869
+os objetivos dela do seu negócio, que ele vai
+
+76
+00:04:26,879 --> 00:04:29,750
+entregar? O resultado que ele pretende ter que a
+
+77
+00:04:29,759 --> 00:04:32,889
+sua empresa PRE pretende ter espera ter, né?
+
+78
+00:04:33,678 --> 00:04:37,699
+Você vai eh, eh, eh se Se vamos
+
+79
+00:04:37,709 --> 00:04:41,548
+dizer você, vai ter a A a o caminho,
+
+80
+00:04:41,559 --> 00:04:42,108
+né.
+
+81
+00:04:42,119 --> 00:04:45,209
+Aonde você quer chegar onde você está, né?
+
+82
+00:04:45,220 --> 00:04:48,449
+E onde você quer chegar posteriormente? Então isso tem
+
+83
+00:04:48,459 --> 00:04:50,769
+que ser feito com planejamento e disciplina.
+
+84
+00:04:50,778 --> 00:04:53,540
+Tá legal? Eh primeiro! E aí? Outra
+
+85
+00:04:53,548 --> 00:04:55,579
+coisa importante que a gente viu aqui, né,
+
+86
+00:04:55,588 --> 00:04:58,000
+Que é a questão da manter a continuidade.
+
+87
+00:04:58,009 --> 00:05:02,980
+Então você mantém aquilo que você tem hoje E também
+
+88
+00:05:02,988 --> 00:05:05,559
+olha para o teu futuro.
+
+89
+00:05:05,569 --> 00:05:07,619
+Claro, né? A não ser que você sua
+
+90
+00:05:07,629 --> 00:05:10,949
+empre você não deseje que a sua empresa eh seja
+
+91
+00:05:10,959 --> 00:05:15,470
+perene, Ou seja ela continue continue atuando no mercado
+
+92
+00:05:15,480 --> 00:05:18,509
+futuramente, então, pra isso você tem que eh
+
+93
+00:05:18,519 --> 00:05:22,588
+buscar? Eh, eh, eh garantir esses objetivos
+
+94
+00:05:22,600 --> 00:05:25,470
+de negócio, né? Eh a realização dele,
+
+95
+00:05:25,480 --> 00:05:30,428
+a consecução desses objetivos de forma planejada eh e disciplinada.
+
+96
+00:05:30,439 --> 00:05:34,819
+Tá bom, por que essa questão dessa transformação?
+
+97
+00:05:34,829 --> 00:05:36,059
+Por que que a gente tá falando de transformação,
+
+98
+00:05:36,069 --> 00:05:37,980
+de de de de de processo aqui? Por que
+
+99
+00:05:37,988 --> 00:05:41,220
+que eu falei que a transformação de processo tem que
+
+100
+00:05:41,230 --> 00:05:43,660
+ser planejada? Disciplinada, né? Por quê?
+
+101
+00:05:43,670 --> 00:05:48,519
+Porque a necessidade de transformação ela ela é.
+
+102
+00:05:49,009 --> 00:05:51,778
+É a única certeza que nós vamos ter, porque
+
+103
+00:05:51,790 --> 00:05:53,720
+eu tenho um mundo em mudança.
+
+104
+00:05:53,730 --> 00:05:56,338
+Olha necessidade de transformação em um mundo em mudança.
+
+105
+00:05:56,350 --> 00:05:57,139
+Então, eh.
+
+106
+00:05:57,149 --> 00:05:59,600
+Nós não temos um uma.
+
+107
+00:05:59,608 --> 00:06:02,738
+Um mundo estático, né? Se você eh,
+
+108
+00:06:02,750 --> 00:06:05,858
+se você olhar pra um passado, um passado não
+
+109
+00:06:05,869 --> 00:06:10,899
+muito longo, tá, Nós não tínhamos eh ferramenta
+
+110
+00:06:10,910 --> 00:06:14,809
+que nós temos hoje celular, eh né? SMARTPHONE,
+
+111
+00:06:14,819 --> 00:06:17,540
+né? Vamos dizer smartphone, né? Há vinte
+
+112
+00:06:17,548 --> 00:06:19,720
+anos atrás não era smartphone.
+
+113
+00:06:19,730 --> 00:06:22,939
+Era um telefone mais comum, né? Há trinta
+
+114
+00:06:22,949 --> 00:06:25,858
+anos atrás não tinha nem internet, como nós vimos
+
+115
+00:06:25,869 --> 00:06:29,750
+hoje e veja o que essa mudança.
+
+116
+00:06:29,759 --> 00:06:33,449
+Aonde essa mudança tudo, todas essas mudanças por essas
+
+117
+00:06:33,459 --> 00:06:35,309
+tecnologias, essas inovações não levaram.
+
+118
+00:06:35,319 --> 00:06:38,350
+Então, esse mundo muda porque as coisas mudam.
+
+119
+00:06:38,358 --> 00:06:38,910
+Isso é fato.
+
+120
+00:06:38,920 --> 00:06:41,048
+A única certeza que nós temos é essa, né?
+
+121
+00:06:41,059 --> 00:06:46,910
+Então, esse ambiente de mudança constante exige capacidade aprimorada
+
+122
+00:06:46,920 --> 00:06:51,769
+da organização Okay Quantas organizações não quebraram porque não acompanharam
+
+123
+00:06:51,778 --> 00:06:54,269
+essa mudança do mundo? Essa mudança é constante,
+
+124
+00:06:55,119 --> 00:06:56,009
+né? Tem.
+
+125
+00:06:56,019 --> 00:06:58,678
+Se vocês olharem aí eh eh, eh, observarem,
+
+126
+00:06:58,689 --> 00:07:01,569
+por exemplo, antigamente a gente tinha a maquininha de
+
+127
+00:07:01,579 --> 00:07:03,528
+de tirar foto, né? Que se ia lá
+
+128
+00:07:03,540 --> 00:07:05,069
+revelava o filme e tal.
+
+129
+00:07:05,079 --> 00:07:08,290
+As empresas que não mudaram pro mundo digital, elas
+
+130
+00:07:08,298 --> 00:07:10,329
+quebraram, literalmente.
+
+131
+00:07:10,338 --> 00:07:14,670
+Quebraram, né? Bem como empresas de computador,
+
+132
+00:07:14,678 --> 00:07:20,009
+empresas que fabricam automóveis quebraram, porque não acompanharam a
+
+133
+00:07:20,019 --> 00:07:25,048
+a esse esse mundo eh de mudanças constantes e não
+
+134
+00:07:25,059 --> 00:07:26,608
+aprimoraram as suas capacidades.
+
+135
+00:07:26,619 --> 00:07:30,600
+Desconsideraram as perspectivas e as necessidades da sociedade e aquilo
+
+136
+00:07:30,608 --> 00:07:33,540
+que vem se mostrando, né, Outra? A
+
+137
+00:07:33,548 --> 00:07:37,980
+transformação assegura a continuidade, olha só continuidade e perenidade.
+
+138
+00:07:37,988 --> 00:07:42,519
+Falei já várias vezes de perenidade das instituições tá Então
+
+139
+00:07:42,528 --> 00:07:46,678
+uma vez que você eh, tá na sua organização
+
+140
+00:07:46,689 --> 00:07:48,238
+e tá acompanhando a mudança.
+
+141
+00:07:48,250 --> 00:07:50,579
+Tá acompanhando inovação, está inovando.
+
+142
+00:07:50,588 --> 00:07:56,040
+Também está proporcionando essa transformação, transformação de processos de
+
+143
+00:07:56,048 --> 00:07:59,519
+negócio, né? Usando o digital Transfor, né?
+
+144
+00:07:59,528 --> 00:08:01,639
+Muito também falam em transformação digital, por exemplo.
+
+145
+00:08:01,649 --> 00:08:04,798
+O governo fala muito em transformação digital, né?
+
+146
+00:08:04,809 --> 00:08:07,379
+Usa isso de serviços digitais.
+
+147
+00:08:07,608 --> 00:08:10,519
+Você garante a continuidade e aprenda da sua instituição,
+
+148
+00:08:10,528 --> 00:08:13,139
+né? Isso é fundamental, você não faz mais
+
+149
+00:08:13,149 --> 00:08:15,559
+do que a sua obrigação, tá legal.
+
+150
+00:08:15,829 --> 00:08:19,819
+Outra coisa também é que novas estruturas de comportamento são
+
+151
+00:08:19,829 --> 00:08:23,838
+fundamentais, né? Então cada vez você vai observando!
+
+152
+00:08:23,850 --> 00:08:26,939
+Eh, eh isso impactando dentro da sua organização,
+
+153
+00:08:26,949 --> 00:08:28,899
+por exemplo a questão da l GP D é um
+
+154
+00:08:28,910 --> 00:08:32,139
+é um é uma nova estrutura de comportamento que a
+
+155
+00:08:32,149 --> 00:08:34,399
+que as organizações estão obrigadas a seguir agora.
+
+156
+00:08:34,408 --> 00:08:35,759
+Então eu preciso acompanhar isso.
+
+157
+00:08:35,769 --> 00:08:39,349
+Senão também tô fora do mercado, Tá? Quais
+
+158
+00:08:39,359 --> 00:08:42,428
+são os motivos e objetivos pra eu transformar? Então,
+
+159
+00:08:42,440 --> 00:08:43,788
+dá tá ali, oh! Primeiro oh, já
+
+160
+00:08:43,798 --> 00:08:46,090
+que já falou um pouco, mas vamos reforçar lá
+
+161
+00:08:46,099 --> 00:08:51,750
+foco no cliente, aumentar a sua produtividade, inovação
+
+162
+00:08:51,759 --> 00:08:55,029
+e a inovação é redução de riscos e o entre
+
+163
+00:08:55,038 --> 00:08:55,529
+outros.
+
+164
+00:08:55,538 --> 00:08:57,229
+Por que que você vai Moti? Por que que
+
+165
+00:08:57,239 --> 00:09:00,229
+que te motiva? Eh, eh a transformar.
+
+166
+00:09:00,239 --> 00:09:02,489
+E quais os objetivos dessa transformação? Tá aí oh,
+
+167
+00:09:02,500 --> 00:09:05,408
+né? Se você não tiver foco no C,
+
+168
+00:09:05,418 --> 00:09:08,529
+no, no, no teu cliente primeiramente cê tá
+
+169
+00:09:08,538 --> 00:09:13,529
+fora do mercado, né? Outro transformação para otimização
+
+170
+00:09:13,538 --> 00:09:15,820
+e melhoria de processo olha a melhoria de novo aqui.
+
+171
+00:09:15,830 --> 00:09:17,109
+Oh, adoro essa palavra.
+
+172
+00:09:17,119 --> 00:09:20,149
+Melhoria de processo, né? Melhoria contínua, né?
+
+173
+00:09:20,158 --> 00:09:22,788
+Melhoria! Contínua, Quer seja o quê? Processo,
+
+174
+00:09:22,798 --> 00:09:26,029
+melhoria pra tua vida, melhor melhoria! Melhoria é
+
+175
+00:09:26,038 --> 00:09:27,649
+a única palavra que a gente tem que trazer pra
+
+176
+00:09:27,658 --> 00:09:30,489
+vida da gente melhorar sempre Melhorar sempre ser melhor,
+
+177
+00:09:30,500 --> 00:09:31,889
+né? O conhecimento que eu tenho hoje tem que
+
+178
+00:09:31,899 --> 00:09:33,969
+ser aprimorado, tem que ser renovado, tem que
+
+179
+00:09:33,979 --> 00:09:36,428
+ser feito novos, tem que gerar novos conhecimentos,
+
+180
+00:09:36,440 --> 00:09:40,129
+né? E depois aqui oh utilização de métodos técnicas
+
+181
+00:09:40,139 --> 00:09:43,129
+e ferramentas variáveis Por que isso? Não é difícil,
+
+182
+00:09:43,139 --> 00:09:46,038
+né? Porque o mundo nos dá isso tá e
+
+183
+00:09:46,048 --> 00:09:46,349
+o mu.
+
+184
+00:09:46,359 --> 00:09:50,000
+O mundo nos dá essa perspectiva e a mudança ela
+
+185
+00:09:50,009 --> 00:09:53,599
+pode ser tanto de forma incremental como radical.
+
+186
+00:09:53,609 --> 00:09:55,889
+Vai depender do que você considera pra sua organização e
+
+187
+00:09:55,899 --> 00:09:58,820
+ela vai além da melhoria de processo, mas faz
+
+188
+00:09:58,830 --> 00:10:00,099
+parte também.
+
+189
+00:10:00,109 --> 00:10:04,879
+Okay Então eh transformação de processo é fundamental para a
+
+190
+00:10:04,889 --> 00:10:08,139
+perenidade e continuidade da sua organização até a próxima.
+

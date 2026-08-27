@@ -1,0 +1,844 @@
+1
+00:00:06,618 --> 00:00:10,509
+Olá, vamos falar da nossa nossa última abordagem de
+
+2
+00:00:10,519 --> 00:00:13,429
+modelagem de processo, a sua última abordagem especializada de
+
+3
+00:00:13,439 --> 00:00:15,710
+modelagem de processo, né? Nós já vimos eh
+
+4
+00:00:15,720 --> 00:00:18,548
+que temos a cadeia de valor? Já vimos a
+
+5
+00:00:18,559 --> 00:00:20,789
+c PC! E agora nós vamos falar sobre a
+
+6
+00:00:20,798 --> 00:00:23,989
+dinâmica de sistemas ou o dinâmicos, né? Então,
+
+7
+00:00:24,000 --> 00:00:26,839
+tá aí, oh, e esse nomezinho bem interessante
+
+8
+00:00:26,850 --> 00:00:28,658
+que a gente consegue ver aí o que que significa
+
+9
+00:00:28,670 --> 00:00:31,958
+essa abordagem? Essa abordagem, na verdade são diagramas,
+
+10
+00:00:31,969 --> 00:00:37,020
+atividades na seta em vez de atividades na caixa,
+
+11
+00:00:37,029 --> 00:00:40,429
+né? Então, uma caracterização todo nós já vimos
+
+12
+00:00:40,439 --> 00:00:44,098
+alguns diagramas, eh, eh! Eu já vimos
+
+13
+00:00:44,109 --> 00:00:47,630
+alguma alguns formatos de de de de abstração, de
+
+14
+00:00:47,639 --> 00:00:50,020
+representação gráfica, de modelos, em que a gente
+
+15
+00:00:50,029 --> 00:00:52,219
+sempre tem a caixinha ali, como sendo o foco
+
+16
+00:00:52,228 --> 00:00:53,978
+principal, né? Então a atividade está dentro da
+
+17
+00:00:53,990 --> 00:00:58,740
+caixinha, né? Consultar cliente eh abrir? Formula,
+
+18
+00:00:58,750 --> 00:01:02,899
+abrir eh formulário de internação! Ah, sei lá
+
+19
+00:01:02,908 --> 00:01:06,778
+eh comprar um comprar, vender, gerar produto,
+
+20
+00:01:06,790 --> 00:01:09,019
+gerar pedido? Então isso tá, geralmente tá dentro
+
+21
+00:01:09,028 --> 00:01:09,900
+de uma caixinha.
+
+22
+00:01:09,909 --> 00:01:14,528
+Tá? Eh quando a gente tá pensando em dinamicidade.
+
+23
+00:01:14,540 --> 00:01:17,969
+Ou seja, ter eh desenvolvimento de modelos Dinâmico,
+
+24
+00:01:17,980 --> 00:01:20,569
+né? Eh dentro de um ciclo de vida que
+
+25
+00:01:20,579 --> 00:01:22,588
+foca em desempenho.
+
+26
+00:01:22,599 --> 00:01:25,388
+Aí a gente pode usar esse modelo aí que é
+
+27
+00:01:25,400 --> 00:01:29,198
+o atividade na seta okay? Eh, então ele
+
+28
+00:01:29,209 --> 00:01:30,799
+é especialmente importante.
+
+29
+00:01:30,808 --> 00:01:32,680
+E o último nessa questão desses modelos aqui, Oh,
+
+30
+00:01:32,689 --> 00:01:35,278
+então, eh especialmente o útil no desenvolvimento de modelos
+
+31
+00:01:35,290 --> 00:01:38,558
+dinâmicos de ciclo de vida, que focam no desempenho
+
+32
+00:01:38,569 --> 00:01:41,739
+geral dos sistemas e o impacto de mudar variáveis.
+
+33
+00:01:41,750 --> 00:01:43,198
+Chaves que afetam o desempenho.
+
+34
+00:01:43,209 --> 00:01:45,319
+Geral, né, Essas eh V, aí é
+
+35
+00:01:45,329 --> 00:01:47,189
+ter um acrescenta um um, um, outro termo,
+
+36
+00:01:47,198 --> 00:01:49,400
+interessante aqui, né? Que são dois termos importantes
+
+37
+00:01:49,409 --> 00:01:51,040
+aqui, né Aqui, oh assim oh atividade na
+
+38
+00:01:51,049 --> 00:01:55,799
+seta, né? Eh a questão aqui eh modelo
+
+39
+00:01:55,808 --> 00:01:59,719
+dinâmico de dinamicidade dos modelos okay, focado em desempenho
+
+40
+00:01:59,730 --> 00:02:02,918
+e aqui a variáveis chaves, né? Então as
+
+41
+00:02:02,930 --> 00:02:05,439
+variáveis, chaves ou uma variável é aquela em que
+
+42
+00:02:05,448 --> 00:02:09,000
+eu atribuo um determinado valor e esse valor modifica os
+
+43
+00:02:09,008 --> 00:02:13,250
+demais processos Ou de de de de eh modificam ou
+
+44
+00:02:13,258 --> 00:02:15,719
+afetam, né? O o desempenho? Ou o
+
+45
+00:02:15,729 --> 00:02:18,399
+processo, né? Dentro da tecnologia, a variável
+
+46
+00:02:18,409 --> 00:02:21,460
+tem essa característica de receber um valor.
+
+47
+00:02:21,469 --> 00:02:22,639
+Eu trabalho esse valor.
+
+48
+00:02:22,649 --> 00:02:26,240
+Ele altera o valor eh inicial daquela equação.
+
+49
+00:02:26,250 --> 00:02:28,879
+Vamos dizer assim de uma forma bem bem macro pra
+
+50
+00:02:28,889 --> 00:02:33,419
+gente perceber tá quando a gente fala do desse desse
+
+51
+00:02:33,429 --> 00:02:34,699
+desse processo.
+
+52
+00:02:34,710 --> 00:02:36,538
+do dinâmica de sistemas.
+
+53
+00:02:36,550 --> 00:02:40,979
+As características dele envolvem, por exemplo eh a modelagem,
+
+54
+00:02:40,990 --> 00:02:42,179
+eh de complexidade.
+
+55
+00:02:42,189 --> 00:02:45,000
+Ou seja, eu tô focando aqui, conforme,
+
+56
+00:02:45,008 --> 00:02:46,979
+né, a gente viu no no, no,
+
+57
+00:02:46,990 --> 00:02:49,919
+no, no slide anterior, eh em sistemas mais
+
+58
+00:02:49,929 --> 00:02:53,449
+complexos, né? Com interações e feedbacks, né?
+
+59
+00:02:53,460 --> 00:02:56,528
+Então eu tô eu tenho eh interações constantes e feedbacks
+
+60
+00:02:56,538 --> 00:02:59,849
+em relação a a interação que modificam a interação,
+
+61
+00:02:59,860 --> 00:03:02,939
+ela modifica a variável que vai dar uma nova,
+
+62
+00:03:02,949 --> 00:03:07,210
+uma nova representaçãoàquela informação e aquele processo e e
+
+63
+00:03:07,219 --> 00:03:12,110
+fica nessa nessa, eh perspectiva dessa desse ciclo acontecendo,
+
+64
+00:03:12,118 --> 00:03:15,300
+tá, outra eh característica.
+
+65
+00:03:15,308 --> 00:03:17,800
+E a simulação computacional, né? Ou seja,
+
+66
+00:03:17,808 --> 00:03:21,169
+eh, Eu entendo o comportamento desse sistema ao longo
+
+67
+00:03:21,179 --> 00:03:22,960
+do meu tempo, né? Então eu vou eh
+
+68
+00:03:22,969 --> 00:03:28,118
+avaliando como isso é acontece ao longo do desdobra,
+
+69
+00:03:28,129 --> 00:03:30,610
+desdobrando ao longo do meu tempo, e outra é
+
+70
+00:03:30,618 --> 00:03:32,338
+a questão da casualidade.
+
+71
+00:03:32,349 --> 00:03:35,689
+Ou seja, como eu falo de feedback eu tô
+
+72
+00:03:35,699 --> 00:03:37,639
+falando, né? Quando a gente fala de feedback,
+
+73
+00:03:37,649 --> 00:03:39,860
+eu tô sempre fala assim oh voltar, né,
+
+74
+00:03:39,868 --> 00:03:44,118
+voltando, voltando então o feedback é justamente essa característica
+
+75
+00:03:44,129 --> 00:03:47,939
+em que eu posso ter o resultado dado uma,
+
+76
+00:03:47,949 --> 00:03:51,679
+uma uma variável que foi modificado uma variável chave apresentar
+
+77
+00:03:51,689 --> 00:03:54,490
+uma no um novo formato né? Eh, e
+
+78
+00:03:54,500 --> 00:03:56,629
+aí entra de novo no processo.
+
+79
+00:03:56,639 --> 00:04:00,189
+Isso aconte pode mudar a A dinâmica pode mudar.
+
+80
+00:04:00,199 --> 00:04:02,258
+Enfim, a intera, essa interação vai mudando,
+
+81
+00:04:02,270 --> 00:04:04,649
+que é a propo a proposta desse modelo, né?
+
+82
+00:04:04,979 --> 00:04:08,949
+Eh isso tanto pode ser um re um reforço positivo,
+
+83
+00:04:08,960 --> 00:04:13,028
+essa esse feedback, como também eh balanceado que a
+
+84
+00:04:13,038 --> 00:04:14,508
+gente chama de negativos, né? Não sei se
+
+85
+00:04:14,520 --> 00:04:18,470
+vocês já perceberam, mas muitos co- costumam demonstrar assim.
+
+86
+00:04:18,480 --> 00:04:20,449
+Oh! Quando a gente fala de processo em si
+
+87
+00:04:20,459 --> 00:04:22,619
+na questão da tecnologia, na na administração, a
+
+88
+00:04:22,629 --> 00:04:25,108
+gente fala assim Oh, eu tenho entrada, a
+
+89
+00:04:25,119 --> 00:04:28,379
+entrada eh, tem um processamento, E aqui eu
+
+90
+00:04:28,389 --> 00:04:29,670
+tenho uma saída.
+
+91
+00:04:29,678 --> 00:04:32,350
+E essa saída ela veio aqui, né? Tem
+
+92
+00:04:32,358 --> 00:04:35,928
+um feedback aqui! Okay e ela volta pra cá.
+
+93
+00:04:35,939 --> 00:04:38,189
+G E isso aqui se torna um ciclo, né?
+
+94
+00:04:38,829 --> 00:04:42,119
+Fiquei em loop, né? Ou seja esse processo
+
+95
+00:04:42,129 --> 00:04:46,838
+aqui eh que aí eu consigo eh, eh trabalhar
+
+96
+00:04:46,850 --> 00:04:49,678
+dentro do processo, ver perspectivas, né? E
+
+97
+00:04:49,689 --> 00:04:52,338
+E e isso vai acontecendo de forma dinâmica.
+
+98
+00:04:52,350 --> 00:04:54,879
+Essa é a proposição que tá por trás desse desenho,
+
+99
+00:04:54,889 --> 00:04:58,160
+aí tá eh, deixa eu mostrar aqui que eu
+
+100
+00:04:58,170 --> 00:04:59,420
+desenhei um gráfico aqui.
+
+101
+00:04:59,670 --> 00:05:00,759
+Eu acho que estava na minha aqui.
+
+102
+00:05:00,769 --> 00:05:02,778
+Oh, tá aqui, Oh, tá entrada tá
+
+103
+00:05:02,790 --> 00:05:06,838
+okay aqui o processamento e aqui a saída e essa
+
+104
+00:05:06,850 --> 00:05:09,540
+saída realimenta o sistema, que é o feedback.
+
+105
+00:05:09,548 --> 00:05:12,238
+Reli o sistema por meio de um feedback que vo-
+
+106
+00:05:12,250 --> 00:05:14,759
+gera uma nova entrada que faz um novo processamento gera
+
+107
+00:05:14,769 --> 00:05:15,420
+uma nova saída.
+
+108
+00:05:15,428 --> 00:05:18,319
+Ou seja, eu gero um ciclo aí desse dessa
+
+109
+00:05:18,329 --> 00:05:21,088
+dessa perspectiva desse processo Tá Então, como é que
+
+110
+00:05:21,100 --> 00:05:24,350
+funciona? Eh essa dinâmica de sistemas, primeiro a
+
+111
+00:05:24,358 --> 00:05:25,410
+identificação do problema.
+
+112
+00:05:25,420 --> 00:05:27,588
+Então a primeira coisa que eu faço é identificar o
+
+113
+00:05:27,600 --> 00:05:28,569
+problema.
+
+114
+00:05:28,579 --> 00:05:31,369
+Eh em ou a questão que o modelo se propõe
+
+115
+00:05:31,379 --> 00:05:34,129
+a resolver eu esclarecer primeiro item, então que que
+
+116
+00:05:34,139 --> 00:05:36,290
+eu tô querendo resolver qual é o problema, né?
+
+117
+00:05:36,298 --> 00:05:40,298
+Então é muito importante aqui a gente buscar identificar.
+
+118
+00:05:40,309 --> 00:05:43,048
+Eh o que a gente quer tratar, né?
+
+119
+00:05:43,059 --> 00:05:46,509
+Segunda coisa é o mapa casual é o o desenho
+
+120
+00:05:46,519 --> 00:05:49,720
+de uma diagrama com as variáveis e as suas relações
+
+121
+00:05:49,730 --> 00:05:50,319
+casuais.
+
+122
+00:05:50,329 --> 00:05:52,939
+A gente vai ver um daqui a pouco um desenho
+
+123
+00:05:53,209 --> 00:05:55,579
+eh um diagrama que representa esse modelo aqui.
+
+124
+00:05:55,588 --> 00:05:55,699
+Tá.
+
+125
+00:05:55,709 --> 00:05:58,178
+Então a primeira coisa, eu identifico o problema,
+
+126
+00:05:58,189 --> 00:06:00,858
+ou seja, identifiquei o problema em questão E aí
+
+127
+00:06:00,869 --> 00:06:03,769
+eu vou baseado no problema fazer o meu modelo,
+
+128
+00:06:03,778 --> 00:06:07,639
+né? De forma a resolver escla ou esclarecer aquele
+
+129
+00:06:07,649 --> 00:06:10,199
+problema? Tá perfeito? Beleza? Então, a
+
+130
+00:06:10,209 --> 00:06:13,720
+ah! O mapa casual é justamente o desenho desse
+
+131
+00:06:13,730 --> 00:06:17,678
+desse diagrama Resultado desse problema que eu eh.
+
+132
+00:06:17,689 --> 00:06:21,600
+Quero resolver esclarecer com as variáveis e suas respectivas relações,
+
+133
+00:06:21,608 --> 00:06:24,639
+né? Depois eu tenho a modelagem e a simulação.
+
+134
+00:06:24,649 --> 00:06:27,500
+Então, eu vou usar ferramentas computacionais e criar um
+
+135
+00:06:27,509 --> 00:06:30,720
+modelo, né? Que posso simular pra obter pra
+
+136
+00:06:30,730 --> 00:06:34,309
+observar comportamentos e tendências? Então, modelagem e simulação
+
+137
+00:06:34,319 --> 00:06:37,639
+então eu vou ajustando as variáveis, Eu vou ajustando
+
+138
+00:06:37,649 --> 00:06:41,278
+esse modelo, né? Eh realimentando o modelo de
+
+139
+00:06:41,290 --> 00:06:44,759
+forma que ele vai simular os comportamentos e as tendências
+
+140
+00:06:44,769 --> 00:06:48,689
+de acordo com a variável que eu estou modificando.
+
+141
+00:06:48,699 --> 00:06:49,838
+Lembra a variável chave.
+
+142
+00:06:49,850 --> 00:06:52,199
+Então, de acordo com aquela variável chave, ele
+
+143
+00:06:52,209 --> 00:06:53,028
+vai modificando.
+
+144
+00:06:53,040 --> 00:06:55,259
+Então, por exemplo, se você pode pensar numa
+
+145
+00:06:55,269 --> 00:06:56,619
+per perspectiva, sim.
+
+146
+00:06:57,519 --> 00:07:00,369
+Você tá modelando um sistema de comércio eletrônico.
+
+147
+00:07:00,379 --> 00:07:02,449
+Uma variável chave é o A, o, o
+
+148
+00:07:02,459 --> 00:07:05,350
+a taxa do dólar, né? Então pensa,
+
+149
+00:07:05,358 --> 00:07:08,389
+né? Tô mapeando Um sistema de de de comércio
+
+150
+00:07:08,399 --> 00:07:11,389
+exterior eh a variável chave é o dólar.
+
+151
+00:07:11,399 --> 00:07:15,730
+Então, eu isso dentro de um contexto, né?
+
+152
+00:07:15,738 --> 00:07:21,709
+Organizacional de processo eh o valor desta desta variável chave.
+
+153
+00:07:21,720 --> 00:07:23,928
+Ela vai gerar.
+
+154
+00:07:23,939 --> 00:07:27,230
+Eh saídas, resultados diferentes.
+
+155
+00:07:27,238 --> 00:07:29,569
+Então, quando eu falo em modelagem.
+
+156
+00:07:29,579 --> 00:07:32,230
+O meu comportamento vai mudar em função dessa variável.
+
+157
+00:07:32,238 --> 00:07:34,350
+O dólar alto é uma coisa, o dólar baixo
+
+158
+00:07:34,358 --> 00:07:36,915
+é uma coisa, o dólar estável é uma coisa.
+
+159
+00:07:36,923 --> 00:07:39,884
+Então, essa que essa variável vai ajustando, E
+
+160
+00:07:39,894 --> 00:07:42,923
+eu vou observando o comportamento em tendência, né?
+
+161
+00:07:42,934 --> 00:07:45,363
+Óbvio que eu tô falando de uma uma variável bem
+
+162
+00:07:45,375 --> 00:07:48,363
+bem pontual, de um item bem assim, bem
+
+163
+00:07:48,375 --> 00:07:48,963
+de alto nível.
+
+164
+00:07:48,975 --> 00:07:51,004
+Só pra gente perceber o que é essa modelagem e
+
+165
+00:07:51,014 --> 00:07:54,934
+simulação que aí eu vou mode eh! Observando comportamentos
+
+166
+00:07:54,944 --> 00:07:55,483
+e tendências.
+
+167
+00:07:55,494 --> 00:07:57,903
+Então então eu tô olhando lá pra frente, né?
+
+168
+00:07:57,915 --> 00:08:01,644
+Olhando esse esse comportamento e essas tendências tá posteriormente.
+
+169
+00:08:01,653 --> 00:08:08,809
+Nós temos também ah, como eh como essa esse
+
+170
+00:08:08,819 --> 00:08:13,000
+processo, né? Essa essa ferramenta funciona é análise
+
+171
+00:08:13,009 --> 00:08:17,238
+e interação que os resultados da simulação são analisados e
+
+172
+00:08:17,250 --> 00:08:20,119
+o modelo é ajustado conforme necessário pra maior precisão.
+
+173
+00:08:20,129 --> 00:08:23,540
+Então eu vou ajustando o modelo de forma a ganhar
+
+174
+00:08:23,548 --> 00:08:28,199
+maior precisão naquilo que eu quero representar? Tá?
+
+175
+00:08:28,209 --> 00:08:29,963
+Então eh, eh, eh isso.
+
+176
+00:08:29,975 --> 00:08:32,154
+Olha olha que interessante a ferramenta, né Eu vou
+
+177
+00:08:32,163 --> 00:08:35,413
+construindo eà medida que eu vou ajustando esse modelo
+
+178
+00:08:35,423 --> 00:08:37,783
+que eu vou trabalhando esse modelo, eu vou tendo
+
+179
+00:08:37,793 --> 00:08:41,825
+resultados, Esses resultados Eu vou analisando e vou ajustando.
+
+180
+00:08:41,835 --> 00:08:45,614
+né? De forma a garantir uma melhor precisão naquele
+
+181
+00:08:45,625 --> 00:08:48,423
+modelo no qual eu tô trabalhando, Tá considerando as
+
+182
+00:08:48,433 --> 00:08:49,864
+diversas perspectivas dele.
+
+183
+00:08:49,875 --> 00:08:53,320
+Tá legal, Bom, eh por último.
+
+184
+00:08:53,330 --> 00:08:55,940
+Aqui nós temos aqui um, então um exemplo de
+
+185
+00:08:55,950 --> 00:08:58,538
+uma dinâmica de sistema, né? Então, aqui
+
+186
+00:08:58,548 --> 00:09:02,038
+oh você tem, por exemplo, eh aqui.
+
+187
+00:09:02,048 --> 00:09:04,320
+Eh mercado de trabalho, né? Então olha aqui
+
+188
+00:09:04,330 --> 00:09:07,139
+oh, eu tenho uma taxa de ingresso, né?
+
+189
+00:09:07,149 --> 00:09:10,308
+Eu tenho eh o ingresso aqui por meio da da
+
+190
+00:09:10,320 --> 00:09:13,158
+da Olha olha a setinha eu tenho a população ativa
+
+191
+00:09:13,168 --> 00:09:14,788
+o tempo de trabalho dessa pose! Da da,
+
+192
+00:09:14,798 --> 00:09:19,190
+de dessa dessa eh população, né? Eh eles
+
+193
+00:09:19,200 --> 00:09:21,649
+eh a população aposentada! Ou a MO eh.
+
+194
+00:09:21,658 --> 00:09:24,168
+E aí? O final disso é a morte.
+
+195
+00:09:24,178 --> 00:09:27,418
+Eu tenho expectativa de salário médio, percentual de desconto,
+
+196
+00:09:27,428 --> 00:09:30,710
+ou seja, essa interação ela vai acontecendo ao longo
+
+197
+00:09:30,719 --> 00:09:33,729
+do meu processo, né? Em que isso aqui
+
+198
+00:09:33,739 --> 00:09:36,830
+basicamente é uma questão de de de de eh.
+
+199
+00:09:36,840 --> 00:09:40,369
+Vamos dizer pagamentos de benefícios né? Porque aqui eu
+
+200
+00:09:40,379 --> 00:09:44,710
+tenho um saldo, Então, isso vai depender das
+
+201
+00:09:44,719 --> 00:09:46,989
+minhas receitas, das minhas despesas, dos valores da
+
+202
+00:09:47,000 --> 00:09:48,570
+lon longevidade.
+
+203
+00:09:48,580 --> 00:09:51,379
+Vejam olha só que, interessante se eu alterar a
+
+204
+00:09:51,389 --> 00:09:53,609
+longevidade aqui, oh, eu vou ter uma percepção
+
+205
+00:09:53,619 --> 00:09:55,950
+diferente se eu alterar o salário médio.
+
+206
+00:09:55,960 --> 00:09:58,830
+Eu tenho uma percepção diferente e assim por diante.
+
+207
+00:09:58,840 --> 00:10:02,489
+Então, veja a interação e a dinamicidade desse modelo
+
+208
+00:10:02,500 --> 00:10:05,269
+em função das variáveis que eles são chaves, que
+
+209
+00:10:05,279 --> 00:10:07,989
+podem ser modificadas, que geram novos modelos, geram
+
+210
+00:10:08,000 --> 00:10:11,950
+novas interações e novas interpretações Okay! Obrigado Até a
+
+211
+00:10:11,960 --> 00:10:12,450
+próxima!
+

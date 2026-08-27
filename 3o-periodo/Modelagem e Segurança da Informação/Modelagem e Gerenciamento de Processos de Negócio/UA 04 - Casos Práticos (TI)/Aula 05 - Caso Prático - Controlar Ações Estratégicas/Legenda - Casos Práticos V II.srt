@@ -1,0 +1,900 @@
+1
+00:00:06,488 --> 00:00:09,419
+olá, seja bem vindo ao nosso caso prático.
+
+2
+00:00:09,429 --> 00:00:13,448
+Cinco Na parte dois, meu nome é Michel e
+
+3
+00:00:13,460 --> 00:00:16,260
+a gente vai continuar desenvolvendo essa nossas a essa nossa
+
+4
+00:00:16,269 --> 00:00:16,699
+atividade.
+
+5
+00:00:16,708 --> 00:00:19,000
+E agora, mostrando uma nova perspectiva, né?
+
+6
+00:00:19,010 --> 00:00:21,739
+Acho que eu aguce um pouco a curiosidade ali na
+
+7
+00:00:21,750 --> 00:00:24,339
+primeira parte, falando que uma eu a gente vai
+
+8
+00:00:24,350 --> 00:00:26,620
+trabalhar um novo formato um novo, né? Eh
+
+9
+00:00:26,629 --> 00:00:29,420
+representação de um novo formato e a gente vai ver
+
+10
+00:00:29,429 --> 00:00:31,899
+isso agora tá, Então vamos lá caso prático,
+
+11
+00:00:31,908 --> 00:00:34,250
+parte dois tá então tá aqui, oh, olha
+
+12
+00:00:34,259 --> 00:00:36,750
+só o que que a gente pensou aqui Uma criar
+
+13
+00:00:36,759 --> 00:00:42,250
+uma documentação descritiva de processo, essa documentação descritiva de
+
+14
+00:00:42,259 --> 00:00:44,609
+processo aqui pessoal ela eh.
+
+15
+00:00:44,618 --> 00:00:49,429
+O pressuposto dela é formalizar o processo dentro da instituição,
+
+16
+00:00:49,880 --> 00:00:54,439
+criar uma forma, criar um documento que possa se
+
+17
+00:00:54,450 --> 00:00:58,908
+refere, ser referenciado, ser trabalhado dentro de toda
+
+18
+00:00:58,918 --> 00:00:59,450
+organização.
+
+19
+00:00:59,459 --> 00:01:02,408
+Então todo mundo que pensar em descrever um processo dentro
+
+20
+00:01:02,418 --> 00:01:05,409
+da minha empresa vai utilizar esse formulário, ou seja,
+
+21
+00:01:05,418 --> 00:01:06,969
+eu formalizei.
+
+22
+00:01:06,980 --> 00:01:10,129
+Eu criei uma um padrão da instituição, Isso ajuda
+
+23
+00:01:10,138 --> 00:01:13,489
+muito dentro da nossa organização.
+
+24
+00:01:13,500 --> 00:01:17,049
+Tá, vamos ver cada um desses itens aí né?
+
+25
+00:01:17,058 --> 00:01:19,510
+Pra gente aprender? Então olha só primeiro o objetivo,
+
+26
+00:01:20,099 --> 00:01:22,028
+né? O qual é o objetivo desse processo.
+
+27
+00:01:22,040 --> 00:01:24,849
+Aí eu descrevo aqui oh controlar as ações estratégicas da
+
+28
+00:01:24,859 --> 00:01:27,609
+E p I da empresa Sote recebendo Ana Eh eh,
+
+29
+00:01:27,620 --> 00:01:31,629
+por meio do recebimento na publicação dos relatórios, fumar
+
+30
+00:01:31,638 --> 00:01:34,588
+executivos que compõem o portfólio monetário, pronto, o
+
+31
+00:01:34,599 --> 00:01:37,469
+objetivo que que se pressupõe o meu processo, tá
+
+32
+00:01:37,480 --> 00:01:40,129
+escrito, qual é o escopo do meu processo?
+
+33
+00:01:40,750 --> 00:01:42,918
+Então? Ah, escopo é o que que que
+
+34
+00:01:42,930 --> 00:01:45,480
+eu vou e efetivamente entregar com isso, né?
+
+35
+00:01:45,489 --> 00:01:48,439
+Então eu vou entregar? Eh eh as as ações
+
+36
+00:01:48,448 --> 00:01:51,558
+de t i e os indicadores e metas! Ah,
+
+37
+00:01:51,569 --> 00:01:54,829
+mas você não vai mostrar nada de eh a atividade
+
+38
+00:01:54,838 --> 00:01:59,120
+ali de desenvolvimento de software? Eh manutenção, Não.
+
+39
+00:01:59,129 --> 00:02:01,079
+Eu tô falando que o meu escopo é esse aqui
+
+40
+00:02:01,088 --> 00:02:03,599
+aí eu tô indicando aqui as responsabilidades.
+
+41
+00:02:03,609 --> 00:02:05,599
+Quem é o responsável por esse processo, quem é
+
+42
+00:02:05,609 --> 00:02:09,659
+o titular e quem é o substituto? Quem é
+
+43
+00:02:09,669 --> 00:02:12,270
+que fornece dados pra esse processo? Ah, tá
+
+44
+00:02:12,278 --> 00:02:16,460
+aqui os responsáveis pelas ações, quem são os clientes
+
+45
+00:02:16,469 --> 00:02:20,088
+do processo, Ou seja, quem recebe eh quem
+
+46
+00:02:20,099 --> 00:02:21,939
+vai se beneficiar, né? Clientes, por exemplo,
+
+47
+00:02:21,949 --> 00:02:24,179
+Quem se vai se beneficiar do meu processo, né?
+
+48
+00:02:24,189 --> 00:02:26,219
+Então, isso tem que ficar claro, eu tenho
+
+49
+00:02:26,229 --> 00:02:27,860
+esse tempo Tem que alguém vai.
+
+50
+00:02:27,868 --> 00:02:29,419
+Vai ter uma saída, né Vai, vai ter
+
+51
+00:02:29,429 --> 00:02:31,409
+uma, alguém vai se beneficiar do que a gente
+
+52
+00:02:31,419 --> 00:02:33,419
+tá produzindo, do que a gente tá processando.
+
+53
+00:02:33,429 --> 00:02:35,899
+Tá aqui no caso, eu tô dizendo que não
+
+54
+00:02:35,909 --> 00:02:37,099
+é uma pessoa só.
+
+55
+00:02:37,110 --> 00:02:39,199
+São c os diretores.
+
+56
+00:02:39,210 --> 00:02:43,419
+Gerentes, né? Qual é a periodicidade de Quanto
+
+57
+00:02:43,429 --> 00:02:45,899
+em quanto tempo eu tô executando o processo tá aqui
+
+58
+00:02:45,909 --> 00:02:48,000
+Oh mensalmente, tá legal.
+
+59
+00:02:48,008 --> 00:02:50,058
+Continuando que mais ah, b.
+
+60
+00:02:50,069 --> 00:02:54,219
+Olha só então o item um tá aqui.
+
+61
+00:02:54,229 --> 00:02:55,139
+Tá aqui o item um.
+
+62
+00:02:55,149 --> 00:02:56,460
+Tá aqui o item dois.
+
+63
+00:02:56,469 --> 00:02:59,399
+Faltou aqui dois aqui, o três aqui, o
+
+64
+00:02:59,409 --> 00:03:01,020
+quatro aqui, o cinco aqui.
+
+65
+00:03:01,028 --> 00:03:03,099
+O seis eu dou uma breve descrição do que significa
+
+66
+00:03:03,110 --> 00:03:03,838
+o processo.
+
+67
+00:03:04,439 --> 00:03:05,969
+Cê pode falar assim poxa, mas eu podia colocar
+
+68
+00:03:05,979 --> 00:03:06,569
+mais coisas.
+
+69
+00:03:06,580 --> 00:03:10,889
+Eu podia colocar eh o objetivo principal.
+
+70
+00:03:10,899 --> 00:03:15,889
+O objetivo secundário poderia colocar dentro do eh elencar o
+
+71
+00:03:15,899 --> 00:03:18,490
+objetivo um, dois, três Pode fazer o que
+
+72
+00:03:18,500 --> 00:03:21,050
+você quiser é você que vai determinar.
+
+73
+00:03:21,058 --> 00:03:24,088
+Tá no meu entendimento, a gente elencou um conjunto
+
+74
+00:03:24,099 --> 00:03:30,240
+de eh perguntas que devem ser respondidas, de forma
+
+75
+00:03:30,250 --> 00:03:32,319
+A A a, a formalizar esse processo, a
+
+76
+00:03:32,330 --> 00:03:34,038
+fazer com que ele seja entendido.
+
+77
+00:03:34,050 --> 00:03:37,300
+Então se eu olhar aqui eu já consigo determinar opa
+
+78
+00:03:37,308 --> 00:03:38,860
+pera, Aí eu já sei o que esse processo
+
+79
+00:03:38,868 --> 00:03:39,278
+faz.
+
+80
+00:03:39,288 --> 00:03:40,479
+Eu já sei o que ele quer.
+
+81
+00:03:40,490 --> 00:03:42,000
+Já sei quem é o responsável.
+
+82
+00:03:42,008 --> 00:03:43,649
+Eu já sei quem é com quem que eu tô
+
+83
+00:03:43,659 --> 00:03:46,069
+interagindo, Eu já sei de quanto em quanto tempo
+
+84
+00:03:46,080 --> 00:03:46,729
+ele tem que ocorrer.
+
+85
+00:03:46,740 --> 00:03:49,929
+Ou seja, eu tenho informações bem bem estruturadas aqui,
+
+86
+00:03:49,939 --> 00:03:51,189
+bem pertinentes.
+
+87
+00:03:51,199 --> 00:03:56,588
+Tá na parte sete Eu já vou falar dos subprocessos
+
+88
+00:03:56,599 --> 00:03:59,629
+e das minhas atividades e olha que legal a gente
+
+89
+00:03:59,639 --> 00:04:01,729
+falou de de de eh.
+
+90
+00:04:01,740 --> 00:04:06,500
+Em alguns outros casos nós falamos nós fizemos uma planilha,
+
+91
+00:04:06,508 --> 00:04:10,258
+né? Colocamos lá uma uma uma estrutura eh eh
+
+92
+00:04:10,270 --> 00:04:16,959
+com fases eh responsabilidades, eh outra hora eu falava
+
+93
+00:04:16,970 --> 00:04:19,600
+oh fases, responsabilidades, indicadores, eh, eh,
+
+94
+00:04:19,608 --> 00:04:23,838
+eh fases, ações, enfim, eu estruturei uma
+
+95
+00:04:23,850 --> 00:04:27,079
+forma Esta outra forma também é uma é uma forma
+
+96
+00:04:27,088 --> 00:04:29,420
+estruturada de representar.
+
+97
+00:04:29,428 --> 00:04:30,819
+E como é que eu começo a representando aqui?
+
+98
+00:04:30,829 --> 00:04:32,959
+Primeiro, Qual é a atividade que cê tá executando?
+
+99
+00:04:32,970 --> 00:04:35,750
+Tá aqui, oh, então a minha atividade começa
+
+100
+00:04:35,759 --> 00:04:37,290
+na solicitação da documentação.
+
+101
+00:04:37,298 --> 00:04:39,790
+O que que essa atividade faz? Tá na na
+
+102
+00:04:39,798 --> 00:04:43,189
+descrição dela, né? Tô na última semana do
+
+103
+00:04:43,199 --> 00:04:46,230
+mês, conforme a velocidade do envio de informações definida
+
+104
+00:04:46,238 --> 00:04:49,619
+para cada estratégia, a equipe do monitoramento solicita ao
+
+105
+00:04:49,629 --> 00:04:52,829
+gestor da estratégia o envio dos relatórios de acompanhamento sumário.
+
+106
+00:04:52,838 --> 00:04:56,238
+Quando necessário, a equipe repassa também orientações quanto ao
+
+107
+00:04:56,250 --> 00:04:58,189
+preenchimento da documentação Pronto.
+
+108
+00:04:58,199 --> 00:05:02,660
+Olha que bacana o meu processo tá aqui essa atividade
+
+109
+00:05:02,670 --> 00:05:04,660
+tá bem descrita Ah, Mas por que Que você
+
+110
+00:05:04,670 --> 00:05:07,730
+descreveu essa atividade pra detalhar exatamente o que ela se
+
+111
+00:05:07,738 --> 00:05:10,100
+pressupõe? O que ela faz? Então eu disse
+
+112
+00:05:10,108 --> 00:05:13,509
+o nome da atividade, né? E aí eu
+
+113
+00:05:13,519 --> 00:05:16,428
+dou de eu, tô na discussão, eu entendo
+
+114
+00:05:16,439 --> 00:05:17,410
+o que ela faz.
+
+115
+00:05:17,420 --> 00:05:19,869
+Outra coisa que chama atenção pra pra pra vocês,
+
+116
+00:05:19,879 --> 00:05:22,329
+aqui é eh! É a utilização da da,
+
+117
+00:05:22,338 --> 00:05:22,988
+das palavras.
+
+118
+00:05:23,000 --> 00:05:26,420
+Como eu já falei, eh das interações anteriores,
+
+119
+00:05:26,428 --> 00:05:30,069
+né? A gente usa solicitação, eh verificação,
+
+120
+00:05:30,079 --> 00:05:32,709
+E aqui eu tô usando sempre o verbo solicitar,
+
+121
+00:05:32,720 --> 00:05:34,709
+copiar e assim por diante.
+
+122
+00:05:34,720 --> 00:05:36,750
+Então eu padronize aqui tá.
+
+123
+00:05:36,759 --> 00:05:40,338
+É muito importante você considerar essa padronização aqui Beleza!
+
+124
+00:05:40,350 --> 00:05:42,290
+E aí olha o que que eu fiz aqui Que
+
+125
+00:05:42,298 --> 00:05:44,850
+que a gente tá propondo? Você definir uma que?
+
+126
+00:05:44,858 --> 00:05:46,988
+Como é que eh, eh como é que se
+
+127
+00:05:47,000 --> 00:05:50,730
+dá a entrada dessa desse dessa atividade por meio de
+
+128
+00:05:50,738 --> 00:05:51,129
+um e-mail.
+
+129
+00:05:51,139 --> 00:05:54,608
+Qual é a saída É o e-mail enviado qual é
+
+130
+00:05:54,619 --> 00:05:57,889
+a duração dessa atividade e quem é a responsável pela
+
+131
+00:05:57,899 --> 00:05:58,488
+atividade.
+
+132
+00:05:58,500 --> 00:06:03,540
+Tá? Então essa essa eh, vamos dizer assim,
+
+133
+00:06:03,548 --> 00:06:08,439
+essa estrutura aqui que a gente sugere, ela eh
+
+134
+00:06:08,449 --> 00:06:09,480
+consegue.
+
+135
+00:06:09,488 --> 00:06:13,519
+Ah, vamos dizer demonstrar de forma muito clara,
+
+136
+00:06:13,528 --> 00:06:18,040
+muito objetiva do que se pressupõe a atividade ou o
+
+137
+00:06:18,048 --> 00:06:19,959
+subprocessos em si.
+
+138
+00:06:19,970 --> 00:06:22,439
+Tá claro que se tiver um subprocessos eu posso ter
+
+139
+00:06:22,449 --> 00:06:24,879
+da descrição dele a o conjunto de atividades, a
+
+140
+00:06:24,889 --> 00:06:27,639
+forma da escrita é você que vai determinar em função
+
+141
+00:06:27,649 --> 00:06:30,144
+em razão do processo que você tá trabalhando tá legal?
+
+142
+00:06:30,153 --> 00:06:32,384
+Então veja aquela primeira introdução que a gente deu na
+
+143
+00:06:32,394 --> 00:06:36,303
+parte um vai eh tra trabalhar esse conjunto de atividades,
+
+144
+00:06:36,314 --> 00:06:38,665
+aí você pode perguntar assim tá, mas eu poderia
+
+145
+00:06:38,673 --> 00:06:41,863
+escrever isso, escrever um texto igual a gente viu
+
+146
+00:06:41,875 --> 00:06:44,105
+nas outras práticas, depois trazer pra cá, Pode
+
+147
+00:06:44,113 --> 00:06:45,524
+também claro que pode.
+
+148
+00:06:45,858 --> 00:06:48,790
+Eu posso escrever o texto pra entender pro meio que
+
+149
+00:06:48,798 --> 00:06:50,588
+a gente buscou lá, por meio de uma entrevista,
+
+150
+00:06:50,600 --> 00:06:53,048
+por meio de um questionário, e depois traduzir aquilo
+
+151
+00:06:53,059 --> 00:06:56,009
+colocar nesse formulário aqui, né? Nesse nessa,
+
+152
+00:06:56,019 --> 00:06:58,928
+nessa sugestão de documentação descritiva que a gente tá propondo,
+
+153
+00:06:58,939 --> 00:07:01,088
+pronto? Pode ser feito, não tem problema,
+
+154
+00:07:01,100 --> 00:07:03,970
+tá legal e aliás é saudável que o faça.
+
+155
+00:07:03,980 --> 00:07:09,269
+Quanto mais você eh se cercar de documentos de informação
+
+156
+00:07:09,278 --> 00:07:13,009
+pra gerar um produto, que é o processo bem
+
+157
+00:07:13,019 --> 00:07:14,730
+desenhado, bem delineado.
+
+158
+00:07:14,738 --> 00:07:17,488
+Melhor é pra você, né, O que facilitar
+
+159
+00:07:17,500 --> 00:07:20,649
+a sua vida? Você tem que usar então a
+
+160
+00:07:20,660 --> 00:07:23,449
+A, A? A questão é quanto mais estruturado
+
+161
+00:07:23,459 --> 00:07:26,569
+tiver o seu processo, melhor é pra você,
+
+162
+00:07:26,579 --> 00:07:30,730
+realizá-lo inclusive pra escrever o processo em si, né?
+
+163
+00:07:30,738 --> 00:07:33,528
+Então, você e de primeiro, como você vai
+
+164
+00:07:33,540 --> 00:07:35,889
+escrever um processo? Como você formaliza um processo dentro
+
+165
+00:07:35,899 --> 00:07:39,970
+da instituição e depois todos os processos usando essa formalização
+
+166
+00:07:39,980 --> 00:07:42,910
+vão ter a mesma perspectiva de eficiência, eficácia,
+
+167
+00:07:42,920 --> 00:07:43,509
+qualidade etc.
+
+168
+00:07:43,519 --> 00:07:44,028
+Et cetera.
+
+169
+00:07:44,040 --> 00:07:45,470
+Ou seja, vão responder da mesma forma.
+
+170
+00:07:45,480 --> 00:07:48,149
+Essa é é a vantagem da gente trabalhar com isso!
+
+171
+00:07:48,160 --> 00:07:51,649
+Bom pra gente continuar, né? É claro que
+
+172
+00:07:51,660 --> 00:07:53,129
+a gente vai ver a ah, vamos, vamos
+
+173
+00:07:53,139 --> 00:07:55,088
+falar das atividades em si porque depois a gente vai
+
+174
+00:07:55,100 --> 00:07:56,028
+ver o fluxo, tá legal.
+
+175
+00:07:56,040 --> 00:07:58,379
+Então a segunda atividade é aqui, Oh? Copiar
+
+176
+00:07:58,389 --> 00:08:01,290
+relatórios é uma a outra atividade, mais uma vez
+
+177
+00:08:01,298 --> 00:08:04,329
+seguida da descrição das suas entradas, das suas saídas,
+
+178
+00:08:04,338 --> 00:08:06,959
+da duração, da sua responsabilidade, quando você coloca
+
+179
+00:08:06,970 --> 00:08:08,238
+a duração aqui pessoal.
+
+180
+00:08:08,250 --> 00:08:10,379
+Ah, quando eu sugeri a A A A a
+
+181
+00:08:10,389 --> 00:08:12,730
+duração eu já tô sugerindo até uma forma de indica,
+
+182
+00:08:12,738 --> 00:08:15,494
+de indicador, de acompanhamento pra ver se tá dentro
+
+183
+00:08:15,504 --> 00:08:18,574
+do da perspectiva ou não tá legal continuando aqui oh
+
+184
+00:08:18,584 --> 00:08:25,975
+solicitar relatório veja sempre o verbo oh solicitar elaborar né
+
+185
+00:08:25,983 --> 00:08:30,014
+Oh aqui solicitar copiar, né tá cada um faz
+
+186
+00:08:30,024 --> 00:08:30,653
+uma coisa diferente.
+
+187
+00:08:30,665 --> 00:08:34,494
+Aqui é solicitar documentação aqui já é solicitar relatório aqui
+
+188
+00:08:34,504 --> 00:08:37,254
+é elaborar relatório aqui já é copiar relatório, cada
+
+189
+00:08:37,264 --> 00:08:39,335
+um uma coisa diferente e observo que tem sempre a
+
+190
+00:08:39,344 --> 00:08:42,768
+mesma estrutura seguida da descrição do que faz a atividade,
+
+191
+00:08:42,778 --> 00:08:45,188
+as suas entradas saídas, duração e responsabilidade.
+
+192
+00:08:45,197 --> 00:08:54,849
+Então atividade solicitar, elaborar revisar revisar outra consolidar outra,
+
+193
+00:08:54,859 --> 00:09:01,038
+cada uma com sua respectiva descrição Entrada Oh entrada saída
+
+194
+00:09:01,048 --> 00:09:06,678
+duração Descrição Descrição Entrada saída Duração Atividade responsabilidade Veja bem
+
+195
+00:09:06,690 --> 00:09:12,000
+marcadinho aqui eu já tenho outra atividade criticar relatórios de
+
+196
+00:09:12,009 --> 00:09:14,840
+A de acompanhamento, então tem aqui toda a descrição
+
+197
+00:09:14,849 --> 00:09:19,558
+já um pouquinho maior Providenciar ajuste ou outra atividade.
+
+198
+00:09:19,570 --> 00:09:23,678
+Ta tão percebendo como que se dá publicar relatórios e
+
+199
+00:09:23,690 --> 00:09:27,428
+sumários também com a sua descrição, com a sua
+
+200
+00:09:27,440 --> 00:09:29,250
+entrada com a sua saída, com a sua duração
+
+201
+00:09:29,259 --> 00:09:35,609
+com a sua responsabilidade consolidar Sumar Executivo Olha que interessante!
+
+202
+00:09:35,619 --> 00:09:39,570
+E é grande nesse esse processo oh publicar Sumar outra
+
+203
+00:09:39,580 --> 00:09:46,918
+atividade comunicar a outra atividade, providenciar a apresentação para
+
+204
+00:09:46,928 --> 00:09:48,099
+reunião de coordenação.
+
+205
+00:09:48,109 --> 00:09:50,479
+Outra atividade ou ATI.
+
+206
+00:09:50,489 --> 00:09:51,759
+Eu tô fazendo uma atividade, mas pode ser um
+
+207
+00:09:51,769 --> 00:09:54,279
+subprocessos também Tá? É claro que se for subprocessos
+
+208
+00:09:54,288 --> 00:09:56,649
+envolve mais um subprocessos, tem mais atividades, tá
+
+209
+00:09:56,658 --> 00:09:58,629
+legal e aqui nós terminamos beleza.
+
+210
+00:09:58,639 --> 00:10:02,940
+Então nós temos aí olha qua a quantidade de atividade
+
+211
+00:10:02,950 --> 00:10:07,440
+que elencada oh uma duas passando aqui Oh Eh?
+
+212
+00:10:07,450 --> 00:10:18,288
+Três quatro cinco seis sete oito nove dez onze doze
+
+213
+00:10:18,298 --> 00:10:24,149
+treze Atividades dentro deste deste processo tá treze atividades dentro
+
+214
+00:10:24,158 --> 00:10:24,649
+do processo.
+
+215
+00:10:24,658 --> 00:10:27,149
+Ou seja, é um processo extenso que envolve um
+
+216
+00:10:27,158 --> 00:10:29,750
+conjunto de eh, um conjunto de atividades.
+
+217
+00:10:29,759 --> 00:10:33,750
+Se forem subprocessos, os processos podem envolver mais outras
+
+218
+00:10:33,759 --> 00:10:34,969
+atividades legal.
+
+219
+00:10:35,053 --> 00:10:38,844
+Espero que você tenha gostado dessa nova forma de abordagem
+
+220
+00:10:38,854 --> 00:10:39,923
+para um processo.
+
+221
+00:10:39,933 --> 00:10:43,303
+Não esqueça, elabore a sua, considere essa melhore
+
+222
+00:10:43,315 --> 00:10:44,264
+o processo.
+
+223
+00:10:44,274 --> 00:10:47,254
+Dê o engajamento que você pretende, a agregação de
+
+224
+00:10:47,264 --> 00:10:50,543
+valor que vai contribuir pra sua organização tá te Aguardo
+
+225
+00:10:50,553 --> 00:10:55,205
+na última parte desta desse quinto caso prático até lá
+

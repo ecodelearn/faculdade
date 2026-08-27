@@ -1,0 +1,508 @@
+1
+00:00:06,209 --> 00:00:07,339
+voltamos pessoal.
+
+2
+00:00:07,349 --> 00:00:10,198
+Agora nós vamos continuar falando sobre segurança da informação e
+
+3
+00:00:10,210 --> 00:00:13,220
+principalmente sobre ISO padrões, normas né? Só que
+
+4
+00:00:13,228 --> 00:00:14,839
+é um bem específica que é a ISO vinte e
+
+5
+00:00:14,849 --> 00:00:17,149
+sete mil e um, que é um ASO muito
+
+6
+00:00:17,158 --> 00:00:17,658
+conhecida.
+
+7
+00:00:17,670 --> 00:00:20,260
+Provavelmente se você já ouviu falar, você já conhece,
+
+8
+00:00:20,269 --> 00:00:23,899
+Já ouviu alguém falar de certificações pessoais ou de empresas
+
+9
+00:00:23,908 --> 00:00:25,920
+sobre essa? Essa? Isso tá é um aso
+
+10
+00:00:25,929 --> 00:00:29,699
+bastante conhecida na na, na, no, no
+
+11
+00:00:29,708 --> 00:00:31,059
+ramo da segurança da informação.
+
+12
+00:00:31,068 --> 00:00:34,399
+Tá nessa trilha da segurança da informação essa isso como
+
+13
+00:00:34,408 --> 00:00:36,918
+com todas as outras isos tá é uma ISO que
+
+14
+00:00:36,929 --> 00:00:38,810
+foi? Eh, eh é um padrão internacional,
+
+15
+00:00:38,819 --> 00:00:39,759
+o que que é o né? É um padrão
+
+16
+00:00:39,770 --> 00:00:44,200
+internacional criado aí pelo desenvolvido pela International Organization for station,
+
+17
+00:00:44,209 --> 00:00:48,219
+né ISO Essa organização ela é sediada em Genebra,
+
+18
+00:00:48,228 --> 00:00:48,899
+na Suíça.
+
+19
+00:00:48,908 --> 00:00:53,380
+Essas normas são criadas para estabelecer diretrizes, requisitos e
+
+20
+00:00:53,389 --> 00:00:58,219
+especificações técnicas que visam garantir a qualidade, a segurança,
+
+21
+00:00:58,228 --> 00:01:04,099
+a eficiência e a Inter de produtos, serviços e
+
+22
+00:01:04,109 --> 00:01:07,058
+sistemas de várias indústrias e áreas de atuação, então
+
+23
+00:01:07,069 --> 00:01:11,096
+todas as isos ela tem esse nome e são essas
+
+24
+00:01:11,105 --> 00:01:15,444
+são as especificações que ela tenta garantir.
+
+25
+00:01:15,456 --> 00:01:19,176
+Trabalha pra garantir que é qualidade, segurança, eficiência
+
+26
+00:01:19,185 --> 00:01:20,456
+de todos os produtos.
+
+27
+00:01:20,465 --> 00:01:23,995
+Então a ISO tem vários tipos de isos pra vários
+
+28
+00:01:24,004 --> 00:01:27,736
+tipos de organizações, várias trilhas da organização e hoje
+
+29
+00:01:27,745 --> 00:01:30,614
+nós vamos falar agora vamos falar especificamente da ISA vinte
+
+30
+00:01:30,625 --> 00:01:32,896
+e sete mil e um que é um ISO voltado
+
+31
+00:01:32,905 --> 00:01:33,135
+aqui.
+
+32
+00:01:33,146 --> 00:01:35,811
+A gente vai ver muito pra é totalmente voltado pra
+
+33
+00:01:35,820 --> 00:01:38,831
+segurança da informação, então essa ISO é uma das
+
+34
+00:01:38,841 --> 00:01:41,490
+é a área dela, é da segurança da informação,
+
+35
+00:01:41,501 --> 00:01:41,971
+tá bom.
+
+36
+00:01:41,981 --> 00:01:45,850
+Ela veio tá de uma de um outro documento criado
+
+37
+00:01:45,861 --> 00:01:47,831
+pelo governo britânico, que é a B S sete
+
+38
+00:01:47,841 --> 00:01:50,012
+sete nove nove Tá? E essa isa ela vem
+
+39
+00:01:50,022 --> 00:01:53,850
+sendo melhorada e atualizada desde a sua concepção quando que
+
+40
+00:01:53,861 --> 00:01:56,180
+ela foi criada? Ela foi criada em mil novecentos
+
+41
+00:01:56,191 --> 00:01:58,391
+e noventa e dois, ela tem muitos e muitos
+
+42
+00:01:58,402 --> 00:01:58,990
+anos tá.
+
+43
+00:01:59,528 --> 00:02:00,918
+E aí o que acontece? Ela tá.
+
+44
+00:02:00,930 --> 00:02:04,859
+Desde aquela época ela tá vindo sendo atualizado constantemente porque
+
+45
+00:02:04,870 --> 00:02:05,719
+as né.
+
+46
+00:02:05,730 --> 00:02:09,659
+A gente sabe que as vulnerabilidades e as tecnologias,
+
+47
+00:02:09,669 --> 00:02:11,949
+elas vão vão sendo alterados, Os processos vão sendo
+
+48
+00:02:11,960 --> 00:02:15,250
+criados, ou seja, a isso precisa ser atualizado,
+
+49
+00:02:15,258 --> 00:02:18,300
+colocando em uso, colocando em uso por milhares de
+
+50
+00:02:18,308 --> 00:02:18,778
+profissionais.
+
+51
+00:02:18,788 --> 00:02:22,258
+Colocada desculpa colocada em uso por por milhares de profissionais
+
+52
+00:02:22,270 --> 00:02:25,439
+em diversas áreas pelo mundo A ISO vinte e sete
+
+53
+00:02:25,449 --> 00:02:28,479
+mil e um entrega um padrão estável e maduro Cara
+
+54
+00:02:28,490 --> 00:02:30,580
+tá desde dois, noventa e dois.
+
+55
+00:02:30,588 --> 00:02:34,008
+Ela já é uma ISO muito madura, tá capaz
+
+56
+00:02:34,020 --> 00:02:36,599
+de evoluir e se adaptar ao longo dos tempos e
+
+57
+00:02:36,610 --> 00:02:37,278
+tem que ter isso.
+
+58
+00:02:37,288 --> 00:02:39,778
+A gente tem que essas isos, elas precisam principalmente
+
+59
+00:02:39,788 --> 00:02:41,520
+ligado a muito, a, a, a,
+
+60
+00:02:41,528 --> 00:02:45,099
+a, a tecnologia, elas precisam se adaptar porque
+
+61
+00:02:45,110 --> 00:02:49,000
+a cada dia nós temos novas tecnologias, novos processos,
+
+62
+00:02:49,008 --> 00:02:51,719
+tudo que influence influencia esse nosso ecossistema.
+
+63
+00:02:51,729 --> 00:02:52,219
+Tá.
+
+64
+00:02:52,610 --> 00:02:55,979
+E aí a gente tem o i SMS tá de
+
+65
+00:02:55,990 --> 00:02:57,058
+acordo com isso? O que que é isso?
+
+66
+00:02:57,069 --> 00:03:03,008
+Tá information se sistema de gerenciamento de segurança da informação
+
+67
+00:03:03,020 --> 00:03:07,000
+é um conjunto de processos políticas, procedimentos e controles
+
+68
+00:03:07,008 --> 00:03:09,235
+organizacionais, Tá o que que esses, que que
+
+69
+00:03:09,243 --> 00:03:12,014
+esses processos, Que que essas políticas, esses procedimentos
+
+70
+00:03:12,024 --> 00:03:15,713
+e esses controles visam Proteger aquelas palavrinhas que a gente
+
+71
+00:03:15,724 --> 00:03:17,713
+tá vindo desde o início do nosso curso, que
+
+72
+00:03:17,724 --> 00:03:23,493
+é o quê? Confidencialidade, integridade e disponibilidade.
+
+73
+00:03:23,504 --> 00:03:27,830
+Ou seja, que esse conjunto de processo, esse
+
+74
+00:03:27,838 --> 00:03:31,689
+conjunto de política, esse conjunto de procedimentos de controle
+
+75
+00:03:31,699 --> 00:03:36,788
+visa proteger de novo esses nossos pilares aqui, da
+
+76
+00:03:36,800 --> 00:03:38,149
+segurança, da informação.
+
+77
+00:03:38,159 --> 00:03:41,750
+A gente vai ver isso constantemente.
+
+78
+00:03:41,758 --> 00:03:45,094
+Então, tudo tudo toda a questão da segurança da
+
+79
+00:03:45,104 --> 00:03:48,585
+informação, né? Do sistema de informação de continuidade
+
+80
+00:03:48,594 --> 00:03:51,694
+da informação, como eu falei desde a primeira aula,
+
+81
+00:03:51,705 --> 00:03:56,574
+gira em torno de confidencialidade, integridade e disponibilidade.
+
+82
+00:03:56,585 --> 00:03:59,335
+Essas, você precisa entender muito bem esses conceitos.
+
+83
+00:03:59,344 --> 00:04:03,254
+Então eh, a gente continua seguindo essa linha de
+
+84
+00:04:03,264 --> 00:04:05,274
+proteger e garantir esses itens.
+
+85
+00:04:05,860 --> 00:04:08,338
+A ISO vinte e sete mil e um é orientada
+
+86
+00:04:08,349 --> 00:04:12,429
+por uma série de princípios fundamentais que são essenciais para
+
+87
+00:04:12,439 --> 00:04:14,770
+o sistema de gestão da segurança da informação.
+
+88
+00:04:14,778 --> 00:04:18,910
+Quais são esses esses, né? E esses princípios
+
+89
+00:04:18,920 --> 00:04:25,689
+fundamentais abordagem baseada em risco, compromisso da alta direção
+
+90
+00:04:25,699 --> 00:04:29,778
+fundamental, melhoria contínua, como tudo na nossa vida,
+
+91
+00:04:29,790 --> 00:04:32,350
+tem que ter uma melhoria contínua, né? Atendimento
+
+92
+00:04:32,358 --> 00:04:35,509
+a riscos legais e regulatórios.
+
+93
+00:04:35,519 --> 00:04:38,350
+Quais são as normas? Vai depender muito da do,
+
+94
+00:04:38,358 --> 00:04:39,869
+do vínculo, da Igreja, da da, da,
+
+95
+00:04:39,879 --> 00:04:42,769
+da empresa, onde aquela empresa trabalha, qual é
+
+96
+00:04:42,778 --> 00:04:45,470
+o ramo daquela empresa onde ela tá vinculada.
+
+97
+00:04:45,480 --> 00:04:48,660
+Então, esses requisitos legais e regulatórios vai depender muito
+
+98
+00:04:48,670 --> 00:04:52,829
+do ramo da empresa, envolvimento das partes interessadas.
+
+99
+00:04:52,838 --> 00:04:55,269
+Você tem que colocar todo mundo pra jogo, eh,
+
+100
+00:04:55,278 --> 00:04:57,588
+tem que ser em diversas mãos.
+
+101
+00:04:57,600 --> 00:05:01,639
+Adaptação ao contexto organizacional tá.
+
+102
+00:05:01,649 --> 00:05:05,040
+Cada empresa tem um contexto, cada empresa tem a
+
+103
+00:05:05,048 --> 00:05:05,959
+sua história.
+
+104
+00:05:05,970 --> 00:05:08,600
+Então a gente tem que se adaptar também eh ao
+
+105
+00:05:08,608 --> 00:05:12,879
+contexto da empresa e o aprendizado Oga organizacional Isso é
+
+106
+00:05:12,889 --> 00:05:13,639
+fundamental.
+
+107
+00:05:13,649 --> 00:05:15,199
+Então esses são os princípios básicos.
+
+108
+00:05:15,209 --> 00:05:17,639
+A gente vai dar uma olhada em cada princípio básico
+
+109
+00:05:17,649 --> 00:05:20,278
+desse daqui pra frente? Tá, Mas é fundamental
+
+110
+00:05:20,290 --> 00:05:22,720
+você entender que essa ISO é uma ISO que vai
+
+111
+00:05:22,730 --> 00:05:26,872
+contribuir com a qualidade da da do seu, do
+
+112
+00:05:26,882 --> 00:05:29,673
+seu ambiente de informação, tá com o seu ambiente
+
+113
+00:05:29,682 --> 00:05:30,733
+de continuidade.
+
+114
+00:05:30,742 --> 00:05:34,822
+Essa é um a ISO muito é fundamental! Não
+
+115
+00:05:34,833 --> 00:05:37,882
+tô falando pra você implementar dentro da sua organização.
+
+116
+00:05:37,892 --> 00:05:40,233
+Você pode até fazer isso, Isso leva a sua
+
+117
+00:05:40,242 --> 00:05:41,492
+empresa pra um outro patamar.
+
+118
+00:05:41,502 --> 00:05:45,322
+Mas é fundamental você entender o que essa isa faz.
+
+119
+00:05:45,333 --> 00:05:47,745
+O que a a ISO prega? Porque bem madura,
+
+120
+00:05:47,755 --> 00:05:49,824
+como a gente viu em lei desde noventa e dois
+
+121
+00:05:49,834 --> 00:05:52,185
+é uma a ISO estável, ou seja, já
+
+122
+00:05:52,196 --> 00:05:56,225
+passou por várias e várias e várias etapas durante todo
+
+123
+00:05:56,235 --> 00:05:59,764
+o seu processo de evolução, ela garante pra você
+
+124
+00:05:59,776 --> 00:06:03,865
+ou visa garantir pra você um ambiente muito mais seguro.
+
+125
+00:06:03,875 --> 00:06:07,105
+Tá, Então essa ISA você precisa entender, Nós
+
+126
+00:06:07,115 --> 00:06:09,346
+vamos continuar falando sobre essa ISO até a próxima aula
+
+127
+00:06:09,355 --> 00:06:09,685
+Valeu
+

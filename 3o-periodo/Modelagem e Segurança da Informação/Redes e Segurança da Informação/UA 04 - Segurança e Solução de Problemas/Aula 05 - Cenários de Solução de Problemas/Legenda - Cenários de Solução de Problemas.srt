@@ -1,0 +1,784 @@
+1
+00:00:05,940 --> 00:00:08,130
+Olá, aluno, Eu sou Fabrício Melo.
+
+2
+00:00:08,140 --> 00:00:09,470
+É um grande prazer estar aqui.
+
+3
+00:00:09,478 --> 00:00:12,550
+Vamos que vamos, estamos aí com um cenário de
+
+4
+00:00:12,560 --> 00:00:15,429
+solução de problemas? Eh, a gente tem que
+
+5
+00:00:15,439 --> 00:00:17,068
+ter cenário de solução de problemas.
+
+6
+00:00:17,079 --> 00:00:19,510
+Óbvio, né? E como é que a gente
+
+7
+00:00:19,519 --> 00:00:22,920
+vai tratar esse cenário? Simplesmente aluno fazendo uma análise?
+
+8
+00:00:22,929 --> 00:00:26,408
+Quando você tem uma solução de problemas em cima das
+
+9
+00:00:26,420 --> 00:00:29,750
+camadas do modelo TC p i p, não vimos
+
+10
+00:00:29,760 --> 00:00:33,130
+que o TC P i p lá atrás quatro camadas,
+
+11
+00:00:33,450 --> 00:00:38,118
+então esses cenários podem ser divididos também por camadas.
+
+12
+00:00:38,130 --> 00:00:40,700
+É pra isso que servem as camadas desse pip Do
+
+13
+00:00:40,709 --> 00:00:45,259
+mesmo jeito que nós estudamos o que cada protocolo entra,
+
+14
+00:00:45,270 --> 00:00:47,380
+o que entra em cada camada? A gente também
+
+15
+00:00:47,389 --> 00:00:51,020
+tem os problemas relacionadosà camada, mas, óbvio,
+
+16
+00:00:51,029 --> 00:00:54,520
+esses problemas são relacionados ao que você estuda na camada.
+
+17
+00:00:54,829 --> 00:00:58,418
+Mas quando nós estudamos lá o modelo TC PP,
+
+18
+00:00:58,429 --> 00:01:02,149
+nós não falamos em problemas, apenas alocamos o que
+
+19
+00:01:02,158 --> 00:01:06,959
+cada coisa fazia o que cada cada cada eh processo,
+
+20
+00:01:06,969 --> 00:01:09,918
+né? Cada protocolo, cada equipamento estava em em
+
+21
+00:01:09,930 --> 00:01:12,028
+qual camada? Não foi isso que a gente estudou?
+
+22
+00:01:12,040 --> 00:01:12,900
+Então vamos lá.
+
+23
+00:01:12,909 --> 00:01:17,088
+Quando a gente tá na camada física, né?
+
+24
+00:01:17,099 --> 00:01:21,430
+A primeira camada lá né? Do que seria rede
+
+25
+00:01:21,439 --> 00:01:24,689
+Oh, cabo corrompido Não é a camada que trata
+
+26
+00:01:24,698 --> 00:01:29,129
+isso, a parte física, a parte mais palpável
+
+27
+00:01:29,138 --> 00:01:29,790
+da rede.
+
+28
+00:01:29,799 --> 00:01:32,930
+Oh lá, conectou defeituoso ou mal instalado, o
+
+29
+00:01:32,939 --> 00:01:35,329
+R j quarenta e cinco, né?Às vezes
+
+30
+00:01:35,338 --> 00:01:37,209
+o O a pessoa é iniciante, não tem muita
+
+31
+00:01:37,219 --> 00:01:40,879
+experiência, pode errar na conexão cara e cabo.
+
+32
+00:01:40,888 --> 00:01:45,239
+R J quarenta e cinco mal conectado é problema na
+
+33
+00:01:45,250 --> 00:01:48,278
+certa, né? De casamento de módulos usado de
+
+34
+00:01:48,290 --> 00:01:52,879
+operação Tá vendo equipamento de ter conexão defeituosos, camada
+
+35
+00:01:52,888 --> 00:01:56,980
+física lá placa de rede ou p defeituosa Interferência no
+
+36
+00:01:56,989 --> 00:02:02,239
+cabo saturação de banda no segmento e internet tipo errado
+
+37
+00:02:02,250 --> 00:02:06,159
+de cabo violação de regras de cabeamento Que revelação de
+
+38
+00:02:06,168 --> 00:02:11,118
+regras O cabeamento não pode passar perto de energia elétrica.
+
+39
+00:02:11,129 --> 00:02:15,258
+Isso aí você tem normas que definem distância, né?
+
+40
+00:02:15,270 --> 00:02:18,860
+Então, hoje os prédios mais novos ainda bem seguem
+
+41
+00:02:18,868 --> 00:02:21,808
+essas normas, mas pega prédios antigos, por exemplo,
+
+42
+00:02:21,819 --> 00:02:24,399
+que não se preocupava com isso ou nem tinha ainda
+
+43
+00:02:24,409 --> 00:02:26,860
+projeto pra rede pessoal, ia passar a rede ali
+
+44
+00:02:26,868 --> 00:02:28,719
+depois de pronto.
+
+45
+00:02:28,729 --> 00:02:30,258
+E geralmente passava chave.
+
+46
+00:02:30,270 --> 00:02:34,419
+Isso dentro da canalização de da energia elétrica.
+
+47
+00:02:34,429 --> 00:02:35,949
+Aí é problema, não tá? Não tem como
+
+48
+00:02:35,960 --> 00:02:36,679
+não ter problema.
+
+49
+00:02:37,118 --> 00:02:38,610
+Aí a hora que ia ligar a rede a rede
+
+50
+00:02:38,618 --> 00:02:39,308
+tava um caos.
+
+51
+00:02:39,319 --> 00:02:42,308
+Aí, eu descobri os cabos, passando de maneira
+
+52
+00:02:42,319 --> 00:02:42,550
+errada.
+
+53
+00:02:42,558 --> 00:02:46,169
+Ou seja, violação nas regras, né? De
+
+54
+00:02:46,179 --> 00:02:49,610
+cabeamento, então é sinônimo de problema? Não tem
+
+55
+00:02:49,618 --> 00:02:52,788
+nenhuma sombra de dúvidas com isso e a camada de
+
+56
+00:02:52,800 --> 00:02:55,788
+enlace ali, né? A camada que seria a
+
+57
+00:02:55,800 --> 00:02:58,588
+camada de internet do modelo, né? TC p
+
+58
+00:02:58,599 --> 00:03:02,008
+i p Oh lá interface desabilitada em Lace, não
+
+59
+00:03:02,020 --> 00:03:05,960
+é a camada de ligação, né? A camada
+
+60
+00:03:05,969 --> 00:03:09,219
+que você faz o enlace, a ligação dos dispositivos.
+
+61
+00:03:09,229 --> 00:03:11,020
+Oh lá, problema com a árvore de cobertura!
+
+62
+00:03:11,028 --> 00:03:14,558
+Como saturação de recursos devido ao excesso de quadros de
+
+63
+00:03:14,569 --> 00:03:19,520
+fusão, saturou na troca tempo de envelhecimento de tabelas
+
+64
+00:03:19,528 --> 00:03:21,240
+de endereços inadequados.
+
+65
+00:03:21,250 --> 00:03:23,558
+Ou seja, a tabela ficou desatualizada, né?
+
+66
+00:03:23,569 --> 00:03:28,639
+Validade da cash arp inadequada Lembra do HARP protocolo que
+
+67
+00:03:28,649 --> 00:03:33,008
+pega o I P pra casar com o Mac?
+
+68
+00:03:33,020 --> 00:03:35,409
+Eds que é o endereço da camada, né?
+
+69
+00:03:35,419 --> 00:03:38,610
+De enlace? Então, se você tem aí uma
+
+70
+00:03:38,618 --> 00:03:43,399
+validade já passada dessa cash, cê vai ter problema
+
+71
+00:03:43,409 --> 00:03:44,490
+porqueàs vezes, já mudou ali.
+
+72
+00:03:44,500 --> 00:03:47,240
+O endereçamento já tem um outro equipamento na rede.
+
+73
+00:03:47,250 --> 00:03:50,189
+Você vai ter ali, né? Um um Conflito,
+
+74
+00:03:50,199 --> 00:03:54,169
+né? Então endereço também inadequado vai dar conflito e
+
+75
+00:03:54,179 --> 00:03:56,528
+sua rede pode ter problema, então cê vê isso
+
+76
+00:03:56,538 --> 00:03:58,629
+já é um estudo lá na camada de enlace.
+
+77
+00:03:58,639 --> 00:04:02,300
+Quando a gente fala da camada de rede, a
+
+78
+00:04:02,308 --> 00:04:05,319
+gente tem por exemplo qual tipo de problema lá.
+
+79
+00:04:05,330 --> 00:04:09,258
+Tabela de rotas e hospedeiros incorretas como endereço I p
+
+80
+00:04:09,270 --> 00:04:11,740
+de hospedeiro incorreto, camada de rede um trato e
+
+81
+00:04:11,750 --> 00:04:15,740
+pelo A gente não estuda o ipê lá, Então
+
+82
+00:04:15,750 --> 00:04:17,980
+os problemas relacionados com o ipê vai Tá aí,
+
+83
+00:04:17,988 --> 00:04:21,059
+hospedeiro, oh com uma máscara de rede incorreta,
+
+84
+00:04:21,069 --> 00:04:24,420
+Lembra das máscaras que nós estudamos? Pode acontecer de
+
+85
+00:04:24,428 --> 00:04:26,778
+ter uma máscara in- incorreta lá no hospedeiro? O
+
+86
+00:04:26,790 --> 00:04:31,678
+que acontecer? Problema cliente T m s Mal configurado,
+
+87
+00:04:32,809 --> 00:04:35,899
+o DEM não faz o o o casamento do nome
+
+88
+00:04:35,910 --> 00:04:40,410
+com o i p servidor de HC p mal configurado
+
+89
+00:04:40,420 --> 00:04:41,850
+né? O d HC p que gera o i
+
+90
+00:04:41,858 --> 00:04:46,600
+P rotas estáticas mal configuradas.
+
+91
+00:04:46,608 --> 00:04:49,778
+Se você tá com a rota mal configurada no roteador,
+
+92
+00:04:49,790 --> 00:04:52,879
+não vai equipamentos inseridos em vã incorreta.
+
+93
+00:04:52,889 --> 00:04:55,439
+Então você criou lá a vã e você tá com
+
+94
+00:04:55,449 --> 00:04:58,040
+o equipamento que tá inserido em outra.
+
+95
+00:04:58,048 --> 00:05:01,139
+Mas cê tá puxando o endereço daquele equipamento daquela vã
+
+96
+00:05:01,149 --> 00:05:03,678
+problema, né, oh lá! As vãs não
+
+97
+00:05:03,689 --> 00:05:08,399
+estão configuradas, os computadores não conseguem trocar informações,
+
+98
+00:05:08,410 --> 00:05:12,809
+você não consegue fazer ali com que né? Um
+
+99
+00:05:12,819 --> 00:05:14,970
+um, um, um um, um suíte esteja
+
+100
+00:05:14,980 --> 00:05:18,290
+operando de maneira certa, né? Não conseguiu de
+
+101
+00:05:18,298 --> 00:05:21,928
+eh distribuir as redes, né? Eh virtuais as
+
+102
+00:05:21,939 --> 00:05:22,850
+lances virtuais.
+
+103
+00:05:22,858 --> 00:05:25,769
+Ainda mais que você tem ali uma empresa com várias
+
+104
+00:05:25,778 --> 00:05:26,410
+vãs.
+
+105
+00:05:26,420 --> 00:05:29,129
+Se a empresa tem várias vãs, tem que ser
+
+106
+00:05:29,139 --> 00:05:31,959
+muito bem configurado, né? E se você errar
+
+107
+00:05:31,970 --> 00:05:35,980
+nessa configuração aí de rota, cada máquina tá onde
+
+108
+00:05:35,988 --> 00:05:37,829
+na que é a máscara de rede que vai definir
+
+109
+00:05:37,838 --> 00:05:38,420
+isso.
+
+110
+00:05:38,428 --> 00:05:41,220
+Você deve lembrar da aula que nós vimos sobre isso.
+
+111
+00:05:41,230 --> 00:05:45,178
+Vai ter também problema sério, né? E temos
+
+112
+00:05:45,189 --> 00:05:49,250
+aqui na camada também de transporte! Olha lá camar
+
+113
+00:05:49,259 --> 00:05:50,290
+de transporte.
+
+114
+00:05:50,298 --> 00:05:52,488
+Cê já sabe né? Tem coisa aí tem a
+
+115
+00:05:52,500 --> 00:05:55,269
+ver com TC p i p TC p u d
+
+116
+00:05:55,278 --> 00:06:00,449
+p Perdão Serviço não habilitado iniciado automaticamente, ou seja,
+
+117
+00:06:00,459 --> 00:06:03,170
+tem a ver com a parte do transporte das portas
+
+118
+00:06:03,178 --> 00:06:06,329
+serviços alocados em portas não padronizadas.
+
+119
+00:06:06,338 --> 00:06:08,649
+Tá vendo, ou seja, nós não vimos a
+
+120
+00:06:08,660 --> 00:06:10,350
+padronização das portas.
+
+121
+00:06:10,358 --> 00:06:12,649
+Não vimos que h T t P opera na porta
+
+122
+00:06:12,660 --> 00:06:16,170
+oitenta h t PS o opera na porta quatrocentos e
+
+123
+00:06:16,178 --> 00:06:17,149
+quarenta e três.
+
+124
+00:06:17,629 --> 00:06:21,699
+Você aloca serviços e altera essas portas, por exemplo,
+
+125
+00:06:21,709 --> 00:06:24,738
+né? Você não mantém uma padronização dessas portas.
+
+126
+00:06:24,750 --> 00:06:28,798
+Porque como a gente viu as portas do cliente,
+
+127
+00:06:28,809 --> 00:06:32,319
+elas são aí aleatórias, né geradas pelo sistema operacional,
+
+128
+00:06:32,329 --> 00:06:36,358
+mas lá no servidor, elas são padronizadas? Alguém
+
+129
+00:06:36,369 --> 00:06:39,428
+tentou alterar isso nas configurações, por exemplo pode dar
+
+130
+00:06:39,439 --> 00:06:43,259
+pau, né? Portas! Configuradas erradamente no cliente.
+
+131
+00:06:44,338 --> 00:06:46,028
+Aí já erra do lado do cliente.
+
+132
+00:06:46,040 --> 00:06:48,790
+Às vezes ele coloca uma porta ali.
+
+133
+00:06:48,798 --> 00:06:50,689
+O sistema definiu uma porta, ele vai lá e
+
+134
+00:06:50,699 --> 00:06:52,730
+tenta mudar, né? W.
+
+135
+00:06:52,738 --> 00:06:55,528
+Bloqueando as portas do serviço, Aí acontece muito.
+
+136
+00:06:55,540 --> 00:06:57,970
+Nós até comentamos isso quando falamos de Fire W,
+
+137
+00:06:57,980 --> 00:07:00,428
+que é o seguinte o Fire W Cê pega um
+
+138
+00:07:00,439 --> 00:07:04,230
+farol do Windows Fire do Windows, já libera aqueles
+
+139
+00:07:04,238 --> 00:07:06,250
+serviços mais comuns? Então você tem lá o o
+
+140
+00:07:06,259 --> 00:07:09,988
+navegador ed Acessando Porta oitenta e porta quatrocentos e quarenta
+
+141
+00:07:10,000 --> 00:07:12,670
+e três Seu Fire W do Windows não vai se
+
+142
+00:07:12,678 --> 00:07:14,428
+importar com isso agora.
+
+143
+00:07:14,439 --> 00:07:17,869
+Você instala um software aí suspeito, sei lá um
+
+144
+00:07:17,879 --> 00:07:19,709
+software desconhecido.
+
+145
+00:07:19,720 --> 00:07:21,528
+Pode ser que você não consiga usar o software.
+
+146
+00:07:21,540 --> 00:07:26,588
+Por quê? Porque o W tá bloqueando a porta
+
+147
+00:07:26,600 --> 00:07:30,709
+ao qual esse software que você instalou está conectando com
+
+148
+00:07:30,720 --> 00:07:31,410
+o servidor.
+
+149
+00:07:31,709 --> 00:07:33,439
+Então isso é um problema de camada de transporte,
+
+150
+00:07:33,449 --> 00:07:36,000
+porque o farol ele age em duas camadas, né?
+
+151
+00:07:36,009 --> 00:07:40,079
+O farol tradicional camada três, camada quatro do modelo,
+
+152
+00:07:40,088 --> 00:07:41,759
+né? Eh, no caso que eu tô falando
+
+153
+00:07:41,769 --> 00:07:44,358
+do modelo onze perfeito, tem o farol de aplicação,
+
+154
+00:07:44,369 --> 00:07:46,819
+né? Que já age lá em cima tranquilo.
+
+155
+00:07:46,829 --> 00:07:49,809
+Então esse é um tipo aí de problema E temos
+
+156
+00:07:49,819 --> 00:07:52,088
+a aplicação também oh, Quais são os erros aí
+
+157
+00:07:52,100 --> 00:07:55,189
+da camada de aplicação? Seria serviço de nomes,
+
+158
+00:07:55,199 --> 00:07:58,209
+não está habilitado, né? Que que é isso
+
+159
+00:07:58,220 --> 00:08:01,769
+o descasamento de registros a i PT R? Ou
+
+160
+00:08:01,778 --> 00:08:06,540
+seja, o DNS ficou desabilitado, não consegue gerar
+
+161
+00:08:06,548 --> 00:08:08,250
+o software? Por mais que você também tenha um
+
+162
+00:08:08,259 --> 00:08:10,108
+erro d m s lá embaixo, que é com
+
+163
+00:08:10,119 --> 00:08:10,178
+o i.
+
+164
+00:08:10,189 --> 00:08:13,238
+P, aqui já pode ter o relação do um
+
+165
+00:08:13,250 --> 00:08:16,178
+nome, né? Do site do domínio do software
+
+166
+00:08:16,189 --> 00:08:18,069
+da aplicação Que cê tá pegando, né? O
+
+167
+00:08:18,079 --> 00:08:20,879
+inconsistência entre registro dos servidores tá vendo.
+
+168
+00:08:21,639 --> 00:08:23,608
+Temos d m s primários e secundários.
+
+169
+00:08:23,619 --> 00:08:27,509
+Oh lá o t t L t não está configurada
+
+170
+00:08:27,519 --> 00:08:30,129
+aquele tempo que a gente viu o d M S
+
+171
+00:08:30,139 --> 00:08:32,210
+oh o t t l eu descar registro s o
+
+172
+00:08:32,219 --> 00:08:33,928
+A com valores inadequados.
+
+173
+00:08:33,940 --> 00:08:37,479
+Então tá vendo aí já tá na parte de software
+
+174
+00:08:37,489 --> 00:08:38,389
+do DNS.
+
+175
+00:08:38,399 --> 00:08:40,649
+Tá? Não na parte do ipê, mas tá
+
+176
+00:08:40,658 --> 00:08:43,969
+vendo aí aí você tem o quê? Após nomes
+
+177
+00:08:43,979 --> 00:08:45,609
+qualificados em registro d m s oh, você tem
+
+178
+00:08:45,619 --> 00:08:49,029
+um filtro i p barrando tráfico d m ss,
+
+179
+00:08:49,798 --> 00:08:53,330
+Então se o filtro i p tá barrando o tráfego,
+
+180
+00:08:53,340 --> 00:08:55,928
+você não vai conseguir nem ter acessoàquele site que
+
+181
+00:08:55,940 --> 00:08:58,408
+você quer, né, Oh! Servidor de cor
+
+182
+00:08:58,418 --> 00:09:01,389
+eletrônico com repasse aberto.
+
+183
+00:09:01,989 --> 00:09:07,168
+Então você tá com o seu e-mail mal configurado ali.
+
+184
+00:09:07,178 --> 00:09:09,469
+Você pode, por exemplo, que seja uma mudança
+
+185
+00:09:09,479 --> 00:09:12,629
+de porta e E, mas aí já é gerando
+
+186
+00:09:12,639 --> 00:09:16,658
+no próprio software não vai funcionar, então você não
+
+187
+00:09:16,668 --> 00:09:21,000
+consegue estabelecer uma conexão com o servidor pra poder baixar
+
+188
+00:09:21,009 --> 00:09:21,509
+o e-mail.
+
+189
+00:09:21,519 --> 00:09:24,469
+Aí cê tem um problema aí de servidor com um
+
+190
+00:09:24,479 --> 00:09:28,129
+aberto, por exemplo? Tá então e já entra
+
+191
+00:09:28,139 --> 00:09:30,969
+lá na camada de cima a famosa camada de aplicação.
+
+192
+00:09:30,979 --> 00:09:33,859
+Então é isso é a gente pegar os erros.
+
+193
+00:09:33,869 --> 00:09:38,538
+Definir os erros dentro das camadas que nós aprendemos aí
+
+194
+00:09:38,548 --> 00:09:40,219
+que é C P i P e a camada do
+
+195
+00:09:40,229 --> 00:09:43,259
+modelo onze Tá bom? É isso, Um grande
+
+196
+00:09:43,269 --> 00:09:44,879
+abraço até a próxima
+

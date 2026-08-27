@@ -1,0 +1,964 @@
+1
+00:00:06,549 --> 00:00:07,500
+Olá! Eh.
+
+2
+00:00:07,509 --> 00:00:16,170
+Vimos agora na na interação anterior sobre medição.
+
+3
+00:00:16,179 --> 00:00:20,629
+Agora nós vamos falar sobre o gerenciamento de desempenho.
+
+4
+00:00:20,638 --> 00:00:22,708
+Eh de processos! Esse é o nosso assunto que
+
+5
+00:00:22,719 --> 00:00:23,750
+tem tudo a ver com medição.
+
+6
+00:00:23,760 --> 00:00:25,908
+Claro, né Tô falando de desempenho, transformação,
+
+7
+00:00:25,920 --> 00:00:26,519
+medição, método.
+
+8
+00:00:26,530 --> 00:00:28,769
+Que tudo isso aí tá interligado, tá legal,
+
+9
+00:00:28,780 --> 00:00:32,789
+então! Ah, quando eu falo de gere gerenciamento
+
+10
+00:00:32,798 --> 00:00:35,810
+e desempenho de processo eu tô falando de foco,
+
+11
+00:00:35,819 --> 00:00:41,139
+né? Foco dentro da minha organização, de forma
+
+12
+00:00:41,149 --> 00:00:42,899
+em que eu possa ter um foco.
+
+13
+00:00:42,908 --> 00:00:48,840
+Tanto interncional, né? Quanto intra.
+
+14
+00:00:48,848 --> 00:00:52,978
+Funcional, né? Então interncional está, eh eh,
+
+15
+00:00:52,990 --> 00:00:57,478
+eh Isso ocorre entre as funções ou departamento entre as
+
+16
+00:00:57,490 --> 00:01:01,240
+diferentes funções ou departamentos em uma organização, Isso é
+
+17
+00:01:01,250 --> 00:01:05,704
+interncional, intra funcional.
+
+18
+00:01:05,713 --> 00:01:10,043
+É dentro de um único departamento dentro de uma única
+
+19
+00:01:10,055 --> 00:01:12,984
+organização, né, eh em uma dentro de um
+
+20
+00:01:12,995 --> 00:01:16,444
+departamento ou função específica, Então então, quando a
+
+21
+00:01:16,454 --> 00:01:21,028
+gente olha o desempenho de um processo, eu posso
+
+22
+00:01:21,040 --> 00:01:23,838
+tanto olhar ele em eh olhando dentro de uma visão
+
+23
+00:01:23,849 --> 00:01:28,150
+holística tanto olhando todos os, eh as os os
+
+24
+00:01:28,159 --> 00:01:31,709
+meus diferentes departamentos e as minhas diferentes funções.
+
+25
+00:01:31,719 --> 00:01:35,028
+Como eu posso olhar pra uma função ou um departamento
+
+26
+00:01:35,040 --> 00:01:38,168
+específico? Então Inter entra? Okay.
+
+27
+00:01:38,739 --> 00:01:43,650
+Ah, dentro dessa perspectiva de ah gerenciamento de desempenho.
+
+28
+00:01:43,659 --> 00:01:45,430
+Eu vou olhar os elementos.
+
+29
+00:01:45,439 --> 00:01:48,870
+Eu tenho os elementos chaves do meu gerenciamento, de
+
+30
+00:01:48,879 --> 00:01:50,469
+modelo de eh, de modelagem de processo.
+
+31
+00:01:50,480 --> 00:01:52,948
+Quais sejam o fluxo, né? Então, eu,
+
+32
+00:01:52,959 --> 00:01:55,088
+os elementos pra isso é o gerenciamento.
+
+33
+00:01:56,370 --> 00:01:59,359
+Eh do fluxo de processo de fluxo de processo.
+
+34
+00:01:59,370 --> 00:02:03,299
+Ou seja, isso implica nesse do meu desempenho,
+
+35
+00:02:03,308 --> 00:02:06,099
+em que eu tô monitorando o andamento do meu trabalho.
+
+36
+00:02:06,109 --> 00:02:07,338
+Isso é gerenciamento de fluxo.
+
+37
+00:02:07,349 --> 00:02:10,139
+É o que é monitorar o andamento do trabalho,
+
+38
+00:02:10,149 --> 00:02:12,278
+identificando atrasos.
+
+39
+00:02:12,365 --> 00:02:15,194
+Realocando, realocando.
+
+40
+00:02:15,205 --> 00:02:18,574
+Eh recursos, caso necessário, então, isso é
+
+41
+00:02:18,585 --> 00:02:21,794
+desempenho de processo, Então eu vou olhar o o
+
+42
+00:02:21,804 --> 00:02:23,615
+pra fa, pra medir, Pra fazer esse gerenciamento
+
+43
+00:02:23,625 --> 00:02:25,735
+de processo, eu vou olhar o gerenciamento do fluxo.
+
+44
+00:02:25,743 --> 00:02:27,574
+Eu vou ver a resposta a eventos.
+
+45
+00:02:27,585 --> 00:02:30,354
+Ou seja, eu eu tenho que ser capaz,
+
+46
+00:02:30,365 --> 00:02:33,254
+né? De identificar em tempo real ou bem próximo
+
+47
+00:02:33,264 --> 00:02:39,028
+desse tempo real os eventos ou gargalos que ocorre dentro
+
+48
+00:02:39,038 --> 00:02:41,110
+do meu, do do meu processo, esses eventos
+
+49
+00:02:41,118 --> 00:02:43,439
+ou gar que geram gargalos, pra que eu possa
+
+50
+00:02:43,449 --> 00:02:46,990
+tratar eles? Isso é a Ah, eh por
+
+51
+00:02:47,000 --> 00:02:49,520
+isso eh isso Tem tudo a ver com a questão
+
+52
+00:02:49,528 --> 00:02:51,508
+do do desempenho, do meu processo, né?
+
+53
+00:02:51,520 --> 00:02:54,770
+Então eu vou buscar esse essa resposta a esses eventos
+
+54
+00:02:54,778 --> 00:02:57,429
+indevidos, de forma a eu tratar adequadamente.
+
+55
+00:02:57,439 --> 00:03:00,008
+Outra coisa é a medição da qualidade, ou seja,
+
+56
+00:03:00,020 --> 00:03:03,949
+envolve a a métrica, as coletas dos valores,
+
+57
+00:03:03,960 --> 00:03:06,500
+dos indicadores pra avaliar e o desempenho do meu processo.
+
+58
+00:03:06,508 --> 00:03:09,618
+Então, só vou avaliar o desempenho dentro de um
+
+59
+00:03:09,629 --> 00:03:11,520
+modelo de de um, de um, de um,
+
+60
+00:03:11,528 --> 00:03:14,899
+de processo de negócio, usando a qualidade, outra,
+
+61
+00:03:14,909 --> 00:03:17,639
+a definição de regras de negócio, ou seja,
+
+62
+00:03:17,649 --> 00:03:20,219
+como é que eu vou governar o meu trabalho?
+
+63
+00:03:20,229 --> 00:03:22,058
+Como é que essas regras vão? Vão governar o
+
+64
+00:03:22,069 --> 00:03:24,699
+meu trabalho, né? Quando eu vou ter que
+
+65
+00:03:24,710 --> 00:03:28,050
+ajustar e, por último, a implementação da melhoria
+
+66
+00:03:28,058 --> 00:03:28,409
+contínua.
+
+67
+00:03:28,419 --> 00:03:29,969
+Então, são elementos chaves.
+
+68
+00:03:29,979 --> 00:03:32,368
+Quando a gente tá falando de desempenho, de processo,
+
+69
+00:03:32,379 --> 00:03:34,729
+em gerenciamento de de de de de de processo,
+
+70
+00:03:34,740 --> 00:03:37,250
+de negócio, tá legal? Então eh, a
+
+71
+00:03:37,258 --> 00:03:40,088
+gente considera, ao gerenciar o processo, todos esses
+
+72
+00:03:40,099 --> 00:03:43,689
+essas perspectivas de elementos aqui que a gente acabou de
+
+73
+00:03:43,699 --> 00:03:48,729
+elencar tá bom pra gente, vamos dizer, eh
+
+74
+00:03:48,740 --> 00:03:51,288
+só edificar esse conhecimento.
+
+75
+00:03:51,300 --> 00:03:53,288
+Tem aqui uma frase que tá lá no e-book,
+
+76
+00:03:53,300 --> 00:03:54,330
+que é o nosso livro, né? Que a
+
+77
+00:03:54,338 --> 00:03:56,508
+gente tá, tem como base aí pra gerenciamento de
+
+78
+00:03:56,520 --> 00:03:57,929
+processos, que é que ele diz o seguinte Oh
+
+79
+00:03:57,939 --> 00:04:02,330
+Desempenho de processo é rendimento de um processo em termos
+
+80
+00:04:02,338 --> 00:04:05,490
+de extrapolações, de tempo, de curso, de
+
+81
+00:04:05,500 --> 00:04:07,639
+capacidade e qualidade.
+
+82
+00:04:07,649 --> 00:04:13,899
+Então quando a gente fala de desempenho, desempenho eu
+
+83
+00:04:13,909 --> 00:04:19,059
+tô falando em extrapolação, então o rendimento é quando
+
+84
+00:04:19,069 --> 00:04:19,899
+eu extrapola.
+
+85
+00:04:19,910 --> 00:04:21,899
+Eu eu tô eu tô medindo o meu desempenho pra
+
+86
+00:04:21,910 --> 00:04:23,059
+não extrapolar.
+
+87
+00:04:23,069 --> 00:04:25,939
+Pra eu garantir que o tempo, o custo,
+
+88
+00:04:25,949 --> 00:04:30,059
+a capacidade e a qualidade estão adequadas ao processo,
+
+89
+00:04:30,069 --> 00:04:33,660
+tal como o processo foi definido, foi desenhado e
+
+90
+00:04:33,670 --> 00:04:36,238
+é de e e o resultado que ele vai entregar.
+
+91
+00:04:36,250 --> 00:04:40,178
+Okay Então pra isso eu me eu meço pra isso.
+
+92
+00:04:40,189 --> 00:04:42,540
+Eu tenho que garantir o desempenho do meu processo pra
+
+93
+00:04:42,548 --> 00:04:45,480
+que eu não haja extrapolação.
+
+94
+00:04:45,819 --> 00:04:51,009
+Tá extrapolação no sentido de que eu possa eh exceder
+
+95
+00:04:51,019 --> 00:04:54,209
+o tempo eh ter mais custo do que o previsto.
+
+96
+00:04:54,220 --> 00:04:57,369
+Eh estourar a minha capacidade ou não ter a qualidade
+
+97
+00:04:57,379 --> 00:04:58,108
+adequada.
+
+98
+00:04:58,119 --> 00:05:01,488
+Então pressuposto de desenho de processo Isso é uma frase
+
+99
+00:05:01,500 --> 00:05:04,920
+eh espetacular, que re eh que transmite ou traduz
+
+100
+00:05:04,928 --> 00:05:07,588
+exatamente o que a gente eh essa perspectiva que a
+
+101
+00:05:07,600 --> 00:05:10,149
+gente tem ali e desejava em relação ao desempenho de
+
+102
+00:05:10,160 --> 00:05:13,160
+um processo tá como nós já vimos.
+
+103
+00:05:13,170 --> 00:05:17,040
+Gerenciamento de processo pressupõe esse foco de nível interncional e
+
+104
+00:05:17,048 --> 00:05:18,298
+intra funcional.
+
+105
+00:05:18,309 --> 00:05:20,980
+né? E os elementos chave em relação a esse
+
+106
+00:05:20,988 --> 00:05:23,420
+pra reforçar é justamente a questão do gerenciamento, do
+
+107
+00:05:23,428 --> 00:05:26,139
+fluxo, resposta do evento, medição de qualidade,
+
+108
+00:05:26,149 --> 00:05:28,238
+as regras e a melhoria contínua.
+
+109
+00:05:28,250 --> 00:05:31,269
+Vamos lá, bom, dentro do gerenciamento de desempenho
+
+110
+00:05:31,278 --> 00:05:34,165
+que mas que a gente tem que entender primeiro medida
+
+111
+00:05:34,173 --> 00:05:34,423
+vamos.
+
+112
+00:05:34,434 --> 00:05:35,884
+Vamos entender o que que é uma medida.
+
+113
+00:05:35,894 --> 00:05:39,095
+Medida é a quantificação de dados e um padrão de
+
+114
+00:05:39,105 --> 00:05:40,173
+qualidade aceitável.
+
+115
+00:05:40,184 --> 00:05:44,165
+Então você vai envolver exatidão, completude, envolve consistência
+
+116
+00:05:44,173 --> 00:05:45,144
+e temporalidade.
+
+117
+00:05:45,153 --> 00:05:47,444
+Então, medida Por que que eu tô falando de
+
+118
+00:05:47,454 --> 00:05:49,694
+medida aqui? Porque eu tenho que compreender o que
+
+119
+00:05:49,704 --> 00:05:50,785
+significa a medida.
+
+120
+00:05:51,259 --> 00:05:53,410
+Se eu tô falando de codificação de dados em um
+
+121
+00:05:53,420 --> 00:05:56,569
+padrão e qualidades aceitáveis, é aquilo que eu estou
+
+122
+00:05:56,579 --> 00:05:58,129
+aceitando, que eu entendo que é o que é
+
+123
+00:05:58,139 --> 00:06:00,470
+o que é o que é, que é o
+
+124
+00:06:00,480 --> 00:06:03,088
+o que a minha organização precisa.
+
+125
+00:06:03,100 --> 00:06:05,428
+Isso é uma medida, porque muitas das vezes a
+
+126
+00:06:05,439 --> 00:06:08,809
+gente se depara com medidas que não são aceitáveis,
+
+127
+00:06:09,189 --> 00:06:12,399
+que não tem uma exatidão bacana, que não tem
+
+128
+00:06:12,410 --> 00:06:15,238
+uma completude que envolvem abstrações.
+
+129
+00:06:15,250 --> 00:06:18,639
+Enfim, a medida precisa eh ter base em um
+
+130
+00:06:18,649 --> 00:06:21,639
+padrão de qualidade em que eu aceito, em que
+
+131
+00:06:21,649 --> 00:06:25,798
+a minha organização aceita entende, compreende é capaz de
+
+132
+00:06:25,809 --> 00:06:27,220
+aplicar okay.
+
+133
+00:06:27,230 --> 00:06:30,879
+Outra outro elemento importante é entender a métrica.
+
+134
+00:06:30,889 --> 00:06:35,009
+A métrica é uma extrapolação de medida, ou seja,
+
+135
+00:06:35,019 --> 00:06:39,009
+é uma conclusão com base de dados finito.
+
+136
+00:06:39,019 --> 00:06:40,730
+Isso é uma métrica.
+
+137
+00:06:40,738 --> 00:06:44,350
+Eu tenho é minha, eh, tem como base
+
+138
+00:06:44,358 --> 00:06:47,230
+um dado que ele é finito, porque senão eu
+
+139
+00:06:47,238 --> 00:06:51,809
+não consigo trabalhar tá? E por fim a gente
+
+140
+00:06:51,819 --> 00:06:54,209
+vai entender, né? Por fim, agora a
+
+141
+00:06:54,220 --> 00:06:57,209
+gente vai entender a perspectiva do indicador, né?
+
+142
+00:06:57,220 --> 00:07:01,428
+O indicador nada mais é do que uma representação simples,
+
+143
+00:07:01,439 --> 00:07:05,480
+um um intuitivo de uma métrica ou medida né que
+
+144
+00:07:05,488 --> 00:07:08,000
+eu po que facilita a minha interpretação e pode ser
+
+145
+00:07:08,009 --> 00:07:11,399
+comparada com uma referência, isso é um indicador,
+
+146
+00:07:11,410 --> 00:07:15,798
+né? Então eh o indicador de qualidade o indicador
+
+147
+00:07:15,809 --> 00:07:20,399
+de durabilidade, enfim, esse indicador me permite,
+
+148
+00:07:20,410 --> 00:07:23,939
+né? Eh facilitar a interpretação.
+
+149
+00:07:23,949 --> 00:07:26,720
+Quando eu olho para uma referência, ele me dá
+
+150
+00:07:26,730 --> 00:07:29,040
+uma base de referência, tá? Então são três!
+
+151
+00:07:29,048 --> 00:07:31,639
+Três palavrinhas, eh interessantes e importantes que a gente
+
+152
+00:07:31,649 --> 00:07:35,540
+precisa entender nessa perspectiva quando a gente fala de desempenho,
+
+153
+00:07:35,548 --> 00:07:38,319
+a medida, a métrica e o indicador.
+
+154
+00:07:38,329 --> 00:07:41,778
+Okay Bom O que mais que a gente precisa perceber
+
+155
+00:07:41,790 --> 00:07:44,639
+quando a gente vai trabalhar com gere gerenciamento de desempenho.
+
+156
+00:07:44,649 --> 00:07:48,139
+Algumas perspectivas em relação a as medições primeiro, né?
+
+157
+00:07:48,149 --> 00:07:50,059
+Quando você for fazer uma medição, cê tem tem
+
+158
+00:07:50,069 --> 00:07:53,040
+que saber assim qual o objetivo da medição.
+
+159
+00:07:53,048 --> 00:07:55,399
+Por que que eu tô querendo medir? Se não
+
+160
+00:07:55,410 --> 00:07:58,769
+tem o objetivo? Provavelmente não é importante, então
+
+161
+00:07:58,778 --> 00:08:01,809
+estabelecer um objetivo é por que que eu estou medindo,
+
+162
+00:08:02,689 --> 00:08:05,119
+né? O que que eu quero alcançar com isso?
+
+163
+00:08:05,129 --> 00:08:09,259
+Outro Qual o item que eu vou medir? O
+
+164
+00:08:09,269 --> 00:08:13,639
+que eu estou medindo? Tô medindo? Eh sei
+
+165
+00:08:13,649 --> 00:08:16,709
+lá desempenho! Tô medindo qualidade! Por que que
+
+166
+00:08:16,720 --> 00:08:19,149
+eu tô Que item eu tô medindo, né tô
+
+167
+00:08:19,160 --> 00:08:22,350
+medindo o processo x o B! Quais parâmetros de
+
+168
+00:08:22,358 --> 00:08:25,569
+comparação? Se você não tem parâmetro de comparação,
+
+169
+00:08:26,209 --> 00:08:28,100
+a sua medida não vai? Tá legal porque você
+
+170
+00:08:28,108 --> 00:08:28,298
+vai.
+
+171
+00:08:28,309 --> 00:08:29,540
+Você não vai saber se é bom ou se é
+
+172
+00:08:29,548 --> 00:08:29,899
+ruim.
+
+173
+00:08:29,910 --> 00:08:34,719
+Então o parâmetro de comparação estabelece essa perspectiva de opa
+
+174
+00:08:34,729 --> 00:08:36,840
+pera, aí eu sei eu eu eu estou me
+
+175
+00:08:36,849 --> 00:08:40,519
+comparando assim esse esse processo A com o processo,
+
+176
+00:08:40,529 --> 00:08:43,320
+B ou aqui, Sei lá o desempenho a com
+
+177
+00:08:43,330 --> 00:08:45,889
+o desempenho B, né? Então é um parâmetro
+
+178
+00:08:45,899 --> 00:08:46,619
+de comparação.
+
+179
+00:08:46,629 --> 00:08:49,149
+Eu preciso ter esse parâmetro pra poder eh dar o
+
+180
+00:08:49,158 --> 00:08:50,658
+norte dessa comparação.
+
+181
+00:08:50,668 --> 00:08:55,869
+Onde medir onde eu tô medindo, o que eu
+
+182
+00:08:55,879 --> 00:09:01,719
+estou medindo, como eu vou medir e quem é
+
+183
+00:09:01,729 --> 00:09:03,840
+o responsável pela medição.
+
+184
+00:09:03,849 --> 00:09:07,320
+Então, quando você for trabalhar uma lista as medições,
+
+185
+00:09:07,330 --> 00:09:12,359
+crie BA ou use essa lista pra identificar muito bem
+
+186
+00:09:12,369 --> 00:09:14,678
+todos os parâmetros que você vai considerar nessa medição.
+
+187
+00:09:14,690 --> 00:09:19,349
+Tá legal que mais eh essa me a medição pra
+
+188
+00:09:19,359 --> 00:09:23,308
+gente essa capacidade de medir e interpretar o desempenho de
+
+189
+00:09:23,320 --> 00:09:24,229
+processo.
+
+190
+00:09:24,239 --> 00:09:26,889
+E aí eu vou olhar já falando sobre isso dentro
+
+191
+00:09:26,899 --> 00:09:29,879
+das das dimensões de tempo, da emissão de custo
+
+192
+00:09:29,889 --> 00:09:34,450
+da dimensão, capacidade da diminuição, qualidade cujo objetivo
+
+193
+00:09:34,460 --> 00:09:40,019
+é garantir isto aqui pra que ocorra de forma adequada
+
+194
+00:09:40,029 --> 00:09:42,440
+pra que o meu processo responda ao resultado, pra
+
+195
+00:09:42,450 --> 00:09:45,879
+qual ele foi constituído, né! Otimização de tempo,
+
+196
+00:09:45,889 --> 00:09:49,960
+redução de custo, aumento da capacidade eh qualidade e
+
+197
+00:09:49,969 --> 00:09:51,038
+assim por diante.
+
+198
+00:09:51,048 --> 00:09:54,460
+Tá além disso, né? Eh eh, aliás,
+
+199
+00:09:54,469 --> 00:09:56,399
+detalhando isso a gente tá falando oh, o tempo
+
+200
+00:09:56,408 --> 00:09:59,719
+é associadoà duração do processo, é o início
+
+201
+00:09:59,729 --> 00:10:02,119
+até o término do processo! Isso é o tempo.
+
+202
+00:10:02,129 --> 00:10:04,178
+A gente olha o tempo quando a gente estiver trabalhando.
+
+203
+00:10:04,190 --> 00:10:11,808
+O custo é justamente o quanto envolve financeiramente monetariamente.
+
+204
+00:10:11,820 --> 00:10:15,090
+Esse processo pode ser venda, pode ser produção,
+
+205
+00:10:15,099 --> 00:10:17,989
+pode ser logística, mão de obra, Eu preciso
+
+206
+00:10:18,000 --> 00:10:20,288
+conhecer isso até pra ter pra pra ter um parâmetro
+
+207
+00:10:20,298 --> 00:10:22,070
+se o meu custo tá alto ou se tá baixo
+
+208
+00:10:22,489 --> 00:10:24,399
+eh também a capacidade.
+
+209
+00:10:24,408 --> 00:10:26,700
+Ou seja, eh, eu tenho capa.
+
+210
+00:10:26,710 --> 00:10:30,219
+Eh quanto que eu tô entregando a carga mínima que
+
+211
+00:10:30,229 --> 00:10:33,099
+eu tenho de viável pra processamento a máxima que eu
+
+212
+00:10:33,109 --> 00:10:36,599
+consigo entregar, quanto eh número de transações por cada
+
+213
+00:10:36,609 --> 00:10:39,500
+item, então a capacidade de entrega daquilo e a
+
+214
+00:10:39,509 --> 00:10:42,529
+qualidade, e aquilo que eu percebo em relaçãoàquilo
+
+215
+00:10:42,538 --> 00:10:44,739
+que eu tô entregando, né? Então olha,
+
+216
+00:10:44,750 --> 00:10:48,259
+só eh a relação entre o que tá ruim e
+
+217
+00:10:48,269 --> 00:10:50,178
+o que é ótimo, isso é a qualidade.
+
+218
+00:10:50,190 --> 00:10:54,389
+E aí você pode estabelecer variáveis acerca da questão da
+
+219
+00:10:54,399 --> 00:10:58,080
+qualidade, né? Então, essas perspectivas de tempo,
+
+220
+00:10:58,090 --> 00:11:01,479
+custo, capacidade de qualidade, você usa pra poder
+
+221
+00:11:01,489 --> 00:11:05,369
+trabalhar, eh o seu resultado institucional quantoà gestão
+
+222
+00:11:05,379 --> 00:11:08,989
+de processo quanto ao desempenho do seu processo, tá?
+
+223
+00:11:09,590 --> 00:11:12,239
+E por fim, alguns exemplos de indicadores que nós
+
+224
+00:11:12,250 --> 00:11:14,820
+temos são os direciona, por exemplo, um um
+
+225
+00:11:14,830 --> 00:11:18,359
+exemplo de indicador que funciona como direcionador comissionado os agentes
+
+226
+00:11:18,369 --> 00:11:19,779
+pela quantidade de vendas.
+
+227
+00:11:19,788 --> 00:11:22,879
+Então, baseado na quantidade de vendas Eu vou comissionado
+
+228
+00:11:22,889 --> 00:11:25,700
+meu a meu agente, ele direciona pra um determinado
+
+229
+00:11:25,710 --> 00:11:26,759
+resultado.
+
+230
+00:11:26,769 --> 00:11:29,279
+Então eu digo o quanto o cara é a quantidade
+
+231
+00:11:29,288 --> 00:11:30,940
+de vendas que ele tem que vender pra ele ganhar
+
+232
+00:11:30,950 --> 00:11:34,190
+tanto resultado, por exemplo, é um indicador voltado
+
+233
+00:11:34,200 --> 00:11:36,950
+pra quantidade de vendas no mês, né? Quanto
+
+234
+00:11:36,960 --> 00:11:39,469
+que eu vendi por mês, então eu posso ter
+
+235
+00:11:39,479 --> 00:11:43,629
+indicadores, direciona ou indicadores de resultados? Qual é
+
+236
+00:11:43,639 --> 00:11:47,190
+o foco de desses do da implementação dos indicadores?
+
+237
+00:11:47,200 --> 00:11:49,950
+E trabalhar com essas perspectivas todas é fazer com que
+
+238
+00:11:49,960 --> 00:11:53,629
+o meu processo tenha um desempenho adequado pra qual ele
+
+239
+00:11:53,639 --> 00:11:56,048
+foi constituído Okay? Muito.
+
+240
+00:11:56,058 --> 00:11:56,529
+Obrigado.
+
+241
+00:11:56,538 --> 00:11:57,288
+Até a próxima!
+

@@ -1,0 +1,772 @@
+1
+00:00:06,570 --> 00:00:11,118
+Olá, vamos continuar o nosso processo de entendimento do
+
+2
+00:00:11,130 --> 00:00:12,939
+processo Gestão de processos.
+
+3
+00:00:12,948 --> 00:00:15,939
+Hoje nós vamos falar sobre tipos e visões de processos,
+
+4
+00:00:15,948 --> 00:00:21,760
+as algumas definições iniciais acerca deste assunto.
+
+5
+00:00:21,769 --> 00:00:26,298
+Okay Bom D PM já entendemos né? Que é
+
+6
+00:00:26,309 --> 00:00:31,399
+uma disciplina e eh em complemento a o que nós
+
+7
+00:00:31,408 --> 00:00:33,380
+já entendemos como disciplina.
+
+8
+00:00:33,389 --> 00:00:36,539
+Eh A gente também tem que essa percepção de que
+
+9
+00:00:36,548 --> 00:00:40,020
+é uma visualização das operações de negócio além da estrutura
+
+10
+00:00:40,029 --> 00:00:41,020
+formal.
+
+11
+00:00:41,029 --> 00:00:43,340
+O que quer dizer isso? Quer dizer que se
+
+12
+00:00:43,348 --> 00:00:45,908
+você olhar para uma organização, ela tem uma estrutura
+
+13
+00:00:45,918 --> 00:00:47,329
+formalizada.
+
+14
+00:00:47,340 --> 00:00:48,709
+Você vai ver isso por meio, por exemplo,
+
+15
+00:00:48,719 --> 00:00:53,189
+de um organograma, você tem lá a presidente,
+
+16
+00:00:53,200 --> 00:00:56,990
+diretoria financeira, diretoria de recursos humanos, diretoria de
+
+17
+00:00:57,000 --> 00:00:57,868
+tecnologia.
+
+18
+00:00:57,880 --> 00:01:02,319
+Isso é uma estrutura formal da organização Okay E o
+
+19
+00:01:02,329 --> 00:01:04,558
+que que o b PM me pressupõe que eu possa
+
+20
+00:01:04,569 --> 00:01:08,558
+ver a operação? Além dessa estrutura formal? O
+
+21
+00:01:08,569 --> 00:01:11,599
+que é a operação é o que esse financeiro executa.
+
+22
+00:01:11,609 --> 00:01:15,638
+É o que essa tecnologia executa de de de software.
+
+23
+00:01:15,650 --> 00:01:19,719
+Análise de requisitos EH, eh, folha de pagamento.
+
+24
+00:01:19,730 --> 00:01:22,719
+Então, este é são as operações, né?
+
+25
+00:01:22,730 --> 00:01:28,010
+Operações de negócio que vão além dessa formalização? Eh
+
+26
+00:01:28,019 --> 00:01:30,269
+definida por meio dessa estrutura.
+
+27
+00:01:30,278 --> 00:01:33,849
+Okay Qual é a finalidade entregar valor por meio de
+
+28
+00:01:33,859 --> 00:01:36,790
+produto e serviço, Mais uma vez a palavrinha entregar
+
+29
+00:01:36,799 --> 00:01:40,230
+valor Tá aí entregar valor por meio de produto e
+
+30
+00:01:40,239 --> 00:01:43,558
+serviço O que que eu tô entregando? O que
+
+31
+00:01:43,569 --> 00:01:46,918
+que eu tô ofertando e tem que entregar valor?
+
+32
+00:01:46,930 --> 00:01:49,879
+Não é você? Fa não é fazer por fazer,
+
+33
+00:01:49,888 --> 00:01:53,338
+né? É fazer por fazer fazendo a diferença.
+
+34
+00:01:53,349 --> 00:01:56,900
+Tem que ter essa percepção para o meu cliente.
+
+35
+00:01:56,909 --> 00:02:00,019
+Okay, então fazer a diferença é o agregar valor,
+
+36
+00:02:00,028 --> 00:02:04,558
+né? E entender o que deve ser realizado,
+
+37
+00:02:04,569 --> 00:02:07,480
+o que? Que eu tenho que fazer, como
+
+38
+00:02:07,489 --> 00:02:11,199
+deve ser realizado? Como isso é feito e quem
+
+39
+00:02:11,210 --> 00:02:14,929
+é o responsável? É importante a gente determinar essas
+
+40
+00:02:14,939 --> 00:02:15,588
+perspectivas.
+
+41
+00:02:15,599 --> 00:02:17,949
+Eh dentro dum dum, de uma gestão de processo,
+
+42
+00:02:17,960 --> 00:02:20,528
+né? Inicialmente entender eh o que que eu vou
+
+43
+00:02:20,538 --> 00:02:22,288
+fazer, né? O que que eu tenho Que
+
+44
+00:02:22,300 --> 00:02:24,729
+que eu tenho que entregar, como é que eu
+
+45
+00:02:24,740 --> 00:02:27,288
+vou entregar? Quem é que vai entregar, né?
+
+46
+00:02:27,300 --> 00:02:33,550
+A gente também traduzir é São perguntas iniciais que,
+
+47
+00:02:33,558 --> 00:02:37,710
+ah, são importantes de serem feitas, né porque
+
+48
+00:02:37,719 --> 00:02:41,149
+elas não nos dão a percepção acerca daquilo que a
+
+49
+00:02:41,159 --> 00:02:44,990
+gente tá, Eh, eh vislumbrando por meio daquele
+
+50
+00:02:45,000 --> 00:02:48,429
+processo certo, Então? Ah, quando a gente
+
+51
+00:02:48,439 --> 00:02:52,788
+olha, eh dentro de uma perspectiva institucional, né?
+
+52
+00:02:52,800 --> 00:02:54,909
+A gente tem que saber que o que a gente
+
+53
+00:02:54,919 --> 00:02:56,889
+tá fazendo, o que a gente tá fazendo,
+
+54
+00:02:56,899 --> 00:02:59,689
+como a gente tá fazendo, Tá bom? Então
+
+55
+00:02:59,699 --> 00:03:03,330
+perguntas que a gente leva pra dentro dessa gestão eh
+
+56
+00:03:03,338 --> 00:03:07,830
+de processo, né? Eh A também eh a
+
+57
+00:03:07,838 --> 00:03:09,770
+questão da da definição em si.
+
+58
+00:03:09,778 --> 00:03:12,349
+O que que é essa definição? São todos os
+
+59
+00:03:12,360 --> 00:03:16,429
+recursos e atividades que vão transformar as entradas em saídas.
+
+60
+00:03:16,439 --> 00:03:21,099
+Então, tudo aquilo que eu preciso pra transformar aquilo
+
+61
+00:03:21,110 --> 00:03:24,588
+que entrou em uma saída, né? Eh,
+
+62
+00:03:24,599 --> 00:03:28,990
+eu, considero um pressuposto dentro da minha gestão de
+
+63
+00:03:29,000 --> 00:03:32,729
+processo tá legal! E aí vem um parêntese aqui,
+
+64
+00:03:32,740 --> 00:03:34,528
+um parêntese pra chamar atenção.
+
+65
+00:03:35,610 --> 00:03:39,778
+Se o processo não tem saída, ele não é
+
+66
+00:03:39,788 --> 00:03:44,860
+processo, tá? Então processo pressupõe entrada Com base
+
+67
+00:03:44,868 --> 00:03:51,099
+num conjunto de recursos, ele vai ser transformado okay
+
+68
+00:03:51,110 --> 00:03:55,419
+e vai gerar uma saída pronto! Isso é processo,
+
+69
+00:03:55,429 --> 00:03:59,969
+Tá legal? Tá bom! Além do processo,
+
+70
+00:03:59,979 --> 00:04:03,610
+é qual é a importância do processo em si?
+
+71
+00:04:03,618 --> 00:04:04,429
+A gente já viu.
+
+72
+00:04:04,439 --> 00:04:06,949
+Já falei algumas vezes também, mas volto a repetir
+
+73
+00:04:06,960 --> 00:04:11,909
+e reforçar é aproximar diretrizes estratégicas de execução.
+
+74
+00:04:11,919 --> 00:04:15,508
+O que que eu defini na estratégia lá, até
+
+75
+00:04:15,520 --> 00:04:16,608
+o que tá sendo executado.
+
+76
+00:04:17,298 --> 00:04:22,319
+Isso é a importância pra pra questão da gestão.
+
+77
+00:04:22,329 --> 00:04:26,678
+Mais uma vez se a A O meu desejo é
+
+78
+00:04:26,689 --> 00:04:28,559
+que a saída agregue valor.
+
+79
+00:04:28,569 --> 00:04:33,879
+A minha estratégia deve entregar esse valor por meio da
+
+80
+00:04:33,889 --> 00:04:36,959
+execução e da consecução dos objetivos.
+
+81
+00:04:36,970 --> 00:04:42,079
+Institucionais, né? E como conceito chave, nós
+
+82
+00:04:42,088 --> 00:04:47,139
+temos todos os envolvidos, né, Que devem pensar
+
+83
+00:04:47,149 --> 00:04:48,980
+no processo como um todo.
+
+84
+00:04:49,608 --> 00:04:54,278
+Um processo não como tarefas individuais, um processo sem
+
+85
+00:04:54,290 --> 00:04:57,220
+ser enxergado de forma holística, ou seja, por
+
+86
+00:04:57,230 --> 00:04:58,639
+toda a organização.
+
+87
+00:04:59,358 --> 00:05:02,809
+Ele não começa e termina em mim.
+
+88
+00:05:02,819 --> 00:05:07,970
+Ele transcende aquilo que eu entrego, ele vai adiante,
+
+89
+00:05:07,980 --> 00:05:10,480
+né? E se você pegar uma perspectiva de agregar
+
+90
+00:05:10,488 --> 00:05:13,709
+valor ao cliente, eh o nosso pensamento eh no
+
+91
+00:05:13,720 --> 00:05:15,649
+no futuro Era assim.
+
+92
+00:05:15,660 --> 00:05:19,470
+Entreguei o produto, Acabou a minha responsabilidade, Não?
+
+93
+00:05:19,480 --> 00:05:21,670
+Ah, não, mas tem a garantia do produto.
+
+94
+00:05:21,678 --> 00:05:25,369
+Acabou a minha responsabilidade, não a sua responsabilidade,
+
+95
+00:05:25,379 --> 00:05:29,129
+ela continua depois que o cliente saiu da loja.
+
+96
+00:05:29,139 --> 00:05:31,209
+Na verdade, a que a gente fala de experiência
+
+97
+00:05:31,220 --> 00:05:34,088
+do cliente, ele começa antes de entrar na loja
+
+98
+00:05:34,100 --> 00:05:35,088
+pra comprar um produto.
+
+99
+00:05:35,100 --> 00:05:38,480
+O que que faz a pessoa pensar naquele produto ou
+
+100
+00:05:38,488 --> 00:05:41,959
+naquele serviço? Faz pensar em você, faz pensar
+
+101
+00:05:41,970 --> 00:05:43,079
+na sua organização.
+
+102
+00:05:43,088 --> 00:05:46,899
+Aí ele tem uma experiência, ele compra isso vai
+
+103
+00:05:46,910 --> 00:05:50,149
+depois é a é a satisfação depois que ele vai
+
+104
+00:05:50,160 --> 00:05:51,459
+te naquele produto ou serviço.
+
+105
+00:05:52,278 --> 00:05:54,009
+Okay? Então vamos lá.
+
+106
+00:05:54,019 --> 00:05:56,569
+Não é muito melhor a gente pensar que eu comprei
+
+107
+00:05:56,579 --> 00:05:59,730
+um bem, que ele tem garantia, mas que
+
+108
+00:05:59,738 --> 00:06:01,850
+eu não vou usar a garantia porque ele não vai
+
+109
+00:06:01,858 --> 00:06:06,129
+apresentar nenhum tipo de intercorrência que eu precise executar a
+
+110
+00:06:06,139 --> 00:06:09,369
+garantia, porque garantia é o próprio dizer Tá garan
+
+111
+00:06:09,379 --> 00:06:11,189
+é uma garantia, mas eu não quero usar a
+
+112
+00:06:11,199 --> 00:06:11,790
+garantia.
+
+113
+00:06:12,470 --> 00:06:14,879
+Eu quero ter satisfação total com aquele C, com
+
+114
+00:06:14,889 --> 00:06:16,899
+aquele produto ou serviço.
+
+115
+00:06:16,910 --> 00:06:19,720
+E eu quero que aquilo que agregou o valor eu
+
+116
+00:06:19,730 --> 00:06:22,358
+não quero usar a garantia porque é uma, Não
+
+117
+00:06:22,369 --> 00:06:24,079
+é uma experiência legal, você compra um produto,
+
+118
+00:06:24,088 --> 00:06:25,720
+ele quebrou, você vai usar a garantia.
+
+119
+00:06:25,730 --> 00:06:27,920
+Então, a experiência já não foi bacana, porque
+
+120
+00:06:27,928 --> 00:06:30,470
+ele quebrou, né? Mas a garantia te dá
+
+121
+00:06:30,480 --> 00:06:33,209
+uma segurança tão entendendo a percepção desse aí.
+
+122
+00:06:33,220 --> 00:06:36,709
+Ou seja, eu eu penso como um todo desde
+
+123
+00:06:36,720 --> 00:06:40,269
+a concepção inicial até lá adiante.
+
+124
+00:06:40,278 --> 00:06:45,170
+Tá? Então são perspectivas chaves acerca dessa desse desse
+
+125
+00:06:45,178 --> 00:06:47,230
+entendimento de processo.
+
+126
+00:06:47,238 --> 00:06:49,329
+Tá, e aqui a gente vê um, uma,
+
+127
+00:06:49,338 --> 00:06:51,548
+um, um um, uma estrutura em que fala
+
+128
+00:06:51,559 --> 00:06:54,988
+assim, oh processo orquestrando atividades, olha que bacana
+
+129
+00:06:55,000 --> 00:06:59,528
+né? Então você tem duas visões a visão lógica
+
+130
+00:06:59,540 --> 00:07:00,850
+e a visão física.
+
+131
+00:07:00,858 --> 00:07:04,009
+A visão lógica é aquela que tá baseada no processo
+
+132
+00:07:04,019 --> 00:07:06,220
+de negócio, ou seja, é o processo de
+
+133
+00:07:06,230 --> 00:07:07,209
+negócio primário.
+
+134
+00:07:07,220 --> 00:07:10,850
+Tá aqui oh processo de negócio primário, suporte de
+
+135
+00:07:10,858 --> 00:07:11,608
+gerenciamento.
+
+136
+00:07:11,619 --> 00:07:14,379
+Esse é o processo de negócio, representa o primário,
+
+137
+00:07:14,389 --> 00:07:17,319
+ou seja, aquilo que é o o que você
+
+138
+00:07:17,329 --> 00:07:19,678
+tem que entregar, né? É o que o
+
+139
+00:07:19,689 --> 00:07:22,579
+que nasceu pra ser feito o subprocessos é a,
+
+140
+00:07:22,588 --> 00:07:25,160
+é a decomposição desse processo.
+
+141
+00:07:25,170 --> 00:07:28,139
+Ou seja, eu vou decompor esse processo em partes
+
+142
+00:07:28,149 --> 00:07:32,009
+menores que são subprocessos, Tá? Então, por
+
+143
+00:07:32,019 --> 00:07:33,449
+exemplo, se eu tenho um processo de folha de
+
+144
+00:07:33,459 --> 00:07:37,019
+pagamento, o subprocessos seria, por exemplo eh pro
+
+145
+00:07:37,028 --> 00:07:40,069
+eh, seria, por exemplo, processar a a
+
+146
+00:07:40,079 --> 00:07:42,088
+a folha de ponto.
+
+147
+00:07:42,100 --> 00:07:45,290
+Então se o cara trabalhou os trinta dias, ele
+
+148
+00:07:45,298 --> 00:07:48,970
+tem direito a perceber o a integralidade do salário dele.
+
+149
+00:07:48,980 --> 00:07:52,069
+Se ele não trabalhou os trinta dias, ele vai
+
+150
+00:07:52,079 --> 00:07:52,910
+ter desconto.
+
+151
+00:07:52,920 --> 00:07:57,059
+Então esse subprocessos de desconto, sei lá auxílio creche,
+
+152
+00:07:57,069 --> 00:07:59,350
+ticket alimentação, tícket.
+
+153
+00:07:59,358 --> 00:08:03,629
+Ah, de eh condução, né? E isso
+
+154
+00:08:03,639 --> 00:08:05,869
+tudo faz parte de um subprocessos, de um processo
+
+155
+00:08:05,879 --> 00:08:06,649
+de negócio.
+
+156
+00:08:07,019 --> 00:08:09,269
+Aí a gente tem a função de negócio, que
+
+157
+00:08:09,278 --> 00:08:13,709
+são as atividades e competências especializadas em relação a isso,
+
+158
+00:08:13,720 --> 00:08:15,389
+néÀquele processo.
+
+159
+00:08:15,399 --> 00:08:18,420
+E aí já é visão física, A atividade é
+
+160
+00:08:18,428 --> 00:08:21,980
+o que ele vai entregar com parte daquele produto.
+
+161
+00:08:21,988 --> 00:08:23,660
+Então eu vou entregar o desconto.
+
+162
+00:08:23,670 --> 00:08:25,798
+Vou entregar o ticket, né.
+
+163
+00:08:25,809 --> 00:08:31,399
+A tarefa é quando eu pego esse oh atividade a
+
+164
+00:08:31,410 --> 00:08:35,519
+Folha O conjunto de tarefas pra entregar essa parte.
+
+165
+00:08:35,529 --> 00:08:38,379
+Aí eu vou decompor isso num conjunto de passos pra
+
+166
+00:08:38,389 --> 00:08:42,249
+realizar o trabalho, considerando um determinado cenário.
+
+167
+00:08:42,258 --> 00:08:44,947
+E aí eu tenho um cenário que é a execução
+
+168
+00:08:44,957 --> 00:08:47,388
+e aqui eu tenho um passo né? Então,
+
+169
+00:08:47,398 --> 00:08:49,408
+passo a passo, então eu vou.
+
+170
+00:08:49,418 --> 00:08:52,619
+Se você olhar daqui pra cá, né, você
+
+171
+00:08:52,629 --> 00:08:55,710
+vai olhar que começa esse passo vai virar um cenário.
+
+172
+00:08:55,719 --> 00:08:57,308
+O cenário é composto por tarefa.
+
+173
+00:08:57,320 --> 00:08:58,750
+A tarefa tá dentro de uma atividade.
+
+174
+00:08:58,759 --> 00:09:01,229
+A atividade faz parte de uma função de negócio.
+
+175
+00:09:01,239 --> 00:09:04,500
+Isso, numa função física, falando da da execução
+
+176
+00:09:04,509 --> 00:09:07,529
+propriamente dita, na questão da lógica do processo é
+
+177
+00:09:07,538 --> 00:09:10,590
+ter um subprocessos e o processo de negócio que nada
+
+178
+00:09:10,599 --> 00:09:12,788
+mais é do que o processo de negócio é esse
+
+179
+00:09:12,798 --> 00:09:16,090
+negócio definido, né? Esse processo definido descrito é
+
+180
+00:09:16,099 --> 00:09:22,609
+delimitado com as suas respectivas eh interações e integrações.
+
+181
+00:09:22,619 --> 00:09:26,450
+E aí ele vai se decompondo, eh fisicamente em
+
+182
+00:09:26,460 --> 00:09:30,649
+níveis mais eh mais baixos assim, né? E
+
+183
+00:09:30,658 --> 00:09:33,269
+o objetivo, é claro, É entregar isso tudo
+
+184
+00:09:33,279 --> 00:09:37,048
+funcionando, né? Então, esse pro essa questão
+
+185
+00:09:37,058 --> 00:09:41,849
+de processo orquestrando atividade é por quê? Porque a
+
+186
+00:09:41,859 --> 00:09:45,750
+atividade é o passo lá embaixo que eu tenho,
+
+187
+00:09:46,519 --> 00:09:49,489
+né? É o vamos dizer assim seria o grãozinho
+
+188
+00:09:49,500 --> 00:09:51,690
+que eu tenho, que vai o tijolinho que vai
+
+189
+00:09:51,700 --> 00:09:53,250
+juntando com o outro que vai juntando com o outro.
+
+190
+00:09:53,259 --> 00:09:54,690
+E aí eu tenho uma parede inteira que é o
+
+191
+00:09:54,700 --> 00:09:58,009
+processo como um todo, Okay Então, esse são
+
+192
+00:09:58,019 --> 00:09:59,250
+as definições iniciais.
+
+193
+00:09:59,259 --> 00:10:00,989
+Muito obrigado até a próxima!
+

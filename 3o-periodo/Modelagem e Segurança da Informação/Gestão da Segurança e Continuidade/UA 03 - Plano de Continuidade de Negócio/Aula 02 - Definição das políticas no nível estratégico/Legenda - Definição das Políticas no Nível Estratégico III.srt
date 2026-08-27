@@ -1,0 +1,740 @@
+1
+00:00:06,038 --> 00:00:07,988
+Olá, pessoal, tudo bom, sejam bem vindos
+
+2
+00:00:08,000 --> 00:00:11,489
+continuando nossa matéria de gestão de se de segurança e
+
+3
+00:00:11,500 --> 00:00:14,108
+de continuidade! Onde a gente tá falando da política,
+
+4
+00:00:14,118 --> 00:00:16,170
+né? Do PC I, que é o política
+
+5
+00:00:16,179 --> 00:00:18,039
+de segurança da informação, e agora a gente vai
+
+6
+00:00:18,048 --> 00:00:22,170
+falar sobre papéis e responsabilidades dessa nossa política de segurança,
+
+7
+00:00:22,179 --> 00:00:22,789
+da informação.
+
+8
+00:00:22,798 --> 00:00:26,199
+Vamos lá! A gestão eficaz da segurança da informação
+
+9
+00:00:26,208 --> 00:00:29,949
+requer uma clara definição de papéis e responsabilidade.
+
+10
+00:00:29,958 --> 00:00:31,690
+Isso é pra qualquer tipo de organização, né,
+
+11
+00:00:31,699 --> 00:00:35,399
+gente? No nível estratégico, a alta administração desempenha
+
+12
+00:00:35,408 --> 00:00:40,728
+um papel fundamental na formulação, aprovação e implementação da
+
+13
+00:00:40,740 --> 00:00:41,509
+política de segurança.
+
+14
+00:00:41,520 --> 00:00:44,450
+Nós precisamos que a alta direção esteja envolvida, porque
+
+15
+00:00:44,459 --> 00:00:49,668
+sem a alta direção patrocinando, não teremos Não.
+
+16
+00:00:49,679 --> 00:00:50,700
+Teremos que a não.
+
+17
+00:00:50,709 --> 00:00:53,569
+Teremos que todos os colaboradores de todos os níveis estratégicos,
+
+18
+00:00:53,579 --> 00:00:57,490
+táticos, operacionais, estejam envolvidos na execução da política
+
+19
+00:00:57,500 --> 00:00:58,368
+de segurança da informação.
+
+20
+00:00:58,380 --> 00:01:01,168
+Se a alta direção mesmo não está envolvida, precisamos
+
+21
+00:01:01,179 --> 00:01:03,548
+ter esse comprometimento da aula de direção.
+
+22
+00:01:03,560 --> 00:01:07,448
+Vamos elaborar, vamos explorar em detalhes os papéis e
+
+23
+00:01:07,459 --> 00:01:11,888
+responsabilidades das lideranças em gestão da segurança da informação.
+
+24
+00:01:11,900 --> 00:01:14,469
+E como o envolvimento da direção é essencial para o
+
+25
+00:01:14,480 --> 00:01:17,448
+sucesso da política e da segurança, vamos lá papéis
+
+26
+00:01:17,459 --> 00:01:19,689
+estratégicos, então a gente tem lá o papel do
+
+27
+00:01:19,698 --> 00:01:21,290
+siso que que é o siso, né? Que
+
+28
+00:01:21,299 --> 00:01:23,448
+que nome é esse? Não é siso? É
+
+29
+00:01:23,459 --> 00:01:27,209
+diretor de segurança da informação, é o líder da
+
+30
+00:01:27,219 --> 00:01:29,500
+segurança, da informação, da organização.
+
+31
+00:01:29,510 --> 00:01:33,849
+Suas responsabilidades incluem a definição da estratégia de segurança,
+
+32
+00:01:33,859 --> 00:01:37,375
+a supervisão da implementação de medidas de segurança e a
+
+33
+00:01:37,385 --> 00:01:39,224
+gestão de incidentes de segurança.
+
+34
+00:01:39,236 --> 00:01:42,986
+O siso é o principal defensor da segurança da informação
+
+35
+00:01:42,995 --> 00:01:47,135
+no nível estratégico e relata diretamente a alta direção.
+
+36
+00:01:47,146 --> 00:01:49,875
+Então esse cara, esse papel, o diretor de
+
+37
+00:01:49,885 --> 00:01:52,075
+segurança da informação aí o siso é a É o,
+
+38
+00:01:52,084 --> 00:01:54,555
+é o, é a parte fundamental.
+
+39
+00:01:54,566 --> 00:01:59,460
+É o que garante todo o funcionamento da da política
+
+40
+00:01:59,471 --> 00:02:02,022
+e da execução da segurança, da informação de uma
+
+41
+00:02:02,031 --> 00:02:04,421
+empresa fundada, papel fundamental.
+
+42
+00:02:04,430 --> 00:02:06,402
+E ele tá vinculado diretamenteà auto direção.
+
+43
+00:02:06,412 --> 00:02:09,942
+Por quê? Porque ele precisa do patrocínio, do
+
+44
+00:02:09,950 --> 00:02:11,450
+vínculo, da alta direção.
+
+45
+00:02:11,461 --> 00:02:12,950
+Ele não pode, tá vinculado a outra área,
+
+46
+00:02:12,961 --> 00:02:13,581
+a outra empresa.
+
+47
+00:02:13,591 --> 00:02:16,931
+Ele precisa tá lá, vinculado diretamenteà auto direção.
+
+48
+00:02:16,942 --> 00:02:19,788
+Isso é fundamental, tá alta.
+
+49
+00:02:19,800 --> 00:02:21,729
+Administração alta administração.
+
+50
+00:02:21,740 --> 00:02:25,588
+Inclui o C, o diretores e membros do conselho.
+
+51
+00:02:25,599 --> 00:02:30,028
+Desempenha um papel fundamental na formulação da estratégia de segurança
+
+52
+00:02:30,038 --> 00:02:30,808
+da informação.
+
+53
+00:02:30,819 --> 00:02:35,788
+Eles são responsáveis por vamos lá definir as prioridades estratégicas,
+
+54
+00:02:35,800 --> 00:02:36,969
+a segurança da informação.
+
+55
+00:02:36,979 --> 00:02:40,330
+A gente tem muitas, muitas prioridades, muitas necessidades
+
+56
+00:02:40,338 --> 00:02:42,028
+dentro de uma, de uma política, dentro de
+
+57
+00:02:42,038 --> 00:02:42,929
+uma segurança de informação.
+
+58
+00:02:42,939 --> 00:02:45,990
+Quem define pra onde vamos seguir? Tá, É
+
+59
+00:02:46,000 --> 00:02:50,969
+alta a direção aprovar política de segurança e orçamentos relacionados.
+
+60
+00:02:50,979 --> 00:02:53,889
+Então, eles precisam aprovar tanto a política como o
+
+61
+00:02:53,899 --> 00:02:54,469
+Orçamento.
+
+62
+00:02:55,038 --> 00:03:00,008
+Estabelecer uma cultura de segurança or- organizacional, garantir a
+
+63
+00:03:00,020 --> 00:03:04,129
+conformidade com regulamentações e requisitos de governança Quando a gente
+
+64
+00:03:04,139 --> 00:03:07,808
+fala em em cultura é treinamento, é comunicação,
+
+65
+00:03:07,819 --> 00:03:08,969
+eh você ter.
+
+66
+00:03:08,979 --> 00:03:12,538
+Existe várias ferramentas aí que habilitam, né? Eh
+
+67
+00:03:12,550 --> 00:03:15,050
+trabalhar a cultura de segurança da empresa.
+
+68
+00:03:15,058 --> 00:03:17,050
+Isso tem que ser feito dentro da empresa, não
+
+69
+00:03:17,058 --> 00:03:20,110
+é algo sazonal, não é algo contínuo, contínuo,
+
+70
+00:03:20,118 --> 00:03:21,069
+é cultural.
+
+71
+00:03:21,080 --> 00:03:22,569
+Quando a gente fala de cultura é algo que tem
+
+72
+00:03:22,580 --> 00:03:23,288
+que ser perene.
+
+73
+00:03:23,300 --> 00:03:26,258
+Tá, e vai de a depender de cada empresa.
+
+74
+00:03:26,270 --> 00:03:30,379
+A gente tem as questões, regulamenta regulamentações e requisitos
+
+75
+00:03:30,389 --> 00:03:31,058
+pra governança.
+
+76
+00:03:31,069 --> 00:03:32,618
+Então vai depender muito de cada empresa.
+
+77
+00:03:32,629 --> 00:03:34,740
+A gente tem que garantir que a empresa está seguindo
+
+78
+00:03:34,750 --> 00:03:35,479
+essas nossas.
+
+79
+00:03:35,490 --> 00:03:37,899
+Por exemplo, quando a gente tá falando de dados,
+
+80
+00:03:37,909 --> 00:03:40,500
+hoje o Brasil, todas as empresas precisam seguir a
+
+81
+00:03:40,508 --> 00:03:41,580
+lei de proteção de dados.
+
+82
+00:03:41,588 --> 00:03:47,319
+Tá definição de estratégia de segurança auto administração é responsável
+
+83
+00:03:47,330 --> 00:03:50,679
+por definir a estratégia de segurança da informação, alinhando
+
+84
+00:03:50,689 --> 00:03:52,399
+com os objetivos de negócio.
+
+85
+00:03:52,409 --> 00:03:56,679
+Isso envolve a identificação de ameaças e riscos estratégicos,
+
+86
+00:03:56,689 --> 00:04:00,399
+bem como a de determinação de metas de segurança.
+
+87
+00:04:00,409 --> 00:04:02,758
+Então a gente precisa ter uma definição clara dessa estratégia.
+
+88
+00:04:02,770 --> 00:04:07,080
+Tá aprovação? Olha só a aprovação de política de
+
+89
+00:04:07,088 --> 00:04:07,778
+segurança.
+
+90
+00:04:07,788 --> 00:04:11,528
+A política de segurança, que define as diretrizes gerais
+
+91
+00:04:11,538 --> 00:04:14,889
+para proteção de ativos de informação, deve ser aprovada,
+
+92
+00:04:14,899 --> 00:04:19,720
+deve ser aprovada pela alta direção e estabelece o compromisso
+
+93
+00:04:19,730 --> 00:04:21,569
+da liderança, ou seja, da alta liderança.
+
+94
+00:04:21,579 --> 00:04:25,608
+Pra falar sobre segurança, então essa aprovação tem que
+
+95
+00:04:25,619 --> 00:04:28,369
+ser clara e tem que ser comunicada que a auto
+
+96
+00:04:28,379 --> 00:04:31,108
+direção aprovou essa política de segurança da informação.
+
+97
+00:04:31,750 --> 00:04:34,319
+A alocação de recurso precisa de dinheiro, gente,
+
+98
+00:04:34,329 --> 00:04:36,000
+não dá pra fazer segurança, essa informação de uma
+
+99
+00:04:36,009 --> 00:04:36,899
+empresa sem dinheiro.
+
+100
+00:04:37,399 --> 00:04:43,269
+A administração é responsável por alocar recursos financeiros e humanos
+
+101
+00:04:43,278 --> 00:04:45,850
+para implementação de medidas de segurança.
+
+102
+00:04:45,858 --> 00:04:50,009
+Isso inclui a aprovação de orçamentos para tecnologia, treinamento
+
+103
+00:04:50,019 --> 00:04:51,730
+e e pessoal de segurança.
+
+104
+00:04:51,738 --> 00:04:53,608
+A gente precisa ter investimento pra segurança, A gente
+
+105
+00:04:53,619 --> 00:04:55,689
+precisa alocar recursos, pra segurança, tá, é
+
+106
+00:04:55,699 --> 00:04:59,230
+fundamental e eu vou ser bem sincero com vocês,
+
+107
+00:04:59,238 --> 00:05:01,488
+como a gente tá falando de orçamento para tecnologia para
+
+108
+00:05:01,500 --> 00:05:03,850
+área de segurança não é uma coisa barata, mas
+
+109
+00:05:03,858 --> 00:05:06,809
+é fundamental para garantir o sucesso da sua organização.
+
+110
+00:05:06,819 --> 00:05:09,850
+Tá, Criação de cultura de segurança.
+
+111
+00:05:09,858 --> 00:05:13,399
+É dever da alta administração promover uma cultura de segurança
+
+112
+00:05:13,410 --> 00:05:14,420
+da organização.
+
+113
+00:05:14,428 --> 00:05:17,369
+Isso envolve a comunicação da importância da segurança, o
+
+114
+00:05:17,379 --> 00:05:22,189
+estabelecimento de normas de conduta e demonstração de comportamentos seguros.
+
+115
+00:05:23,798 --> 00:05:27,108
+Quando a gente tá falando de eh, eh Comunicação,
+
+116
+00:05:27,119 --> 00:05:29,488
+como eu falei, é é cultural, gente é
+
+117
+00:05:29,500 --> 00:05:30,189
+cultural.
+
+118
+00:05:30,199 --> 00:05:33,769
+Se não existe com comunicação e comunicação perene e dentro
+
+119
+00:05:33,778 --> 00:05:36,250
+da área de tecnologia, nós somos péssimos em fazer
+
+120
+00:05:36,259 --> 00:05:39,170
+seu endomarketing, ou seja, o marketing interno e
+
+121
+00:05:39,178 --> 00:05:41,329
+falar do que é o que é importante falar do
+
+122
+00:05:41,338 --> 00:05:42,278
+que tem que ser feito.
+
+123
+00:05:42,290 --> 00:05:43,189
+Então a gente precisa.
+
+124
+00:05:43,199 --> 00:05:45,165
+Ah aprimorar isso dentro das nossas empresas.
+
+125
+00:05:45,173 --> 00:05:48,884
+Como falar de segurança da informação para os nossos colaboradores?
+
+126
+00:05:48,894 --> 00:05:52,345
+Por favor, foquem nisso olhem outras empresas, ferramentas
+
+127
+00:05:52,355 --> 00:05:54,324
+que tem o foco nisso.
+
+128
+00:05:54,334 --> 00:05:57,463
+Isso é fundamental para garantir que isso seja implementado e
+
+129
+00:05:57,475 --> 00:05:59,704
+seja seguido, né, Essas políticas de segurança,
+
+130
+00:05:59,713 --> 00:06:03,149
+essa informação dentro da sua empresa, monitoramento e revisão,
+
+131
+00:06:03,160 --> 00:06:07,949
+A liderança deve monitorar regularmente o processo em relação as
+
+132
+00:06:07,959 --> 00:06:11,910
+metas de segurança e revisar eficaz as medidas implementadas.
+
+133
+00:06:11,920 --> 00:06:14,608
+Isso ajuda a garantir que a estratégia de segurança permaneça
+
+134
+00:06:14,619 --> 00:06:17,608
+alinhada com as necessidades do negócio.
+
+135
+00:06:18,910 --> 00:06:24,699
+Comprometimento Oga Organizacional Quando a alta direção demonstra um forte
+
+136
+00:06:24,709 --> 00:06:27,879
+compromisso com a segurança da informação, esse comprometimento é
+
+137
+00:06:27,889 --> 00:06:29,738
+refletido em toda a organização.
+
+138
+00:06:30,019 --> 00:06:33,600
+Os funcionários são mais propensos a aderirà prática e
+
+139
+00:06:33,608 --> 00:06:35,879
+da segurança quando vem da liderança, né? Quando
+
+140
+00:06:35,889 --> 00:06:38,230
+a liderança valoriza isso, então a liderança tem que
+
+141
+00:06:38,238 --> 00:06:39,338
+falar sobre segurança.
+
+142
+00:06:39,350 --> 00:06:42,899
+A liderança tem que patrocinar segurança a liderança, cê
+
+143
+00:06:42,910 --> 00:06:44,949
+tem que tá tem que tá lá fazendo o curso
+
+144
+00:06:44,959 --> 00:06:46,889
+de de de de de segurança.
+
+145
+00:06:46,899 --> 00:06:48,189
+Isso é fundamental.
+
+146
+00:06:48,199 --> 00:06:51,528
+Tá bom? Eh, Eu falei já sobre a
+
+147
+00:06:51,540 --> 00:06:54,809
+questão do dos recursos, então tem que ter recursos
+
+148
+00:06:54,819 --> 00:06:54,928
+P.
+
+149
+00:06:54,939 --> 00:06:57,488
+Ah defini definição de prioridade.
+
+150
+00:06:57,500 --> 00:06:59,488
+Então tem muitas e muitas coisas pra ser feita,
+
+151
+00:06:59,500 --> 00:07:01,410
+então a liderança tem que definir quais são as o
+
+152
+00:07:01,420 --> 00:07:03,970
+as prioridades pra dentro de cada organização.
+
+153
+00:07:03,980 --> 00:07:05,059
+Isso é fundamental.
+
+154
+00:07:05,069 --> 00:07:06,928
+Tá, A gente precisa entender o que é o
+
+155
+00:07:06,939 --> 00:07:08,769
+que tem que ser feito pra cada momento e pra
+
+156
+00:07:08,778 --> 00:07:09,389
+cada hora.
+
+157
+00:07:10,119 --> 00:07:16,048
+Responsabilidade e prestação de conta é responsável perante partes interessadas,
+
+158
+00:07:16,059 --> 00:07:19,569
+regulatórios, reguladores e acionistas.
+
+159
+00:07:19,579 --> 00:07:22,369
+Se ocorrer violações de segurança ou não.
+
+160
+00:07:22,379 --> 00:07:26,608
+Conformidades regulatórias a liderança é responsabilizada, portanto, o
+
+161
+00:07:26,619 --> 00:07:31,230
+seu envolvimento garante a abordagem proativa na segurança da informação
+
+162
+00:07:32,178 --> 00:07:34,928
+e tomar de decisões informadas.
+
+163
+00:07:34,939 --> 00:07:39,588
+Agro direção toma decisões estratégicas com base em informações críticas
+
+164
+00:07:39,600 --> 00:07:43,199
+de compressão sólidas nas questões de segurança de informação permite
+
+165
+00:07:43,209 --> 00:07:46,588
+que elas tomem decisões informadas de proteção da organização contra
+
+166
+00:07:46,600 --> 00:07:49,488
+ameaças cibernéticas e riscos estratégicos.
+
+167
+00:07:49,588 --> 00:07:52,059
+Quando a gente tá falando de de segurança da informação
+
+168
+00:07:52,069 --> 00:07:55,600
+nesse quesito de tomar decisão nesse quesito, de de
+
+169
+00:07:55,608 --> 00:07:59,459
+ser responsabilizado responsabilizado, a auto direção precisa tomar muito
+
+170
+00:07:59,470 --> 00:08:01,879
+cuidado porque a partir do momento que tem sim um
+
+171
+00:08:01,889 --> 00:08:04,119
+ataque ou tem alguma coisa, perda de dados,
+
+172
+00:08:04,129 --> 00:08:09,290
+a auto direção vai ser responsabilizada frente A aos órgãos
+
+173
+00:08:09,298 --> 00:08:13,149
+necessários acionista, enfim, então é fundamental ela entender
+
+174
+00:08:13,160 --> 00:08:16,500
+e compreender como é feita a segurança da informação.
+
+175
+00:08:16,509 --> 00:08:18,790
+Por isso eh, eh, eh, o siso
+
+176
+00:08:18,798 --> 00:08:21,189
+é vinculado a auto direção, Por isso ela tem
+
+177
+00:08:21,199 --> 00:08:24,428
+que patrocinar porque ela vai ser sim questionada quando tiver
+
+178
+00:08:24,439 --> 00:08:27,084
+um problema, ela pode ser até eh eh levada
+
+179
+00:08:27,095 --> 00:08:29,625
+à Justiça em caso de alguma perda de dados.
+
+180
+00:08:29,634 --> 00:08:32,923
+Enfim, caso a organização venha a dar prejuízo pra
+
+181
+00:08:32,933 --> 00:08:35,244
+seus clientes, ela vai ser questionada.
+
+182
+00:08:35,254 --> 00:08:39,524
+Então a auto direção precisa entender a importância de estar
+
+183
+00:08:39,533 --> 00:08:42,205
+envolvido no quesito segurança da informação.
+
+184
+00:08:42,215 --> 00:08:42,764
+Tá bom.
+
+185
+00:08:42,774 --> 00:08:45,264
+Muito obrigado e nos vemos na Aproximá-la
+

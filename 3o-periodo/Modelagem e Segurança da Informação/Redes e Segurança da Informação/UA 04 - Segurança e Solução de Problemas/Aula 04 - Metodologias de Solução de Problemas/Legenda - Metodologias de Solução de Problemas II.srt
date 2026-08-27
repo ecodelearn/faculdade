@@ -1,0 +1,712 @@
+1
+00:00:05,780 --> 00:00:08,948
+Olá! Alunos! Seja bem-vindo Professor Fabrício Melo Estamos
+
+2
+00:00:08,960 --> 00:00:12,470
+trabalhando aí com segurança da informação e vamos trabalhar com
+
+3
+00:00:12,478 --> 00:00:14,868
+a metodologia de solução de problemas.
+
+4
+00:00:14,880 --> 00:00:17,510
+Quais são as metodologias e agora é a vez da
+
+5
+00:00:17,519 --> 00:00:20,629
+gente falar de ferramentas de soluções de problemas? Existem
+
+6
+00:00:20,638 --> 00:00:26,228
+aluno n ferramentas aí né? De empresas consagradas na
+
+7
+00:00:26,239 --> 00:00:28,149
+área de tecnologia como a Cisco, né? Que
+
+8
+00:00:28,158 --> 00:00:32,130
+é uma empresa muito forte no desenvolvimento aí de equipamentos
+
+9
+00:00:32,139 --> 00:00:32,719
+de rede.
+
+10
+00:00:32,728 --> 00:00:37,158
+E essas empresas também contribuem com o desenvolvimento de ferramentas
+
+11
+00:00:37,168 --> 00:00:41,279
+pra gente poder mitigar, solucionar problemas que a nossa
+
+12
+00:00:41,289 --> 00:00:43,039
+rede possa vir a ter.
+
+13
+00:00:43,048 --> 00:00:46,759
+Tá então aqui foi separado, aí algumas dessas ferramentas
+
+14
+00:00:46,770 --> 00:00:49,020
+aos quais a gente vai trabalhar aqui por aí.
+
+15
+00:00:49,094 --> 00:00:52,533
+Exemplo Oh, sistema, gerenciamento de rede, ferramentas
+
+16
+00:00:52,543 --> 00:00:55,743
+muito importantes Se você tem uma rede aí que seja
+
+17
+00:00:55,755 --> 00:00:57,825
+pequena, média e nem se fala quando é de
+
+18
+00:00:57,834 --> 00:01:01,194
+grande porte, você tem que ter um n m
+
+19
+00:01:01,204 --> 00:01:03,524
+s, que é o network, ou seja,
+
+20
+00:01:03,533 --> 00:01:06,915
+um sistema gerenciamento de rede é uma coleção de ferramentas
+
+21
+00:01:06,924 --> 00:01:09,704
+integradas que são baseadas no protocolo S M.
+
+22
+00:01:09,713 --> 00:01:13,183
+MP lembra que é o protocolo gerenciamento de rede que
+
+23
+00:01:13,194 --> 00:01:16,064
+a gente vê lá nos protocolos da C P i
+
+24
+00:01:16,073 --> 00:01:19,709
+p Com essas ferramentas, você consegue monitorar, analisar
+
+25
+00:01:19,719 --> 00:01:23,750
+e prover mecanismos para detecção e correção de problemas na
+
+26
+00:01:23,760 --> 00:01:26,028
+rede de forma reativa ou proativa.
+
+27
+00:01:26,040 --> 00:01:29,150
+Por exemplo, o técnico, através de um sistema
+
+28
+00:01:29,159 --> 00:01:32,308
+desse, ele tem todo o mapa da rede ali.
+
+29
+00:01:32,319 --> 00:01:35,430
+Tudo muito bem ilustrado, muito fácil.
+
+30
+00:01:35,439 --> 00:01:40,058
+Se a impressora lá do R h parar de funcionar,
+
+31
+00:01:40,069 --> 00:01:43,680
+esse técnico consegue ter ali na no gerenciamento.
+
+32
+00:01:43,689 --> 00:01:46,808
+Não tá chegando pacotes naquela impressora, então até mesmo
+
+33
+00:01:46,819 --> 00:01:49,819
+por esse software ele consegue fazer uma análise de qual
+
+34
+00:01:49,829 --> 00:01:51,659
+é o problema daquela impressora.
+
+35
+00:01:51,668 --> 00:01:53,540
+Aí ele vai conseguir direto porque a pessoa é uma
+
+36
+00:01:53,549 --> 00:01:55,819
+empresa grande, aí dá um problema na rede.
+
+37
+00:01:55,829 --> 00:01:58,359
+Eu vou ter que procurar de maneira manual esse problema
+
+38
+00:01:58,829 --> 00:02:01,448
+e isso dá um trabalho danado, Então esse sistema
+
+39
+00:02:01,459 --> 00:02:04,239
+de gerenciamento, aí você tem tudo na mão,
+
+40
+00:02:04,250 --> 00:02:07,418
+fica tudo muito fácil, Tudo muito simples, óbvio
+
+41
+00:02:07,430 --> 00:02:09,919
+pra pessoa que entende pra pessoa que tá ali,
+
+42
+00:02:09,929 --> 00:02:12,929
+eh, é apta pra trabalhar naquela função.
+
+43
+00:02:12,939 --> 00:02:15,580
+Então ela vai conseguir saber onde tá o problema,
+
+44
+00:02:15,659 --> 00:02:19,750
+ir lá e isolar arrumar, né, fazer o
+
+45
+00:02:19,758 --> 00:02:20,629
+que deve ser feito.
+
+46
+00:02:20,639 --> 00:02:23,830
+Okay Então pra mim é uma das principais aí ferramentas
+
+47
+00:02:23,838 --> 00:02:27,308
+de solução, bases de conhecimento, mas também depois
+
+48
+00:02:27,319 --> 00:02:28,629
+aí do ADV, da Internet.
+
+49
+00:02:28,639 --> 00:02:31,149
+Isso aí é uma mão na roda tá vendo as
+
+50
+00:02:31,159 --> 00:02:34,629
+bases de conhecimento online Tornaram-se em fontes indispensáveis, né?
+
+51
+00:02:34,639 --> 00:02:35,689
+De informação.
+
+52
+00:02:35,699 --> 00:02:38,550
+E elas podem ser mantidas pelos fabricantes ou pela comunidade
+
+53
+00:02:38,558 --> 00:02:39,788
+de usuários ou profissionais.
+
+54
+00:02:39,800 --> 00:02:42,429
+Vou dar um exemplo de antigamente, quando eu comecei
+
+55
+00:02:42,439 --> 00:02:46,149
+a trabalhar com com T I, eu lembro que
+
+56
+00:02:46,159 --> 00:02:49,368
+a gente ia formatar um computador pra instalar um novo
+
+57
+00:02:49,379 --> 00:02:54,129
+Windows era uma um trabalho assim de chorar, porque
+
+58
+00:02:54,139 --> 00:02:56,770
+a gente tinha muito problema com um driver, né?
+
+59
+00:02:56,778 --> 00:02:59,788
+Você conhece o driver que é aquele software responsável em
+
+60
+00:02:59,800 --> 00:03:03,808
+fazer, né? O sistema conversar com o dispositivo?
+
+61
+00:03:03,819 --> 00:03:07,069
+Nenhum dispositivo funciona sem um driver.
+
+62
+00:03:07,080 --> 00:03:09,990
+Aí o que acontecia? Cê formata o computador instalar
+
+63
+00:03:10,000 --> 00:03:12,169
+aí faltava o driver de vídeo.
+
+64
+00:03:12,490 --> 00:03:15,118
+O vídeo não ficava com as cores, né?
+
+65
+00:03:15,129 --> 00:03:19,399
+Eh em alta resolução aí a gente tinha vários e
+
+66
+00:03:19,409 --> 00:03:23,389
+vários DVD s que tinham driver, aí cê tinha
+
+67
+00:03:23,399 --> 00:03:26,508
+que ir botando um DVD pra procurar o driver da
+
+68
+00:03:26,520 --> 00:03:27,979
+daquela placa.
+
+69
+00:03:27,990 --> 00:03:29,219
+Hoje não.
+
+70
+00:03:29,229 --> 00:03:32,199
+Hoje se você tem algum problema com o driver cê
+
+71
+00:03:32,210 --> 00:03:34,879
+vai na base de conhecimento Cê vai no no,
+
+72
+00:03:34,889 --> 00:03:38,399
+no, no no repositório do próprio fabricante Ou então
+
+73
+00:03:38,409 --> 00:03:39,520
+oh o que que é a mão na roda os
+
+74
+00:03:39,528 --> 00:03:42,199
+famosos fóruns? Não é isso? cê entra nos
+
+75
+00:03:42,210 --> 00:03:44,960
+fóruns de discussões, aí tá lá galera o pessoal.
+
+76
+00:03:44,969 --> 00:03:45,960
+Eu tive um problema com isso aqui.
+
+77
+00:03:45,969 --> 00:03:48,500
+Como é que soluciona? Nada melhor hoje do que
+
+78
+00:03:48,508 --> 00:03:50,979
+fórum pro técnico, né? Eu já participei muito
+
+79
+00:03:50,990 --> 00:03:53,679
+de fórum aí de Linux, fórum de rede,
+
+80
+00:03:53,689 --> 00:03:55,939
+que a galera joga um problema lá e cada um
+
+81
+00:03:55,949 --> 00:03:58,618
+contribui com a solução de problema e eu já consegui
+
+82
+00:03:58,629 --> 00:04:03,740
+solucionar n problemas trabalhando operando com esses fóruns aí.
+
+83
+00:04:03,750 --> 00:04:06,899
+Então, assim é muito bem-vindo base de conhecimento e
+
+84
+00:04:06,909 --> 00:04:09,219
+com a internet tá tudo aí, né? Se
+
+85
+00:04:09,229 --> 00:04:12,050
+você já tá lembrando aí que também já deu manutenção,
+
+86
+00:04:12,058 --> 00:04:14,788
+cadê os DVD s de drivers? Não tem mais!
+
+87
+00:04:14,800 --> 00:04:15,909
+Hoje é tudo na rede.
+
+88
+00:04:15,919 --> 00:04:16,108
+É tudo.
+
+89
+00:04:16,119 --> 00:04:18,949
+Tem o próprio Windows, quando tá faltando um driver
+
+90
+00:04:18,959 --> 00:04:22,548
+já se conecta numa base aí de de conhecimento e
+
+91
+00:04:22,559 --> 00:04:25,269
+já baixa esse driver aí por exemplo, né?
+
+92
+00:04:25,278 --> 00:04:27,629
+Da do próprio site é muito interessante.
+
+93
+00:04:27,639 --> 00:04:30,459
+Então assim junta as gerenciadora que a gente viu agora
+
+94
+00:04:30,470 --> 00:04:33,519
+de rede junta essas bases de conhecimento.
+
+95
+00:04:33,528 --> 00:04:36,619
+Cê tem tudo na mão, basta você saber o
+
+96
+00:04:36,629 --> 00:04:39,639
+os caminhos participar dos fóruns corretos, né? E
+
+97
+00:04:39,649 --> 00:04:43,119
+fora os fabricantes que no próprio site Cê tem lá
+
+98
+00:04:43,129 --> 00:04:46,500
+o famoso fac, que é onde o pessoal,
+
+99
+00:04:46,509 --> 00:04:48,259
+né? Eles geram A A a a, as
+
+100
+00:04:48,269 --> 00:04:51,220
+dúvidas, as perguntas e o pessoal vai participando,
+
+101
+00:04:51,230 --> 00:04:54,428
+né? Analisadores de protocolo é outra ferramenta aí de
+
+102
+00:04:54,439 --> 00:04:57,949
+solução também Muito boa os a esses analisadores que eles
+
+103
+00:04:57,959 --> 00:04:58,379
+fazem.
+
+104
+00:04:58,389 --> 00:05:00,670
+Eles capturam o conteúdo dos pacotes, lembra dos P
+
+105
+00:05:00,678 --> 00:05:02,670
+d u, né? Da das camadas que a
+
+106
+00:05:02,678 --> 00:05:05,350
+gente viu do modelo que trafegam pela rede e ele
+
+107
+00:05:05,358 --> 00:05:08,108
+consegue analisar os dados nas várias camadas de uma de
+
+108
+00:05:08,119 --> 00:05:08,629
+protocolo.
+
+109
+00:05:08,639 --> 00:05:13,855
+Então ele consegue fazer uma triagem desses pacotes pra poder
+
+110
+00:05:13,863 --> 00:05:17,634
+gerar algum relatório gerar um blog pro técnico da rede
+
+111
+00:05:17,644 --> 00:05:20,345
+ali saber, né? Se há algum problema,
+
+112
+00:05:20,355 --> 00:05:23,014
+se tem algum problema pra ser corrigido, né,
+
+113
+00:05:23,024 --> 00:05:26,153
+Uma ferramenta mais avançada? E temos as ferramentas simples
+
+114
+00:05:26,165 --> 00:05:29,553
+diagnóstico são utilitários oh! Que os próprios temas operacionais
+
+115
+00:05:29,564 --> 00:05:33,045
+têm o Windows tem que você pode diagnosticar problema de
+
+116
+00:05:33,053 --> 00:05:37,553
+coletividade, roteamento de atraso, configuração de rede até
+
+117
+00:05:37,564 --> 00:05:39,795
+mesmo estado de um lin que cê tá ativado ou
+
+118
+00:05:39,803 --> 00:05:42,588
+desativado, né? Então o o O O o
+
+119
+00:05:42,600 --> 00:05:45,608
+Windows, por exemplo, tem aquele gerenciador Dispositivo O
+
+120
+00:05:45,619 --> 00:05:49,009
+Windows tem é aquela ferramenta que fica gerando log eh
+
+121
+00:05:49,019 --> 00:05:52,250
+de erro que é o visualizador de eventos, então
+
+122
+00:05:52,259 --> 00:05:56,608
+existem n ferramentas até do próprio sistema onde o cara
+
+123
+00:05:56,619 --> 00:05:59,329
+consegue, o técnico consegue ir lá e fazer uma
+
+124
+00:05:59,338 --> 00:06:01,769
+análise do que tá com problema ou não, né?
+
+125
+00:06:01,778 --> 00:06:04,088
+Gerenciador de dispositivos, por exemplo, a gente usava
+
+126
+00:06:04,100 --> 00:06:06,369
+muito antigamente hoje usa menos, né? Ele?
+
+127
+00:06:06,379 --> 00:06:09,290
+Qualquer problema de hardware que você tem lá ele vai
+
+128
+00:06:09,298 --> 00:06:09,730
+colocar ali.
+
+129
+00:06:09,738 --> 00:06:13,088
+Uma interroga uma exclamação ou vai colocar ali um xinho
+
+130
+00:06:13,100 --> 00:06:16,149
+quando não tem um driver instalado? Então essas ferramentas
+
+131
+00:06:16,160 --> 00:06:20,509
+que o próprio sistema oferece também são muito bem vindas,
+
+132
+00:06:20,519 --> 00:06:24,480
+né? E as ferramentas de log Como esse visu
+
+133
+00:06:24,488 --> 00:06:26,879
+de eventos aí do Windows, ele gera esses logs.
+
+134
+00:06:26,889 --> 00:06:29,639
+Tá vendo oh registro de que é relatório? São
+
+135
+00:06:29,649 --> 00:06:31,319
+uma ferramenta fundamental de coleta.
+
+136
+00:06:31,329 --> 00:06:33,939
+Tá vendo de informações, análise são de problemas.
+
+137
+00:06:33,949 --> 00:06:36,399
+Em geral, os positivos de rede podem registrar informações
+
+138
+00:06:36,410 --> 00:06:38,119
+referentes a alterações de configuração.
+
+139
+00:06:38,129 --> 00:06:41,720
+Então, se eles esses positivo é capaz de gerar,
+
+140
+00:06:41,730 --> 00:06:43,678
+eh essa essa solução.
+
+141
+00:06:43,689 --> 00:06:45,959
+Quando dá alguma alteração, ele gera esse, esse
+
+142
+00:06:45,970 --> 00:06:48,879
+feedback fica fácil, né? Eh, Não sei
+
+143
+00:06:48,889 --> 00:06:51,778
+se você já já deve ter percebidoàs vezes,
+
+144
+00:06:51,790 --> 00:06:56,579
+quando até um um próprio software ele fecha inesperadamente.
+
+145
+00:06:56,588 --> 00:06:59,939
+Aí ele gera lá um um, um código de
+
+146
+00:06:59,949 --> 00:07:05,470
+erro e fala assim enviar o relatório pra pra desenvolvedora
+
+147
+00:07:05,480 --> 00:07:07,879
+já viu isso? É isso né?Às vezes
+
+148
+00:07:07,889 --> 00:07:11,928
+o dispositivo gerou um erro e ele próprio consegue emitir
+
+149
+00:07:11,939 --> 00:07:12,869
+um log.
+
+150
+00:07:12,879 --> 00:07:14,230
+Tá daquele erro.
+
+151
+00:07:14,238 --> 00:07:16,250
+Aí você pode enviar aquele erro pro fabricante.
+
+152
+00:07:16,259 --> 00:07:18,750
+Por exemplo, né, pra poder fazer uma análise
+
+153
+00:07:18,759 --> 00:07:21,809
+e as ferramentas de solução de problemas de hardware,
+
+154
+00:07:21,819 --> 00:07:25,230
+né? Que são ferramentas aí já pra poder testar
+
+155
+00:07:25,238 --> 00:07:27,189
+os equipamentos? A gente tem, por exemplo,
+
+156
+00:07:27,199 --> 00:07:31,488
+aí eh tensão corrente, resistência, né? Que
+
+157
+00:07:31,500 --> 00:07:34,048
+tem uns mus digitais pra fazer isso, né?
+
+158
+00:07:34,399 --> 00:07:36,369
+Já viu o mu Metro? Então através de um
+
+159
+00:07:36,379 --> 00:07:41,048
+mu metro você já consegue resolver analisar, né vários
+
+160
+00:07:41,059 --> 00:07:43,488
+e vários problemas tá vendo? Cê tem uns testadores
+
+161
+00:07:43,500 --> 00:07:45,829
+de cabo nossa? Na minha época não tinha isso
+
+162
+00:07:45,838 --> 00:07:49,009
+agora Já tem cê bota o testador na ponta de
+
+163
+00:07:49,019 --> 00:07:50,649
+um cabo e na outra cê já sabe o que
+
+164
+00:07:50,660 --> 00:07:52,290
+que tá acontecendo? Se tá passando? Se não
+
+165
+00:07:52,298 --> 00:07:54,869
+tá, né? Detectar fios, partidos, conexão
+
+166
+00:07:54,879 --> 00:07:57,559
+cruzada, tá vendo hoje tá muito fácil.
+
+167
+00:07:57,569 --> 00:07:58,838
+Hoje tá muito fácil.
+
+168
+00:07:58,850 --> 00:08:01,079
+Antigamente não tinha esse testador não.
+
+169
+00:08:01,088 --> 00:08:02,459
+Eu, por exemplo, não lembro Se era muito
+
+170
+00:08:02,470 --> 00:08:05,939
+caro, eu não cheguei a ter acesso a essa
+
+171
+00:08:05,949 --> 00:08:09,678
+ferramenta, não tá? Então são n ferramentas aí
+
+172
+00:08:09,689 --> 00:08:12,019
+que nós temos pra poder fazer a solução de pro.
+
+173
+00:08:12,084 --> 00:08:14,535
+Então, se você for pra essa né.
+
+174
+00:08:14,545 --> 00:08:19,274
+Pra área pesada de manutenção e de rede procure ter
+
+175
+00:08:19,285 --> 00:08:22,975
+o máximo conhecimento de ferramentas, Porque se der problema,
+
+176
+00:08:22,983 --> 00:08:27,095
+você sabe onde agir, né, pra ganhar tempo
+
+177
+00:08:27,105 --> 00:08:30,834
+e obviamente ganhar moral ali na empresa, no órgão
+
+178
+00:08:30,845 --> 00:08:34,195
+que você venha trabalhar, fechou abraço.
+

@@ -1,0 +1,476 @@
+1
+00:00:06,710 --> 00:00:07,868
+continuando.
+
+2
+00:00:07,879 --> 00:00:10,050
+A nossa política de segurança de formação tem um papel,
+
+3
+00:00:10,060 --> 00:00:11,720
+a gente tem um papel muito específico.
+
+4
+00:00:11,728 --> 00:00:14,859
+Como eu falei em desenvolver a política treinar, né?
+
+5
+00:00:14,868 --> 00:00:17,839
+Precisamos entender que a direção tem um papel fundamental,
+
+6
+00:00:17,850 --> 00:00:19,760
+mas agora a gente vai falar de algo bem específico
+
+7
+00:00:19,769 --> 00:00:21,719
+que é auditoria.
+
+8
+00:00:21,728 --> 00:00:24,239
+Temos que ter um papel específico pra fazer uma auditoria
+
+9
+00:00:24,250 --> 00:00:25,559
+da nossa política de forma isso.
+
+10
+00:00:25,568 --> 00:00:28,199
+É importante ter uma visão e uma visão diferente da
+
+11
+00:00:28,208 --> 00:00:30,739
+nossa Tá uma perspectiva diferente da sua.
+
+12
+00:00:30,750 --> 00:00:34,490
+Então, qual o papel dessa auditoria? Era digital,
+
+13
+00:00:34,500 --> 00:00:37,168
+onde a segurança da informação é um ativo crítico para
+
+14
+00:00:37,179 --> 00:00:37,918
+as organizações.
+
+15
+00:00:37,929 --> 00:00:41,848
+Em todos os setores, a conformidade e as auditorias
+
+16
+00:00:41,859 --> 00:00:45,709
+desempenham um papel central na proteção de dados e da
+
+17
+00:00:45,719 --> 00:00:47,750
+reputação.
+
+18
+00:00:48,359 --> 00:00:51,250
+A gestão da segurança da informação não se limita apenas
+
+19
+00:00:51,259 --> 00:00:54,329
+à implementação de medidas de proteção, mas também exige
+
+20
+00:00:54,340 --> 00:00:59,250
+um escrutínio constante e independente para garantir que as políticas
+
+21
+00:00:59,259 --> 00:01:03,429
+e práticas estejam em conformidade, as regulamentações e padrões
+
+22
+00:01:04,129 --> 00:01:09,019
+nesse tópico, e explorar o papel vital das auditorias
+
+23
+00:01:09,028 --> 00:01:12,099
+e da conformidade na gestão da segurança da informação,
+
+24
+00:01:12,109 --> 00:01:15,379
+detalhando como as auditorias são realizadas e quem são os
+
+25
+00:01:15,388 --> 00:01:19,739
+auditores, como identificam e melhor, como identificam áreas
+
+26
+00:01:19,750 --> 00:01:23,489
+de melhoria e promove melhores práticas eu falei, né?
+
+27
+00:01:23,500 --> 00:01:24,338
+Na na.
+
+28
+00:01:24,349 --> 00:01:26,760
+Na aula anterior, sobre a questão da da importância
+
+29
+00:01:26,769 --> 00:01:30,000
+da gente testar o conhecimento do do nosso time,
+
+30
+00:01:30,010 --> 00:01:31,638
+né? Da de toda a organização.
+
+31
+00:01:31,650 --> 00:01:33,159
+E aqui vem um papel fundamental que vai ter uma
+
+32
+00:01:33,168 --> 00:01:34,400
+auditoria auditoria.
+
+33
+00:01:34,409 --> 00:01:37,120
+Vai entender se a gente, quais são os onde
+
+34
+00:01:37,129 --> 00:01:40,519
+nós podemos melhorar e, através dessa auditoria, a
+
+35
+00:01:40,528 --> 00:01:44,168
+gente consegue priorizar e criar novos objetivos, ou melhor,
+
+36
+00:01:44,180 --> 00:01:46,198
+áreas específicas dentro da organização.
+
+37
+00:01:46,209 --> 00:01:49,319
+É fundamental, isso, tá, a gente eh
+
+38
+00:01:49,329 --> 00:01:53,859
+toda auditoria envolve duas a assim, alguns elementos fundamentais.
+
+39
+00:01:53,870 --> 00:01:55,439
+E tem alguns passos pra auditoria.
+
+40
+00:01:55,448 --> 00:02:00,120
+Primeiro planejamento! Tá então identificar identificação de desculpa,
+
+41
+00:02:00,129 --> 00:02:04,500
+definição dos objetivos da auditoria, escopo, metodologia.
+
+42
+00:02:04,510 --> 00:02:08,538
+É importante estabelecer critérios claros pra avaliação, coleta e
+
+43
+00:02:08,550 --> 00:02:09,058
+evidências.
+
+44
+00:02:09,069 --> 00:02:10,580
+Então, a partir do momento que você define,
+
+45
+00:02:10,588 --> 00:02:12,300
+cê vai começar a coletar essas evidências.
+
+46
+00:02:12,308 --> 00:02:16,020
+Tá? Os auditores reúnem informações relevantes que podem incluir
+
+47
+00:02:16,028 --> 00:02:20,528
+documentos, entrevistas e observações diretas.
+
+48
+00:02:20,538 --> 00:02:23,449
+Então, não só muitas dos auditores eu já passei
+
+49
+00:02:23,460 --> 00:02:27,319
+por algumas auditorias, eles, a gente envia as
+
+50
+00:02:27,330 --> 00:02:31,050
+informações, eles coletam os documentos e depois marcam entrevistas
+
+51
+00:02:31,058 --> 00:02:33,719
+para validar o que os documentos estão falando.
+
+52
+00:02:33,729 --> 00:02:36,338
+E muitas vezes dessas entrevistas você passa uma lista de
+
+53
+00:02:36,349 --> 00:02:38,719
+cargo, uma lista de nomes e as pessoas e
+
+54
+00:02:38,729 --> 00:02:43,008
+esse auditor vai escolher, né aleatoriamente algum dos personagens
+
+55
+00:02:43,020 --> 00:02:46,618
+pra fazer uma entrevista baseada, baseado muito naquelas informações
+
+56
+00:02:46,629 --> 00:02:48,278
+que você passou através dos documentos.
+
+57
+00:02:49,258 --> 00:02:51,110
+Depois disso tem avaliação.
+
+58
+00:02:51,118 --> 00:02:55,189
+Os auditores avaliam as evidências coletadas em relação aos critérios
+
+59
+00:02:55,199 --> 00:02:56,288
+definidos.
+
+60
+00:02:56,300 --> 00:02:59,788
+Eles verificam se as práticas atuais estão em conformidade com
+
+61
+00:02:59,800 --> 00:03:03,050
+as regulamentações e se atende aos padrões de segurança.
+
+62
+00:03:03,960 --> 00:03:09,569
+Relatórios, os auditórios, os auditores elaboram relatórios detalhados,
+
+63
+00:03:09,580 --> 00:03:14,990
+que destaca a destaca as contratações e as não conformidades
+
+64
+00:03:15,000 --> 00:03:17,508
+encontradas durante a auditoria.
+
+65
+00:03:17,520 --> 00:03:20,689
+Então, depois de todo o trabalho que ele tá
+
+66
+00:03:20,699 --> 00:03:23,770
+fazendo, ele vai coletar as informações, ele vai
+
+67
+00:03:23,778 --> 00:03:27,129
+marcar entrevistas, ele vai avaliar aquela documentação e a
+
+68
+00:03:27,139 --> 00:03:29,186
+partir daí, ele vai criar um documento, um
+
+69
+00:03:29,194 --> 00:03:31,105
+relatório, esse relatório, ele vai fazer.
+
+70
+00:03:31,115 --> 00:03:33,585
+O que? O relatório final, onde ele vai
+
+71
+00:03:33,594 --> 00:03:37,165
+olhar e vai mostrar para toda a organização os gaps
+
+72
+00:03:37,175 --> 00:03:40,944
+encontrados vai mostrar para a organização o que pode melhorar.
+
+73
+00:03:40,955 --> 00:03:43,545
+Principalmente, ele vai dar uma olhada e falar assim.
+
+74
+00:03:43,555 --> 00:03:48,665
+Olha, só você está ou não atendendo aquela regulamentação,
+
+75
+00:03:48,675 --> 00:03:52,246
+que você é obrigada a atender, então a avaliação,
+
+76
+00:03:52,311 --> 00:03:54,322
+às vezes nós temos um medo muito grande, né?
+
+77
+00:03:54,331 --> 00:03:56,722
+De auditoria nossa, o auditor está vindo.
+
+78
+00:03:56,730 --> 00:03:59,322
+Aí, nossa agora vem o auditor e o auditor
+
+79
+00:03:59,331 --> 00:04:01,260
+vai identificar as nossas falhas.
+
+80
+00:04:01,271 --> 00:04:03,602
+É isso mesmo, gente, é importantíssimo.
+
+81
+00:04:03,610 --> 00:04:06,162
+Nós, querendo ou não, nós vamos crescer e
+
+82
+00:04:06,170 --> 00:04:09,681
+vamos melhorar a partir da identificação de falhas a partir
+
+83
+00:04:09,692 --> 00:04:12,081
+do momento de pesquisa, de satisfação, esses são
+
+84
+00:04:12,091 --> 00:04:15,602
+os pontos fundamentais para o desenvolvimento de qualquer empresa.
+
+85
+00:04:15,610 --> 00:04:18,937
+Tá, eh os elogios, né? As coisas
+
+86
+00:04:18,947 --> 00:04:22,708
+boas são fundamentais pra mostrar que nós estamos no caminho
+
+87
+00:04:22,716 --> 00:04:23,458
+certo.
+
+88
+00:04:23,466 --> 00:04:26,937
+Mas quando tem pontos de melhoria, os quando a
+
+89
+00:04:26,947 --> 00:04:31,017
+gente tem, precisa de satisfações, negativadas esses pontos.
+
+90
+00:04:31,028 --> 00:04:35,778
+Essas e esses artefatos são fundamentais pra gente melhorar ainda
+
+91
+00:04:35,786 --> 00:04:37,536
+mais O nosso processo tá bom.
+
+92
+00:04:37,548 --> 00:04:40,536
+Então nessa aula nós vimos o que basicamente nós vimos
+
+93
+00:04:40,548 --> 00:04:45,523
+aí de algumas leis regulatórias, como a Lei de
+
+94
+00:04:45,533 --> 00:04:47,562
+Proteção de Dados Europeia, a Lei de proteção de
+
+95
+00:04:47,574 --> 00:04:50,682
+dados do Brasil, a lei, a lei de
+
+96
+00:04:50,793 --> 00:04:53,713
+de portabilidade e responsabilidade de seguro de saúde.
+
+97
+00:04:53,723 --> 00:04:58,492
+Então, é importante conhecer essa lei e ver onde
+
+98
+00:04:58,502 --> 00:05:01,144
+a sua empresa se adapta ao qual é a necessidade
+
+99
+00:05:01,153 --> 00:05:03,043
+da sua empresa frente a cada lei.
+
+100
+00:05:03,052 --> 00:05:05,509
+Tá? Outra coisa que a gente viu eh a
+
+101
+00:05:05,519 --> 00:05:09,160
+importância de cumprir, né? As regulamentações pra segurança,
+
+102
+00:05:09,170 --> 00:05:12,009
+essa informação E o que o que a gente pode
+
+103
+00:05:12,019 --> 00:05:16,088
+perder ou ganhar por exemplo, reputação e da empresa
+
+104
+00:05:16,100 --> 00:05:19,189
+no mercado eh valor da empresa no mercado.
+
+105
+00:05:19,199 --> 00:05:21,889
+Então tem algumas coisas confiança dos parceiros, confiança dos
+
+106
+00:05:21,899 --> 00:05:24,670
+clientes tá porque muda constantemente.
+
+107
+00:05:24,678 --> 00:05:27,209
+A gente também viu que a importância de a estar
+
+108
+00:05:27,220 --> 00:05:31,069
+sempre atualizado Nós estamos falando de ameaças cibernéticas e as
+
+109
+00:05:31,079 --> 00:05:33,389
+ameaças cibernéticas mudam constantemente.
+
+110
+00:05:33,399 --> 00:05:37,569
+Então a nossa política precisa ter revisões constantes.
+
+111
+00:05:37,579 --> 00:05:39,278
+Precisa ter revisões Importante.
+
+112
+00:05:39,290 --> 00:05:42,949
+Então, como você, se ah, com certeza
+
+113
+00:05:42,959 --> 00:05:45,689
+se atualiza constantemente, você está se atualizando agora,
+
+114
+00:05:46,019 --> 00:05:47,988
+né? Nós precisamos nos atualizar constantemente.
+
+115
+00:05:48,000 --> 00:05:50,358
+A política também que ser atualizada tem que ter um
+
+116
+00:05:50,369 --> 00:05:53,350
+plano de revisão, um controle de revisão tá bom?
+
+117
+00:05:53,358 --> 00:05:57,069
+Então é isso eh muito obrigado por acompanhar a nossa
+
+118
+00:05:57,079 --> 00:05:57,548
+aula.
+
+119
+00:05:57,559 --> 00:05:58,809
+Te vejo na próxima aula.
+

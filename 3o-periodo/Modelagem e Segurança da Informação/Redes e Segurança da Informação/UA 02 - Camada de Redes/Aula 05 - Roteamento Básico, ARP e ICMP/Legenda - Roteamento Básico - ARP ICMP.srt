@@ -1,0 +1,848 @@
+1
+00:00:05,860 --> 00:00:08,269
+Olá, aluno seja muito bemvindo, sou o professor
+
+2
+00:00:08,278 --> 00:00:12,509
+Fabrício Melo, vamos tratar agora sobre o assunto Roteamento
+
+3
+00:00:12,519 --> 00:00:14,648
+básico onde a gente vai ver aí como é que
+
+4
+00:00:14,659 --> 00:00:18,629
+funciona o roteamento básico? Vamos tratar também sobre protocolo
+
+5
+00:00:18,638 --> 00:00:22,589
+ARP e sobre protocolo I c MP tudo bem,
+
+6
+00:00:22,600 --> 00:00:24,478
+então vamos lá o que que seria aí essa parte
+
+7
+00:00:24,489 --> 00:00:28,478
+de um roteamento básico? Você entender basicamente o que
+
+8
+00:00:28,489 --> 00:00:33,069
+seria o quê encaminhamento né você encaminhar pacotes dentro de
+
+9
+00:00:33,079 --> 00:00:35,408
+uma mesma rede? Olha só como é que funciona
+
+10
+00:00:35,649 --> 00:00:39,459
+aquele casamento da camada três na camada de rede que
+
+11
+00:00:39,469 --> 00:00:42,579
+envolve ali os protocolos de números lógicos, como os
+
+12
+00:00:42,590 --> 00:00:46,130
+ipês com a camada dois que envolve o quê o
+
+13
+00:00:46,139 --> 00:00:50,139
+endereço físico, o famoso MC ed ao qual nós
+
+14
+00:00:50,149 --> 00:00:53,079
+já estudamos Olha só que interessante oh, pode ver
+
+15
+00:00:53,090 --> 00:00:55,060
+que aqui eu tenho um PC um oh que eu
+
+16
+00:00:55,069 --> 00:00:56,959
+tô colocando uma seta aí pra você tá vendo,
+
+17
+00:00:57,529 --> 00:01:00,740
+Vou mandar uma informação para o PC dois lá na
+
+18
+00:01:00,750 --> 00:01:03,139
+ponta, então oh lá, quando o PC um
+
+19
+00:01:03,149 --> 00:01:08,150
+envia um pacote pro PC dois aluno o quadro lembra
+
+20
+00:01:08,159 --> 00:01:09,579
+lá da camada dois.
+
+21
+00:01:09,588 --> 00:01:12,338
+Ele vai conter o quê? Nesse quadro da camada
+
+22
+00:01:12,349 --> 00:01:15,778
+dois? Os seguintes endereços no campo de endereço seria
+
+23
+00:01:15,790 --> 00:01:18,260
+o quê? Oh o MAC de destino lá,
+
+24
+00:01:18,269 --> 00:01:23,058
+Oh que é lá da u PC dois tá e
+
+25
+00:01:23,069 --> 00:01:26,579
+o endereço mac simplificado né? Aí eu coloquei lá
+
+26
+00:01:26,588 --> 00:01:28,819
+ele tá simplificado ali tá vendo.
+
+27
+00:01:28,829 --> 00:01:32,058
+E, obviamente o MAC de origem, ou seja,
+
+28
+00:01:32,069 --> 00:01:37,129
+de quem tá enviando a informação tá vendo isso?
+
+29
+00:01:37,138 --> 00:01:39,349
+Tá lá no quadro da camada dois Por quê?
+
+30
+00:01:39,359 --> 00:01:43,448
+Porque a camada dois ela trata só endereço físico.
+
+31
+00:01:43,459 --> 00:01:46,769
+Ela trata o MC Edwar como a gente já tratou
+
+32
+00:01:46,778 --> 00:01:52,489
+aqui perfeito aí olha só que interessante quando o pacote
+
+33
+00:01:52,500 --> 00:01:55,430
+i p da camada três oh os dados já vão
+
+34
+00:01:55,439 --> 00:01:57,969
+tratados como i p então o que acontece? Oh
+
+35
+00:01:57,980 --> 00:02:00,448
+lá o endereço i p v quatro de origem vai
+
+36
+00:02:00,459 --> 00:02:03,528
+aparecer que é o endereço do do PC um Deixa
+
+37
+00:02:03,540 --> 00:02:07,088
+eu ver se colocou a tabela aqui tá aqui tá
+
+38
+00:02:07,099 --> 00:02:08,308
+vendo oh lá, oh, cê vai ter o
+
+39
+00:02:08,319 --> 00:02:12,550
+endereço do PC um e vai ter o endereço i
+
+40
+00:02:12,558 --> 00:02:14,990
+p do PC dois Então tá vendo lá oh!
+
+41
+00:02:15,000 --> 00:02:17,490
+E o endereço i p v quatro de destino que
+
+42
+00:02:17,500 --> 00:02:19,569
+é o nove dois meia oito, dez e onze
+
+43
+00:02:19,580 --> 00:02:24,288
+Então você consegue aí observar aqui oh na camada dois
+
+44
+00:02:24,300 --> 00:02:27,689
+No quadro dois cê tem o MC ed e lá
+
+45
+00:02:27,699 --> 00:02:30,368
+na camada três, você vai ter o quê o
+
+46
+00:02:30,379 --> 00:02:31,028
+I P de destino.
+
+47
+00:02:31,038 --> 00:02:32,729
+Aí você deve falar, pô, mas como é
+
+48
+00:02:32,740 --> 00:02:34,949
+que é feito esse casamento? É aí que a
+
+49
+00:02:34,960 --> 00:02:37,169
+gente vai ver, né? Daqui a pouco você
+
+50
+00:02:37,179 --> 00:02:41,808
+vai ter um protocolo responsável por fazer essa associação,
+
+51
+00:02:41,819 --> 00:02:45,699
+né? Ele conhecer ali um um um pacote que
+
+52
+00:02:45,710 --> 00:02:49,088
+tá identificado por um i p e fazer a associação
+
+53
+00:02:49,099 --> 00:02:52,409
+com o camada dois que vai ser o MEC,
+
+54
+00:02:52,419 --> 00:02:54,949
+ou seja, ele vai conseguir enxergar um i P
+
+55
+00:02:55,288 --> 00:02:57,659
+e ao mesmo tempo associar a um MEC.
+
+56
+00:02:57,669 --> 00:03:00,939
+Então isso aqui é apenas uma introdução pra você entender
+
+57
+00:03:00,949 --> 00:03:04,500
+que quando você tá encaminhando o pacote na camada dois,
+
+58
+00:03:04,508 --> 00:03:07,699
+você tem a identificação do endereço físico E quando você
+
+59
+00:03:07,710 --> 00:03:11,460
+sobe pra camada três, você tem a identificação do
+
+60
+00:03:11,469 --> 00:03:13,740
+endereço lógico, tá bom oh atenção, hein?
+
+61
+00:03:13,750 --> 00:03:16,153
+O principal objetivo o da camada da rede que é
+
+62
+00:03:16,163 --> 00:03:19,774
+que a gente tá tratando aqui é encaminhar pacotes entre
+
+63
+00:03:19,784 --> 00:03:21,335
+redes óbvio.
+
+64
+00:03:21,344 --> 00:03:24,653
+Para isso, ela exerce o quê duas funções primordiais
+
+65
+00:03:24,663 --> 00:03:27,175
+e encaminhamento que que é o encaminhamento, quando você
+
+66
+00:03:27,183 --> 00:03:30,375
+distribui dentro da mesma mesma rede e o roteamento que
+
+67
+00:03:30,383 --> 00:03:32,735
+que é roteamento quando você muda de rede, por
+
+68
+00:03:32,743 --> 00:03:35,735
+exemplo, cê tá enviando um pacote da rede local
+
+69
+00:03:35,743 --> 00:03:38,534
+pra internet, por exemplo, você tá tratando aí
+
+70
+00:03:38,544 --> 00:03:41,788
+do famoso roteamento tá? E olha só como é
+
+71
+00:03:41,800 --> 00:03:45,088
+que é o encaminhamento dos pacotes para uma rede remota,
+
+72
+00:03:45,099 --> 00:03:47,490
+ou seja, tá vendo pra outra rede? Olha
+
+73
+00:03:47,500 --> 00:03:50,050
+lá que interessante oh! Quando o PC um vai
+
+74
+00:03:50,058 --> 00:03:53,050
+enviar um pacote pro PC dois que está numa rede
+
+75
+00:03:53,058 --> 00:03:56,569
+remota, o PC um está numa rede o PC
+
+76
+00:03:56,580 --> 00:04:00,319
+dois tá em outra rede oh tanto que internet aí
+
+77
+00:04:00,330 --> 00:04:04,588
+no meio tá vendo que que vai acontecer o quadro
+
+78
+00:04:04,599 --> 00:04:06,508
+da internet da camada dois.
+
+79
+00:04:06,520 --> 00:04:08,750
+Vai entender o quê? Oh lá, o MC
+
+80
+00:04:08,758 --> 00:04:13,288
+de destino e o MAC de origem tá aí tudo
+
+81
+00:04:13,300 --> 00:04:16,649
+bem, né? Então lá endereço mac de destino
+
+82
+00:04:16,660 --> 00:04:19,209
+que é o MAC simplificado ali, né? E
+
+83
+00:04:19,220 --> 00:04:24,410
+também o seguinte eh o endereço do roteador conectadoà
+
+84
+00:04:24,420 --> 00:04:27,389
+rede Tá vendo aí por quê? Porque o roteador
+
+85
+00:04:27,399 --> 00:04:29,689
+que vai receber, né ele que vai fazer o
+
+86
+00:04:29,699 --> 00:04:33,269
+roteamento do pacote? Então perceba aqui oh! O
+
+87
+00:04:33,278 --> 00:04:37,670
+endereço mac simplificado da interface do roteador R um Conectado
+
+88
+00:04:37,678 --> 00:04:41,319
+à rede lá do PC dois Tá vendo aqui,
+
+89
+00:04:41,329 --> 00:04:45,509
+oh então mac de destino vai ser quem o b
+
+90
+00:04:45,519 --> 00:04:48,108
+BBB que não é o PC dois Aqui vai ser
+
+91
+00:04:48,119 --> 00:04:49,410
+o roteador.
+
+92
+00:04:49,420 --> 00:04:52,238
+Olha a diferença por quê que nós vamos pra uma
+
+93
+00:04:52,250 --> 00:04:54,079
+outra rede? E é o roteador que vai ser
+
+94
+00:04:54,088 --> 00:04:56,699
+o responsável por isso, né? Aí você tem
+
+95
+00:04:56,709 --> 00:04:58,899
+um mac de origem que é o PC um aí
+
+96
+00:04:58,910 --> 00:05:02,699
+só que aí lá no quadro né? Que vai
+
+97
+00:05:02,709 --> 00:05:04,869
+ser do pacote da rede três que é o i
+
+98
+00:05:04,879 --> 00:05:06,088
+p? Lógico.
+
+99
+00:05:06,100 --> 00:05:08,459
+Cê tem oh o i p v quatro de origem
+
+100
+00:05:08,470 --> 00:05:10,420
+que é o nove dois um meia oito, dez
+
+101
+00:05:10,428 --> 00:05:12,738
+e dez que é o da máquina um que vai
+
+102
+00:05:12,750 --> 00:05:15,358
+enviar pro i p de destino dez ponto um ponto
+
+103
+00:05:15,369 --> 00:05:18,778
+um ponto um Tá vendo que seria, né?
+
+104
+00:05:18,790 --> 00:05:21,358
+Pra fazer o roteamento Aí olha só ele vai ter
+
+105
+00:05:21,369 --> 00:05:23,649
+o endereço mac de origem certo? O endereço simplificado
+
+106
+00:05:23,660 --> 00:05:25,738
+que a gente já viu do PC um, então
+
+107
+00:05:25,750 --> 00:05:28,579
+olha a diferença quando você vai enviar pra uma outra
+
+108
+00:05:28,588 --> 00:05:31,379
+rede, então você vai ter que ter ali quem
+
+109
+00:05:31,389 --> 00:05:34,579
+no meio você tem ali um roteador.
+
+110
+00:05:34,588 --> 00:05:38,259
+Por isso que ele coloca aí oh esse b BBB
+
+111
+00:05:38,269 --> 00:05:42,000
+como sendo o endereço do R um q R um
+
+112
+00:05:42,009 --> 00:05:45,500
+é o roteador que está conectado o quê a essa
+
+113
+00:05:45,509 --> 00:05:47,819
+rede aqui? Oh! Que é do PC um
+
+114
+00:05:47,829 --> 00:05:50,500
+lembra Cê tem a rede do PC um e vai
+
+115
+00:05:50,509 --> 00:05:52,738
+pra rede do PC dois, Então você tem que
+
+116
+00:05:52,750 --> 00:05:56,119
+passar ali pelo roteador então? Ah, mas o
+
+117
+00:05:56,129 --> 00:06:00,000
+roteador ele trabalha com i p perfeito por isso que
+
+118
+00:06:00,009 --> 00:06:03,399
+você já vai da camada dois pra camada três que
+
+119
+00:06:03,410 --> 00:06:07,298
+é a camada que o roteador vai conseguir enxergar perfeito
+
+120
+00:06:07,309 --> 00:06:09,100
+aí olha só o que acontece oh lá e o
+
+121
+00:06:09,108 --> 00:06:12,040
+pacote oh i p da camada três oh! Vai
+
+122
+00:06:12,048 --> 00:06:14,160
+conter o que os endereços de i p da seguinte
+
+123
+00:06:14,170 --> 00:06:16,470
+maneira lá ele vai ter o endereço i P v
+
+124
+00:06:16,480 --> 00:06:20,259
+quatro de origem que é quem do PC um e
+
+125
+00:06:20,269 --> 00:06:22,819
+vai ter o endereço i P v quatro Destino que
+
+126
+00:06:22,829 --> 00:06:25,459
+é quem o I p v quatro do PC dois
+
+127
+00:06:25,470 --> 00:06:30,189
+Você pode observar que que aluno que aqui no no
+
+128
+00:06:30,199 --> 00:06:35,699
+no quadro ele não tinha o endereço mac lá do
+
+129
+00:06:35,709 --> 00:06:39,500
+PC dois que é o cinco cinco cinco Tá vendo?
+
+130
+00:06:39,509 --> 00:06:44,889
+Ele tem o mac do roteador Por quê? Porque
+
+131
+00:06:44,899 --> 00:06:48,500
+o roteador só reconhece o quê? I p então
+
+132
+00:06:48,509 --> 00:06:53,059
+pra mandar pra máquina dois Ele conhece o i p
+
+133
+00:06:53,069 --> 00:06:56,298
+vai no cado porque o roteador vai rotear pra lá,
+
+134
+00:06:56,309 --> 00:07:00,559
+mas o endereço físico vai cair no roteador não da
+
+135
+00:07:00,569 --> 00:07:02,798
+máquina lá? Porque o roteador já não vai conseguir
+
+136
+00:07:02,809 --> 00:07:04,399
+fazer esse tratamento.
+
+137
+00:07:04,410 --> 00:07:07,399
+Ele vai tratar endereço Lógico, você conseguir entender a
+
+138
+00:07:07,410 --> 00:07:11,720
+diferença quando você faz encaminhamento pra redes remotas pra redes
+
+139
+00:07:11,730 --> 00:07:12,600
+diferentes.
+
+140
+00:07:12,608 --> 00:07:16,678
+É assim que ele vai tratar tranquilidade.
+
+141
+00:07:16,689 --> 00:07:20,040
+Okay Agora olha só que interessante Como é que você
+
+142
+00:07:20,048 --> 00:07:22,798
+tem as tabelas de rota no roteador? Quando você
+
+143
+00:07:22,809 --> 00:07:26,238
+tem uma tabela de rota, você tem as redes
+
+144
+00:07:26,250 --> 00:07:29,720
+conectadas diretamente, né? Ao Ao ao seu host?
+
+145
+00:07:29,730 --> 00:07:34,699
+Então são lá associadas as interfaces locais do seu dispositivo.
+
+146
+00:07:34,709 --> 00:07:37,660
+Então você tem uma rota diretamente conectada.
+
+147
+00:07:37,670 --> 00:07:41,678
+Ela vai ser adicionada sempre que uma interface estiver configurada
+
+148
+00:07:41,689 --> 00:07:42,798
+com o endereço I P.
+
+149
+00:07:42,809 --> 00:07:45,720
+Então, sempre que você coloca algum dispositivo ali numa
+
+150
+00:07:45,730 --> 00:07:48,959
+rede, você vai ter uma rota identificada okay e
+
+151
+00:07:48,970 --> 00:07:51,019
+ativa com o endereço I, p ativo, né?
+
+152
+00:07:51,290 --> 00:07:53,838
+Em um roteador tá vendo oh! Cada interface,
+
+153
+00:07:53,850 --> 00:07:55,858
+ou seja, vai tá conectado em um segmento de
+
+154
+00:07:55,869 --> 00:07:59,139
+rede diferente, Porque o roteador vai fazer essa esse
+
+155
+00:07:59,149 --> 00:08:03,100
+segmento aí oh e sempre possui uma rota diretamente conectada
+
+156
+00:08:03,108 --> 00:08:04,500
+para cada uma delas.
+
+157
+00:08:04,509 --> 00:08:09,059
+Então você tem a famosa tabela de rotas definidas assim
+
+158
+00:08:09,069 --> 00:08:10,250
+Tá vendo Oh! Que legal lá cê tem o
+
+159
+00:08:10,259 --> 00:08:13,819
+endereço de rede, a máscara e o endereço,
+
+160
+00:08:13,829 --> 00:08:16,220
+né? Que é do roteador da interface.
+
+161
+00:08:16,230 --> 00:08:17,579
+Tá vendo? Já é o endereço I P que
+
+162
+00:08:17,588 --> 00:08:19,358
+é o que o roteador trata, tá vendo?
+
+163
+00:08:19,600 --> 00:08:23,488
+Então você tem lá os endereços de redes que já
+
+164
+00:08:23,500 --> 00:08:27,250
+estão dentro da sua tabela, que é feito aí
+
+165
+00:08:27,259 --> 00:08:29,670
+dentro do roxo você pode até testar e aí no
+
+166
+00:08:29,678 --> 00:08:31,209
+computador eu vou te dar depois.
+
+167
+00:08:31,220 --> 00:08:34,250
+Aqui o caminho tá e quando as redes são remotas,
+
+168
+00:08:34,259 --> 00:08:36,769
+tá vendo! Indica as rotas cujo acesso é associado
+
+169
+00:08:36,779 --> 00:08:39,558
+ao roteador, Porque o roteador que vai interligar pra
+
+170
+00:08:39,567 --> 00:08:42,638
+uma rede remota, né? Essas rotas são configuradas
+
+171
+00:08:42,648 --> 00:08:46,438
+de forma o que estática você pode você mesmo configurar
+
+172
+00:08:46,447 --> 00:08:49,837
+ou através do protocolo D HC P Você também consegue
+
+173
+00:08:49,847 --> 00:08:51,979
+fazer isso, né? E a rota padrão o
+
+174
+00:08:51,989 --> 00:08:54,638
+que que é? Essa rota padrão é usada sempre
+
+175
+00:08:54,648 --> 00:08:59,138
+que nenhuma outra correspondência for encontrada, Então quando você
+
+176
+00:08:59,148 --> 00:09:02,239
+não tem nenhuma rota encontrada, ele vai utilizar sempre
+
+177
+00:09:02,249 --> 00:09:03,239
+uma rota padrão.
+
+178
+00:09:03,249 --> 00:09:06,678
+Essa rota é sempre esse endereço aqui oh é o
+
+179
+00:09:06,690 --> 00:09:09,349
+zero zero zero zero zero você deve ter visto isso
+
+180
+00:09:09,359 --> 00:09:12,119
+quando cê vai fazer uma configuração de rede aí cê
+
+181
+00:09:12,129 --> 00:09:13,678
+vê esse endereço zero zero zero Quer dizer que é
+
+182
+00:09:13,690 --> 00:09:16,908
+uma rota padrão que inclusive tá identificada aqui oh aqui
+
+183
+00:09:16,918 --> 00:09:21,399
+Oh, pode ver que inclusive oh, ele destacou
+
+184
+00:09:21,408 --> 00:09:24,038
+aqui tá vendo Oh, isso é uma rota padrão
+
+185
+00:09:24,048 --> 00:09:28,479
+que ele tá utilizando aí okay e também temos a
+
+186
+00:09:28,489 --> 00:09:30,259
+tabela de rota de um host, né? Que
+
+187
+00:09:30,269 --> 00:09:32,200
+é no Windows Como é que cê faz isso?
+
+188
+00:09:32,210 --> 00:09:37,769
+Cê pode ir lá no Windows ou digitar star traço
+
+189
+00:09:37,779 --> 00:09:40,769
+R! Tá! E você pode exibir essa tabela
+
+190
+00:09:40,779 --> 00:09:43,149
+lá pra você poder estudar aí na sua casa,
+
+191
+00:09:43,158 --> 00:09:45,250
+né? E oh! E o destaque? Quando
+
+192
+00:09:45,259 --> 00:09:48,849
+existirem mais de uma rota pra uma mesma rede,
+
+193
+00:09:48,859 --> 00:09:50,250
+então tem a mesma rede.
+
+194
+00:09:50,259 --> 00:09:52,788
+Ela tem mais de uma rota aluno Oh! O
+
+195
+00:09:52,798 --> 00:09:55,250
+pacote é encaminhado pela rota de menor custo.
+
+196
+00:09:55,259 --> 00:09:58,090
+Tá que que significa isso? O custo de uma
+
+197
+00:09:58,099 --> 00:10:00,869
+rota é uma métrica que leva o que em consideração
+
+198
+00:10:01,570 --> 00:10:05,950
+números de saltos, de roteadores, da origem ao
+
+199
+00:10:05,960 --> 00:10:06,500
+destino.
+
+200
+00:10:06,509 --> 00:10:08,399
+Então se tem menos, ele vai pro menor,
+
+201
+00:10:08,408 --> 00:10:11,099
+né? E outros aspectos como exemplo de velocidade,
+
+202
+00:10:11,109 --> 00:10:14,178
+link e dependendo também do protocolo que você tá utilizando
+
+203
+00:10:14,190 --> 00:10:15,178
+de roteamento que a gente já viu.
+
+204
+00:10:15,190 --> 00:10:18,379
+Esses protocolos aí então pode acontecer isso Quando você tem
+
+205
+00:10:18,389 --> 00:10:22,298
+mais de uma rota para a mesma rede tá Então,
+
+206
+00:10:22,308 --> 00:10:24,779
+esse essa tabela aí, de rotas, depois,
+
+207
+00:10:24,788 --> 00:10:28,298
+você pode entrar e dar uma conferida na sua máquina.
+
+208
+00:10:28,308 --> 00:10:31,590
+É bem interessante, né, porque as redes precisam
+
+209
+00:10:31,599 --> 00:10:35,210
+de caminhos pra poderem, né? Seguir e esses
+
+210
+00:10:35,219 --> 00:10:38,759
+caminhos são o quê colocados dentro dessa tabela.
+
+211
+00:10:38,769 --> 00:10:42,139
+Aí tá bom? É isso Grande abraço! Até
+
+212
+00:10:42,149 --> 00:10:42,558
+a próxima!
+

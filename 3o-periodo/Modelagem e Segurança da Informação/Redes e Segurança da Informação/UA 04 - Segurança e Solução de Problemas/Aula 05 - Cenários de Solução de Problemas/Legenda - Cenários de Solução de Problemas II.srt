@@ -1,0 +1,668 @@
+1
+00:00:05,929 --> 00:00:07,960
+Olá aluno, Professor Fabrício Melo.
+
+2
+00:00:07,969 --> 00:00:09,300
+É um prazer estar aqui com você.
+
+3
+00:00:09,310 --> 00:00:12,819
+Estamos aí com a aula relacionada a cenários de solução
+
+4
+00:00:12,829 --> 00:00:17,899
+de problemas e vamos abordar qual qual ou quais tópicos
+
+5
+00:00:17,908 --> 00:00:22,138
+aqui? Agora vamos abordar as abordagens estruturadas para solução
+
+6
+00:00:22,149 --> 00:00:22,958
+de problemas.
+
+7
+00:00:22,969 --> 00:00:26,859
+Como é que você faz essas abordagens estruturadas pra poder
+
+8
+00:00:26,870 --> 00:00:30,019
+conseguir, né? Solucionar um problema aí na sua
+
+9
+00:00:30,030 --> 00:00:32,598
+rede? Vamos lá? É bem interessante isso aqui,
+
+10
+00:00:32,840 --> 00:00:35,209
+Oh, tá vendo? Existem várias abordagens estruturadas de
+
+11
+00:00:35,219 --> 00:00:36,389
+solução de problemas.
+
+12
+00:00:36,399 --> 00:00:39,520
+Cada uma delas tem obviamente, suas vantagens e desvantagens.
+
+13
+00:00:39,529 --> 00:00:42,929
+Porqueàs vezes cê tá usando uma que demora mais
+
+14
+00:00:42,939 --> 00:00:45,368
+chegar a solução do problema do que se você tivesse
+
+15
+00:00:45,380 --> 00:00:49,098
+usado outra e vice-versa, né? Eàs vezes
+
+16
+00:00:49,109 --> 00:00:52,819
+cê cê tivesse usado uma no lugar da outra,
+
+17
+00:00:52,829 --> 00:00:54,658
+ia se resolver melhor ou a outra no lugar de
+
+18
+00:00:54,668 --> 00:00:55,740
+uma ia resolver melhor.
+
+19
+00:00:55,750 --> 00:00:57,259
+Você vai ver os tipos de abordagem.
+
+20
+00:00:57,270 --> 00:00:59,579
+Então tem vantagem e desvantagem.
+
+21
+00:00:59,590 --> 00:01:01,500
+A escolha vai depender da situação e do tipo de
+
+22
+00:01:01,509 --> 00:01:02,700
+problema a ser selecionado.
+
+23
+00:01:02,709 --> 00:01:05,299
+Solucionado, né? E aí, quais são essas
+
+24
+00:01:05,308 --> 00:01:08,439
+abordagens? Olha só a primeira é a AP,
+
+25
+00:01:08,448 --> 00:01:10,329
+ap, né, oh É a ideia que você
+
+26
+00:01:10,338 --> 00:01:14,609
+tá subindo, então é uma abordagem de baixo pra
+
+27
+00:01:14,620 --> 00:01:15,250
+cima.
+
+28
+00:01:15,260 --> 00:01:17,698
+Como assim de baixo pra cima, sempre em cima
+
+29
+00:01:17,709 --> 00:01:20,629
+dos modelos das camadas que a gente viu lá atrás.
+
+30
+00:01:20,638 --> 00:01:23,769
+Oh lá, oh, você começa testando hipóteses relacionadas
+
+31
+00:01:23,778 --> 00:01:25,418
+com a camada física.
+
+32
+00:01:25,430 --> 00:01:28,808
+Então você começa lá do modelo físico que a gente
+
+33
+00:01:28,819 --> 00:01:33,329
+viu aí os possíveis erros dentro das camadas.
+
+34
+00:01:33,338 --> 00:01:37,109
+Então cê pega da camada física e vai subindo as
+
+35
+00:01:37,120 --> 00:01:40,109
+camadas até que você identifique o problema.
+
+36
+00:01:40,120 --> 00:01:43,010
+Só que aqui tá, cê começou da camada física,
+
+37
+00:01:43,019 --> 00:01:46,370
+né? Ver a questão de cabeamento cabo ali eh,
+
+38
+00:01:46,379 --> 00:01:48,469
+eh mal colocado.
+
+39
+00:01:48,480 --> 00:01:51,609
+Só que o problema tava lá na camada sete tava
+
+40
+00:01:51,620 --> 00:01:52,650
+em algum software.
+
+41
+00:01:52,659 --> 00:01:56,609
+Ou então tava na camada quatro lá em alguma porta
+
+42
+00:01:56,620 --> 00:01:58,409
+mal configurada.
+
+43
+00:01:58,418 --> 00:02:01,448
+Então cê vê cê fez o O boton up começou
+
+44
+00:02:01,459 --> 00:02:04,909
+a fazer análise de baixo pra cima, mas a
+
+45
+00:02:04,918 --> 00:02:05,888
+solução tava lá em cima.
+
+46
+00:02:05,900 --> 00:02:08,659
+Então aí já foi uma desvantagem, né? Aí
+
+47
+00:02:08,669 --> 00:02:10,500
+o que que deve ser utilizado quando as hipóteses mais
+
+48
+00:02:10,508 --> 00:02:13,520
+prováveis indica problema nas camadas inferiores? Ou seja óbvio,
+
+49
+00:02:13,528 --> 00:02:17,058
+óbvio que você depois que tem um você já vai
+
+50
+00:02:17,069 --> 00:02:19,629
+ter uma noção de que tipo de problema que é.
+
+51
+00:02:19,639 --> 00:02:20,288
+Vou dar um exemplo.
+
+52
+00:02:20,300 --> 00:02:24,419
+Se eu tenho ali, eh uma rede recém montada
+
+53
+00:02:24,429 --> 00:02:28,849
+com aparelhos, novos equipamentos, né? sem novos
+
+54
+00:02:28,860 --> 00:02:30,149
+equipamentos de alta qualidade.
+
+55
+00:02:30,159 --> 00:02:33,849
+CI eu tenho cabeamentos ali novos.
+
+56
+00:02:33,860 --> 00:02:35,868
+Eu não vou atacar isso, né? Pô,
+
+57
+00:02:35,879 --> 00:02:38,099
+Será que algum problema de cabeamento aí? Eu vou
+
+58
+00:02:38,110 --> 00:02:40,990
+tentar ir lá nas camadas de cima e no software
+
+59
+00:02:41,000 --> 00:02:46,270
+tá aí depois que eu posso descer? Então esse
+
+60
+00:02:46,278 --> 00:02:49,229
+botão up já não valeria a pena você abordar por
+
+61
+00:02:49,240 --> 00:02:51,610
+aí cê tá cê conseguiu entender, mas você vai
+
+62
+00:02:51,618 --> 00:02:54,969
+ganhando agora óbvio, você eh, eh novato na
+
+63
+00:02:54,979 --> 00:02:58,008
+área de rede! Tá começando, Vai apanhar um
+
+64
+00:02:58,020 --> 00:02:59,689
+pouquinho porque vai ficar um pouco perdido.
+
+65
+00:02:59,699 --> 00:03:01,439
+Aí cê vai seguir isso aí ao pé da ao
+
+66
+00:03:01,449 --> 00:03:04,409
+pé da letra? Ou então você é recém-contratado de
+
+67
+00:03:04,419 --> 00:03:08,368
+uma empresa não sabe? Não conhece ainda, né?
+
+68
+00:03:08,379 --> 00:03:10,770
+A fundo a rede se a rede é nova,
+
+69
+00:03:10,778 --> 00:03:13,710
+quem montou a rede, né? Agora se você
+
+70
+00:03:13,719 --> 00:03:18,000
+montou cê cê sabe que a a a gripa dos
+
+71
+00:03:18,008 --> 00:03:21,368
+cabos foi você que fez a montagem física foi você
+
+72
+00:03:21,379 --> 00:03:23,669
+que fez e você confia no seu taco? Cê
+
+73
+00:03:23,679 --> 00:03:28,610
+fala cara, não vou começar a abordagem desses problemas
+
+74
+00:03:28,618 --> 00:03:30,469
+de baixo pra cima.
+
+75
+00:03:30,479 --> 00:03:32,389
+Aí o que que você vai fazer? Você vai
+
+76
+00:03:32,399 --> 00:03:36,889
+usar a abordagem top down que é abordagem de cima
+
+77
+00:03:36,899 --> 00:03:37,550
+pra baixo.
+
+78
+00:03:37,558 --> 00:03:41,308
+Oh lá ao contrário da primeira, essa abordagem inicia
+
+79
+00:03:41,319 --> 00:03:45,028
+teste testando as hipóteses relacionadas com as camadas superiores.
+
+80
+00:03:45,038 --> 00:03:48,949
+Aí você vai aonde os aplicativos, clientes, servidores,
+
+81
+00:03:48,960 --> 00:03:51,419
+aí você vai descendo as camadas até que a carro
+
+82
+00:03:51,429 --> 00:03:52,758
+seja identificada.
+
+83
+00:03:52,770 --> 00:03:56,229
+Tá vendo? Então eu falo Tem vantagens e desvantagens.
+
+84
+00:03:56,240 --> 00:03:59,149
+Vai depender do seu, da sua experiência que você
+
+85
+00:03:59,159 --> 00:04:02,008
+tem com a rede pra fazer essa abordagem! Vou
+
+86
+00:04:02,020 --> 00:04:04,860
+começar de cima pra baixo ou de baixo pra cima!
+
+87
+00:04:04,868 --> 00:04:09,960
+Eu minha experiência eu trabalhei, obviamente área de rede
+
+88
+00:04:09,969 --> 00:04:12,909
+Não fiquei muito tempo porque logo depois eu fui,
+
+89
+00:04:12,919 --> 00:04:13,288
+né.
+
+90
+00:04:13,300 --> 00:04:15,469
+Lecionar aí na área de concursos, eu fui pra
+
+91
+00:04:15,479 --> 00:04:17,588
+área de educação, né? Eh.
+
+92
+00:04:17,600 --> 00:04:22,108
+Mas na época que eu atuei, eu atuava sempre
+
+93
+00:04:22,119 --> 00:04:23,389
+de cima pra baixo.
+
+94
+00:04:23,399 --> 00:04:24,889
+Quando eu fiz o estágio, eu tive aí,
+
+95
+00:04:25,100 --> 00:04:27,949
+né? Eh eh amigos lá que estagiava, indicava
+
+96
+00:04:27,959 --> 00:04:29,470
+isso um pouco, mas sempre pra baixo vê a
+
+97
+00:04:29,480 --> 00:04:30,928
+parte software vê ali.
+
+98
+00:04:30,939 --> 00:04:34,069
+Se tem alguma algum problema do software, Alguma atualização
+
+99
+00:04:34,079 --> 00:04:37,428
+pode resolver o problema da conexão, algo nesse sentido
+
+100
+00:04:37,439 --> 00:04:41,389
+depois que a gente ia lá pra parte de baixo,
+
+101
+00:04:41,399 --> 00:04:44,428
+né? Lá para os conectores? Só que uma
+
+102
+00:04:44,439 --> 00:04:45,730
+vez também.
+
+103
+00:04:45,738 --> 00:04:48,588
+Eu me dei mal eu tinha uma empresa, né,
+
+104
+00:04:48,600 --> 00:04:51,649
+que tinha lá um era uma escola tinha um servidor
+
+105
+00:04:51,660 --> 00:04:55,048
+e as máquinas né ligadas lá pra fazer os cursos
+
+106
+00:04:55,059 --> 00:04:58,269
+e simplesmente tinha o Windows Server e simplesmente tivemos um
+
+107
+00:04:58,278 --> 00:05:02,170
+problema que assim não conseguia solucionar.
+
+108
+00:05:02,178 --> 00:05:05,988
+Eu reinstala o Windows Server fazia toda a configuração da
+
+109
+00:05:06,000 --> 00:05:09,829
+rede tal eu ia tava indo no software aí olha
+
+110
+00:05:09,838 --> 00:05:12,829
+só dois dias depois foi descobrir que era um problema
+
+111
+00:05:12,838 --> 00:05:15,199
+físico de um suíte.
+
+112
+00:05:15,209 --> 00:05:17,278
+A gente acha que tinham dois ou três suítes,
+
+113
+00:05:17,290 --> 00:05:19,759
+um deles tava com um problema, então pra você
+
+114
+00:05:19,769 --> 00:05:22,879
+ver eu comecei de cima e demorei a achar Se
+
+115
+00:05:22,889 --> 00:05:25,980
+eu tivesse começado de baixo, indo pra pros equipamentos,
+
+116
+00:05:25,988 --> 00:05:28,639
+eu poderia ter achado mais rápido, né? E
+
+117
+00:05:28,649 --> 00:05:30,639
+aí oh como é que você vai fazer? Dividir
+
+118
+00:05:30,649 --> 00:05:32,238
+pra conquistar o que? Que é essa abordagem?
+
+119
+00:05:32,250 --> 00:05:34,879
+Aí você pode pegar um problema grande e dividir em
+
+120
+00:05:34,889 --> 00:05:38,939
+problemas menores cujas hipóteses vão ser testadas em conjunto.
+
+121
+00:05:38,949 --> 00:05:42,119
+Exemplo Lá você tem um grande desempenho de uma aplicação.
+
+122
+00:05:42,129 --> 00:05:45,399
+Cê pode dividir em problemas de desempenho do servidor,
+
+123
+00:05:45,410 --> 00:05:48,119
+da rede e do cliente e cada um atacar de
+
+124
+00:05:48,129 --> 00:05:49,160
+uma forma diferente.
+
+125
+00:05:49,170 --> 00:05:51,600
+Então cê divide aí oh, pô, a gente
+
+126
+00:05:51,608 --> 00:05:54,199
+tem aqui o desempenho de um servidor Cê tem a
+
+127
+00:05:54,209 --> 00:05:57,509
+rede do cliente? Os três vamos dividir, vamos
+
+128
+00:05:57,519 --> 00:06:00,959
+mapear esses três e vamos atacar porque você tem um
+
+129
+00:06:00,970 --> 00:06:04,649
+problema grande, divide em três menores.
+
+130
+00:06:04,660 --> 00:06:07,608
+Então, isso também é uma abordagem, né?
+
+131
+00:06:07,619 --> 00:06:10,608
+Outra? Seguir o caminho ou seguir a trilha também
+
+132
+00:06:10,619 --> 00:06:12,488
+é uma boa abordagem.
+
+133
+00:06:12,500 --> 00:06:14,250
+Que que cê vai fazer isso aí? Cê vai,
+
+134
+00:06:14,259 --> 00:06:16,730
+por exemplo, utilizar em problemas de conectividade esse tipo
+
+135
+00:06:16,738 --> 00:06:19,209
+de abordagem, né, cê vai mapear o caminho
+
+136
+00:06:19,220 --> 00:06:21,399
+do tráfico em tu de destino? Cê fez o
+
+137
+00:06:21,410 --> 00:06:25,730
+mapeamento oh aquela máquina ali com aquele servidor o tráfego
+
+138
+00:06:25,738 --> 00:06:29,170
+tá passando em tal tal ponto Então deixa eu seguir
+
+139
+00:06:29,178 --> 00:06:31,209
+esse caminho deixa eu trilhar, porqueàs vezes lá
+
+140
+00:06:31,220 --> 00:06:33,869
+na ponta, em algum lugar pode ser que esteja
+
+141
+00:06:33,879 --> 00:06:34,769
+dando o problema.
+
+142
+00:06:34,778 --> 00:06:37,850
+Tá vendo lá aí você identifica os links, dispositivos
+
+143
+00:06:37,858 --> 00:06:40,470
+e aplica as hipóteses pra cada elemento foi o que
+
+144
+00:06:40,480 --> 00:06:41,009
+aconteceu.
+
+145
+00:06:41,019 --> 00:06:42,769
+Tá vendo? Eu, eu poderia ter seguido também
+
+146
+00:06:42,778 --> 00:06:44,970
+isso aí quando eu vi que tinha um problema lá
+
+147
+00:06:44,980 --> 00:06:48,470
+no switch, né? Eu eu ficava lá reinstalando
+
+148
+00:06:48,480 --> 00:06:49,170
+o Windows Server.
+
+149
+00:06:49,178 --> 00:06:51,069
+Eu ficava achando que era um problema de software,
+
+150
+00:06:51,369 --> 00:06:52,980
+quando eu fui ver era um switch.
+
+151
+00:06:52,988 --> 00:06:55,220
+Se eu tivesse seguido esse caminho, aí poderia ter
+
+152
+00:06:55,230 --> 00:06:58,980
+dado bom pra mim você concorda? Então essas são
+
+153
+00:06:58,988 --> 00:07:03,178
+as abordagens estruturadas pra você achar fazer a solução de
+
+154
+00:07:03,189 --> 00:07:03,569
+problema.
+
+155
+00:07:03,579 --> 00:07:06,019
+Então por isso que é bom no que você assistiu
+
+156
+00:07:06,028 --> 00:07:10,129
+aqui quando você for solucionar um problema lembre-se disso,
+
+157
+00:07:10,139 --> 00:07:13,298
+poxa, oh, eu lembro que na faculdade o
+
+158
+00:07:13,309 --> 00:07:17,338
+professor falava começar de baixo pra cima de cima pra
+
+159
+00:07:17,350 --> 00:07:17,858
+baixo.
+
+160
+00:07:17,869 --> 00:07:19,238
+Vou seguir a trilha.
+
+161
+00:07:19,250 --> 00:07:23,338
+Tá vendo? São soluções que você vai implementando,
+
+162
+00:07:23,350 --> 00:07:27,319
+vai testando, vai criando um bom, uma boa
+
+163
+00:07:27,329 --> 00:07:28,298
+experiência.
+
+164
+00:07:28,309 --> 00:07:30,778
+E a hora que o Pepi não vier, você
+
+165
+00:07:30,790 --> 00:07:34,100
+bate no peito e fala assim eu consigo resolver.
+
+166
+00:07:34,108 --> 00:07:36,899
+Tá bom? É isso aí? Grande abraço!
+
+167
+00:07:36,910 --> 00:07:37,639
+Até mais!
+

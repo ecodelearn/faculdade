@@ -1,0 +1,820 @@
+1
+00:00:06,650 --> 00:00:09,659
+vamos continuar vendo o nosso ciclo de vida de gestão
+
+2
+00:00:09,669 --> 00:00:10,239
+de processos.
+
+3
+00:00:10,250 --> 00:00:14,159
+Agora, vamos focar nas duas últimas fases, a
+
+4
+00:00:14,169 --> 00:00:17,798
+fase quatro e cinco desse ciclo de vida, que
+
+5
+00:00:17,809 --> 00:00:19,780
+envolve aí cinco.
+
+6
+00:00:19,789 --> 00:00:22,620
+Fases, né, como nós já percebemos, né?
+
+7
+00:00:22,629 --> 00:00:25,539
+Então tá ali a primeira fase foi o alimento,
+
+8
+00:00:25,548 --> 00:00:30,100
+tá aqui a segunda fase, a mudança de arquitetura,
+
+9
+00:00:30,109 --> 00:00:33,340
+depois desenvolveu iniciativa e agora nós estamos na fase quatro,
+
+10
+00:00:33,348 --> 00:00:35,098
+que é implementada essas mudanças.
+
+11
+00:00:35,109 --> 00:00:39,139
+Okay Então, pra implementar a mudança? Veja,
+
+12
+00:00:39,149 --> 00:00:42,399
+A gente veio, alinhou, viu a perspectiva da
+
+13
+00:00:42,408 --> 00:00:46,539
+mudança de arquitetura? Fiz, fizemos o planejamento por
+
+14
+00:00:46,548 --> 00:00:49,740
+meio do desenvolvimento das iniciativas e agora nós vamos implementar
+
+15
+00:00:49,750 --> 00:00:52,139
+as mudanças, né? O que que você pressupõe
+
+16
+00:00:52,149 --> 00:00:55,478
+da implementação dessas mudanças? Primeiro, a questão da
+
+17
+00:00:55,490 --> 00:00:58,598
+implementar a mudança no design organizacional e nas funções.
+
+18
+00:00:58,609 --> 00:01:03,750
+Então, se o seu o seu processo pressupõe que
+
+19
+00:01:03,759 --> 00:01:06,588
+há uma mudança em design organizacional ou nas funções,
+
+20
+00:01:06,599 --> 00:01:07,489
+você vai implementar.
+
+21
+00:01:07,500 --> 00:01:10,829
+Isso agora é você vai executar efetivamente.
+
+22
+00:01:10,838 --> 00:01:17,189
+Então você vai re rever organograma você vai rever eh,
+
+23
+00:01:17,198 --> 00:01:22,719
+eh organização de funções, atividades, tudo aquilo que
+
+24
+00:01:22,730 --> 00:01:29,000
+o seu processo desenhado descrito, definido analisado gerou pra
+
+25
+00:01:29,010 --> 00:01:29,629
+você.
+
+26
+00:01:29,638 --> 00:01:32,838
+Okay? Então eh isso a gente não faz da
+
+27
+00:01:32,849 --> 00:01:33,519
+noite pro dia.
+
+28
+00:01:33,528 --> 00:01:35,000
+Então as pessoas precisam? Tá igual, a gente
+
+29
+00:01:35,010 --> 00:01:37,079
+viu, né, eh no no, na parte
+
+30
+00:01:37,088 --> 00:01:39,400
+de planejamento que foi desenvolver a iniciativa, A gente
+
+31
+00:01:39,409 --> 00:01:40,939
+precisa, tá, tá, Tá com o pessoal
+
+32
+00:01:40,948 --> 00:01:45,278
+treinado com conhecimento adequado pra execução daquilo, Então vem
+
+33
+00:01:45,290 --> 00:01:50,308
+aí a questão da eh dessa mudança organizacional e de
+
+34
+00:01:50,319 --> 00:01:50,829
+função.
+
+35
+00:01:50,838 --> 00:01:53,069
+Então, eu eh, na verdade, quando a
+
+36
+00:01:53,079 --> 00:01:56,409
+gente acaba mudando uma função né? A gente acaba
+
+37
+00:01:56,418 --> 00:01:58,109
+mudando a organização eàs vezes a gente muda a
+
+38
+00:01:58,120 --> 00:02:00,430
+organização e muda a função, acaba eh uma coisa
+
+39
+00:02:00,439 --> 00:02:02,829
+acaba gerando a outra, né.
+
+40
+00:02:02,838 --> 00:02:05,489
+Eh Mas por que isso Porque agora eu vou eh
+
+41
+00:02:05,500 --> 00:02:09,229
+efetivamente eh, eh implementar o meu processo, Tá
+
+42
+00:02:09,240 --> 00:02:12,990
+Então Esse aqui é o item aqui do primeiro aqui
+
+43
+00:02:13,000 --> 00:02:15,618
+em cima isso minha canetinha aqui.
+
+44
+00:02:15,629 --> 00:02:18,979
+Pronto, olha, agora vamos lá implementar as mudanças
+
+45
+00:02:18,990 --> 00:02:22,379
+no processo e treinamento para o trabalho.
+
+46
+00:02:22,389 --> 00:02:25,618
+Bom, eu tenho que treinar as pessoas pra execução
+
+47
+00:02:25,629 --> 00:02:26,439
+do processo.
+
+48
+00:02:27,088 --> 00:02:32,520
+Ninguém eh quando o processo é desenhado muitas das vezes,
+
+49
+00:02:32,528 --> 00:02:37,319
+né? E ele não vai envolver toda a equipe,
+
+50
+00:02:38,689 --> 00:02:41,899
+quase nunca envolve, Você tem uma equipe de sei
+
+51
+00:02:41,909 --> 00:02:42,278
+lá.
+
+52
+00:02:43,449 --> 00:02:45,308
+Dez pessoas, quinze pessoas, vinte pessoas, não
+
+53
+00:02:45,319 --> 00:02:46,258
+envolve todas as equipes.
+
+54
+00:02:46,270 --> 00:02:51,419
+Geralmente você envolve as pessoas mais estratégias de mais de
+
+55
+00:02:51,429 --> 00:02:56,500
+de de um nível mais eh tático e estratégico pra
+
+56
+00:02:56,508 --> 00:03:00,599
+definir aquele processo Então, a operação do processo em
+
+57
+00:03:00,610 --> 00:03:01,939
+si executado por outras pessoas.
+
+58
+00:03:01,949 --> 00:03:04,038
+E elas precisam ser treinadas, né? Então você
+
+59
+00:03:04,050 --> 00:03:07,879
+vai implementar essas mudanças no processo e treinamento para o
+
+60
+00:03:07,889 --> 00:03:08,838
+trabalho efetivo.
+
+61
+00:03:08,849 --> 00:03:10,460
+Então, segundo item aqui.
+
+62
+00:03:10,469 --> 00:03:15,580
+O terceiro é a entrada em operação, da tecnologia.
+
+63
+00:03:15,588 --> 00:03:18,618
+Então agora você vai fazer com que ela ocorra,
+
+64
+00:03:18,629 --> 00:03:21,939
+né? A A, A, a a vamos
+
+65
+00:03:21,949 --> 00:03:23,399
+executar o processo propriamente dito.
+
+66
+00:03:23,409 --> 00:03:24,860
+Ou seja agora ele vai começar.
+
+67
+00:03:24,868 --> 00:03:27,038
+Então, isso vai, tá lá dentro da da
+
+68
+00:03:27,050 --> 00:03:30,240
+da dessa entrada, da operação, de tecnologia,
+
+69
+00:03:30,250 --> 00:03:32,979
+né? Então treinamos mudamos, né? Muda.
+
+70
+00:03:32,990 --> 00:03:35,699
+Fizemos a mudança organizacional, Mudamos as funções, as
+
+71
+00:03:35,710 --> 00:03:38,219
+pessoas tão treinadas já sabem o que tá fazendo,
+
+72
+00:03:38,229 --> 00:03:40,909
+agora vamos entrar em operação, então, tá aqui.
+
+73
+00:03:40,919 --> 00:03:43,258
+Oh, entramos em operação pra gente depois que a
+
+74
+00:03:43,270 --> 00:03:46,020
+gente entra em operação, né? A gente vai
+
+75
+00:03:46,028 --> 00:03:52,449
+garantir a parte do eh estabilizar a tecnologia, né?
+
+76
+00:03:52,460 --> 00:03:53,490
+E monitorar o desempenho.
+
+77
+00:03:53,500 --> 00:03:56,649
+Então, até que haja um um um aqui tem!
+
+78
+00:03:56,659 --> 00:03:59,899
+Três, né? Até que haja um um ganho
+
+79
+00:03:59,909 --> 00:04:04,419
+de produtividade efetivo, né eh a tecnologia tem que
+
+80
+00:04:04,429 --> 00:04:06,240
+ser estabilizada! O que que é se estabilizar a
+
+81
+00:04:06,250 --> 00:04:10,819
+tecnologia é que as pessoas eh realmente dominam aquilo,
+
+82
+00:04:10,830 --> 00:04:13,099
+elas já têm a assertividade daquilo.
+
+83
+00:04:13,110 --> 00:04:16,559
+Elas já se sentem confortáveis na execução, então,
+
+84
+00:04:16,569 --> 00:04:20,358
+elas têm o conhecimento necessário pra aquilo acontecer.
+
+85
+00:04:20,369 --> 00:04:24,298
+Então isso é estabilizar a tecnologia e monitorar o desempenho,
+
+86
+00:04:24,309 --> 00:04:26,980
+né? Como conforme a gente já já comentou,
+
+87
+00:04:26,988 --> 00:04:31,040
+aqui eh o monitoramento é a parte da da da
+
+88
+00:04:31,048 --> 00:04:34,119
+gestão em si né? Do controle do controle pra
+
+89
+00:04:34,129 --> 00:04:37,480
+efetivamente garantir que aquilo aquilo que a gente colocou realmente
+
+90
+00:04:37,488 --> 00:04:38,459
+tá legal.
+
+91
+00:04:38,470 --> 00:04:40,319
+Que a gente tá atendendo, que a gente tá
+
+92
+00:04:40,329 --> 00:04:43,399
+cumprindo, que o que foi de desenhado está acontecendo,
+
+93
+00:04:43,410 --> 00:04:48,199
+que os resultados estão em conformidade com aqueles pressupostos que
+
+94
+00:04:48,209 --> 00:04:52,119
+nós definimos com as metas que nós elaboramos.
+
+95
+00:04:52,129 --> 00:04:54,480
+Então aí, esse é o monitorar, desempenho,
+
+96
+00:04:54,488 --> 00:04:58,798
+aí a gente tá efetivamente controlando, né? O
+
+97
+00:04:58,809 --> 00:05:02,845
+nosso processo e o desempenho desse, garantindo que ele
+
+98
+00:05:02,855 --> 00:05:06,704
+esteja adequadoà operação Pra qual ele está? Eh
+
+99
+00:05:06,713 --> 00:05:10,483
+suportando ali Okay, Então essa é a fase!
+
+100
+00:05:10,494 --> 00:05:14,463
+Eh nossa fase quatro E na fase cinco a gente
+
+101
+00:05:14,475 --> 00:05:16,744
+tem a medição do sucesso.
+
+102
+00:05:16,754 --> 00:05:20,684
+Tá aqui oh fase cinco Medição de sucesso Okay então
+
+103
+00:05:20,694 --> 00:05:24,184
+oh, vou medir a realização dos benefícios.
+
+104
+00:05:24,194 --> 00:05:27,824
+Realmente o processo que eu escrevi, que eu defini
+
+105
+00:05:27,834 --> 00:05:31,149
+que eu implantei tá? Tá realizando os o o
+
+106
+00:05:31,160 --> 00:05:33,588
+O, o, os resultados, os benefícios,
+
+107
+00:05:33,600 --> 00:05:34,509
+tá entregando.
+
+108
+00:05:34,519 --> 00:05:38,928
+Aquilo que eu, que eu construí tá surtindo efeito.
+
+109
+00:05:39,608 --> 00:05:42,660
+São perguntas importantes, né? Porque não é só
+
+110
+00:05:42,670 --> 00:05:46,738
+implementar e monitorar é você ver se aquilo que você
+
+111
+00:05:46,750 --> 00:05:50,269
+definiu como benefício pra aquele processo, realmente tá sendo
+
+112
+00:05:50,278 --> 00:05:50,778
+atingido.
+
+113
+00:05:50,790 --> 00:05:54,678
+Então tá aqui oh, e mais uma vez para
+
+114
+00:05:54,689 --> 00:05:57,980
+eh, eh verificar se isso realmente acontece.
+
+115
+00:05:57,988 --> 00:06:01,358
+A gente mede e monitora o desempenho do processo.
+
+116
+00:06:01,369 --> 00:06:05,059
+Veja que a medição ela, ela acompanha o nosso
+
+117
+00:06:05,069 --> 00:06:08,579
+processo, né? Como um todo, de forma
+
+118
+00:06:08,588 --> 00:06:10,459
+a garantir que aquilo tá sendo, tá sendo a
+
+119
+00:06:10,470 --> 00:06:12,879
+a atendido, né? Que eu estou entregando,
+
+120
+00:06:12,889 --> 00:06:16,819
+Então eh monitorar desempenho do processo.
+
+121
+00:06:16,829 --> 00:06:19,629
+Como medir? Eh como fase cinco De medir o
+
+122
+00:06:19,639 --> 00:06:23,480
+sucesso e depois no No, no no próximo?
+
+123
+00:06:24,108 --> 00:06:26,809
+EH Item na A gente tem que implementar o controle
+
+124
+00:06:26,819 --> 00:06:28,689
+de documentação de processo.
+
+125
+00:06:28,699 --> 00:06:31,000
+Então é uma outra fase queàs vezes, as
+
+126
+00:06:31,009 --> 00:06:33,238
+pessoas não acham importante e e muitas das vezes é
+
+127
+00:06:33,250 --> 00:06:34,019
+negligenciada.
+
+128
+00:06:34,028 --> 00:06:37,399
+O que que acontece? Você pegou o processo?
+
+129
+00:06:37,410 --> 00:06:39,879
+Esc desenhou o processo, construiu o processo.
+
+130
+00:06:39,889 --> 00:06:40,588
+Tá ali lindo.
+
+131
+00:06:40,600 --> 00:06:46,350
+Maravilhoso, né? E eh documentou ele.
+
+132
+00:06:46,358 --> 00:06:48,488
+O que que é documentário é é realmente colocar lá
+
+133
+00:06:48,500 --> 00:06:51,369
+no papel ou no software, enfim, aqui tá
+
+134
+00:06:51,379 --> 00:06:52,949
+lá Lindão, né, bonitão.
+
+135
+00:06:52,959 --> 00:06:58,548
+Okay eh esse implementar controle de documentação do processo?
+
+136
+00:06:58,559 --> 00:06:59,730
+Tem algumas perspectivas.
+
+137
+00:06:59,738 --> 00:07:02,379
+Primeiro é você garantir que aquilo que foi escrito está
+
+138
+00:07:02,389 --> 00:07:02,988
+lá.
+
+139
+00:07:03,000 --> 00:07:07,569
+Eh normatizado efetivamente é de conhecimento, foi comunicado,
+
+140
+00:07:07,579 --> 00:07:09,028
+né? Ter lá uma base pra isso.
+
+141
+00:07:09,040 --> 00:07:11,790
+E o segundo é que eu também preciso garantir que
+
+142
+00:07:11,798 --> 00:07:14,309
+aquela mudança aquilo que foi implementado, o meu processo,
+
+143
+00:07:14,319 --> 00:07:16,108
+ele vai ser automaticamente ele.
+
+144
+00:07:16,119 --> 00:07:18,108
+E como existe o processo de melhoria.
+
+145
+00:07:18,119 --> 00:07:19,509
+Contínua, né? Que é aqui, oh a
+
+146
+00:07:19,519 --> 00:07:23,149
+fase quarta melhoria contínua, ele vai acabar muitas das
+
+147
+00:07:23,160 --> 00:07:27,829
+vezes, eh impactando nessa documentação aqui, Porque ele
+
+148
+00:07:27,838 --> 00:07:30,829
+vai gerar as mudanças geradas em cima do processo.
+
+149
+00:07:30,838 --> 00:07:34,019
+Elas precisam ser eh, eh ser representado.
+
+150
+00:07:34,028 --> 00:07:37,480
+Ou estarem representadas dentro do processo que eu mudei,
+
+151
+00:07:37,488 --> 00:07:38,920
+tem que tá escrito ali dentro.
+
+152
+00:07:38,928 --> 00:07:39,879
+O que foi mudado.
+
+153
+00:07:39,889 --> 00:07:42,108
+O que que foi mudado? O que que eh?
+
+154
+00:07:42,119 --> 00:07:45,278
+Ensejou aquela mudança ou o que ensejou aquele processo?
+
+155
+00:07:45,290 --> 00:07:48,199
+Com que finalidade ele ele ele foi construído? Ele
+
+156
+00:07:48,209 --> 00:07:48,559
+nasceu.
+
+157
+00:07:48,569 --> 00:07:51,358
+Com que necessidade? Pra atender o que isso tem?
+
+158
+00:07:51,369 --> 00:07:53,649
+Que tá documentado, Porque eh.
+
+159
+00:07:53,660 --> 00:07:57,869
+A gente não pode confiar, né? Eh na
+
+160
+00:07:57,879 --> 00:08:04,088
+capacidade de de de de eh de lembrança das pessoas
+
+161
+00:08:04,100 --> 00:08:07,250
+acerca do processo, porque as pessoas passam, mas
+
+162
+00:08:07,259 --> 00:08:08,428
+o processo vai ficar.
+
+163
+00:08:08,889 --> 00:08:11,309
+Então eu não posso confiar que aquele entendimento, aquele
+
+164
+00:08:11,319 --> 00:08:13,379
+conhecimento, tá na cabeça de fulano ou do beltrano.
+
+165
+00:08:13,389 --> 00:08:16,459
+Então eu preciso trabalhar o controle da e a documentação
+
+166
+00:08:16,470 --> 00:08:19,399
+desse né? E, por último, não menos
+
+167
+00:08:19,410 --> 00:08:22,509
+importante o plano de melhoria contínua, que é o
+
+168
+00:08:22,519 --> 00:08:23,738
+p d, ciclo, p DC a que a
+
+169
+00:08:23,750 --> 00:08:26,019
+gente já falou, né? Ou seja, plano
+
+170
+00:08:26,028 --> 00:08:27,399
+de melhoria contínua.
+
+171
+00:08:27,410 --> 00:08:29,160
+Eu olho o meu processo.
+
+172
+00:08:29,170 --> 00:08:32,759
+Eu avalio o meu processo, revejo o meu processo
+
+173
+00:08:33,080 --> 00:08:37,048
+e vou implementar mudanças que são pertinentes a este!
+
+174
+00:08:37,058 --> 00:08:40,070
+Por quê? Porque o mundo está em constante mudança,
+
+175
+00:08:40,908 --> 00:08:44,028
+né? Então vamos lá eh você tá executando um
+
+176
+00:08:44,038 --> 00:08:45,067
+processo, vamos supor.
+
+177
+00:08:45,077 --> 00:08:48,688
+Em dois mil e e vinte veio a l GP
+
+178
+00:08:48,697 --> 00:08:50,898
+D efetivamente em dois mil e vinte e dois.
+
+179
+00:08:50,908 --> 00:08:52,308
+L GP d, que é a lei geral de
+
+180
+00:08:52,317 --> 00:08:56,087
+proteção de dados, né? Eh dados pessoais,
+
+181
+00:08:56,097 --> 00:08:57,947
+né? E E entrou em vigor.
+
+182
+00:08:57,957 --> 00:09:00,750
+E tá aí? Eh, eh, vamos dizer
+
+183
+00:09:00,759 --> 00:09:02,308
+assim na Vanguarda.
+
+184
+00:09:02,320 --> 00:09:05,149
+Então, quando eu fiz um processo em dois mil
+
+185
+00:09:05,158 --> 00:09:07,149
+e quinze, por exemplo, dois mil e dezesseis
+
+186
+00:09:07,158 --> 00:09:09,269
+dezessete não existe l GP d agora existe.
+
+187
+00:09:09,279 --> 00:09:11,609
+Então eu mudei uma mudança legal.
+
+188
+00:09:11,619 --> 00:09:13,989
+Vai encerrar uma mudança de processo Então preciso fazer essa
+
+189
+00:09:14,000 --> 00:09:17,690
+melhoria contínua, até pra poder representar essa nova.
+
+190
+00:09:17,700 --> 00:09:22,190
+Eh essa nova verdade que apareceu aí tá bom,
+
+191
+00:09:22,200 --> 00:09:25,668
+então quando a gente pensa em processo, realização e
+
+192
+00:09:25,678 --> 00:09:28,840
+medição de benefícios contra os objetivos originais, né?
+
+193
+00:09:28,849 --> 00:09:30,798
+Então é um pressuposto que eu tenho que analisar.
+
+194
+00:09:30,808 --> 00:09:33,279
+Eu tenho que implementar esse gover, esse modelo de
+
+195
+00:09:33,288 --> 00:09:34,298
+gestão e governança.
+
+196
+00:09:34,308 --> 00:09:37,210
+Também já falamos a importância do ciclo P D S
+
+197
+00:09:37,219 --> 00:09:38,979
+A que é fundamental.
+
+198
+00:09:38,989 --> 00:09:42,639
+E esse a gestão de processo como um objeto de
+
+199
+00:09:42,649 --> 00:09:48,729
+transformação organizacional que requer conhecimento, requer dedicação, requer
+
+200
+00:09:48,739 --> 00:09:50,210
+aceitação.
+
+201
+00:09:50,219 --> 00:09:51,869
+Isso é fundamental.
+
+202
+00:09:51,879 --> 00:09:53,869
+É fundamental o apoio da do BORG.
+
+203
+00:09:53,879 --> 00:09:55,950
+É fundamental o apoio executivo.
+
+204
+00:09:55,960 --> 00:09:59,418
+É fundamental o apoio organizacional e o entendimento dessa organização
+
+205
+00:09:59,428 --> 00:10:01,729
+Okay Obrigado até a próxima!
+

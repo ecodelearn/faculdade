@@ -1,0 +1,524 @@
+1
+00:00:06,719 --> 00:00:11,189
+vamos falar um pouquinho sobre JavaScript objetos tion ou Jason,
+
+2
+00:00:11,198 --> 00:00:14,648
+né? O Jason é fundamental hoje em dia porque
+
+3
+00:00:14,659 --> 00:00:18,649
+os ase fo adotaram como padrão a transferência de dados
+
+4
+00:00:18,658 --> 00:00:20,989
+nesse formato que é o Jason, né? É
+
+5
+00:00:21,000 --> 00:00:24,609
+um formato leve, né? Que eh originalmente seria
+
+6
+00:00:24,620 --> 00:00:28,010
+pra descrever objetos na cinta Que script E aí eu
+
+7
+00:00:28,019 --> 00:00:32,569
+abro um parênteses objetos não classes tá no paradigma da
+
+8
+00:00:32,579 --> 00:00:36,418
+orientação Objetos você tem a definição de classes e estancia
+
+9
+00:00:36,429 --> 00:00:37,179
+objetos.
+
+10
+00:00:37,189 --> 00:00:39,139
+O Jason não define classes.
+
+11
+00:00:39,149 --> 00:00:42,658
+Ele apenas define objetos porque ele não define uma estrutura,
+
+12
+00:00:42,668 --> 00:00:45,908
+ele só descreve o objeto, tá então é uma
+
+13
+00:00:45,918 --> 00:00:47,969
+coisa um pouquinho diferente de você fazer, por exemplo
+
+14
+00:00:47,978 --> 00:00:52,340
+uma classe maix e daí você estancia um objeto,
+
+15
+00:00:52,348 --> 00:00:57,259
+né Vamos lá, então já inscrito de objetos noti
+
+16
+00:00:58,649 --> 00:01:01,380
+é um formato bem menos verso que o x ML,
+
+17
+00:01:01,389 --> 00:01:04,459
+o que significa o seguinte você escreve menos tá escreve
+
+18
+00:01:04,469 --> 00:01:06,778
+menos, tem menos complexidade? Não tem aquela coisa
+
+19
+00:01:06,790 --> 00:01:09,659
+do x m esquema pra você ter que definir um
+
+20
+00:01:09,668 --> 00:01:12,299
+esquema x ML pra poder saber o que é utilizado
+
+21
+00:01:12,308 --> 00:01:12,558
+ali.
+
+22
+00:01:12,909 --> 00:01:14,198
+Então, ao mesmo tempo em que ele é menos
+
+23
+00:01:14,209 --> 00:01:16,198
+verso que ele, é mais fácil, ele é
+
+24
+00:01:16,209 --> 00:01:18,338
+menos adequado pra bebe, né? Quando se fala
+
+25
+00:01:18,349 --> 00:01:19,939
+de comunicação de empresa pra empresa.
+
+26
+00:01:19,948 --> 00:01:22,579
+Por quê? Que é menos formal? Você escreve
+
+27
+00:01:22,588 --> 00:01:24,879
+o que quiser e manda, né? Tanto que
+
+28
+00:01:24,888 --> 00:01:27,778
+hoje em dia já existe um ser um formato de
+
+29
+00:01:27,790 --> 00:01:30,198
+descrição de web que é o W e D L,
+
+30
+00:01:30,209 --> 00:01:35,230
+que é o web aplica, tá, eh,
+
+31
+00:01:35,239 --> 00:01:37,829
+não tem tão definição de esquemas, como tem no
+
+32
+00:01:37,838 --> 00:01:40,859
+No caso do soup, leve e compatível com o
+
+33
+00:01:40,870 --> 00:01:42,790
+Java Script, isso é bem legal, né?
+
+34
+00:01:42,799 --> 00:01:45,510
+Se você trabalha com a plataforma Java Script como JS
+
+35
+00:01:45,519 --> 00:01:48,219
+eh, você tem a possibilidade de pegar aquela resposta
+
+36
+00:01:48,230 --> 00:01:50,680
+diretamente, sem conversões nem nada.
+
+37
+00:01:50,689 --> 00:01:53,250
+Tá você simplesmente faz um par e joga pra um
+
+38
+00:01:53,260 --> 00:01:56,409
+objeto e ele vai trabalhar naturalmente com a informação que
+
+39
+00:01:56,418 --> 00:01:58,269
+dá muita agilidade na programação.
+
+40
+00:01:58,278 --> 00:02:01,948
+Tá, eh! É uma estrutura recurva, ou
+
+41
+00:02:01,959 --> 00:02:05,079
+seja, você pode ter um objeto, uma da
+
+42
+00:02:05,088 --> 00:02:08,659
+definido pela chave e dentro desse objeto outro objeto,
+
+43
+00:02:08,669 --> 00:02:13,240
+por exemplo nome eh uma pessoa pessoa aí tem as
+
+44
+00:02:13,250 --> 00:02:15,088
+característica da pessoa dentro de pessoa.
+
+45
+00:02:15,099 --> 00:02:19,080
+Eu posso ter endereço que é outro tipo de informação
+
+46
+00:02:19,088 --> 00:02:21,990
+tá composta de outros elementos, né? Eh,
+
+47
+00:02:22,000 --> 00:02:23,939
+você pode definir então objetos.
+
+48
+00:02:23,949 --> 00:02:27,199
+Você pode definir também vetores além de propriedades comuns.
+
+49
+00:02:27,210 --> 00:02:30,528
+Como é que funciona isso? aqui aqui eu tenho
+
+50
+00:02:30,538 --> 00:02:34,610
+um Jason, né? Um arquivo formato jason bem
+
+51
+00:02:34,618 --> 00:02:38,250
+simples tá ali eu tenho eh atributos.
+
+52
+00:02:38,258 --> 00:02:41,689
+A chave identifica o início e o final de um
+
+53
+00:02:41,699 --> 00:02:43,409
+objeto abre chave, fecha a chave ali.
+
+54
+00:02:43,419 --> 00:02:46,800
+Eu tenho um objeto no formato Jason, tá ali.
+
+55
+00:02:46,808 --> 00:02:49,288
+Eu tenho atributos pra esse objeto, né? E
+
+56
+00:02:49,300 --> 00:02:53,830
+sempre seria atributo dois pontos Valor vírgula, próximo tributo,
+
+57
+00:02:53,838 --> 00:02:57,679
+né? Então assim eh seria nome John Step teria
+
+58
+00:02:57,689 --> 00:02:58,788
+pode ser um atributo.
+
+59
+00:02:59,179 --> 00:03:02,389
+Posso ser um atributo numérico? Posso ser um atributo
+
+60
+00:03:02,399 --> 00:03:05,270
+bule ano? Ou posso ser um atributo nulo?
+
+61
+00:03:05,278 --> 00:03:06,270
+Tá nossa.
+
+62
+00:03:06,278 --> 00:03:08,429
+Isso aí vai dar uma confusão depois, quando a
+
+63
+00:03:08,439 --> 00:03:11,189
+gente for trabalhar com as inserções quando se fala de
+
+64
+00:03:11,199 --> 00:03:12,058
+um servidor.
+
+65
+00:03:12,069 --> 00:03:16,028
+Ah, por quê? Porque quando a gente trabalha
+
+66
+00:03:16,038 --> 00:03:17,979
+com você vai receber uma informação.
+
+67
+00:03:17,990 --> 00:03:24,679
+Jason Informação zero é numérica nulo, é não informado
+
+68
+00:03:24,689 --> 00:03:26,258
+e é não existente.
+
+69
+00:03:26,960 --> 00:03:29,270
+Então você pode pode ter que trabalhar com três situações
+
+70
+00:03:29,278 --> 00:03:29,969
+possíveis.
+
+71
+00:03:29,979 --> 00:03:32,050
+Aquele campo tem valor zero.
+
+72
+00:03:32,058 --> 00:03:34,969
+Aquele campo é inteiro, mas ele tem um valor
+
+73
+00:03:34,979 --> 00:03:38,569
+nulo, ou ele pode ser um campo não definido
+
+74
+00:03:38,580 --> 00:03:43,008
+e as três situações podem gerar respostas diferentes, né?
+
+75
+00:03:43,020 --> 00:03:46,490
+Bom, aqui eu já tenho um objeto composto de
+
+76
+00:03:46,500 --> 00:03:47,528
+outro, né.
+
+77
+00:03:47,538 --> 00:03:49,889
+Eu tenho objeto principal que seria uma pessoa.
+
+78
+00:03:49,899 --> 00:03:52,429
+Eu tenho lá o nome, a idade E nessa
+
+79
+00:03:52,439 --> 00:03:55,368
+em pessoa eu tenho um campo chamado endereço.
+
+80
+00:03:55,379 --> 00:03:58,210
+Só que o endereço eu abro chave novamente.
+
+81
+00:03:58,219 --> 00:04:01,088
+Eu tenho um novo objeto, né? Então isso
+
+82
+00:04:01,099 --> 00:04:05,740
+significa que é a recursividade desse tipo de estrutura,
+
+83
+00:04:05,750 --> 00:04:08,610
+né? O Jason permite que você defina um objeto
+
+84
+00:04:08,618 --> 00:04:10,250
+composto de outros objetos.
+
+85
+00:04:10,258 --> 00:04:13,618
+Recurva, né? Então te dá muita liberdade,
+
+86
+00:04:13,629 --> 00:04:16,428
+Você pode organizar muito bem essa informação, né?
+
+87
+00:04:16,439 --> 00:04:20,588
+Eh os bancos relacionais, né? Quando cê fala,
+
+88
+00:04:20,600 --> 00:04:23,048
+por exemplo, do uma s q l, o
+
+89
+00:04:23,059 --> 00:04:25,889
+k, o oco ou algum m A e d
+
+90
+00:04:25,899 --> 00:04:29,670
+b, esses bancos trabalham com a estrutura de tabelas,
+
+91
+00:04:29,678 --> 00:04:33,759
+né? Onde eh você tem lá campus e e
+
+92
+00:04:33,769 --> 00:04:37,290
+você coloca os valores ao nível dos registros, que
+
+93
+00:04:37,298 --> 00:04:39,528
+é muito parecido com classe e objeto? Tá?
+
+94
+00:04:39,920 --> 00:04:42,928
+Mas eles não são hierárquicos, né? Fora algumas
+
+95
+00:04:42,939 --> 00:04:45,528
+características muito pessoais de alguns bancos.
+
+96
+00:04:45,540 --> 00:04:48,100
+Já alguns bancos que a gente fala de eh,
+
+97
+00:04:48,108 --> 00:04:50,619
+sendo bancos semi estruturados que são usados muito no big
+
+98
+00:04:50,629 --> 00:04:51,910
+data, como Mongo D B.
+
+99
+00:04:52,588 --> 00:04:55,600
+Eles trabalham diretamente com Jason, porque eles trabalham com
+
+100
+00:04:55,608 --> 00:04:58,238
+dados semi estruturados, dados que você pode modificar,
+
+101
+00:04:58,250 --> 00:05:00,959
+que pode ter essa hierarquia dentro do dentro dele mesmo.
+
+102
+00:05:00,970 --> 00:05:05,278
+Tá então você perde em termos de eh normalização de
+
+103
+00:05:05,290 --> 00:05:09,000
+banco, mas ganha em termos de eh da presença
+
+104
+00:05:09,009 --> 00:05:12,278
+da informação, da facilidade de acessoà informação,
+
+105
+00:05:12,290 --> 00:05:15,309
+né? Então vamos continuar aqui aqui.
+
+106
+00:05:15,319 --> 00:05:17,028
+Eu tenho um outro exemplo que envolve.
+
+107
+00:05:17,040 --> 00:05:19,629
+Ah, o uso de um vetor, né O
+
+108
+00:05:19,639 --> 00:05:22,670
+vetor que no caso a gente usa o colchete aqui
+
+109
+00:05:22,678 --> 00:05:26,548
+eu tenho Eh Ana Clark, Robert Clark Star eh
+
+110
+00:05:26,559 --> 00:05:30,959
+stefano Nomes genéricos, né? Eh, ali seriam
+
+111
+00:05:30,970 --> 00:05:34,920
+os dependentes desse primeiro da pessoa, né? Então
+
+112
+00:05:34,928 --> 00:05:37,439
+assim quando você tem uma ocorrência que é multivariada,
+
+113
+00:05:37,449 --> 00:05:40,838
+você tem várias ocorrências pra aquele cara, você pode
+
+114
+00:05:40,850 --> 00:05:45,639
+ter um vetor com o uso de colchete, sendo
+
+115
+00:05:45,649 --> 00:05:50,040
+que eu posso ter objetos que contém vetores de objetos.
+
+116
+00:05:50,048 --> 00:05:52,040
+Se eu coloco um colchete ali dentro e eu coloco
+
+117
+00:05:52,048 --> 00:05:54,959
+uma chave, eu posso ter vários objetos dentro de
+
+118
+00:05:54,970 --> 00:05:57,910
+um vetor e esses objetos podem ter vetores de outras
+
+119
+00:05:57,920 --> 00:06:01,290
+coisas? Essa coisa é totalmente recurva, né?
+
+120
+00:06:02,449 --> 00:06:06,350
+Bom então esse é o formato jason, né?
+
+121
+00:06:06,358 --> 00:06:09,778
+Eh, em que você tem essa essa característica recurva
+
+122
+00:06:09,790 --> 00:06:13,509
+esse formato mais leve E ele vai ser fundamental para
+
+123
+00:06:13,519 --> 00:06:16,170
+trabalhar com o alicerce do tipo, né? Hoje
+
+124
+00:06:16,178 --> 00:06:18,829
+em dia é um formato muito usado nas mais diversas
+
+125
+00:06:18,838 --> 00:06:22,350
+plataformas e a gente precisa realmente conhecê-lo saber as suas
+
+126
+00:06:22,358 --> 00:06:23,028
+características.
+
+127
+00:06:23,040 --> 00:06:26,428
+Saber como trabalhar ele ao nível do Java script quando
+
+128
+00:06:26,439 --> 00:06:29,569
+se trabalha com no JS bom, a gente então
+
+129
+00:06:29,579 --> 00:06:30,649
+fica por aqui.
+
+130
+00:06:30,660 --> 00:06:33,970
+Espero ter agregado conhecimento, bons estudos e até a
+
+131
+00:06:33,980 --> 00:06:34,350
+próxima.
+

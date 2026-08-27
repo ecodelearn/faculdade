@@ -1,0 +1,512 @@
+1
+00:00:06,738 --> 00:00:10,550
+Olá, vamos falar um pouquinho sobre gerenciamento de transações,
+
+2
+00:00:10,560 --> 00:00:15,429
+né? Eh em algumas situações eu tenho que verificar
+
+3
+00:00:15,439 --> 00:00:19,429
+várias inserções, várias alterações, várias operações sobre o
+
+4
+00:00:19,440 --> 00:00:23,179
+banco ao mesmo tempo e eh uma transição.
+
+5
+00:00:23,190 --> 00:00:26,839
+Uma transação seria um um bloco de operações que eu
+
+6
+00:00:26,850 --> 00:00:29,458
+posso confirmar ou cancelar ela é uma transação.
+
+7
+00:00:29,469 --> 00:00:32,859
+Essa transação seria o essa, esse conjunto de operações,
+
+8
+00:00:32,868 --> 00:00:35,700
+ou ele é feito por completo, ou ele não
+
+9
+00:00:35,709 --> 00:00:38,298
+é feito, né? Então assim, por exemplo,
+
+10
+00:00:38,310 --> 00:00:40,158
+você tem uma nota fiscal ou tem a inserção de
+
+11
+00:00:40,168 --> 00:00:43,380
+vários itens de uma nota? Eh eu vou ter
+
+12
+00:00:43,389 --> 00:00:44,500
+que inserir todos os itens.
+
+13
+00:00:44,509 --> 00:00:48,039
+Se algum falhar minha nota já não tá mais valendo
+
+14
+00:00:48,048 --> 00:00:49,200
+pra aquilo que ela representa.
+
+15
+00:00:49,209 --> 00:00:51,978
+Então eu posso ter lá informações de transações que são
+
+16
+00:00:51,990 --> 00:00:56,908
+confirmadas caso eu consiga colocar tudo ou canceladas caso eu
+
+17
+00:00:56,918 --> 00:01:00,118
+não consiga fazer aquela operação funcional, né? EH
+
+18
+00:01:00,130 --> 00:01:02,520
+como por exemplo, você vai passar alguma coisa no
+
+19
+00:01:02,529 --> 00:01:04,799
+cartão? Você pode confirmar ou cancelar? Pode dar
+
+20
+00:01:04,808 --> 00:01:07,400
+um erro, né? É uma transação, só
+
+21
+00:01:07,409 --> 00:01:10,000
+que aqui é uma transação em termos de instruções de
+
+22
+00:01:10,010 --> 00:01:11,900
+banco, de dados, né? Bom? Vamos
+
+23
+00:01:11,909 --> 00:01:17,209
+lá então é gerente de transações, tá? Ah,
+
+24
+00:01:17,219 --> 00:01:22,209
+as transações são mais pra operações em lote principalmente tá
+
+25
+00:01:22,219 --> 00:01:25,370
+ou operações que tenham, por exemplo, dependências eh
+
+26
+00:01:25,379 --> 00:01:31,370
+você tem elementos que estão associados, aquele aquele registro,
+
+27
+00:01:31,379 --> 00:01:35,329
+você não tem uma como saber se aquilo vai impactar
+
+28
+00:01:35,338 --> 00:01:37,609
+em alguma coisa, né? Mas, assim,
+
+29
+00:01:37,620 --> 00:01:39,849
+em geral a gente tem operações mais completas, mais
+
+30
+00:01:39,859 --> 00:01:43,329
+complexas, né? E aí você tá fazendo operações
+
+31
+00:01:43,338 --> 00:01:46,088
+então em lote e a ideia é o que é
+
+32
+00:01:46,099 --> 00:01:50,370
+que você seja capaz, né? Nessa operação de
+
+33
+00:01:50,379 --> 00:01:53,730
+desfazer aquilo que cê tinha, eh todas as operações
+
+34
+00:01:53,739 --> 00:01:56,930
+sem ter que desfazer uma por uma ou confirmar todas.
+
+35
+00:01:56,939 --> 00:01:58,489
+Tá, então, as transações.
+
+36
+00:01:58,500 --> 00:02:01,329
+Elas são chamadas de ácido, né? Acid que
+
+37
+00:02:01,338 --> 00:02:07,180
+seria? Eh as palavrinhas que formam atomic consistência,
+
+38
+00:02:07,189 --> 00:02:10,939
+isolamento e durabilidade O que significa isso? As transações
+
+39
+00:02:10,949 --> 00:02:15,069
+são atômicas, ela é aquilo naquele ponto e acabou,
+
+40
+00:02:15,080 --> 00:02:17,439
+né? Então, assim são atômicas, não são
+
+41
+00:02:17,449 --> 00:02:20,469
+coisas no sistema inteiro, são elementos pontuais, eh
+
+42
+00:02:20,479 --> 00:02:24,210
+envolvendo só um certo número de operações são consistentes,
+
+43
+00:02:25,219 --> 00:02:27,788
+né? CÊ tem que ter consistência! Elas não
+
+44
+00:02:27,800 --> 00:02:31,629
+podem eh alterar o estado do sistema de uma forma
+
+45
+00:02:31,639 --> 00:02:32,368
+inconsistente.
+
+46
+00:02:32,939 --> 00:02:35,550
+São isos, né? São, Tem um isolamento.
+
+47
+00:02:35,558 --> 00:02:39,069
+O que acontece naquela transição, tá no mundo dela,
+
+48
+00:02:39,080 --> 00:02:40,149
+tá no escopo dela.
+
+49
+00:02:40,159 --> 00:02:43,429
+Ela não pode ser influenciada por elementos externos e nem
+
+50
+00:02:43,439 --> 00:02:46,719
+pode influenciar elementos externos? Tá? E ela é
+
+51
+00:02:46,729 --> 00:02:49,729
+durável? Quando ela é confirmada não pode mais ser
+
+52
+00:02:49,740 --> 00:02:53,368
+modificada, né? Então você tem as transações com
+
+53
+00:02:53,379 --> 00:02:59,258
+essas características básicas eh de ti e de ti,
+
+54
+00:02:59,270 --> 00:03:01,770
+né? A gente tá falando aí de transições que
+
+55
+00:03:01,778 --> 00:03:05,250
+são manuseadas pelo contêiner, tá e outras que são
+
+56
+00:03:05,258 --> 00:03:08,990
+através da própria codificação, né? Então a gente
+
+57
+00:03:09,000 --> 00:03:13,868
+pode ter eh algumas transições que são eh gerenciadas pelo
+
+58
+00:03:13,879 --> 00:03:17,270
+próprio sequela Lise outras que eu quero gerenciar, né,
+
+59
+00:03:17,278 --> 00:03:19,689
+o comando que eu tenho ali em transação com o
+
+60
+00:03:19,699 --> 00:03:22,449
+comit e o, né? Então, como é
+
+61
+00:03:22,460 --> 00:03:24,500
+que funciona, né? Aqui eu tenho um exemplo
+
+62
+00:03:24,508 --> 00:03:26,788
+de código, né? Essa é uma maneira de
+
+63
+00:03:26,800 --> 00:03:27,409
+transe.
+
+64
+00:03:28,020 --> 00:03:30,868
+Ah, então o manejo de transe pelo próprio sequela.
+
+65
+00:03:30,879 --> 00:03:35,550
+Que que eu tô fazendo ali oh troy, né?
+
+66
+00:03:36,270 --> 00:03:42,058
+Eh resulte igual a sequela esse trans action assim que
+
+67
+00:03:42,069 --> 00:03:51,189
+t se igual trans t olha coisa interessante ele tá
+
+68
+00:03:51,199 --> 00:03:57,250
+mandando sequela esse criar uma transação para a inserção de
+
+69
+00:03:57,258 --> 00:03:59,969
+usuário, né? Então assim qualquer coisa acontece de
+
+70
+00:03:59,979 --> 00:04:01,929
+errado ele já vai fazer o sozinho.
+
+71
+00:04:01,939 --> 00:04:06,610
+Quando você eh usa uma deti, né? No
+
+72
+00:04:06,618 --> 00:04:08,969
+seque Lise, você cria transação, mas quem tá
+
+73
+00:04:08,979 --> 00:04:12,110
+controlando essa transação é o sequelas, então passou dali
+
+74
+00:04:12,118 --> 00:04:12,558
+do inset.
+
+75
+00:04:12,569 --> 00:04:15,020
+Deu certo Comit, tá.
+
+76
+00:04:15,028 --> 00:04:16,439
+E se der um erro, ele vai fazer o
+
+77
+00:04:16,750 --> 00:04:19,290
+sozinho, né? Isso que é legal, né?
+
+78
+00:04:19,298 --> 00:04:21,759
+Eu poderia ter vários inertes ali dentro, Então acabou
+
+79
+00:04:21,769 --> 00:04:23,170
+com aqueles vários inertes.
+
+80
+00:04:23,178 --> 00:04:24,769
+Eu poderia ter lá um comit.
+
+81
+00:04:24,778 --> 00:04:26,970
+Ah, deu tudo certo! Comit! Deu errado.
+
+82
+00:04:26,980 --> 00:04:28,209
+Coloquei uma chave duplicada.
+
+83
+00:04:28,220 --> 00:04:31,338
+Ele vai desfazer todos, não só então eu vou
+
+84
+00:04:31,350 --> 00:04:33,809
+fazer no de forma automática.
+
+85
+00:04:33,819 --> 00:04:37,009
+Aqui no Cat tá bom.
+
+86
+00:04:38,019 --> 00:04:42,358
+E a aged é a gente que programa? Em
+
+87
+00:04:42,369 --> 00:04:44,899
+vez de deixar na mão do sequela, eu vou
+
+88
+00:04:44,910 --> 00:04:46,480
+pegar e eu vou programar isso.
+
+89
+00:04:46,488 --> 00:04:48,329
+Então o que eu faço? Eu crio a transaction
+
+90
+00:04:48,338 --> 00:04:53,278
+fora E aí eu mando executar o comando.
+
+91
+00:04:53,290 --> 00:04:57,838
+Tá usando a transaction a t t ponto comit.
+
+92
+00:04:57,850 --> 00:05:03,540
+Assim espere ele confirmar se eh der um erro qualquer,
+
+93
+00:05:03,548 --> 00:05:06,519
+ele vai cair aqui no erro ele vai, espere
+
+94
+00:05:06,528 --> 00:05:08,000
+ele fazer o né.
+
+95
+00:05:08,009 --> 00:05:11,019
+Tudo assim como tá, então assim ele vai tentar
+
+96
+00:05:11,028 --> 00:05:11,278
+criar.
+
+97
+00:05:11,290 --> 00:05:13,738
+O usuário pode dar erro ou pode dar certo,
+
+98
+00:05:13,750 --> 00:05:18,528
+né? Confirmar assim não deu erro nenhum funcionou Comit
+
+99
+00:05:18,540 --> 00:05:21,480
+erro você tá programando o comit deu erro no cat
+
+100
+00:05:21,488 --> 00:05:26,209
+você escreve A diferença do geds é pô, você
+
+101
+00:05:26,220 --> 00:05:30,048
+não escreve nada no mede que aqui você que escreve
+
+102
+00:05:30,059 --> 00:05:30,528
+o convite.
+
+103
+00:05:30,540 --> 00:05:33,910
+No entanto, você tem agora esse controle.
+
+104
+00:05:33,920 --> 00:05:37,009
+Sobre eh o momento em que acontece o Comte ao
+
+105
+00:05:37,019 --> 00:05:42,389
+rock, né? Bom, também tem os Hulk,
+
+106
+00:05:42,399 --> 00:05:47,209
+tá? Eh o nível de isolamento é importante.
+
+107
+00:05:47,220 --> 00:05:50,790
+Ele vai de ti level significa o seguinte Até onde
+
+108
+00:05:50,798 --> 00:05:52,869
+vai ser o isolamento dessa transição? Vai ser o
+
+109
+00:05:52,879 --> 00:05:55,309
+Comte Só vai ler o que tiver comenta.
+
+110
+00:05:55,319 --> 00:05:57,088
+Vai ser st, né? Cê vai pegar a
+
+111
+00:05:57,100 --> 00:06:00,250
+informação que tá meio marcada como suja, né?
+
+112
+00:06:00,259 --> 00:06:03,209
+E eu tenho o Hulk after comit que vai executar
+
+113
+00:06:03,220 --> 00:06:04,149
+após o comit.
+
+114
+00:06:04,160 --> 00:06:06,829
+Isso aqui seria uma cobec, né? Um hulk
+
+115
+00:06:06,838 --> 00:06:09,119
+que a gente chama de gancho! Eh É como
+
+116
+00:06:09,129 --> 00:06:11,399
+se fosse uma cabe pós o comit, né?
+
+117
+00:06:11,410 --> 00:06:15,949
+Após exec o comit naquela transação, execute tal coisa,
+
+118
+00:06:15,959 --> 00:06:18,600
+né, Então o evento após o comit isso aqui
+
+119
+00:06:18,608 --> 00:06:20,439
+é um um Hulk, né? A gente chama
+
+120
+00:06:20,449 --> 00:06:23,278
+de gancho, né? Que é basicamente uma cobec
+
+121
+00:06:23,290 --> 00:06:30,369
+pra algum evento específico Tá bom! Então, basicamente,
+
+122
+00:06:30,379 --> 00:06:33,259
+a gerência de transações envolve só esses dois modelos,
+
+123
+00:06:33,269 --> 00:06:38,420
+né? E eh com o O o uso das
+
+124
+00:06:38,428 --> 00:06:41,850
+dos HK você ainda pode também colocar alguma Assim,
+
+125
+00:06:41,858 --> 00:06:46,480
+alguma operação pode ser feita após confirmar ou após efetuar
+
+126
+00:06:46,488 --> 00:06:48,209
+um, né? A gente fica, então,
+
+127
+00:06:48,220 --> 00:06:52,488
+nesse ponto em relaçãoàs transações tá? E falando
+
+128
+00:06:52,500 --> 00:06:55,949
+então sobre como fazer as transações tanto quanto
+

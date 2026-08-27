@@ -1,0 +1,744 @@
+1
+00:00:06,578 --> 00:00:09,710
+olá, seja bem vindo nossa disciplina de gerenciamento e
+
+2
+00:00:09,720 --> 00:00:13,269
+moderada de processo de negócio, nós vamos dar continuidade
+
+3
+00:00:13,278 --> 00:00:16,350
+ao nosso aprendizado e nesta disciplina, né? Nesta
+
+4
+00:00:16,359 --> 00:00:19,350
+unidade, agora nós vamos estar falando sobre análise de
+
+5
+00:00:19,359 --> 00:00:23,899
+otimização de desempenho e transformação de processos, de negócio.
+
+6
+00:00:23,908 --> 00:00:28,798
+Mas precisamente nesse bloco falaremos sobre introdução, análise de
+
+7
+00:00:28,809 --> 00:00:29,879
+processo, né.
+
+8
+00:00:29,888 --> 00:00:33,639
+Vamos falar sobre análise de processo e a obtenção de
+
+9
+00:00:33,649 --> 00:00:34,658
+informações.
+
+10
+00:00:34,668 --> 00:00:37,880
+Meu nome é Michel e vou acompanhar vocês nessa jornada
+
+11
+00:00:37,889 --> 00:00:41,539
+durante essas próximas interações.
+
+12
+00:00:41,548 --> 00:00:42,709
+Bom, vamos lá.
+
+13
+00:00:42,719 --> 00:00:46,368
+Então, quando a gente tá pensando em processo,
+
+14
+00:00:46,380 --> 00:00:50,689
+a gente tá pensando na questão da eh execução organizacional
+
+15
+00:00:50,700 --> 00:00:53,090
+das suas atividades, que ocorre por meio de uma
+
+16
+00:00:53,098 --> 00:00:57,423
+entrada é feita uma transformação e eh o resultado é
+
+17
+00:00:57,435 --> 00:01:00,584
+uma saída, né? Dentro dessa transformação eu tenho
+
+18
+00:01:00,594 --> 00:01:03,984
+a agregação de valor para uma geração de valor.
+
+19
+00:01:03,993 --> 00:01:06,183
+Então esse é o nosso assunto de hoje.
+
+20
+00:01:06,194 --> 00:01:08,944
+E a gente vai discorrer um pouco mais sobre essas
+
+21
+00:01:08,954 --> 00:01:11,704
+perspectivas que nós estamos.
+
+22
+00:01:11,713 --> 00:01:14,584
+Eh procurando entender que a primeira coisa que a gente
+
+23
+00:01:14,594 --> 00:01:17,805
+tá vendo aqui na tela é um uma um Pará
+
+24
+00:01:17,814 --> 00:01:22,859
+que ele fala sobre eh o estado do processo atualmente,
+
+25
+00:01:22,870 --> 00:01:25,668
+como ele funciona, que nós chamamos de S s?
+
+26
+00:01:25,680 --> 00:01:28,528
+Né? Eh Quando a gente fala em em em
+
+27
+00:01:28,540 --> 00:01:31,719
+uma otimização, transformação de processo, eu tenho que
+
+28
+00:01:31,730 --> 00:01:34,209
+ter um pressuposto de que o processo é algo que
+
+29
+00:01:34,219 --> 00:01:37,448
+a gente tá executando dentro da organização pra pra pra
+
+30
+00:01:37,459 --> 00:01:39,849
+gerar um produto ou um serviço, né? Então
+
+31
+00:01:39,859 --> 00:01:43,638
+ele vai ter uma uma uma baseado nos seus insumos
+
+32
+00:01:43,650 --> 00:01:46,198
+Ele vai ter alguma coisinha ali que acontece usando aqueles
+
+33
+00:01:46,209 --> 00:01:50,159
+insumos, uma transformação e vai resultar pra mim numa
+
+34
+00:01:50,168 --> 00:01:52,599
+num num, num produto ou um serviço que eu
+
+35
+00:01:52,609 --> 00:01:55,439
+vou, né? Eh entregar aí aos nossos clientes,
+
+36
+00:01:55,448 --> 00:01:58,879
+nossos parceiros, enfim, aqueles que estão eh dentro
+
+37
+00:01:58,888 --> 00:02:02,239
+da nossa perspectiva organizacional, okay então quando a gente
+
+38
+00:02:02,250 --> 00:02:05,719
+fala de eh processo, a primeira percepção que nós
+
+39
+00:02:05,730 --> 00:02:09,838
+temos é eh ter ter o processo em si desenhado
+
+40
+00:02:09,849 --> 00:02:13,778
+com EH eh, vamos dizer ah existente, né?
+
+41
+00:02:13,788 --> 00:02:18,860
+EH, configurado, Enfim trabalhado, especificado.
+
+42
+00:02:18,868 --> 00:02:21,639
+Isso tudo tem que tá em mente e é essa
+
+43
+00:02:21,649 --> 00:02:23,419
+primeira interação que nós temos.
+
+44
+00:02:23,429 --> 00:02:26,159
+Esse primeiro estado que nós temos nós chamamos de S
+
+45
+00:02:26,169 --> 00:02:26,278
+s.
+
+46
+00:02:26,599 --> 00:02:26,788
+Eh.
+
+47
+00:02:26,800 --> 00:02:30,770
+E esse estado é o primeiro passo nessa jornada de
+
+48
+00:02:30,778 --> 00:02:31,409
+otimização.
+
+49
+00:02:31,419 --> 00:02:32,610
+Então o que quer dizer isso? Eu tenho que
+
+50
+00:02:32,618 --> 00:02:34,008
+saber onde eu estou, né.
+
+51
+00:02:34,020 --> 00:02:37,868
+Que é o Isis pra então buscar melhorias dentro desse
+
+52
+00:02:37,879 --> 00:02:42,729
+processo? Eh transformando ele otimizando ele, né?
+
+53
+00:02:42,740 --> 00:02:45,439
+E aí dentro dessa perspectiva, a gente tá olhando
+
+54
+00:02:45,449 --> 00:02:49,750
+pra uma uma transformação de processos aqui de negócios okay,
+
+55
+00:02:50,288 --> 00:02:54,538
+baseado em uma jornada de otimização em que o primeiro
+
+56
+00:02:54,550 --> 00:02:56,389
+passo tá aqui Oh, é o S isso que
+
+57
+00:02:56,399 --> 00:02:59,250
+nós acabamos de falar, Okay, E aí a
+
+58
+00:02:59,258 --> 00:03:00,830
+gente tem que tá, Tem que entender que eu
+
+59
+00:03:00,838 --> 00:03:04,490
+não estou só na perspectiva do entendimento eh teórico,
+
+60
+00:03:04,500 --> 00:03:05,649
+porque não é só isso.
+
+61
+00:03:05,659 --> 00:03:07,129
+Eu tenho que ter um, tem que ter um
+
+62
+00:03:07,139 --> 00:03:10,889
+entendimento prático, Eu tenho que ter um entendimento detalhado
+
+63
+00:03:10,899 --> 00:03:13,528
+e acima de tudo, né? Conforme a gente
+
+64
+00:03:13,538 --> 00:03:17,099
+tá tá descrevendo aqui compartilhado nos em por toda a
+
+65
+00:03:17,110 --> 00:03:21,860
+organização, desde o da organização, né? O
+
+66
+00:03:21,868 --> 00:03:25,500
+os principais interessados ali o os diretores, gerentes,
+
+67
+00:03:25,508 --> 00:03:28,740
+presidentes e quem quer que seja, até aquele que
+
+68
+00:03:28,750 --> 00:03:30,899
+aqueles que executarão o processo.
+
+69
+00:03:30,909 --> 00:03:32,460
+Então, é muito importante.
+
+70
+00:03:32,469 --> 00:03:35,080
+É que o processo em si ele possa ter esse
+
+71
+00:03:35,179 --> 00:03:41,909
+conhecimento organizacional que me permite que eu consiga.
+
+72
+00:03:41,919 --> 00:03:45,270
+Ah, vislumbra que a organização toda consiga vislumbrar o
+
+73
+00:03:45,278 --> 00:03:47,490
+que se pressupõe daquele processo, né? Qual o
+
+74
+00:03:47,500 --> 00:03:51,250
+resultado que ele vai entregar pra organização? Tá legal.
+
+75
+00:03:51,258 --> 00:03:55,889
+Então, se a gente considerar essa perspectiva alguns pontos
+
+76
+00:03:55,899 --> 00:03:58,389
+principais nessa jornada, a gente vai, tá,
+
+77
+00:03:58,399 --> 00:04:00,270
+eh dis, eh precisa.
+
+78
+00:04:00,278 --> 00:04:04,868
+Tá percebendo, né? Primeiro essa questão de eh
+
+79
+00:04:04,879 --> 00:04:09,500
+análise como uma lupa organizacional, né? Então eh
+
+80
+00:04:09,508 --> 00:04:11,929
+o que que a gente tá entendendo? Como essa
+
+81
+00:04:11,939 --> 00:04:15,699
+perspectiva de análise, como uma lupa organizacional de que
+
+82
+00:04:15,710 --> 00:04:18,858
+eu preciso avaliar o meu, o meu processo,
+
+83
+00:04:18,869 --> 00:04:22,899
+em que ele tem que olhar com bastante cuidado,
+
+84
+00:04:22,910 --> 00:04:25,439
+né? Pra minha organização ao ponto de que eu
+
+85
+00:04:25,449 --> 00:04:30,649
+possa conhecer efetivamente né? Os detalhes daquele processo,
+
+86
+00:04:30,660 --> 00:04:33,673
+como ele funciona, o que agrega valor a ele.
+
+87
+00:04:33,684 --> 00:04:37,514
+Qual resultado ele vai entregar pro meu cliente e o
+
+88
+00:04:37,524 --> 00:04:40,713
+meu cliente, perceber esse resultado por meio da entrega,
+
+89
+00:04:40,725 --> 00:04:42,673
+de valor, né? Então, a gente tem
+
+90
+00:04:42,684 --> 00:04:45,713
+que ter uma compreensão completa do negócio, pra que
+
+91
+00:04:45,725 --> 00:04:48,694
+a gente possa ter um benefício em relação a esse.
+
+92
+00:04:48,704 --> 00:04:48,814
+E aí.
+
+93
+00:04:48,824 --> 00:04:52,113
+O benefício imediato, a esse conhecimento é que a
+
+94
+00:04:52,125 --> 00:04:54,673
+gente possa estabelecer, né.
+
+95
+00:04:54,684 --> 00:04:57,934
+Uma padronização das regras, dos nossos fluxos de trabalho,
+
+96
+00:04:58,160 --> 00:05:02,428
+né? A isso vai nos permitir tomar uma melhor
+
+97
+00:05:02,439 --> 00:05:06,278
+eh decisão? Vai nos permitir fazer com que o
+
+98
+00:05:06,290 --> 00:05:10,160
+processo ocorra de uma forma mais tranquila e transparente e
+
+99
+00:05:10,170 --> 00:05:12,259
+perene juntoà organização.
+
+100
+00:05:12,269 --> 00:05:15,939
+Um outro aspecto que a gente precisa salientar é a
+
+101
+00:05:15,949 --> 00:05:18,338
+importância de um entendimento compartilhado.
+
+102
+00:05:18,350 --> 00:05:21,559
+Então quer dizer que o processo não deve ficar subentendido
+
+103
+00:05:21,569 --> 00:05:25,494
+somente num num determinado, por uma determinada pessoa,
+
+104
+00:05:25,504 --> 00:05:28,574
+um determinado grupo, ele precisa estar compartilhado.
+
+105
+00:05:28,584 --> 00:05:33,113
+O entendimento desse processo precisa fluir por toda a organização.
+
+106
+00:05:33,125 --> 00:05:37,774
+Todos precisam ter conhecimento, precisam entender a importância desse
+
+107
+00:05:37,785 --> 00:05:42,574
+processo de forma que possamos executar ele em benefício organizacional,
+
+108
+00:05:42,584 --> 00:05:45,475
+né? Então, a compreensão, né? Do
+
+109
+00:05:45,483 --> 00:05:50,100
+do do processo? Entender o processo é Tem que
+
+110
+00:05:50,108 --> 00:05:55,259
+ser elevado a essa questão de integração entre todos que
+
+111
+00:05:55,269 --> 00:05:59,559
+fazem parte desse processo, em que esse conhecimento esse
+
+112
+00:05:59,569 --> 00:06:03,579
+entendimento possa ter eh a ser assimilado por todos,
+
+113
+00:06:03,588 --> 00:06:08,600
+né, Outra perspectiva Outro ponto principal acerca da da,
+
+114
+00:06:08,608 --> 00:06:11,670
+da perspectiva, da análise, é entender, né?
+
+115
+00:06:11,678 --> 00:06:14,769
+Esse ambiente interno e externo da empresa? Por que?
+
+116
+00:06:14,778 --> 00:06:18,369
+Porque quando nós pensamos em processo eu tenho que entender
+
+117
+00:06:18,379 --> 00:06:21,528
+que ele é influenciado por forças internas, né?
+
+118
+00:06:21,540 --> 00:06:27,269
+Organizacionais E também por forças externas e elas precisam eh
+
+119
+00:06:27,278 --> 00:06:30,449
+ter, eu preciso ter a clareza de de como
+
+120
+00:06:30,459 --> 00:06:33,884
+isto se a como se eh moda dentro da organização,
+
+121
+00:06:33,894 --> 00:06:36,903
+como se está inserido dentro do meu contexto organizacional.
+
+122
+00:06:36,915 --> 00:06:40,355
+Então eu vou olhar tanto pra dentro de mim mesmo
+
+123
+00:06:40,363 --> 00:06:43,105
+dentro da minha organização, como pras forças que estão
+
+124
+00:06:43,113 --> 00:06:43,535
+fora.
+
+125
+00:06:43,545 --> 00:06:45,504
+os meus fornecedores, meus clientes, meus parceiros,
+
+126
+00:06:45,514 --> 00:06:48,204
+enfim, todos aqueles que têm relação com os processos,
+
+127
+00:06:48,213 --> 00:06:52,285
+esses pontos principais devem ser observados quando estivermos trabalhando com
+
+128
+00:06:52,295 --> 00:06:55,303
+a perspectiva aí da análise do processo.
+
+129
+00:06:55,314 --> 00:06:58,928
+Tá uma outra questão eh eh eh, porque a
+
+130
+00:06:58,939 --> 00:07:02,588
+gente tem que perceber quando a gente vai efetuar efetivamente
+
+131
+00:07:02,600 --> 00:07:04,980
+essa essa análise, né? Primeiro quando a gente
+
+132
+00:07:04,988 --> 00:07:07,730
+de eh quando olhando a perspectiva de uma estratégia organizacional,
+
+133
+00:07:07,738 --> 00:07:10,290
+o que quer dizer isso? Quando eu traba eu
+
+134
+00:07:10,298 --> 00:07:14,769
+trabalho plano estratégico, oportunidade de mercado, novas metas,
+
+135
+00:07:14,778 --> 00:07:16,629
+Eu tenho que olhar a, A, a,
+
+136
+00:07:16,639 --> 00:07:20,309
+a refazer essa análise ou tá eh Vamos dizer assim.
+
+137
+00:07:20,319 --> 00:07:26,410
+Ah, ciente de que esta análise é importante dentro
+
+138
+00:07:26,420 --> 00:07:31,410
+dessa perspectiva, no seguinte sentido Quando eh eu devo
+
+139
+00:07:31,420 --> 00:07:35,250
+ou eu crio, ou eu trabalho uma estratégia organizacional
+
+140
+00:07:35,259 --> 00:07:39,449
+Eu tô olhando pra questão, eh da minha empresa,
+
+141
+00:07:39,459 --> 00:07:41,509
+em si, como ela vai se portar, eh,
+
+142
+00:07:41,519 --> 00:07:45,369
+no futuro a médio e longo prazo.
+
+143
+00:07:45,379 --> 00:07:50,048
+E as estratégias elas me permitem eh trabalhar organizacional pra
+
+144
+00:07:50,059 --> 00:07:52,420
+que eu tra pra que eu esteja dentro desse mercado
+
+145
+00:07:52,428 --> 00:07:55,470
+pra que eu possa atuar dentro dele, né?
+
+146
+00:07:55,798 --> 00:07:59,009
+E isso passa por uma um planejamento estratégico pra uma
+
+147
+00:07:59,019 --> 00:08:01,689
+definição de um plano estratégico, né? Que vai
+
+148
+00:08:01,699 --> 00:08:03,970
+me gerar pode me gerar, né Não quer dizer
+
+149
+00:08:03,980 --> 00:08:06,350
+que vai, mas pode me gerar novas oportunidades,
+
+150
+00:08:06,358 --> 00:08:08,129
+vai manter o meu negócio.
+
+151
+00:08:08,139 --> 00:08:12,009
+Então, diante dessa perspectiva de estratégia, uma análise
+
+152
+00:08:12,019 --> 00:08:14,689
+ela é sempre pertinente, então eu analiso.
+
+153
+00:08:14,699 --> 00:08:17,928
+Eu faço uma análise de forma a que eu possa
+
+154
+00:08:17,939 --> 00:08:23,278
+traduzir melhor, né? Essa essa engrenagem eh que
+
+155
+00:08:23,290 --> 00:08:26,480
+eu quero trabalhar dentro da minha organização pra que eu
+
+156
+00:08:26,488 --> 00:08:28,819
+atenda os meus objetivos institucionais.
+
+157
+00:08:28,829 --> 00:08:32,719
+Uma segunda perspectiva é é problema de desempenho quando eu
+
+158
+00:08:32,729 --> 00:08:34,658
+efetuo uma análise olhando o problema de desempenho.
+
+159
+00:08:34,668 --> 00:08:37,320
+O que quer dizer isso eu tenho, eh pro
+
+160
+00:08:37,330 --> 00:08:39,879
+problemas de desempenho, né? E aí eu tenho
+
+161
+00:08:39,889 --> 00:08:44,538
+que avaliar nessa perspectiva uma proposta de mudança de processo.
+
+162
+00:08:44,548 --> 00:08:46,099
+Então, se eu tenho um problema então eu tenho
+
+163
+00:08:46,109 --> 00:08:50,609
+que eh trabalhar nessa questão de mudar.
+
+164
+00:08:50,619 --> 00:08:55,330
+Esse eh esse processo pra adequar ele e atender justamente
+
+165
+00:08:55,340 --> 00:08:58,210
+essa questão dessa mudança E isso que se refle refletir
+
+166
+00:08:58,219 --> 00:08:59,168
+no meu processo.
+
+167
+00:08:59,178 --> 00:09:04,168
+Outra perspectiva são novas tecnologias, novas tecnologias, ensejam
+
+168
+00:09:04,178 --> 00:09:05,869
+novas análises, melhoria.
+
+169
+00:09:05,965 --> 00:09:09,695
+Então, novas tecnologias são coisas que nós estamos trazendo
+
+170
+00:09:09,705 --> 00:09:11,494
+pra nossa organização que nós não temos.
+
+171
+00:09:11,504 --> 00:09:14,654
+E pra e pra tanto nós precisamos trabalhar com elas.
+
+172
+00:09:14,663 --> 00:09:18,134
+Outra perspectiva de pra efetuar na é quando a gente
+
+173
+00:09:18,144 --> 00:09:20,533
+faz uma fusão, uma aquisição ou uma cisão.
+
+174
+00:09:20,543 --> 00:09:26,019
+Frequentemente a gente tem processos ou organizações que se fundem
+
+175
+00:09:26,029 --> 00:09:29,259
+ou processos que se fundem ou expectativa ou estratégias.
+
+176
+00:09:29,269 --> 00:09:32,418
+E quando isso acontece, é interessante que a gente
+
+177
+00:09:32,428 --> 00:09:36,279
+refle, efetue novamente a análise pra garantir que isso
+
+178
+00:09:36,288 --> 00:09:40,678
+reflita exatamente nos processos organizacionais e pro por último aí
+
+179
+00:09:40,690 --> 00:09:42,408
+né, E regulamentações.
+
+180
+00:09:42,418 --> 00:09:45,269
+Então quando há uma nova estratégia, uma nova condição
+
+181
+00:09:45,279 --> 00:09:49,139
+econômica, um novo pacto, uma nova lei,
+
+182
+00:09:49,149 --> 00:09:52,820
+tipo L GP D a lai e tantas outras.
+
+183
+00:09:52,830 --> 00:09:55,879
+Isso enseja também uma análise, porque eu preciso internalizar
+
+184
+00:09:55,889 --> 00:09:58,418
+isso dentro da minha organização Okay, Então essa é
+
+185
+00:09:58,428 --> 00:10:00,729
+a nossa primeira parte de introdução, análise e processo.
+
+186
+00:10:00,739 --> 00:10:02,119
+Te aguardo no próximo.
+

@@ -1,0 +1,776 @@
+1
+00:00:06,139 --> 00:00:08,778
+Olá, aluno Seja bem vindo ao professor Fabrício Melo,
+
+2
+00:00:08,788 --> 00:00:12,788
+Estamos aqui trabalhando com os conceitos de cenários, né
+
+3
+00:00:12,800 --> 00:00:14,648
+de solução de problemas.
+
+4
+00:00:14,659 --> 00:00:19,958
+E vamos ver agora botar em prática aquela ideia do
+
+5
+00:00:19,969 --> 00:00:21,269
+top down.
+
+6
+00:00:21,280 --> 00:00:25,888
+AP lembra Como você aborda os problemas aqui A gente
+
+7
+00:00:25,899 --> 00:00:29,929
+vai ver na prática como seria aí uma situação hipotética
+
+8
+00:00:29,940 --> 00:00:33,408
+de um problema pra gente oh aplicar, ou seja,
+
+9
+00:00:33,418 --> 00:00:37,329
+nós iremos identificar a solução de problemas de conectividade Fim
+
+10
+00:00:37,340 --> 00:00:41,048
+a fim! Aplicando aqueles conceitos vistos aí anteriormente.
+
+11
+00:00:41,060 --> 00:00:43,950
+Olha só que interessante vamos simular um problema aqui?
+
+12
+00:00:43,959 --> 00:00:48,179
+Oh problemão? Cê tem um PC h R três
+
+13
+00:00:48,189 --> 00:00:51,978
+que ele não consegue acessar o servidor S R V.
+
+14
+00:00:51,990 --> 00:00:53,348
+Um Então você tem.
+
+15
+00:00:53,359 --> 00:00:57,380
+Recebeu um chamado técnico, né do funcionário do colaborador
+
+16
+00:00:57,389 --> 00:01:00,500
+falando que não tava conseguindo acessar, então vamos lá.
+
+17
+00:01:00,509 --> 00:01:05,379
+Inicialmente você vai confirmar o sintoma de falta de conectividade
+
+18
+00:01:05,388 --> 00:01:08,778
+e mapear o caminho entre o rio e o destino.
+
+19
+00:01:08,790 --> 00:01:10,909
+Então, você tem que fazer o mapeamento oh daquele
+
+20
+00:01:10,918 --> 00:01:13,439
+daquela máquina com o servidor, né? Eh,
+
+21
+00:01:13,448 --> 00:01:15,650
+identificando o setor da rede a partir da qual a
+
+22
+00:01:15,659 --> 00:01:17,040
+honestidade se interrompe.
+
+23
+00:01:17,049 --> 00:01:18,879
+Aí oh, o que que a gente vai utilizar
+
+24
+00:01:18,888 --> 00:01:21,698
+aqui? Você pode utilizar ferramentas como o ping e
+
+25
+00:01:21,709 --> 00:01:25,278
+o que é aquele que a gente tem lá no
+
+26
+00:01:25,290 --> 00:01:28,829
+no do do Windows, certo? E depois cê
+
+27
+00:01:28,838 --> 00:01:31,799
+vai identificar se o problema ocorre apenas nessa máquina?
+
+28
+00:01:31,808 --> 00:01:36,168
+Isso é muito importante ou em outras máquinas, porque
+
+29
+00:01:36,180 --> 00:01:38,980
+no que você testa as outras máquinas e elas estão
+
+30
+00:01:38,989 --> 00:01:41,459
+acessando esse servidor pronto.
+
+31
+00:01:41,469 --> 00:01:44,808
+Você sabe que o problema tá isolado ali com aquela
+
+32
+00:01:44,819 --> 00:01:45,209
+máquina.
+
+33
+00:01:45,219 --> 00:01:47,448
+Tá vendo oh aí, cê vai verificar também se
+
+34
+00:01:47,459 --> 00:01:49,739
+as outras máquinas de outras redes conseguem acessar o mesmo
+
+35
+00:01:49,750 --> 00:01:50,609
+recurso.
+
+36
+00:01:50,620 --> 00:01:54,689
+Então se outras redes também tá acessando, já encerrou
+
+37
+00:01:54,698 --> 00:01:56,019
+mais um problema tá vendo, oh! E se
+
+38
+00:01:56,028 --> 00:01:58,888
+o setor de interrupção o mesmo para todas as redes
+
+39
+00:01:58,900 --> 00:02:01,888
+aí oh, Após verificar os dados, lista as
+
+40
+00:02:01,900 --> 00:02:05,088
+hipóteses possíveis vamos utilizar a abordagem.
+
+41
+00:02:05,099 --> 00:02:09,159
+Oh up lembra do boto up subindo, né?
+
+42
+00:02:09,169 --> 00:02:12,240
+Associado abordagem a seguir o caminho, pois vamos investigar
+
+43
+00:02:12,250 --> 00:02:15,719
+oh o caminho do fluxo tecendo as camadas inferiores que
+
+44
+00:02:15,729 --> 00:02:19,080
+a gente viu Cê vai começar de baixo pra cima.
+
+45
+00:02:19,088 --> 00:02:22,008
+O que que cê vai fazer? Cê vai no
+
+46
+00:02:22,020 --> 00:02:26,308
+primeiro passo determinar a conectividade física no setor onde está
+
+47
+00:02:26,319 --> 00:02:26,868
+interrompido.
+
+48
+00:02:26,879 --> 00:02:30,949
+Então naquela máquina você vai ver a parte de conexão
+
+49
+00:02:30,960 --> 00:02:33,250
+do conector do cabo.
+
+50
+00:02:33,258 --> 00:02:35,710
+Se tem algum problema físico ali, então tá vendo
+
+51
+00:02:35,719 --> 00:02:38,028
+cê tá começando de baixo Oh além de verificar tá
+
+52
+00:02:38,038 --> 00:02:41,729
+vendo cabos conectores com os testadores demais ferramentas de hardware
+
+53
+00:02:41,740 --> 00:02:45,270
+Cê vai verificar os parâmetros de configuração das interfaces dos
+
+54
+00:02:45,278 --> 00:02:47,179
+dispositivos conectados ao meio físico.
+
+55
+00:02:47,189 --> 00:02:49,689
+Então oh cê tá lá na camada física e subindo
+
+56
+00:02:50,479 --> 00:02:53,368
+depois de um passo dois Cê vai uma vez verificar
+
+57
+00:02:53,379 --> 00:02:56,129
+a integridade da camada física Cê vai analisar os aspectos
+
+58
+00:02:56,139 --> 00:03:00,819
+relacionados a quem a camada de enlace verificando o que
+
+59
+00:03:00,830 --> 00:03:04,219
+oh as configurações de vã? Quem sabe ali na
+
+60
+00:03:04,229 --> 00:03:08,139
+rede local virtual que tem um problema sua vã né?
+
+61
+00:03:08,149 --> 00:03:11,300
+E as tabelas arp dentro das tabelas arp podem estar
+
+62
+00:03:11,308 --> 00:03:14,439
+desatualizadas tem aquele problema do cash? Cê vai verificar
+
+63
+00:03:14,449 --> 00:03:16,460
+ali aí vai pro passo três.
+
+64
+00:03:16,469 --> 00:03:19,538
+O passo três é verificar a conectividade i p oh
+
+65
+00:03:19,550 --> 00:03:22,460
+então já foi lá pra outra camada Se todos os
+
+66
+00:03:22,469 --> 00:03:26,110
+parâmetros de configuração em estados relacionadosàs vãs portas oh
+
+67
+00:03:26,118 --> 00:03:30,368
+endereçamento mac estiverem corretamente configurados, você deve investigar as
+
+68
+00:03:30,379 --> 00:03:33,588
+questões da camada três, ou seja, endereçamento i
+
+69
+00:03:33,599 --> 00:03:35,389
+p pode ser que seja o problema com o i
+
+70
+00:03:35,399 --> 00:03:38,990
+p da máquina e as tabelas de rota dispositivos Pode
+
+71
+00:03:39,000 --> 00:03:44,479
+ser que alguma tabela que tá roteando aquele dispositivo pode
+
+72
+00:03:44,490 --> 00:03:47,338
+ter algum problema pode tá com o endereçamento errado.
+
+73
+00:03:47,349 --> 00:03:49,038
+Você vai corrigir, então tá ver Oh, você
+
+74
+00:03:49,050 --> 00:03:52,960
+partiu do cabeamento foi subindo, já tá na camada
+
+75
+00:03:52,969 --> 00:03:56,278
+três né? E o passo quatro é verificar a
+
+76
+00:03:56,288 --> 00:03:59,960
+conectividade da porta, o q do protocolo TC p
+
+77
+00:03:59,969 --> 00:04:02,778
+e o d p lembra cê vai para as portas
+
+78
+00:04:03,169 --> 00:04:05,179
+vai agir na camada quatro Oh lá, oh se
+
+79
+00:04:05,189 --> 00:04:08,219
+a camada de rede funciona conforme esperado, mas os
+
+80
+00:04:08,229 --> 00:04:09,860
+sintomas ainda persistem.
+
+81
+00:04:09,868 --> 00:04:13,099
+Então você vai começar a investigar as camadas superiores começando
+
+82
+00:04:13,110 --> 00:04:15,419
+pela camada de transporte, então você vai ver o
+
+83
+00:04:15,429 --> 00:04:21,019
+quê com relação aos serviços estão disponíveis nas portas esperadas.
+
+84
+00:04:21,028 --> 00:04:24,420
+Aí cê vai testar se aquela máquina não tá conectando
+
+85
+00:04:24,428 --> 00:04:25,540
+ali ao servidor.
+
+86
+00:04:25,548 --> 00:04:28,298
+Se a porta está correta, pode ser que houve
+
+87
+00:04:28,309 --> 00:04:29,178
+uma mudança.
+
+88
+00:04:29,189 --> 00:04:32,199
+Então se teve mudança, não vai conseguir conectar tá
+
+89
+00:04:32,548 --> 00:04:35,600
+e o passo cinco oh subindo mais uma camada cê
+
+90
+00:04:35,608 --> 00:04:38,678
+vai aonde você vai verificar os serviços de rede,
+
+91
+00:04:38,689 --> 00:04:42,500
+incluindo o quê o d m s pode ser que
+
+92
+00:04:42,509 --> 00:04:46,040
+tenha algum problema no DNS que não tá conseguindo fazer
+
+93
+00:04:46,048 --> 00:04:46,970
+a tradução.
+
+94
+00:04:46,980 --> 00:04:50,069
+Tá aí, ou seja você foi parar na camada
+
+95
+00:04:50,079 --> 00:04:50,579
+superior.
+
+96
+00:04:50,588 --> 00:04:53,528
+Tá vendo? Foi um passo a passo e observe
+
+97
+00:04:53,540 --> 00:04:59,129
+que no que você testou a parte lá do caminho
+
+98
+00:04:59,139 --> 00:05:01,428
+e você viu que as máquinas estavam funcionando.
+
+99
+00:05:01,439 --> 00:05:04,738
+Cê conseguiu isolar pra uma máquina só o problema pra
+
+100
+00:05:04,750 --> 00:05:06,079
+não ficar perdido.
+
+101
+00:05:06,088 --> 00:05:09,639
+Porqueàs vezes você fica preocupado com toda a rede,
+
+102
+00:05:09,649 --> 00:05:12,338
+mas a rede em si tá funcionando.
+
+103
+00:05:12,350 --> 00:05:15,160
+Só aquela máquina isoladamente que não está.
+
+104
+00:05:15,170 --> 00:05:17,319
+Então o problema tá ali.
+
+105
+00:05:17,329 --> 00:05:21,059
+Cê já conseguiu oitenta por cento da coisa, né?
+
+106
+00:05:21,069 --> 00:05:24,858
+CÊ vai trabalhar unicamente ali aí vamos pro problema dois
+
+107
+00:05:24,869 --> 00:05:28,759
+Oh usuários ao clicar num link pra acessar A tabela
+
+108
+00:05:28,769 --> 00:05:32,059
+de marcação de férias recebe esse famoso erro aí oh!
+
+109
+00:05:32,649 --> 00:05:36,399
+E quatrocentos e quatro página não encontrada hum cheiro no
+
+110
+00:05:36,410 --> 00:05:38,790
+DNS, hein? Então se você já sabe o
+
+111
+00:05:38,798 --> 00:05:41,199
+que que é esse erro, oh lá, após
+
+112
+00:05:41,209 --> 00:05:45,069
+obter os dados sobre o servidor endere pei porta A
+
+113
+00:05:45,079 --> 00:05:46,709
+U R L registrado no serviço de D M S,
+
+114
+00:05:46,720 --> 00:05:52,369
+vamos utilizar a abordagem top down Começar da camada de
+
+115
+00:05:52,379 --> 00:05:52,889
+cima.
+
+116
+00:05:52,899 --> 00:05:55,420
+Por quê? Que é um erro lá de cima,
+
+117
+00:05:55,428 --> 00:05:58,819
+né? Aí ele vai, oh, Ah,
+
+118
+00:05:58,829 --> 00:05:59,988
+eh? Vamos ver! EH e outra.
+
+119
+00:06:00,000 --> 00:06:02,850
+Abordar top Down e a abordagem de seguir aquele caminho
+
+120
+00:06:02,858 --> 00:06:03,230
+lembra.
+
+121
+00:06:03,238 --> 00:06:06,899
+Abordagem de seguir a trilha que também tem, pois
+
+122
+00:06:06,910 --> 00:06:08,790
+vamos investigar o caminho do fluxo.
+
+123
+00:06:08,798 --> 00:06:12,548
+A gente vai testar as camadas superiores e obviamente em
+
+124
+00:06:12,559 --> 00:06:13,259
+cima do caminho.
+
+125
+00:06:13,269 --> 00:06:17,189
+Aí cê tem tá vendo a topologia lógica da rede
+
+126
+00:06:17,199 --> 00:06:19,028
+e vamos ao primeiro passo.
+
+127
+00:06:19,040 --> 00:06:21,298
+Oh, cê vai testar a conexão com o serviço
+
+128
+00:06:21,309 --> 00:06:24,079
+utilizando a U R L registrada! E o soquete
+
+129
+00:06:24,088 --> 00:06:26,579
+tá vendo oh testar a conexão com o R L
+
+130
+00:06:26,588 --> 00:06:29,178
+lá no software, uma vez que nenhum usuário consegue
+
+131
+00:06:29,189 --> 00:06:32,920
+acessar a página em questão hum, ninguém tá conseguindo
+
+132
+00:06:32,928 --> 00:06:36,119
+acessar, então vamos testar a conexão com o serviço
+
+133
+00:06:36,129 --> 00:06:39,519
+utilizando o R L registrado o soquete onde a aplicação
+
+134
+00:06:39,528 --> 00:06:42,119
+tem que tá o quê? Escutando então a gente
+
+135
+00:06:42,129 --> 00:06:44,319
+vai utilizar o quê? O navegador ou o comando?
+
+136
+00:06:44,329 --> 00:06:46,389
+Teo net Olha aí oh como é que eu tô
+
+137
+00:06:46,399 --> 00:06:48,759
+no eu tô lá na camada de cima Comecei o
+
+138
+00:06:48,769 --> 00:06:51,019
+teste por lá, Tá vendo Exemplo anterior a gente
+
+139
+00:06:51,028 --> 00:06:54,480
+começou lá, nos cabeamentos Passo dois Cê vai testar
+
+140
+00:06:54,488 --> 00:06:56,939
+a conectividade de p oh utilizando o comando ping,
+
+141
+00:06:56,949 --> 00:07:00,100
+mete um ping lá pra ver que que não tá
+
+142
+00:07:01,269 --> 00:07:04,119
+a resposta, qual vai ser a resposta? Quando
+
+143
+00:07:04,129 --> 00:07:06,399
+tentar a conexão com o servidor? Onde tá essa
+
+144
+00:07:06,410 --> 00:07:09,238
+tabela de férias, né? Ali já poderia identificar.
+
+145
+00:07:09,250 --> 00:07:12,230
+Sabia o problema? Se der taxa zero ali não
+
+146
+00:07:12,238 --> 00:07:13,410
+chegou nada.
+
+147
+00:07:13,420 --> 00:07:16,160
+já tem um caminho andado, né? Passo três
+
+148
+00:07:16,170 --> 00:07:19,509
+Oh, verifico os serviços que estão escutando no servidor,
+
+149
+00:07:19,519 --> 00:07:22,028
+uma vez que a conectividade a conex de P,
+
+150
+00:07:22,040 --> 00:07:25,108
+né? Foi estabelecida com sucesso? Passamos a verificar
+
+151
+00:07:25,119 --> 00:07:26,790
+o serviço do servidor em questão.
+
+152
+00:07:26,798 --> 00:07:31,290
+Aí vai lá um servidor e vai abrir nova investigação
+
+153
+00:07:32,358 --> 00:07:33,670
+que isso vai fazer.
+
+154
+00:07:33,678 --> 00:07:36,699
+Após ação do problema, documente a solução alcançada,
+
+155
+00:07:36,709 --> 00:07:41,269
+ou seja, se a máquina deu certo cê vai
+
+156
+00:07:41,278 --> 00:07:45,608
+pro servidor, resolveu okay, tá tudo, okay
+
+157
+00:07:45,619 --> 00:07:50,329
+o servidor, você vai catalogar, documentar o problema
+
+158
+00:07:50,338 --> 00:07:53,649
+Le lembra disso? Registrar os sintomas, os sinais,
+
+159
+00:07:53,660 --> 00:07:56,250
+os testes, o procedimento da correção? Porque depois
+
+160
+00:07:56,259 --> 00:07:59,970
+que você catalogar, você tem um histórico ali,
+
+161
+00:07:59,980 --> 00:08:05,129
+né? Você tem uma documentação que futuramente outro funcionário
+
+162
+00:08:05,139 --> 00:08:08,850
+vai acessar PA erro, quatrocentos e quatro Calma.
+
+163
+00:08:08,858 --> 00:08:10,910
+Aí esse erro aqui foi gerado em tal data.
+
+164
+00:08:10,920 --> 00:08:13,379
+Vamos lá que que eu fiz, eu dei um
+
+165
+00:08:13,389 --> 00:08:14,019
+ping.
+
+166
+00:08:14,028 --> 00:08:15,220
+Testei a conexão em p.
+
+167
+00:08:15,230 --> 00:08:16,540
+Fui lá no software.
+
+168
+00:08:16,548 --> 00:08:19,500
+Pode ser, né? Joguei lá pra ver que
+
+169
+00:08:19,509 --> 00:08:23,100
+que o DEM não tava respondendo percebeu, Então essa
+
+170
+00:08:23,108 --> 00:08:24,298
+abordagem aí.
+
+171
+00:08:24,309 --> 00:08:28,100
+Ela foi bem interessante nesse exemplo que a gente trabalhou
+
+172
+00:08:28,108 --> 00:08:30,980
+aqui na aula tá e temos aí uma excelente estação
+
+173
+00:08:30,988 --> 00:08:34,139
+do Oh, Oh! Direcionamento de rede exige a
+
+174
+00:08:34,149 --> 00:08:39,658
+capacidade de você monitorar, testar, consultar e configurar
+
+175
+00:08:39,668 --> 00:08:42,639
+e controlar os componentes de hardware e software.
+
+176
+00:08:43,009 --> 00:08:45,979
+Como os positivos da rede são distribuídos, fazer isso
+
+177
+00:08:45,989 --> 00:08:47,178
+e girar no Minho.
+
+178
+00:08:47,190 --> 00:08:50,038
+Que o administrador consiga o quê? Coletar dados é
+
+179
+00:08:50,048 --> 00:08:50,820
+o que a gente vem falando.
+
+180
+00:08:50,830 --> 00:08:53,379
+É muito tempo, por exemplo, para a finalidade
+
+181
+00:08:53,389 --> 00:08:56,859
+de monitoração de uma entidade remota e efetuar mudanças nessa
+
+182
+00:08:56,869 --> 00:08:58,830
+entidade, por exemplo, o controle.
+
+183
+00:08:58,840 --> 00:09:00,918
+Então, isso é um gerenciamento de rede, é
+
+184
+00:09:00,928 --> 00:09:04,769
+você ter essa capacidade aí né, Pensar não ter
+
+185
+00:09:04,779 --> 00:09:05,658
+retrabalho.
+
+186
+00:09:05,668 --> 00:09:10,379
+Como eu falei, documento tudo tenta lembrar das abordagens
+
+187
+00:09:10,389 --> 00:09:14,158
+Se você desconfia que a abordagem a parte do software
+
+188
+00:09:14,168 --> 00:09:17,359
+faça, né, A de cima pra baixo Se
+
+189
+00:09:17,369 --> 00:09:19,479
+você ver que o problema pode ser no hardware,
+
+190
+00:09:19,489 --> 00:09:21,700
+faça de baixo pra cima.
+
+191
+00:09:21,710 --> 00:09:22,479
+Perfeito.
+
+192
+00:09:22,489 --> 00:09:26,399
+Aí você vai conseguir ganhar tempo e obviamente, solucionar
+
+193
+00:09:26,408 --> 00:09:28,000
+aí o problema de maneira adequada.
+
+194
+00:09:28,009 --> 00:09:30,340
+Tá bom Abraço, Sucesso
+

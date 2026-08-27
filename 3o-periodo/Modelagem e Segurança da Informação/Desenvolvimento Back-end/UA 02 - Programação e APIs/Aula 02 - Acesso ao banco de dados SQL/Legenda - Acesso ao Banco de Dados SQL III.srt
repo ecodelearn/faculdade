@@ -1,0 +1,804 @@
+1
+00:00:06,009 --> 00:00:09,859
+Olá, vamos falar um pouquinho sobre a configuração do
+
+2
+00:00:09,868 --> 00:00:13,898
+banco com base na conexão de sequelas usando migration C.
+
+3
+00:00:13,909 --> 00:00:18,500
+Migration, né? EH, eh os migration!
+
+4
+00:00:18,510 --> 00:00:21,728
+Seriam pra você fazer migração de um banco a geração
+
+5
+00:00:21,739 --> 00:00:22,620
+de um banco? O sr.
+
+6
+00:00:22,629 --> 00:00:25,260
+Seria pra alimentar esse banco, né? E tem
+
+7
+00:00:25,269 --> 00:00:27,109
+uma série de comandos interessantes nos sequelas.
+
+8
+00:00:27,120 --> 00:00:32,810
+Vamos ver como é que isso funciona? Bom migration,
+
+9
+00:00:32,819 --> 00:00:37,289
+né? Seria a geração das tabelas alimentação das tabelas?
+
+10
+00:00:37,298 --> 00:00:40,490
+O C e esse C no caso aí não é
+
+11
+00:00:40,500 --> 00:00:44,168
+de? É de inter FACE? Permite fazer essas
+
+12
+00:00:44,179 --> 00:00:47,649
+operações de forma simples? Tá, eh sem você
+
+13
+00:00:47,658 --> 00:00:50,889
+ter que entrar na programação do node deixando ele gerar
+
+14
+00:00:50,899 --> 00:00:54,728
+toda essa complexidade por conta dele, né? Então,
+
+15
+00:00:54,740 --> 00:00:57,149
+o que eu tenho que fazer são alguns Comas,
+
+16
+00:00:57,158 --> 00:00:59,130
+né? Vamos ver como é que funciona.
+
+17
+00:00:59,139 --> 00:01:00,868
+Vou pegar aqui um projeto.
+
+18
+00:01:02,149 --> 00:01:03,719
+Ah, esse aqui já tá pronto? Esse aqui
+
+19
+00:01:03,728 --> 00:01:06,859
+é zerado como sempre.
+
+20
+00:01:06,870 --> 00:01:14,400
+N PM n menos y só pra configurar o projeto,
+
+21
+00:01:14,409 --> 00:01:19,659
+né Inicial Depois eu vou usar n PM insta,
+
+22
+00:01:19,668 --> 00:01:28,719
+seque m k dois tá n PM esta c uma
+
+23
+00:01:28,730 --> 00:01:32,680
+s q l dois que seria pra de conexão com
+
+24
+00:01:32,689 --> 00:01:36,239
+uma s q l e também o sequer que seria
+
+25
+00:01:36,250 --> 00:01:39,760
+pra uso do mapeamento objeto nacional e tá fazendo lá
+
+26
+00:01:39,769 --> 00:01:44,870
+o download do Daqui a pouco ele consegue terminar isso
+
+27
+00:01:44,879 --> 00:01:45,129
+aí.
+
+28
+00:01:45,939 --> 00:01:52,650
+Pronto agora eu vou instalar o C e vou dar
+
+29
+00:01:52,659 --> 00:01:55,459
+um esta com só pra poder colocar qualquer.
+
+30
+00:01:56,730 --> 00:01:59,918
+E Ah, eu nem preciso serve não, mas
+
+31
+00:02:00,888 --> 00:02:01,480
+vamos lá.
+
+32
+00:02:03,138 --> 00:02:07,308
+Ah, menos menos c v d Acho que nem
+
+33
+00:02:07,319 --> 00:02:15,028
+precisava, não mais seco! Else C Onde se
+
+34
+00:02:15,038 --> 00:02:22,699
+c com line interface esse né, O essa linha
+
+35
+00:02:22,710 --> 00:02:25,830
+de comando sequela Ele vai permitir fazer uma série de
+
+36
+00:02:25,838 --> 00:02:30,229
+operações de forma simples, né? De forma automatizada
+
+37
+00:02:30,240 --> 00:02:32,349
+sem eu ter que ficar colocando a mão no código,
+
+38
+00:02:32,360 --> 00:02:34,960
+né? Olha só isso aqui Primeiro comando que eu
+
+39
+00:02:34,969 --> 00:02:39,338
+tenho, n p x c, né? Então
+
+40
+00:02:39,349 --> 00:02:42,659
+eu vou colocar n p x o n p x
+
+41
+00:02:42,669 --> 00:02:47,849
+é executar o componente e o componente sequela Esse clique
+
+42
+00:02:47,860 --> 00:02:54,538
+eu acabei de quem está lá n p x cch
+
+43
+00:02:55,199 --> 00:02:56,558
+quando eu coloco a n, p x c,
+
+44
+00:02:56,569 --> 00:03:00,129
+s c ele cria a configuração básica do banco,
+
+45
+00:03:00,139 --> 00:03:02,409
+né? Olha só que legal ele já criou aqui
+
+46
+00:03:02,419 --> 00:03:08,308
+a configuração básica tem um config oh da t b
+
+47
+00:03:08,319 --> 00:03:09,270
+s da t B da t B.
+
+48
+00:03:09,278 --> 00:03:12,110
+São as configurações que ele vai usar aqui.
+
+49
+00:03:12,118 --> 00:03:13,969
+Eu sei que eu tenho h t com senha Hut
+
+50
+00:03:16,949 --> 00:03:20,679
+e eu tenho três de teste de produção e o
+
+51
+00:03:20,689 --> 00:03:22,618
+deve O que ele usa por padrão é o deve,
+
+52
+00:03:23,479 --> 00:03:26,129
+né? Eu não vou nem perder tempo configurando os
+
+53
+00:03:26,139 --> 00:03:27,899
+outros.
+
+54
+00:03:27,909 --> 00:03:29,770
+Eh da uma s Q l, cento e vinte
+
+55
+00:03:29,778 --> 00:03:32,669
+e sete zero zero um Vou chamar isso aqui de
+
+56
+00:03:32,679 --> 00:03:36,409
+pessoa da, né? Eh, aqui eu já
+
+57
+00:03:36,419 --> 00:03:39,569
+tenho as características, se eu quiser aqui eu já
+
+58
+00:03:39,580 --> 00:03:41,288
+posso fazer uma coisa interessante.
+
+59
+00:03:41,300 --> 00:03:44,330
+Eu posso mandar o sequelas e criar o banco,
+
+60
+00:03:44,338 --> 00:03:48,588
+né? Eu tenho um comando próprio pra isso.
+
+61
+00:03:48,599 --> 00:03:50,960
+D B, né? Então com isso eu posso
+
+62
+00:03:50,969 --> 00:03:55,389
+vir aqui, oh e posso tudo salvo, eh
+
+63
+00:03:55,399 --> 00:04:02,308
+n p x CDB dois pontos, tá esse comando
+
+64
+00:04:02,319 --> 00:04:05,929
+ali E aí o envi padrão é o de decks,
+
+65
+00:04:08,139 --> 00:04:14,258
+Foi lá prontinho pessoa teve o que significa isso que
+
+66
+00:04:14,270 --> 00:04:17,358
+ele criou, o banco, né? Vamos achar
+
+67
+00:04:17,369 --> 00:04:19,100
+aqui o OH.
+
+68
+00:04:19,108 --> 00:04:22,209
+Se eu dar um reflete aqui, oh, apareceu
+
+69
+00:04:22,218 --> 00:04:24,209
+aqui um novo banco de dados que foi criado pelos
+
+70
+00:04:24,218 --> 00:04:25,209
+sequelas.
+
+71
+00:04:25,218 --> 00:04:30,108
+Tá feito isso aí eu posso definir as minhas entidades
+
+72
+00:04:31,639 --> 00:04:34,309
+que eu posso colocar moda generate, Tá.
+
+73
+00:04:34,319 --> 00:04:37,048
+Eu vou colocar só uma entidade simples, mas aqui
+
+74
+00:04:37,059 --> 00:04:39,488
+eu poderia ter associações entre entidades.
+
+75
+00:04:39,500 --> 00:04:43,259
+Por exemplo, se eu colocar eh pessoa com nome
+
+76
+00:04:43,269 --> 00:04:47,019
+e sobrenome, telefone, Pode ser só isso aí
+
+77
+00:04:47,028 --> 00:05:10,470
+tá hum não? Esse m janet eh menos.
+
+78
+00:05:10,480 --> 00:05:13,048
+Menos meme pessoa, Menos menos atributos.
+
+79
+00:05:19,088 --> 00:05:24,850
+Menos menos Há tribos, né? Os atributos na
+
+80
+00:05:24,858 --> 00:05:31,608
+forma nome, string, vírgula, sei lá e
+
+81
+00:05:31,619 --> 00:05:38,540
+meio Okay Então assim eu tô criando aqui um modelo
+
+82
+00:05:39,449 --> 00:05:42,579
+que a pessoa vai ter nome e Enem, né?
+
+83
+00:05:42,588 --> 00:05:44,939
+Dá pra fazer relacionamentos, fazer uma série de coisas!
+
+84
+00:05:44,949 --> 00:05:47,699
+Mas isso aqui é o básico, né Bom,
+
+85
+00:05:47,709 --> 00:05:51,358
+quando você faz isso aqui, ele cria um mode
+
+86
+00:05:52,949 --> 00:05:57,660
+pessoa com as informações que você informou, né?
+
+87
+00:05:57,670 --> 00:06:01,699
+Que você que você forneceu Então assim eh aqui.
+
+88
+00:06:01,709 --> 00:06:06,459
+Ele já criou todo o ambiente necessário pra você ter
+
+89
+00:06:06,470 --> 00:06:09,500
+suas entidades e os seus repositórios.
+
+90
+00:06:09,509 --> 00:06:11,699
+E tem um W G S com todas as informações
+
+91
+00:06:11,709 --> 00:06:13,980
+que ele precisa, uma programação um pouco mais complexa
+
+92
+00:06:13,988 --> 00:06:16,709
+do que a gente usaria normalmente, porque ele busca
+
+93
+00:06:16,720 --> 00:06:19,629
+ser genérico, ou seja, ele busca ter ali
+
+94
+00:06:19,639 --> 00:06:20,769
+uma informação.
+
+95
+00:06:21,519 --> 00:06:24,939
+É uma forma de eh agir com aquele código pra
+
+96
+00:06:24,949 --> 00:06:28,369
+funcionar em qualquer plataforma, né? Ele também gera
+
+97
+00:06:28,379 --> 00:06:29,949
+uma coisa chamada migration.
+
+98
+00:06:31,250 --> 00:06:34,939
+O Migration seria um comando de criação.
+
+99
+00:06:34,949 --> 00:06:39,559
+Acreditei ou pessoas com essas informações, isso aqui é
+
+100
+00:06:39,569 --> 00:06:42,559
+o que a gente chama de Eh são os é
+
+101
+00:06:42,569 --> 00:06:45,358
+assim cada coisa que você faz, você pode ter
+
+102
+00:06:45,369 --> 00:06:48,119
+mai migrações de outro nível pra fazer na tabela.
+
+103
+00:06:48,129 --> 00:06:51,678
+Então você pode trazer vários migration de migração.
+
+104
+00:06:51,689 --> 00:06:54,160
+Aqui no caso, eu tô criando a tabela.
+
+105
+00:06:54,170 --> 00:06:57,600
+Como é que eu executo migration, né? Eh,
+
+106
+00:06:57,608 --> 00:07:04,100
+eu executo com É o Grit e aqui eu vou
+
+107
+00:07:04,108 --> 00:07:04,869
+fazer aqui.
+
+108
+00:07:04,879 --> 00:07:19,329
+Oh d B m Grades! Quando eu faço isso,
+
+109
+00:07:20,139 --> 00:07:22,750
+ele já foi lá e já criou a tabela de
+
+110
+00:07:22,759 --> 00:07:23,350
+pessoa.
+
+111
+00:07:23,358 --> 00:07:29,069
+Quer ver vindo pro okba aqui, Oh! Se
+
+112
+00:07:29,079 --> 00:07:33,639
+eu pegar aqui tables e mandar atualizar eu vou achar
+
+113
+00:07:33,649 --> 00:07:38,329
+duas tabelas, tabelas de pessoas e tabela dos sequelas,
+
+114
+00:07:38,338 --> 00:07:41,428
+Meta data E se eu der um select nesse cara
+
+115
+00:07:41,439 --> 00:07:43,108
+aqui eu vou ver que essa tabela foi criada com
+
+116
+00:07:43,119 --> 00:07:47,170
+dois campinhos a mais o e o que é padrão
+
+117
+00:07:47,178 --> 00:07:47,670
+dele.
+
+118
+00:07:47,678 --> 00:07:50,949
+Cada inserção que você faz opa, ele já vai
+
+119
+00:07:50,959 --> 00:07:52,750
+colocar o campo preenchido.
+
+120
+00:07:52,759 --> 00:07:56,759
+Cada alteração que você faz ele coloca no o seculares.
+
+121
+00:07:56,769 --> 00:08:00,000
+Já faz isso sozinho pra tirar e colocar o tempo.
+
+122
+00:08:00,009 --> 00:08:03,149
+Fas na hora de criar, né? Bom,
+
+123
+00:08:05,970 --> 00:08:07,980
+agora ele não permite criar.
+
+124
+00:08:07,988 --> 00:08:12,540
+Só eh alguma coisa com um elemento, né?
+
+125
+00:08:12,548 --> 00:08:15,500
+Com uma pessoa ou coisa do tipo pode criar com
+
+126
+00:08:15,509 --> 00:08:18,220
+eh relacionamento de pessoa com dependente, por exemplo,
+
+127
+00:08:18,230 --> 00:08:22,459
+Aqui eu criei dois modelos pessoa e dependentes.
+
+128
+00:08:22,470 --> 00:08:24,819
+E aí tem aquele relacionamento de um pra N,
+
+129
+00:08:24,829 --> 00:08:27,399
+Ou seja, a pessoa tem dependentes, aqueles são
+
+130
+00:08:27,410 --> 00:08:30,699
+dependentes da pessoa, né? Então eu teria aqui
+
+131
+00:08:30,709 --> 00:08:37,690
+oh associate esse associate, ele fica no model tá,
+
+132
+00:08:38,298 --> 00:08:40,008
+ele fica presente lá no mode.
+
+133
+00:08:43,340 --> 00:08:46,269
+Pegar aqui oh estática suficiente.
+
+134
+00:08:46,279 --> 00:08:50,750
+Você altera esse associa pra definir associações entre tabelas ou
+
+135
+00:08:50,759 --> 00:08:54,830
+entre objetos, né? Então, aqui depende do
+
+136
+00:08:54,840 --> 00:08:58,830
+se o pessoa, Frank Pessoa é de Cage,
+
+137
+00:08:58,840 --> 00:09:04,469
+tá do outro lado eu tenho pessoa ponto Depende então,
+
+138
+00:09:04,479 --> 00:09:07,849
+assim o dependente do lado dele vai fazer o relacionamento
+
+139
+00:09:07,859 --> 00:09:11,119
+com o modelo de pessoa, tá? Então ele
+
+140
+00:09:11,129 --> 00:09:14,259
+vai dizer que ele tá associado a uma pessoa e
+
+141
+00:09:14,269 --> 00:09:17,570
+a pessoa do lado dela vai fazer o, né?
+
+142
+00:09:17,580 --> 00:09:19,759
+Que seria? Ele tem muitos associados do tipo de
+
+143
+00:09:19,769 --> 00:09:21,969
+pessoa porque é uma pessoa pra n independente.
+
+144
+00:09:21,979 --> 00:09:25,379
+Então, configurando um dos dois lados, você consegue
+
+145
+00:09:25,389 --> 00:09:29,609
+definir uma relação de chave estrangeira, né? Bom?
+
+146
+00:09:30,558 --> 00:09:34,250
+Então eu sugiro inclusive, que se faça o relacionamento
+
+147
+00:09:34,259 --> 00:09:38,529
+de chave estrangeira antes, né? E eh cliente
+
+148
+00:09:38,538 --> 00:09:39,529
+dependente nesse caso.
+
+149
+00:09:39,538 --> 00:09:41,668
+Aqui eu teria que colocar um, né? eu
+
+150
+00:09:41,678 --> 00:09:46,009
+teria que alterar também o código do model pra poder
+
+151
+00:09:46,019 --> 00:09:47,570
+reconhecer essa referência.
+
+152
+00:09:47,580 --> 00:09:49,288
+Então, eu tenho que fazer no estético e também
+
+153
+00:09:49,298 --> 00:09:52,719
+no modelo que é dependente, né? Por que
+
+154
+00:09:52,729 --> 00:09:54,558
+que você faz isso antes? Quando fizer o The
+
+155
+00:09:54,570 --> 00:09:58,048
+Grade, ele já vai reconhecer tudo? Tá eh
+
+156
+00:09:58,058 --> 00:10:00,529
+uma coisa, Ele já cria um campo chamado e
+
+157
+00:10:00,538 --> 00:10:04,019
+d também, né? Outra coisa que eu tenho
+
+158
+00:10:04,029 --> 00:10:05,418
+é o né.
+
+159
+00:10:05,428 --> 00:10:08,960
+O sidra, pra você gera eh fazer um gerador
+
+160
+00:10:08,969 --> 00:10:11,139
+eh de sementes né? Que a gente chama de
+
+161
+00:10:11,149 --> 00:10:13,940
+que que ele vai fazer? Ele vai gerar?
+
+162
+00:10:13,950 --> 00:10:18,119
+Tá, eh, vai criar alguns alguns arquivos pra
+
+163
+00:10:18,129 --> 00:10:23,219
+poder alimentar essas tabelasà medida em que você precise,
+
+164
+00:10:23,229 --> 00:10:24,820
+né? Depois de criar o banco, você pode
+
+165
+00:10:24,830 --> 00:10:27,859
+fazer alimentar as tabelas, né? Aqui tá um
+
+166
+00:10:27,869 --> 00:10:32,779
+exemplo de no AP, que é quando você eh
+
+167
+00:10:32,788 --> 00:10:35,058
+manda executar o Sider.
+
+168
+00:10:35,070 --> 00:10:38,668
+Ele vai fazer o que book book inset é em
+
+169
+00:10:38,678 --> 00:10:40,570
+lote pegas ele e vai ser.
+
+170
+00:10:40,580 --> 00:10:43,379
+Então vai inserir uma série de caras ali sem usar
+
+171
+00:10:43,389 --> 00:10:45,779
+as regras do objeto.
+
+172
+00:10:45,788 --> 00:10:48,379
+Vai ser direto na base na tabela tá sem usar
+
+173
+00:10:48,389 --> 00:10:51,070
+as regras do objeto e no Dow é quando você
+
+174
+00:10:51,080 --> 00:10:55,330
+desfaz esse tá cê coloca esse d, né n
+
+175
+00:10:55,340 --> 00:10:59,609
+p x CDB C ele vai inserir eh EH,
+
+176
+00:10:59,619 --> 00:11:04,580
+vai fazer o quê? Vai executar todos os tá
+
+177
+00:11:04,590 --> 00:11:08,058
+pra poder? Eh alimentar o banco eh nesse caso,
+
+178
+00:11:08,070 --> 00:11:13,719
+aqui Nesse, eu não tenho nenhum side, mas
+
+179
+00:11:13,729 --> 00:11:27,119
+eu tenho uma versão que tem em alguns Aham Essa
+
+180
+00:11:27,129 --> 00:11:32,639
+é uma versão com alguns Ah, lá o que
+
+181
+00:11:32,649 --> 00:11:40,719
+eu tenho, Algumas pessoas já coloco no no e
+
+182
+00:11:40,729 --> 00:11:44,739
+criando alguns dependentes também com cert, pros, I,
+
+183
+00:11:44,750 --> 00:11:49,080
+eh pros elementos um e dois poderia executar isso aqui
+
+184
+00:11:49,090 --> 00:11:52,700
+E ele estaria eh gerando, né? Na verdade
+
+185
+00:11:52,710 --> 00:11:54,619
+eh esses registros nas tabelas.
+
+186
+00:11:54,629 --> 00:11:57,928
+Tá isso é a função de um sider hum?
+
+187
+00:11:59,649 --> 00:11:59,918
+Bom.
+
+188
+00:12:01,119 --> 00:12:07,440
+Então basicamente eh migration E fazem isso.
+
+189
+00:12:07,450 --> 00:12:11,558
+Você tem como criar a estrutura e alimentar essa estrutura?
+
+190
+00:12:11,570 --> 00:12:14,840
+Os ti pra poder fazer a criação da estrutura e
+
+191
+00:12:14,849 --> 00:12:18,239
+os pra poder alimentar com base de dados inicial.
+
+192
+00:12:18,250 --> 00:12:20,899
+Sempre que tiver que gera criar um banco, é
+
+193
+00:12:20,908 --> 00:12:24,298
+interessante ter migration pra poder.
+
+194
+00:12:24,308 --> 00:12:28,820
+Eh gerar configuração inicial sem depender de alguma administração de
+
+195
+00:12:28,830 --> 00:12:31,178
+rede ou algo do tipo simplesmente executa.
+
+196
+00:12:31,190 --> 00:12:33,200
+Ele vai lá e roda, principalmente se for rodar
+
+197
+00:12:33,210 --> 00:12:34,460
+no dock, por exemplo.
+
+198
+00:12:34,469 --> 00:12:36,259
+É interessante ter esses comandos.
+
+199
+00:12:36,269 --> 00:12:37,500
+A gente fica então por aqui.
+
+200
+00:12:37,509 --> 00:12:40,899
+Espero ter agregado conhecimento, bons estudos e até a
+
+201
+00:12:40,908 --> 00:12:41,279
+próxima
+

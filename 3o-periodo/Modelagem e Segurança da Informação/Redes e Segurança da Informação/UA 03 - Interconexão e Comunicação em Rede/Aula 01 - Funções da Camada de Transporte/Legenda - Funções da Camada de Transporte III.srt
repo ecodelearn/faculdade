@@ -1,0 +1,708 @@
+1
+00:00:06,089 --> 00:00:08,019
+Olá aluno, sou o professor Fabrício Melo.
+
+2
+00:00:08,028 --> 00:00:10,698
+É um grande prazer estar aqui onde nós estamos aí
+
+3
+00:00:10,710 --> 00:00:15,159
+tratando sobre a camada de transporte camada quatro aí do
+
+4
+00:00:15,169 --> 00:00:17,019
+famoso modelo OSE.
+
+5
+00:00:17,030 --> 00:00:20,339
+E vamos tratar sobre os protocolos agora da camada de
+
+6
+00:00:20,350 --> 00:00:26,489
+transporte que nós chegamos até a fazer algumas citações deles
+
+7
+00:00:26,500 --> 00:00:29,388
+aí, né, no nos momentos anteriores que são
+
+8
+00:00:29,399 --> 00:00:31,769
+dois, né? O famoso protocolo TC p e
+
+9
+00:00:31,780 --> 00:00:35,130
+o famoso protocolo o D P? Então são protocolos
+
+10
+00:00:35,139 --> 00:00:36,609
+importantíssimos na rede.
+
+11
+00:00:36,618 --> 00:00:40,389
+Protocolos que são sempre citados aí em qualquer situação que
+
+12
+00:00:40,399 --> 00:00:43,490
+você tiver na rede tá? Então vamos a eles
+
+13
+00:00:43,500 --> 00:00:47,319
+olha lá como eu falei nós temos dois grandes protocolos
+
+14
+00:00:47,329 --> 00:00:51,168
+que vão operar aí na rede tá? Eh o
+
+15
+00:00:51,179 --> 00:00:55,658
+TC P versus O protocolo U D P E obviamente
+
+16
+00:00:55,668 --> 00:00:57,090
+vai depender aí DA.
+
+17
+00:00:57,098 --> 00:01:01,500
+Quando o desenvolvedor for desenvolver uma aplicação no caso eu
+
+18
+00:01:01,509 --> 00:01:05,260
+tô falando um software, ele vai optar por qual
+
+19
+00:01:05,269 --> 00:01:08,250
+protocolo? Lá na camada de transporte, ele vai
+
+20
+00:01:08,260 --> 00:01:12,168
+querer utilizar? Tá no caso aí pra fazer esse
+
+21
+00:01:12,180 --> 00:01:16,168
+controle né? Dos pacotes dos dados que vão fluir,
+
+22
+00:01:16,180 --> 00:01:19,379
+olha só quais são as características do primeiro Vamos falar
+
+23
+00:01:19,388 --> 00:01:21,829
+do TC p Oh o TC P Ele é um
+
+24
+00:01:21,838 --> 00:01:23,870
+protocolo aluno confiável.
+
+25
+00:01:24,668 --> 00:01:25,879
+Por quê? porque ele é orientado.
+
+26
+00:01:25,888 --> 00:01:30,338
+A conexão faz o famoso hand shake, né?
+
+27
+00:01:30,349 --> 00:01:32,849
+E ele garante Oh que todos os dados cheguem ao
+
+28
+00:01:32,859 --> 00:01:41,010
+destino corretamente, como através de confirmações também ele fornece
+
+29
+00:01:41,019 --> 00:01:44,388
+um controle de fluxo e um controle de erro.
+
+30
+00:01:45,239 --> 00:01:47,689
+Tá? Os dados são transmitidos, Ou seja,
+
+31
+00:01:47,698 --> 00:01:48,569
+por segmentos.
+
+32
+00:01:48,579 --> 00:01:51,129
+Por isso que o p d u eles falam segmentos
+
+33
+00:01:51,138 --> 00:01:53,049
+a gente usa muito tempo pacote, mas cê tem
+
+34
+00:01:53,058 --> 00:01:57,448
+o p d u como segmento tá? Eh indicado
+
+35
+00:01:57,459 --> 00:02:00,088
+para aplicações? Tá vendo que não toleram erros,
+
+36
+00:02:00,099 --> 00:02:04,069
+isso é não permitem perda de dados durante transmissão pela
+
+37
+00:02:04,079 --> 00:02:04,689
+rede.
+
+38
+00:02:04,698 --> 00:02:06,730
+Então vou dar um exemplo aqui pra você Oh,
+
+39
+00:02:06,739 --> 00:02:08,649
+você tem um exemplo aí tá vendo oh lá na
+
+40
+00:02:08,659 --> 00:02:12,868
+camada de aplicação o h t t p protocolo que
+
+41
+00:02:12,879 --> 00:02:18,129
+acessa sites u f T p Transferência de arquivos S
+
+42
+00:02:18,139 --> 00:02:22,669
+M T P de e-mail vai operar ao com o
+
+43
+00:02:22,679 --> 00:02:26,710
+protocolo TC P e obviamente lá na camada de baixo
+
+44
+00:02:26,719 --> 00:02:29,308
+a gente estudou rede operando com o I P,
+
+45
+00:02:29,319 --> 00:02:31,949
+então vou dar um exemplo aqui de um e-mail.
+
+46
+00:02:31,960 --> 00:02:37,038
+Cê pode perceber que quando você envia um e-mail pra
+
+47
+00:02:37,050 --> 00:02:42,929
+alguém se apareceu lá e-mail enviado com sucesso Essa pessoa
+
+48
+00:02:42,939 --> 00:02:45,808
+vai receber esse e-mail primeiro que o endereço dela é
+
+49
+00:02:45,819 --> 00:02:48,050
+o único de E-mail, Então se deu lá enviado
+
+50
+00:02:48,058 --> 00:02:50,088
+com sucesso chegou o E-mail.
+
+51
+00:02:50,099 --> 00:02:54,288
+A pessoa não vai correr o risco de abrir o
+
+52
+00:02:54,300 --> 00:02:57,368
+e-mail dela e ter só a metade do e-mail.
+
+53
+00:02:57,379 --> 00:02:59,969
+Tá faltando uns pedaços Isso não vai acontecer.
+
+54
+00:02:59,979 --> 00:03:03,338
+Agora toma cuidado pra não confundir queàs vezes você
+
+55
+00:03:03,349 --> 00:03:04,099
+abre um e-mail ali.
+
+56
+00:03:04,110 --> 00:03:07,179
+Realmente ele aparece ali faltando é porque é um filtro
+
+57
+00:03:07,189 --> 00:03:09,838
+que os programas tem pra não baixarem o arquivo h
+
+58
+00:03:09,849 --> 00:03:12,639
+t ML todoàs vezes, né eh a A
+
+59
+00:03:12,649 --> 00:03:16,020
+o aqueles anexos que vem na mensagem enfrenta na mensagem.
+
+60
+00:03:16,028 --> 00:03:18,300
+Aí tem como você liberar e uma mensagem de Mas
+
+61
+00:03:18,308 --> 00:03:21,219
+o e-mail chegou, então esse tipo de aplicação como
+
+62
+00:03:21,229 --> 00:03:23,199
+ele falou ali é o S m t p E-mail.
+
+63
+00:03:23,778 --> 00:03:28,490
+Ele vai utilizar lá na camada de transporte o protocolo
+
+64
+00:03:28,500 --> 00:03:32,750
+TC P que o e-mail é uma aplicação que tem
+
+65
+00:03:32,758 --> 00:03:37,588
+que ter entrega confiável que os pacotes tem que chegar
+
+66
+00:03:37,599 --> 00:03:40,020
+ao destino de maneira correta.
+
+67
+00:03:40,710 --> 00:03:43,439
+Aí, se por acaso um desses pacotes, se
+
+68
+00:03:43,449 --> 00:03:47,050
+perder que que vai acontecer cê vai ter uma mensagem
+
+69
+00:03:47,058 --> 00:03:48,939
+de erro aparecer lá.
+
+70
+00:03:48,949 --> 00:03:52,699
+O e-mail não foi enviado erro no envio de e-mail,
+
+71
+00:03:52,710 --> 00:03:57,500
+então você vai ser comunicado e você vai tentar enviar
+
+72
+00:03:57,508 --> 00:03:58,460
+novamente.
+
+73
+00:03:58,469 --> 00:04:02,469
+Entendeu Então o protocolo TC p feito pra esse tipo
+
+74
+00:04:02,479 --> 00:04:05,199
+de aplicação é igual o site, o site você
+
+75
+00:04:05,210 --> 00:04:09,050
+pode perceber quando você vai acessar uma página desaparece lá.
+
+76
+00:04:09,058 --> 00:04:13,550
+Oh a página não foi carregada concluída com sucesso,
+
+77
+00:04:13,558 --> 00:04:15,189
+então cê teve ali uma mensagem de erro.
+
+78
+00:04:15,199 --> 00:04:17,928
+Os pacotes não chegaram aí cê tem aquela opção de
+
+79
+00:04:17,939 --> 00:04:20,920
+dar o f cinco, né? De recarregar pra
+
+80
+00:04:20,928 --> 00:04:25,410
+aplicação tentar recarregar o site novamente, então esse tipo
+
+81
+00:04:25,420 --> 00:04:29,119
+de aplicação vai usar o TC p tá bom o
+
+82
+00:04:29,129 --> 00:04:31,809
+protocolo concorrente ao TC p é o D P Olha
+
+83
+00:04:31,819 --> 00:04:33,959
+como é que você inverte as características? Oh!
+
+84
+00:04:33,970 --> 00:04:37,519
+O d P é um protocolo não orientado.
+
+85
+00:04:37,528 --> 00:04:42,778
+A conexão faz aquela questão do ele não fornece a
+
+86
+00:04:42,790 --> 00:04:46,738
+confi confiabilidade na entrega dos pacotes ou o controle de
+
+87
+00:04:46,750 --> 00:04:48,220
+fluxo tá.
+
+88
+00:04:48,230 --> 00:04:50,689
+Os dados são transmitidos na forma de que oh de
+
+89
+00:04:50,699 --> 00:04:52,420
+data gramas tá vendo aí a gente já chama de
+
+90
+00:04:52,428 --> 00:04:54,858
+data gramas, apesar que a gente fala pacote.
+
+91
+00:04:54,869 --> 00:04:58,259
+Mas técnica indo pro técnico é data, grama tá
+
+92
+00:04:58,269 --> 00:05:02,170
+vendo, ele já é indicado aluno para aplicações,
+
+93
+00:05:02,178 --> 00:05:04,660
+eh não sensíveis ao atraso, né? Ou seja,
+
+94
+00:05:04,670 --> 00:05:06,939
+isto é atraso ou transmissão.
+
+95
+00:05:06,949 --> 00:05:12,439
+São o quê? Inaceitáveis? Por quê? Eu
+
+96
+00:05:12,449 --> 00:05:14,298
+preciso que chegue lá.
+
+97
+00:05:14,309 --> 00:05:16,379
+Agora se teve perda ou não, né? Não
+
+98
+00:05:16,389 --> 00:05:18,699
+tem problema, tá vendo Oh, Eles são sensíveis
+
+99
+00:05:18,709 --> 00:05:19,250
+ao atraso.
+
+100
+00:05:19,259 --> 00:05:22,189
+Ou seja, os atrasos da transmissão são inaceitáveis,
+
+101
+00:05:22,199 --> 00:05:25,278
+eu não posso ter esse atraso Como as transmissões de
+
+102
+00:05:25,290 --> 00:05:26,980
+áudio divide em tempo real.
+
+103
+00:05:26,988 --> 00:05:28,230
+Então vamos pegar aqui.
+
+104
+00:05:28,238 --> 00:05:31,660
+O exemplo tá vendo oh a aplicação, Por exemplo,
+
+105
+00:05:31,670 --> 00:05:37,579
+eu posso ter lá sistemas dms s m MP que
+
+106
+00:05:37,588 --> 00:05:39,259
+é o protocolo de gerenciamento de rede.
+
+107
+00:05:39,269 --> 00:05:41,850
+O t F t p que é o trivial fare
+
+108
+00:05:41,858 --> 00:05:42,399
+o protocolo.
+
+109
+00:05:42,410 --> 00:05:44,619
+Porque o f t P normal trabalha com TC p
+
+110
+00:05:44,629 --> 00:05:46,608
+o t f t p já vai trabalhar com o
+
+111
+00:05:46,619 --> 00:05:48,399
+d p n f s.
+
+112
+00:05:48,410 --> 00:05:49,220
+Por exemplo.
+
+113
+00:05:49,230 --> 00:05:50,988
+Então, o que que vai acontecer aqui? Dá
+
+114
+00:05:51,000 --> 00:05:53,939
+um exemplo aqui do transmissão do áudio em vídeo real.
+
+115
+00:05:53,949 --> 00:05:57,000
+A gente tá fazendo aqui uma comunicação em vídeo certo.
+
+116
+00:05:58,048 --> 00:06:01,298
+A gente tem que prover o que os pacotes chegarem
+
+117
+00:06:01,309 --> 00:06:02,660
+rápido tá vendo, eles são.
+
+118
+00:06:02,670 --> 00:06:06,420
+São inaceitáveis atrasos, mas, por exemplo, se
+
+119
+00:06:06,428 --> 00:06:09,819
+algum pacote se perder, pode ser que sua imagem
+
+120
+00:06:09,829 --> 00:06:11,738
+chega pra mim um pouco tremida.
+
+121
+00:06:11,750 --> 00:06:14,119
+Falta ali um dá um, né? Minha.
+
+122
+00:06:14,129 --> 00:06:16,988
+A voz pode ficar um pouco robotizada, mas a
+
+123
+00:06:17,000 --> 00:06:19,170
+gente não vai deixar de se comunicar por isso você
+
+124
+00:06:19,178 --> 00:06:23,709
+concorda? A gente vai conseguir continuar a conversação.
+
+125
+00:06:23,720 --> 00:06:27,108
+Por quê? Que eu não precisei de confiabilidade na
+
+126
+00:06:27,119 --> 00:06:32,949
+entrega? Eu precisei de idade, então se eu
+
+127
+00:06:32,959 --> 00:06:35,588
+precisei de velocidade eu vou trabalhar com t P.
+
+128
+00:06:35,600 --> 00:06:39,309
+Então como eu falei anteriormente, quando o desenvolvedor vai
+
+129
+00:06:39,319 --> 00:06:43,410
+desenvolver a sua aplicação, ele tem que fazer esse
+
+130
+00:06:43,420 --> 00:06:47,209
+estudo lá na camada de transporte eu vou operar com
+
+131
+00:06:47,220 --> 00:06:50,209
+o TC p ou vou operar com o padrão u
+
+132
+00:06:50,220 --> 00:06:52,678
+d P, porque por exemplo, o f t
+
+133
+00:06:52,689 --> 00:06:55,910
+P trabalha com TC p pra arquivosàs vezes mais
+
+134
+00:06:55,920 --> 00:06:59,910
+complexo não pode ter ali perda o arquivo chegar incompleto.
+
+135
+00:06:59,920 --> 00:07:01,670
+Já o t f t p oh que é o
+
+136
+00:07:01,678 --> 00:07:04,790
+trivial já trabalha com aplicações de f t p mais
+
+137
+00:07:04,798 --> 00:07:08,329
+simples que não vão exigir essa confiabilidade então cara,
+
+138
+00:07:08,338 --> 00:07:10,470
+se ele criar um sistema de em vez de ser
+
+139
+00:07:10,480 --> 00:07:12,750
+f t p e criar um t f t p,
+
+140
+00:07:12,759 --> 00:07:15,850
+aí ele vai optar lá na camada de transporte pelo
+
+141
+00:07:15,858 --> 00:07:20,358
+protocolo D P okay aí temos essa tabela fazendo a
+
+142
+00:07:20,369 --> 00:07:23,619
+comparação entre os dois protocolos que você pode observar.
+
+143
+00:07:23,629 --> 00:07:26,798
+O TC p tem a característica de ser mais lento
+
+144
+00:07:26,809 --> 00:07:29,920
+porque ele tem esse controle de fluxo esse controle de
+
+145
+00:07:29,928 --> 00:07:33,939
+erro o d p oh já é mais rápido porque
+
+146
+00:07:33,949 --> 00:07:35,278
+não tem esses controles.
+
+147
+00:07:36,178 --> 00:07:39,009
+O TC p ele é confiável, o d P
+
+148
+00:07:39,019 --> 00:07:40,170
+não é confiável.
+
+149
+00:07:40,178 --> 00:07:44,319
+Tá vendo o TC p tem uma confirmação de entrega
+
+150
+00:07:44,329 --> 00:07:45,559
+dos pacotes.
+
+151
+00:07:45,569 --> 00:07:48,579
+O D P não tem a confirmação.
+
+152
+00:07:49,220 --> 00:07:53,588
+O TC P faz o controle de fluxo dos pacotes.
+
+153
+00:07:53,600 --> 00:07:56,350
+O D P não tem um controle de fluxo.
+
+154
+00:07:56,358 --> 00:08:00,790
+O TC P tem um controle de erro O o
+
+155
+00:08:00,798 --> 00:08:03,259
+d P sem o controle de erro, tá vendo
+
+156
+00:08:03,269 --> 00:08:07,569
+que um é a negação do outro praticamente e o
+
+157
+00:08:07,579 --> 00:08:13,129
+TC p a segmentação e remontagem o D P entrega
+
+158
+00:08:13,139 --> 00:08:15,009
+dados na ordem de chegar, então os pacotes vão
+
+159
+00:08:15,019 --> 00:08:15,988
+chegando e ele vai entregando.
+
+160
+00:08:16,699 --> 00:08:20,988
+Ele não faz uma remontagem, não faz uma segmentação
+
+161
+00:08:21,000 --> 00:08:24,509
+remontando isso aí conseguiu entender a ideia.
+
+162
+00:08:24,519 --> 00:08:28,750
+Então você tem esses dois protocolos importantíssimos na camada de
+
+163
+00:08:28,759 --> 00:08:32,558
+transporte que concorre e vão de acordo com o que
+
+164
+00:08:32,570 --> 00:08:34,279
+você necessitar bem.
+
+165
+00:08:34,288 --> 00:08:38,629
+Existem aí teses, né? Teses aí que o
+
+166
+00:08:38,639 --> 00:08:40,418
+d P vai ser um protocolo ultrapassado.
+
+167
+00:08:40,428 --> 00:08:42,879
+Por quê? Porque na medida que a internet vai
+
+168
+00:08:42,889 --> 00:08:44,479
+ficando mais rápida, né, A gente tem cada
+
+169
+00:08:44,489 --> 00:08:48,219
+vez aí banda de rede, cada vez maior,
+
+170
+00:08:48,229 --> 00:08:51,719
+né? cê tem eh assinaturas aí já a velocidades
+
+171
+00:08:51,729 --> 00:08:54,639
+bem interessantes que o TC p, mesmo sendo mais
+
+172
+00:08:54,649 --> 00:08:57,340
+lento, ele vai suprir coisas que o d p
+
+173
+00:08:57,678 --> 00:09:00,590
+aí fazia, né Então há teses disso aí que
+
+174
+00:09:00,599 --> 00:09:03,849
+pode ser que ele substitua de vez aí o d
+
+175
+00:09:03,859 --> 00:09:06,889
+p tá, vamos aguardar pra ver o que que
+
+176
+00:09:06,899 --> 00:09:10,288
+vai acontecer? Tá? Bom! Então! Aluno
+
+177
+00:09:10,298 --> 00:09:12,389
+Grande abraço até a próxima!
+

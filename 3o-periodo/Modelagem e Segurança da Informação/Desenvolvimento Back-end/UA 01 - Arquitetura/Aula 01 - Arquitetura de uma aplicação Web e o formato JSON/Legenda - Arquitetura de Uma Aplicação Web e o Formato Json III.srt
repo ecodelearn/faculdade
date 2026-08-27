@@ -1,0 +1,716 @@
+1
+00:00:06,698 --> 00:00:09,278
+Agora vamos falar um pouquinho sobre W W, né?
+
+2
+00:00:09,288 --> 00:00:14,470
+We são assim fundamentais Hoje em dia, em qualquer
+
+3
+00:00:14,478 --> 00:00:18,309
+sistema que se faça tá eh você já deve ter
+
+4
+00:00:18,318 --> 00:00:20,829
+ouvido falar do formato Jason, né? Eh o
+
+5
+00:00:20,839 --> 00:00:23,750
+formato Jason é o formato de transferência padrão do web.
+
+6
+00:00:23,760 --> 00:00:28,100
+Se você pegar qualquer serviço do Google ele vai trabalhar
+
+7
+00:00:28,109 --> 00:00:28,609
+com Jason.
+
+8
+00:00:28,969 --> 00:00:31,059
+Ah, mas eu quero trabalhar com a Receita Federal,
+
+9
+00:00:31,068 --> 00:00:32,259
+fazer uma nota fiscal.
+
+10
+00:00:32,270 --> 00:00:34,700
+Algo do tipo você vai precisar transitar em informação da
+
+11
+00:00:34,709 --> 00:00:37,209
+Receita Federal no formato Soup, né? É um
+
+12
+00:00:37,219 --> 00:00:38,259
+web soup.
+
+13
+00:00:38,270 --> 00:00:41,618
+Existe uma diferença na aplicação dos tipos de ABS.
+
+14
+00:00:41,630 --> 00:00:43,978
+O Soup é mais formal, é muito usado em
+
+15
+00:00:43,990 --> 00:00:46,179
+bebe, né? Quando cê fala de empresas,
+
+16
+00:00:46,189 --> 00:00:50,848
+se falando, eh ao mesmo tempo você tem no
+
+17
+00:00:50,859 --> 00:00:53,649
+um um formato mais simples, mais leve, que
+
+18
+00:00:53,658 --> 00:00:57,770
+é o ideal para quando você tem a empresa falando
+
+19
+00:00:57,779 --> 00:00:59,529
+com o cliente, né? Vamos ver como isso
+
+20
+00:00:59,539 --> 00:01:00,270
+tudo funciona.
+
+21
+00:01:02,098 --> 00:01:08,909
+Então, agora vamos falar um pouquinho sobre web Bom
+
+22
+00:01:08,918 --> 00:01:14,230
+conceito básico, interoperabilidade, palavra grande, mas significa
+
+23
+00:01:14,239 --> 00:01:17,750
+uma coisa muito simples coisas se falando, né?
+
+24
+00:01:17,760 --> 00:01:24,709
+As coisas que são interrrogação capazes de se comunicar devido
+
+25
+00:01:24,719 --> 00:01:25,620
+a certos padrões.
+
+26
+00:01:25,629 --> 00:01:30,150
+Então sempre houve uma necessidade em termos de interoperabilidade em
+
+27
+00:01:30,159 --> 00:01:31,388
+diversos sistemas.
+
+28
+00:01:31,400 --> 00:01:34,028
+Isso na verdade, começou na própria área de engenharia,
+
+29
+00:01:34,040 --> 00:01:38,120
+né? Quando você falava de, né, eh,
+
+30
+00:01:38,129 --> 00:01:41,680
+Seriam componentes que, independente do fabricante, você pode
+
+31
+00:01:41,689 --> 00:01:44,549
+encaixar pra poder montar um sistema maior.
+
+32
+00:01:44,558 --> 00:01:46,299
+É o caso, por exemplo, quando você vai
+
+33
+00:01:46,308 --> 00:01:47,459
+comprar um pneu.
+
+34
+00:01:47,900 --> 00:01:50,269
+Esse pneu independe do fabricante desde que ele tem as
+
+35
+00:01:50,278 --> 00:01:52,469
+características certas e vai encaixar no carro.
+
+36
+00:01:52,480 --> 00:01:57,299
+Então essa questão da interoperabilidade é a definição de padrões
+
+37
+00:01:57,308 --> 00:02:01,069
+para que coisas se comuniquem, sejam elas sistemas físicos,
+
+38
+00:02:01,079 --> 00:02:02,469
+sejam elas sistemas de software.
+
+39
+00:02:02,480 --> 00:02:05,388
+O que você precisa, na verdade é que esses
+
+40
+00:02:05,400 --> 00:02:07,569
+caras tenham um certo padrão de comunicação.
+
+41
+00:02:07,579 --> 00:02:10,669
+Com isso eu posso ter um absence feito, por
+
+42
+00:02:10,679 --> 00:02:15,069
+exemplo, em Java, outro feito com dot,
+
+43
+00:02:15,080 --> 00:02:19,229
+outro feito com Python e todos eles vão se falar
+
+44
+00:02:19,240 --> 00:02:22,719
+Por quê? Porque eles têm um meio comum em
+
+45
+00:02:22,729 --> 00:02:24,110
+formato de dados comuns.
+
+46
+00:02:24,118 --> 00:02:27,189
+Um protocolo comum, né? Então a bilidade é
+
+47
+00:02:27,199 --> 00:02:30,949
+uma palavra chave em termos de integração de sistemas de
+
+48
+00:02:30,960 --> 00:02:33,270
+aplicativos web, de qualquer tipo de sistema.
+
+49
+00:02:33,278 --> 00:02:36,429
+Se tenha hoje no mercado que vai dar origem inclusive
+
+50
+00:02:36,439 --> 00:02:39,288
+depois aos microservice, que na verdade são o que
+
+51
+00:02:39,300 --> 00:02:41,349
+são vários desses serviços.
+
+52
+00:02:41,360 --> 00:02:44,889
+Containers, um do por exemplo, eh que se
+
+53
+00:02:44,899 --> 00:02:49,330
+comunicam através de mensageiras ou qualquer outro tipo de recurso.
+
+54
+00:02:49,338 --> 00:02:51,750
+Que seja também padronizado, né? É sempre a
+
+55
+00:02:51,758 --> 00:02:54,808
+questão da Inter que seriam os componentes.
+
+56
+00:02:54,819 --> 00:02:58,000
+Se falando como isso começou, né? Ah,
+
+57
+00:02:58,008 --> 00:03:01,479
+a primeira assim, iniciativa de Inter prara comercial foi
+
+58
+00:03:01,490 --> 00:03:02,000
+o r PC.
+
+59
+00:03:02,008 --> 00:03:04,758
+Que é o, né? É base de muitos
+
+60
+00:03:04,770 --> 00:03:08,118
+protocolos da internet, né? O R PC seria
+
+61
+00:03:08,129 --> 00:03:11,719
+a chamada de um procedimento em uma máquina? Remota,
+
+62
+00:03:11,729 --> 00:03:15,050
+né? Isso quando veio pro Java? Esse gerou
+
+63
+00:03:15,058 --> 00:03:16,879
+o R M I, que é o invoca,
+
+64
+00:03:16,889 --> 00:03:19,969
+né? Que é o R PC no aspecto oriental
+
+65
+00:03:19,979 --> 00:03:22,520
+do objeto, né? Mas antes disso, tinha
+
+66
+00:03:22,528 --> 00:03:26,159
+okba que o como um objeto que reconhece, né?
+
+67
+00:03:26,169 --> 00:03:28,758
+Seria? Eh objetos distribuídos cor.
+
+68
+00:03:28,770 --> 00:03:32,699
+Isso é muito utilizado ainda hoje em várias empresas de
+
+69
+00:03:32,710 --> 00:03:36,800
+grande porte, principalmente as que trabalham como por quê?
+
+70
+00:03:36,808 --> 00:03:39,800
+Porque as empresas não mudam de uma hora pra outra.
+
+71
+00:03:39,808 --> 00:03:42,360
+Tem sistemas, legados, Tem situações em que você
+
+72
+00:03:42,368 --> 00:03:44,379
+tem que trabalhar com o sistema novo falando com o
+
+73
+00:03:44,389 --> 00:03:47,520
+sistema antigo e J B, que são interpretes jabis
+
+74
+00:03:47,528 --> 00:03:49,038
+e o Decon, que é o desfruto de km
+
+75
+00:03:49,050 --> 00:03:50,118
+da Microsoft.
+
+76
+00:03:50,129 --> 00:03:53,439
+Oba é o sistema de objetos distribuídos o mais antigo
+
+77
+00:03:53,449 --> 00:03:56,240
+desse meio e o E j B seria o sistema
+
+78
+00:03:56,250 --> 00:03:58,729
+de objetos distribuídos do Java ou o Decon da Microsoft,
+
+79
+00:03:58,740 --> 00:04:02,639
+né? Bom, tudo isso aí são sistemas voltados
+
+80
+00:04:02,649 --> 00:04:04,038
+pra interoperabilidade.
+
+81
+00:04:04,050 --> 00:04:05,919
+Eu preciso, nesse caso, o quê de um
+
+82
+00:04:05,929 --> 00:04:08,550
+descritor de serviços? Preciso de alguma coisa que me
+
+83
+00:04:08,558 --> 00:04:11,960
+fale, como aquele serviço vai poder falar com outros,
+
+84
+00:04:11,969 --> 00:04:14,460
+né? O que ele oferece? Quais os formatos?
+
+85
+00:04:14,860 --> 00:04:17,608
+Eh também precisa de um protocolo, né? Pra
+
+86
+00:04:17,619 --> 00:04:20,410
+poder fazer um protocolo que seja conhecido e o uso
+
+87
+00:04:20,420 --> 00:04:22,869
+do padrão XI, né? O padrão prox é
+
+88
+00:04:22,879 --> 00:04:24,949
+que a gente chama de s.
+
+89
+00:04:24,959 --> 00:04:29,588
+Você eh tem um cliente criado de forma automática pra
+
+90
+00:04:29,600 --> 00:04:31,709
+fazer a comunicação destinado, transparente.
+
+91
+00:04:31,720 --> 00:04:34,389
+E o programador se preocupa apenas em fazer as chamadas.
+
+92
+00:04:34,399 --> 00:04:36,639
+Essas chamadas parecem locais, mas, na verdade vão
+
+93
+00:04:36,649 --> 00:04:39,319
+ser remotas, e eu preciso de um serviço de
+
+94
+00:04:39,329 --> 00:04:40,678
+registro e localização.
+
+95
+00:04:40,689 --> 00:04:43,040
+Se eu tenho serviços espalhados por aí, como é
+
+96
+00:04:43,048 --> 00:04:45,040
+que eu vou achar esses caras, né? Então,
+
+97
+00:04:45,048 --> 00:04:47,480
+eu tenho que ter uma forma de registrá-los para que
+
+98
+00:04:47,488 --> 00:04:49,838
+quando eu precisar eu preciso de um serviço que faça
+
+99
+00:04:49,850 --> 00:04:52,759
+Ah, o cálculo da de somatório, ele vai
+
+100
+00:04:52,769 --> 00:04:54,920
+ter que me retornar Quais serviços fazem isso? O
+
+101
+00:04:54,928 --> 00:04:56,559
+que que esse cara recebe e o que que ele
+
+102
+00:04:56,569 --> 00:04:59,119
+vai fornecer de volta pra mim, né? bom,
+
+103
+00:04:59,129 --> 00:05:03,500
+Então basicamente o Web Soup ele segue esse padrão,
+
+104
+00:05:04,189 --> 00:05:07,278
+Tá, eh, ele é utilizado no Bibi,
+
+105
+00:05:07,290 --> 00:05:09,238
+né? Seria a comunicação entre empresas? Porque ele
+
+106
+00:05:09,250 --> 00:05:12,389
+é muito formal tá? Eh, o formato é
+
+107
+00:05:12,399 --> 00:05:15,488
+X ML, então assim a grande vantagem.
+
+108
+00:05:15,500 --> 00:05:18,629
+O que garante a interoperabilidade no caso do Soup é
+
+109
+00:05:18,639 --> 00:05:20,369
+que ele usa X ML em todos os níveis.
+
+110
+00:05:20,379 --> 00:05:23,250
+O registro é X ML.
+
+111
+00:05:23,259 --> 00:05:25,649
+O descritor de serviços que vai falar como vai ser
+
+112
+00:05:25,660 --> 00:05:29,569
+usado é x ML e a mensagem é X ML
+
+113
+00:05:29,579 --> 00:05:32,449
+né? Então assim é uma escrita um pouquinho difícil,
+
+114
+00:05:32,459 --> 00:05:35,649
+porque você tem uma complexidade em uso de esquemas tá,
+
+115
+00:05:35,660 --> 00:05:40,230
+mas você tem ali uma uma plataforma que é extremamente
+
+116
+00:05:40,488 --> 00:05:43,220
+e várias ferramentas, inclusive JAP, então ela já
+
+117
+00:05:43,230 --> 00:05:45,980
+consegue hoje em dia fazer isso aí através de anotações,
+
+118
+00:05:45,988 --> 00:05:48,738
+então todo aquele trabalho braçal que a gente tinha antes
+
+119
+00:05:48,750 --> 00:05:51,619
+de escrever um x ML no braço pra poder mandar
+
+120
+00:05:51,629 --> 00:05:54,459
+a mensagem no soup já não existe mais, Hoje
+
+121
+00:05:54,470 --> 00:05:57,420
+já existe eh o dia que o a JAC se
+
+122
+00:05:57,428 --> 00:06:00,939
+reconhece SOP automaticamente, então tem muita coisa que já
+
+123
+00:06:00,949 --> 00:06:04,290
+tem pronta e você consegue fazer isso com menos esforço,
+
+124
+00:06:04,298 --> 00:06:07,220
+mas por baixo sempre vai ter aqueles artefatos em x
+
+125
+00:06:07,230 --> 00:06:10,720
+ML como é que funciona basicamente essa dinâmica? Eh
+
+126
+00:06:10,730 --> 00:06:12,528
+você busca um serviço.
+
+127
+00:06:12,540 --> 00:06:14,069
+Cê vai lá na u d d i e busca
+
+128
+00:06:14,079 --> 00:06:17,509
+eu quero um serviço com tais características, né Ele
+
+129
+00:06:17,519 --> 00:06:19,449
+vai te retornar a uma w SD L que que
+
+130
+00:06:19,459 --> 00:06:21,988
+é a W SD L é o descritor do serviço?
+
+131
+00:06:22,000 --> 00:06:24,309
+Olha esse serviço aqui você vai usar assim eh me
+
+132
+00:06:24,319 --> 00:06:27,488
+manda dois números inteiros eu te retorno inteiro, né?
+
+133
+00:06:27,500 --> 00:06:30,528
+Depois que você sabe onde tá o serviço Como usar
+
+134
+00:06:30,540 --> 00:06:33,488
+o serviço, você faz a conexão e se comunica
+
+135
+00:06:33,500 --> 00:06:37,108
+pelo protocolo Soup, que são mensagens de requisição e
+
+136
+00:06:37,119 --> 00:06:38,290
+resposta em X.
+
+137
+00:06:38,298 --> 00:06:41,730
+ML sempre com envelope e bor, né? Sempre
+
+138
+00:06:41,738 --> 00:06:43,689
+tem o envelope x ML e tem o R que
+
+139
+00:06:43,699 --> 00:06:44,790
+seria o corpo com a mensagem.
+
+140
+00:06:45,699 --> 00:06:49,470
+Bom aqui tem um exemplo de um envelope, né
+
+141
+00:06:49,480 --> 00:06:52,709
+x M eh em é claro que isso aí tá
+
+142
+00:06:52,720 --> 00:06:53,670
+bem simplificado.
+
+143
+00:06:53,678 --> 00:06:56,350
+Esse x ML é muito maior, mas aqui eu
+
+144
+00:06:56,358 --> 00:07:00,928
+estaria requisitando uma função somar, né passando os valores
+
+145
+00:07:00,939 --> 00:07:03,088
+de A e b, né? Então assim quando
+
+146
+00:07:03,100 --> 00:07:05,970
+eu chama eh, mandasse esse x ML pro servidor
+
+147
+00:07:05,980 --> 00:07:07,649
+ele saberia que eu tô chamando a função.
+
+148
+00:07:07,660 --> 00:07:11,459
+Somar com os valores da A e B tá bom
+
+149
+00:07:11,470 --> 00:07:15,858
+e o wet, né? Ah, quando eu
+
+150
+00:07:15,869 --> 00:07:20,500
+falo de web que seria, na verdade tá o
+
+151
+00:07:20,509 --> 00:07:24,019
+nome correto é arquitetura, mas a gente costuma chamar
+
+152
+00:07:24,028 --> 00:07:27,439
+também de no mercado, isso não faz muita diferença.
+
+153
+00:07:28,238 --> 00:07:30,730
+A grande vantagem dele é que ele trabalha em cima
+
+154
+00:07:30,738 --> 00:07:33,449
+do próprio protocolo h t p Ele usa os métodos
+
+155
+00:07:33,459 --> 00:07:36,649
+do protocolo h t p pra fazer consulta, alteração,
+
+156
+00:07:36,660 --> 00:07:42,170
+exclusão ou listagem de entidades que seria o estado representativo
+
+157
+00:07:42,178 --> 00:07:43,309
+de uma entidade.
+
+158
+00:07:43,319 --> 00:07:47,480
+O que significaria ser tá, eh, preferencialmente,
+
+159
+00:07:47,488 --> 00:07:50,488
+o formato jason, embora aceito x ML, né?
+
+160
+00:07:50,500 --> 00:07:53,588
+E você tem ali uma forma de identificar uma entidade.
+
+161
+00:07:53,600 --> 00:07:55,170
+Por exemplo o h T P loca, os três
+
+162
+00:07:55,178 --> 00:08:00,439
+mil produtos um significaria o seguinte eh um produto,
+
+163
+00:08:00,449 --> 00:08:05,220
+né? Cujo i d vale um Ao acessar esse,
+
+164
+00:08:05,230 --> 00:08:06,639
+eh esse endereço.
+
+165
+00:08:06,649 --> 00:08:10,459
+Ele vai me retornar os dados daquele produto específico que
+
+166
+00:08:10,470 --> 00:08:13,278
+tem o I d um em formato jason, né?
+
+167
+00:08:13,290 --> 00:08:14,379
+Que é o mais comum.
+
+168
+00:08:16,000 --> 00:08:20,699
+Bom, então, esses são os principais tipos de
+
+169
+00:08:20,709 --> 00:08:21,160
+serviço.
+
+170
+00:08:21,170 --> 00:08:23,178
+Basicamente, os dois tipos de serviços que a gente
+
+171
+00:08:23,189 --> 00:08:26,858
+tem em termos de internet, que nos ajudam na
+
+172
+00:08:26,869 --> 00:08:29,738
+interoperabilidade dos sistemas, né? Com eles dois eu
+
+173
+00:08:29,750 --> 00:08:33,908
+consigo fazer comunicação com praticamente qualquer entidade, seja uma
+
+174
+00:08:33,918 --> 00:08:36,619
+comunicação de empresa para empresa, ou seja, da
+
+175
+00:08:36,629 --> 00:08:38,058
+empresa, com o consumidor.
+
+176
+00:08:38,070 --> 00:08:40,340
+Eles tem que conhecer um pouquinho de cada um,
+
+177
+00:08:40,349 --> 00:08:43,908
+mas certamente hoje é muito usado, que é o
+
+178
+00:08:43,918 --> 00:08:46,538
+que predomina, já que temos muito mais sistemas C
+
+179
+00:08:46,548 --> 00:08:47,879
+do que sistemas.
+

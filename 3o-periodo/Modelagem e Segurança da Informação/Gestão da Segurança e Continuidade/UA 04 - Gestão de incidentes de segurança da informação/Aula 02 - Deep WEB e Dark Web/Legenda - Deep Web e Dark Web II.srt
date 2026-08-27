@@ -1,0 +1,572 @@
+1
+00:00:06,379 --> 00:00:09,890
+vamos lá, continuando a nossa nossa disciplina de segurança,
+
+2
+00:00:09,898 --> 00:00:13,069
+informação e continuidade, né? Estamos falando de dark
+
+3
+00:00:13,079 --> 00:00:16,629
+web de web e agora vamos explorar um pouco mais
+
+4
+00:00:16,638 --> 00:00:20,190
+sobre esse conceito de eh de de dark e de
+
+5
+00:00:20,199 --> 00:00:20,469
+pro web.
+
+6
+00:00:20,478 --> 00:00:24,019
+Tá bom que a gente fala muito desse lado sombrio
+
+7
+00:00:24,030 --> 00:00:26,138
+da internet, né? A Dark Web, por
+
+8
+00:00:26,149 --> 00:00:29,940
+definição, é obscura devido a combinação de fatores técnicos
+
+9
+00:00:29,949 --> 00:00:33,179
+tá e estratégico, que visa garantir o anonimato e
+
+10
+00:00:33,189 --> 00:00:35,098
+a privacidade dos indivíduos.
+
+11
+00:00:35,109 --> 00:00:38,500
+Muitas vezes a Dark Web opera em sistemas criptografados.
+
+12
+00:00:38,509 --> 00:00:41,658
+Tá que rote o tráfico para vários servidores espalhados pelo
+
+13
+00:00:41,668 --> 00:00:42,359
+mundo inteiro.
+
+14
+00:00:42,368 --> 00:00:43,978
+Essa é uma característica muito forte.
+
+15
+00:00:43,990 --> 00:00:48,639
+Isso dificulta a vinculação de usuário específico a atividade específica.
+
+16
+00:00:49,090 --> 00:00:52,539
+Além disso, ferramentas de máscara de I P servem
+
+17
+00:00:52,548 --> 00:00:56,639
+para aprofundar ainda mais o anonimato dos usuários, permitindo
+
+18
+00:00:56,649 --> 00:01:00,969
+até mesmo que sites que os usuários acessam e dificultam
+
+19
+00:01:00,978 --> 00:01:04,769
+a rastreamento e a localização ou a identidade real desses
+
+20
+00:01:04,778 --> 00:01:05,579
+usuários.
+
+21
+00:01:05,588 --> 00:01:09,954
+Outras ferramentas de privacidade, como a que é Virtual
+
+22
+00:01:09,963 --> 00:01:14,954
+Virtual Private Network, uma rede virtual privada, são
+
+23
+00:01:14,963 --> 00:01:18,355
+muitas vezes utilizadas para adicionar ainda mais uma camada de
+
+24
+00:01:18,364 --> 00:01:20,334
+anonimato dos usuários que assim deseja.
+
+25
+00:01:20,344 --> 00:01:22,724
+Então as VPN elas criam uma camada ali.
+
+26
+00:01:22,734 --> 00:01:27,073
+Uma outra rede virtual que dificulta ainda mais essa identificação.
+
+27
+00:01:27,500 --> 00:01:30,480
+Assim como a Deep Web, Muitas páginas e serviços
+
+28
+00:01:30,489 --> 00:01:34,549
+a Dark Web necessitam de as senhas e credenciais específicas
+
+29
+00:01:34,558 --> 00:01:37,629
+pra que para ter acesso, né? De administradores
+
+30
+00:01:37,638 --> 00:01:40,088
+ou outros sistemas que você consiga acessar, não é
+
+31
+00:01:40,099 --> 00:01:43,638
+qualquer um que acesse, acesse o sistema da da
+
+32
+00:01:43,650 --> 00:01:47,269
+Dark, limitando acesso somente para aqueles que são autorizados.
+
+33
+00:01:47,278 --> 00:01:50,010
+É comum também que os serviços e atividades da Dark
+
+34
+00:01:50,019 --> 00:01:54,730
+Web sejam descentralizados e distribuído em diversos locais, diversos
+
+35
+00:01:54,739 --> 00:01:55,888
+servidores.
+
+36
+00:01:55,900 --> 00:01:59,849
+Isso dificulta a aplicação da lei, rastreamento e identificação
+
+37
+00:01:59,859 --> 00:02:02,769
+dos responsáveis, pois não há uma única unidade ou
+
+38
+00:02:02,778 --> 00:02:06,069
+entidade centralizada para o alvo da investigação.
+
+39
+00:02:06,778 --> 00:02:10,149
+Essa descentralização é tão grande que normalmente a da web
+
+40
+00:02:10,159 --> 00:02:12,788
+transcende fronteiras internacionais.
+
+41
+00:02:12,800 --> 00:02:17,210
+Isso significa que a cooperação internacional muitas vezes é necessária
+
+42
+00:02:17,219 --> 00:02:19,550
+pra rastrear os indivíduos.
+
+43
+00:02:19,558 --> 00:02:23,580
+As ações, questões de jurisdições podem complicar ainda mais
+
+44
+00:02:23,588 --> 00:02:25,229
+o esforço das aplicações por lei.
+
+45
+00:02:25,240 --> 00:02:29,508
+Gente é complexo isso porque as pessoas, esses indivíduos
+
+46
+00:02:29,520 --> 00:02:32,969
+eles colocam eles ações em diversos locais do mundo e
+
+47
+00:02:32,979 --> 00:02:35,710
+cada local tem sua regulamentação.
+
+48
+00:02:35,719 --> 00:02:38,569
+Cada local tem sua equipe de investigação e isso dificulta
+
+49
+00:02:38,580 --> 00:02:42,689
+muito riscos de atividades ilegais a dar.
+
+50
+00:02:42,699 --> 00:02:46,409
+KB é conhecida por abrigar uma variedade de atividades ilegais
+
+51
+00:02:46,419 --> 00:02:51,179
+e riscos significativos devido ao seu anonimato relativo e é
+
+52
+00:02:51,189 --> 00:02:53,000
+um ambiente pouco regulamentado.
+
+53
+00:02:54,189 --> 00:02:57,219
+Abaixo, estão algumas características legais associadas a Dark.
+
+54
+00:02:57,229 --> 00:02:59,758
+Vamos pra citar, né? Uma dessas características,
+
+55
+00:02:59,770 --> 00:03:03,020
+tráfico de drogas, então plataformas a dar web facilita
+
+56
+00:03:03,028 --> 00:03:06,599
+o comércio de substâncias ilícitas, né? Comércio de
+
+57
+00:03:06,610 --> 00:03:09,639
+armas Então a Dark serve como o mercado de compra
+
+58
+00:03:09,649 --> 00:03:14,250
+e venda de armas de fogos ilegais, Venda de
+
+59
+00:03:14,258 --> 00:03:16,210
+pro de informações pessoais.
+
+60
+00:03:16,219 --> 00:03:19,569
+Isso acontece muito, tá vazamento de dados e ali,
+
+61
+00:03:19,580 --> 00:03:22,808
+né oh Dados roubados, como números de cartões de
+
+62
+00:03:22,819 --> 00:03:26,349
+crédito, Detalhes, identificações, credenciais de login são
+
+63
+00:03:26,360 --> 00:03:31,169
+frequentemente frequentemente comercializados a andar coelho Serviços de hacker e
+
+64
+00:03:31,179 --> 00:03:35,149
+ataques cibernéticos Os hackers oferecem serviços na Dark Web,
+
+65
+00:03:35,159 --> 00:03:39,088
+incluindo ataques CD, o S e EH e invasões
+
+66
+00:03:39,099 --> 00:03:41,610
+de sistemas, roubo de informações, Então lá é
+
+67
+00:03:41,618 --> 00:03:45,069
+é um mar de place, tá de serviço de
+
+68
+00:03:45,080 --> 00:03:47,528
+hacker, então lá tem é uma grande, imagina
+
+69
+00:03:47,538 --> 00:03:50,610
+assim, imagina na sua mente um grande uma grande
+
+70
+00:03:50,618 --> 00:03:54,028
+feira onde ali as pessoas estão oferecendo seus serviços de
+
+71
+00:03:54,038 --> 00:03:57,308
+hacker pra acessar ou invadir algum sistema.
+
+72
+00:03:57,800 --> 00:04:02,729
+Fraudes e esquemas financeiros Esquemas de fraude inclui falsificação de
+
+73
+00:04:02,740 --> 00:04:06,439
+identidade Cartões de crédito clonados Golpes financeiros são comuns na
+
+74
+00:04:06,449 --> 00:04:06,969
+Daeb.
+
+75
+00:04:06,979 --> 00:04:10,849
+Exploração e vendas de vulnerabilidade A Dark Web é um
+
+76
+00:04:10,860 --> 00:04:14,008
+local onde os hackers podem vender e trocar as informações
+
+77
+00:04:14,020 --> 00:04:17,928
+sobre vulnerabilidade de softwares, criando um mercado de expot
+
+78
+00:04:17,939 --> 00:04:21,189
+que podem ser utilizados em ataques cibernéticos.
+
+79
+00:04:22,439 --> 00:04:25,619
+Devido a essa gama de atividades legais que ocorre na
+
+80
+00:04:25,629 --> 00:04:28,548
+Dark Web, é de se imaginar que os usuários
+
+81
+00:04:28,559 --> 00:04:31,069
+eh corram vários riscos ao acessar Dar web.
+
+82
+00:04:31,079 --> 00:04:36,569
+Muitos desses sites desse serviço são precatórios eh predatórios aos
+
+83
+00:04:36,579 --> 00:04:38,790
+seus próprios clientes, ou seja, eles roubam informações.
+
+84
+00:04:38,798 --> 00:04:41,649
+Eles não querem pegar os dados daqueles clientes que já
+
+85
+00:04:41,660 --> 00:04:45,189
+utilizam, né? EH buscando as informações pessoais para
+
+86
+00:04:45,199 --> 00:04:49,028
+utilizar em diversas formas, como chantagem, vendas dessas
+
+87
+00:04:49,040 --> 00:04:52,019
+informações, Algumas listas, né? De de riscos
+
+88
+00:04:52,028 --> 00:04:54,369
+associados que a gente tá falando de dark web roubo
+
+89
+00:04:54,379 --> 00:04:56,639
+de identidade, Então a gente pode ter esse roubo
+
+90
+00:04:56,649 --> 00:05:00,569
+de identidade cybercrime organizado A Dark Web serve como espaço
+
+91
+00:05:00,579 --> 00:05:04,649
+para grupos de cyber crimes organizados que realizam atividades ilegais
+
+92
+00:05:04,660 --> 00:05:05,970
+em larga escala.
+
+93
+00:05:05,980 --> 00:05:11,459
+Tá representando uma ameaça significativaà segurança digital, extorsão
+
+94
+00:05:11,470 --> 00:05:13,160
+e chantagem.
+
+95
+00:05:13,170 --> 00:05:17,600
+Dados sess roubados na RB são frequentemente utilizados para extorsão
+
+96
+00:05:17,608 --> 00:05:21,519
+e chantagem, ameaçando divulgar informações comprometedoras.
+
+97
+00:05:21,528 --> 00:05:23,199
+A menos que sejam pague o resgate.
+
+98
+00:05:23,209 --> 00:05:26,738
+Então aí assessor pessoal pode roubar algum dado? Infor
+
+99
+00:05:26,750 --> 00:05:29,980
+eh sensível e começar a fazer chantagem em cima daquele
+
+100
+00:05:29,988 --> 00:05:32,259
+usuário tráfico de seres humanos.
+
+101
+00:05:32,269 --> 00:05:34,220
+Então, isso acon acontece muito.
+
+102
+00:05:34,230 --> 00:05:37,420
+Tráfico sexual de exploração ali é uma, é uma
+
+103
+00:05:37,428 --> 00:05:39,230
+área muito, eh uma trans.
+
+104
+00:05:39,238 --> 00:05:41,819
+Existe muito essas transações ilícitas lá dentro.
+
+105
+00:05:41,829 --> 00:05:45,379
+Tá propagação de conteúdo ilícito.
+
+106
+00:05:45,389 --> 00:05:46,670
+Tá dar.
+
+107
+00:05:46,678 --> 00:05:50,290
+A dark web é usada pra compartilhar e distribuir produtos
+
+108
+00:05:50,298 --> 00:05:55,608
+ilegais, incluindo pornografia infantil, outros materiais prejudiciais risco
+
+109
+00:05:55,619 --> 00:05:56,980
+à segurança nacional.
+
+110
+00:05:56,988 --> 00:06:00,629
+A Dark Web é usada por por por por grupos
+
+111
+00:06:00,639 --> 00:06:05,170
+terroristas, né? Organizações criminosas que podem coordenar atividades
+
+112
+00:06:05,178 --> 00:06:08,209
+ilícitas como um país contra um governo, quanto um
+
+113
+00:06:08,220 --> 00:06:11,970
+estado, mercados ilegais, então ali tem muito mercado
+
+114
+00:06:11,980 --> 00:06:13,769
+ilegal, mercado legal de drogas, como a gente
+
+115
+00:06:13,778 --> 00:06:16,829
+falou, tá desafios na aplicação da lei.
+
+116
+00:06:16,838 --> 00:06:21,769
+Tá? O anonimato proporcionado pela dark Web apresenta diversos
+
+117
+00:06:21,778 --> 00:06:26,470
+significativos para autoridades e a aplicação da lei dificultando a
+
+118
+00:06:26,480 --> 00:06:30,129
+identificação e o rastreamento do os criminosos.
+
+119
+00:06:30,139 --> 00:06:32,269
+Quando a gente tá falando da Da da Dark Web,
+
+120
+00:06:32,278 --> 00:06:35,250
+é um mundo ilegal, é um mundo onde ali
+
+121
+00:06:35,259 --> 00:06:37,949
+eh, eh as pessoas, Elas estão ali em
+
+122
+00:06:37,959 --> 00:06:43,588
+em busca de vantagens competitivas em vantagens comerciais.
+
+123
+00:06:43,600 --> 00:06:47,389
+Então a gente precisa entender muito e ter muito cuidado
+
+124
+00:06:47,399 --> 00:06:49,250
+com essa questão da Dark Web.
+
+125
+00:06:49,540 --> 00:06:51,629
+Ah, com seus dados, com as suas informações.
+
+126
+00:06:51,639 --> 00:06:55,588
+Onde você acessa, onde você navega porque como um
+
+127
+00:06:55,600 --> 00:06:58,670
+dos que a gente colocou, esses dados podem ser
+
+128
+00:06:58,678 --> 00:07:01,470
+utilizados até pra fazer chantagem contra você, Então tome
+
+129
+00:07:01,480 --> 00:07:04,290
+muito cuidado por onde você navega, na internet,
+
+130
+00:07:04,619 --> 00:07:08,269
+Tenha tenha eh, eh consciência dos passos que você
+
+131
+00:07:08,278 --> 00:07:11,410
+está seguindo pra que você não venha cair em algum
+
+132
+00:07:11,420 --> 00:07:13,509
+golpe Pra que você não venha a ser, eh,
+
+133
+00:07:13,519 --> 00:07:16,189
+eh, eh roubado! Ou que você não tenha
+
+134
+00:07:16,199 --> 00:07:18,829
+que não caia em alguma dessas armadilhas que são feitas
+
+135
+00:07:18,838 --> 00:07:21,629
+por esses grandes hackers, por esses grandes sistemas que
+
+136
+00:07:21,639 --> 00:07:25,019
+estão aí para roubar e ganha tirar a vantagem de
+
+137
+00:07:25,028 --> 00:07:27,559
+de vídeos comuns da internet tá bom! Tome bastante
+
+138
+00:07:27,569 --> 00:07:30,338
+cuidado! Cuidado, Busque conhecimento que a partir do
+
+139
+00:07:30,350 --> 00:07:33,259
+momento que você busca conhecimento, você consegue ter eh
+
+140
+00:07:33,269 --> 00:07:37,338
+mais consciência dos dados, né? Dos passos que
+
+141
+00:07:37,350 --> 00:07:39,920
+você está dando, tá bom, Muito obrigado por
+
+142
+00:07:39,928 --> 00:07:40,540
+essa aula.
+
+143
+00:07:40,548 --> 00:07:42,519
+Te encontro na próxima aula.
+

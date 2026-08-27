@@ -1,0 +1,480 @@
+1
+00:00:06,179 --> 00:00:08,710
+Olá, vamos falar um pouquinho sobre uma ferramenta de
+
+2
+00:00:08,720 --> 00:00:12,228
+teste chamado Insônia, né? Um nome interessante,
+
+3
+00:00:12,239 --> 00:00:15,448
+mas basicamente ele é só um testador para o protocolo
+
+4
+00:00:15,460 --> 00:00:18,309
+h T P Ele é uma das ferramentas mais conhecidas,
+
+5
+00:00:18,318 --> 00:00:21,510
+Tem essa tem o Postman e temos também o Boomerang.
+
+6
+00:00:21,519 --> 00:00:24,048
+A insônia tem uma série de coisinhas bem interessantes.
+
+7
+00:00:24,059 --> 00:00:26,429
+Eh que a gente vai poder explorar aqui, né?
+
+8
+00:00:26,440 --> 00:00:31,449
+Vamos lá, Então é uma ferramenta insônia, né?
+
+9
+00:00:32,060 --> 00:00:33,668
+Ah, a instalação dela é bem simples.
+
+10
+00:00:33,679 --> 00:00:37,429
+Você pode fazer o download como um aplicativo porta tá?
+
+11
+00:00:37,439 --> 00:00:40,048
+Eh! Ele já faz um porta boa pra Windows,
+
+12
+00:00:40,060 --> 00:00:42,779
+Eh Ou pode ro? Baixar? Pra versão do
+
+13
+00:00:42,789 --> 00:00:45,829
+Nix qualquer qual que seja ou usar a ferramenta é
+
+14
+00:00:45,840 --> 00:00:48,548
+chocolate, né? Essa ferramenta é muito usada quando
+
+15
+00:00:48,560 --> 00:00:52,029
+você tem que gerenciar instalações em versões diferentes, né?
+
+16
+00:00:52,039 --> 00:00:55,889
+Então em ambientes de produção, muitas vezes um aplicativo
+
+17
+00:00:55,899 --> 00:00:58,250
+vai ob-, vai ser obrigado a usar uma versão
+
+18
+00:00:58,259 --> 00:00:59,109
+da biblioteca.
+
+19
+00:00:59,118 --> 00:01:02,859
+Acontece muito em Python, né? Aquele Python é
+
+20
+00:01:02,868 --> 00:01:05,338
+pra aquele cara e outro Python é pro outro cara.
+
+21
+00:01:05,349 --> 00:01:07,778
+Por quê? Porque eles usam outras bibliotecas que não
+
+22
+00:01:07,790 --> 00:01:10,180
+foram atualizadas eàs vezes acontece no O G s
+
+23
+00:01:10,189 --> 00:01:10,819
+também.
+
+24
+00:01:10,829 --> 00:01:14,019
+Então é interessante também saber usar a ferramenta de chocolate,
+
+25
+00:01:14,028 --> 00:01:17,138
+né? É uma ferramenta de gerenciadores de instalações múltiplas
+
+26
+00:01:17,150 --> 00:01:19,980
+onde você pode organizar em cada projeto o que vai
+
+27
+00:01:19,989 --> 00:01:23,739
+ter diversão específica naquele projeto daquela biblioteca.
+
+28
+00:01:23,750 --> 00:01:27,418
+Tá, E ele também pode servir pra instalar o
+
+29
+00:01:27,430 --> 00:01:29,269
+insônia, né? Ele tem o comando ali de
+
+30
+00:01:29,278 --> 00:01:34,750
+instalação! Show, insônia PC tá primeiro nível que
+
+31
+00:01:34,760 --> 00:01:38,430
+eu tenho de organização! Eh no no insônia é
+
+32
+00:01:38,439 --> 00:01:43,859
+o nível de aumento e tá você tem o seria
+
+33
+00:01:43,870 --> 00:01:46,629
+o ambiente, né? Você pode ter vários ambientes
+
+34
+00:01:46,638 --> 00:01:51,040
+diferentes dentro de cada ambiente criar e dentro desses criar
+
+35
+00:01:51,049 --> 00:01:51,819
+requisições.
+
+36
+00:01:51,829 --> 00:01:53,379
+Então eu posso ter, por exemplo, ambiente de
+
+37
+00:01:53,388 --> 00:01:56,480
+teste com endereço em ambiente de produção com outro dentro
+
+38
+00:01:56,489 --> 00:01:57,239
+de cada um deles.
+
+39
+00:01:57,250 --> 00:02:00,099
+Eu posso ter requisições que eu preciso tanto pra teste
+
+40
+00:02:00,109 --> 00:02:03,400
+quanto a produção, muitas vezes replicados, né?
+
+41
+00:02:03,409 --> 00:02:07,620
+EH E eu tenho requisições h t P ele aceita
+
+42
+00:02:07,629 --> 00:02:08,618
+o h t p normal.
+
+43
+00:02:08,629 --> 00:02:11,217
+Com isso ele cobre o st, mas ele também
+
+44
+00:02:11,229 --> 00:02:15,199
+aceita grafica L G R PC e web Socrates,
+
+45
+00:02:15,210 --> 00:02:17,599
+né? Então assim é uma ferramenta que permite testar
+
+46
+00:02:17,610 --> 00:02:21,569
+uma série de coisas, tá? Eh na forma
+
+47
+00:02:21,580 --> 00:02:23,490
+mais básica, Tudo que eu preciso é o método
+
+48
+00:02:23,500 --> 00:02:26,288
+A, o R l e depois da O tá?
+
+49
+00:02:26,300 --> 00:02:28,588
+Ah, vamos ver uma insônia rodando.
+
+50
+00:02:30,199 --> 00:02:32,330
+Aqui eu tenho um aplicativo, meu servidor já está
+
+51
+00:02:32,338 --> 00:02:36,919
+executando, o insônia tá aqui em cima, né?
+
+52
+00:02:36,929 --> 00:02:39,758
+Então eu poderia fazer aqui, desde que eu não
+
+53
+00:02:39,770 --> 00:02:42,308
+queira criar um eu não sou obrigado a criar um,
+
+54
+00:02:42,319 --> 00:02:43,719
+posso criar? Só as requisições.
+
+55
+00:02:43,729 --> 00:02:46,520
+Só não fica tão organizado, né? Mas eu
+
+56
+00:02:46,528 --> 00:02:48,659
+posso criar aqui um.
+
+57
+00:02:49,429 --> 00:02:52,830
+Ah, sem login, criar uma requisição.
+
+58
+00:02:52,838 --> 00:02:57,389
+Vou criar uma coleção só Ah testes.
+
+59
+00:03:04,469 --> 00:03:09,270
+Criei uma coleção SA e aqui eu posso criar um
+
+60
+00:03:09,278 --> 00:03:12,210
+h t P request Observa que ele permite também grafica?
+
+61
+00:03:12,219 --> 00:03:15,788
+Ele reconhece g r PC reconhece o wbc request né?
+
+62
+00:03:16,990 --> 00:03:26,949
+U b h t t P local host três mil
+
+63
+00:03:26,960 --> 00:03:34,580
+Já digitei errado barra notas Quando eu dou o Inter,
+
+64
+00:03:34,588 --> 00:03:38,050
+eu já dá o, né? Ele pegou,
+
+65
+00:03:38,058 --> 00:03:39,099
+não conseguiu resolver.
+
+66
+00:03:39,110 --> 00:03:43,960
+SNA digitei Ah, coloquei um h a mais pronto.
+
+67
+00:03:43,969 --> 00:03:46,449
+Já foi lá, ele já criou ali a minha
+
+68
+00:03:46,460 --> 00:03:49,919
+já mostrou ali a minha nota, né? No
+
+69
+00:03:49,929 --> 00:03:52,319
+formato Jason, tá, então.
+
+70
+00:03:52,330 --> 00:03:55,118
+Assim eh se eu quiser testar uma um qualquer.
+
+71
+00:03:55,129 --> 00:03:56,219
+É só fazer isso.
+
+72
+00:03:56,229 --> 00:03:57,639
+Ah, é só testar um post, é só
+
+73
+00:03:57,649 --> 00:04:04,258
+mudar, né? Então aqui oh eu posso também
+
+74
+00:04:04,270 --> 00:04:08,528
+fazer um teste de inserção lá em notas usando o
+
+75
+00:04:08,538 --> 00:04:11,830
+o body como Jason, né? E usando o
+
+76
+00:04:11,838 --> 00:04:15,679
+método post okay, vamos ver como é que isso
+
+77
+00:04:15,689 --> 00:04:16,420
+aqui vai funcionar.
+
+78
+00:04:18,980 --> 00:04:21,048
+Vou criar aqui uma nova requisição.
+
+79
+00:04:21,769 --> 00:04:23,939
+Tá, posso dar nome pra essa requisição.
+
+80
+00:04:23,949 --> 00:04:25,579
+Essa aqui é a primeira que eu fiz.
+
+81
+00:04:25,588 --> 00:04:28,559
+Essa aqui é a primeira, Posso renomear ela aqui
+
+82
+00:04:28,569 --> 00:04:37,619
+a qualquer momento Renei chamar de consulta e essa aqui
+
+83
+00:04:37,629 --> 00:04:47,189
+eu posso renomear também Inclusão Eu posso usar esse mesmo
+
+84
+00:04:47,199 --> 00:04:50,269
+cara, já que é o mesmo endereço, né?
+
+85
+00:04:50,928 --> 00:04:53,350
+Porém, aqui o que eu vou fazer eu vou
+
+86
+00:04:53,358 --> 00:05:01,569
+colocar as informações no formato Jason, tá aqui que
+
+87
+00:05:01,579 --> 00:05:02,129
+eu coloco.
+
+88
+00:05:02,139 --> 00:05:05,670
+O que eu quero fazer em termos de informação bom
+
+89
+00:05:05,678 --> 00:05:09,278
+deixa eu verificar qual é o é aí de título
+
+90
+00:05:09,290 --> 00:05:09,889
+e descrição.
+
+91
+00:05:09,899 --> 00:05:14,079
+Só preciso dessa informação, aqui vou colocar aqui.
+
+92
+00:05:14,088 --> 00:05:26,209
+Eh na inclusão Chama de beta teste beta! Essa
+
+93
+00:05:26,220 --> 00:05:31,048
+vírgula tá sobrando, ele reclama e aqui eu tenho
+
+94
+00:05:31,059 --> 00:05:34,199
+que mudar o quê? Para se eu fizer essa
+
+95
+00:05:34,209 --> 00:05:39,139
+chamada assim, da forma que tá aqui ele só
+
+96
+00:05:39,149 --> 00:05:40,899
+vai retornar o Gate mais nada porque ele nem tá
+
+97
+00:05:40,910 --> 00:05:43,750
+olhando pro body, Mas se eu colocar um post,
+
+98
+00:05:43,759 --> 00:05:46,379
+ele vai olhar pro body Nota que mudou a cor
+
+99
+00:05:46,389 --> 00:05:52,178
+Tá Sands! E ele agora incluiu Oh dois Beta
+
+100
+00:05:52,189 --> 00:05:55,819
+então aí de novo que foi criado agora, se
+
+101
+00:05:55,829 --> 00:05:58,819
+eu pegar e derr uma nova consulta, eu tenho
+
+102
+00:05:58,829 --> 00:06:01,459
+ali os dois a I d Tenho tanto o primeiro
+
+103
+00:06:01,470 --> 00:06:03,699
+que já tava lá quanto esse que eu acabei de
+
+104
+00:06:03,709 --> 00:06:10,910
+incluir, né, bom, e eu posso.
+
+105
+00:06:10,920 --> 00:06:13,528
+Eu tenho que observar que eu tenho na resposta eh
+
+106
+00:06:13,540 --> 00:06:16,350
+do e D e eu tenho o status code,
+
+107
+00:06:16,358 --> 00:06:19,100
+uma coisa que fica muito evidente no no caso da
+
+108
+00:06:19,108 --> 00:06:21,369
+insônia, em algumas ferramentas que fica mais escondido.
+
+109
+00:06:21,379 --> 00:06:22,269
+É isso aqui.
+
+110
+00:06:22,278 --> 00:06:24,670
+Isso aqui é o status code que seria a resposta
+
+111
+00:06:24,678 --> 00:06:25,119
+é com status.
+
+112
+00:06:25,129 --> 00:06:27,290
+Duzentos, Então é bem interessante, porque se eu
+
+113
+00:06:27,298 --> 00:06:29,750
+quiser verificar algum tipo de erro algum tipo de resposta
+
+114
+00:06:29,759 --> 00:06:32,889
+específica, eu já consigo ver aqui o status code,
+
+115
+00:06:32,899 --> 00:06:44,660
+né? Como com isso a gente analisa aí a
+
+116
+00:06:44,670 --> 00:06:45,759
+ferramenta, Insônia.
+
+117
+00:06:45,769 --> 00:06:47,910
+Tá as principais funcionalidades pra aquilo que a gente precisa,
+
+118
+00:06:47,920 --> 00:06:49,139
+que é testar web.
+
+119
+00:06:49,149 --> 00:06:51,428
+Não dá pra fazer mais coisas, mas eh.
+
+120
+00:06:51,439 --> 00:06:53,548
+Essa é a funcionalidade principal dela.
+

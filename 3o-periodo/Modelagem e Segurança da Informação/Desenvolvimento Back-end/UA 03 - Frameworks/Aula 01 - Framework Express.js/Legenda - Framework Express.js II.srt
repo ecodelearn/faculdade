@@ -1,0 +1,572 @@
+1
+00:00:06,288 --> 00:00:09,538
+Olá, vamos falar um pouquinho do tratamento dos métodos
+
+2
+00:00:09,550 --> 00:00:12,819
+post do h t p através do né.
+
+3
+00:00:12,829 --> 00:00:16,089
+O mini freme o servidor minimalista express g s Ah,
+
+4
+00:00:16,100 --> 00:00:19,728
+o gat ou post são fundamentais para um aplicativo web
+
+5
+00:00:19,739 --> 00:00:22,510
+tradicional quando cê fala de formulário, aquele formulário que
+
+6
+00:00:22,519 --> 00:00:25,250
+você preenche e envia os dados para um servidor qualquer.
+
+7
+00:00:25,260 --> 00:00:27,370
+Seja ele um p h p algo tipo em geral
+
+8
+00:00:27,379 --> 00:00:29,350
+ele é gat ou post, né? Qual a
+
+9
+00:00:29,359 --> 00:00:32,439
+diferença? O gate é quando você coloca na onde
+
+10
+00:00:32,450 --> 00:00:35,395
+fica escrito no próprio endereço, as informações tá enviando,
+
+11
+00:00:35,404 --> 00:00:37,914
+como por exemplo uma pesquisa do Google e o post
+
+12
+00:00:37,923 --> 00:00:39,944
+envia em background, como por exemplo, um sistema
+
+13
+00:00:39,954 --> 00:00:41,814
+de login, né? E eu tenho que saber
+
+14
+00:00:41,825 --> 00:00:44,954
+trabalhar com ambos dentro do Express para dar suporte a
+
+15
+00:00:44,965 --> 00:00:49,054
+um aplicativo web padrão, né? Eh mesmo antes
+
+16
+00:00:49,064 --> 00:00:51,715
+de um tá, então vamos ver como é que
+
+17
+00:00:51,723 --> 00:00:52,454
+isso funciona.
+
+18
+00:00:54,079 --> 00:00:58,750
+Aplicativos web tradicionais usam e são os dois únicos métodos
+
+19
+00:00:58,759 --> 00:01:00,700
+que você usa com o formulário.
+
+20
+00:01:00,709 --> 00:01:05,129
+Tá os formulários eles te ou enviam via got ou
+
+21
+00:01:05,138 --> 00:01:09,698
+via são usados com arquitetura mais eh as ars arquiteturas
+
+22
+00:01:09,709 --> 00:01:12,448
+que usam os métodos eh completos do h T P,
+
+23
+00:01:12,459 --> 00:01:16,129
+né? Ah, a utilização de ST pra formulários,
+
+24
+00:01:16,138 --> 00:01:21,430
+ela vai ocultar a informação, porém não vai proteger.
+
+25
+00:01:21,439 --> 00:01:23,668
+Tem que lembrar que se você quiser proteger realmente vai
+
+26
+00:01:23,680 --> 00:01:26,528
+ter que ter um h t PS alguma coisa criptografada,
+
+27
+00:01:26,540 --> 00:01:29,028
+porque senão aquele dado pode ser capturado via ar,
+
+28
+00:01:29,040 --> 00:01:31,650
+charque ou qualquer tipo de gerenciador de snif.
+
+29
+00:01:32,609 --> 00:01:35,900
+Valores enviados via string já ficam direto no gat,
+
+30
+00:01:35,909 --> 00:01:37,620
+né assim, quando se faz o gat, você
+
+31
+00:01:37,629 --> 00:01:40,819
+pega pela string, que é aqueles valores que você
+
+32
+00:01:40,829 --> 00:01:44,400
+coloca na chamada, só pra poder ter uma ideia
+
+33
+00:01:44,409 --> 00:01:46,760
+rápida, uma string.
+
+34
+00:01:46,769 --> 00:01:51,239
+Se eu fizer uma pesquisa no google apenas um teste
+
+35
+00:01:53,058 --> 00:01:57,088
+tá isso aqui é cê vê que tem uma interrogação
+
+36
+00:01:58,719 --> 00:02:08,469
+e seria algo assim, né? Só replicando pra
+
+37
+00:02:08,479 --> 00:02:12,048
+cá pra mostrar isso é uma string depois da interrogação
+
+38
+00:02:12,058 --> 00:02:14,449
+você tem os parâmetros q igual apenas um teste que
+
+39
+00:02:14,457 --> 00:02:17,288
+é a minha questão e o q é isso.
+
+40
+00:02:17,298 --> 00:02:19,247
+Não sei porque ele colocou isso, apenas um teste
+
+41
+00:02:19,258 --> 00:02:21,929
+e mais alguma coisa então você tem aqui os parâmetros
+
+42
+00:02:21,937 --> 00:02:23,288
+separados por esse.
+
+43
+00:02:23,298 --> 00:02:25,608
+O mais na verdade é o espaço.
+
+44
+00:02:25,618 --> 00:02:29,108
+Quando você fala em termos de eh escrita pra web
+
+45
+00:02:29,118 --> 00:02:32,849
+tá? Eh tratamento direto para o formato jason,
+
+46
+00:02:32,860 --> 00:02:35,508
+se for o formato jason, você pode pegar ele
+
+47
+00:02:35,520 --> 00:02:37,258
+direto, né? Express Jason.
+
+48
+00:02:37,270 --> 00:02:40,788
+Aí você colocar no máximo um jason pra poder gerenciar
+
+49
+00:02:40,800 --> 00:02:41,508
+a captura.
+
+50
+00:02:41,520 --> 00:02:44,949
+Tá? Necessidade do U R L em CODE para
+
+51
+00:02:44,960 --> 00:02:49,349
+formulários Se vai trabalhar sem o Jason, vai trabalhar
+
+52
+00:02:49,360 --> 00:02:52,508
+com a possibilidade de ter formulários acessando esse cara.
+
+53
+00:02:52,520 --> 00:02:53,849
+Eu preciso de o U R L Em CODE,
+
+54
+00:02:53,860 --> 00:02:54,300
+tá.
+
+55
+00:02:54,308 --> 00:02:59,058
+Ah, para o st consulta e inclusão, né?
+
+56
+00:02:59,069 --> 00:03:01,479
+PRA o st o got é a consulta e o
+
+57
+00:03:01,490 --> 00:03:02,300
+post é a inclusão.
+
+58
+00:03:02,308 --> 00:03:06,349
+São as duas operações iniciais, né? Ah,
+
+59
+00:03:07,240 --> 00:03:10,750
+bom que tem um exemplo das tarefas.
+
+60
+00:03:10,758 --> 00:03:12,669
+É pra pegar as tarefas, né? As tarefas
+
+61
+00:03:12,679 --> 00:03:15,949
+tá vazia no post tarefa ha he, eu jogo
+
+62
+00:03:15,960 --> 00:03:20,199
+tarefa como hack ponto boy Ponto Tarefa Esse cara aqui
+
+63
+00:03:20,210 --> 00:03:24,758
+seria pra satisfazer a um formulário comum, né?
+
+64
+00:03:24,770 --> 00:03:27,399
+Onde tem o Gatt E o post, né?
+
+65
+00:03:27,409 --> 00:03:29,520
+Aqui é o Jason né? Não, não,
+
+66
+00:03:29,528 --> 00:03:33,520
+Aqui tá trabalhando com Jason? Tá? Então eh,
+
+67
+00:03:33,528 --> 00:03:35,868
+não chega a fazer formulário! Não é o post,
+
+68
+00:03:35,879 --> 00:03:38,740
+mas no formato do Jason e ele estaria fazendo isso
+
+69
+00:03:38,750 --> 00:03:38,939
+aqui.
+
+70
+00:03:38,949 --> 00:03:42,219
+A nível do Jason, tá, eh esse cara
+
+71
+00:03:42,229 --> 00:03:52,508
+seria carinha aqui não chega a fazer isso.
+
+72
+00:03:52,520 --> 00:03:56,368
+Não tá? Mas eu poderia fazer esse servidor aqui
+
+73
+00:03:56,379 --> 00:04:03,330
+virar um servidor daqueles respondendo apenas a Jason, tá?
+
+74
+00:04:03,338 --> 00:04:05,860
+Então assim como é que ele funciona? Se eu
+
+75
+00:04:05,868 --> 00:04:09,008
+chamar a barra tarefas, ele vai dar o tarefas
+
+76
+00:04:09,020 --> 00:04:10,969
+que que é um tre vazia no formato Jason,
+
+77
+00:04:10,979 --> 00:04:13,330
+né? E se eu chamar o barra tarefas,
+
+78
+00:04:13,338 --> 00:04:16,088
+ele vai incluir uma tarefa com hack ponto boy ponto
+
+79
+00:04:16,100 --> 00:04:20,410
+Tarefa sendo incluído no Push Tá Então ele vai lidar
+
+80
+00:04:20,420 --> 00:04:22,829
+com elementos Jason, né? Isso aqui seriam as
+
+81
+00:04:22,838 --> 00:04:23,509
+tarefas.
+
+82
+00:04:24,108 --> 00:04:30,100
+Ah, se eu trabalho com isso no Para h
+
+83
+00:04:30,108 --> 00:04:33,600
+t t P eu não posso colocar só a informação,
+
+84
+00:04:33,608 --> 00:04:37,488
+né, Uh um é só serviço, só mostra
+
+85
+00:04:37,500 --> 00:04:41,500
+a informação, então você pode usar simplesmente Jason vai
+
+86
+00:04:41,509 --> 00:04:43,238
+pra lá, então assim vai mandar a informação em
+
+87
+00:04:43,250 --> 00:04:45,869
+formato Jason mas quando a gente fala de um aplicativo
+
+88
+00:04:45,879 --> 00:04:48,600
+web tradicional, você tem que escrever a resposta completa,
+
+89
+00:04:48,608 --> 00:04:49,119
+né.
+
+90
+00:04:49,129 --> 00:04:51,600
+Que é o h t ML aqui por exemplo,
+
+91
+00:04:51,608 --> 00:04:57,809
+eu teria a resposta naquele exemplo ali Tarefa Compilar tarefa
+
+92
+00:04:57,819 --> 00:05:00,869
+Testar se eu pegar o gate barra e barra tarefa
+
+93
+00:05:00,879 --> 00:05:04,088
+significa tanto a rota Barra quanto a barra Tarefas Ele
+
+94
+00:05:04,100 --> 00:05:08,970
+consegue trabalhar com múltiplas rotas pro pro mesmo tratamento Let
+
+95
+00:05:08,980 --> 00:05:13,160
+conteúdo h t ML body Comecei a escrever o L
+
+96
+00:05:13,170 --> 00:05:17,278
+for Let T Tarefas Conteúdo mais igual L L i
+
+97
+00:05:17,290 --> 00:05:20,278
+Tarefas L I conteúdo mais igual a ele.
+
+98
+00:05:20,290 --> 00:05:22,040
+O que eu tô fazendo tô abrindo aqui uma lista
+
+99
+00:05:22,920 --> 00:05:27,209
+para cada elemento de tarefas que é esse meu conjunto.
+
+100
+00:05:27,220 --> 00:05:33,980
+Aqui eh, acrescente no conteúdo l i com a
+
+101
+00:05:33,988 --> 00:05:35,928
+tarefa compilar, testar.
+
+102
+00:05:35,939 --> 00:05:39,949
+Por exemplo, ao final o status duzentos content type
+
+103
+00:05:39,959 --> 00:05:43,790
+chega h t ML tá então esse cara aqui ele
+
+104
+00:05:43,798 --> 00:05:45,670
+tá retornando uma página com as tarefas.
+
+105
+00:05:45,678 --> 00:05:55,199
+Se eu pegar aqui e executar ele index dois e
+
+106
+00:05:55,209 --> 00:06:02,379
+chamar esse endereço ele pega lá e me fornece uma
+
+107
+00:06:02,389 --> 00:06:05,379
+página já com as tarefas tá, ou seja,
+
+108
+00:06:05,389 --> 00:06:08,459
+ele tem que montar a página né É diferente de
+
+109
+00:06:08,470 --> 00:06:11,379
+você ter a mesma requisição no formato Jason Quando eu
+
+110
+00:06:11,389 --> 00:06:14,819
+tinha no formato Jason, eu tinha alguma outra um
+
+111
+00:06:14,829 --> 00:06:17,329
+outro caminho qualquer no formato Jason ele forti o que
+
+112
+00:06:17,338 --> 00:06:21,199
+fornecia informação no formato Jason, não uma página formatada
+
+113
+00:06:21,209 --> 00:06:23,559
+tá então é a grande diferença.
+
+114
+00:06:23,569 --> 00:06:26,619
+Tanto que aqui eu coloco oh status duzentos dizendo que
+
+115
+00:06:26,629 --> 00:06:30,670
+foi sucesso teste h t ML indicando que eu tô
+
+116
+00:06:30,678 --> 00:06:33,670
+enviando h t ML e finalmente o conteúdo se de
+
+117
+00:06:33,678 --> 00:06:34,470
+conteúdo.
+
+118
+00:06:34,480 --> 00:06:37,548
+Então nessa linha ele tá falando Envie o conteúdo no
+
+119
+00:06:37,559 --> 00:06:40,730
+formato teste h t ML com um status de duzentos,
+
+120
+00:06:40,738 --> 00:06:43,389
+né, e com isso Aí eu eu consigo resolver
+
+121
+00:06:43,399 --> 00:06:47,309
+a resposta para um aplicativo web tradicional.
+
+122
+00:06:47,319 --> 00:06:50,369
+Tá então no Jason? No caso do ST eu
+
+123
+00:06:50,379 --> 00:06:52,980
+não tenho essa preocupação, mas pra um aplicativo web
+
+124
+00:06:52,988 --> 00:06:58,730
+tradicional eu preciso trabalhar com a página completa Hum configuração
+
+125
+00:06:58,738 --> 00:07:01,879
+pra formar o formulário post ele tem que colocar express
+
+126
+00:07:01,889 --> 00:07:03,220
+ou U R L em code T.
+
+127
+00:07:03,230 --> 00:07:08,269
+Isso é pra ele conseguir pegar os dados de formulário
+
+128
+00:07:08,278 --> 00:07:11,750
+Tá? Esse é o R L em captura de
+
+129
+00:07:11,759 --> 00:07:16,629
+dados via boy Tarefa boy ponto ponto boy ponto tarefa
+
+130
+00:07:16,639 --> 00:07:19,028
+aí estaria pegando ou do Jason.
+
+131
+00:07:19,040 --> 00:07:21,608
+No caso do sistema seria também boy ou de um
+
+132
+00:07:21,619 --> 00:07:26,048
+formulário tipo ST que foi configurado com essa informação aqui.
+
+133
+00:07:26,629 --> 00:07:32,290
+Quem bom então esses são os elementos básicos pra gente
+
+134
+00:07:32,298 --> 00:07:36,329
+poder trabalhar com o o Express para um aplicativo web
+
+135
+00:07:36,338 --> 00:07:38,809
+tradicional, né? Tem que tratar sempre do GAT
+
+136
+00:07:38,819 --> 00:07:42,689
+do post e preciso daquele o code pra ele conseguir
+
+137
+00:07:42,699 --> 00:07:43,769
+entender o formulário.
+
+138
+00:07:43,778 --> 00:07:46,379
+Algumas configurações são necessárias de acordo com o servidor que
+
+139
+00:07:46,389 --> 00:07:50,569
+cê faz e use Jason ou EH BOY com use
+
+140
+00:07:50,579 --> 00:07:51,250
+pássaro.
+
+141
+00:07:51,259 --> 00:07:53,649
+Cada um vai depender da sua necessidade.
+
+142
+00:07:53,660 --> 00:07:56,459
+Se eu quiser fazer por um aplicativo web tradicional preciso
+
+143
+00:07:56,470 --> 00:07:57,069
+do RN Code
+

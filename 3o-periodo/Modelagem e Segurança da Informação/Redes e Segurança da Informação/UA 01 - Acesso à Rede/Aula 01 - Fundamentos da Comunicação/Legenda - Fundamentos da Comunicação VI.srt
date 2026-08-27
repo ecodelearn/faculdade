@@ -1,0 +1,484 @@
+1
+00:00:05,969 --> 00:00:07,610
+Olá, aluno seja muito bemvindo.
+
+2
+00:00:07,618 --> 00:00:10,099
+Sou professor Fabrício Melo, estamos com a matéria de
+
+3
+00:00:10,108 --> 00:00:14,659
+fundamentos da comunicação e vamos entrar agora no assunto novas
+
+4
+00:00:14,669 --> 00:00:19,940
+tendências da rede, que que seria essas novas tendências
+
+5
+00:00:19,949 --> 00:00:22,350
+das redes? Aí? Olha só nós temos,
+
+6
+00:00:22,359 --> 00:00:25,138
+por exemplo, hoje uma tendência a nível mundial,
+
+7
+00:00:25,149 --> 00:00:26,690
+que tá ganhando muito fôlego.
+
+8
+00:00:26,699 --> 00:00:29,701
+Aí é o famoso B O D, que é
+
+9
+00:00:29,710 --> 00:00:34,140
+o o o que que seria essa tradução traga o
+
+10
+00:00:34,152 --> 00:00:35,781
+seu próprio dispositivo.
+
+11
+00:00:35,790 --> 00:00:39,061
+Isso é uma analogia feita aquela ideia das garrafinhas que
+
+12
+00:00:39,070 --> 00:00:42,341
+as empresas adotaram, invés do funcionário ali o colaborador.
+
+13
+00:00:42,351 --> 00:00:44,262
+Toda hora que for beber uma água, tem que
+
+14
+00:00:44,271 --> 00:00:47,500
+usar um copo descartável e aquele copo, né?
+
+15
+00:00:47,512 --> 00:00:50,621
+Tem a ideia da poluição? É uma ideia que
+
+16
+00:00:50,631 --> 00:00:52,281
+vaià contramão da da ecologia.
+
+17
+00:00:52,374 --> 00:00:55,304
+O que que a empresa faz? Incentiva o funcionário
+
+18
+00:00:55,313 --> 00:00:57,862
+a levar uma garrafinha ou até presenteia a ele e
+
+19
+00:00:57,874 --> 00:01:00,722
+ele leva a garrafinha todos os dias ali pra ele
+
+20
+00:01:00,734 --> 00:01:03,063
+poder tomar a água dele sem ter que ficar gastando
+
+21
+00:01:03,073 --> 00:01:03,682
+copo.
+
+22
+00:01:03,694 --> 00:01:06,343
+Nós temos isso aí também como uma nova tendência de
+
+23
+00:01:06,352 --> 00:01:08,582
+rede, ou seja, ao invés de eu ter
+
+24
+00:01:08,593 --> 00:01:13,283
+um dispositivo pessoal e um dispositivo da empresa corporativo,
+
+25
+00:01:13,293 --> 00:01:16,405
+eu já uso o meu dispositivo pessoal pra fazer o
+
+26
+00:01:16,415 --> 00:01:17,426
+trabalho corporativo.
+
+27
+00:01:17,435 --> 00:01:20,745
+Porque hoje você tem aí dispositivos, aí celulares smartphones
+
+28
+00:01:20,754 --> 00:01:24,584
+de última geração que conseguem atender aí, performance de
+
+29
+00:01:24,596 --> 00:01:25,625
+uso corporativo.
+
+30
+00:01:25,635 --> 00:01:27,584
+Então,às vezes a empresa pode me dar um
+
+31
+00:01:27,596 --> 00:01:31,786
+incentivo pagando uma parte aí do meu telefone, e
+
+32
+00:01:31,795 --> 00:01:36,165
+eu uso o meu telefone pessoal pra fazer atendimento corporativo.
+
+33
+00:01:36,176 --> 00:01:38,685
+Então, isso é uma grande tendência, né,
+
+34
+00:01:38,959 --> 00:01:42,049
+que tá gerando aí no mercado perfeito.
+
+35
+00:01:42,058 --> 00:01:45,010
+Outra tendência de rede e nova tendência é a computação
+
+36
+00:01:45,019 --> 00:01:46,088
+em nuvem.
+
+37
+00:01:46,099 --> 00:01:48,689
+Computação em nuvem é uma espécie de terceirização, né?
+
+38
+00:01:48,698 --> 00:01:52,109
+Aluno, em vez de você processar, executar e
+
+39
+00:01:52,120 --> 00:01:57,888
+armazenar informações localmente na sua máquina, você terceiriza Isso?
+
+40
+00:01:57,900 --> 00:02:00,969
+Você manda isso pra internet, então você vai ter
+
+41
+00:02:00,980 --> 00:02:05,808
+servidores com uma grande capacidade ali de processamento, armazenamento
+
+42
+00:02:05,819 --> 00:02:09,349
+e execução que vão fazer isso aí para você.
+
+43
+00:02:09,360 --> 00:02:11,710
+Então, é um mercado aí que não tem volta
+
+44
+00:02:11,719 --> 00:02:15,008
+mais pela segurança, pelo preço que tá cada vez
+
+45
+00:02:15,020 --> 00:02:17,990
+mais atrativo, né? E as nuvens computacionais elas
+
+46
+00:02:18,000 --> 00:02:21,710
+são divididas oh nas nuvens públicas, que oferecem serviço
+
+47
+00:02:21,719 --> 00:02:24,360
+pra quem pro público em geral, de forma gratuita,
+
+48
+00:02:24,368 --> 00:02:25,588
+oferecida de forma paga.
+
+49
+00:02:25,599 --> 00:02:27,909
+A gente até chama isso aqui oh de sistema.
+
+50
+00:02:27,919 --> 00:02:33,550
+O quê? É o famoso freio, né?
+
+51
+00:02:33,558 --> 00:02:36,308
+Que é a mistura da palavra gratuito, com a
+
+52
+00:02:36,319 --> 00:02:37,588
+palavra prêmio pago.
+
+53
+00:02:37,599 --> 00:02:41,949
+Então cê pega por serviços como iCloud como drive da
+
+54
+00:02:41,960 --> 00:02:44,740
+Microsoft, como Google Drive que nos dão ali,
+
+55
+00:02:44,750 --> 00:02:47,588
+um espaço gratuito passou daquele espaço.
+
+56
+00:02:47,599 --> 00:02:50,679
+Você passa a pagar, tá bom e temos aí
+
+57
+00:02:50,689 --> 00:02:51,838
+as nuvens privadas.
+
+58
+00:02:51,849 --> 00:02:55,429
+Já oferece serviço para uma organização, entidade específica,
+
+59
+00:02:55,439 --> 00:02:56,588
+como governo ou empresa.
+
+60
+00:02:56,599 --> 00:02:58,110
+Então, por exemplo, eu tenho uma empresa,
+
+61
+00:02:58,118 --> 00:03:01,115
+ao invés de eu ter um servidor, uma infraestrutura,
+
+62
+00:03:01,126 --> 00:03:05,135
+um parque tecnológico dentro da minha organização, eu terceiri
+
+63
+00:03:05,145 --> 00:03:08,694
+eu contrato uma empresa que vai me oferecer.
+
+64
+00:03:08,705 --> 00:03:11,415
+Essa infraestrutura depende do contrato.
+
+65
+00:03:11,425 --> 00:03:14,974
+Essa infraestrutura pode ser feita também dentro do prédio da
+
+66
+00:03:14,985 --> 00:03:15,496
+minha empresa.
+
+67
+00:03:15,504 --> 00:03:18,015
+Só que tudo terceirizado, a empresa vai montar,
+
+68
+00:03:18,026 --> 00:03:20,895
+ela pode gerir mesmo até os funcionários e eu pago
+
+69
+00:03:20,906 --> 00:03:23,575
+por aquilo, como também pode ser shore, pode
+
+70
+00:03:23,585 --> 00:03:27,001
+ser fora da minha instituição, né? Mas ela
+
+71
+00:03:27,010 --> 00:03:30,581
+vai atender unicamente porque a minha empresa vai ser privada
+
+72
+00:03:30,591 --> 00:03:31,681
+e temos as híbridas.
+
+73
+00:03:31,692 --> 00:03:35,581
+As híbridas é quando você pode misturar duas ou mais
+
+74
+00:03:35,591 --> 00:03:37,920
+nuvens, por exemplo, tá vendo uma nuvem privada
+
+75
+00:03:37,931 --> 00:03:40,480
+e uma pública, cada uma com suas características.
+
+76
+00:03:40,491 --> 00:03:43,081
+Então eu posso utilizar parte do meu sistema, uma
+
+77
+00:03:43,091 --> 00:03:45,662
+pública, mas eu posso utilizar outra parte do meu
+
+78
+00:03:45,670 --> 00:03:49,760
+sistema como privado, Então tem empresas que podem adotar
+
+79
+00:03:49,771 --> 00:03:54,729
+aí esse modelo Okay temos também uma nova tendência aí
+
+80
+00:03:54,740 --> 00:03:56,610
+que é o I O T, que é a
+
+81
+00:03:56,618 --> 00:04:00,610
+famosa internet das coisas que que seria a internet das
+
+82
+00:04:00,618 --> 00:04:01,050
+coisas.
+
+83
+00:04:01,058 --> 00:04:06,889
+É você simplesmente hoje conectar não só computadores e impressoras,
+
+84
+00:04:06,899 --> 00:04:09,610
+por exemplo, em uma rede, você poder conectar
+
+85
+00:04:09,618 --> 00:04:13,409
+praticamente qualquer dispositivo eletrônico, desde que o dispositivo seja
+
+86
+00:04:13,419 --> 00:04:14,610
+preparado pra isso.
+
+87
+00:04:14,618 --> 00:04:17,329
+Então hoje nós temos a geração das máquinas de lavar
+
+88
+00:04:17,338 --> 00:04:20,692
+e você consegue controlar pelo seu smartphone? Você tem
+
+89
+00:04:20,702 --> 00:04:23,202
+aí ar condicionado, você tem a banheira da sua
+
+90
+00:04:23,213 --> 00:04:26,362
+casa, Você tem cortina, você tem um projetor.
+
+91
+00:04:26,372 --> 00:04:30,052
+Então hoje você pode tornar a sua casa inteligente conectando
+
+92
+00:04:30,062 --> 00:04:33,192
+qualquer dispositivo eletrônicoà internet.
+
+93
+00:04:33,202 --> 00:04:38,091
+Então, isso forma a famosa internet das coisas perfeito.
+
+94
+00:04:38,101 --> 00:04:40,002
+Então, a gente tem a essa automatização.
+
+95
+00:04:40,012 --> 00:04:43,375
+Ela vem barateando cada vez mais essas caixinhas de som
+
+96
+00:04:43,384 --> 00:04:46,615
+com a Alexa, Com a Siri, elas conseguem,
+
+97
+00:04:46,625 --> 00:04:48,925
+né? Fomentar gerir uma rede.
+
+98
+00:04:48,935 --> 00:04:50,696
+Você dá um comando de voz pra ela.
+
+99
+00:04:50,704 --> 00:04:53,134
+Ela vai abrir sua cortina, ela vai destravar a
+
+100
+00:04:53,144 --> 00:04:55,536
+sua porta, ela vai ligar a sua máquina,
+
+101
+00:04:55,545 --> 00:04:58,536
+por exemplo tá, e obviamente, com a banda
+
+102
+00:04:58,545 --> 00:04:59,495
+larga, sem fio.
+
+103
+00:04:59,505 --> 00:05:02,245
+Isso é uma tendência que não tem como mais voltar,
+
+104
+00:05:02,255 --> 00:05:04,415
+né? Que são tecnologias? Tá vendo sem fios
+
+105
+00:05:04,425 --> 00:05:08,980
+semelhantes a encontradas em redes locais sem fio domésticas.
+
+106
+00:05:08,988 --> 00:05:11,778
+Só que o que você usando pra fora, que
+
+107
+00:05:11,790 --> 00:05:14,738
+seria aí oh a famosa cinco g A seis g
+
+108
+00:05:14,750 --> 00:05:17,059
+que tá vindo, né? Devem garantir essa infraestrutura.
+
+109
+00:05:17,069 --> 00:05:19,819
+Ou seja, se cada vez eu tenho mais dispositivos,
+
+110
+00:05:19,829 --> 00:05:23,660
+eu tenho mais serviços, né? Pra serem utilizados,
+
+111
+00:05:23,670 --> 00:05:25,970
+eu preciso de mais banda e agora, com a
+
+112
+00:05:25,980 --> 00:05:29,129
+vinda da cinco g futuramente a C G vai ser
+
+113
+00:05:29,139 --> 00:05:29,488
+quebrado.
+
+114
+00:05:29,500 --> 00:05:33,250
+Esse paradigma eu vou conseguir utilizar n serviços que antigamente
+
+115
+00:05:33,259 --> 00:05:35,608
+eu precisaria de uma rede, Cabe a ou de
+
+116
+00:05:35,619 --> 00:05:37,009
+uma infraestrutura de wi-fi.
+
+117
+00:05:37,019 --> 00:05:40,250
+Eu posso usar em um dispositivo móvel trabalhando com essa
+
+118
+00:05:40,259 --> 00:05:42,329
+tecnologia cinco g ou C g tá bom.
+
+119
+00:05:42,338 --> 00:05:47,149
+Então isso aí tudo recai nessas novas tendências aí de
+
+120
+00:05:47,160 --> 00:05:48,369
+rede perfeito.
+
+121
+00:05:48,379 --> 00:05:52,528
+Então encerramos por aqui, voltamos até mais
+

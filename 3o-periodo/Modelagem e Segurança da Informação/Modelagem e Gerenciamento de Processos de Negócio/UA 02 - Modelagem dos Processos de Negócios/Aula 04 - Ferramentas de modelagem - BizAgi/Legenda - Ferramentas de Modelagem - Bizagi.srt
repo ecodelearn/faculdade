@@ -1,0 +1,844 @@
+1
+00:00:06,320 --> 00:00:09,390
+Olá, vamos dar continuidade ao nosso apresen ao nosso
+
+2
+00:00:09,398 --> 00:00:13,210
+aprendizado e agora vamos falar sobre ferramentas de modelagem mais
+
+3
+00:00:13,220 --> 00:00:16,170
+especificamente sobre o desastre, né? Como a gente
+
+4
+00:00:16,179 --> 00:00:19,780
+já falou sobre a gestão de processos, nós já
+
+5
+00:00:19,789 --> 00:00:24,559
+caracterizamos, eh muitas eh perspectivas acerca do DA,
+
+6
+00:00:24,568 --> 00:00:26,449
+da da, do processo, do desenho, do
+
+7
+00:00:26,458 --> 00:00:30,579
+processo, da da, da modelagem de processo,
+
+8
+00:00:30,589 --> 00:00:32,579
+né? Então? E e falamos também que essa
+
+9
+00:00:32,590 --> 00:00:37,270
+modelagem ela, ela é apoiada por ferramentas, eh
+
+10
+00:00:37,279 --> 00:00:38,250
+de modelagem.
+
+11
+00:00:38,259 --> 00:00:41,359
+Uma delas, que nós vamos ver agora é o
+
+12
+00:00:41,368 --> 00:00:43,529
+BIS, né? Vamos fazer uma introdução essa ferramenta.
+
+13
+00:00:43,539 --> 00:00:48,429
+Abis e falamos também que dentro dessa perspectiva dessas ferramentas,
+
+14
+00:00:48,439 --> 00:00:48,569
+né.
+
+15
+00:00:48,579 --> 00:00:53,709
+Eu tenho várias eh características que podem ser e que
+
+16
+00:00:53,719 --> 00:00:57,048
+são atendidas, ou mais ou menos a depender da
+
+17
+00:00:57,060 --> 00:01:00,090
+ferramenta, né? Então, umas são voltadas pra
+
+18
+00:01:00,098 --> 00:01:04,808
+resultados, outras pra simulação, né? Outras voltadas
+
+19
+00:01:04,819 --> 00:01:10,528
+pra a parte de serviço Ah, enfim, depende
+
+20
+00:01:10,540 --> 00:01:12,558
+muito do tipo de ferramenta que a gente vai,
+
+21
+00:01:12,569 --> 00:01:13,730
+Tá tá empregando e qual é.
+
+22
+00:01:13,739 --> 00:01:15,620
+A ferramenta ideal é aquela que vai atender a sua
+
+23
+00:01:15,629 --> 00:01:16,510
+organização.
+
+24
+00:01:16,519 --> 00:01:19,489
+Já falamos isso anteriormente, então é entender qual é
+
+25
+00:01:19,500 --> 00:01:21,290
+o processo que eu quero escrever, qual é a,
+
+26
+00:01:21,299 --> 00:01:24,329
+a necessidade que a minha organização que tem e a
+
+27
+00:01:24,338 --> 00:01:28,409
+partir daí eu começo a pensar nela e a trabalhar
+
+28
+00:01:28,418 --> 00:01:30,180
+com essa ferramenta, né? Então eu vou ter
+
+29
+00:01:30,189 --> 00:01:30,489
+te ter.
+
+30
+00:01:30,500 --> 00:01:32,370
+Vou ter tempo, meu tempo de maturidade, de
+
+31
+00:01:32,379 --> 00:01:35,308
+aprendizado, minha curva de aprendizado em relação a ferramenta,
+
+32
+00:01:35,569 --> 00:01:38,819
+depois, óbvio, isso acaba entrando na vamos dizer
+
+33
+00:01:38,829 --> 00:01:41,299
+no sangue da organização e e e se torna uma
+
+34
+00:01:41,308 --> 00:01:42,739
+commoditie organizacional.
+
+35
+00:01:42,750 --> 00:01:45,900
+Tá? Então a ferramenta de agora que nós vamos
+
+36
+00:01:45,909 --> 00:01:51,230
+trabalhar é justamente essa introdução a O S tá legal.
+
+37
+00:01:51,239 --> 00:01:54,019
+Então, o bisa? Ela é uma plataforma de
+
+38
+00:01:54,028 --> 00:01:57,329
+automação, de processos, de processo que, de
+
+39
+00:01:57,338 --> 00:02:00,409
+negócio que é o B PM oh processo que é
+
+40
+00:02:00,418 --> 00:02:02,430
+o gerenciamento de processo de negócio.
+
+41
+00:02:02,439 --> 00:02:05,569
+Então ela é uma ferramenta interessante, porque ela nos
+
+42
+00:02:05,579 --> 00:02:10,050
+permite, olha, modelar, automatizar e otimizar processos
+
+43
+00:02:10,058 --> 00:02:10,770
+empresariais.
+
+44
+00:02:10,778 --> 00:02:14,538
+Então vejam que é uma ferramenta bem importante e bem
+
+45
+00:02:14,550 --> 00:02:17,960
+interessante pra quem quer trabalhar com o processo, né?
+
+46
+00:02:17,969 --> 00:02:21,819
+Pra quem quer eh modelar processo quem quer automatizar processo
+
+47
+00:02:21,830 --> 00:02:26,610
+Quem quer otimizar processos empresariais? Claro que né pessoal.
+
+48
+00:02:26,618 --> 00:02:29,649
+Fica uma ressalva Não é a ferramenta que vai desenhar
+
+49
+00:02:29,659 --> 00:02:32,038
+o processo é você que desenha o seu processo,
+
+50
+00:02:32,050 --> 00:02:35,159
+né? A ferramenta não, ela só auxilia nessa
+
+51
+00:02:35,169 --> 00:02:36,240
+nessa atividade.
+
+52
+00:02:36,719 --> 00:02:40,889
+Okay, eh oferta uma plataforma com a anotação correta
+
+53
+00:02:40,899 --> 00:02:45,088
+com as estruturas corretas, faz e faz checagens automáticas
+
+54
+00:02:45,099 --> 00:02:47,389
+entre entradas e saídas de processo.
+
+55
+00:02:47,399 --> 00:02:49,490
+Te faz a o teste do processo, enfim,
+
+56
+00:02:49,500 --> 00:02:52,169
+mas o o desenho do processo, a inteligência toda
+
+57
+00:02:52,179 --> 00:02:55,649
+é você, né? Sempre é quem tá desenhando
+
+58
+00:02:55,659 --> 00:03:00,149
+quem tá se eh incorporando de eh eh fazer aquele
+
+59
+00:03:00,159 --> 00:03:02,288
+processo escrever aquele processo.
+
+60
+00:03:02,300 --> 00:03:03,770
+Tá, então não se exima isso nenhum.
+
+61
+00:03:03,778 --> 00:03:07,429
+Essa ferramenta não é uma inteligência artificial, né?
+
+62
+00:03:07,439 --> 00:03:10,149
+E nem a gente tá aqui sugerindo uma inteligência artificial
+
+63
+00:03:10,159 --> 00:03:11,849
+ou o que quer que seja, porque é moda
+
+64
+00:03:11,860 --> 00:03:14,569
+pra desenhar processo, Tá? Quem conhece seu processo
+
+65
+00:03:14,580 --> 00:03:15,389
+é você.
+
+66
+00:03:15,399 --> 00:03:18,050
+E mesmo que você tenha qualquer ins que você busque
+
+67
+00:03:18,058 --> 00:03:22,149
+de qualquer outra forma ou de qualquer outro, eh
+
+68
+00:03:22,159 --> 00:03:24,808
+insumo pra conhecimento do seu processo, você tem que
+
+69
+00:03:24,819 --> 00:03:27,050
+colocar ele em função da sua organização.
+
+70
+00:03:27,058 --> 00:03:30,270
+Então o Bizarre tem essa característica aí tá legal.
+
+71
+00:03:30,278 --> 00:03:33,689
+Eh? É? É importante caracterizar também que ela
+
+72
+00:03:33,699 --> 00:03:37,389
+permite que os usuários, sem experiência técnica em programação,
+
+73
+00:03:37,399 --> 00:03:40,830
+possa projetar processo, né? Fazendo essa anotação b
+
+74
+00:03:40,838 --> 00:03:46,729
+PM n lembra que o BPN é o processo de
+
+75
+00:03:46,740 --> 00:03:48,849
+negócio? É a gerência de processo de negócio.
+
+76
+00:03:48,860 --> 00:03:51,939
+Ela tem todo um método é uma disciplina, né?
+
+77
+00:03:51,949 --> 00:03:56,479
+Pra EH pra essa disciplina ela foi? de foi
+
+78
+00:03:56,490 --> 00:03:59,960
+desenvolvida pra essa disciplina, um conjunto de artefatos que
+
+79
+00:03:59,969 --> 00:04:03,038
+são as anotações que aí é onde entra o b
+
+80
+00:04:03,050 --> 00:04:08,240
+PM n, que é a anotação para desenho de
+
+81
+00:04:08,250 --> 00:04:09,699
+processo de negócio.
+
+82
+00:04:09,710 --> 00:04:13,939
+Okay e interessante, né? Conforme tá foi colocado
+
+83
+00:04:13,949 --> 00:04:16,178
+aqui no slide eh não tem que não é Não.
+
+84
+00:04:16,189 --> 00:04:18,178
+Não preciso ser programador pra desenhar processo.
+
+85
+00:04:18,528 --> 00:04:20,069
+Eu não tenho que ser programador, eu tenho que
+
+86
+00:04:20,079 --> 00:04:23,377
+saber como é o meu processo, né? E
+
+87
+00:04:23,389 --> 00:04:25,978
+a partir daí, eu vou usar a ferramenta,
+
+88
+00:04:25,988 --> 00:04:26,148
+né.
+
+89
+00:04:26,158 --> 00:04:28,738
+O biza pra construir esse processo, né? E
+
+90
+00:04:28,747 --> 00:04:30,858
+aí eu vou aprender o que é a caixinha,
+
+91
+00:04:30,867 --> 00:04:33,019
+O que é a setinha, né? Vou aprender
+
+92
+00:04:33,028 --> 00:04:35,057
+como isso se estrutura ali dentro.
+
+93
+00:04:35,069 --> 00:04:37,338
+Então eu tenho uma curva de aprendizado, tenho,
+
+94
+00:04:37,348 --> 00:04:40,488
+mas eu não tenho que ter nenhuma formação em programação
+
+95
+00:04:40,497 --> 00:04:41,937
+e desenvolvimento de sistema, nem nada.
+
+96
+00:04:41,949 --> 00:04:44,968
+Eu só vou entender a natação, entender o meu
+
+97
+00:04:44,978 --> 00:04:47,769
+processo e, a partir daí, transformar aquilo que
+
+98
+00:04:47,778 --> 00:04:49,769
+tá na minha mente naquilo que é o meu entendimento,
+
+99
+00:04:49,778 --> 00:04:53,069
+naquele meu conhecimento de processo, em uma estrutura,
+
+100
+00:04:53,079 --> 00:04:57,488
+em um fluxo representado por meio da utilização de uma
+
+101
+00:04:57,500 --> 00:04:58,910
+plataforma, que é a ferramenta.
+
+102
+00:04:58,920 --> 00:05:01,670
+Nesse caso, o BIS, né? As principais
+
+103
+00:05:01,678 --> 00:05:06,389
+características do BIS são eh interface gráfica intuitiva.
+
+104
+00:05:07,119 --> 00:05:10,048
+Ou seja, você não tem que ficar criando desenho
+
+105
+00:05:10,059 --> 00:05:13,649
+complexo, aquela coisa toda, não aqui você simplesmente
+
+106
+00:05:13,660 --> 00:05:14,209
+cê pega.
+
+107
+00:05:14,220 --> 00:05:16,528
+Ah, o que você quer, o componente arrasta,
+
+108
+00:05:16,540 --> 00:05:18,410
+coloca na telinha pronto, ali já tá o seu
+
+109
+00:05:18,420 --> 00:05:21,928
+componente pode ser uma um processo pode ser uma,
+
+110
+00:05:21,939 --> 00:05:24,809
+um, um, uma bolinha de início de término
+
+111
+00:05:24,819 --> 00:05:27,250
+pode ser uma cartinha que representa uma mensagem.
+
+112
+00:05:27,259 --> 00:05:29,988
+Pode ser uma setinha que representa o fluxo independente.
+
+113
+00:05:30,000 --> 00:05:32,819
+Tá? Vamos ver um pouco desses elementos dessas anotações
+
+114
+00:05:32,829 --> 00:05:33,699
+um pouco mais adiante.
+
+115
+00:05:33,709 --> 00:05:35,858
+Mas por enquanto entenda que a única coisa que você
+
+116
+00:05:35,869 --> 00:05:38,338
+vai se preocupar com com com o Biza é pegar,
+
+117
+00:05:38,350 --> 00:05:40,439
+arrastar e colocar na telinha pronto.
+
+118
+00:05:40,449 --> 00:05:44,619
+Outra coisa interessante é a integração de sistemas, ou
+
+119
+00:05:44,629 --> 00:05:46,488
+seja, eh o BSA.
+
+120
+00:05:46,500 --> 00:05:49,678
+Ela tem essa capacidade de integrar com outros sistemas empresariais,
+
+121
+00:05:49,689 --> 00:05:51,389
+por exemplo, o sistema de gestão empresarial, que
+
+122
+00:05:51,399 --> 00:05:53,889
+é o R P sistema de E C R M
+
+123
+00:05:53,899 --> 00:05:57,350
+que quer dizer que é o sistema gerenciamento com um
+
+124
+00:05:57,358 --> 00:05:59,709
+cliente que é um sistema específico, né? Com
+
+125
+00:05:59,720 --> 00:06:01,939
+o banco de dados, entre outros sistemas.
+
+126
+00:06:01,949 --> 00:06:06,660
+Então você pode fazer a integração desta plataforma com ambientes
+
+127
+00:06:06,670 --> 00:06:10,738
+com eh computacionais ou com softwares eh que você tem
+
+128
+00:06:10,750 --> 00:06:12,660
+dentro da sua organização com os ap- aplicações que você
+
+129
+00:06:12,670 --> 00:06:14,879
+tem dentro da da da sua organização.
+
+130
+00:06:14,889 --> 00:06:18,858
+Então ela faz essa integração do sistema muito bem feita.
+
+131
+00:06:18,869 --> 00:06:22,759
+Também permite colaboração em tempo real, ou seja,
+
+132
+00:06:22,769 --> 00:06:26,579
+mu- várias pessoas trabalhando simultaneamente no mesmo projeto.
+
+133
+00:06:26,588 --> 00:06:30,000
+Você cria um projeto e aí as pessoas vão trabalhando
+
+134
+00:06:30,009 --> 00:06:31,480
+dentro desse projeto.
+
+135
+00:06:31,488 --> 00:06:34,220
+Eh de forma colaborativa, né? Hoje a gente
+
+136
+00:06:34,230 --> 00:06:36,079
+fala muito de ferramentas colaborativas.
+
+137
+00:06:36,088 --> 00:06:38,649
+O S é uma ferramenta colaborativa, né? Eu
+
+138
+00:06:38,660 --> 00:06:42,009
+não preciso sair pra entrar um ou o outro colega
+
+139
+00:06:42,019 --> 00:06:43,970
+abrir e aí dar aquele conflito oh bo, já
+
+140
+00:06:43,980 --> 00:06:46,088
+tá usando a gente usando, o sistema não vai
+
+141
+00:06:46,100 --> 00:06:50,129
+sendo sendo feito simultaneamente e aí? Isso aca gera
+
+142
+00:06:50,139 --> 00:06:51,928
+em tempo real as mudanças.
+
+143
+00:06:51,939 --> 00:06:55,048
+As as alterações dos ajustes vão sendo representadas por meio
+
+144
+00:06:55,059 --> 00:06:58,088
+dessa colaboração entre as pessoas que estão trabalhando, né?
+
+145
+00:06:58,100 --> 00:07:01,189
+Outra coisa que nós temos é o monitoramento e análise,
+
+146
+00:07:01,199 --> 00:07:05,170
+né? Essa essa ferramenta permite que eu faça o
+
+147
+00:07:05,178 --> 00:07:08,649
+monitoramento e análise do desempenho do meu processo, bem
+
+148
+00:07:08,660 --> 00:07:10,269
+como a análise de dados dele.
+
+149
+00:07:10,278 --> 00:07:13,988
+Então, é uma ferramenta interessante que eu posso identificar
+
+150
+00:07:14,000 --> 00:07:17,160
+dentro do meu processo, todo o o tudo aquilo
+
+151
+00:07:17,170 --> 00:07:20,548
+que ocorre dentro desse, de forma bem fácil,
+
+152
+00:07:20,559 --> 00:07:23,209
+bem tranquila, bem intuitiva, né? Analisando os
+
+153
+00:07:23,220 --> 00:07:26,509
+dados, a integração desses dados, enfim, não
+
+154
+00:07:26,519 --> 00:07:28,129
+tem muita muito segredo.
+
+155
+00:07:28,139 --> 00:07:30,548
+Claro, né Isso vai de isso aí tudo tem
+
+156
+00:07:30,559 --> 00:07:32,838
+uma curva de aprendizado? Tá bom? Eh?
+
+157
+00:07:32,850 --> 00:07:35,600
+Mas né, vamos, vamos pensar assim.
+
+158
+00:07:35,608 --> 00:07:37,278
+Nem tudo são flores, né? Nem tudo são
+
+159
+00:07:37,290 --> 00:07:38,759
+flores, então vamos lá.
+
+160
+00:07:38,769 --> 00:07:43,319
+As vantagens que essa ferramenta nos traz é a facilidade
+
+161
+00:07:43,329 --> 00:07:45,519
+de de eh de uso.
+
+162
+00:07:45,528 --> 00:07:47,160
+Então a gente já viu que ela é interativa,
+
+163
+00:07:47,170 --> 00:07:49,639
+ela é fácil de de de de de de se
+
+164
+00:07:49,649 --> 00:07:51,869
+usar, eh, clica, arrasta.
+
+165
+00:07:51,879 --> 00:07:54,230
+Enfim, a curva de aprendizado não é tão e
+
+166
+00:07:54,238 --> 00:07:55,809
+não é tão longa assim.
+
+167
+00:07:55,819 --> 00:07:59,428
+Você tendo um pouco de de, vamos dizer assim,
+
+168
+00:07:59,439 --> 00:08:01,509
+de de tempo, de uso, de de de
+
+169
+00:08:01,519 --> 00:08:04,649
+conhecimento, você consegue facilmente trabalhar nela.
+
+170
+00:08:04,660 --> 00:08:08,220
+Ela também tem flexibilidade, ou seja, não é
+
+171
+00:08:08,230 --> 00:08:11,298
+focado no pra o departamento de tecnologia, pro setor,
+
+172
+00:08:11,309 --> 00:08:12,959
+de tecnologia, pro setor financeiro não.
+
+173
+00:08:12,970 --> 00:08:16,778
+Qualquer setor organizacional é capaz de se valer dessa ferramenta
+
+174
+00:08:16,790 --> 00:08:20,358
+e utilizar essa ferramenta, né, também, escalabilidade.
+
+175
+00:08:20,369 --> 00:08:23,980
+Ou seja, tanto vale pra pequenas empresas como pra
+
+176
+00:08:23,988 --> 00:08:26,858
+grandes empresas também, né? Ou seja você pode
+
+177
+00:08:26,869 --> 00:08:32,080
+trabalhar eh, na pequena empresa dez funcionários e tal.
+
+178
+00:08:32,178 --> 00:08:33,629
+Estamos falando de processo, processo.
+
+179
+00:08:33,638 --> 00:08:37,548
+Ele desconhece tamanho organizacional, Tá processo é processo independente
+
+180
+00:08:37,558 --> 00:08:39,268
+Se sua empresa tem uma pessoa, se tem dez
+
+181
+00:08:39,278 --> 00:08:41,979
+pessoas, tem cem mil pessoas, Processo é processo,
+
+182
+00:08:41,989 --> 00:08:46,847
+Então essa essa e escalabilidade, ela permite que você
+
+183
+00:08:46,859 --> 00:08:49,347
+trafegue que essa ferramenta né.
+
+184
+00:08:49,359 --> 00:08:52,067
+Atenda tanto uma pequena empresa média empresa como uma grande
+
+185
+00:08:52,077 --> 00:08:54,629
+empresa, claro! As desvantagens é o custo,
+
+186
+00:08:54,638 --> 00:08:57,178
+né? Então ela tem a versão grafica Twitter bs
+
+187
+00:08:57,190 --> 00:08:58,058
+tem uma versão gratuita.
+
+188
+00:08:58,070 --> 00:09:02,960
+Mas né A A A as funcionalidades algumas questões dela
+
+189
+00:09:02,969 --> 00:09:05,759
+são limitadas, então talvez se você precisar de uma
+
+190
+00:09:05,769 --> 00:09:08,359
+coisa um pouco mais sofisticada, uma simulação, uma
+
+191
+00:09:08,369 --> 00:09:10,840
+integração, você precisa pagar pra usar a ferramenta.
+
+192
+00:09:10,849 --> 00:09:13,558
+Mas se for um processo simples, uma coisa simples
+
+193
+00:09:13,570 --> 00:09:16,558
+você baixa, não paga nada por isso e ela
+
+194
+00:09:16,570 --> 00:09:18,830
+te dá ali o básico pra você desenhar o teu
+
+195
+00:09:18,840 --> 00:09:22,989
+processo ali tranquilamente, tá legal complexidade? Ou seja,
+
+196
+00:09:23,000 --> 00:09:27,009
+quando você tem coisas, muitos processos muito complexos e
+
+197
+00:09:27,019 --> 00:09:29,369
+aí você sim vai precisar de todo o potencial da
+
+198
+00:09:29,379 --> 00:09:30,210
+ferramenta.
+
+199
+00:09:30,219 --> 00:09:34,250
+E claro, usar esse potencial dessa ferramenta é mais
+
+200
+00:09:34,259 --> 00:09:35,048
+complicado.
+
+201
+00:09:35,058 --> 00:09:37,330
+E aí você tem que ter um conhecimento técnico mais,
+
+202
+00:09:37,340 --> 00:09:39,288
+então a sua curva de aprendizado vai ser um pouco
+
+203
+00:09:39,298 --> 00:09:41,889
+maior em relação a isso, mas no mais,
+
+204
+00:09:41,899 --> 00:09:46,500
+ela consegue atender perfeitamente a instituição e as e a
+
+205
+00:09:46,509 --> 00:09:48,875
+organização naquilo que ela se pressupõe, entregando o que
+
+206
+00:09:48,884 --> 00:09:51,283
+é o básico de um desenho, de um processo,
+
+207
+00:09:51,293 --> 00:09:54,783
+né? Quanto mais você percorrer dentro dessa ferramenta,
+
+208
+00:09:54,793 --> 00:09:58,104
+mais você se aprofundar e mais detalhes e você inserir,
+
+209
+00:09:58,114 --> 00:10:01,945
+óbvio mais aprendizado e custo, vai eh, eh,
+
+210
+00:10:01,955 --> 00:10:05,404
+eh, tá inerente a essa ferramenta! Okay valeu
+
+211
+00:10:05,413 --> 00:10:06,205
+até a próxima!
+

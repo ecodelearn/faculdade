@@ -1,0 +1,816 @@
+1
+00:00:05,908 --> 00:00:08,720
+Olá alô? Fabrício Melo Estamos aqui com a matéria
+
+2
+00:00:08,728 --> 00:00:10,679
+sobre segurança da informação.
+
+3
+00:00:10,689 --> 00:00:14,239
+Estamos trabalhando com a anatomia dos ataques e agora chegou
+
+4
+00:00:14,250 --> 00:00:16,958
+a vez da gente trabalhar com os ataques de obtenção
+
+5
+00:00:16,969 --> 00:00:20,559
+e manutenção de acesso e a Engenharia social, né?
+
+6
+00:00:20,568 --> 00:00:23,539
+Nós até já comentamos aí pra trás a ideia do
+
+7
+00:00:23,548 --> 00:00:26,658
+que é Engenharia social, mas teremos agora o tópico
+
+8
+00:00:26,670 --> 00:00:28,039
+específico sobre tal.
+
+9
+00:00:28,048 --> 00:00:32,200
+Olha só temos aí um ataque chamado S s,
+
+10
+00:00:32,209 --> 00:00:35,929
+exatamente famoso X S s.
+
+11
+00:00:35,939 --> 00:00:39,000
+Pode tá vindo com essa sigla aí esse ataque nada
+
+12
+00:00:39,009 --> 00:00:44,118
+mais é porque envolver código malicioso injetado em sites confiáveis.
+
+13
+00:00:44,130 --> 00:00:48,000
+Então perceba oh, o atacante tá vendo oh o
+
+14
+00:00:48,009 --> 00:00:51,000
+bichinho aqui oh, ele envia um link para um
+
+15
+00:00:51,009 --> 00:00:55,189
+site legítimo, mas com o inscrito injetado o que
+
+16
+00:00:55,200 --> 00:00:58,189
+acontece? O usuário clica no link acessando o site
+
+17
+00:00:58,200 --> 00:00:58,868
+legítimo.
+
+18
+00:00:58,880 --> 00:01:02,090
+O site é original só com esse script injetado.
+
+19
+00:01:02,709 --> 00:01:07,599
+Ao carregar o site legítimo, o usuário executa o
+
+20
+00:01:07,609 --> 00:01:10,989
+script malicioso, o script envia os dados capturados do
+
+21
+00:01:11,000 --> 00:01:13,599
+usuário para o atacante, então olha só que interessante,
+
+22
+00:01:13,609 --> 00:01:16,019
+né o usuário ele tá achando que tá na página
+
+23
+00:01:16,388 --> 00:01:20,058
+tá? Só que tem um script ali que tá
+
+24
+00:01:20,069 --> 00:01:22,579
+pegando e enviando para o atacante, então a gente
+
+25
+00:01:22,588 --> 00:01:25,930
+conhece aí como ataque de Cross, né script um
+
+26
+00:01:25,939 --> 00:01:29,838
+famoso x s s Ele faz a exploração aí tá
+
+27
+00:01:29,849 --> 00:01:32,480
+vendo lá oh! Os autores de ataques, injetam
+
+28
+00:01:32,489 --> 00:01:36,519
+inscriptos maliciosos no conteúdo oh do site alvo que então
+
+29
+00:01:36,528 --> 00:01:40,290
+entrega o navegador do usuário como conteúdo dinâmico que não
+
+30
+00:01:40,299 --> 00:01:42,808
+tem como saber que os Cris são maliciosos e portanto
+
+31
+00:01:42,819 --> 00:01:44,180
+os executa.
+
+32
+00:01:44,189 --> 00:01:46,569
+Então um usuário que tá ali, né? Eh
+
+33
+00:01:46,579 --> 00:01:52,049
+confiando naquele site que ele infelizmente pode aí ser vítima
+
+34
+00:01:52,058 --> 00:01:55,879
+de algo desagradável com a passagem dos dados dele para
+
+35
+00:01:55,888 --> 00:01:58,989
+um atacante okay e temos também o s q L
+
+36
+00:01:59,000 --> 00:02:02,290
+injection é bem famoso isso aí tá vendo é um
+
+37
+00:02:02,299 --> 00:02:04,769
+ata um ataque de injeção S q vai consistir em
+
+38
+00:02:04,778 --> 00:02:08,020
+que aluno ele pega? Ele faz a inser a
+
+39
+00:02:08,028 --> 00:02:10,758
+inserção, né? De uma consulta s q l
+
+40
+00:02:10,770 --> 00:02:13,778
+juntamente com os dados de entrada do cliente na aplicação,
+
+41
+00:02:13,788 --> 00:02:16,118
+então é o seguinte o cliente pode ver oh,
+
+42
+00:02:16,129 --> 00:02:21,000
+ele vai fazer uma uma consulta e nesse momento o
+
+43
+00:02:21,008 --> 00:02:25,219
+hacker injeta um script que vai também entrar com essa
+
+44
+00:02:25,229 --> 00:02:27,719
+consulta a moral da história, o que que vai
+
+45
+00:02:27,729 --> 00:02:30,778
+acontecer quando esse script entra lá? Oh quando ele
+
+46
+00:02:30,788 --> 00:02:34,020
+é bem sucedido oh! O atacante pode ler os
+
+47
+00:02:34,028 --> 00:02:36,338
+dados confidenciais do banco de dados que o cliente fez
+
+48
+00:02:36,349 --> 00:02:39,580
+a requisição? Ele vai poder modificá-lo, vai poder
+
+49
+00:02:39,588 --> 00:02:41,699
+executar operações de administração do banco de dados, vai
+
+50
+00:02:41,710 --> 00:02:45,199
+tomar conta do banco de dados? Então imagina eu
+
+51
+00:02:45,210 --> 00:02:47,409
+tô ali entrando com o meu login e senha pra
+
+52
+00:02:47,419 --> 00:02:50,270
+ter acesso a um banco de dados e através dessa
+
+53
+00:02:50,278 --> 00:02:55,129
+injeção ali que o atacante faz, ele consegue entrar
+
+54
+00:02:55,139 --> 00:02:57,969
+junto comigo com essa com essa brecha e vai poder
+
+55
+00:02:57,979 --> 00:02:59,569
+ali ter acesso ao banco de dados.
+
+56
+00:02:59,580 --> 00:03:02,088
+Vai? Poder, por exemplo, explorar o banco
+
+57
+00:03:02,099 --> 00:03:04,469
+de dados é bem complicado.
+
+58
+00:03:04,479 --> 00:03:08,929
+Ou seja, nós temos inúmeros caminhos pra poder aí
+
+59
+00:03:08,939 --> 00:03:10,368
+né, eh fazer exploração.
+
+60
+00:03:10,379 --> 00:03:12,569
+Por isso que a gente tá batendo naquela tecla tem
+
+61
+00:03:12,580 --> 00:03:15,278
+que ter muito cuidado, com vulnerabilidades.
+
+62
+00:03:15,288 --> 00:03:17,319
+Tem que as coisas têm que ser muito bem feitas
+
+63
+00:03:17,330 --> 00:03:21,000
+Administração de banco, de dados, projetos de segurança,
+
+64
+00:03:21,008 --> 00:03:23,639
+projetos de A Harden, né? Quer fazer lá
+
+65
+00:03:23,649 --> 00:03:26,969
+o mapeamento da segurança? Não dá pra brincar não,
+
+66
+00:03:26,979 --> 00:03:31,360
+porque olha só tudo quanto é tipo de acesso de
+
+67
+00:03:31,368 --> 00:03:33,838
+de movimentação que o usuário faz.
+
+68
+00:03:33,849 --> 00:03:38,399
+É motivo pro atacante conseguir aí entrar e invadir,
+
+69
+00:03:38,409 --> 00:03:41,460
+né? E olha só pra gente reforçar os nossos
+
+70
+00:03:41,469 --> 00:03:46,058
+estudos Que interessante algumas eh questões que envolvem esses temas.
+
+71
+00:03:46,069 --> 00:03:50,300
+Olha só com referência a segurança de dados sigilosos.
+
+72
+00:03:50,308 --> 00:03:52,819
+Uma das técnicas utilizadas por hackers é a adição tá
+
+73
+00:03:52,830 --> 00:03:55,580
+vendo oh de um código quando a entrada de dados
+
+74
+00:03:55,588 --> 00:03:56,758
+em sistemas de informação.
+
+75
+00:03:57,500 --> 00:04:00,979
+Essa tec conhecida como o quê, Mande Med é
+
+76
+00:04:00,990 --> 00:04:03,110
+o famoso homem do meio! Né? Que tá
+
+77
+00:04:03,118 --> 00:04:07,550
+ali um atacante entre uma conexão e ele consegue ali,
+
+78
+00:04:07,558 --> 00:04:10,808
+né? Colocar sites falsos naquele meio pra fazer com
+
+79
+00:04:10,819 --> 00:04:12,490
+que o usuário se dê mal.
+
+80
+00:04:12,500 --> 00:04:15,028
+Cavalo de Troia também não é porque é aquela praga
+
+81
+00:04:15,038 --> 00:04:18,899
+virtual que vem disfarçado, né? Com outro programa,
+
+82
+00:04:18,910 --> 00:04:21,689
+e ele pode embutir outras pragas na sua máquina?
+
+83
+00:04:21,699 --> 00:04:24,439
+Aqui é o S Q l tá vendo que eu
+
+84
+00:04:24,449 --> 00:04:24,738
+fiz.
+
+85
+00:04:24,750 --> 00:04:26,970
+É um golpe de engenharia social que a gente vai
+
+86
+00:04:26,980 --> 00:04:29,149
+tratar aí e d d O s.
+
+87
+00:04:29,160 --> 00:04:31,379
+A gente já viu? É o famoso aí Negação
+
+88
+00:04:31,389 --> 00:04:34,548
+de serviço distribuído ataque de botnet a um servidor pra
+
+89
+00:04:34,559 --> 00:04:37,358
+tirá-lo aí do ar Tá? E aí? Oh
+
+90
+00:04:37,369 --> 00:04:41,639
+visto isso vamos falar da engenharia social! Tá vendo
+
+91
+00:04:41,649 --> 00:04:45,579
+um conjunto de técnicas utilizadas para manipular a nos indivíduos
+
+92
+00:04:45,588 --> 00:04:48,738
+para que realizem ações indevidas, executar um mal e
+
+93
+00:04:48,750 --> 00:04:51,879
+obter acesso a informações importantes ou sigilosas, contas e
+
+94
+00:04:51,889 --> 00:04:53,819
+senhas por meio da enganação.
+
+95
+00:04:53,829 --> 00:04:55,819
+exploração da confiança das pessoas.
+
+96
+00:04:55,829 --> 00:04:58,338
+Ou seja, é o atacante usar o seu poder
+
+97
+00:04:58,350 --> 00:04:59,778
+de persuasão.
+
+98
+00:04:59,790 --> 00:05:03,678
+Oh! Um sete um e ele consegue ali enganar
+
+99
+00:05:03,689 --> 00:05:09,139
+uma vítima e obter dados, Acesso alguma coisa através
+
+100
+00:05:09,149 --> 00:05:12,540
+dessa exploração de confiança, Isso é a tal da
+
+101
+00:05:12,548 --> 00:05:14,379
+engenharia social.
+
+102
+00:05:14,389 --> 00:05:17,358
+Tá então lá você tem um ataque de persuasão?
+
+103
+00:05:17,439 --> 00:05:20,369
+Quer né? Conseguir persuadir a pessoa também tem a
+
+104
+00:05:20,379 --> 00:05:21,509
+intimidação.
+
+105
+00:05:21,519 --> 00:05:24,608
+Você pode Também é um tipo de engenharia social a
+
+106
+00:05:24,619 --> 00:05:27,329
+falsificação e a representação.
+
+107
+00:05:27,338 --> 00:05:30,048
+Tá? Olha só cliente de um banco recebe um
+
+108
+00:05:30,059 --> 00:05:34,369
+e-mail, Telefonema falso que alega ser do banco pedindo
+
+109
+00:05:34,379 --> 00:05:36,730
+a confirmação de seus códigos de acesso.
+
+110
+00:05:36,738 --> 00:05:39,639
+Porém, o m de confirmação não ocorre pelo caminho
+
+111
+00:05:39,649 --> 00:05:40,449
+habitual.
+
+112
+00:05:40,459 --> 00:05:45,309
+Tá vendo vítima de uma engenharia social aí, né?
+
+113
+00:05:45,319 --> 00:05:46,850
+EH E aí isso acontece muito, por exemplo,
+
+114
+00:05:46,858 --> 00:05:47,410
+com as pessoas.
+
+115
+00:05:47,420 --> 00:05:50,048
+Idosas, né? Os idosos, hoje estão tendo
+
+116
+00:05:50,059 --> 00:05:54,230
+muito acessoà tecnologia phone, que são pessoas de
+
+117
+00:05:54,238 --> 00:05:57,528
+bom, bom! Coração, né? Um idoso,
+
+118
+00:05:57,540 --> 00:06:00,850
+Então ele acaba confiando muito em ligações, a pessoa
+
+119
+00:06:00,858 --> 00:06:05,528
+fala bem, a pessoa consegue ali passar a lábia.
+
+120
+00:06:05,540 --> 00:06:08,829
+E o idoso fornece informação passo que não deveria ser
+
+121
+00:06:08,838 --> 00:06:09,528
+passado.
+
+122
+00:06:09,540 --> 00:06:12,850
+Isso acontece mais do que a gente imagina, né?
+
+123
+00:06:12,858 --> 00:06:15,488
+Temos aí o pré-teste em que olha Só que legal.
+
+124
+00:06:15,500 --> 00:06:20,278
+Isso é a criação de falsos pretextos aparentemente positivos pra
+
+125
+00:06:20,290 --> 00:06:22,959
+fazer que a vítima passe informações comerciais, por exemplo,
+
+126
+00:06:22,970 --> 00:06:26,959
+sugerindo premiações, indenizações, heranças, parentes distantes,
+
+127
+00:06:26,970 --> 00:06:28,588
+né? A pessoa liga, oh, tem uma
+
+128
+00:06:28,600 --> 00:06:30,139
+herança aqui pra receber.
+
+129
+00:06:30,769 --> 00:06:32,660
+Só que aí eu vou precisar de dados.
+
+130
+00:06:32,670 --> 00:06:34,889
+Eu vou precisar da sua senha do banco.
+
+131
+00:06:34,899 --> 00:06:37,559
+Vou fazer um cadastro a pessoa passa, né?
+
+132
+00:06:37,569 --> 00:06:41,019
+O muito famoso e já até comentamos aí pra trás
+
+133
+00:06:41,028 --> 00:06:44,660
+é você através de e-mails, falsos, sites falsos,
+
+134
+00:06:44,670 --> 00:06:48,259
+fazer com que a vítima passe os dados dela pro
+
+135
+00:06:48,269 --> 00:06:50,319
+pra você, não você que é o atacante,
+
+136
+00:06:50,329 --> 00:06:52,699
+né? Pro atacante? Então o atacante consegue fazer
+
+137
+00:06:52,709 --> 00:06:55,480
+isso? Criação de e-mails e sites falsos pra poder
+
+138
+00:06:56,338 --> 00:06:58,149
+coletar dados da vítima.
+
+139
+00:06:58,160 --> 00:07:00,790
+O Spire Fish, que é um ch muito perigoso,
+
+140
+00:07:00,798 --> 00:07:06,869
+é o famoso direcionado, porque o tradicional eu mando,
+
+141
+00:07:06,879 --> 00:07:08,420
+por exemplo, um e-mail falando que eu sou o
+
+142
+00:07:08,428 --> 00:07:11,889
+gerente de um banco qualquer criando seus dados.
+
+143
+00:07:12,559 --> 00:07:14,290
+Bom, você recebe esse e-mail! Cê não é,
+
+144
+00:07:14,298 --> 00:07:15,850
+vi, não é cliente daquele banco que você já
+
+145
+00:07:15,858 --> 00:07:17,009
+vai perceber que é um golpe.
+
+146
+00:07:17,019 --> 00:07:20,949
+Não é isso Isso é um tradicional O S é
+
+147
+00:07:20,959 --> 00:07:25,129
+Quando você faz um direcionado, olha lá, oh,
+
+148
+00:07:25,139 --> 00:07:28,209
+tá vendo, eh ele fala assim Oh que tá
+
+149
+00:07:28,220 --> 00:07:30,730
+vendo oh site, simulavam a interface da Caixa Econômica,
+
+150
+00:07:30,738 --> 00:07:32,829
+logrando beneficiários de auxílio emergencial.
+
+151
+00:07:32,838 --> 00:07:35,689
+Ou seja, eu direciono pra aquela pessoa que vai
+
+152
+00:07:35,699 --> 00:07:36,910
+precisar usar isso aí.
+
+153
+00:07:36,920 --> 00:07:38,778
+Ou então você participou de uma reunião.
+
+154
+00:07:38,790 --> 00:07:42,720
+Eu descobri e depois eu te mando um e-mail falando
+
+155
+00:07:42,730 --> 00:07:46,459
+aquela reunião pra você e você? Pô, eu
+
+156
+00:07:46,470 --> 00:07:49,048
+participei da reunião, vou fornecer os dados, então
+
+157
+00:07:49,059 --> 00:07:51,699
+é um SH mais direcionado, né? Temos aí
+
+158
+00:07:51,709 --> 00:07:54,420
+o spam, né, que também pode ser utilizado
+
+159
+00:07:54,428 --> 00:07:54,819
+pra isso.
+
+160
+00:07:54,829 --> 00:07:57,540
+Apesar que o spam, qual é a ideia e-mails
+
+161
+00:07:57,548 --> 00:08:00,678
+enviados em massa pra uma grande quantidade de pessoas?
+
+162
+00:08:00,689 --> 00:08:03,980
+Essa que é a ideia do spam, mas também
+
+163
+00:08:03,988 --> 00:08:06,379
+pode ser usado pra fazer o mal, né?
+
+164
+00:08:06,389 --> 00:08:09,059
+E temos o sexto o que que é isso?
+
+165
+00:08:09,069 --> 00:08:13,738
+Esse sexto extorsão baseada no vazamento de imagens íntimas podem
+
+166
+00:08:13,750 --> 00:08:14,399
+existir ou não.
+
+167
+00:08:15,290 --> 00:08:17,220
+Às vezes a pessoa recebe mensagem Oh, eu tenho
+
+168
+00:08:17,230 --> 00:08:21,660
+fotos íntimas suas aqui e eu vou soltar isso.
+
+169
+00:08:21,670 --> 00:08:23,338
+E eu quero uma grana, então a pessoa tá
+
+170
+00:08:23,350 --> 00:08:24,358
+te extorquindo ali.
+
+171
+00:08:24,970 --> 00:08:26,579
+Eàs vezes nem tem essas fotos.
+
+172
+00:08:26,588 --> 00:08:28,660
+Ou quando tem, é pior ainda porque aí vamos
+
+173
+00:08:28,670 --> 00:08:29,230
+supor a pessoa.
+
+174
+00:08:29,238 --> 00:08:31,660
+Tem certeza que ela que ela tinha aquelas fotos,
+
+175
+00:08:31,670 --> 00:08:32,509
+que foram vazadas.
+
+176
+00:08:32,519 --> 00:08:35,940
+Isso acontece muito com o fim de relacionamento acontece demais.
+
+177
+00:08:35,950 --> 00:08:39,678
+Aí a pessoa consegue extorquir, baseado no vazamento de
+
+178
+00:08:39,690 --> 00:08:42,940
+imagens íntimas, né? Olha só a questão interessante
+
+179
+00:08:42,950 --> 00:08:46,379
+Aluno! Marina recebeu uma ligação de um suposto funcionário
+
+180
+00:08:46,389 --> 00:08:49,899
+que dizia estar fazendo uma pesquisa sanitária sobre uma pandemia.
+
+181
+00:08:49,908 --> 00:08:53,759
+Tá vendo? Marina passou essas informações pessoais e profissionais
+
+182
+00:08:54,090 --> 00:08:57,500
+que permitiram ao falso funcionário acessar um sistema com suas
+
+183
+00:08:57,509 --> 00:08:58,538
+credenciais.
+
+184
+00:08:58,548 --> 00:09:02,619
+A técnica empregada pelo falso funcionário para conseguir as informações
+
+185
+00:09:02,629 --> 00:09:08,389
+da Marina foi, né? Não é esse não.
+
+186
+00:09:08,399 --> 00:09:11,129
+Isso que é o envenenamento de DNS você fazer a
+
+187
+00:09:11,139 --> 00:09:15,700
+alteração do DNS e pra uma página falsa, não
+
+188
+00:09:15,710 --> 00:09:17,808
+engenharia social.
+
+189
+00:09:17,820 --> 00:09:20,779
+Oh tá vendo oh que seria um aí, né
+
+190
+00:09:20,788 --> 00:09:22,960
+suborno! Não e nem o Smith, que é
+
+191
+00:09:22,969 --> 00:09:25,840
+o farejador, tá vendo só pra você pegar uma
+
+192
+00:09:25,849 --> 00:09:27,658
+manha! Vamos pra mais uma hora lá.
+
+193
+00:09:27,668 --> 00:09:30,119
+Um perito em computação está investigando a denúncia de um
+
+194
+00:09:30,129 --> 00:09:34,519
+ataque direcionado que se caracteriza pela pra de estelionato visando
+
+195
+00:09:34,529 --> 00:09:37,000
+enganar a vítima, com o objetivo de comprometer a
+
+196
+00:09:37,009 --> 00:09:41,259
+segurança do seu computador e causar lhe prejuízos financeiros.
+
+197
+00:09:41,570 --> 00:09:44,500
+Qual é o tipo de ataque que o perito está
+
+198
+00:09:44,509 --> 00:09:48,859
+investigando? Então olha só denúncia de um ataque pela
+
+199
+00:09:48,869 --> 00:09:53,149
+prática de estelionato? Tá vendo então, se ataque
+
+200
+00:09:53,158 --> 00:09:58,190
+serena é um? Spier Fih, né? Que
+
+201
+00:09:58,200 --> 00:10:03,399
+vai tá acontecendo aí com a pessoa tranquilo? Deu
+
+202
+00:10:03,408 --> 00:10:08,428
+pra entender aí esses ataques, né? Essas engenharias
+
+203
+00:10:08,440 --> 00:10:11,950
+sociais utilizadas aí pelos atacantes, então um grande abraço
+
+204
+00:10:11,960 --> 00:10:13,729
+pra você, Até a próxima
+

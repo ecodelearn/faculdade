@@ -1,0 +1,580 @@
+1
+00:00:06,759 --> 00:00:09,089
+é e chegamos na nossa última aula desse módulo.
+
+2
+00:00:09,099 --> 00:00:10,489
+Tá, e aí A gente, nós falamos,
+
+3
+00:00:10,500 --> 00:00:12,978
+pegamos o exemplo de um banco que o banco queria.
+
+4
+00:00:12,989 --> 00:00:17,089
+Precisou implementar uma política de segurança da informação, né?
+
+5
+00:00:17,100 --> 00:00:20,370
+E colocou alguns objetivos, redução de custo, aumento
+
+6
+00:00:20,379 --> 00:00:22,609
+de de aumento da reputação.
+
+7
+00:00:22,620 --> 00:00:24,309
+E a gente viu que ele começou a investir,
+
+8
+00:00:24,318 --> 00:00:25,908
+investiu em alta tecnologia.
+
+9
+00:00:25,920 --> 00:00:28,530
+O que que ele fez mais? Investiu em treinamento,
+
+10
+00:00:28,539 --> 00:00:30,760
+né? Eh, eh, começou a entender,
+
+11
+00:00:30,769 --> 00:00:33,168
+capacitar a equipe, falar, entender que o ataque
+
+12
+00:00:33,179 --> 00:00:35,505
+cibernético não é somente ataque.
+
+13
+00:00:35,514 --> 00:00:37,484
+Se Bené é uma falha de segurança, nós temos
+
+14
+00:00:37,493 --> 00:00:40,984
+outras frentes que precisamos entender e isso começou a colher
+
+15
+00:00:40,993 --> 00:00:41,554
+frutos.
+
+16
+00:00:41,564 --> 00:00:44,834
+Tá? Entendemos também que não é algo rápido.
+
+17
+00:00:44,844 --> 00:00:48,514
+É algo que demora um tempo, investimento, investimento,
+
+18
+00:00:48,524 --> 00:00:51,774
+em recurso, investimento, em treinamento, em conscientização.
+
+19
+00:00:51,783 --> 00:00:55,158
+Então, pra finalizar, a gente vai dar uma
+
+20
+00:00:55,168 --> 00:00:58,679
+olhada na na conclusão desse estudo de caso desse banco,
+
+21
+00:00:58,689 --> 00:00:58,880
+tá.
+
+22
+00:00:58,889 --> 00:01:02,189
+O estudo de caso do banco é um testemunho inspirador
+
+23
+00:01:02,200 --> 00:01:06,838
+da capacidade de uma grande instituição financeira a enfrentar desafios
+
+24
+00:01:06,849 --> 00:01:10,480
+complexos relacionadosà segurança cibernética e a conformidade com os
+
+25
+00:01:10,489 --> 00:01:11,260
+regulamentos.
+
+26
+00:01:11,689 --> 00:01:14,500
+Ao longo desse estudo de caso, exploramos em detalhes
+
+27
+00:01:14,510 --> 00:01:18,659
+as estratégias adotadas pelo banco para atingir seus objetivos de
+
+28
+00:01:18,668 --> 00:01:22,870
+minimizar incidentes de segurança, fortalecer a confiança dos clientes
+
+29
+00:01:22,879 --> 00:01:27,579
+e investidores, garantindo a conformidade global e reduzir os
+
+30
+00:01:27,588 --> 00:01:30,819
+custos associados a incidentes de segurança e conformidade.
+
+31
+00:01:30,829 --> 00:01:33,760
+Então, a gente entende aqui que é algo bem
+
+32
+00:01:33,769 --> 00:01:34,239
+complexo.
+
+33
+00:01:34,250 --> 00:01:35,540
+Não é algo simples, né? Não é algo
+
+34
+00:01:35,549 --> 00:01:39,599
+simples que envolve tecnologia, envolve pessoas, envolve a
+
+35
+00:01:39,609 --> 00:01:42,638
+frente, tá, O banco demonstrou que a segurança
+
+36
+00:01:42,650 --> 00:01:46,379
+cibernética não é apenas uma prioridade, mas um compromisso
+
+37
+00:01:46,388 --> 00:01:49,099
+enraizado em todas as áreas da organização.
+
+38
+00:01:49,719 --> 00:01:53,808
+A transparência, a comunicação franca e a colaboração com
+
+39
+00:01:53,819 --> 00:01:58,829
+partes interessadas, internas e externas desempenham um papel fundamental
+
+40
+00:01:58,838 --> 00:02:03,709
+na construção de uma cultura cultura de segurança cibernética.
+
+41
+00:02:03,719 --> 00:02:06,650
+Cultura tá bom foco na cultura.
+
+42
+00:02:06,659 --> 00:02:10,987
+Além disso, os investimentos em prevenção, programa de
+
+43
+00:02:10,997 --> 00:02:14,389
+educação, contínuo, né? E a dedicaçãoà
+
+44
+00:02:14,399 --> 00:02:19,108
+conformidade, contribuindo pra redução significativa de incidentes de segurança
+
+45
+00:02:19,118 --> 00:02:20,187
+e custos associados.
+
+46
+00:02:20,199 --> 00:02:21,068
+Quero ler de novo aqui.
+
+47
+00:02:21,078 --> 00:02:21,627
+Oh, não vamos ler.
+
+48
+00:02:21,639 --> 00:02:24,169
+Vamos por investimento em prevenção.
+
+49
+00:02:24,179 --> 00:02:25,967
+Precisamos de investimento.
+
+50
+00:02:25,979 --> 00:02:31,460
+Segundo Program Programa de educação contínua não é a educação
+
+51
+00:02:31,469 --> 00:02:32,139
+que você faz.
+
+52
+00:02:32,149 --> 00:02:35,099
+Um web que você faz sobre segurança e deixa daqui
+
+53
+00:02:35,110 --> 00:02:36,020
+cinco anos, faz de novo.
+
+54
+00:02:36,028 --> 00:02:39,899
+Não é um programa de con continue de educação contínua.
+
+55
+00:02:39,909 --> 00:02:43,580
+Você precisa incentivar cada vez mais esse tema.
+
+56
+00:02:43,588 --> 00:02:47,860
+a evolução desse tema dentro do seu time tá e
+
+57
+00:02:47,868 --> 00:02:57,250
+a dedicaçãoà conformidade reduziram significativamente se dentes dentro da
+
+58
+00:02:57,258 --> 00:02:59,868
+da da da segurança dentro da dessa avaliação, consequentemente
+
+59
+00:02:59,879 --> 00:03:03,250
+os rus, os custos associados a isso foram reduzidos.
+
+60
+00:03:04,689 --> 00:03:08,758
+Esse sucesso não apenas protegeu os ativos financeiros do banco,
+
+61
+00:03:08,770 --> 00:03:12,899
+mas também fortaleceu a reputação do banco e sua posição
+
+62
+00:03:12,909 --> 00:03:14,699
+no setor financeiro global.
+
+63
+00:03:14,710 --> 00:03:18,360
+A história do do Banco Global serve como um exemplo
+
+64
+00:03:18,368 --> 00:03:22,258
+aspirador para as outras instituições financeiras e organizações de todos
+
+65
+00:03:22,270 --> 00:03:26,338
+os setores, destacando a importância da segurança cibernética,
+
+66
+00:03:26,349 --> 00:03:31,758
+conformidade regulatória e compromisso com a confiança dos clientes.
+
+67
+00:03:32,479 --> 00:03:35,330
+Então, continuandoà medida que o cenário a segurança
+
+68
+00:03:35,338 --> 00:03:39,050
+cibernética continua a evoluir ou os ensinamentos desse estudo de
+
+69
+00:03:39,058 --> 00:03:44,199
+caso permanecem eh relevantes, a segurança benéfica é um
+
+70
+00:03:44,210 --> 00:03:45,960
+desafio constante.
+
+71
+00:03:45,969 --> 00:03:48,659
+Mas o sucesso do banco global nos lembra que um
+
+72
+00:03:48,669 --> 00:03:53,679
+compromisso sério, investimento em prevenção e abordagem aberta a
+
+73
+00:03:53,689 --> 00:03:54,868
+conformidade.
+
+74
+00:03:54,879 --> 00:03:58,349
+É possível proteger ativos valiosos e manter a confiança em
+
+75
+00:03:58,360 --> 00:04:01,338
+um mundo em constante evolução.
+
+76
+00:04:02,050 --> 00:04:04,659
+O que nós vimos durante toda essa, toda essa
+
+77
+00:04:04,669 --> 00:04:07,419
+aula, a importância da implementação de uma política de
+
+78
+00:04:07,429 --> 00:04:09,679
+segurança da informação e comunicação.
+
+79
+00:04:09,689 --> 00:04:14,338
+Entendemos como é importante que a alta direção esteja alinhada
+
+80
+00:04:14,349 --> 00:04:18,238
+com isso, que ela patrocine que ela dê força
+
+81
+00:04:18,250 --> 00:04:20,928
+a essa política, porque se não tiver força,
+
+82
+00:04:20,939 --> 00:04:23,660
+ela não vai ser implementada, ela não vai ser
+
+83
+00:04:23,670 --> 00:04:24,759
+comprada.
+
+84
+00:04:24,769 --> 00:04:28,139
+Ninguém vai vestir a camisa da política, da segurança,
+
+85
+00:04:28,149 --> 00:04:31,389
+da informação e essa política você tem que tá alinhada
+
+86
+00:04:31,399 --> 00:04:34,028
+com a estratégia do negócio.
+
+87
+00:04:34,040 --> 00:04:36,528
+Não adianta nada você fazer uma política que tá totalmente
+
+88
+00:04:36,540 --> 00:04:38,048
+fora da estratégia do negócio.
+
+89
+00:04:38,059 --> 00:04:40,428
+Não tem que fazer isso, não tem, vai
+
+90
+00:04:40,439 --> 00:04:42,670
+ser perda de tempo, perda de dinheiro, precisa
+
+91
+00:04:42,678 --> 00:04:43,689
+estar alinhada.
+
+92
+00:04:43,699 --> 00:04:47,350
+Essa política precisa estar alinhada integrada com a política,
+
+93
+00:04:47,358 --> 00:04:51,238
+com a estratégia da T I, Não são coisas
+
+94
+00:04:51,250 --> 00:04:53,879
+independentes, são coisas iguais, iguais não, mas
+
+95
+00:04:53,889 --> 00:04:57,949
+próximas uma depende da outra, uma depende da outra.
+
+96
+00:04:58,230 --> 00:05:01,399
+Nós precisamos entender que teremos um nível hierárquico pra essa
+
+97
+00:05:01,410 --> 00:05:04,480
+política, que temos um nível estratégico, o nível
+
+98
+00:05:04,488 --> 00:05:06,100
+tático e o nível operacional.
+
+99
+00:05:06,108 --> 00:05:10,079
+Cada um com as suas responsabilidades e obrigações, onde
+
+100
+00:05:10,088 --> 00:05:14,879
+ali o nível né? O nível tático e estratégico
+
+101
+00:05:14,889 --> 00:05:19,480
+ele tem a obrigação de definir as diretrizes e patrocinar
+
+102
+00:05:19,488 --> 00:05:22,959
+e falar sobre essa essa política, nós temos um
+
+103
+00:05:22,970 --> 00:05:25,980
+nível tático que tem, é implementar e operar,
+
+104
+00:05:25,988 --> 00:05:28,399
+e monitorar o que foi feito.
+
+105
+00:05:28,410 --> 00:05:32,939
+Foi escrito dentro dessas diretrizes e a a equipe operacional
+
+106
+00:05:32,949 --> 00:05:36,019
+e ela precisa ser treinada, precisa ser.
+
+107
+00:05:36,028 --> 00:05:38,639
+Tem que ter uma educação contínua, entendendo que cada
+
+108
+00:05:38,649 --> 00:05:41,678
+um tem seu nível espessa e seu nível e conhecimentos
+
+109
+00:05:41,689 --> 00:05:45,048
+de tecnologia tem que ter o colocar todo mundo na
+
+110
+00:05:45,059 --> 00:05:48,509
+mesma régua quando o assunto é segurança da informação,
+
+111
+00:05:48,519 --> 00:05:51,519
+evitando assim uma coisa que você nunca viu que alguém
+
+112
+00:05:51,528 --> 00:05:53,949
+sair e deixar o computador aberto com os times com
+
+113
+00:05:53,959 --> 00:05:55,019
+o e-mail com.
+
+114
+00:05:55,028 --> 00:05:59,798
+Enfim o WhatsApp aberto ou você também nunca viu isso?
+
+115
+00:05:59,809 --> 00:06:02,759
+Aquela senha do potiche sem um, dois, três
+
+116
+00:06:02,769 --> 00:06:04,928
+fulano um, dois, três que tá pregado muito
+
+117
+00:06:04,939 --> 00:06:05,540
+da pessoa.
+
+118
+00:06:06,119 --> 00:06:10,428
+Então essa educação contínua contribui para a reputação da empresa,
+
+119
+00:06:10,439 --> 00:06:13,269
+reduzindo custos com o incidente de segurança da informação.
+
+120
+00:06:13,278 --> 00:06:15,928
+O incidente de segurança e formação não são só ataques
+
+121
+00:06:15,939 --> 00:06:18,988
+cibernéticos, também são que tem outros tipos, como
+
+122
+00:06:19,000 --> 00:06:21,149
+engenharia social, como nós falamos aqui.
+
+123
+00:06:21,160 --> 00:06:24,649
+Então é importantíssimo entender isso, que a segurança da
+
+124
+00:06:24,660 --> 00:06:27,850
+empresa é algo que não é somente da equipe de
+
+125
+00:06:27,858 --> 00:06:32,269
+segurança, é a minha responsabilidade e a sua responsabilidade,
+
+126
+00:06:32,569 --> 00:06:35,009
+a responsabilidade de toda a organização.
+
+127
+00:06:35,019 --> 00:06:38,579
+Isso é fundamental para garantir o sucesso não da segurança
+
+128
+00:06:38,588 --> 00:06:41,019
+da informação, mas o sucesso é a reputação da
+
+129
+00:06:41,028 --> 00:06:43,879
+empresa onde você trabalha, a empresa que você representa
+
+130
+00:06:43,889 --> 00:06:44,500
+o que você não.
+
+131
+00:06:44,509 --> 00:06:46,250
+Enfim é fundamental isso.
+
+132
+00:06:46,259 --> 00:06:48,939
+Então, que você possa cada vez mais entender o
+
+133
+00:06:48,949 --> 00:06:50,939
+que é fundamental.
+
+134
+00:06:50,949 --> 00:06:54,738
+É importante para que a sua empresa tenha sucesso,
+
+135
+00:06:54,750 --> 00:06:58,100
+que a segurança da informação seja uma disciplina séria por
+
+136
+00:06:58,108 --> 00:07:01,389
+todos, seja levada a séria por todos dentro da
+
+137
+00:07:01,399 --> 00:07:05,139
+organização, com treinamento, patrocínio, investimento que eu
+
+138
+00:07:05,149 --> 00:07:07,379
+tenho certeza a partir do momento que todo mundo entende
+
+139
+00:07:07,389 --> 00:07:13,379
+que falar sobre segurança, praticar segurança é fundamental a
+
+140
+00:07:13,389 --> 00:07:17,420
+a a quantidade de incidentes de segurança vão diminuir.
+
+141
+00:07:17,428 --> 00:07:20,129
+Ou seja, a reputação da empresa só vai aumentar
+
+142
+00:07:20,139 --> 00:07:22,119
+relacionado ao tema Segurança.
+
+143
+00:07:22,129 --> 00:07:25,480
+Eu agradeço vocês, Muito obrigado por me acompanhar durante
+
+144
+00:07:25,488 --> 00:07:28,838
+toda essa aula e nos veremos na próxima aula até
+
+145
+00:07:28,850 --> 00:07:29,259
+breve.
+

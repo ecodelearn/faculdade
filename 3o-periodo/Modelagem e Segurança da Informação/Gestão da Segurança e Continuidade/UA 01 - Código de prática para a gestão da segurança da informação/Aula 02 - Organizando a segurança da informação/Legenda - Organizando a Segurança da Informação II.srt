@@ -1,0 +1,504 @@
+1
+00:00:06,419 --> 00:00:08,269
+É isso aí, estamos voltando e agora vamos.
+
+2
+00:00:08,278 --> 00:00:11,429
+Vamos falar de algo muito específico, é algo importantíssimo.
+
+3
+00:00:11,439 --> 00:00:13,390
+Tá que é a questão da infraestrutura, toda a
+
+4
+00:00:13,398 --> 00:00:18,059
+parte ali tecnológica e de pessoas que envolve a questão
+
+5
+00:00:18,068 --> 00:00:19,379
+da segurança, da informação.
+
+6
+00:00:19,388 --> 00:00:21,149
+Tá e pra isso? Quando a gente fala em
+
+7
+00:00:21,158 --> 00:00:25,079
+insegura, infraestrutura, da de segurança,às vezes
+
+8
+00:00:25,089 --> 00:00:26,949
+as pessoas acham que é só você pode achar que
+
+9
+00:00:26,958 --> 00:00:30,530
+é só questão de máquina, né? Cabo enfim,
+
+10
+00:00:30,539 --> 00:00:32,990
+né? Data center Mas nós vamos ver que não
+
+11
+00:00:33,000 --> 00:00:35,069
+é só isso, Tá vai além? Tá Quando
+
+12
+00:00:35,079 --> 00:00:37,630
+a gente tá falando de infraestrutura, da de segurança,
+
+13
+00:00:37,639 --> 00:00:41,908
+uma empresa organização que busca ser competitiva no mercado necessita
+
+14
+00:00:41,918 --> 00:00:43,889
+investir em segurança da informação.
+
+15
+00:00:43,899 --> 00:00:45,090
+Olha que legal, isso aqui tá.
+
+16
+00:00:45,098 --> 00:00:47,310
+Se você trabalha em uma empresa, você tem uma
+
+17
+00:00:47,319 --> 00:00:51,590
+empresa, você enfim, quer ser competitivo dentro do
+
+18
+00:00:51,598 --> 00:00:54,848
+seu mercado, Você precisa entender sobre segurança da informação.
+
+19
+00:00:54,859 --> 00:00:55,829
+É importantíssimo.
+
+20
+00:00:55,840 --> 00:00:59,240
+Tá sem Esse investimento sempre aumenta o risco e a
+
+21
+00:00:59,250 --> 00:01:02,789
+possibilidade de ataques e invasões que podem ser fatais.
+
+22
+00:01:02,798 --> 00:01:06,959
+Para a organização, várias empresas já tiveram falência devido
+
+23
+00:01:06,969 --> 00:01:09,760
+a ataques, ataques aos seus dados, ataquesàs
+
+24
+00:01:09,769 --> 00:01:11,879
+suas informações e isso é por isso que tem que
+
+25
+00:01:11,888 --> 00:01:12,558
+proteger.
+
+26
+00:01:12,569 --> 00:01:15,000
+Por isso que tem que ter investimento da organização pra
+
+27
+00:01:15,010 --> 00:01:15,459
+isso tá.
+
+28
+00:01:15,469 --> 00:01:20,079
+A segurança da informação se tornou essencial em praticamente todas
+
+29
+00:01:20,088 --> 00:01:23,439
+as áreas do mercado todas! Tá? Esse investimento
+
+30
+00:01:23,448 --> 00:01:29,278
+em segurança é feito principalmente em duas áreas profissionais qualificados.
+
+31
+00:01:29,290 --> 00:01:33,079
+Olha aí e infraestrutura que garante os princípios básicos,
+
+32
+00:01:33,088 --> 00:01:34,829
+então infraestrutura.
+
+33
+00:01:34,838 --> 00:01:37,638
+Então a gente tá falando que nós precisamos de profissionais
+
+34
+00:01:37,650 --> 00:01:39,939
+qualificados e infraestrutura.
+
+35
+00:01:40,808 --> 00:01:44,459
+Os profissionais podem ser contratados como funcionários diretos da empresa
+
+36
+00:01:44,469 --> 00:01:47,019
+ou uma empresa prestadora de serviço.
+
+37
+00:01:47,028 --> 00:01:50,760
+Pode ser contratada para construir e gerenciar a segurança da
+
+38
+00:01:50,769 --> 00:01:51,849
+organização em questão.
+
+39
+00:01:51,859 --> 00:01:55,620
+Diversos aspectos da tecnologia são desconhecidos pela gestão, por
+
+40
+00:01:55,629 --> 00:01:59,719
+isso se faz necessário o conhecimento qualificado dessa área,
+
+41
+00:01:59,730 --> 00:02:03,599
+para corretamente montar uma equipe de infraestrutura, de segurança.
+
+42
+00:02:03,609 --> 00:02:06,579
+Quero que vocês foquem em mim agora é o seguinte
+
+43
+00:02:06,588 --> 00:02:09,849
+quando a gente está falando, Insegurança da informação não
+
+44
+00:02:09,860 --> 00:02:12,588
+é somente aí o equipamento, né, O,
+
+45
+00:02:12,599 --> 00:02:13,389
+né.
+
+46
+00:02:13,399 --> 00:02:16,278
+Um aqueles equipamentos de segurança, você vai antivírus?
+
+47
+00:02:16,288 --> 00:02:19,449
+Não é isso? Nós precisamos de uma equipe qualificada.
+
+48
+00:02:19,460 --> 00:02:23,300
+Você precisa montar uma equipe muito bem qualificada tecnicamente.
+
+49
+00:02:23,308 --> 00:02:26,250
+Tá par parte do siso que eu falei lá né,
+
+50
+00:02:26,258 --> 00:02:28,808
+que é o é o responsável pela segurança e toda
+
+51
+00:02:28,819 --> 00:02:30,909
+sua equipe que ele vai liderar.
+
+52
+00:02:30,919 --> 00:02:34,550
+É fundamental que essa equipe seja muito bem qualificada sim.
+
+53
+00:02:35,159 --> 00:02:36,929
+Treinar constantemente, tá.
+
+54
+00:02:36,939 --> 00:02:39,449
+Não é só contratar uma pessoa e já colo colocar
+
+55
+00:02:39,460 --> 00:02:40,288
+ela pra trabalhar.
+
+56
+00:02:40,300 --> 00:02:42,490
+Mas, além disso, esse TRE tem que ser
+
+57
+00:02:42,500 --> 00:02:43,969
+um treinamento contínuo.
+
+58
+00:02:43,979 --> 00:02:46,449
+Porque a gente, nós estamos falando de tecnologia,
+
+59
+00:02:46,460 --> 00:02:48,729
+nós estamos falando de segurança, todo dia, tem
+
+60
+00:02:48,740 --> 00:02:50,449
+algo novo, Então todo dia, essa essa,
+
+61
+00:02:50,460 --> 00:02:52,770
+essa equipe tem que tá treinando, cê tá precisa
+
+62
+00:02:52,778 --> 00:02:55,899
+estar em eventos de segurança, eventos sobre o tema,
+
+63
+00:02:55,909 --> 00:02:57,270
+é fundamental.
+
+64
+00:02:57,278 --> 00:03:01,622
+Não adianta você trabalhar só equipamentos se você não trabalha.
+
+65
+00:03:01,632 --> 00:03:05,162
+As pessoas, precisamos entender, as pessoas ainda são
+
+66
+00:03:05,173 --> 00:03:06,203
+o centro de tudo.
+
+67
+00:03:06,211 --> 00:03:09,442
+As pessoas que irão comandar as máquinas, as pessoas
+
+68
+00:03:09,453 --> 00:03:13,782
+que configuram os elementos de segurança, nós precisamos de
+
+69
+00:03:13,792 --> 00:03:15,711
+pessoas qualificadas.
+
+70
+00:03:15,723 --> 00:03:20,461
+Seu investimento em qualificação de pessoas precisa ser, precisa
+
+71
+00:03:20,473 --> 00:03:23,483
+ser proporcional ao seu investimento de infraestrutura.
+
+72
+00:03:23,585 --> 00:03:25,716
+Tá! E isso é muito importanteàs vezes as
+
+73
+00:03:25,724 --> 00:03:28,656
+pessoas, algumas empresas pecam nisso, né? Focam
+
+74
+00:03:28,665 --> 00:03:31,835
+muito em compra de equipamento, de software e licenças,
+
+75
+00:03:31,844 --> 00:03:35,795
+esquecem de treinar a sua equipe tá e e mesmo
+
+76
+00:03:35,805 --> 00:03:37,885
+que seja uma equipe terceirizada, né? Que seja
+
+77
+00:03:37,895 --> 00:03:40,515
+que você contrate uma outra empresa você precisa por eh
+
+78
+00:03:40,526 --> 00:03:45,355
+cláusulas de qualificações constante dessa equipe? Isso é muito
+
+79
+00:03:45,365 --> 00:03:48,555
+importante, tá? É importantíssimo isso Quando a gente
+
+80
+00:03:48,564 --> 00:03:52,159
+tá falando também de oh a infraestrutura de segurança como
+
+81
+00:03:52,169 --> 00:03:54,800
+uma infraestrutura de segurança bem montada, o trabalho contínuo
+
+82
+00:03:54,808 --> 00:03:57,919
+de monitoramento e melhoria dos funcionários de segurança da informação
+
+83
+00:03:57,929 --> 00:04:00,080
+se torna mais fácil e rápido.
+
+84
+00:04:00,088 --> 00:04:01,719
+Tá, e aí? A gente pode ver alguns
+
+85
+00:04:01,729 --> 00:04:02,240
+elementos.
+
+86
+00:04:02,250 --> 00:04:04,020
+Vamos começar por um elemento Fire.
+
+87
+00:04:04,028 --> 00:04:07,210
+Acho que todo mundo já ouviu falar do Fire Fire.
+
+88
+00:04:07,219 --> 00:04:11,038
+É importantíssimo seu computador pessoal tem um o que que
+
+89
+00:04:11,050 --> 00:04:13,758
+é um dispositivo de segurança que controla o tráfico de
+
+90
+00:04:13,770 --> 00:04:17,879
+rede? Permitindo ou bloqueando o acesso a sistemas como
+
+91
+00:04:17,889 --> 00:04:21,649
+base de regras B pré definidas? Eles atuam como
+
+92
+00:04:21,660 --> 00:04:24,088
+uma barreira entre a rede interna e a externa,
+
+93
+00:04:24,100 --> 00:04:25,548
+fitando o tráfico malicioso.
+
+94
+00:04:25,559 --> 00:04:29,149
+Então tá é, é o, é uma um
+
+95
+00:04:29,160 --> 00:04:30,290
+nome literal.
+
+96
+00:04:30,298 --> 00:04:32,209
+Se a gente pegar aí no do inglês português,
+
+97
+00:04:32,220 --> 00:04:34,428
+é uma parede, né? Uma parede de fogo,
+
+98
+00:04:34,439 --> 00:04:37,028
+ou seja, é a, é uma proteção,
+
+99
+00:04:37,040 --> 00:04:39,928
+Tá da grande rede da rede da internet pra não
+
+100
+00:04:39,939 --> 00:04:42,509
+entrar no seu computador na sua rede, e ali
+
+101
+00:04:42,519 --> 00:04:45,790
+você coloca regras, regras antes pré definidas, ou
+
+102
+00:04:45,798 --> 00:04:49,420
+seja, olha esse tipo de de de acesso ou
+
+103
+00:04:49,428 --> 00:04:52,019
+tipo de site ou esse tipo de movimento não é
+
+104
+00:04:52,028 --> 00:04:55,278
+permitido na minha rede, então o Faro.
+
+105
+00:04:55,290 --> 00:04:57,819
+Tá um bom equipamento de Faro.
+
+106
+00:04:57,829 --> 00:04:58,798
+É importantíssimo.
+
+107
+00:04:58,809 --> 00:05:00,209
+Mas eu volto a dizer.
+
+108
+00:05:00,220 --> 00:05:02,858
+Não adianta só equipamento de Faro se você não tem
+
+109
+00:05:02,869 --> 00:05:04,129
+uma equipe qualificada.
+
+110
+00:05:04,139 --> 00:05:08,139
+Se você não tem regras pré-estabelecidas, precisamos ter equipes
+
+111
+00:05:08,149 --> 00:05:12,019
+qualificadas pra trabalhar nesse ne ne ne nessa solução,
+
+112
+00:05:12,028 --> 00:05:15,588
+né? Nessa tecnologia que é o Fire também ter
+
+113
+00:05:15,600 --> 00:05:18,129
+regras, bens, pré-estabelecidas.
+
+114
+00:05:18,139 --> 00:05:21,730
+Então não adianta somente investir no faro se você não
+
+115
+00:05:21,738 --> 00:05:24,738
+tem processos que onde vão estar as regras E também
+
+116
+00:05:24,750 --> 00:05:26,670
+você não qualifica o seu time, você precisa de
+
+117
+00:05:26,678 --> 00:05:28,910
+um time qualificado quando a gente tá falando de de
+
+118
+00:05:28,920 --> 00:05:29,608
+de equipamento.
+
+119
+00:05:29,619 --> 00:05:31,629
+Então o primeiro equipamento que a gente vai falar é
+
+120
+00:05:31,639 --> 00:05:33,759
+do nós, estamos falando que é do faro.
+
+121
+00:05:33,769 --> 00:05:38,910
+Faro é um equipamento de infraestrutura fundamental pra qualquer sistema
+
+122
+00:05:38,920 --> 00:05:43,910
+de segurança no nosso ambiente corporativo nos próximos, nos
+
+123
+00:05:43,920 --> 00:05:46,689
+próximos slides, na próxima aula a gente vai ver
+
+124
+00:05:46,699 --> 00:05:50,649
+outros tipos de equipamentos que contribuem para a segurança da
+
+125
+00:05:50,660 --> 00:05:52,889
+nossa informação, segurança da nossa rede, dentro do
+
+126
+00:05:52,899 --> 00:05:54,988
+nosso ambiente corporativo Até a próxima
+

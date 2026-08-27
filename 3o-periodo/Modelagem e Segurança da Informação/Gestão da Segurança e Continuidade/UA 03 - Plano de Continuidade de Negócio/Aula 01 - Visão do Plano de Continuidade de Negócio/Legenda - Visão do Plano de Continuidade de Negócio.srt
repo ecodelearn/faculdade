@@ -1,0 +1,848 @@
+1
+00:00:05,719 --> 00:00:08,929
+Olá! Pessoal! Tudo bom sejam bem-vindos! Essa
+
+2
+00:00:08,939 --> 00:00:11,009
+é uma aula que a gente vai continuar falando sobre
+
+3
+00:00:11,019 --> 00:00:12,890
+a nossa disciplina, que é a gestão de segurança
+
+4
+00:00:12,898 --> 00:00:13,948
+e continuidade.
+
+5
+00:00:13,960 --> 00:00:17,329
+O foco dessa aula de hoje é muito continuidade.
+
+6
+00:00:17,339 --> 00:00:20,129
+Nós vamos falar sobre planos de continuidade, como garantir
+
+7
+00:00:20,138 --> 00:00:22,059
+a continuidade do seu negócio? Tá bom.
+
+8
+00:00:22,068 --> 00:00:24,728
+Então é uma continuidade dessa jornada que nós estamos fazendo.
+
+9
+00:00:24,739 --> 00:00:24,850
+Aí.
+
+10
+00:00:24,859 --> 00:00:27,739
+Vamos lá, pro conteúdo, eh Então a primeira
+
+11
+00:00:27,750 --> 00:00:29,739
+coisa que nós vamos começar a olhar nessa aula de
+
+12
+00:00:29,750 --> 00:00:33,418
+hoje é definir como definir um plano de continuidade de
+
+13
+00:00:33,429 --> 00:00:33,918
+negócio.
+
+14
+00:00:33,929 --> 00:00:36,740
+É muito importante pra qualquer empresa, pra qualquer órgão.
+
+15
+00:00:36,750 --> 00:00:39,700
+Enfim, pra qualquer instituição, ter um plano de
+
+16
+00:00:39,709 --> 00:00:41,509
+continuidade, muitas empresas tá.
+
+17
+00:00:41,520 --> 00:00:46,500
+Muitas empresas mundialmente já foram eh destruídas, já foram
+
+18
+00:00:46,509 --> 00:00:47,329
+eliminadas.
+
+19
+00:00:47,340 --> 00:00:47,548
+Já.
+
+20
+00:00:47,560 --> 00:00:50,250
+Enfim, já levaramà falência por causa que não
+
+21
+00:00:50,259 --> 00:00:53,009
+ti não tinham um plano de continuidade, de negócio
+
+22
+00:00:53,020 --> 00:00:55,209
+bem estabelecido Ouàs vezes nem existia o plano de
+
+23
+00:00:55,219 --> 00:00:58,399
+continuidade, então isso é fundamental pra continuidade do seu
+
+24
+00:00:58,408 --> 00:00:58,770
+negócio.
+
+25
+00:00:58,779 --> 00:01:00,569
+Tá bom, vamos lá como que a gente consegue
+
+26
+00:01:00,579 --> 00:01:03,848
+trabalhar pra definir um plano de continuidade Primeiro a gente
+
+27
+00:01:03,859 --> 00:01:05,712
+tem que entender que o PC n, que é
+
+28
+00:01:05,721 --> 00:01:07,751
+o plano de continuar de negócio, é um processo
+
+29
+00:01:07,763 --> 00:01:09,192
+então vamos dar uma olhadinha aí oh, é um
+
+30
+00:01:09,203 --> 00:01:11,132
+processo que visa assegurar.
+
+31
+00:01:11,141 --> 00:01:13,873
+Tá que a empresa seja capaz de manter um nível
+
+32
+00:01:13,882 --> 00:01:17,813
+operacional adequado, mesmo após interrupções ou incidente de negócio.
+
+33
+00:01:17,822 --> 00:01:20,123
+Uma coisa é certa tá bom, a gente sempre
+
+34
+00:01:20,132 --> 00:01:24,313
+sempre, sempre precisa estar preparado pra interrupções e incidentes
+
+35
+00:01:24,322 --> 00:01:26,453
+do negócio é falsa.
+
+36
+00:01:26,525 --> 00:01:30,096
+Caso você já ouviu alguém falar que a nossa empresa
+
+37
+00:01:30,105 --> 00:01:32,855
+nunca vai ter nenhum incidente de negócio? Um incidente
+
+38
+00:01:32,864 --> 00:01:36,694
+de tecnologia, gente vai acontecer, não é?
+
+39
+00:01:36,706 --> 00:01:37,155
+Não é.
+
+40
+00:01:37,165 --> 00:01:40,015
+Se vai acontecer é quando e onde vai acontecer.
+
+41
+00:01:40,025 --> 00:01:43,254
+Então, a gente precisa estar bem preparado para que
+
+42
+00:01:43,265 --> 00:01:46,655
+quando ocorra essas interrupções, entes a gente tem um
+
+43
+00:01:46,665 --> 00:01:49,650
+plano de continuidade de negócio, Tá Isso Significa que,
+
+44
+00:01:49,659 --> 00:01:53,040
+na prática, se ocorre eventos como invasão de hackers,
+
+45
+00:01:53,049 --> 00:01:56,129
+né? Eh que resulte em roubos de dados Uma
+
+46
+00:01:56,138 --> 00:01:58,349
+empresa, uma empresa com a com PC, ou
+
+47
+00:01:58,359 --> 00:02:00,290
+seja, com com um plano de continuar em negócio
+
+48
+00:02:00,299 --> 00:02:01,209
+bem elaborado.
+
+49
+00:02:01,219 --> 00:02:04,930
+Tem a capacidade de continuar operando de maneira satisfatória até
+
+50
+00:02:04,939 --> 00:02:07,308
+que a situação seja normalizada.
+
+51
+00:02:07,394 --> 00:02:09,534
+O plano de quantidade de negócio é que, mesmo
+
+52
+00:02:09,544 --> 00:02:12,925
+que ocorra algum algum ataque de hacker, ou ou
+
+53
+00:02:12,933 --> 00:02:16,054
+com roubo de dados ou intervenção em algum sistema com
+
+54
+00:02:16,064 --> 00:02:17,524
+o plano de continuar de negócio.
+
+55
+00:02:17,534 --> 00:02:20,925
+A ideia é manter o mínimo funcionando.
+
+56
+00:02:20,933 --> 00:02:23,683
+Tá pra garantir o mínimo de serviço para os nossos
+
+57
+00:02:23,694 --> 00:02:24,254
+clientes.
+
+58
+00:02:24,264 --> 00:02:25,604
+Isso é fundamental.
+
+59
+00:02:25,615 --> 00:02:26,625
+Tá bom? Eh.
+
+60
+00:02:26,633 --> 00:02:29,564
+Durante tais eventos, é comum que que equipamentos,
+
+61
+00:02:29,574 --> 00:02:34,284
+instalações, sistema de informação, pessoal e informações fundamentais
+
+62
+00:02:34,294 --> 00:02:35,824
+se torna inacessíveis.
+
+63
+00:02:36,308 --> 00:02:39,080
+Pode se encarar o PC n como um mecanismo de
+
+64
+00:02:39,088 --> 00:02:41,118
+prevenção contra desastres.
+
+65
+00:02:41,129 --> 00:02:44,479
+Isso significa que, quando ocorrem situações críticas, a
+
+66
+00:02:44,490 --> 00:02:48,360
+empresa está preparada para minimizar os impactos dessas crises em
+
+67
+00:02:48,368 --> 00:02:50,960
+suas operações, uma vez que conta com um processo
+
+68
+00:02:50,969 --> 00:02:55,399
+alternativo em caso de indisponibilidade dos processos atuais é um
+
+69
+00:02:55,409 --> 00:02:57,758
+plano B O que que é isso? Um plano
+
+70
+00:02:57,770 --> 00:02:59,439
+B? Quando a gente tá falando quando a gente
+
+71
+00:02:59,449 --> 00:03:03,860
+tiver algum incidente, tá algum desastre causado por ataques
+
+72
+00:03:03,868 --> 00:03:05,960
+hacker até,às vezes por desastres naturais que pode
+
+73
+00:03:05,969 --> 00:03:08,118
+acontecer, né? Dentro do seu data center,
+
+74
+00:03:08,129 --> 00:03:10,879
+alguma coisa a gente precisa ter um plano de continuidade
+
+75
+00:03:10,889 --> 00:03:14,199
+pra garantir que o mínimo necessário seja entregue pros nossos
+
+76
+00:03:14,210 --> 00:03:14,520
+clientes.
+
+77
+00:03:14,528 --> 00:03:16,679
+Pros nossos sistemas, isso é fundamental.
+
+78
+00:03:16,689 --> 00:03:18,740
+Isso garante a A, A, a, a
+
+79
+00:03:18,750 --> 00:03:22,625
+utilização dos serviços, garante a disponibilidade dos serviços.
+
+80
+00:03:22,633 --> 00:03:24,344
+É fundamental que você entenda isso.
+
+81
+00:03:24,354 --> 00:03:26,304
+Tá bom, não garan Esse plano não é um
+
+82
+00:03:26,314 --> 00:03:29,625
+plano que garante que não vai ter ataque atenção nesse
+
+83
+00:03:29,633 --> 00:03:32,104
+ponto não vai te garantir que não existe ataque ou
+
+84
+00:03:32,115 --> 00:03:34,183
+que vai o que não vão ocorrer? Incidente.
+
+85
+00:03:34,194 --> 00:03:36,985
+Esse plano vai te garantir que você tem um plano
+
+86
+00:03:36,993 --> 00:03:40,963
+B, ou seja, uma alternativa para entregar os
+
+87
+00:03:40,974 --> 00:03:44,883
+seus serviços quando ocorrer algum tipo de incidente, continuando
+
+88
+00:03:46,469 --> 00:03:48,819
+a gestão de de continuidade de negócio, por sua
+
+89
+00:03:48,830 --> 00:03:51,919
+vez, nada mais é do que o termo que
+
+90
+00:03:51,929 --> 00:03:54,240
+é relacionado diretamente com o plano de quantidade de negócios.
+
+91
+00:03:54,250 --> 00:03:56,449
+Ou seja, quando a gente tá falando de gestão,
+
+92
+00:03:56,460 --> 00:03:57,740
+de quantidade de negócio é a é, é,
+
+93
+00:03:57,750 --> 00:04:01,679
+é a gestão, é a disciplina que onde dentro
+
+94
+00:04:01,689 --> 00:04:04,319
+dessa disciplina a gente vai ter um plano de continuidade
+
+95
+00:04:04,330 --> 00:04:07,679
+de negócio, refere-se ao conjunto de ações e estratégias
+
+96
+00:04:07,689 --> 00:04:11,580
+de prevenção e planejamento de ante de incidentes ou ocorrências
+
+97
+00:04:11,588 --> 00:04:14,610
+que podem impactar as operações da sua empresa.
+
+98
+00:04:14,618 --> 00:04:17,500
+Tá neste contexto, o plano de quantidade de negócio
+
+99
+00:04:17,509 --> 00:04:20,980
+engloba uma série de ações e procedimentos que se encaixe
+
+100
+00:04:20,988 --> 00:04:22,798
+no processo de crise.
+
+101
+00:04:22,809 --> 00:04:25,178
+Ou seja, nós precisamos que esse plano de continuidade
+
+102
+00:04:25,189 --> 00:04:29,069
+esteja bem vinculado ao gerenciamento de crise, ao processo
+
+103
+00:04:29,079 --> 00:04:29,619
+decide.
+
+104
+00:04:29,629 --> 00:04:30,920
+Tá, portanto.
+
+105
+00:04:30,928 --> 00:04:33,199
+É de extrema importância que as estratégias e os planos
+
+106
+00:04:33,209 --> 00:04:38,079
+táticos sejam sejam desenvolvidos de maneira preventiva? Lógico,
+
+107
+00:04:38,088 --> 00:04:38,540
+gente.
+
+108
+00:04:38,548 --> 00:04:42,100
+Quando oco, ocorreu um acidente, correu um desastre.
+
+109
+00:04:42,108 --> 00:04:43,920
+Não é hora de planejar nada, É hora de
+
+110
+00:04:43,928 --> 00:04:44,569
+executar.
+
+111
+00:04:44,579 --> 00:04:46,358
+Você entende? Pude fazer plano B.
+
+112
+00:04:46,369 --> 00:04:48,959
+Se você não fez isso de forma prévia, agora
+
+113
+00:04:48,970 --> 00:04:50,000
+não adianta mais a hora.
+
+114
+00:04:50,009 --> 00:04:52,199
+Agora é subir o ambiente de forma mais rápida possível.
+
+115
+00:04:52,209 --> 00:04:57,869
+Então, todo plano de continuidade precisa ser tratado no
+
+116
+00:04:57,879 --> 00:05:00,238
+início do projeto, no início do processo.
+
+117
+00:05:00,250 --> 00:05:02,000
+Tá? Ah, sendo assim.
+
+118
+00:05:02,009 --> 00:05:05,238
+Quando ocorre um acidente, a empresa está devidamente preparada
+
+119
+00:05:05,250 --> 00:05:08,059
+para garantir a continuidade dos seus serviços essenciais.
+
+120
+00:05:08,439 --> 00:05:10,488
+Aí a gente tá falando tá como que a gente
+
+121
+00:05:10,500 --> 00:05:12,528
+consegue definir? Isso tá primeiro, a gente tem
+
+122
+00:05:12,540 --> 00:05:13,439
+que definir o objetivo.
+
+123
+00:05:13,449 --> 00:05:15,608
+Qual é o objetivo desse plano? Pra é manter
+
+124
+00:05:15,619 --> 00:05:18,009
+os serviços básicos funcionando aí.
+
+125
+00:05:18,019 --> 00:05:20,449
+Tem algumas coisas, por exemplo, assegurar a continuidade
+
+126
+00:05:20,459 --> 00:05:21,108
+de operação.
+
+127
+00:05:21,119 --> 00:05:24,730
+O objetivo principal do Plano de Continuidade de negócios é
+
+128
+00:05:24,738 --> 00:05:28,410
+garantir que as operações comerciais da empresa continuem a funcionar
+
+129
+00:05:28,420 --> 00:05:32,088
+mesmo em casos de disponibilidade prolongadas de ativos e recursos
+
+130
+00:05:32,100 --> 00:05:32,629
+críticos.
+
+131
+00:05:32,639 --> 00:05:35,970
+Esse é o objetivo principal, okay, aí vem
+
+132
+00:05:35,980 --> 00:05:36,569
+outra outro.
+
+133
+00:05:36,579 --> 00:05:38,769
+Outro ponto que tem que ter objetivo de planejamento,
+
+134
+00:05:38,778 --> 00:05:42,319
+de continuidade a recuperação pós incidente de segurança.
+
+135
+00:05:42,329 --> 00:05:45,509
+Tá o plano de continuidade de negócios também visa segurar
+
+136
+00:05:45,519 --> 00:05:48,369
+que incidentes críticos de uma organização possam ser restaurados.
+
+137
+00:05:48,379 --> 00:05:54,399
+Há condições operacional regular e um prazo aceitável tá após
+
+138
+00:05:54,410 --> 00:05:56,129
+a ocorrência de incidentes de segurança.
+
+139
+00:05:56,139 --> 00:05:59,420
+Isso permite a retomada das atividades e a e a
+
+140
+00:05:59,428 --> 00:06:03,278
+proteção dos dos interesses da imagem e da reputação da
+
+141
+00:06:03,290 --> 00:06:03,928
+organização.
+
+142
+00:06:03,939 --> 00:06:06,579
+Então, olha só a gente precisa nesse plano precisa
+
+143
+00:06:06,588 --> 00:06:09,009
+ter um plano de recuperação de incidentes de segurança,
+
+144
+00:06:09,074 --> 00:06:12,504
+que e que oh isso aqui é muito fundamental você
+
+145
+00:06:12,514 --> 00:06:16,165
+entender que seja um plano aceitável, porque, além
+
+146
+00:06:16,173 --> 00:06:19,625
+de prejuízos, eh financeiros, tem o prejuízo da
+
+147
+00:06:19,634 --> 00:06:20,923
+imagem da empresa.
+
+148
+00:06:20,934 --> 00:06:22,644
+Imagine um site de uma grande corporação.
+
+149
+00:06:22,653 --> 00:06:24,684
+Está indisponível.
+
+150
+00:06:24,694 --> 00:06:27,324
+A imagem da empresa vai ser, né? Vai
+
+151
+00:06:27,334 --> 00:06:29,285
+ser questionada! Então isso é o prazo.
+
+152
+00:06:29,295 --> 00:06:30,125
+Tem que ser aceitável.
+
+153
+00:06:30,134 --> 00:06:32,524
+O prazo Tem que ser acordado com a direção também.
+
+154
+00:06:32,535 --> 00:06:33,923
+Qual o que que é um prazo? Aceitável,
+
+155
+00:06:33,934 --> 00:06:36,730
+né? E aí temos que também a elencar algumas
+
+156
+00:06:36,738 --> 00:06:38,369
+coisas, por exemplo, nesse plano de continuar de
+
+157
+00:06:38,379 --> 00:06:41,048
+negócio, a gente precisa ter identificar os riscos e
+
+158
+00:06:41,059 --> 00:06:43,290
+ameaças, Tá quais são os riscos e ameaças que
+
+159
+00:06:43,298 --> 00:06:47,028
+pode afetar as nossas operações empresariais? Tá identificar e
+
+160
+00:06:47,040 --> 00:06:49,329
+entender os as possíveis ameaças.
+
+161
+00:06:49,338 --> 00:06:51,790
+E o primeiro passo para um planejamento eficaz.
+
+162
+00:06:52,259 --> 00:06:54,309
+Depois disso, a gente tem que identificar quais são
+
+163
+00:06:54,319 --> 00:06:56,309
+os nossos processos críticos.
+
+164
+00:06:56,319 --> 00:06:58,829
+Tá? Quais são os processos críticos pro nosso negócio?
+
+165
+00:06:58,838 --> 00:07:01,269
+São perguntas que nós precisamos ter respostas.
+
+166
+00:07:01,278 --> 00:07:03,649
+Então, quando a gente começar a elaborar um documento,
+
+167
+00:07:03,660 --> 00:07:07,189
+esse tipo de pergunta é fundamental ser feito porque as
+
+168
+00:07:07,199 --> 00:07:09,829
+respostas vão começar a ser questionadas.
+
+169
+00:07:09,838 --> 00:07:12,750
+As respostas vão ser elaboradas para se colocar dentro de
+
+170
+00:07:12,759 --> 00:07:15,088
+um plano de quantidade de negócio, né? É
+
+171
+00:07:15,100 --> 00:07:18,709
+importante mapear e identificar os processos que são essenciais para
+
+172
+00:07:18,720 --> 00:07:20,629
+a continuação das operações.
+
+173
+00:07:20,639 --> 00:07:23,350
+Aí vamos lá recursos necessários pra recuperação.
+
+174
+00:07:23,358 --> 00:07:25,470
+Quando a gente tá falando que criou um plano e
+
+175
+00:07:25,480 --> 00:07:27,528
+lá tem um processo de recuperação, quais são os
+
+176
+00:07:27,540 --> 00:07:32,160
+recursos necessários, Infraestrutura, recursos humanos,às vezes
+
+177
+00:07:32,170 --> 00:07:33,449
+recursos orçamentários.
+
+178
+00:07:33,459 --> 00:07:35,910
+Então a gente precisa identificar quais são os recursos necessários,
+
+179
+00:07:36,290 --> 00:07:38,540
+estratégias de recuperação adequada.
+
+180
+00:07:38,548 --> 00:07:40,178
+Tá bom, Quando a gente desenha, tem que
+
+181
+00:07:40,189 --> 00:07:42,559
+ter uma estratégia que que é isso a natureza e
+
+182
+00:07:42,569 --> 00:07:46,879
+a escala da atividade econômica da organização Influenciem influenciam a
+
+183
+00:07:46,889 --> 00:07:48,559
+estratégia da recuperação adequada.
+
+184
+00:07:48,569 --> 00:07:50,819
+Ou seja, uma uma área.
+
+185
+00:07:50,829 --> 00:07:53,319
+Uma T i, Uma tecnologia do agro é diferente
+
+186
+00:07:53,329 --> 00:07:55,178
+da uma tecnologia da Duma fim técnica.
+
+187
+00:07:55,189 --> 00:07:58,798
+É diferente de uma tecnologia de uma empresa de Telecom.
+
+188
+00:07:58,809 --> 00:08:00,100
+São coisas diferentes.
+
+189
+00:08:00,108 --> 00:08:02,858
+Não tem como a gente criar um processo único falando
+
+190
+00:08:02,869 --> 00:08:03,319
+sobre isso.
+
+191
+00:08:03,548 --> 00:08:08,920
+Cada organização pode ter suas especifica especificidades e, portanto,
+
+192
+00:08:08,928 --> 00:08:12,899
+a adequação do plano de negócio é de continuidade,
+
+193
+00:08:12,910 --> 00:08:16,358
+é essencial pra atender as necessidades individuais.
+
+194
+00:08:16,369 --> 00:08:19,238
+Não tem uma receita de bolo, tá? Vai
+
+195
+00:08:19,250 --> 00:08:20,980
+depender muito do seu negócio.
+
+196
+00:08:22,079 --> 00:08:23,889
+E aí, quando a gente fala de de pra
+
+197
+00:08:23,899 --> 00:08:26,048
+finalizar essa aula, quando a gente tá falando de,
+
+198
+00:08:26,059 --> 00:08:27,410
+de, de plano, de continuar de negócio,
+
+199
+00:08:27,420 --> 00:08:30,850
+se a sua empresa não tem você a sua empresa,
+
+200
+00:08:30,858 --> 00:08:33,969
+está correndo um grande risco de financeiro de imagem.
+
+201
+00:08:33,979 --> 00:08:35,178
+Porque a partir do momento em que a gente tiver
+
+202
+00:08:35,190 --> 00:08:38,000
+um incidente e não tiver um plano, tá que
+
+203
+00:08:38,009 --> 00:08:40,950
+que retorne o serviço de forma rápida, numa de
+
+204
+00:08:40,960 --> 00:08:43,479
+em um prazo aceitável eh.
+
+205
+00:08:43,489 --> 00:08:46,960
+É perigoso você ter um prejuízo gigantesco na sua imagem,
+
+206
+00:08:46,969 --> 00:08:49,719
+um prejuízo gigantesco eh financeiro.
+
+207
+00:08:49,729 --> 00:08:51,038
+O que que o prazo, o que que o
+
+208
+00:08:51,048 --> 00:08:52,960
+prazo aceitável, como eu falei, é um prazo
+
+209
+00:08:52,969 --> 00:08:56,190
+que você vai alinhar com a auto direção da organização,
+
+210
+00:08:56,200 --> 00:09:00,639
+Então é fundamental ter um plano de continuidade de negócio.
+
+211
+00:09:00,649 --> 00:09:03,090
+Tá bom, Muito obrigado e nos vemos na próxima
+
+212
+00:09:03,099 --> 00:09:03,460
+aula
+

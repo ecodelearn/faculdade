@@ -1,0 +1,816 @@
+1
+00:00:05,860 --> 00:00:07,639
+Olá, aluno seja muito bemvindo.
+
+2
+00:00:07,650 --> 00:00:10,589
+Sou professor Fabrício Melo, Estamos tratando aqui o tema
+
+3
+00:00:10,599 --> 00:00:14,390
+Modelos e protocolos e vamos entrar em qual parte modelos
+
+4
+00:00:14,398 --> 00:00:19,030
+e protocolos nos modelos de referência, bem como foi
+
+5
+00:00:19,039 --> 00:00:19,629
+falado.
+
+6
+00:00:19,638 --> 00:00:24,190
+Nós precisamos em uma rede ter um conjunto de regras
+
+7
+00:00:24,199 --> 00:00:27,908
+e convenções pra padronizar a comunicação da rede.
+
+8
+00:00:27,920 --> 00:00:31,949
+Você concorda sem esse conjunto de regras e convenções?
+
+9
+00:00:31,958 --> 00:00:34,969
+Nós não vamos conseguir aí nos comunicar, porque nós
+
+10
+00:00:34,978 --> 00:00:37,109
+temos sistemas distintos na rede.
+
+11
+00:00:37,118 --> 00:00:40,740
+Esse conjunto de regras e convenções nós conhecemos como os
+
+12
+00:00:40,750 --> 00:00:42,548
+protocolos da rede.
+
+13
+00:00:42,560 --> 00:00:45,310
+Então, sem protocolos, não tem como a gente
+
+14
+00:00:45,319 --> 00:00:46,548
+fazer comunicação.
+
+15
+00:00:46,560 --> 00:00:50,408
+Só que pra esses protocolos poderem ser organizados em cima
+
+16
+00:00:50,418 --> 00:00:53,469
+dos equipamentos, em cima de meios de transmissão.
+
+17
+00:00:53,478 --> 00:00:56,348
+Foi preciso criar o que é aluno, os modelos
+
+18
+00:00:56,359 --> 00:00:59,240
+de referência, porque você precisa se referenciar.
+
+19
+00:00:59,250 --> 00:01:04,308
+Você tem diversos fabricantes, você tem diversos engenheiros que
+
+20
+00:01:04,319 --> 00:01:06,790
+podem pensar diferente, mas você tem que ter um
+
+21
+00:01:06,799 --> 00:01:09,959
+modelo pra construção, você tem que seguir um modelo
+
+22
+00:01:09,969 --> 00:01:10,750
+de referência.
+
+23
+00:01:10,760 --> 00:01:14,540
+Você não pode criar um modelo próprio e simplesmente sair
+
+24
+00:01:14,549 --> 00:01:17,980
+totalmente, né? Daquela ideia, então foram criados
+
+25
+00:01:17,989 --> 00:01:21,849
+oh pra servir de base pra definição de aspectos relacionados
+
+26
+00:01:21,859 --> 00:01:22,730
+à comunicação.
+
+27
+00:01:23,028 --> 00:01:25,000
+Podemos dizer que o modelo de referência ele é o
+
+28
+00:01:25,010 --> 00:01:28,599
+que ele é uma representação, tá vendo oh conceitual
+
+29
+00:01:28,609 --> 00:01:31,760
+de toda a operação da rede que traz algumas vantagens.
+
+30
+00:01:31,769 --> 00:01:33,599
+Oh lá, oh, vai auxiliar no projeto dos
+
+31
+00:01:33,609 --> 00:01:38,180
+protocolos que vai descrever a função de cada camada porque
+
+32
+00:01:38,189 --> 00:01:40,698
+você vai ter, os modelos são referen referenciados em
+
+33
+00:01:40,709 --> 00:01:41,439
+camadas.
+
+34
+00:01:41,448 --> 00:01:45,379
+Então quando você vai criar um protocolo de comunicação,
+
+35
+00:01:45,444 --> 00:01:49,745
+você vai conseguir ser auxiliado, botando aquele protocolo em
+
+36
+00:01:49,754 --> 00:01:50,855
+uma determinada camada.
+
+37
+00:01:50,864 --> 00:01:55,084
+Então tudo que for criado tem que ser seguido esse
+
+38
+00:01:55,094 --> 00:01:57,573
+modelo de referência, né? Então é uma coisa
+
+39
+00:01:57,584 --> 00:02:00,644
+pra organização, tá vendo Oh, vai garantir a
+
+40
+00:02:00,653 --> 00:02:05,754
+interoperabilidade a concorrência porque oh produtos diferentes fornecedores tá vendo
+
+41
+00:02:05,763 --> 00:02:08,258
+oh podem trabalhar juntos É o que eu falei Cê
+
+42
+00:02:08,268 --> 00:02:12,338
+tem duzentos fabricantes, determinado equipamento que vai pra rede
+
+43
+00:02:12,348 --> 00:02:16,199
+já pensou Se cada fabricante adotasse um padrão, não
+
+44
+00:02:16,207 --> 00:02:20,298
+ia funcionar, então todos esses fabricantes vão adotar esse
+
+45
+00:02:20,308 --> 00:02:23,969
+modelo okay impede oh! Que alterações de tecnologia é
+
+46
+00:02:23,979 --> 00:02:27,250
+a camada vão afetar as camadas adjacentes que você vai
+
+47
+00:02:27,258 --> 00:02:29,889
+ter esse modelo, essa padronização em camadas, então
+
+48
+00:02:29,899 --> 00:02:33,689
+se fizer alguma alteração, não vai impedir de alterar
+
+49
+00:02:33,699 --> 00:02:35,800
+a ida e vinda, por exemplo, tá e
+
+50
+00:02:35,808 --> 00:02:39,110
+fornecer uma linguagem, o que oh comum? Pra
+
+51
+00:02:39,118 --> 00:02:42,308
+quê? Pra descrever funções e capacidades da rede,
+
+52
+00:02:42,319 --> 00:02:45,409
+então tudo aqui se você resumir tem a ver com
+
+53
+00:02:45,419 --> 00:02:48,349
+a padronização e o modelo que a gente usa como
+
+54
+00:02:48,360 --> 00:02:53,149
+referência tá é o famoso aí modelo OSE que vem
+
+55
+00:02:53,159 --> 00:02:56,838
+da ISO, que é um modelo aluno que aplicou
+
+56
+00:02:56,849 --> 00:03:02,179
+sete camadas na sua distribuição que você tem a famosa
+
+57
+00:03:02,189 --> 00:03:06,338
+camada física que é a camada um enlace, rede,
+
+58
+00:03:06,349 --> 00:03:10,258
+transporte, sessão, apresentação e aplicação.
+
+59
+00:03:10,270 --> 00:03:16,574
+Cada camada dessa um assunto é responsável por uma parte
+
+60
+00:03:16,585 --> 00:03:19,264
+da ida e vinda dos dados que nós trocamos na
+
+61
+00:03:19,274 --> 00:03:22,224
+rede, então, quando um um um uma empresa
+
+62
+00:03:22,235 --> 00:03:26,264
+ou um um engenheiro vai desenvolver algo, ele tem
+
+63
+00:03:26,274 --> 00:03:29,585
+que seguir aí esse modelo, essas camadas Tá isso
+
+64
+00:03:29,594 --> 00:03:32,778
+aí, você vai ter que sem prestar muita atenção
+
+65
+00:03:32,788 --> 00:03:35,419
+que isso vai ser muito exigido durante o seu curso.
+
+66
+00:03:35,429 --> 00:03:38,699
+Tá, eu sempre lembro oh de baixo pra cima
+
+67
+00:03:38,710 --> 00:03:42,338
+do Ferr A, A, o modelo aí né?
+
+68
+00:03:42,349 --> 00:03:46,258
+Chamado OSE Okay, esse modelo o ele começa oh
+
+69
+00:03:46,270 --> 00:03:50,139
+com a camada física, A camada física aluno descreve
+
+70
+00:03:50,149 --> 00:03:54,538
+tá vendo as características mecânicas, elétricas, alguns equipamentos
+
+71
+00:03:54,550 --> 00:03:55,278
+de rede.
+
+72
+00:03:55,550 --> 00:03:57,838
+É uma camada que opera que eu que eu gosto
+
+73
+00:03:57,849 --> 00:04:01,599
+de falar, do cru, dos bits parte elétrica,
+
+74
+00:04:01,610 --> 00:04:05,278
+então geralmente essa camada não entende muito bem dos dados
+
+75
+00:04:05,288 --> 00:04:07,860
+ainda né? É aquela parte mais cru ali que
+
+76
+00:04:07,868 --> 00:04:09,118
+vai levar a eletricidade.
+
+77
+00:04:09,129 --> 00:04:12,838
+Os bits acima dela tem a camada de enlace Olha
+
+78
+00:04:12,849 --> 00:04:15,080
+o nome enlace não tem a ver com o casamento,
+
+79
+00:04:15,088 --> 00:04:17,720
+então ela vai descrever o que oh os métodos para
+
+80
+00:04:17,730 --> 00:04:21,439
+troca dos quadros em dispositivos em uma mídia comum.
+
+81
+00:04:21,449 --> 00:04:24,649
+Como é que os dispositivos vão conseguir fazer uma troca
+
+82
+00:04:24,660 --> 00:04:28,100
+de dados? Esse enlace tá logo depois subindo pra
+
+83
+00:04:28,108 --> 00:04:29,079
+camada de rede.
+
+84
+00:04:29,088 --> 00:04:32,879
+Essa camada vai descrever Oh a troca dos dados entre
+
+85
+00:04:32,889 --> 00:04:35,220
+as redes tá vendo oh! Com essa camada você
+
+86
+00:04:35,230 --> 00:04:39,149
+consegue fazer a comutação dos pacotes? Lembra do roteamento?
+
+87
+00:04:39,160 --> 00:04:41,389
+O roteador? Como é que ele vai rotear os
+
+88
+00:04:41,399 --> 00:04:44,069
+pacotes? Por exemplo, depois subimos pra camada de
+
+89
+00:04:44,079 --> 00:04:44,910
+transporte.
+
+90
+00:04:44,920 --> 00:04:49,108
+Essa é a famosa camada responsável pelo controle da comunicação
+
+91
+00:04:49,119 --> 00:04:52,149
+fim a fim, ou seja, ele que vai
+
+92
+00:04:52,160 --> 00:04:55,829
+segmentar ele que vai transferir e remontar os dados.
+
+93
+00:04:55,838 --> 00:04:59,309
+E olha que interessante você tem oh a multiplexação de
+
+94
+00:04:59,319 --> 00:05:02,149
+serviço o controle de fluxo, por exemplo aí da
+
+95
+00:05:02,160 --> 00:05:04,949
+sua rede por que? Que seria uma multiplexação você
+
+96
+00:05:04,959 --> 00:05:10,939
+ter dispositivos conseguindo trocar informações no mesmo canal de comunicação?
+
+97
+00:05:10,949 --> 00:05:14,119
+Tá depois subimos pra camada de sessão que que essa
+
+98
+00:05:14,129 --> 00:05:17,899
+camada faz ela vai fornecer o serviço pra camada de
+
+99
+00:05:17,910 --> 00:05:20,600
+cima organizar o diálogo.
+
+100
+00:05:20,608 --> 00:05:23,338
+Então ela, que vai ser a responsável por estabelecer
+
+101
+00:05:23,350 --> 00:05:26,238
+a sessão, onde a camada de cima que é
+
+102
+00:05:26,250 --> 00:05:30,220
+a camada seis, vai fazer o quê A codificação
+
+103
+00:05:30,230 --> 00:05:34,000
+dos dados oh essa camada que trabalha por exemplo com
+
+104
+00:05:34,009 --> 00:05:38,858
+a criptografia, ela que consegue codificar os dados que
+
+105
+00:05:38,869 --> 00:05:43,139
+estão seguindo na rede, porque até então um dado
+
+106
+00:05:43,149 --> 00:05:46,809
+pra ser visto por um usuário, ele não conseguiria,
+
+107
+00:05:46,819 --> 00:05:50,738
+eh chegar a uma tela de maneira ali visual lida
+
+108
+00:05:50,750 --> 00:05:54,619
+se a camada de apresentação não fazer essa codificação e
+
+109
+00:05:54,629 --> 00:05:56,358
+a última camada que a gente fala que é a
+
+110
+00:05:56,369 --> 00:05:59,500
+camada mais perto ali do usuário é a camada de
+
+111
+00:05:59,509 --> 00:06:02,678
+aplicação que geralmente é a camada que abrange os softwares.
+
+112
+00:06:02,689 --> 00:06:05,480
+Tá vendo oh ela que vai definir como base para
+
+113
+00:06:05,488 --> 00:06:08,838
+os protocolos usados na comunicação dos processos.
+
+114
+00:06:08,850 --> 00:06:11,358
+Os protocolos nós usamos nos softwares, por exemplo,
+
+115
+00:06:11,369 --> 00:06:14,519
+o protocolo dos navegadores h t P h t t
+
+116
+00:06:14,528 --> 00:06:18,160
+PS os protocolos de e-mail como o s n t
+
+117
+00:06:18,170 --> 00:06:20,660
+p pra enviar a pop mapp pra receber que a
+
+118
+00:06:20,670 --> 00:06:24,819
+gente vai estudar estão na camada de aplicação, por
+
+119
+00:06:24,829 --> 00:06:27,278
+isso que a aplicação é a camada mais voltada pra
+
+120
+00:06:27,290 --> 00:06:30,519
+parte do software tá, então é muito importante você
+
+121
+00:06:30,528 --> 00:06:34,160
+entender essas camadas beleza O outro modelo que nós temos
+
+122
+00:06:34,170 --> 00:06:36,579
+de referência aluno é o modelo TC p i p
+
+123
+00:06:37,170 --> 00:06:40,309
+modelo TC PP é o nome dado ao principal conjunto
+
+124
+00:06:40,319 --> 00:06:43,019
+de protocolos como a gente viu lembra que pra você
+
+125
+00:06:43,028 --> 00:06:46,699
+ter uma comunicação padronizada, você tem que ter protocolos.
+
+126
+00:06:46,709 --> 00:06:49,338
+Os protocolos padronizam, né? A comunicação da rede
+
+127
+00:06:49,350 --> 00:06:53,338
+e o principal conjunto de protocolos que padroniza toda essa
+
+128
+00:06:53,350 --> 00:06:56,689
+comunicação é chamado de TC p i p Então o
+
+129
+00:06:56,699 --> 00:07:00,329
+pessoal que desenvolveu o TC P i p também padronizou
+
+130
+00:07:00,338 --> 00:07:03,209
+o estudo da rede, só que de maneira mais
+
+131
+00:07:03,220 --> 00:07:06,290
+simples porque padronizou em quatro camadas.
+
+132
+00:07:06,298 --> 00:07:08,410
+Tá vendo oh é o acessoà rede Cê pode
+
+133
+00:07:08,420 --> 00:07:11,569
+chamar só de rede é a camada de internet,
+
+134
+00:07:11,579 --> 00:07:14,588
+é a camada de transporte e a última camada de
+
+135
+00:07:14,600 --> 00:07:17,889
+aplicação eu chamo de Rita quando eu subo aqui de
+
+136
+00:07:17,899 --> 00:07:21,329
+baixo pra cima cê vai entender Rita e o sete
+
+137
+00:07:21,338 --> 00:07:24,548
+o o, né É o tá vendo oh essas
+
+138
+00:07:24,559 --> 00:07:27,949
+camadas, geralmente o que a camada do OSE as
+
+139
+00:07:27,959 --> 00:07:30,670
+camadas do ose faz que a c p b também
+
+140
+00:07:30,678 --> 00:07:34,269
+vai fazer, só que obviamente com nomes, ou
+
+141
+00:07:34,278 --> 00:07:37,480
+abrangendo mais de uma do OSE Olha só a camada
+
+142
+00:07:37,488 --> 00:07:39,790
+de rede OH abrange a um e a dois do
+
+143
+00:07:39,798 --> 00:07:42,569
+O, a física e de lá a camada de
+
+144
+00:07:42,579 --> 00:07:46,709
+internet vai estar relacionada diretamenteà camada três do modelo
+
+145
+00:07:46,720 --> 00:07:49,548
+OSE Camada de rede Quando você fala na camada de
+
+146
+00:07:49,559 --> 00:07:53,720
+transporte, ela abrange quem a quatro também de transporte.
+
+147
+00:07:53,730 --> 00:07:56,079
+E quando você fala na aplicação do TC p i
+
+148
+00:07:56,088 --> 00:07:59,238
+p, ela vai abranger quem a camada cinco seis
+
+149
+00:07:59,250 --> 00:08:02,838
+e sete modelo o então você tem uma comparação entre
+
+150
+00:08:02,850 --> 00:08:05,798
+os modelos aí tá vendo aqui oh lá essas duas
+
+151
+00:08:05,809 --> 00:08:10,040
+camadas manda aqui pro TC p i p Oh camada
+
+152
+00:08:10,048 --> 00:08:14,660
+de rede manda por internet, transporte, pro transporte
+
+153
+00:08:14,949 --> 00:08:15,959
+e as três aqui.
+
+154
+00:08:15,970 --> 00:08:19,649
+A aplicação, apresentação e sessão vamos comunicar com a
+
+155
+00:08:19,660 --> 00:08:21,199
+de aplicação do modelo TC P I p.
+
+156
+00:08:21,209 --> 00:08:24,189
+Ou seja, é um modelo mais compactado, mas
+
+157
+00:08:24,199 --> 00:08:28,358
+na realidade estudamos aí os mesmos projetos, os mesmos
+
+158
+00:08:28,369 --> 00:08:31,720
+protocolos em ambas, né, Os modelos de referência
+
+159
+00:08:31,730 --> 00:08:34,000
+tá então isso é uma base que você tem que
+
+160
+00:08:34,009 --> 00:08:36,888
+ter para o seu estudo.
+
+161
+00:08:36,898 --> 00:08:39,408
+Aí, quando a gente fala dessas camadas, nós
+
+162
+00:08:39,418 --> 00:08:42,908
+vamos falar também da unidade de transmissão de dados o
+
+163
+00:08:42,918 --> 00:08:45,249
+famoso P d u o que que é esse?
+
+164
+00:08:45,258 --> 00:08:48,447
+P D u é como o dado é identificado em
+
+165
+00:08:48,457 --> 00:08:51,808
+cada camada, na medida que esse dado é encapsulado
+
+166
+00:08:51,817 --> 00:08:54,528
+ou dese capsula, ou seja, ele vai descer
+
+167
+00:08:54,538 --> 00:08:57,317
+ou subir em cada camada, ele pode ter uma
+
+168
+00:08:57,327 --> 00:08:59,097
+identificação diferente.
+
+169
+00:08:59,109 --> 00:09:01,148
+Tá láà medida que os dados tá vendo oh,
+
+170
+00:09:01,158 --> 00:09:03,609
+são passados de camada em camada na pilha.
+
+171
+00:09:03,619 --> 00:09:07,678
+Tá vendo várias informações de controle são adicionadas em cada
+
+172
+00:09:07,690 --> 00:09:10,599
+nível porque ele começa do ch, né? Lá
+
+173
+00:09:10,609 --> 00:09:13,158
+na camada um até chegar no que a gente lê
+
+174
+00:09:13,168 --> 00:09:15,979
+na camada sete tá vendo aí você tem lá oh
+
+175
+00:09:15,989 --> 00:09:19,080
+na forma de um cabeçalho e em alguns casos também
+
+176
+00:09:19,090 --> 00:09:21,989
+no rodapé, então constitui uma unidade de informação da
+
+177
+00:09:22,000 --> 00:09:23,840
+camada denominada p d u.
+
+178
+00:09:23,849 --> 00:09:26,298
+Então olha lá anota oh! Lembramos que o rodapé
+
+179
+00:09:26,308 --> 00:09:29,469
+opcional tá não sendo encontrada em todas as p d
+
+180
+00:09:29,479 --> 00:09:31,399
+u s, então na medida que você vai avançando
+
+181
+00:09:31,408 --> 00:09:34,984
+essas camadas, cê vai ter o P d diferenciando
+
+182
+00:09:34,994 --> 00:09:36,183
+de uma pra outra.
+
+183
+00:09:36,195 --> 00:09:37,663
+Olha lá como é que são dados os p d
+
+184
+00:09:37,673 --> 00:09:37,945
+u s.
+
+185
+00:09:37,955 --> 00:09:41,504
+Tá vendo oh lá durante o encapsulamento oh, cada
+
+186
+00:09:41,514 --> 00:09:45,065
+camada vai encapsular P d u que recebe da camada
+
+187
+00:09:45,075 --> 00:09:46,033
+superior.
+
+188
+00:09:46,043 --> 00:09:48,325
+Tá vendo oh de acordo com o protocolo que tá
+
+189
+00:09:48,335 --> 00:09:50,945
+sendo utilizado e cada P D U vai receber um
+
+190
+00:09:50,955 --> 00:09:51,465
+nome.
+
+191
+00:09:51,474 --> 00:09:54,264
+Isso é importante você saber então olha oh lá na
+
+192
+00:09:54,274 --> 00:09:57,744
+camada física O P D U são os bits como
+
+193
+00:09:57,754 --> 00:10:00,359
+eu falei um e zero é o cru que a
+
+194
+00:10:00,369 --> 00:10:04,149
+camada física interpreta lá na camada dois já passa a
+
+195
+00:10:04,158 --> 00:10:08,399
+chamar de dados Quando você sobe pra camada três cê
+
+196
+00:10:08,408 --> 00:10:11,080
+já vai chamar de pacote o P D u e
+
+197
+00:10:11,090 --> 00:10:13,229
+quando você chega na camada de transporte, cê vai
+
+198
+00:10:13,239 --> 00:10:17,529
+chamar de da segmento ou data grama e quando entrar
+
+199
+00:10:17,538 --> 00:10:22,649
+nas três últimas camadas também vai ser chamado de dados
+
+200
+00:10:22,658 --> 00:10:27,548
+Okay Então muito importante você entender esses p d u
+
+201
+00:10:27,558 --> 00:10:31,649
+s aí que estão representando em cada camada perfeito,
+
+202
+00:10:31,658 --> 00:10:34,969
+então é isso é o que nós chamamos aí de
+
+203
+00:10:34,979 --> 00:10:38,288
+modelo de referência TC p I P e o s
+
+204
+00:10:38,298 --> 00:10:41,190
+e fechamos esse conteúdo por aqui até lá.
+

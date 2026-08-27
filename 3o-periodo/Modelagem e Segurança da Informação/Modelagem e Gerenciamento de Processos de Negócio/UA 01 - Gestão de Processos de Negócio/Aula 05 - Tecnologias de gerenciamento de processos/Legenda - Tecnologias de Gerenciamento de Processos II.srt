@@ -1,0 +1,756 @@
+1
+00:00:06,030 --> 00:00:09,929
+Olá, vamos continuar aprendendo um pouco mais sobre as
+
+2
+00:00:09,939 --> 00:00:11,960
+tecnologias de de gerenciamento, de processos.
+
+3
+00:00:11,970 --> 00:00:14,300
+Já entendemos aí a importância da tecnologia, né?
+
+4
+00:00:14,310 --> 00:00:19,280
+Eu discorria ao longo eh do da aula passada sobre
+
+5
+00:00:19,289 --> 00:00:22,600
+a perspectiva dessas tecnologias dentro da atualidade, dentro da
+
+6
+00:00:22,609 --> 00:00:23,719
+gestão de processos.
+
+7
+00:00:23,728 --> 00:00:26,899
+E agora nós vamos ver alguma dessas principais tecnologias?
+
+8
+00:00:26,908 --> 00:00:29,239
+EH de B PM, né? A primeira eh,
+
+9
+00:00:29,250 --> 00:00:32,598
+vamos aqui ver uma primeira parte em relação a esse
+
+10
+00:00:32,609 --> 00:00:35,649
+assunto dessas principais tecnologias, né? A pri,
+
+11
+00:00:35,658 --> 00:00:39,228
+uma das eh, eh tecnologia que nós temos aí
+
+12
+00:00:39,240 --> 00:00:43,389
+é o B p a que chama as análises análises,
+
+13
+00:00:43,399 --> 00:00:46,389
+né? E visualização e otimização de processo o que
+
+14
+00:00:46,399 --> 00:00:48,899
+que esse que que esse b p a pressupõe,
+
+15
+00:00:48,908 --> 00:00:52,848
+né? Eh b p A São softwares ou plataformas
+
+16
+00:00:52,859 --> 00:00:56,880
+que são projetados, cujo foco é facilitar o processo
+
+17
+00:00:56,889 --> 00:01:02,868
+da identificação, documentação, análise e otimização dos meus
+
+18
+00:01:02,880 --> 00:01:03,310
+processos.
+
+19
+00:01:03,319 --> 00:01:05,989
+Então, por isso que tá aqui oh visualização e
+
+20
+00:01:06,000 --> 00:01:07,069
+otimização de processos.
+
+21
+00:01:07,079 --> 00:01:11,269
+Então olha, identifica, documenta, análise e oti
+
+22
+00:01:11,278 --> 00:01:13,609
+e a faz análise e otimiza os meus processos,
+
+23
+00:01:13,620 --> 00:01:16,088
+né? Qual é o foco dessa do do do
+
+24
+00:01:16,099 --> 00:01:18,629
+B? P A é justamente ajudar as empresas a
+
+25
+00:01:18,638 --> 00:01:23,329
+visualizar os seus processos, né? EH de negócios,
+
+26
+00:01:23,338 --> 00:01:28,430
+né? Ajudando as a identificar as ineficiências e entender
+
+27
+00:01:28,439 --> 00:01:33,698
+interdependências e também garantir a melhoria e a eficiência e
+
+28
+00:01:33,709 --> 00:01:36,418
+eficácia dos meus processos, né? O B P
+
+29
+00:01:36,430 --> 00:01:37,620
+A pessoal ele permite.
+
+30
+00:01:37,629 --> 00:01:41,299
+Você Diagrama as informações sobre as operações, né?
+
+31
+00:01:41,308 --> 00:01:44,299
+E ela envolve algumas características.
+
+32
+00:01:44,308 --> 00:01:47,739
+Quais sejam mapeamento de processo, né? Então o
+
+33
+00:01:47,750 --> 00:01:50,138
+B p a permite você mapear o processo, permite
+
+34
+00:01:50,150 --> 00:01:54,980
+você modelar e simular o seu processo, permite que
+
+35
+00:01:54,989 --> 00:01:57,879
+você tenha uma faça.
+
+36
+00:01:57,888 --> 00:02:01,400
+A análise de desempenho do teu processo permite que você
+
+37
+00:02:01,409 --> 00:02:05,159
+tenha a parte de colaboração do teu processo, né?
+
+38
+00:02:05,168 --> 00:02:10,679
+Além de também contribuir com a gravação de relatórios e
+
+39
+00:02:10,689 --> 00:02:13,800
+das informações relativas ao seu processo, essa é a
+
+40
+00:02:13,808 --> 00:02:14,819
+nossa ferramenta.
+
+41
+00:02:15,038 --> 00:02:17,330
+Eh b p a? Né? Claro que ela
+
+42
+00:02:17,338 --> 00:02:21,808
+também permite algumas outras características, como integração, gestão
+
+43
+00:02:21,819 --> 00:02:24,008
+de documento, a análise de fluxo.
+
+44
+00:02:24,020 --> 00:02:26,729
+Enfim, é uma ferramenta bem bacana, né?
+
+45
+00:02:26,740 --> 00:02:29,210
+E aí pra gente citar alguns exemplos de mercado?
+
+46
+00:02:29,219 --> 00:02:31,969
+Nós temos o bis o Visio, né? Eh
+
+47
+00:02:31,979 --> 00:02:35,969
+ares, entre outras ferramentas que vocês podem utilizarà
+
+48
+00:02:35,979 --> 00:02:38,969
+vontade aí né? O BIS inclusive você consegue ele
+
+49
+00:02:38,979 --> 00:02:39,169
+ter.
+
+50
+00:02:39,179 --> 00:02:42,610
+Aí eh gratuito usar uma versão gratuita pra poder fazer
+
+51
+00:02:42,618 --> 00:02:47,460
+os processos Okay A outra ferramenta é a Prize Arquitetura,
+
+52
+00:02:47,469 --> 00:02:49,778
+ou e a, né? que é a modelagem
+
+53
+00:02:49,788 --> 00:02:52,719
+de negócio através de fluxo, né? Bom,
+
+54
+00:02:53,460 --> 00:02:57,159
+então eh a finalidade do e a é justamente trabalhar
+
+55
+00:02:57,169 --> 00:02:59,830
+fluxo de trabalho, fluxo de dados, né?
+
+56
+00:02:59,838 --> 00:03:03,270
+O uso dos dados e as aplicações conectadas no fluxo
+
+57
+00:03:03,278 --> 00:03:06,330
+de trabalho? Na verdade a parte de fluxo,
+
+58
+00:03:06,338 --> 00:03:10,110
+né? Vem muito eh anterior a questão do processo,
+
+59
+00:03:10,118 --> 00:03:13,240
+A gente fala de programação já desde a minha época
+
+60
+00:03:13,250 --> 00:03:15,319
+de faculdade, lá atrás a gente falava a gente
+
+61
+00:03:15,330 --> 00:03:18,669
+fazia eh programas de software e a gente usava a
+
+62
+00:03:18,679 --> 00:03:22,580
+fluxograma! Pra fazer essa representação desse modelo de como
+
+63
+00:03:22,588 --> 00:03:24,639
+seria o meu software, Então aqui a gente tem
+
+64
+00:03:24,649 --> 00:03:27,399
+uma boa eh, Eh uma boa perspectiva dessa desse
+
+65
+00:03:27,409 --> 00:03:33,800
+fluxograma dentro dessa abordagem, por meio da da da
+
+66
+00:03:33,808 --> 00:03:35,379
+da arquitetura.
+
+67
+00:03:35,389 --> 00:03:40,419
+E também essa ferramenta permite mapeamento e modelagem, permite
+
+68
+00:03:40,429 --> 00:03:43,675
+verificar análise de impacto, gestão de ativos de I,
+
+69
+00:03:43,683 --> 00:03:48,314
+né São características da DA DA e a, né?
+
+70
+00:03:48,324 --> 00:03:51,895
+Que mais que ela envolve ela envolve também visualização,
+
+71
+00:03:51,903 --> 00:03:55,835
+governança, colaboração, integração com outras ferramentas.
+
+72
+00:03:55,844 --> 00:04:00,099
+Vocês estão vendo que eh as ferramentas, tem propostas
+
+73
+00:04:00,110 --> 00:04:04,099
+diferentes, mas elas acabam também abordando alguns assuntos comuns.
+
+74
+00:04:04,110 --> 00:04:06,460
+Eh entre elas, né? Já falamos de colaboração,
+
+75
+00:04:06,469 --> 00:04:09,500
+já falamos de questão de modelagem, então são pressupostos
+
+76
+00:04:09,508 --> 00:04:12,500
+que eh E aí vai depender de cada ferramenta.
+
+77
+00:04:12,508 --> 00:04:15,679
+Você vai ver uma deter determinada representação de como isso
+
+78
+00:04:15,689 --> 00:04:19,379
+vai ser informado pra você tá ou trabalhado dentro do
+
+79
+00:04:19,389 --> 00:04:25,459
+seu processo? Tá a outra chama-se ou BR m
+
+80
+00:04:25,470 --> 00:04:29,480
+s BR m s nada mais é do que uma.
+
+81
+00:04:29,488 --> 00:04:32,079
+Ela trabalha com a definição e armazenamento de regras de
+
+82
+00:04:32,088 --> 00:04:34,879
+negócio, né? A finalidade dela é um motor
+
+83
+00:04:34,889 --> 00:04:37,278
+de regras, é um sistema de gerenciamento de regras
+
+84
+00:04:37,290 --> 00:04:40,959
+de negócio, definição de regras de negócio, armazenamento
+
+85
+00:04:40,970 --> 00:04:44,259
+de regras, né? Eh E e também de
+
+86
+00:04:44,269 --> 00:04:46,738
+negócio de aplicação, né? Então permite as empresas
+
+87
+00:04:46,750 --> 00:04:50,160
+identificar, documentar, implementar e gerir as regras de
+
+88
+00:04:50,170 --> 00:04:55,259
+negócio e as decisões lógicas dela Beleza Então, dentro
+
+89
+00:04:55,269 --> 00:04:57,759
+desse contexto dessa ferramenta, por exemplo, a gente
+
+90
+00:04:57,769 --> 00:05:01,759
+falou de algumas algumas algumas palavrinhas mágicas, então a
+
+91
+00:05:01,769 --> 00:05:05,769
+gente tem eh dentro dessa ferramenta eu posso definir quem
+
+92
+00:05:05,778 --> 00:05:08,500
+vai fazer algo, o que vai ser feito quando
+
+93
+00:05:08,509 --> 00:05:11,759
+será feito por que será feito como será feito,
+
+94
+00:05:11,769 --> 00:05:14,509
+né? E o BR O BR M tem algumas
+
+95
+00:05:14,519 --> 00:05:20,488
+das suas características principais voltadas para repos Repositório centralizado Interface
+
+96
+00:05:20,500 --> 00:05:23,350
+com o usuário É amigável, a parte de integração
+
+97
+00:05:23,358 --> 00:05:24,970
+também com outras plataformas.
+
+98
+00:05:24,980 --> 00:05:27,449
+Veja que ela sempre se integra, tem a parte
+
+99
+00:05:27,459 --> 00:05:32,329
+de simulação e teste tem a parte relacionada, rastreamento
+
+100
+00:05:32,338 --> 00:05:35,230
+e monitoramento governança de controle de diversão.
+
+101
+00:05:35,238 --> 00:05:38,850
+Então uma ferramenta bem bem interessante aí dentro dessa perspectiva
+
+102
+00:05:38,858 --> 00:05:42,088
+Ah, de trabalho, tá outra ferramenta? Outra
+
+103
+00:05:42,100 --> 00:05:44,290
+suíte que nós temos aí, né? Outra ferramenta
+
+104
+00:05:44,298 --> 00:05:48,889
+é o ah processos ambiente de negócio.
+
+105
+00:05:48,899 --> 00:05:53,649
+Integrador, né? Então nesse B PM eu tenho
+
+106
+00:05:53,660 --> 00:05:54,649
+a modelagem de processo.
+
+107
+00:05:54,660 --> 00:05:57,329
+Modelagem de fluxo de trabalho, definição de regras,
+
+108
+00:05:57,338 --> 00:06:01,269
+simulação de operação de negócios, automação de processo,
+
+109
+00:06:01,278 --> 00:06:04,209
+operações de negócio, né? Enfim, eu tenho
+
+110
+00:06:04,220 --> 00:06:07,769
+uma série de de perspectivas que também né? EH?
+
+111
+00:06:07,778 --> 00:06:12,350
+Me, permitem fazer a gestão do meu processo,
+
+112
+00:06:12,358 --> 00:06:17,199
+né? Propriamente dito tá legal Então? Ah,
+
+113
+00:06:17,209 --> 00:06:19,959
+ah tá, eu esqueci de só de comentar,
+
+114
+00:06:19,970 --> 00:06:24,119
+né? Quanto ao o a algumas perspectivas! Eh
+
+115
+00:06:24,129 --> 00:06:27,420
+primeiro do acho que eu não falei do e a.
+
+116
+00:06:27,428 --> 00:06:29,000
+Mas vale a pena aqui a gente falar! Né?
+
+117
+00:06:29,009 --> 00:06:31,519
+Do e a você tem, eh, eh alguns
+
+118
+00:06:31,528 --> 00:06:34,678
+alguns modelos aí né, Algumas ferramentas que são a
+
+119
+00:06:34,689 --> 00:06:37,699
+i b m Cê tem o R entre outras.
+
+120
+00:06:37,709 --> 00:06:40,298
+Essa é o exemplo do E a já pra b
+
+121
+00:06:40,309 --> 00:06:44,100
+rr M S nós temos algumas outras ferramentas que são
+
+122
+00:06:44,108 --> 00:06:45,459
+utilizadas aí no mercado.
+
+123
+00:06:45,470 --> 00:06:46,980
+Por exemplo, o i B M O operacional The
+
+124
+00:06:46,988 --> 00:06:52,790
+Sion, mange o entre outras e no caso do
+
+125
+00:06:52,798 --> 00:06:55,988
+b PM s né? Com essa, com característica
+
+126
+00:06:56,000 --> 00:07:00,988
+também de modelagem de simulação da automatização, execução né?
+
+127
+00:07:01,000 --> 00:07:03,389
+AS ferram, eh governança também, aborda.
+
+128
+00:07:03,399 --> 00:07:06,750
+Nós temos aí a o OK BPN, nós temos
+
+129
+00:07:06,759 --> 00:07:08,480
+o BSA também apare apare.
+
+130
+00:07:08,488 --> 00:07:11,189
+Aparece como B PM S, né? Então são
+
+131
+00:07:11,199 --> 00:07:15,829
+ferramentas bem bem interessante aí tá, eh outra.
+
+132
+00:07:15,838 --> 00:07:18,209
+Nós temos outras ferramentas, né? Quais sejam,
+
+133
+00:07:18,220 --> 00:07:23,088
+por exemplo, a ban, né? É monitor,
+
+134
+00:07:23,100 --> 00:07:26,009
+né? Visão em tempo real das operações de negócio
+
+135
+00:07:26,019 --> 00:07:29,528
+olha que interessante, né? Tempo Finalidade o monitoramento
+
+136
+00:07:29,540 --> 00:07:32,809
+da atividade de negócio, monitoramento de desempenho, medição
+
+137
+00:07:32,819 --> 00:07:33,269
+e desempenho.
+
+138
+00:07:33,278 --> 00:07:35,889
+Ou seja, ela é voltada pra monitoramento e medição
+
+139
+00:07:35,899 --> 00:07:37,548
+de desempenho, né tom.
+
+140
+00:07:37,959 --> 00:07:39,850
+Quando eu tô falando de visão em tempo real,
+
+141
+00:07:39,858 --> 00:07:41,369
+eu tô vendo o que tá acontecendo agora.
+
+142
+00:07:41,379 --> 00:07:43,649
+Então eu tô vendo o que desempenho, né?
+
+143
+00:07:43,660 --> 00:07:46,088
+Ela tem uma visão abrangente de como o negócio tá
+
+144
+00:07:46,100 --> 00:07:48,629
+desempenhando as suas, altera as suas operações.
+
+145
+00:07:48,639 --> 00:07:51,369
+Essa é a BA, né? É claro que
+
+146
+00:07:51,379 --> 00:07:53,629
+ela permite pra pra isso.
+
+147
+00:07:53,639 --> 00:07:57,069
+Essa ferramenta permite coleta de de informação.
+
+148
+00:07:57,079 --> 00:07:59,290
+Ela permite a parte de integração.
+
+149
+00:07:59,298 --> 00:08:01,649
+Ela a faz análise de tempo real.
+
+150
+00:08:01,660 --> 00:08:05,470
+Ela tem pra demonstração por meio de fluxo de de
+
+151
+00:08:05,480 --> 00:08:08,509
+de gráficos de como tá o andamento dos seus processos?
+
+152
+00:08:08,519 --> 00:08:12,230
+Entendeu? Então é uma ferramenta bem interessante aí né
+
+153
+00:08:12,238 --> 00:08:15,108
+EH! Tem a parte de relatórios de análise!
+
+154
+00:08:15,119 --> 00:08:20,069
+Você pode persona per personalizar a fe- ferramenta, né?
+
+155
+00:08:20,079 --> 00:08:23,149
+E nós temos aí algumas ferramentas aí de mercado também
+
+156
+00:08:23,160 --> 00:08:27,369
+que é o i b m monitor Oban Microsoft B
+
+157
+00:08:27,379 --> 00:08:31,790
+i, né que é muito bacana essa ferramenta faz
+
+158
+00:08:31,798 --> 00:08:35,009
+muito facilmente, então é uma ferramenta bem legal.
+
+159
+00:08:35,019 --> 00:08:38,928
+Outra ferramenta é o soa Criação de componentes de software
+
+160
+00:08:38,940 --> 00:08:43,308
+Soa é uma quer dizer serviço orientado A arquitetura é
+
+161
+00:08:43,320 --> 00:08:47,989
+um conjunto de desenho de infraestrutura, infraestrutura de que
+
+162
+00:08:48,000 --> 00:08:51,090
+de software, desenvolvimento de aplicações e integração de sistema.
+
+163
+00:08:51,099 --> 00:08:52,548
+Esse é o pressuposto de sua.
+
+164
+00:08:52,558 --> 00:08:55,599
+Na verdade, essa é uma é uma é um
+
+165
+00:08:55,609 --> 00:08:58,259
+componente muito utilizado hoje no desenvolvimento de software, né?
+
+166
+00:08:58,269 --> 00:09:03,500
+Então ela apresenta modularidade interoperabilidade, descoberta de serviços,
+
+167
+00:09:03,509 --> 00:09:07,000
+né, governança, entre outros né? Aí nós
+
+168
+00:09:07,009 --> 00:09:12,080
+temos também vários outros tipos de ferramentas relacionadas a essa
+
+169
+00:09:12,090 --> 00:09:14,058
+parte de sua.
+
+170
+00:09:14,070 --> 00:09:15,918
+Tem também o e I, que é a integração
+
+171
+00:09:15,928 --> 00:09:19,658
+entre as aplicações, que também é um componente importante
+
+172
+00:09:20,058 --> 00:09:22,879
+pro soa, né? Que é o que tá
+
+173
+00:09:22,889 --> 00:09:24,548
+escr, eh, eh, é o nosso último
+
+174
+00:09:24,558 --> 00:09:27,269
+nossa última perspectiva aqui Oh, Inter, Price a
+
+175
+00:09:27,279 --> 00:09:28,070
+aplica.
+
+176
+00:09:28,080 --> 00:09:31,668
+Integration, né? Que é a finalidade de modelos
+
+177
+00:09:31,678 --> 00:09:35,649
+de comunicação e adaptadores pra acessar dados e sistemas legados
+
+178
+00:09:35,658 --> 00:09:39,158
+a fazer integração entre sistemas legados, né, Que
+
+179
+00:09:39,168 --> 00:09:41,354
+é a integração entre aplicações que é muito comum hoje
+
+180
+00:09:41,364 --> 00:09:41,894
+em dia.
+
+181
+00:09:41,904 --> 00:09:42,514
+Cê hoje tem.
+
+182
+00:09:42,524 --> 00:09:45,423
+Cê tem aplicações díspares aí, cada uma falando numa
+
+183
+00:09:45,433 --> 00:09:48,033
+linguagem diferente, falando de uma forma diferente e você
+
+184
+00:09:48,043 --> 00:09:51,075
+tem que integrar essa, né? Eh sistemas antigos
+
+185
+00:09:51,085 --> 00:09:54,033
+integrando com sistemas novos, isso é o que pressupõe
+
+186
+00:09:54,043 --> 00:09:54,614
+o e A.
+
+187
+00:09:54,625 --> 00:09:57,315
+Ou seja, nós temos aí falamos de vários tipos
+
+188
+00:09:57,325 --> 00:10:00,594
+de ferramentas, Tá? Aguardo você na próxima aula,
+
+189
+00:10:00,604 --> 00:10:01,215
+um abraço!
+

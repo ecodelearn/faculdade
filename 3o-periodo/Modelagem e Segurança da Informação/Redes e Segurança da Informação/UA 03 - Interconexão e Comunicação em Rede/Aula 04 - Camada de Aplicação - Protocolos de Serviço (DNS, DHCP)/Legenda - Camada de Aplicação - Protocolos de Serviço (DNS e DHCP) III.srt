@@ -1,0 +1,996 @@
+1
+00:00:06,009 --> 00:00:09,419
+Olá aluno! Professor Fabrício Melo, vamos que vamos
+
+2
+00:00:09,429 --> 00:00:09,560
+aí.
+
+3
+00:00:09,569 --> 00:00:12,819
+Estamos trabalhando com protocolos da camada de aplicação no caso
+
+4
+00:00:12,829 --> 00:00:15,648
+camada quatro do TC P i p e no caso
+
+5
+00:00:15,659 --> 00:00:19,298
+camada sete lá do modelo O z okay e os
+
+6
+00:00:19,309 --> 00:00:20,079
+protocolos.
+
+7
+00:00:20,089 --> 00:00:21,620
+Quer dizer o protocolo, né? Da vez,
+
+8
+00:00:21,629 --> 00:00:26,809
+agora vamos falar do D HC p famoso dinâmico configurei
+
+9
+00:00:26,818 --> 00:00:29,760
+um protocolo que a gente conhece como protocolo de configuração
+
+10
+00:00:29,769 --> 00:00:30,920
+de ST dinâmico.
+
+11
+00:00:30,929 --> 00:00:34,319
+Ou você pode tratá-lo também como protocolo de configuração de
+
+12
+00:00:34,329 --> 00:00:35,880
+i P de dinâmico.
+
+13
+00:00:35,889 --> 00:00:39,399
+Tá? Como é que funciona esse protocolo aluno pra
+
+14
+00:00:39,408 --> 00:00:42,459
+facilitar muito a sua vida? Eu gosto muito de
+
+15
+00:00:42,469 --> 00:00:48,240
+explicar esse protocolo associado ao modo avião do nosso smartphone.
+
+16
+00:00:48,250 --> 00:00:50,840
+Olha só Quando eu coloco o meu smartphone aqui no
+
+17
+00:00:50,848 --> 00:00:54,450
+modo avião eu perco a rede, não perco Eu.
+
+18
+00:00:54,459 --> 00:00:57,548
+Fico ilhado, né? Sem rede nenhuma.
+
+19
+00:00:57,560 --> 00:01:00,219
+Quando eu tiro do modo avião, o que que
+
+20
+00:01:00,228 --> 00:01:02,569
+vai acontecer? O meu telefone vai começar a procurar
+
+21
+00:01:02,579 --> 00:01:06,489
+o sinal da minha operadora quando achar o sinal,
+
+22
+00:01:06,500 --> 00:01:09,239
+né? A antena vai fazer a a a conexão,
+
+23
+00:01:09,250 --> 00:01:11,969
+eu vou ser autenticado pelo meu e sim, né?
+
+24
+00:01:11,980 --> 00:01:14,870
+Pelo pelo chip e a hora que eu for autenticado,
+
+25
+00:01:14,879 --> 00:01:20,370
+o Protocolo de HC P da minha operadora vai gerar
+
+26
+00:01:20,379 --> 00:01:23,250
+pra mim o i p aí com esse i P,
+
+27
+00:01:23,260 --> 00:01:27,549
+eu estou fazendo parte da rede da minha operadora telefônica,
+
+28
+00:01:27,558 --> 00:01:30,290
+então o d HC p De maneira bem simples é
+
+29
+00:01:30,299 --> 00:01:33,609
+isso ele é o protocolo responsável por gerar os i
+
+30
+00:01:33,620 --> 00:01:37,709
+PS das máquinas pra poderem conectar a uma rede.
+
+31
+00:01:37,719 --> 00:01:39,930
+Então sempre foi associação Pô, botei no modo avião,
+
+32
+00:01:39,939 --> 00:01:41,418
+perdi o ipê colo.
+
+33
+00:01:41,430 --> 00:01:44,448
+Saí do modo avião, estabeleci uma conexão novamente com
+
+34
+00:01:44,459 --> 00:01:48,370
+a rede, obviamente ganhei o I P, estou
+
+35
+00:01:48,379 --> 00:01:51,650
+conectado aí nessa rede Okay então vamos lá.
+
+36
+00:01:51,659 --> 00:01:53,959
+Vamos falar agora da parte mais técnica, né?
+
+37
+00:01:53,969 --> 00:01:56,209
+Ele é um protocolo definido pela R F C dois
+
+38
+00:01:56,219 --> 00:01:59,069
+um três um opera no D P, porta meia
+
+39
+00:01:59,079 --> 00:02:02,599
+sete e o D P meia oito no cliente trabalha
+
+40
+00:02:02,609 --> 00:02:03,290
+com o sistema de esco.
+
+41
+00:02:03,299 --> 00:02:06,439
+A gente vai ver intervalo de exclusão de endereços,
+
+42
+00:02:06,448 --> 00:02:08,360
+né? Tem como você fazer lá um pool de
+
+43
+00:02:08,368 --> 00:02:11,879
+endereços E a concessão dele pode ser manual, automática
+
+44
+00:02:11,889 --> 00:02:14,278
+ou dinâmica? A gente vai ver como é que
+
+45
+00:02:14,288 --> 00:02:17,278
+funciona aí tá e destaque Tá o d HC p
+
+46
+00:02:17,288 --> 00:02:20,020
+Quando voltado pro I P V quatro, ele é
+
+47
+00:02:20,028 --> 00:02:23,219
+um serviço da camada de aplicação que atribui o endereço
+
+48
+00:02:23,229 --> 00:02:25,699
+I P V quatro as informações de configuração de rede
+
+49
+00:02:25,710 --> 00:02:28,889
+dinamicamente para os dispositivos de rede É aquilo que eu
+
+50
+00:02:28,899 --> 00:02:32,258
+acabei de falar pra você como a gente tá estudando
+
+51
+00:02:32,270 --> 00:02:36,258
+o protocolo da camada de aplicação? Logo entra o
+
+52
+00:02:36,270 --> 00:02:38,538
+d HC p tá aí, olha só como é
+
+53
+00:02:38,550 --> 00:02:41,469
+que funciona aí a palavra escopo que que é o
+
+54
+00:02:41,479 --> 00:02:45,538
+escopo? É o intervalo aluno consecutivo completo o endereço
+
+55
+00:02:45,550 --> 00:02:48,278
+i p possíveis para uma rede.
+
+56
+00:02:48,669 --> 00:02:51,639
+Então você tem aquela rede lembra das divisões que a
+
+57
+00:02:51,649 --> 00:02:53,960
+gente fez da rede lá? Oh um nove dois
+
+58
+00:02:53,969 --> 00:02:57,000
+meia oito um ponto zero barra vinte e quatro O
+
+59
+00:02:57,008 --> 00:02:59,300
+escopo é o que é a faixa de endereços de
+
+60
+00:02:59,308 --> 00:03:02,610
+um a duzentos e cinquenta e quatro.
+
+61
+00:03:02,618 --> 00:03:05,599
+Então você vai ter lá duzentos e cinquenta e cinco.
+
+62
+00:03:05,610 --> 00:03:08,558
+Aí né? Esse intervalo que foi definido tá e
+
+63
+00:03:08,569 --> 00:03:11,919
+tem um intervalo de exclusão que é uma sequência limitada
+
+64
+00:03:11,929 --> 00:03:13,659
+de endereços i, p dentro de um escopo que
+
+65
+00:03:13,669 --> 00:03:15,099
+não são fornecidos.
+
+66
+00:03:15,349 --> 00:03:17,319
+Então você pode ali, né? No intervalo de
+
+67
+00:03:17,330 --> 00:03:20,618
+exclusão, definir os i PS que não serão,
+
+68
+00:03:20,629 --> 00:03:24,219
+né? Dados aí fornecidos pelo protocolo do HC p
+
+69
+00:03:24,229 --> 00:03:24,399
+A.
+
+70
+00:03:24,409 --> 00:03:26,110
+Como fazer isso aí, tá.
+
+71
+00:03:26,118 --> 00:03:27,899
+E o que que é o pool de endereços oh
+
+72
+00:03:27,909 --> 00:03:31,300
+após você definir lá, o escopo do HC p
+
+73
+00:03:31,308 --> 00:03:33,639
+e aplicar os intervalos de exclusão, né? OS
+
+74
+00:03:33,649 --> 00:03:36,758
+que não vão entrar? Os endereços que sobram,
+
+75
+00:03:36,770 --> 00:03:39,469
+né? Os remanescentes formam lá o pool de endereços
+
+76
+00:03:39,479 --> 00:03:42,250
+disponíveis? Então, o é o resultado do que
+
+77
+00:03:42,258 --> 00:03:47,939
+você colocou aqui no no, No, No escopo,
+
+78
+00:03:47,949 --> 00:03:50,469
+tirando o intervalo de exclusão, formam quem o p
+
+79
+00:03:50,479 --> 00:03:52,520
+de endereço, né? Então, eles são qualificados
+
+80
+00:03:52,528 --> 00:03:55,139
+pra atribuição dinâmica desse protocolo.
+
+81
+00:03:55,149 --> 00:03:57,819
+Então ele vai trabalhar com esses endereços que estão no
+
+82
+00:03:57,830 --> 00:03:59,528
+famoso po perfeito.
+
+83
+00:03:59,538 --> 00:04:02,569
+E o que é a concessão? É atribuição ao
+
+84
+00:04:02,580 --> 00:04:04,493
+cliente o endereço i, p por um determinado período
+
+85
+00:04:04,504 --> 00:04:05,183
+de tempo.
+
+86
+00:04:05,194 --> 00:04:08,594
+Então, quando é feito esse aí é feita a
+
+87
+00:04:08,604 --> 00:04:12,395
+concessão que existem três concessões que a gente viu.
+
+88
+00:04:12,403 --> 00:04:14,213
+Qual é a manual, né? O próprio nome
+
+89
+00:04:14,224 --> 00:04:19,014
+já diz Você pode alterar manualmente, né? EH,
+
+90
+00:04:19,024 --> 00:04:21,653
+eh esse i p lá nas configurações da placa,
+
+91
+00:04:21,665 --> 00:04:23,954
+Por exemplo, lá em casa eu trabalho assim lá
+
+92
+00:04:23,963 --> 00:04:26,894
+Eu não opero com d HC p automático manual,
+
+93
+00:04:26,903 --> 00:04:28,673
+eu defino o endereço pra minha máquina.
+
+94
+00:04:29,069 --> 00:04:31,399
+Tá, eu eu acho melhor pra trabalhar.
+
+95
+00:04:31,410 --> 00:04:33,319
+Eu acho que a rede fica mais estável.
+
+96
+00:04:33,329 --> 00:04:35,519
+Tá isso é uma opinião minha né? Pelos meus
+
+97
+00:04:35,528 --> 00:04:39,298
+estudos eu prefiro assim, então você define oh manualmente,
+
+98
+00:04:39,309 --> 00:04:43,278
+oh através lá da adaptador da sua rede Nas configurações
+
+99
+00:04:43,290 --> 00:04:45,439
+do Windows que a gente deve veio pra trás tem
+
+100
+00:04:45,449 --> 00:04:46,480
+é de maneira automática.
+
+101
+00:04:46,488 --> 00:04:48,170
+Lá ele é configurado pra atribui o endereço i p
+
+102
+00:04:48,178 --> 00:04:50,519
+a um equipamento por tempo indeterminado, ou seja,
+
+103
+00:04:50,528 --> 00:04:53,048
+aquilo que eu falei você saiu do modo do avião.
+
+104
+00:04:53,059 --> 00:04:56,000
+Você recebeu o i p de tempo determinado enquanto você
+
+105
+00:04:56,009 --> 00:04:59,149
+tá ali usando, vai ficar com aquele p é
+
+106
+00:04:59,160 --> 00:05:03,160
+porque tá configurado de maneira automática e tem a dinâmica.
+
+107
+00:05:03,170 --> 00:05:06,588
+Esse tipo de configuração é o que eh o endereço
+
+108
+00:05:06,600 --> 00:05:11,399
+P alocado temporariamente a um equipamento e periodicamente é necessária
+
+109
+00:05:11,410 --> 00:05:13,649
+a atualização periódica dessa locação.
+
+110
+00:05:13,660 --> 00:05:16,428
+Então o dinâmico aqui mesmo fala oh, que é
+
+111
+00:05:16,439 --> 00:05:18,850
+o que ele é a característica principal, por isso
+
+112
+00:05:18,858 --> 00:05:23,230
+chama de HC p Protocolo de configuração de dinâmico Essa
+
+113
+00:05:23,238 --> 00:05:24,689
+é a principal característica dele.
+
+114
+00:05:24,949 --> 00:05:28,480
+Ele já vai ter esse tempo aí né, determinado
+
+115
+00:05:28,488 --> 00:05:32,199
+diferente lá da maneira automática tá! E como é
+
+116
+00:05:32,209 --> 00:05:36,709
+feito aí? Oh a pedido do cliente pro servidor
+
+117
+00:05:36,720 --> 00:05:39,809
+e da maneira técnica olha só primeiro você vai ter
+
+118
+00:05:39,819 --> 00:05:41,949
+a descoberta do servidor do HC p, né Sua
+
+119
+00:05:41,959 --> 00:05:44,428
+máquina vai ter que descobrir então lá o cliente vai
+
+120
+00:05:44,439 --> 00:05:47,269
+enviar uma mensagem de broadcast Lembra que a gente viu
+
+121
+00:05:47,278 --> 00:05:49,939
+isso? Faz a mensagem de broadcast com o seu
+
+122
+00:05:49,949 --> 00:05:53,548
+próprio endereço MAC, né? Para descobrir os servidores
+
+123
+00:05:53,559 --> 00:05:55,910
+e HC p que estão disponíveis, então ele mandou
+
+124
+00:05:55,920 --> 00:05:56,428
+oh broadcast.
+
+125
+00:05:56,439 --> 00:05:59,559
+Eu quero lá um de HC p aí a parte
+
+126
+00:05:59,569 --> 00:06:03,028
+dois vai ser a oferta que é o d HC
+
+127
+00:06:03,040 --> 00:06:05,920
+p Quando você vê o d HC P recebe a
+
+128
+00:06:05,928 --> 00:06:09,809
+mensagem descoberta, ele vai reservar o endereço disponível.
+
+129
+00:06:09,819 --> 00:06:12,298
+Aí ele vai enviar a mensagem do h CPF para
+
+130
+00:06:12,309 --> 00:06:13,879
+o cliente solicitante.
+
+131
+00:06:13,889 --> 00:06:16,600
+Tá vendo com o endereço i P v quatro reservado
+
+132
+00:06:16,608 --> 00:06:20,579
+e outras informações de configuração aí o que acontece na
+
+133
+00:06:20,588 --> 00:06:24,699
+três vem a solicitação d HC p que é o
+
+134
+00:06:24,709 --> 00:06:27,759
+seguinte Oh, o cliente recebeu o d HC p,
+
+135
+00:06:27,769 --> 00:06:30,338
+né do servidor e ele vai enviar uma mensagem.
+
+136
+00:06:31,230 --> 00:06:35,559
+Eh aceita a vinculação para o servidor selecionado aceitando essa
+
+137
+00:06:35,569 --> 00:06:38,588
+mensagem também é utilizada quando o cliente solicita a renovação
+
+138
+00:06:38,600 --> 00:06:39,178
+do endereço.
+
+139
+00:06:39,189 --> 00:06:40,629
+I, P v quatro Então,às vezes quiser
+
+140
+00:06:40,639 --> 00:06:42,540
+renovar fazer uma nova concessão.
+
+141
+00:06:42,548 --> 00:06:44,730
+Já viu isso? Tem como você renovar o I
+
+142
+00:06:44,738 --> 00:06:47,149
+P v quatro nas configurações do Windows Tem isso?
+
+143
+00:06:47,160 --> 00:06:52,028
+Vai aparecer também nesse HC p cast e aqui o
+
+144
+00:06:52,040 --> 00:06:54,829
+último que é o d HC p PEC A gente
+
+145
+00:06:54,838 --> 00:06:57,920
+já viu isso aí no TC p Cê lembra disso
+
+146
+00:06:57,928 --> 00:07:00,579
+quando faz lá o o o shake mais ou menos
+
+147
+00:07:00,588 --> 00:07:03,559
+igual após essa receber o D HC P, onde
+
+148
+00:07:03,569 --> 00:07:07,040
+o servidor verifica a concessão com o PC MP no
+
+149
+00:07:07,048 --> 00:07:08,298
+endereço concedido.
+
+150
+00:07:08,309 --> 00:07:10,959
+Em seguida envia uma mensagem de HC B, ou
+
+151
+00:07:10,970 --> 00:07:14,079
+seja, o cliente recebeu grava os dados recebidos,
+
+152
+00:07:14,088 --> 00:07:17,278
+executa uma pesquisa ARP para o endereço que foi atribuído.
+
+153
+00:07:17,290 --> 00:07:22,129
+Lembra do ARP? O ARP é responsável em associar
+
+154
+00:07:22,139 --> 00:07:24,819
+um i P A um MC, né? E
+
+155
+00:07:24,829 --> 00:07:26,980
+o harp é o Mac pro i p Aí o
+
+156
+00:07:26,988 --> 00:07:28,858
+que que ele fala lá? Se não receber uma
+
+157
+00:07:28,869 --> 00:07:31,720
+resposta, o ARP saberá que nenhum dispositivo de rede
+
+158
+00:07:31,730 --> 00:07:33,540
+possui endereço igual.
+
+159
+00:07:33,548 --> 00:07:37,579
+Aí ele vai poder usá-lo perfeito agora e o i
+
+160
+00:07:37,588 --> 00:07:39,920
+p v seis oh no I P v seis Aluno
+
+161
+00:07:39,928 --> 00:07:43,199
+Um dispositivo de rede tem dois tipos de endereço é
+
+162
+00:07:43,209 --> 00:07:45,358
+o endereço de link que é o famoso L L
+
+163
+00:07:45,369 --> 00:07:49,160
+a o link local e o endereço Unicat global famoso
+
+164
+00:07:49,170 --> 00:07:51,629
+G A tá esse link local I p v seis
+
+165
+00:07:51,639 --> 00:07:54,858
+Ele é criado automaticamente pelo host quando ele é inicializada
+
+166
+00:07:55,108 --> 00:07:57,160
+e a interface internet está ativa então você tá com
+
+167
+00:07:57,170 --> 00:08:00,319
+a placa ativa automaticamente é gerado isso aí.
+
+168
+00:08:00,329 --> 00:08:02,678
+Então muda um pouquinho do i p v seis Tá
+
+169
+00:08:02,689 --> 00:08:05,750
+vendo oh obtenção dinâmica de endereço i p v seis
+
+170
+00:08:05,759 --> 00:08:08,319
+aí cê tem as aí oh que é o famoso
+
+171
+00:08:08,329 --> 00:08:11,338
+s l a a c que o roteador vai enviar
+
+172
+00:08:11,350 --> 00:08:14,119
+a mensagem, né eh com prefeitos de rede e
+
+173
+00:08:14,129 --> 00:08:14,819
+tal.
+
+174
+00:08:15,439 --> 00:08:18,488
+Então muda um pouquinho cê tem o s l a
+
+175
+00:08:18,500 --> 00:08:21,970
+a c mais o d HC p v seis que
+
+176
+00:08:21,980 --> 00:08:25,028
+é o sem estado e tem o que é com
+
+177
+00:08:25,040 --> 00:08:28,230
+estado, né? Isso vai ser feito da seguinte
+
+178
+00:08:28,238 --> 00:08:32,009
+maneira Olha só quando a gente trabalha com o s
+
+179
+00:08:32,019 --> 00:08:37,109
+l A a c, que é o ed autoconfiante
+
+180
+00:08:37,119 --> 00:08:39,969
+ele vai usar um método para obter o endereço P
+
+181
+00:08:39,979 --> 00:08:42,908
+v seis unicas global de forma automática.
+
+182
+00:08:43,340 --> 00:08:45,229
+É mais ou menos aí igual o i p v
+
+183
+00:08:45,239 --> 00:08:48,190
+quatro lá, mesmo sem haver um servidor instalado na
+
+184
+00:08:48,200 --> 00:08:48,428
+rede.
+
+185
+00:08:48,440 --> 00:08:51,129
+Olha que interessante então, mesmo sem um servidor,
+
+186
+00:08:51,139 --> 00:08:53,750
+ele consegue gerar isso aí e vai ter a i
+
+187
+00:08:53,759 --> 00:08:55,629
+D de interface sessenta e quatro bits, que é
+
+188
+00:08:55,639 --> 00:08:59,029
+gerado de maneira randômica, né? Então lá de
+
+189
+00:08:59,038 --> 00:09:01,710
+forma aleatória o I D da interface sessenta e quatro
+
+190
+00:09:01,719 --> 00:09:05,989
+pizzas é gerado randomicamente pelo próprio sistema operacional do Windows.
+
+191
+00:09:06,000 --> 00:09:08,139
+Tá vendo? Este é o aumento agora usado pelos
+
+192
+00:09:08,149 --> 00:09:10,558
+ross do Windows dez oh Então esse s L A
+
+193
+00:09:10,570 --> 00:09:13,298
+C, que é amplamente usado no Windows dez é
+
+194
+00:09:13,308 --> 00:09:14,899
+um processo sem estado.
+
+195
+00:09:14,908 --> 00:09:16,418
+Tá vendo? Não há garantia de que o endereço
+
+196
+00:09:16,428 --> 00:09:19,629
+gerado seja único, já que não há um servidor
+
+197
+00:09:19,639 --> 00:09:20,590
+gerenciando o.
+
+198
+00:09:20,599 --> 00:09:22,048
+Então, se você não tem um servidor que tá
+
+199
+00:09:22,058 --> 00:09:25,330
+gerenciando, pode ser que gere repetido, né?
+
+200
+00:09:25,340 --> 00:09:27,668
+Portanto um hot deve verificar se o endereço p v
+
+201
+00:09:27,678 --> 00:09:30,009
+seis enviado é exclusivo antes de ser usado, então
+
+202
+00:09:30,019 --> 00:09:33,308
+o próprio host faz a verificação né igual a gente
+
+203
+00:09:33,320 --> 00:09:36,668
+viu do i p v quatro que o servidor manda
+
+204
+00:09:36,678 --> 00:09:39,960
+aquela requisição do ARP pra ver se é exclusivo.
+
+205
+00:09:39,969 --> 00:09:43,450
+Então muda aí um pouquinho no i p v seis
+
+206
+00:09:43,460 --> 00:09:46,719
+Okay aí esse d HC p v seis é definido
+
+207
+00:09:46,729 --> 00:09:49,279
+aí pela r f c oito quatro quinze Ele usa
+
+208
+00:09:49,288 --> 00:09:51,369
+a porta o d p cinco quatro sete no servidor
+
+209
+00:09:51,379 --> 00:09:54,058
+cinco quatro sete no cliente e ele usa mensagem C
+
+210
+00:09:54,070 --> 00:09:57,279
+MP v seis r a que é o adverti tá?
+
+211
+00:09:57,288 --> 00:10:01,109
+Então muda aí um pouquinho a eh o esquema para
+
+212
+00:10:01,119 --> 00:10:03,250
+o I P V quatro, Ou seja, como
+
+213
+00:10:03,259 --> 00:10:05,090
+é um i p diferente é um ipê mais novo.
+
+214
+00:10:05,099 --> 00:10:07,769
+Você pode ver que é até mais simples né porque
+
+215
+00:10:07,779 --> 00:10:10,129
+ele já não tem mais aquela ideia do servidor.
+
+216
+00:10:10,139 --> 00:10:13,369
+O próprio host na própria configuração do Windows dez consegue
+
+217
+00:10:13,379 --> 00:10:15,989
+fazer isso? Olha só uma questãozinha pra você aí
+
+218
+00:10:16,000 --> 00:10:20,769
+oh o serviço d HC p ele pode ser utilizado
+
+219
+00:10:20,779 --> 00:10:22,908
+para se atribuir um intervalo de endereços.
+
+220
+00:10:22,918 --> 00:10:26,899
+I P há um conjunto de computadores em uma mesma
+
+221
+00:10:26,908 --> 00:10:30,259
+rede e aí que que você responde aí sim,
+
+222
+00:10:30,269 --> 00:10:32,700
+né? O d HC p é pra isso ele
+
+223
+00:10:32,710 --> 00:10:35,538
+vai atribuir o intervalo de endereços i p a um
+
+224
+00:10:35,548 --> 00:10:38,599
+conjunto de computadores na mesma rede.
+
+225
+00:10:38,609 --> 00:10:41,950
+Questão aí que os nossos alunos se deparam, não
+
+226
+00:10:41,960 --> 00:10:48,779
+erram cobrando conhecimento desse famoso protocolo aí dinâmico beleza mais
+
+227
+00:10:48,788 --> 00:10:51,769
+uma temos temos mais uma no o d HC p
+
+228
+00:10:51,779 --> 00:10:54,250
+é um protocolo que no seu funcionamento ele faz uso
+
+229
+00:10:54,259 --> 00:10:59,369
+do quê aluno e aí ele faz uso do u
+
+230
+00:10:59,379 --> 00:11:00,989
+d p para broadcast.
+
+231
+00:11:01,590 --> 00:11:04,759
+Ele faz b GP para roteamento h t t P
+
+232
+00:11:04,769 --> 00:11:10,080
+para acessar as páginas TC p para transmissão confiável ou
+
+233
+00:11:10,090 --> 00:11:11,798
+um d m s pra descobrir o i p de
+
+234
+00:11:11,808 --> 00:11:18,739
+uma u R L E aí, essa tá tranquila?
+
+235
+00:11:18,750 --> 00:11:21,700
+Não tá? Tenho certeza que você vai responder aí
+
+236
+00:11:21,710 --> 00:11:25,000
+oh é o que a gente viu, ele trabalha
+
+237
+00:11:25,009 --> 00:11:27,359
+com um d p pra fazer aí né? A
+
+238
+00:11:27,369 --> 00:11:31,200
+requisição, assim como o DNS, também trabalha com
+
+239
+00:11:31,210 --> 00:11:33,759
+o D V pra requisição e depois o TC p
+
+240
+00:11:33,769 --> 00:11:36,038
+pra fazer o seu papel, né? Então,
+
+241
+00:11:36,048 --> 00:11:38,908
+porque ele não é pra roteamento, ele não vai
+
+242
+00:11:38,918 --> 00:11:42,239
+acessar páginas? Ele não é pra transmissão confiável,
+
+243
+00:11:42,250 --> 00:11:44,058
+né? Não é isso E ele não vai d
+
+244
+00:11:44,070 --> 00:11:45,759
+m s vai trabalhar com o DNS.
+
+245
+00:11:45,769 --> 00:11:49,009
+Ele vai simplesmente, né? Jogar? O pedido
+
+246
+00:11:49,019 --> 00:11:51,349
+como foi feito através do protocolo U? D P
+
+247
+00:11:51,359 --> 00:11:53,750
+porque não tem que ter confiabilidade! Como a gente
+
+248
+00:11:53,759 --> 00:11:57,288
+já estudou tranquilidade? Então é isso.
+
+249
+00:11:57,298 --> 00:11:58,808
+Grande abraço até a próxima.
+

@@ -1,0 +1,764 @@
+1
+00:00:06,459 --> 00:00:11,648
+Olá, vamos continuar o nosso processo de aprendizado,
+
+2
+00:00:11,659 --> 00:00:15,550
+né? De gerenciamento de processo nós vamos falar agora
+
+3
+00:00:15,560 --> 00:00:19,089
+de tecnologias de gerenciamento de processo, né? Que
+
+4
+00:00:19,100 --> 00:00:23,728
+eh nada mais é do que a execução de processos
+
+5
+00:00:23,739 --> 00:00:26,908
+por máquinas, esses temas, né? É claro
+
+6
+00:00:26,920 --> 00:00:30,789
+que eh ao pensar nessa perspectiva, a gente tem
+
+7
+00:00:30,798 --> 00:00:35,228
+que observar que a verdade hoje eh atualmente dos tempos
+
+8
+00:00:35,240 --> 00:00:35,668
+atuais.
+
+9
+00:00:35,679 --> 00:00:39,848
+É justamente contar cada vez com mais meios eh que
+
+10
+00:00:39,859 --> 00:00:46,289
+facilitam a implementação e a realização das nossas eh,
+
+11
+00:00:46,298 --> 00:00:49,329
+da da, da, da, das nossas nos
+
+12
+00:00:49,340 --> 00:00:50,918
+nossos objetivos organizacionais.
+
+13
+00:00:50,929 --> 00:00:53,668
+E e pra isso a gente conta com a tecnologia
+
+14
+00:00:53,679 --> 00:00:55,250
+sim, né? Conti.
+
+15
+00:00:55,259 --> 00:00:58,529
+Contamos com máquina, contamos com sistemas, contamos com
+
+16
+00:00:58,539 --> 00:01:01,990
+o software, né? Que é o grande Ah,
+
+17
+00:01:02,000 --> 00:01:05,829
+eh, vamos dizer, o grande aliado das organizações
+
+18
+00:01:05,838 --> 00:01:08,668
+hoje, de forma a facilitar a construção daquilo que
+
+19
+00:01:08,680 --> 00:01:11,588
+a gente tá pretendendo dentro das empresas, dentro da
+
+20
+00:01:11,599 --> 00:01:14,359
+nossa organização, né? NOS da ele eles vamos
+
+21
+00:01:14,370 --> 00:01:18,079
+dizer ele, e eles economizam muito do nosso trabalho.
+
+22
+00:01:18,088 --> 00:01:20,549
+A partir do momento que eles entregam aí um método
+
+23
+00:01:20,558 --> 00:01:24,415
+né? Adequado? Pra se disciplinado, e adequado
+
+24
+00:01:24,424 --> 00:01:30,094
+pra se resolver os problemas cotidianos? Implementar as funções
+
+25
+00:01:30,105 --> 00:01:33,334
+que nós desejamos, né? Nisso desde sempre,
+
+26
+00:01:33,344 --> 00:01:35,334
+né? Então, se você olhar pra dentro da
+
+27
+00:01:35,344 --> 00:01:37,974
+sua pra dentro da sua organização ou até pra dentro
+
+28
+00:01:37,984 --> 00:01:40,709
+do seu dia a dia você vai ver que eh
+
+29
+00:01:40,719 --> 00:01:45,198
+máquinas E esses sistemas estão sempre eh integrando o nosso
+
+30
+00:01:45,209 --> 00:01:47,579
+ambiente atual não seria diferente.
+
+31
+00:01:47,588 --> 00:01:50,219
+Quando a gente fala de processo também, né?
+
+32
+00:01:50,230 --> 00:01:53,859
+Então eh, eh essa essa perspectiva também, de
+
+33
+00:01:53,870 --> 00:01:55,859
+de, de de estrutura, né? Quando a
+
+34
+00:01:55,870 --> 00:01:58,138
+gente fala de estrutura, a gente tá falando que
+
+35
+00:01:58,150 --> 00:02:00,900
+ela também contribui pra estratégia do negócio, uma vez
+
+36
+00:02:00,909 --> 00:02:04,638
+que ela determina eh dentro de um de uma perspectiva
+
+37
+00:02:04,650 --> 00:02:06,939
+de como isso vai acontecer dentro da empresa.
+
+38
+00:02:06,948 --> 00:02:09,919
+Como isso vai acontecer no dia-a-dia da organização? Como
+
+39
+00:02:09,929 --> 00:02:14,058
+isso vai levar a organização a ter o seu diferencial
+
+40
+00:02:14,069 --> 00:02:17,319
+na verdade? Eh eu, eu eu eu eu
+
+41
+00:02:17,330 --> 00:02:19,699
+gosto de pensar e costumo pensar que ah, hum
+
+42
+00:02:19,710 --> 00:02:23,278
+muitos dos nossos, das nossas máquinas nosso e e
+
+43
+00:02:23,288 --> 00:02:26,538
+essa máquina de sistemas, essa perspectiva de tec dessas
+
+44
+00:02:26,550 --> 00:02:31,000
+essa tecnologia, ela deixou de ser algo, eh
+
+45
+00:02:31,008 --> 00:02:32,750
+que vai fazer um diferencial.
+
+46
+00:02:32,758 --> 00:02:35,069
+Na verdade, ela muitas das vezes se tornou uma
+
+47
+00:02:35,080 --> 00:02:38,429
+commoditie organizacional, né? Se você vai a um
+
+48
+00:02:38,439 --> 00:02:40,088
+restaurante, hoje a gente já não anda mais com
+
+49
+00:02:40,099 --> 00:02:41,308
+dinheiro, mas você vai a um restaurante e tem
+
+50
+00:02:41,319 --> 00:02:41,508
+lá.
+
+51
+00:02:41,520 --> 00:02:45,819
+Uma máquina de eh é nossa, você faz um
+
+52
+00:02:45,830 --> 00:02:46,659
+um pagamento.
+
+53
+00:02:46,669 --> 00:02:50,139
+Eletrônico, né? Você vai fazer uma uma,
+
+54
+00:02:50,149 --> 00:02:52,580
+uma compra na internet, você tá usando um sistema,
+
+55
+00:02:52,588 --> 00:02:56,460
+uma tecnologia, enfim, essa tecnologia acabou sendo incorporada
+
+56
+00:02:56,469 --> 00:03:02,490
+ao nosso dia-a-dia Hoje em dia Tá bom essa I
+
+57
+00:03:02,500 --> 00:03:05,169
+isso isso que eu falei, só é reforçado ter
+
+58
+00:03:05,179 --> 00:03:08,080
+essa perspectiva, por exemplo, de atualidade.
+
+59
+00:03:08,088 --> 00:03:10,409
+Ou seja, cada vez mais estamos dependentes.
+
+60
+00:03:10,419 --> 00:03:15,199
+Cresce dependente, crescentemente dessa tecnologia, Não, não
+
+61
+00:03:15,210 --> 00:03:18,879
+consegue mais fazer com que a gente perceba esse mundo
+
+62
+00:03:18,889 --> 00:03:22,159
+sem essa tecnologia, né? Então, acabei de
+
+63
+00:03:22,169 --> 00:03:24,240
+falar a gente vai fazer uma compra.
+
+64
+00:03:24,250 --> 00:03:25,199
+Cê tá usando um car.
+
+65
+00:03:25,210 --> 00:03:27,319
+Já A gente já usa o cartão de crédito.
+
+66
+00:03:27,330 --> 00:03:29,558
+Eh antes, né? Usava o dinheiro, agora
+
+67
+00:03:29,569 --> 00:03:31,179
+não usa mais dinheiro, Tem um cartão de crédito.
+
+68
+00:03:31,189 --> 00:03:33,639
+Agora o cartão de crédito tá substituindo por outros meios
+
+69
+00:03:33,649 --> 00:03:35,740
+de pagamento, muito mais imediato.
+
+70
+00:03:35,750 --> 00:03:37,879
+Até pelo celular, você cadastra seu cartão.
+
+71
+00:03:37,889 --> 00:03:42,050
+Você já paga pelo celular, né? Então essa
+
+72
+00:03:42,058 --> 00:03:47,479
+atualidade nos leva crescentemente a a dependência dessa tecnologia A,
+
+73
+00:03:47,490 --> 00:03:49,770
+ao passo de que se eu não tiver, eu
+
+74
+00:03:49,778 --> 00:03:51,050
+estou fora do mercado.
+
+75
+00:03:51,058 --> 00:03:52,429
+Por isso que eu falei da questão da combo,
+
+76
+00:03:52,439 --> 00:03:54,808
+né? Se eu não tenho a tecnologia, eu
+
+77
+00:03:54,819 --> 00:03:56,909
+vou tá fora do mercado, né? Então eu
+
+78
+00:03:56,919 --> 00:03:58,849
+tenho até um exemplo que uma eu eu eu fui
+
+79
+00:03:58,860 --> 00:03:59,490
+fazer compra.
+
+80
+00:03:59,500 --> 00:04:00,679
+Em algum loca, eu fui fazer compra, fui
+
+81
+00:04:00,689 --> 00:04:03,088
+almoçar em algum local no shopping e não tinha fila.
+
+82
+00:04:03,099 --> 00:04:05,270
+E eu, com muita pressa, fui naquele local
+
+83
+00:04:05,278 --> 00:04:08,865
+e quando eu me cheguei na a loja e eu
+
+84
+00:04:08,875 --> 00:04:10,743
+vi que que que não tinha fila, porque o
+
+85
+00:04:10,754 --> 00:04:12,955
+sistema do cara tava fora do ar, ou seja,
+
+86
+00:04:12,963 --> 00:04:15,784
+se ele não tem tecnologia, ele não consegue vender,
+
+87
+00:04:15,794 --> 00:04:19,915
+né? Então, a tecnologia é o pilar estrutural
+
+88
+00:04:19,923 --> 00:04:22,704
+do negócio, né? Ou seja eh, eu
+
+89
+00:04:22,713 --> 00:04:26,024
+apoio as minhas, a minha organização, aquilo que
+
+90
+00:04:26,035 --> 00:04:28,303
+eu tô entregando em cima da tecnologia, e não
+
+91
+00:04:28,314 --> 00:04:30,545
+seria diferente em relação ao processo.
+
+92
+00:04:30,553 --> 00:04:33,064
+Eu posso apoiar o meu processo, a minha gestão
+
+93
+00:04:33,074 --> 00:04:36,350
+em cima da tecnologia, né? EH eh que
+
+94
+00:04:36,358 --> 00:04:39,869
+eu defina na máquina ou no meu sistema aquele processo.
+
+95
+00:04:39,879 --> 00:04:44,949
+Como ele vai ocorrer, Isso pode acontecer facilmente facilmente,
+
+96
+00:04:44,959 --> 00:04:49,259
+né? Então, por exemplo, eu posso abordar
+
+97
+00:04:49,269 --> 00:04:52,500
+uma tecnologia em que favoreça, pra mim, a
+
+98
+00:04:52,509 --> 00:04:55,519
+assinatura de um documento eletrônico.
+
+99
+00:04:55,528 --> 00:04:57,119
+Antes, por exemplo, pra gente, pra nós
+
+100
+00:04:57,129 --> 00:05:00,428
+assinarmos um contrato Qualquer que seja, né? Eu
+
+101
+00:05:00,439 --> 00:05:05,899
+tinha que imprimir duas vias Eh fulano e fulano assinava
+
+102
+00:05:05,910 --> 00:05:09,040
+ir ao cartório, reconhecer firma, né? Beltran
+
+103
+00:05:09,048 --> 00:05:11,379
+Assinava e ao cartório reconhecer firma.
+
+104
+00:05:11,389 --> 00:05:14,303
+Aí o fulano ficava com uma cópia, a organização
+
+105
+00:05:14,314 --> 00:05:15,345
+ficava com outra.
+
+106
+00:05:15,355 --> 00:05:18,514
+Então, hoje essa essa e essa tecnologia me permite
+
+107
+00:05:18,524 --> 00:05:18,915
+fazer o quê.
+
+108
+00:05:18,923 --> 00:05:24,434
+Uma assinatura digital, com garantias de certificados digitais por
+
+109
+00:05:24,444 --> 00:05:26,653
+trás daquilo, ou seja, é A é o
+
+110
+00:05:26,665 --> 00:05:30,074
+processo sendo realizada por meio de máquinas por meio de
+
+111
+00:05:30,084 --> 00:05:33,149
+sistemas, né? Então o processo de assinatura de
+
+112
+00:05:33,160 --> 00:05:38,189
+contrato ele saiu daquela daquele pressuposto Manual de impressão Usa
+
+113
+00:05:38,199 --> 00:05:43,230
+a folha e tal e passou a ser eh automatizado
+
+114
+00:05:43,238 --> 00:05:47,389
+e também digitalizado De forma a economia de tempo,
+
+115
+00:05:47,399 --> 00:05:51,069
+economia de dinheiro e com garantias, né? De
+
+116
+00:05:51,079 --> 00:05:54,738
+cumprimentoàs a legislação que é o mais importante,
+
+117
+00:05:54,750 --> 00:05:57,428
+né? Então a gente tá até nessa esteira a
+
+118
+00:05:57,439 --> 00:05:59,829
+gente já tá até eliminando o uso da impressora propriamente
+
+119
+00:05:59,838 --> 00:06:01,129
+dita? Tá bom.
+
+120
+00:06:01,869 --> 00:06:06,309
+Outra é que o b PM que que é o
+
+121
+00:06:06,319 --> 00:06:10,040
+nosso eh eh, eh gerenciamento de processo aí né,
+
+122
+00:06:10,048 --> 00:06:12,678
+ele tem o suporte pra modelos desse processo? A
+
+123
+00:06:12,689 --> 00:06:16,160
+gente já falou que eh o B PM, ele
+
+124
+00:06:16,170 --> 00:06:21,738
+tem essa! Essa perspectiva de eh Notação era é
+
+125
+00:06:21,750 --> 00:06:26,899
+uma disciplina e por pelo fato de ser uma disciplina
+
+126
+00:06:26,910 --> 00:06:30,069
+de ter a sua notação de ser de ter o
+
+127
+00:06:30,079 --> 00:06:34,269
+seu vocabulário, né? Toda a sua estrutura construída
+
+128
+00:06:34,278 --> 00:06:37,290
+e disciplinada que a gente fala que seria um método
+
+129
+00:06:37,298 --> 00:06:38,608
+científico.
+
+130
+00:06:38,619 --> 00:06:42,238
+Okay porque ele foi estudado, ele foi eh definido,
+
+131
+00:06:42,250 --> 00:06:46,199
+ele foi preparado, então ele me dá o suporte
+
+132
+00:06:46,209 --> 00:06:48,838
+pra modelos de processo, né? E ele me
+
+133
+00:06:48,850 --> 00:06:54,113
+dá o suporte pra utilização de processos, por máquinas,
+
+134
+00:06:54,125 --> 00:06:55,553
+esses temas.
+
+135
+00:06:55,564 --> 00:06:57,754
+E é claro que eu não vou falar.
+
+136
+00:06:57,764 --> 00:06:59,754
+Só eh E aí? Eu não tô dizendo que
+
+137
+00:06:59,764 --> 00:07:01,915
+eu tenho só uma vertente pra isso.
+
+138
+00:07:01,923 --> 00:07:06,545
+É importante ressaltar que nós temos n outros tecnologias voltadas
+
+139
+00:07:06,553 --> 00:07:08,954
+pra B PM, por exemplo, nós temos o
+
+140
+00:07:08,963 --> 00:07:12,559
+b p A, que é de processos de análise.
+
+141
+00:07:12,569 --> 00:07:15,980
+Nós temos de arquitetura que é o e a nós
+
+142
+00:07:15,988 --> 00:07:19,579
+temos o gerenciamento por regras de sistemas.
+
+143
+00:07:19,588 --> 00:07:24,439
+Cada uma dessas tecnologias está empregada dentro da gestão de
+
+144
+00:07:24,449 --> 00:07:26,428
+processos, dentro do do do, do, da
+
+145
+00:07:26,439 --> 00:07:30,420
+execução, desse desse desse modelo, que nós estamos
+
+146
+00:07:30,428 --> 00:07:32,399
+pressupondo que é o b PM que a gente quer
+
+147
+00:07:32,470 --> 00:07:33,699
+trazer pra nossa organização.
+
+148
+00:07:33,709 --> 00:07:36,738
+Qual é a melhor é aquela que vai nos atender.
+
+149
+00:07:36,750 --> 00:07:40,678
+Nós vamos falar daqui a pouquinho sobre algumas dessas perspectivas
+
+150
+00:07:40,689 --> 00:07:43,000
+pra gente ter essa ideia de como isso pode ser
+
+151
+00:07:43,009 --> 00:07:48,199
+construído organizacional, de forma que a minha organização possa
+
+152
+00:07:48,209 --> 00:07:52,428
+alavancar melhor aquilo que ela está trabalhando em relação ao
+
+153
+00:07:52,439 --> 00:07:53,298
+processo.
+
+154
+00:07:53,309 --> 00:07:56,759
+É importante a gente considerar que o processo em si,
+
+155
+00:07:56,769 --> 00:08:00,059
+né, Ele, pelo fato dele ser integrado a
+
+156
+00:08:00,069 --> 00:08:03,600
+a própria ferramenta em si, ela permite essa integração,
+
+157
+00:08:03,608 --> 00:08:07,379
+em que um processo converse com o outro, Naturalmente
+
+158
+00:08:07,389 --> 00:08:13,319
+uma uma implementação apresente o efeito desejado em toda a
+
+159
+00:08:13,329 --> 00:08:18,220
+organização, considerando toda a perspectiva por trás daquilo que
+
+160
+00:08:18,230 --> 00:08:20,178
+se pressupõe em relação ao processo.
+
+161
+00:08:20,189 --> 00:08:23,540
+Isso é fundamental dentro da entrega de valor que nós
+
+162
+00:08:23,548 --> 00:08:27,338
+temos que pro nosso cliente, que começa pela agregação
+
+163
+00:08:27,350 --> 00:08:29,540
+de valor dentro da nossa própria organização.
+
+164
+00:08:29,548 --> 00:08:33,538
+Então, quando a gente pressupõe uma tecnologia, quando
+
+165
+00:08:33,548 --> 00:08:38,739
+a gente pressupõe uma e uma tecnologia de agenciamento de
+
+166
+00:08:38,750 --> 00:08:42,918
+proje projeto por meio de execução desses processos em Marx
+
+167
+00:08:42,928 --> 00:08:47,440
+e esses temas, nós estamos pressupondo uma melhoria contínua,
+
+168
+00:08:47,450 --> 00:08:50,428
+nós estamos pressupondo garantir uma padronização.
+
+169
+00:08:50,440 --> 00:08:54,479
+Nós estamos pressupondo garantir uma disciplina, uma agilidade.
+
+170
+00:08:54,489 --> 00:08:56,700
+O final disso tudo é o quê? Agregação de
+
+171
+00:08:56,710 --> 00:09:00,038
+valor, que acontece aonde no nosso processo, na
+
+172
+00:09:00,048 --> 00:09:03,440
+nossa transformação, né? Lembra? Entrou o insumo,
+
+173
+00:09:03,450 --> 00:09:04,558
+eu transformo.
+
+174
+00:09:04,570 --> 00:09:08,519
+Eu, gero uma saída e essa transformação, eu
+
+175
+00:09:08,529 --> 00:09:10,200
+preciso agregar valor.
+
+176
+00:09:10,210 --> 00:09:13,080
+E essa execução por marca sistemas.
+
+177
+00:09:13,090 --> 00:09:18,239
+Essas tecnologias empregadas, elas vem justamente nessa nessa condição
+
+178
+00:09:18,250 --> 00:09:20,178
+de agregar valor ao meu processo.
+
+179
+00:09:20,273 --> 00:09:24,283
+Isso deve ser visto observado, percebido.
+
+180
+00:09:24,293 --> 00:09:27,001
+Senão não vale a pena você adotar uma tecnologia que
+
+181
+00:09:27,013 --> 00:09:28,523
+não vai te trazer valor nenhum que não vai te
+
+182
+00:09:28,533 --> 00:09:29,793
+trazer benefício nenhum.
+
+183
+00:09:29,802 --> 00:09:34,172
+Ela tem que representar esse benefício e esse desejo organizacional,
+
+184
+00:09:34,182 --> 00:09:38,822
+porque o final dela sempre é entregar o melhor para
+
+185
+00:09:38,832 --> 00:09:42,335
+o meu cliente com maior, com maior assertividade,
+
+186
+00:09:42,346 --> 00:09:46,085
+com menos custo alinhadas estratégias e assim por diante.
+
+187
+00:09:46,096 --> 00:09:48,596
+Então, essa perspectiva é o que se pressupõe e
+
+188
+00:09:48,605 --> 00:09:52,565
+o desejo que o que a tecnologia nos entrega e
+
+189
+00:09:52,575 --> 00:09:54,684
+a gente tem que saber muito bem, utilizar isso
+
+190
+00:09:54,695 --> 00:09:56,525
+aí okay até a próxima.
+
+191
+00:09:56,535 --> 00:10:01,144
+Vamos continuando aí nosso entendimento acerca da tecnologia.
+

@@ -1,0 +1,640 @@
+1
+00:00:06,408 --> 00:00:09,259
+vamos continuar, né? Estamos falando da nossa política.
+
+2
+00:00:09,269 --> 00:00:11,939
+Nós falamos, na aula anterior sobre a questão da
+
+3
+00:00:11,948 --> 00:00:15,500
+do patrocínio da alta direção e como a gente desenvolve
+
+4
+00:00:15,509 --> 00:00:18,699
+desenvolve a questão do do da, da política,
+
+5
+00:00:18,708 --> 00:00:19,458
+de segurança, da informação.
+
+6
+00:00:19,469 --> 00:00:22,579
+Então a gente vai continuar nessa aula falando sobre esse
+
+7
+00:00:22,589 --> 00:00:26,539
+desenvolvimento da política, da informação, da política,
+
+8
+00:00:26,548 --> 00:00:29,670
+da segurança da informação e comunicação, dentro das nossas
+
+9
+00:00:29,679 --> 00:00:30,298
+organizações.
+
+10
+00:00:30,309 --> 00:00:33,609
+Tá na na voltando que na outra aula nós falamos
+
+11
+00:00:33,618 --> 00:00:36,408
+sobre análise de risco, né? É importantíssimo,
+
+12
+00:00:36,418 --> 00:00:38,950
+é a parte principal e depois falamos sobre os nossos
+
+13
+00:00:38,959 --> 00:00:39,689
+objetivos.
+
+14
+00:00:39,700 --> 00:00:41,490
+E agora o próximo etapa.
+
+15
+00:00:41,500 --> 00:00:45,408
+A próxima etapa é a definição da política nessa etapa
+
+16
+00:00:45,418 --> 00:00:47,429
+do processo de definição.
+
+17
+00:00:47,439 --> 00:00:50,728
+O objetivo é transformar os objetivos gerais da segurança,
+
+18
+00:00:50,740 --> 00:00:52,848
+da informação em medidas concretas.
+
+19
+00:00:52,859 --> 00:00:57,755
+Tá e diretrizes específicas, como vimos anteriormente, né?
+
+20
+00:00:57,764 --> 00:01:02,384
+As políticas são desenvolvidas e são desenvolvidas.
+
+21
+00:01:02,395 --> 00:01:05,823
+E temos procedimentos, diretrizes e padrões bem específicos pra
+
+22
+00:01:05,834 --> 00:01:07,653
+cada realidade de cada organização.
+
+23
+00:01:07,665 --> 00:01:12,724
+Então, nós iremos definir a política conforme a realidade
+
+24
+00:01:12,734 --> 00:01:17,605
+conforme o ramo, conforme a necessidade de cada organização.
+
+25
+00:01:18,980 --> 00:01:21,510
+Depois disso, a gente tem a aprovação e comunicação.
+
+26
+00:01:21,519 --> 00:01:24,909
+A etapa de aprovação e comunicação da política de segurança
+
+27
+00:01:24,918 --> 00:01:29,549
+da informação é um marco significativo no desenvolvimento e implementação
+
+28
+00:01:29,558 --> 00:01:30,569
+dessa política.
+
+29
+00:01:30,579 --> 00:01:34,150
+Nessa fase, a política é submetida a alta administração
+
+30
+00:01:34,159 --> 00:01:39,969
+para aprovação posteriormente comunicar a todos os funcionários da organização.
+
+31
+00:01:39,980 --> 00:01:43,388
+A aprovação da política pela alta direção é crucial por
+
+32
+00:01:43,400 --> 00:01:45,930
+várias razões A gente tá batendo muito isso, né?
+
+33
+00:01:45,939 --> 00:01:49,109
+O patrocínio da alta direção e importância da alta direção
+
+34
+00:01:49,120 --> 00:01:49,870
+é muito.
+
+35
+00:01:49,879 --> 00:01:53,418
+Isso é fundamental, demonstra o compromisso.
+
+36
+00:01:53,430 --> 00:01:55,569
+Quando a gente tem aprovação da direção de Depo,
+
+37
+00:01:55,579 --> 00:01:58,480
+de demonstra o compromisso da auto direção, né?
+
+38
+00:01:58,489 --> 00:02:00,879
+Com a segurança da informação, tá isso? Isso
+
+39
+00:02:00,888 --> 00:02:01,230
+é um sinal.
+
+40
+00:02:01,239 --> 00:02:04,180
+Claro que a política é prioridade pra aquela organização,
+
+41
+00:02:04,189 --> 00:02:08,278
+tá estabelece a autoridade daquela política? Tá? É
+
+42
+00:02:08,288 --> 00:02:12,538
+um documento oficial da organização, É oficial, tá,
+
+43
+00:02:12,550 --> 00:02:16,300
+e significa o quê? Que todos todos cenários devem
+
+44
+00:02:16,308 --> 00:02:19,960
+seguir a política tá em muitos setores e regiões?
+
+45
+00:02:19,969 --> 00:02:23,399
+A aprovação da política é um requisito legal e falta
+
+46
+00:02:23,409 --> 00:02:25,240
+a falta de conformidade.
+
+47
+00:02:25,250 --> 00:02:27,758
+Pode resultar penalidades ou multa, por exemplo.
+
+48
+00:02:27,770 --> 00:02:31,520
+Na área financeira, a aprovação é algo que tem
+
+49
+00:02:31,528 --> 00:02:34,000
+que ser algo, tem que ser um requisito legal.
+
+50
+00:02:34,008 --> 00:02:38,360
+Tem que ter em ata que aquela política foi aprovada,
+
+51
+00:02:38,368 --> 00:02:38,719
+Tá bom.
+
+52
+00:02:38,729 --> 00:02:43,319
+Então precisamos da aprovação da autogeração e alguns ramos específicos
+
+53
+00:02:43,330 --> 00:02:44,460
+ainda tem que ser.
+
+54
+00:02:44,469 --> 00:02:48,330
+É um requisito legal e regulatório Essa aprovação depois disso,
+
+55
+00:02:48,338 --> 00:02:49,770
+ou seja, a gente aprovou.
+
+56
+00:02:49,778 --> 00:02:54,229
+Tivemos a aprovação da auto direção, tivemos a comunicação
+
+57
+00:02:54,240 --> 00:02:56,889
+da política para todas as empresas, vem uma parte
+
+58
+00:02:56,899 --> 00:02:59,250
+fundamental que a gente vai começar a trabalhar a cultura
+
+59
+00:02:59,258 --> 00:03:03,569
+porque a gente vai precisar ter treinamento e conscientização dessa
+
+60
+00:03:03,580 --> 00:03:04,849
+política.
+
+61
+00:03:04,860 --> 00:03:06,419
+Tá o treinamento do desempenho.
+
+62
+00:03:06,429 --> 00:03:10,028
+Um papel crucial no desenvolvimento da política de segurança e
+
+63
+00:03:10,038 --> 00:03:14,868
+formação, capacitando os funcionários com habilidades e conhecimentos necessários
+
+64
+00:03:14,879 --> 00:03:17,449
+para implementar as diretrizes de segurança.
+
+65
+00:03:17,460 --> 00:03:21,629
+Isso inclui o entendimento do conceito de segurança como autenticação,
+
+66
+00:03:21,639 --> 00:03:26,069
+criptografia, ameaças cibernéticas e a prática de procedimento de
+
+67
+00:03:26,080 --> 00:03:30,599
+segurança, como a criação de senhas robustas, robustas
+
+68
+00:03:30,610 --> 00:03:32,778
+e identificação de incidentes de segurança.
+
+69
+00:03:32,788 --> 00:03:34,460
+Aqui a gente vai começar a definir, tá,
+
+70
+00:03:34,469 --> 00:03:36,058
+a gente vai ter o treinamento, vai ter a
+
+71
+00:03:36,069 --> 00:03:38,580
+conscientização, a gente vai explicar pras pessoas que colocar
+
+72
+00:03:38,588 --> 00:03:41,909
+senha um, dois, três não é suficiente,
+
+73
+00:03:41,919 --> 00:03:44,659
+A gente vai começar a identificar quais são os incidentes,
+
+74
+00:03:44,669 --> 00:03:47,500
+catalogar esses acidentes, começar a criar uma base de
+
+75
+00:03:47,508 --> 00:03:50,580
+incidentes pra começar a tratar esses incidentes.
+
+76
+00:03:50,588 --> 00:03:53,838
+Então é fundamental a gente ter isso Tá, portanto,
+
+77
+00:03:53,849 --> 00:03:57,838
+o treinamento e a conscientização não são apenas requisitos da
+
+78
+00:03:57,849 --> 00:04:01,449
+política, são investimentos na segurança e na resistência da
+
+79
+00:04:01,460 --> 00:04:04,758
+organização contra ameaças em evolução.
+
+80
+00:04:04,770 --> 00:04:08,808
+Elas capacitam os funcionários a serem defensores da segurança da
+
+81
+00:04:08,819 --> 00:04:12,618
+informação e contribuir para a proteção crítico da empresa.
+
+82
+00:04:12,629 --> 00:04:15,000
+Quando a gente está falando de segurança da informação,
+
+83
+00:04:15,008 --> 00:04:20,709
+a participação dos funcionários é fundamental, É fundamental,
+
+84
+00:04:20,718 --> 00:04:24,468
+todos precisam ter consciência da importância e consciência dos seus
+
+85
+00:04:24,478 --> 00:04:29,298
+dados e consciência, principalmente de como proteger a reputação
+
+86
+00:04:29,307 --> 00:04:30,069
+da sua empresa.
+
+87
+00:04:31,119 --> 00:04:35,209
+Aí vem a implementação e execução na política.
+
+88
+00:04:35,220 --> 00:04:38,269
+A implementação e a execução da política de segurança e
+
+89
+00:04:38,278 --> 00:04:42,290
+informação marca um ponto em que as diretrizes e as
+
+90
+00:04:42,298 --> 00:04:46,209
+medidas de segurança são transformadas em ações práticas no ambiente
+
+91
+00:04:46,220 --> 00:04:46,709
+de trabalho.
+
+92
+00:04:47,059 --> 00:04:49,588
+Essa fase é essencial para garantir que a política seja
+
+93
+00:04:49,600 --> 00:04:53,629
+aplicada de maneira eficaz a toda a organização.
+
+94
+00:04:53,639 --> 00:04:55,509
+Então a gente precisa aqui, oh, vai começar
+
+95
+00:04:55,519 --> 00:05:00,108
+agora a equipe técnica entrar, implementar, executar,
+
+96
+00:05:00,119 --> 00:05:00,220
+né.
+
+97
+00:05:00,230 --> 00:05:02,829
+A gente precisa entender como é como a equipe técnica
+
+98
+00:05:02,838 --> 00:05:05,970
+vai começar a implementar tudo que foi desenhado.
+
+99
+00:05:05,980 --> 00:05:08,509
+Dentro da tudo foi detalhado, detalhado, não né?
+
+100
+00:05:08,519 --> 00:05:13,189
+Mas descrito na política detalhado, nos procedimentos de normas.
+
+101
+00:05:13,199 --> 00:05:17,420
+Aí vem a implementação, implementação e execução dessa política.
+
+102
+00:05:17,428 --> 00:05:19,379
+E aí vem uma outra, uma parte fundamental.
+
+103
+00:05:19,389 --> 00:05:22,139
+Agora, que é monitorar a gente tá implementando a
+
+104
+00:05:22,149 --> 00:05:22,699
+gente tá executando.
+
+105
+00:05:22,709 --> 00:05:24,619
+Mas a gente precisa monitorar, porque a partir do
+
+106
+00:05:24,629 --> 00:05:27,350
+momento que a gente monitora a gente vai conseguir encontrar,
+
+107
+00:05:27,358 --> 00:05:30,838
+pra gente conseguir evoluir, ter uma revisão, né?
+
+108
+00:05:31,088 --> 00:05:33,899
+A fase de monitoramento e revisão da política e da
+
+109
+00:05:33,910 --> 00:05:36,750
+segurança da informação é uma parte crítica do ciclo de
+
+110
+00:05:36,759 --> 00:05:38,689
+vida, da segurança, da informação.
+
+111
+00:05:38,699 --> 00:05:42,899
+Nesse estágio, a organização está continuamente atentaàs ameaças,
+
+112
+00:05:42,910 --> 00:05:45,540
+vulnerabilidade e mudanças no ambiente de segurança.
+
+113
+00:05:45,548 --> 00:05:48,449
+Ajustando a política, as suas práticas de segurança,
+
+114
+00:05:48,459 --> 00:05:49,850
+tá e evolução.
+
+115
+00:05:49,858 --> 00:05:51,399
+Esse é um ponto outro.
+
+116
+00:05:51,410 --> 00:05:54,439
+Outro ponto muito importante, porque a gente precisa entender
+
+117
+00:05:54,449 --> 00:05:56,420
+o que está sendo feito e pra isso a gente
+
+118
+00:05:56,428 --> 00:05:59,988
+precisa monitorar a nossa política comunicação.
+
+119
+00:06:00,000 --> 00:06:03,230
+A comunicação da política deve começar por uma mensagem direta
+
+120
+00:06:03,238 --> 00:06:07,350
+sobre a importância da segurança da informação, destacando que
+
+121
+00:06:07,358 --> 00:06:10,100
+todos os cenários têm a responsabilidade, ou seja,
+
+122
+00:06:10,108 --> 00:06:12,709
+todos pessoal, todos desde a de direção.
+
+123
+00:06:12,720 --> 00:06:16,100
+Todo mundo tem a responsabilidade de proteger os ativos da
+
+124
+00:06:16,108 --> 00:06:16,790
+organização.
+
+125
+00:06:16,798 --> 00:06:20,988
+Pra isso, é necessário utilizar diversos canais de comunicação
+
+126
+00:06:21,000 --> 00:06:24,858
+com reuniões e mails, intranets, treinamentos, murais
+
+127
+00:06:24,869 --> 00:06:28,809
+de forma acessível e evitando jargões técnicos.
+
+128
+00:06:28,819 --> 00:06:31,500
+A gente tem que entender que a política, a
+
+129
+00:06:31,509 --> 00:06:33,928
+informação é uma política que vai ser, tem que
+
+130
+00:06:33,939 --> 00:06:34,689
+ser abrangente.
+
+131
+00:06:34,699 --> 00:06:35,738
+Por toda a organização.
+
+132
+00:06:35,750 --> 00:06:37,309
+Não adianta ficar colocando em termos técnicos.
+
+133
+00:06:37,403 --> 00:06:41,254
+Nós precisamos fazer uma comunicação clara, de preferência com
+
+134
+00:06:41,264 --> 00:06:42,814
+a sua equipe, com a com a equipe de
+
+135
+00:06:42,824 --> 00:06:46,053
+comunicação de marketing da empresa envolvida, pra que ela
+
+136
+00:06:46,064 --> 00:06:51,355
+consiga abranger todo todos os funcionários, todas as de
+
+137
+00:06:51,363 --> 00:06:53,213
+todas as áreas.
+
+138
+00:06:53,225 --> 00:06:56,595
+Tá precisar, precisa ser bem abrangente essa política e
+
+139
+00:06:56,605 --> 00:07:00,535
+por isso o envolvimento de outras áreas é fundamental pra
+
+140
+00:07:00,545 --> 00:07:00,774
+isso.
+
+141
+00:07:00,785 --> 00:07:03,389
+Tá, eh, eu quero destacar quais são os
+
+142
+00:07:03,399 --> 00:07:06,750
+pontos nessa aula, que que a gente focou muito
+
+143
+00:07:06,759 --> 00:07:07,149
+nessa aula.
+
+144
+00:07:07,160 --> 00:07:10,579
+Primeiro, essa política é uma política que novamente precisa
+
+145
+00:07:10,588 --> 00:07:14,759
+ter alta direção patrocinando isso, tá patrocinando aí o
+
+146
+00:07:14,769 --> 00:07:16,678
+que que acontece? A partir do momento que você
+
+147
+00:07:16,689 --> 00:07:18,939
+tem esse esse patrocínio, a gente vai começar a
+
+148
+00:07:18,949 --> 00:07:22,559
+desenhar essa política começando, analisando os riscos, definindo
+
+149
+00:07:22,569 --> 00:07:26,459
+objetivos, né? Fazendo eh eh fazendo o o
+
+150
+00:07:26,470 --> 00:07:27,899
+plano de divulgação.
+
+151
+00:07:27,910 --> 00:07:30,119
+Por quê? Porque a gente teve a aprovação da
+
+152
+00:07:30,129 --> 00:07:32,269
+auto direção, a gente vai implementar.
+
+153
+00:07:32,278 --> 00:07:35,459
+Essa política vai e vai começar a fazer revisão se
+
+154
+00:07:35,470 --> 00:07:39,459
+essa política está sendo suficiente para atender as necessidades da
+
+155
+00:07:39,470 --> 00:07:40,358
+nossa organização.
+
+156
+00:07:40,369 --> 00:07:41,040
+Então, é isso.
+
+157
+00:07:41,048 --> 00:07:43,420
+Foi isso que nós vimos durante essa aula, a
+
+158
+00:07:43,428 --> 00:07:47,338
+importância da alta direção e como a gente desenvolve toda
+
+159
+00:07:47,350 --> 00:07:50,829
+a política de informação e comunicação dentro da nossa empresa.
+
+160
+00:07:50,838 --> 00:07:52,959
+Muito obrigado e vamos pra próxima aula
+

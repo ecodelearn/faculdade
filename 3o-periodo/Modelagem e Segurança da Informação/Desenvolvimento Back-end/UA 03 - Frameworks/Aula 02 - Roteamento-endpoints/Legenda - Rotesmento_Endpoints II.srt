@@ -1,0 +1,452 @@
+1
+00:00:06,538 --> 00:00:09,710
+Olá, vamos falar um pouquinho sobre a geração de
+
+2
+00:00:09,720 --> 00:00:12,509
+entidades, né? Ah, o passo mais básico
+
+3
+00:00:12,519 --> 00:00:16,388
+que eu tenho na construção de um web é ter
+
+4
+00:00:16,399 --> 00:00:18,908
+as entidades no banco, gerar essas entidades no banco.
+
+5
+00:00:18,920 --> 00:00:20,548
+Eu tem que ter uma tabela que guarde esses dados
+
+6
+00:00:20,559 --> 00:00:21,269
+no banco de dados.
+
+7
+00:00:21,280 --> 00:00:24,030
+Porque ele tá representando um estado de algo que existe
+
+8
+00:00:24,039 --> 00:00:26,239
+num banco de dados, né? E aqui eu
+
+9
+00:00:26,250 --> 00:00:29,010
+vou usar o Sese pra isso Hum vamos ver?
+
+10
+00:00:33,279 --> 00:00:36,810
+Eh o sequela! Eu vou usar o sequelas c
+
+11
+00:00:36,819 --> 00:00:41,490
+O Inter face não é tá pra facilitar um pouco
+
+12
+00:00:41,500 --> 00:00:44,368
+a a forma como eu vou criar essas entidades aqui?
+
+13
+00:00:44,380 --> 00:00:46,770
+É uma entidade bem simples que é uma entidade de
+
+14
+00:00:46,779 --> 00:00:52,389
+nota só com título e descrição tá eh, Eu
+
+15
+00:00:52,399 --> 00:00:56,069
+chamei de agenda agenda deve que que eu vou fazer?
+
+16
+00:00:56,079 --> 00:01:01,158
+Vamos ver na prática hum eu tenho aqui oh aqui
+
+17
+00:01:01,168 --> 00:01:04,439
+eu já instalei o D n PM está do sequelas
+
+18
+00:01:04,448 --> 00:01:07,400
+e do M S K L dois é necessário pra
+
+19
+00:01:07,409 --> 00:01:10,829
+poder eh ter a configuração básica, né? Que
+
+20
+00:01:10,838 --> 00:01:13,209
+seriam o o sequela, que é o próprio,
+
+21
+00:01:13,219 --> 00:01:14,019
+o R M e o A.
+
+22
+00:01:14,028 --> 00:01:17,430
+O acesso ao banco de dados seria o driver do
+
+23
+00:01:17,439 --> 00:01:19,778
+IPL dois Agora eu vou instalar o mais o c
+
+24
+00:01:19,790 --> 00:01:25,058
+c c c.
+
+25
+00:01:26,750 --> 00:01:37,569
+Ah, aí seria pra instalar no projeto O sequer
+
+26
+00:01:37,579 --> 00:01:40,819
+esse C pra poder gerenciar ou sequela isso com mais
+
+27
+00:01:40,829 --> 00:01:41,549
+facilidade.
+
+28
+00:01:42,739 --> 00:01:45,790
+Hum feito isso eu vou executar e aí não é
+
+29
+00:01:45,799 --> 00:01:48,588
+mais n p N nesse caso, n P x,
+
+30
+00:01:48,599 --> 00:01:56,150
+né? N p X Sequelas que, se não
+
+31
+00:01:56,159 --> 00:02:03,900
+me engano, é a Inte pronto, deu início.
+
+32
+00:02:03,909 --> 00:02:07,308
+Nele, ele vai criar a estrutura básica e aqui
+
+33
+00:02:07,319 --> 00:02:09,729
+eu tenho oh, Jason.
+
+34
+00:02:10,360 --> 00:02:13,210
+Nesse caso, eu vou colocar os dados de acesso
+
+35
+00:02:13,219 --> 00:02:16,250
+ao meu banco aqui, né? Pra essa máquina
+
+36
+00:02:16,258 --> 00:02:21,099
+tá sendo usada e aqui eu posso usar um agenda.
+
+37
+00:02:22,409 --> 00:02:24,899
+Deve que eu vou usar como banco de dados.
+
+38
+00:02:24,909 --> 00:02:27,099
+Ele sempre configura três bancos, né? Que seria
+
+39
+00:02:27,110 --> 00:02:29,199
+o de desenvolvimento, o de teste E o de
+
+40
+00:02:29,210 --> 00:02:32,860
+produção, né? Ah! Da eletro m q
+
+41
+00:02:32,868 --> 00:02:35,460
+L no endereço cento e vinte e sete zero zero
+
+42
+00:02:35,469 --> 00:02:40,338
+um beleza! Salvei agora eu vou gerar o banco
+
+43
+00:02:40,349 --> 00:02:43,990
+de dados N P x Acho que eu posso voltar
+
+44
+00:02:44,000 --> 00:02:50,899
+isso aqui tá eh D b Dois pontos clientes oh,
+
+45
+00:02:50,909 --> 00:03:03,159
+fiz errado Pá pá pá, pronto agenda deve.
+
+46
+00:03:03,169 --> 00:03:06,550
+Se eu quiser confirmar eu venho aqui oh M s
+
+47
+00:03:06,558 --> 00:03:10,270
+y e ele criou lá o banco de dados,
+
+48
+00:03:10,278 --> 00:03:15,669
+né? Agora eu vou criar as minhas entidades rapidamente,
+
+49
+00:03:15,679 --> 00:03:16,868
+né? Como é que eu vou criar as minhas
+
+50
+00:03:16,879 --> 00:03:22,409
+entidades? Através de no modo eu vou definir a
+
+51
+00:03:22,419 --> 00:03:27,250
+minha entidade e seus atributos, né? Então na
+
+52
+00:03:27,258 --> 00:03:29,210
+me nota com esses atributos e depois vou dar um
+
+53
+00:03:29,219 --> 00:03:33,360
+migra pra poder gere eh criar a entidade no banco
+
+54
+00:03:33,368 --> 00:03:36,389
+de dados, né? Então eu tenho aqui oh
+
+55
+00:03:37,300 --> 00:03:40,270
+N P x Ah! De novo esse se cola
+
+56
+00:03:40,278 --> 00:03:48,250
+c d b eh não moda ponto dois pontos Moda
+
+57
+00:03:48,258 --> 00:03:57,990
+dois pontos g Gerar um modelo traço traço name é
+
+58
+00:03:58,000 --> 00:04:00,949
+o nome da minha tabela ou da minha entidade que
+
+59
+00:04:00,960 --> 00:04:02,169
+eu chamei aqui de nota.
+
+60
+00:04:03,439 --> 00:04:06,429
+A tabela na verdade vai chamar notas menos, menos
+
+61
+00:04:06,439 --> 00:04:12,270
+atributos seria os atributos que eu tenho pra ela,
+
+62
+00:04:12,278 --> 00:04:14,129
+que é título e descrição ambas string.
+
+63
+00:04:16,459 --> 00:04:18,629
+Ah, você não colocou uma chave primária? Não,
+
+64
+00:04:18,639 --> 00:04:19,329
+não coloquei.
+
+65
+00:04:20,209 --> 00:04:22,358
+Ele vai gerar o Edir pra mim automaticamente ver a
+
+66
+00:04:22,369 --> 00:04:23,329
+característica de sequela.
+
+67
+00:04:23,338 --> 00:04:40,720
+Isso tá vírgula! Descrição dois pontos Modelo gerado não
+
+68
+00:04:40,730 --> 00:04:47,470
+reclamou Ah! Ah! Eu escrevi atributos errado comeu.
+
+69
+00:04:52,819 --> 00:04:57,759
+Tá okay gerado então o meu atributo modes Eu vou
+
+70
+00:04:57,769 --> 00:05:00,678
+ter lá o nota com as características, sequelas e
+
+71
+00:05:00,689 --> 00:05:03,369
+eu tenho o migration aqui oh! que já mostra
+
+72
+00:05:03,379 --> 00:05:04,819
+a criação, inclusive com o campo a G.
+
+73
+00:05:04,829 --> 00:05:09,358
+E ele vai ter esse que seriam os registros de
+
+74
+00:05:09,369 --> 00:05:12,838
+criação e modificação, né? Para gerar no banco
+
+75
+00:05:12,850 --> 00:05:17,459
+eu vou escolher C e C.
+
+76
+00:05:18,579 --> 00:05:20,910
+Aí é D B migration, né? D B
+
+77
+00:05:20,920 --> 00:05:33,269
+M Gra opa, e ele vai gerar a tabela
+
+78
+00:05:33,278 --> 00:05:33,709
+pra mim.
+
+79
+00:05:33,720 --> 00:05:37,309
+Ah lá o Crea nota Se eu for lá no
+
+80
+00:05:37,319 --> 00:05:41,100
+meu bom, que eu posso mandar atualizar aqui.
+
+81
+00:05:41,108 --> 00:05:42,879
+Oh, atualizou.
+
+82
+00:05:43,738 --> 00:05:46,028
+Tem ali o nota ali já criado com isso,
+
+83
+00:05:46,040 --> 00:05:50,709
+as minhas entidades estão definidas, né? E isso
+
+84
+00:05:50,720 --> 00:05:52,069
+é o mínimo necessário.
+
+85
+00:05:52,079 --> 00:05:53,230
+Ah, é inserção tal.
+
+86
+00:05:53,238 --> 00:05:54,988
+Isso eu faço lá no depois.
+
+87
+00:05:55,000 --> 00:05:55,838
+Tá aqui.
+
+88
+00:05:55,850 --> 00:06:00,829
+Eu tô interessado em criar a Ah as entidades e
+
+89
+00:06:00,838 --> 00:06:03,088
+definir esses elementos no banco, né.
+
+90
+00:06:03,100 --> 00:06:05,920
+Então com isso aí eu consigo já ter uma estrutura
+
+91
+00:06:05,928 --> 00:06:06,759
+necessária.
+
+92
+00:06:06,769 --> 00:06:09,528
+Eu já tenho sequelas, já tenho lá a minha
+
+93
+00:06:09,540 --> 00:06:12,238
+entidade, a própria entidade já faz os métodos de
+
+94
+00:06:12,250 --> 00:06:15,178
+consulta, como né? Que eu tô usando ali
+
+95
+00:06:15,189 --> 00:06:17,139
+um mapeamento com o R M e tô com a
+
+96
+00:06:17,149 --> 00:06:18,720
+tabela criada no banco, né.
+
+97
+00:06:18,730 --> 00:06:22,379
+Que é o aquela parte do tion e também do
+
+98
+00:06:22,389 --> 00:06:22,879
+D B CREA.
+
+99
+00:06:22,889 --> 00:06:25,319
+O D B Crea vai criar o banco e o
+
+100
+00:06:25,329 --> 00:06:29,269
+vai criar as entidades eh que eu defini no meu
+
+101
+00:06:29,278 --> 00:06:29,838
+sistema.
+
+102
+00:06:29,850 --> 00:06:32,170
+Nesse caso, eu defini só uma entidade bem simples,
+
+103
+00:06:32,178 --> 00:06:35,559
+que é nota, onde eu tenho as características do
+
+104
+00:06:35,569 --> 00:06:38,000
+título e a descrição, e essa entidade vai poder
+
+105
+00:06:38,009 --> 00:06:42,000
+ser utilizada pelo Express, né? Pra poder recuperar
+
+106
+00:06:42,009 --> 00:06:43,399
+os dados necessários.
+
+107
+00:06:43,410 --> 00:06:47,439
+Ou incluir, ou alterar ou excluir nas chamadas eh
+
+108
+00:06:47,449 --> 00:06:51,000
+padronizadas pelo ST, né? Nesse ponto, então
+
+109
+00:06:51,009 --> 00:06:51,678
+a gente fica.
+
+110
+00:06:51,689 --> 00:06:53,250
+A gente fica por aqui nesse ponto da criação dessa
+
+111
+00:06:53,259 --> 00:06:56,119
+entidade e com isso a gente já tem a nossa
+
+112
+00:06:56,129 --> 00:07:00,160
+arquitetura básica pra criação dos Pra persistência dos dados de
+
+113
+00:07:00,170 --> 00:07:01,139
+web! Sert!
+

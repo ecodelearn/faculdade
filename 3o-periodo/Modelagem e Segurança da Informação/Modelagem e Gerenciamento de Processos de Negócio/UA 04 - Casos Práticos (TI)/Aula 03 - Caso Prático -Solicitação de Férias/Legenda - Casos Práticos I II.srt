@@ -1,0 +1,884 @@
+1
+00:00:06,578 --> 00:00:11,329
+Olá, vamos dar continuidade ao nosso caso prático um.
+
+2
+00:00:11,339 --> 00:00:13,750
+Nosso primeiro caso prático aqui nós vamos passar pra parte
+
+3
+00:00:13,759 --> 00:00:16,750
+dois, né? Só pra gente relembrar, né?
+
+4
+00:00:16,760 --> 00:00:20,269
+Eh, É bem pontualmente Nós vimos aqui na parte
+
+5
+00:00:20,280 --> 00:00:23,039
+um, todos os detalhe, os detalhes relacionados ao
+
+6
+00:00:23,048 --> 00:00:25,510
+nosso processo, né? Aliás, a o A
+
+7
+00:00:25,519 --> 00:00:28,589
+como ocorre este processo? Tá bom, então vem
+
+8
+00:00:28,600 --> 00:00:30,269
+aqui oh, o cliente, faz o pedido,
+
+9
+00:00:30,280 --> 00:00:35,354
+registra depois opta por final ou não tem a realizar
+
+10
+00:00:35,365 --> 00:00:38,066
+A ordem, tem parte de concluir venda! Tem
+
+11
+00:00:38,076 --> 00:00:38,765
+as exceções.
+
+12
+00:00:38,776 --> 00:00:42,284
+E isso aqui a gente falou que ia ia desaguar
+
+13
+00:00:42,295 --> 00:00:45,566
+nesse nesse quadro que a gente aqui tá apresentando?
+
+14
+00:00:45,576 --> 00:00:47,405
+Tá legal, Bom, vamos lá, O que
+
+15
+00:00:47,415 --> 00:00:49,405
+que a gente vai olhar aqui agora? O que
+
+16
+00:00:49,415 --> 00:00:52,865
+que a gente se propõe nesta nesta parte dessa atividade?
+
+17
+00:00:52,875 --> 00:00:57,045
+É justamente olhar a essa descrição deste processo.
+
+18
+00:00:57,054 --> 00:00:59,424
+Tá e preencher esse quadro.
+
+19
+00:00:59,491 --> 00:01:03,000
+Então, voltando a dizer que eh reforçar que esse
+
+20
+00:01:03,012 --> 00:01:06,581
+quadro é a forma como nós vamos representar o cenário,
+
+21
+00:01:06,591 --> 00:01:09,022
+que a gente expôs, né, de forma a
+
+22
+00:01:09,031 --> 00:01:13,501
+facilitar o entendimento acerca desse cenário e já nos ajudar
+
+23
+00:01:13,512 --> 00:01:16,402
+a a a próxima etapa, que é justamente o
+
+24
+00:01:16,412 --> 00:01:18,460
+fluxo, né que a gente vai demonstrar aqui pra
+
+25
+00:01:18,471 --> 00:01:20,781
+gente poder enxergar ele de forma tranquila, Tá legal?
+
+26
+00:01:20,790 --> 00:01:22,201
+Então vamos lá.
+
+27
+00:01:22,210 --> 00:01:25,022
+Ah, sugestão aqui tá você que tá começando a
+
+28
+00:01:25,031 --> 00:01:29,730
+trabalhar com um estudo de com, com a modelagem
+
+29
+00:01:29,739 --> 00:01:32,028
+de processo e tal, né? Antes de você
+
+30
+00:01:32,040 --> 00:01:34,668
+partir pra olhar o quadro, a resolução que é
+
+31
+00:01:34,680 --> 00:01:38,329
+a resolução dessa proposta, né? Seria importante você
+
+32
+00:01:38,338 --> 00:01:41,838
+dar uma eh tentar fazer antes eh! Eu acho
+
+33
+00:01:41,849 --> 00:01:46,528
+eh relevante, que você construa isso e depois trabalhe
+
+34
+00:01:46,540 --> 00:01:48,010
+isso dentro do do do seu quadro.
+
+35
+00:01:48,019 --> 00:01:50,168
+E aí você faz esse comparativo, tá aí,
+
+36
+00:01:50,180 --> 00:01:53,329
+olha só não é olhar se se esse se isso
+
+37
+00:01:53,338 --> 00:01:55,069
+aqui tá certo, ou se se aqui tá errado,
+
+38
+00:01:55,159 --> 00:01:59,250
+é simplesmente tentar representar o máximo daquela verdade que é
+
+39
+00:01:59,260 --> 00:02:02,180
+exposto, que é exposta no nosso processo em si.
+
+40
+00:02:02,189 --> 00:02:05,730
+Claro, você pode até complementar a essa atividade que
+
+41
+00:02:05,739 --> 00:02:08,610
+a gente fez dessa descritiva a antes, né,
+
+42
+00:02:08,618 --> 00:02:09,368
+fala? Opa, pera.
+
+43
+00:02:09,379 --> 00:02:11,770
+Aí esse esse exercício aqui tem mais coisa pra que
+
+44
+00:02:11,778 --> 00:02:13,409
+a gente pode complementar, Então complemente.
+
+45
+00:02:13,419 --> 00:02:15,490
+Depois você vem aqui, faz o quadro, complementa
+
+46
+00:02:15,500 --> 00:02:16,849
+O quadro ajusta o quadro.
+
+47
+00:02:16,860 --> 00:02:19,528
+Ou seja lembre-se, você pode usar esse processo pra
+
+48
+00:02:19,538 --> 00:02:20,889
+fazer uma melhoria contínua.
+
+49
+00:02:20,899 --> 00:02:22,250
+Você mesmo tá legal.
+
+50
+00:02:22,258 --> 00:02:25,808
+Então vamos lá bom, tá aqui oh a as
+
+51
+00:02:25,819 --> 00:02:30,409
+fases elencadas as atividades subprocessos quem são os responsáveis,
+
+52
+00:02:30,419 --> 00:02:33,868
+as condições e a exceção Então observe a gente tá
+
+53
+00:02:33,879 --> 00:02:37,689
+considerando o cenário que nós expomos ali, né?
+
+54
+00:02:37,699 --> 00:02:40,569
+E aí vamos preencher isso? Elencando as fases do
+
+55
+00:02:40,580 --> 00:02:44,368
+processo, okay E bem como subprocessos! Ah,
+
+56
+00:02:44,379 --> 00:02:48,129
+uma dica que a gente usa muito na questão da
+
+57
+00:02:48,139 --> 00:02:51,899
+do entendimento, das ações, tá da, da,
+
+58
+00:02:51,909 --> 00:02:54,979
+da daquilo que vai ser executado.
+
+59
+00:02:54,990 --> 00:02:57,838
+É sempre a gente olhar pra uma SPE, Uma
+
+60
+00:02:57,849 --> 00:02:58,520
+uma dica.
+
+61
+00:02:58,528 --> 00:03:00,439
+Tá uma orientação, é sempre olhar pra questão.
+
+62
+00:03:00,449 --> 00:03:02,939
+Quando você lê um texto pra questão do verbo,
+
+63
+00:03:02,949 --> 00:03:05,278
+tá em que pese aqui,às vezes eh a
+
+64
+00:03:05,288 --> 00:03:08,038
+gente tá colocando aqui registro de pedido, verificação,
+
+65
+00:03:08,050 --> 00:03:11,758
+disponibilidade, mas a gente poderia eh oh dar uma
+
+66
+00:03:11,770 --> 00:03:16,069
+olhadinha eh aqui antes oh, tá oh, o
+
+67
+00:03:16,080 --> 00:03:19,110
+cliente faz o pedido da concessionária primeiro o do fundo
+
+68
+00:03:19,118 --> 00:03:23,189
+do dum dum de um formulário, né? Eh
+
+69
+00:03:23,199 --> 00:03:26,288
+registra pedido de venda.
+
+70
+00:03:26,300 --> 00:03:30,469
+Então, registrar né? Eh, aqui, tá
+
+71
+00:03:30,479 --> 00:03:37,149
+ou outro o preparar financiamento Preparar para entrega realizar ordem,
+
+72
+00:03:37,159 --> 00:03:40,349
+Concluir então todas as vezes que tiver lendo eh Eh
+
+73
+00:03:40,360 --> 00:03:44,449
+um um um um Texto as ações, né,
+
+74
+00:03:44,460 --> 00:03:45,460
+A gente pode trabalhar.
+
+75
+00:03:45,469 --> 00:03:48,889
+As ações sempre eh em relação a a verba,
+
+76
+00:03:48,899 --> 00:03:53,710
+né? Faz pedido fazer um pedido registrar o pedido.
+
+77
+00:03:53,719 --> 00:03:55,610
+Realizar ordem.
+
+78
+00:03:55,618 --> 00:04:00,088
+Isso é uma boa dica pra vocês desenvolverem essa atividade.
+
+79
+00:04:00,099 --> 00:04:02,088
+Tá então vamos lá! A primeira fase que a
+
+80
+00:04:02,099 --> 00:04:04,129
+gente vai observar aqui é justamente isso é o registro
+
+81
+00:04:04,139 --> 00:04:06,939
+de pedido de venda ou registrar a venda, registrar
+
+82
+00:04:06,949 --> 00:04:10,000
+o pedido, perdão registraram o pedido, o que
+
+83
+00:04:10,008 --> 00:04:11,439
+é feito nessa atividade.
+
+84
+00:04:11,449 --> 00:04:14,278
+Para registrar o pedido, o cliente precisa preencher o
+
+85
+00:04:14,288 --> 00:04:17,959
+formulário, e o vendedor registra esse pedido no sistema?
+
+86
+00:04:17,970 --> 00:04:20,319
+Então, eh, a fase é registrar.
+
+87
+00:04:20,329 --> 00:04:22,379
+E o que acontece dentro dessa fase são esses dois
+
+88
+00:04:22,389 --> 00:04:26,358
+essas duas atividades aí, né Ou se você precisar.
+
+89
+00:04:26,369 --> 00:04:28,910
+Por que que eu coloquei a atividade barra subprocessos?
+
+90
+00:04:28,920 --> 00:04:32,333
+Porque você pode de repente, né? A questão
+
+91
+00:04:32,341 --> 00:04:36,252
+de eh eh uma atividade, ela pode eh desdobrar
+
+92
+00:04:36,262 --> 00:04:40,012
+para mais de uma eh! Eh sub atividade assim
+
+93
+00:04:40,023 --> 00:04:42,692
+por mais de uma eh, eh parte, né?
+
+94
+00:04:42,702 --> 00:04:44,612
+Eu posso ter uma atividade em que ela vai dividir
+
+95
+00:04:44,622 --> 00:04:46,041
+em vários pedacinhos ali.
+
+96
+00:04:46,052 --> 00:04:47,442
+É o que a gente chama de sub, seriam
+
+97
+00:04:47,452 --> 00:04:49,192
+os subprocessos.
+
+98
+00:04:49,202 --> 00:04:52,411
+Tá bom neste caso aqui, preencher formulário.
+
+99
+00:04:52,423 --> 00:04:56,346
+Registrar por si é é uma atividade, vamos dizer
+
+100
+00:04:56,355 --> 00:04:59,865
+assim, até mecânica em relaçãoà fase.
+
+101
+00:04:59,875 --> 00:05:01,865
+Registrar pedido tá legal.
+
+102
+00:05:01,875 --> 00:05:04,466
+Então aqui nós temos, além dessa dessa atividade do
+
+103
+00:05:04,475 --> 00:05:05,425
+subprocessos.
+
+104
+00:05:05,435 --> 00:05:07,946
+Nós temos o responsável que é o vendedor, né?
+
+105
+00:05:07,954 --> 00:05:10,204
+Não tem dependência e não tem exceção.
+
+106
+00:05:10,216 --> 00:05:11,526
+Por enquanto, um.
+
+107
+00:05:11,536 --> 00:05:14,865
+Uma fase bem básica não gera nenhum tipo de exceção,
+
+108
+00:05:14,875 --> 00:05:19,608
+não gera nenhuma dependência, Tá verificação de disponibilidade ou
+
+109
+00:05:19,619 --> 00:05:23,048
+verificar disponibilidade? Eu poderia ter traduzido aqui, verificar,
+
+110
+00:05:23,059 --> 00:05:25,350
+registrar pedido, verificar a disponibilidade.
+
+111
+00:05:25,358 --> 00:05:28,108
+Aí já vou, olha só atividade, verificar se
+
+112
+00:05:28,119 --> 00:05:31,230
+o carro está disponível na loja ou precisa de uma
+
+113
+00:05:31,238 --> 00:05:33,608
+ordem de fábrica? Tá? Então, eh.
+
+114
+00:05:33,619 --> 00:05:38,048
+Vejam se eu eu vou fazer duas atividades aí verifico
+
+115
+00:05:38,059 --> 00:05:41,959
+ou ve eh, emito, uma ordem a fábrica.
+
+116
+00:05:41,970 --> 00:05:45,119
+Quem também faz isso? O próprio eh vendedor.
+
+117
+00:05:45,129 --> 00:05:48,420
+Qual é a exceção? Veja eu só vou eh
+
+118
+00:05:48,428 --> 00:05:51,879
+disparar uma ordem pra fábrica se o carro estiver disponível.
+
+119
+00:05:51,889 --> 00:05:54,559
+Então a exceção ela é uma coisa que eu tenho
+
+120
+00:05:54,569 --> 00:05:56,619
+que tratar dentro do meu fluxo.
+
+121
+00:05:56,629 --> 00:06:01,040
+Beleza A terceira atividade é realizar ordem de pedido.
+
+122
+00:06:01,048 --> 00:06:04,358
+Então eu vou enviar ordem de pedidoà fábrica ou
+
+123
+00:06:04,369 --> 00:06:08,759
+uma concessionária parceira quando isso vai acontecer, quando eu
+
+124
+00:06:08,769 --> 00:06:12,069
+preciso, quando o carro não tá disponível, então
+
+125
+00:06:12,079 --> 00:06:14,759
+a condição e a dependência pra essa atividade acontecer.
+
+126
+00:06:14,769 --> 00:06:17,410
+Somente se o carro não estiver disponível na loja Tá
+
+127
+00:06:17,420 --> 00:06:18,119
+legal.
+
+128
+00:06:18,129 --> 00:06:20,319
+E aí a exceção é caso a data ou a
+
+129
+00:06:20,329 --> 00:06:22,639
+disponibilidade não seja aceita pelo cliente.
+
+130
+00:06:22,649 --> 00:06:24,178
+Então aí a gente vai encerrar a gente viu lá
+
+131
+00:06:24,189 --> 00:06:25,579
+no no, no fluxo, né? Então eh
+
+132
+00:06:25,588 --> 00:06:27,798
+eu não tenho um carro na loja, vou con
+
+133
+00:06:27,809 --> 00:06:29,569
+conversar com a fábrica, eu vou conversar com o
+
+134
+00:06:29,579 --> 00:06:32,000
+parceiro e de repente o prazo é muito dilatado.
+
+135
+00:06:32,009 --> 00:06:33,298
+O meu cliente não interessa.
+
+136
+00:06:33,309 --> 00:06:35,199
+Oh, não, não quero vai demorar mais.
+
+137
+00:06:35,209 --> 00:06:37,509
+Eu não tô afim vai embora! E aí eu
+
+138
+00:06:37,519 --> 00:06:41,278
+tenho essa exceção ali dentro tá bom, bom tudo
+
+139
+00:06:41,290 --> 00:06:43,548
+correndo, eu vou preparar o financiamento e aí eu
+
+140
+00:06:43,559 --> 00:06:46,750
+vou verificar Iniciação eh iniciar o crédito, preparar a
+
+141
+00:06:46,759 --> 00:06:49,199
+documentação, e aí já não é mais o vendedor,
+
+142
+00:06:49,209 --> 00:06:52,358
+aí o departamento financeiro que entra como responsável, aí
+
+143
+00:06:52,369 --> 00:06:55,119
+né? Ou seja, automatica, E olha só
+
+144
+00:06:55,129 --> 00:06:58,079
+que interessante, a dependência é automaticamente ao preparar o
+
+145
+00:06:58,088 --> 00:06:58,959
+financiamento.
+
+146
+00:06:58,970 --> 00:07:01,500
+Eu já tô realizando a ordem de pedido e preparando
+
+147
+00:07:01,509 --> 00:07:02,500
+o carro pra entrega.
+
+148
+00:07:02,899 --> 00:07:04,790
+E isso! Claro, né? Tem o carro
+
+149
+00:07:04,798 --> 00:07:05,910
+lá? Pronto a entrega, eu vou lá.
+
+150
+00:07:05,920 --> 00:07:07,750
+Preparar o carro pra entrega já é uma atividade que
+
+151
+00:07:07,759 --> 00:07:10,028
+eu vou fazer, um pé paralelo a esse,
+
+152
+00:07:10,040 --> 00:07:13,588
+preparar financiamento Ah, uma outra atividade é preparar o
+
+153
+00:07:13,600 --> 00:07:15,750
+carro pra entrega, Então eu vou realizar a inspeção.
+
+154
+00:07:15,759 --> 00:07:17,410
+Vou preparar a documentação.
+
+155
+00:07:17,420 --> 00:07:19,470
+Quem faz isso é o departamento de Pós-venda.
+
+156
+00:07:19,480 --> 00:07:22,970
+Então, e ele faz isso simultaneamente com a a
+
+157
+00:07:22,980 --> 00:07:25,019
+ordem de pedido e preparar o financiamento.
+
+158
+00:07:25,028 --> 00:07:27,269
+Então são atividades que vão ocorrendo aí, paralelo.
+
+159
+00:07:27,278 --> 00:07:30,309
+Ah, a gente viu a questão da paralisação de
+
+160
+00:07:30,319 --> 00:07:34,069
+atividades eh ou, no caso dessas desses processos,
+
+161
+00:07:34,079 --> 00:07:37,108
+aqui né? Ou até de subprocessos? Pode existir
+
+162
+00:07:37,119 --> 00:07:40,540
+também com o objetivo de facilitar e agilizar, né?
+
+163
+00:07:40,548 --> 00:07:43,910
+Eficiência e eficácia do meu processo Tá, Então se
+
+164
+00:07:43,920 --> 00:07:47,509
+eu não preciso eh esperar um processo começar eh terminar
+
+165
+00:07:47,519 --> 00:07:49,069
+pra começar o outro eu posso.
+
+166
+00:07:49,079 --> 00:07:50,670
+Paralello, eu o faço.
+
+167
+00:07:50,678 --> 00:07:53,809
+O objetivo é eficiência e eficácia.
+
+168
+00:07:53,819 --> 00:07:58,209
+Lembrando que a paralisação nunca pode significar perda de qualidade
+
+169
+00:07:58,220 --> 00:08:00,869
+ou não execução da atividade ou do processo, tal
+
+170
+00:08:00,879 --> 00:08:04,149
+como ela foi desenhada tal como ela foi proposta,
+
+171
+00:08:04,160 --> 00:08:07,309
+Tá? Então, eh sempre pensando nessa nessa característica,
+
+172
+00:08:07,319 --> 00:08:10,298
+Tá okay? Então vamos lá, Tem a atividade
+
+173
+00:08:10,309 --> 00:08:10,689
+paralela.
+
+174
+00:08:10,699 --> 00:08:13,709
+Executa, né? Seu processo vai seguindo isso não
+
+175
+00:08:13,720 --> 00:08:15,428
+atrapalha em nada mesmo.
+
+176
+00:08:15,439 --> 00:08:19,309
+Porque a gente pode olhar aqui nesse fluxo que eh
+
+177
+00:08:19,319 --> 00:08:22,149
+oh o, o uma eh o responsável aqui,
+
+178
+00:08:22,160 --> 00:08:24,439
+oh! Entre preparar Ah, o financiamento, a
+
+179
+00:08:24,449 --> 00:08:26,548
+entrega são responsáveis diferentes.
+
+180
+00:08:26,559 --> 00:08:29,069
+Então eu posso ter realmente processos paralelos.
+
+181
+00:08:29,079 --> 00:08:31,829
+Aí depois eu tenho a parte da concluir a venda.
+
+182
+00:08:31,838 --> 00:08:32,599
+O cara finaliza.
+
+183
+00:08:32,609 --> 00:08:34,599
+A documentação confirma o financiamento.
+
+184
+00:08:34,609 --> 00:08:36,599
+E aí volta pro departamento financeiro.
+
+185
+00:08:36,609 --> 00:08:39,840
+É uma atividade paralela se, caso, né?
+
+186
+00:08:39,849 --> 00:08:42,379
+O financiamento não for autorizado.
+
+187
+00:08:42,389 --> 00:08:42,658
+Opa.
+
+188
+00:08:42,668 --> 00:08:44,538
+A venda não é conclu, não é concluída.
+
+189
+00:08:44,548 --> 00:08:45,379
+Eu vou fina.
+
+190
+00:08:45,389 --> 00:08:46,798
+Eh, vou terminar aqui o meu processo.
+
+191
+00:08:46,808 --> 00:08:49,359
+Caso eh, esteja tudo certinho, eu vou entregar
+
+192
+00:08:49,369 --> 00:08:51,129
+o carro, né, e os documentos, Então
+
+193
+00:08:51,139 --> 00:08:53,678
+eu trago um carro ao cliente entregue a documentação,
+
+194
+00:08:53,690 --> 00:08:55,859
+é o meu departamento de pós venda que faz parte,
+
+195
+00:08:55,869 --> 00:08:58,710
+que faz essa atividade e depende, obviamente, da
+
+196
+00:08:58,719 --> 00:09:00,229
+conclusão da da venda.
+
+197
+00:09:00,239 --> 00:09:02,389
+E eu vou gerar gerir essas exceções.
+
+198
+00:09:02,399 --> 00:09:03,869
+Ou seja, o que que é é a gestão
+
+199
+00:09:03,879 --> 00:09:04,678
+dessas exceções.
+
+200
+00:09:04,690 --> 00:09:08,908
+Quando as atividades eh, não eh, eh incorrerem
+
+201
+00:09:08,918 --> 00:09:14,529
+naquelas exceções Ali que não permita concluir efetivamente o processo
+
+202
+00:09:14,538 --> 00:09:16,908
+eh que é a venda, o processo de venda,
+
+203
+00:09:16,918 --> 00:09:18,269
+Tá o processo de venda.
+
+204
+00:09:18,279 --> 00:09:21,361
+Então eu vou cancelar as atividades tá bom porque eh?
+
+205
+00:09:21,371 --> 00:09:22,422
+Eh não.
+
+206
+00:09:22,432 --> 00:09:25,312
+Necessariamente quando a gente fala de gestão de de exceção
+
+207
+00:09:25,322 --> 00:09:26,293
+é Ah, eu.
+
+208
+00:09:26,302 --> 00:09:28,832
+Eu não conclui o processo, mas o pro conclui
+
+209
+00:09:28,842 --> 00:09:29,422
+não concluiu.
+
+210
+00:09:29,432 --> 00:09:32,472
+O processo nesse caso pode ser não conclui o processo
+
+211
+00:09:32,481 --> 00:09:36,052
+ou desculpa conclui o processo porque deu tudo certo ou
+
+212
+00:09:36,062 --> 00:09:38,102
+não concluiu o processo, mas de qualquer forma esse
+
+213
+00:09:38,111 --> 00:09:41,596
+processo vai ter que ser finalizado a finalização do processo.
+
+214
+00:09:41,605 --> 00:09:44,075
+Ela pode vir tanto do sucesso da ATI do do
+
+215
+00:09:44,085 --> 00:09:47,955
+processo realizado como não no caso da da de uma
+
+216
+00:09:47,966 --> 00:09:49,514
+venda não ser efetivada.
+
+217
+00:09:49,525 --> 00:09:52,716
+Tá lembrando que algumas das atividades do subprocessos aqui podem
+
+218
+00:09:52,725 --> 00:09:54,676
+ser detalhadas em outros subprocessos.
+
+219
+00:09:54,684 --> 00:09:56,934
+Mas vai depender do que você tiver trabalhando e e
+
+220
+00:09:56,945 --> 00:09:59,525
+dentro da perspectiva da sua organização.
+
+221
+00:09:59,535 --> 00:10:01,455
+Obrigado te espero uma terceira parte.
+

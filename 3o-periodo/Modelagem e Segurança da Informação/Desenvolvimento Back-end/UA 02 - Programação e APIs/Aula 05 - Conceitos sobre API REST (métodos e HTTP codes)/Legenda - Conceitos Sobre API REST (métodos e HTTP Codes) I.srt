@@ -1,0 +1,512 @@
+1
+00:00:06,900 --> 00:00:09,189
+Olá, eu sou professor, Danis Cop e nós
+
+2
+00:00:09,198 --> 00:00:12,868
+vamos falar um pouquinho sobre conceitos gerais da arquitetura rex
+
+3
+00:00:12,880 --> 00:00:17,109
+e seria também sobre os métodos h t p tá,
+
+4
+00:00:17,120 --> 00:00:18,870
+a gente vai começar a falar sobre os conceitos da
+
+5
+00:00:18,879 --> 00:00:19,458
+arquitetura.
+
+6
+00:00:19,469 --> 00:00:24,850
+St Vamos lá, então os conceitos da cultura que
+
+7
+00:00:24,859 --> 00:00:29,379
+envolvem diretamente protocolo h t P uhum eh interface de
+
+8
+00:00:29,388 --> 00:00:32,069
+acesso via rotas, né? Quando você utiliza eh
+
+9
+00:00:32,079 --> 00:00:37,098
+sempre! Você utiliza rotas pra poder acessar determinados recursos,
+
+10
+00:00:37,109 --> 00:00:40,098
+né? Tem uma diferenciação entre rotas e pont,
+
+11
+00:00:40,109 --> 00:00:43,380
+né? Os Pont seriam o modelo pra definição de
+
+12
+00:00:43,389 --> 00:00:46,009
+rotas e as rotas seriam o caminho físico a partir,
+
+13
+00:00:46,020 --> 00:00:47,209
+obtidos a partir dos pos.
+
+14
+00:00:47,219 --> 00:00:50,709
+Tá as rotas elas são! Eh o caminho que
+
+15
+00:00:50,719 --> 00:00:53,079
+vão levar a um determinado recurso.
+
+16
+00:00:53,090 --> 00:00:55,978
+Por exemplo h t P dois pontos barra barra local
+
+17
+00:00:55,990 --> 00:01:00,020
+rol três mil barra produtos vai pegar todos os produtos,
+
+18
+00:01:00,029 --> 00:01:02,579
+né? No formato Jason, se você colocar o
+
+19
+00:01:02,590 --> 00:01:06,400
+mesmo endereço local três mil barra produtos barra um é
+
+20
+00:01:06,409 --> 00:01:09,299
+o produto de código um barra dois Produto do Código
+
+21
+00:01:09,308 --> 00:01:12,739
+dois Então assim, a interface de acesso a esses
+
+22
+00:01:12,750 --> 00:01:14,540
+dados é via rotas.
+
+23
+00:01:14,549 --> 00:01:16,799
+Tá uso dos métodos do h? T P,
+
+24
+00:01:17,079 --> 00:01:18,689
+né? Quando você trabalha com o St O,
+
+25
+00:01:18,698 --> 00:01:21,709
+o Gate método Gott do h t p significa que
+
+26
+00:01:21,719 --> 00:01:24,888
+você tá fazendo uma consulta? O put seria uma
+
+27
+00:01:24,900 --> 00:01:29,010
+alteração? O post, né, seria uma inclusão,
+
+28
+00:01:29,019 --> 00:01:31,409
+né? Por isso que não tem uma identificação no
+
+29
+00:01:31,418 --> 00:01:33,948
+final, seria só barra produtos, por exemplo,
+
+30
+00:01:33,959 --> 00:01:35,569
+porque você não tem o código do cara ainda?
+
+31
+00:01:35,579 --> 00:01:37,528
+Ele ainda não foi incluído, né? Então eu
+
+32
+00:01:37,540 --> 00:01:40,569
+tenho uma inclusão no post no Eu tenho uma remoção,
+
+33
+00:01:40,579 --> 00:01:44,109
+né? Os dados são preferencialmente no formato JASON por
+
+34
+00:01:44,120 --> 00:01:47,760
+que preferencialmente eh o formato Jason Ele passou a ser
+
+35
+00:01:47,769 --> 00:01:50,838
+adotado como padrão, mas o ST ele define.
+
+36
+00:01:50,849 --> 00:01:53,329
+Na verdade o uso do protocolo h T P e
+
+37
+00:01:53,338 --> 00:01:56,730
+a forma de uso na verdade não define o formato.
+
+38
+00:01:56,739 --> 00:01:59,168
+Só tem que ser o formato padronizado, tanto que
+
+39
+00:01:59,180 --> 00:02:01,769
+você pode trabalhar tanto com o X ML quanto o
+
+40
+00:02:01,778 --> 00:02:03,088
+Jason né Eh.
+
+41
+00:02:03,099 --> 00:02:07,930
+Alguns serviços fornecem os dois formatos Tá eh! Não
+
+42
+00:02:07,939 --> 00:02:10,399
+é tão comum, mas você pode trabalhar com o
+
+43
+00:02:10,409 --> 00:02:12,849
+X ML também no ST, né? O mais
+
+44
+00:02:12,860 --> 00:02:15,849
+comum é Jason né? Eh? Uso dos códigos
+
+45
+00:02:15,860 --> 00:02:16,889
+de status do h T P.
+
+46
+00:02:16,899 --> 00:02:20,110
+Isso é muito importante! Eh como você tá usando
+
+47
+00:02:20,118 --> 00:02:22,710
+o protocolo h t p Você tem que usar os
+
+48
+00:02:22,719 --> 00:02:25,110
+códigos de status dele pra falar se alguma coisa deu
+
+49
+00:02:25,118 --> 00:02:29,189
+certo ou errado, né? Cê eh Você conseguiu
+
+50
+00:02:29,199 --> 00:02:32,949
+fazer a inclusão status duzentos né? OU conseguiu fazer
+
+51
+00:02:32,960 --> 00:02:34,588
+uma remoção, de repente um status? Duzentos e
+
+52
+00:02:34,599 --> 00:02:38,210
+quatro né? Então cada coisa que você faz tem
+
+53
+00:02:38,219 --> 00:02:40,028
+que funcionar como se fosse um servidor comum.
+
+54
+00:02:40,038 --> 00:02:43,069
+Você tem que responder de acordo com o código de
+
+55
+00:02:43,080 --> 00:02:44,750
+resposta do h T P tá.
+
+56
+00:02:44,758 --> 00:02:46,550
+E as rotas? Elas recuperam.
+
+57
+00:02:46,558 --> 00:02:49,830
+O quê? Elas recuperam os estados das entidades,
+
+58
+00:02:49,838 --> 00:02:52,750
+né? Então, elas são caminho de entrada pra
+
+59
+00:02:52,758 --> 00:02:55,830
+modificações e também recuperam o estado dessas entidades.
+
+60
+00:02:55,838 --> 00:02:59,588
+Por isso que é estado representativo do objeto, né,
+
+61
+00:02:59,599 --> 00:03:03,038
+Bom Gate, então, Gat é um método pra
+
+62
+00:03:03,050 --> 00:03:06,319
+consulta de entidades né? Ou individual, ou a
+
+63
+00:03:06,330 --> 00:03:10,479
+coleção completa? Post é a inclusão de uma entidade.
+
+64
+00:03:10,490 --> 00:03:13,618
+O Put permite a alteração de dados dessa entidade,
+
+65
+00:03:13,629 --> 00:03:15,240
+né? Então, eu tô fazendo uma alteração.
+
+66
+00:03:15,250 --> 00:03:19,479
+O P E o seria a remoção de uma entidade,
+
+67
+00:03:19,490 --> 00:03:22,778
+né? Esses são os métodos que você usa no
+
+68
+00:03:22,788 --> 00:03:26,058
+né? E como é que você responde no,
+
+69
+00:03:26,069 --> 00:03:29,740
+né? Por exemplo, se o recurso foi obtido
+
+70
+00:03:29,750 --> 00:03:33,258
+com sucesso, você fez uma consulta, né?
+
+71
+00:03:33,270 --> 00:03:36,118
+Eh E ele retornou lá, um produto ou vários
+
+72
+00:03:36,129 --> 00:03:39,038
+produtos, né? Esse é o método got Ele
+
+73
+00:03:39,050 --> 00:03:41,399
+vai ter que responder no h t p com duzentos,
+
+74
+00:03:41,409 --> 00:03:46,319
+Recurso obtido com sucesso status duzentos tá, se você
+
+75
+00:03:46,330 --> 00:03:49,360
+criou um elemento qualquer né? Você só criou.
+
+76
+00:03:49,368 --> 00:03:52,319
+Eu posso colocar um recurso, duzentos e um recurso
+
+77
+00:03:52,330 --> 00:03:55,379
+criado, né? Então esses são os códigos que
+
+78
+00:03:55,389 --> 00:04:00,479
+a gente usa normalmente tá quatrocentos requisição incorreta quatrocentos e
+
+79
+00:04:00,490 --> 00:04:01,838
+um não está autenticado.
+
+80
+00:04:01,849 --> 00:04:04,679
+Se for um serviço autenticado eu posso mandar um código
+
+81
+00:04:04,689 --> 00:04:06,399
+quatrocentos e um dizendo Olha, esse cara aqui não
+
+82
+00:04:06,409 --> 00:04:09,139
+fez o login esse cara não tá autenticado aqui no
+
+83
+00:04:09,149 --> 00:04:13,270
+meu serviço, né? Eh quatrocentos e quatro recurso
+
+84
+00:04:13,278 --> 00:04:16,108
+não é encontrado, aquele famoso no que aqui pra
+
+85
+00:04:16,119 --> 00:04:19,629
+gente é recurso não encontrado né? E quinhentos é
+
+86
+00:04:19,639 --> 00:04:21,790
+o erro interno do servidor que que é o quinhentos.
+
+87
+00:04:21,798 --> 00:04:23,639
+O quinhentos é aquele tipo de coisa.
+
+88
+00:04:23,649 --> 00:04:24,790
+Ela deu um erro, mas você não sabe o
+
+89
+00:04:24,798 --> 00:04:26,970
+quê né? Ou você ou então deu um erro
+
+90
+00:04:26,980 --> 00:04:31,269
+de chave primária? Deu algum erro que eh você
+
+91
+00:04:31,278 --> 00:04:33,399
+não pode expressar pro usuário de uma forma simples,
+
+92
+00:04:33,410 --> 00:04:36,309
+Pode de repente o chave primária Cê pode colocar código
+
+93
+00:04:36,319 --> 00:04:40,250
+eh inexistente, código já existente, mas um erro
+
+94
+00:04:40,259 --> 00:04:41,928
+mais crítico tá.
+
+95
+00:04:41,939 --> 00:04:45,420
+Pode ser que não seja identificado e pare o servidor
+
+96
+00:04:45,428 --> 00:04:47,088
+ou coisa do tipo que seja quase capaz de parar
+
+97
+00:04:47,100 --> 00:04:50,608
+o servidor, ele tem que retornar um erro interno
+
+98
+00:04:50,619 --> 00:04:52,928
+ao servidor, né? Então, assim são erros
+
+99
+00:04:52,939 --> 00:04:54,048
+que não são classificados.
+
+100
+00:04:54,059 --> 00:04:57,088
+É só erro interno, né? Ah, é
+
+101
+00:04:57,100 --> 00:04:59,559
+diferente de você colocar um quatrocentos e quatro que já
+
+102
+00:04:59,569 --> 00:05:02,369
+estaria dizendo e esse cara não existe, não foi
+
+103
+00:05:02,379 --> 00:05:02,889
+encontrada.
+
+104
+00:05:02,899 --> 00:05:04,928
+Essa rota não encontra esse recurso.
+
+105
+00:05:04,939 --> 00:05:08,470
+Tá então saber trabalhar com os códigos de erro importantes,
+
+106
+00:05:08,709 --> 00:05:11,278
+porque você tem que se integrar dentro desse eh da
+
+107
+00:05:11,290 --> 00:05:13,920
+filosofia do próprio h t P, né? Saber
+
+108
+00:05:13,928 --> 00:05:15,959
+quando você vai dizer que é um erro do servidor
+
+109
+00:05:15,970 --> 00:05:18,019
+quando é um erro do cliente, quando é um
+
+110
+00:05:18,028 --> 00:05:21,100
+problema de eh uma rota que não existe, né
+
+111
+00:05:21,689 --> 00:05:27,028
+Bom, aqui eu teria um exemplo de uma chamada
+
+112
+00:05:27,040 --> 00:05:31,608
+st chamada h t p h t p três mil
+
+113
+00:05:31,619 --> 00:05:36,199
+barra produtos teria que retornar algo assim, né Código
+
+114
+00:05:36,209 --> 00:05:40,809
+nome eh quantidade pra cada produto que é jason é
+
+115
+00:05:40,819 --> 00:05:43,269
+que eu tenho um vetor já é mais de uma
+
+116
+00:05:43,278 --> 00:05:46,720
+entidade quando cê chama sem um um i d você
+
+117
+00:05:46,730 --> 00:05:49,108
+tá dizendo o que cê querendo todos, então aqui
+
+118
+00:05:49,119 --> 00:05:52,889
+ele vai retornar todos os produtos no formato jason,
+
+119
+00:05:53,420 --> 00:05:56,278
+cada um definido por uma chave aqui, a chave
+
+120
+00:05:56,290 --> 00:05:58,369
+identificando qual é o objeto, né? Tem o
+
+121
+00:05:58,379 --> 00:06:01,750
+código um, código dois, código quatro e o
+
+122
+00:06:01,759 --> 00:06:06,170
+colchete, indicando início final desse conjunto de entidades né?
+
+123
+00:06:07,199 --> 00:06:12,629
+Bom, essas são as características gerais de né.
+
+124
+00:06:12,639 --> 00:06:15,670
+É importante saber tanto lidar com o Jason quanto com
+
+125
+00:06:15,678 --> 00:06:18,108
+os códigos h, t P né? Pra poder
+
+126
+00:06:18,119 --> 00:06:22,149
+saber eh responder corretamente dentro do próprio protocolo, se
+
+127
+00:06:22,160 --> 00:06:26,730
+integrando a todo aquele meio já existente de servidores h
+
+128
+00:06:26,738 --> 00:06:27,170
+T P
+

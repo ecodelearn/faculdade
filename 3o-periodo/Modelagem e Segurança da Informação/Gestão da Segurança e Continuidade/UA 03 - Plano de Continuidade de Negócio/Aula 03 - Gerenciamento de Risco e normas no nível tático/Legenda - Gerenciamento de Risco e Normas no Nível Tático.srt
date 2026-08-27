@@ -1,0 +1,612 @@
+1
+00:00:06,070 --> 00:00:07,960
+vamos lá pro nosso curso aqui.
+
+2
+00:00:07,969 --> 00:00:11,398
+A nossa disciplina de gestão de segurança e continuidade a
+
+3
+00:00:11,409 --> 00:00:14,159
+gente já falou, falamos sobre alguns documentos, né?
+
+4
+00:00:14,169 --> 00:00:16,798
+Sobre plano de de segurança, da informação sobre o
+
+5
+00:00:16,809 --> 00:00:19,530
+PC n enfim, e aí já falamos também sobre
+
+6
+00:00:19,539 --> 00:00:21,679
+a questão do nível estratégico, Qual o desenvolvimento do
+
+7
+00:00:21,690 --> 00:00:24,138
+nível estratégico? Agora a gente vai começar a a
+
+8
+00:00:24,149 --> 00:00:26,250
+a um outro nível, um nível abaixo, que
+
+9
+00:00:26,260 --> 00:00:27,199
+é o nível tático.
+
+10
+00:00:27,208 --> 00:00:28,399
+Então a gente vai dar uma olhada.
+
+11
+00:00:28,408 --> 00:00:31,559
+Qual são os requisitos, quais são as responsabilidades,
+
+12
+00:00:31,568 --> 00:00:34,990
+qual o envolvimento do nível tático dentro da segurança,
+
+13
+00:00:35,000 --> 00:00:38,679
+da informação? Vamos lá? O nível tático é
+
+14
+00:00:38,689 --> 00:00:41,639
+uma das camadas ou estágios? Tá do gerenciamento de
+
+15
+00:00:41,649 --> 00:00:47,359
+uma organização situando-se entre nível estratégico e operacional no contexto
+
+16
+00:00:47,368 --> 00:00:49,139
+do gerenciamento de segurança e informação.
+
+17
+00:00:49,149 --> 00:00:52,759
+O nível tático desempenha um papel importante da implementação das
+
+18
+00:00:52,770 --> 00:00:57,459
+estratégias definidas no nível o estratégico tá e nas coordenações
+
+19
+00:00:57,469 --> 00:00:59,060
+de atividades operacionais.
+
+20
+00:00:59,069 --> 00:01:01,298
+Ou seja, gente, o nível tático ele vai
+
+21
+00:01:01,310 --> 00:01:02,179
+traduzir.
+
+22
+00:01:02,189 --> 00:01:05,120
+Vamos sim, e vai traduzir o que foi definido?
+
+23
+00:01:05,129 --> 00:01:07,778
+Tá lá no nível estratégico, para o nível operacional,
+
+24
+00:01:07,790 --> 00:01:09,808
+ele vai fazer o meio de campo entre o nível
+
+25
+00:01:09,819 --> 00:01:13,808
+estratégico entre a execução operacional, esse nível, as
+
+26
+00:01:13,819 --> 00:01:17,329
+normas desempenham um papel fundamental aqui que as normas são
+
+27
+00:01:17,338 --> 00:01:23,168
+interpretadas e traduzidas em políticas e procedimentos e práticas específicas
+
+28
+00:01:23,180 --> 00:01:25,430
+que orientam as atividades diárias da organização.
+
+29
+00:01:25,680 --> 00:01:28,698
+As equipes de gerenciamento de nível tático são responsáveis por
+
+30
+00:01:28,709 --> 00:01:32,150
+garantir que a organização cumpra as normas e os padrões
+
+31
+00:01:32,159 --> 00:01:33,138
+relevantes.
+
+32
+00:01:33,150 --> 00:01:37,049
+Eles também tem a responsabilidade de implementar controles e medidas
+
+33
+00:01:37,058 --> 00:01:39,448
+de segurança para atender os requisitos das normas.
+
+34
+00:01:39,459 --> 00:01:40,129
+Foi o que eu falei.
+
+35
+00:01:40,138 --> 00:01:44,769
+A gente tem as normas, a política, né?
+
+36
+00:01:44,778 --> 00:01:45,808
+De de segurança.
+
+37
+00:01:45,819 --> 00:01:47,250
+E ali, quando a gente tá falando de nível
+
+38
+00:01:47,260 --> 00:01:48,808
+tático, é a hora que ele vai começar a
+
+39
+00:01:48,819 --> 00:01:53,209
+construir, traduzir políticas, traduzir procedimentos práticas pra que
+
+40
+00:01:53,219 --> 00:01:57,338
+a operação consiga executar tudo que tá escrito determinado dentro
+
+41
+00:01:57,349 --> 00:01:58,370
+do nível estratégico.
+
+42
+00:01:58,379 --> 00:02:01,028
+Lá, na nossa política de segurança, da informação,
+
+43
+00:02:01,500 --> 00:02:03,870
+aqui são duas características, né? Então vamos lá.
+
+44
+00:02:03,879 --> 00:02:08,429
+Implementação das estratégias O nível tático traduz as estratégicas gerais
+
+45
+00:02:08,439 --> 00:02:11,349
+estabelecidas no nível esta estratégico.
+
+46
+00:02:11,360 --> 00:02:14,868
+Em planos de ações específicos, ele se contenta na
+
+47
+00:02:14,879 --> 00:02:18,349
+execução de projetos e iniciativas que ajuda a alcançar os
+
+48
+00:02:18,360 --> 00:02:19,669
+objetivos estratégicos.
+
+49
+00:02:19,679 --> 00:02:20,618
+Tradução, gente.
+
+50
+00:02:20,629 --> 00:02:23,110
+Ele pega o que foi feito ali no nível estratégico
+
+51
+00:02:23,118 --> 00:02:26,210
+e coloca no e desenha pra ser executado no operacional
+
+52
+00:02:26,479 --> 00:02:29,149
+Coordenação departamental.
+
+53
+00:02:29,159 --> 00:02:32,308
+Nesse nível, os gestores, os líderes de departamentos
+
+54
+00:02:32,319 --> 00:02:35,210
+ou unidades funcionais desempenham um papel chave.
+
+55
+00:02:35,219 --> 00:02:38,969
+Eles trabalham juntos para alinhar as atividades em suas áreas
+
+56
+00:02:38,979 --> 00:02:42,389
+com os objetivos estratégicos das da organização.
+
+57
+00:02:42,399 --> 00:02:44,629
+Então ali a gente tem as coordenações das áreas,
+
+58
+00:02:45,028 --> 00:02:46,020
+então a gente ali a gente.
+
+59
+00:02:46,028 --> 00:02:47,719
+Eu lembro que eu falei do siso que o siso
+
+60
+00:02:47,729 --> 00:02:49,879
+tá lá no estratégico e aí, quando a gente
+
+61
+00:02:49,889 --> 00:02:52,479
+tá falando de tático, já é coordenação do do
+
+62
+00:02:52,490 --> 00:02:54,669
+do operacional, no dia-a-dia, então é aí que
+
+63
+00:02:54,679 --> 00:02:55,740
+entra esse nível.
+
+64
+00:02:55,750 --> 00:03:01,360
+Eh coordenação departamental, Tá tomada de decisão As decisões
+
+65
+00:03:01,368 --> 00:03:05,360
+tomadas no nível tático são mais detalhadas específicas do que
+
+66
+00:03:05,368 --> 00:03:09,069
+as decisões estratégicas de alto nível? Eh, mas
+
+67
+00:03:09,080 --> 00:03:12,800
+tem impacto SIG, mas tem impacto significativo na organização.
+
+68
+00:03:12,808 --> 00:03:16,969
+Essas decisões orienta as operações diárias e os projetos?
+
+69
+00:03:16,979 --> 00:03:18,788
+Que que? Que, que é isso? São
+
+70
+00:03:18,800 --> 00:03:22,808
+decisões que vão eh ser mais detalhadas que as decisões
+
+71
+00:03:22,819 --> 00:03:24,740
+macro do nível? Estratégico, né? O nível
+
+72
+00:03:24,750 --> 00:03:26,469
+estratégico ele fica muito macro ali.
+
+73
+00:03:26,479 --> 00:03:28,368
+Quando a gente fala em tomada de decisão do nível
+
+74
+00:03:28,379 --> 00:03:30,069
+tático já é algo mais específico.
+
+75
+00:03:30,080 --> 00:03:33,159
+Já algo mais detalhado, com mais eh com mais
+
+76
+00:03:33,169 --> 00:03:35,889
+detalhes e características para o nível operacional.
+
+77
+00:03:36,319 --> 00:03:38,210
+Controle e monitoramento.
+
+78
+00:03:38,219 --> 00:03:41,490
+O nível tático é responsável por monitorar o desempenho,
+
+79
+00:03:41,500 --> 00:03:43,569
+monitorar por vou começar de novo.
+
+80
+00:03:43,580 --> 00:03:44,149
+Tá gente.
+
+81
+00:03:44,159 --> 00:03:46,808
+O nível tático é responsável por monitorar o desempenho,
+
+82
+00:03:46,819 --> 00:03:50,770
+o progresso em relação aos objetivos estratégicos.
+
+83
+00:03:50,778 --> 00:03:52,969
+Isso envolve a definição de indicadores que é os K
+
+84
+00:03:52,979 --> 00:03:54,490
+P? I s, né? De indicadores de
+
+85
+00:03:54,500 --> 00:03:57,639
+de chave de sucesso e análise de dados para avaliar
+
+86
+00:03:57,649 --> 00:04:00,008
+o sucesso precisamos ter k p i s.
+
+87
+00:04:00,020 --> 00:04:03,129
+Você precisa ter métricas, Existe vários tipos de K
+
+88
+00:04:03,139 --> 00:04:04,849
+P I s, por exemplo, o k r
+
+89
+00:04:04,860 --> 00:04:09,500
+s você precisa entender não sei se existe vários tipos
+
+90
+00:04:09,508 --> 00:04:11,960
+de K P i s que você precisa aprender e
+
+91
+00:04:11,969 --> 00:04:14,379
+precisa utilizar porque se você não tem um k p
+
+92
+00:04:14,389 --> 00:04:17,660
+i, você não consegue saber se sua meta foi
+
+93
+00:04:17,670 --> 00:04:18,459
+concluída.
+
+94
+00:04:18,470 --> 00:04:20,858
+Se teve sucesso ou não na sua meta, precisa
+
+95
+00:04:20,869 --> 00:04:22,278
+ter monitoramento cont.
+
+96
+00:04:22,899 --> 00:04:27,528
+Alocação de recursos Os recursos como pessoal, orçamento e
+
+97
+00:04:27,540 --> 00:04:31,949
+tecnologia são alocados e gerenciados no nível tático para atender
+
+98
+00:04:31,959 --> 00:04:35,269
+as necessidades das operações e projetos a partir do momento
+
+99
+00:04:35,278 --> 00:04:37,850
+que a alta da direção libera esses recursos.
+
+100
+00:04:37,858 --> 00:04:42,009
+Quem executa o dia-a-dia é a parte tática tá no
+
+101
+00:04:42,019 --> 00:04:44,759
+contexto específicos da segurança da informação.
+
+102
+00:04:44,769 --> 00:04:48,750
+O nível tático é responsável por implementar medidas de segurança
+
+103
+00:04:48,759 --> 00:04:51,699
+de acordo com as estratégias de segurança definidas no nível
+
+104
+00:04:51,709 --> 00:04:53,040
+estratégico.
+
+105
+00:04:53,048 --> 00:04:56,600
+Isso inclui a coordenação de iniciativa de segurança, definição
+
+106
+00:04:56,608 --> 00:05:01,069
+de políticas de diretrizes e seleção e implementação de controle
+
+107
+00:05:01,079 --> 00:05:04,040
+de segurança, análise de risco e supervisão das operações
+
+108
+00:05:04,048 --> 00:05:04,699
+de segurança.
+
+109
+00:05:04,709 --> 00:05:08,410
+Em resumo, o nível tático é a camada intermediária
+
+110
+00:05:08,420 --> 00:05:10,069
+de gerenciamento que conecta.
+
+111
+00:05:10,079 --> 00:05:13,040
+Lembra que eu falei, conecta, no conecta a
+
+112
+00:05:13,048 --> 00:05:17,209
+direção da organização com as operações do do DIA-A-DIA e
+
+113
+00:05:17,220 --> 00:05:21,528
+desempenha desempenha um papel fundamental na execução das estratégias e
+
+114
+00:05:21,540 --> 00:05:25,509
+é garantir que os objetivos organizacionais sejam alcançados de maneira
+
+115
+00:05:25,519 --> 00:05:26,569
+eficaz.
+
+116
+00:05:26,579 --> 00:05:29,048
+Lembra que eu falei que a gente eh em qualquer
+
+117
+00:05:29,059 --> 00:05:31,064
+organização? A gente tem o nível tático, né?
+
+118
+00:05:31,074 --> 00:05:34,225
+A gente tem um nível eh desculpa nível estratégico,
+
+119
+00:05:34,233 --> 00:05:36,144
+o nível tático e nível operacional.
+
+120
+00:05:36,153 --> 00:05:37,545
+Então, quando a gente fala em nível tático,
+
+121
+00:05:37,553 --> 00:05:38,903
+a gente é um nível que vai.
+
+122
+00:05:38,915 --> 00:05:43,225
+Ele vai conectar a nossa operação com as estratégias definidas
+
+123
+00:05:43,233 --> 00:05:44,303
+pela alta direção.
+
+124
+00:05:44,314 --> 00:05:46,785
+Tá a alta direção como nós vimos ela, ela
+
+125
+00:05:46,795 --> 00:05:49,384
+desenha uma política, ela escreve uma política de forma
+
+126
+00:05:49,394 --> 00:05:50,035
+macro.
+
+127
+00:05:50,045 --> 00:05:52,744
+Ela fala o que precisa ter, mas ela não
+
+128
+00:05:52,754 --> 00:05:55,410
+fala como fazer, então Ah, o tático é
+
+129
+00:05:55,420 --> 00:05:57,608
+isso, Ele vai pegar aquilo ali, ele vai
+
+130
+00:05:57,619 --> 00:05:58,170
+falar.
+
+131
+00:05:58,178 --> 00:05:59,889
+Ah, por exemplo, ele vai a A auto
+
+132
+00:05:59,899 --> 00:06:03,028
+direção vai falar que precisamos ter uma cultura né?
+
+133
+00:06:03,040 --> 00:06:05,410
+De segurança da informação bem definida.
+
+134
+00:06:05,420 --> 00:06:06,819
+Então, o que que o tático vai fazer?
+
+135
+00:06:06,829 --> 00:06:08,439
+Vai olhar a barra, beleza, essa é uma
+
+136
+00:06:08,449 --> 00:06:11,088
+das de de eh, eh descrições, porque como
+
+137
+00:06:11,100 --> 00:06:12,915
+eu faço isso? Ah, eu tenho um um.
+
+138
+00:06:12,923 --> 00:06:15,875
+Desenvolvi um treinamento para minha equipe, toda a organização,
+
+139
+00:06:15,884 --> 00:06:17,713
+a cada três meses, eu tenho que ter uma
+
+140
+00:06:17,725 --> 00:06:21,004
+ferramenta que trabalha a cultura, que fica mandando e-mail,
+
+141
+00:06:21,014 --> 00:06:24,233
+sobre a importância da segurança de semanalmente.
+
+142
+00:06:24,244 --> 00:06:27,475
+Enfim, ele pega aquela diretriz que a alta direção
+
+143
+00:06:27,483 --> 00:06:30,613
+escreveu e coloca no dia a dia da operação.
+
+144
+00:06:30,980 --> 00:06:32,100
+Então ele tem a PA.
+
+145
+00:06:32,108 --> 00:06:35,389
+Ah, o tático é uma parte fundamental pra qualquer
+
+146
+00:06:35,399 --> 00:06:36,809
+sucesso da organização.
+
+147
+00:06:36,819 --> 00:06:39,949
+E esse PA e a esse time tático ele precisa
+
+148
+00:06:39,959 --> 00:06:40,548
+conectar bem.
+
+149
+00:06:40,559 --> 00:06:46,079
+Ele precisa entender o que a alta direção quer jogar
+
+150
+00:06:46,088 --> 00:06:48,920
+pro operacional, né? E jogar pro pro operacional
+
+151
+00:06:48,928 --> 00:06:51,420
+pro dia-a-dia, né? Isso é é bem legal.
+
+152
+00:06:51,428 --> 00:06:53,480
+Eh? Então é isso, Agradeço a presença de
+
+153
+00:06:53,488 --> 00:06:55,178
+vocês e vamos pra próxima aula!
+

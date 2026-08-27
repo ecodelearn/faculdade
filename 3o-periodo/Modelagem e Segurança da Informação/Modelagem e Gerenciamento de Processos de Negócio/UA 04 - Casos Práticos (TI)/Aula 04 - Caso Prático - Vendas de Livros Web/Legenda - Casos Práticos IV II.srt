@@ -1,0 +1,880 @@
+1
+00:00:06,559 --> 00:00:11,009
+Olá, vamos dar continuidade ao nosso caso prático.
+
+2
+00:00:11,019 --> 00:00:14,259
+Quatro Agora vamos na parte dois, né? Eh
+
+3
+00:00:14,269 --> 00:00:19,670
+nossa abordagem neste eh nesse nessa segunda parte ela vai
+
+4
+00:00:19,679 --> 00:00:24,809
+envolver eh diretamente o desenho do fluxo usando uma anotação
+
+5
+00:00:24,818 --> 00:00:28,789
+b PM olhando pra aquele cenário que a gente viu
+
+6
+00:00:29,079 --> 00:00:32,649
+na parte um, que é a descrição daquele conjunto
+
+7
+00:00:32,658 --> 00:00:35,209
+de ações, de atividades de passos ali que a
+
+8
+00:00:35,219 --> 00:00:39,289
+gente elencou em relação ao processo em si tá então
+
+9
+00:00:39,298 --> 00:00:43,090
+aqui nós já vamos materializar aquilo que tá escrito em
+
+10
+00:00:43,098 --> 00:00:46,250
+FOR! Eh na forma de uma anotação que é
+
+11
+00:00:46,259 --> 00:00:49,219
+uma anotação que usa eh, eh, eh,
+
+12
+00:00:49,228 --> 00:00:55,359
+eh atributos, né? Modelos desenhos que nos permitem
+
+13
+00:00:55,368 --> 00:00:58,658
+facilitar o entendimento acerca daquilo que nós acabamos de escrever.
+
+14
+00:00:58,668 --> 00:01:03,279
+Então eh tanto posso eh, eh, eh entender
+
+15
+00:01:03,289 --> 00:01:06,939
+e também podemos considerar que o processo está escrito e
+
+16
+00:01:06,948 --> 00:01:10,338
+descrito e formalizado na primeira parte.
+
+17
+00:01:10,349 --> 00:01:12,819
+Isso não é não, não, não tá errado,
+
+18
+00:01:12,829 --> 00:01:15,418
+não é porque eh eh o pressuposto de de de
+
+19
+00:01:15,430 --> 00:01:19,180
+de de eu criar uma abstração que é esse desenho
+
+20
+00:01:19,189 --> 00:01:23,558
+usando as notações é simplesmente pra facilitar o entendimento assim
+
+21
+00:01:23,629 --> 00:01:26,319
+do processo, mas em se o processo ele está
+
+22
+00:01:26,329 --> 00:01:29,719
+escrito, descrito e formalizado, tal como a gente
+
+23
+00:01:29,730 --> 00:01:31,430
+percebeu na parte um.
+
+24
+00:01:31,439 --> 00:01:34,739
+O que a gente vai fazer agora é justamente melhorar
+
+25
+00:01:34,750 --> 00:01:37,058
+esse entendimento, de uma forma mais.
+
+26
+00:01:37,069 --> 00:01:38,198
+Ah, vamos dizer assim.
+
+27
+00:01:38,209 --> 00:01:40,278
+Abstrata, né? Em que a gente consegue ver
+
+28
+00:01:40,290 --> 00:01:43,159
+as conexões por meio de objetos que são.
+
+29
+00:01:43,168 --> 00:01:45,799
+Eh por meio das notações que a gente já bem
+
+30
+00:01:45,808 --> 00:01:46,159
+conhece.
+
+31
+00:01:46,168 --> 00:01:48,760
+Então nós vamos na parte dois aqui e o É
+
+32
+00:01:48,769 --> 00:01:50,379
+justamente, esse aqui tá.
+
+33
+00:01:51,370 --> 00:01:54,138
+A gente vai perceber, nesse fluxo que aqui,
+
+34
+00:01:54,150 --> 00:01:56,338
+né? A identificação do fluxo do que se trata,
+
+35
+00:01:56,349 --> 00:01:58,058
+que é o processo de venda de livros.
+
+36
+00:01:58,069 --> 00:02:00,400
+A gente percebe que eu tenho aqui envolvido, o
+
+37
+00:02:00,409 --> 00:02:03,760
+cliente e a editora, né? São os os
+
+38
+00:02:03,769 --> 00:02:06,959
+e as entidades que estão interagindo com o meu processo
+
+39
+00:02:07,329 --> 00:02:11,969
+e aqui dentro, dentro do processo, efetivamente,
+
+40
+00:02:11,979 --> 00:02:15,258
+nós temos algumas interações com algumas áreas, né?
+
+41
+00:02:15,270 --> 00:02:17,058
+Que é a área de expedição que é a área
+
+42
+00:02:17,069 --> 00:02:19,250
+de cobrança, que é a área de atendimento Okay.
+
+43
+00:02:19,258 --> 00:02:22,879
+Então, temos três áreas aí bem Ah, importantes
+
+44
+00:02:22,889 --> 00:02:26,024
+acerca do nosso processo, Como é que começou lá
+
+45
+00:02:26,034 --> 00:02:28,054
+lá no No no No, no Passo um,
+
+46
+00:02:28,064 --> 00:02:30,365
+não é como é que veja só eu vou olhar
+
+47
+00:02:30,375 --> 00:02:33,564
+aqueles passos lá e eu já elenquei em em atividades
+
+48
+00:02:33,574 --> 00:02:35,963
+um dois três quatro cinco! E vamos trazer isso
+
+49
+00:02:35,974 --> 00:02:39,205
+pra cá agora tá então na nossa primeira eh a
+
+50
+00:02:39,213 --> 00:02:42,659
+atividade aqui Oh! Se a gente for olhar aqui
+
+51
+00:02:42,669 --> 00:02:46,618
+oh, o cliente faz o pedido de livros preenchendo
+
+52
+00:02:46,629 --> 00:02:50,300
+ficha própria disponibili disponibilizada pela Leia Livros S A por
+
+53
+00:02:50,308 --> 00:02:53,379
+meio do seu site na internet Essa é a interação
+
+54
+00:02:53,389 --> 00:02:54,179
+que nós precisamos.
+
+55
+00:02:54,189 --> 00:02:56,788
+Então eu vou considerar isso aqui já pra falar o
+
+56
+00:02:56,800 --> 00:02:58,849
+meu fazer o meu primeiro processo? Então eh,
+
+57
+00:02:58,860 --> 00:03:02,449
+eu criei, na verdade, ao estruturar aquela descrição
+
+58
+00:03:02,460 --> 00:03:05,849
+daquele processo, uma facilidade pra transformar pra cá pra
+
+59
+00:03:05,860 --> 00:03:08,088
+trazer pra cá, né? Colocando lá um,
+
+60
+00:03:08,099 --> 00:03:11,129
+dois, três, quatro beleza Então eh essa a
+
+61
+00:03:11,139 --> 00:03:14,788
+gente já já gera uma facilidade outras em outras ocasiões
+
+62
+00:03:14,800 --> 00:03:19,008
+eh outros pra casos práticos eu usei tabelas, enfim,
+
+63
+00:03:19,020 --> 00:03:21,508
+gente, olha só essa metodologia de usar tabela,
+
+64
+00:03:21,520 --> 00:03:26,219
+Criar esses um dois, três enfim eh pegar lá!
+
+65
+00:03:26,229 --> 00:03:28,710
+Eh, eh, eh hachura ou né? Ou
+
+66
+00:03:28,719 --> 00:03:32,080
+dar uma um uma, uma marcação nos verbos nas
+
+67
+00:03:32,088 --> 00:03:34,258
+ações? E tal? Isso aí é é,
+
+68
+00:03:34,270 --> 00:03:36,639
+É, é da vamos dizer assim, da praticidade
+
+69
+00:03:36,649 --> 00:03:39,118
+de cada um do entendimento de cada um Acerca.
+
+70
+00:03:39,129 --> 00:03:40,719
+O que a gente precisa entender é que ao ler
+
+71
+00:03:40,729 --> 00:03:42,800
+um processo eu tenho que entender beleza.
+
+72
+00:03:42,808 --> 00:03:45,149
+Então, olhando primeiro pra passo tá lá, oh
+
+73
+00:03:45,159 --> 00:03:47,258
+pedido de livros olha onde é que ele começa oh
+
+74
+00:03:47,270 --> 00:03:50,719
+lá em cima pelo cliente? Então pedido de livros
+
+75
+00:03:50,729 --> 00:03:53,889
+tá aqui dentro! Oh, tá minha canetinha aqui
+
+76
+00:03:53,899 --> 00:03:55,449
+não tá muito bem marcada não, mas tá lá
+
+77
+00:03:55,460 --> 00:03:59,599
+pedido de livros, Então vejam a marcação do novo
+
+78
+00:03:59,610 --> 00:04:02,409
+pedido como ele chega aqui? Oh! O pedido
+
+79
+00:04:02,419 --> 00:04:05,729
+do cliente chega na área de atendimento! Bem aqui,
+
+80
+00:04:05,740 --> 00:04:08,569
+oh! E aqui nessa área de atendimento eu tenho
+
+81
+00:04:08,580 --> 00:04:11,729
+uma cartinha que identifica que isso chegou por meio de
+
+82
+00:04:11,740 --> 00:04:14,528
+um e-mail, né? Que eu tenho uma interação
+
+83
+00:04:14,538 --> 00:04:17,069
+entre o meu cliente e um e e e uma
+
+84
+00:04:17,079 --> 00:04:19,048
+e o site, né? Aqui a gente tá
+
+85
+00:04:19,059 --> 00:04:22,470
+re representando o site como processo de venda E aí
+
+86
+00:04:22,910 --> 00:04:24,869
+entra essa cartinha que é o novo pedido do meu
+
+87
+00:04:24,879 --> 00:04:27,759
+cliente, e é claro que o atendimento vai fazer.
+
+88
+00:04:27,769 --> 00:04:29,838
+O que registrar esse pedido é A é a,
+
+89
+00:04:29,850 --> 00:04:33,559
+a, a primeira atividade lá atrás, né?
+
+90
+00:04:33,569 --> 00:04:36,600
+Na verdade, vamos voltar aqui um pouquinho, né?
+
+91
+00:04:36,608 --> 00:04:38,759
+Opa? Aliás, tô riscando eu tô riscando aqui
+
+92
+00:04:38,769 --> 00:04:40,338
+E não tá mostrando nada! Tá aqui oh,
+
+93
+00:04:40,350 --> 00:04:43,199
+beleza, Então tá aqui! Oh pedido.
+
+94
+00:04:43,209 --> 00:04:47,838
+Bem lindão aqui Oh! O pedido tá bem feio,
+
+95
+00:04:47,850 --> 00:04:48,559
+né? Meu negócio aqui.
+
+96
+00:04:48,569 --> 00:04:49,338
+Mas tudo bem.
+
+97
+00:04:50,238 --> 00:04:53,470
+Só pra pintar aqui pra ficar legal não ficou muito
+
+98
+00:04:53,480 --> 00:04:55,019
+bonito não, mas o que eu quero é que
+
+99
+00:04:55,028 --> 00:04:57,730
+vocês entendam que o pedido nasce aqui no cliente com
+
+100
+00:04:57,738 --> 00:04:58,528
+o pedido de livros.
+
+101
+00:04:58,540 --> 00:05:01,488
+Se nós observarmos aquela interação, olha aqui oh,
+
+102
+00:05:01,500 --> 00:05:03,250
+eu vou, eu vou voltar aqui um pouco na
+
+103
+00:05:03,259 --> 00:05:03,660
+interação.
+
+104
+00:05:03,670 --> 00:05:05,209
+Tá aqui, oh, o cliente faz o pedido!
+
+105
+00:05:05,220 --> 00:05:09,988
+O pedido é recebido pelo atendimento que registra e avalia.
+
+106
+00:05:10,000 --> 00:05:13,928
+Então esse registro seria a confirmação do pedido aqui nessa
+
+107
+00:05:13,939 --> 00:05:15,428
+primeiro processo aqui.
+
+108
+00:05:15,809 --> 00:05:19,100
+E a segunda é a avaliação quem faz o atendimento
+
+109
+00:05:19,108 --> 00:05:22,738
+pronto, então dois processos ali que são trabalhados,
+
+110
+00:05:22,750 --> 00:05:25,379
+né? Então eu vou avaliar no estoque se eu
+
+111
+00:05:25,389 --> 00:05:28,379
+tenho o item ou não okay, E aqui eu
+
+112
+00:05:28,389 --> 00:05:30,139
+já tenho um ponto de decisão.
+
+113
+00:05:30,149 --> 00:05:32,259
+Eu tenho um ponto de decisão aqui que é aqui.
+
+114
+00:05:32,269 --> 00:05:36,259
+Oh, eu tenho que verificar se eu tenho o
+
+115
+00:05:36,269 --> 00:05:38,220
+livro, não to avaliei o estoque.
+
+116
+00:05:38,230 --> 00:05:40,899
+A decisão dessa avaliação do estoque é você tem o
+
+117
+00:05:40,910 --> 00:05:41,660
+livro não tem.
+
+118
+00:05:41,670 --> 00:05:42,579
+Ah, eu não tenho o livro.
+
+119
+00:05:42,588 --> 00:05:43,778
+Você não tem um livro O que que eu faço?
+
+120
+00:05:43,790 --> 00:05:46,579
+Eu vou encomendar esse título lá pra editora lá embaixo,
+
+121
+00:05:46,588 --> 00:05:49,699
+Oh a editora aqui Oh, tá encomendei esse eu
+
+122
+00:05:49,709 --> 00:05:53,899
+eu eu listo os títulos que eu estou encomendando que
+
+123
+00:05:53,910 --> 00:05:55,259
+eu quero juntoà editora.
+
+124
+00:05:55,269 --> 00:05:58,480
+Claro, né? A expedição o faz e depois
+
+125
+00:05:58,488 --> 00:06:01,459
+re a expedição recebe, né, Editora Entrega os
+
+126
+00:06:01,470 --> 00:06:03,660
+títulos aqui, né? E a.
+
+127
+00:06:03,670 --> 00:06:04,790
+E a expedição recebe isso.
+
+128
+00:06:04,798 --> 00:06:06,709
+Veja que esse aqui é um pro um processo que
+
+129
+00:06:06,720 --> 00:06:08,889
+tem o Mazinho, então quer dizer que ele tem
+
+130
+00:06:08,899 --> 00:06:10,000
+subprocessos.
+
+131
+00:06:10,009 --> 00:06:12,588
+Ou seja, ele tem atividades ali dentro que vão
+
+132
+00:06:12,600 --> 00:06:16,449
+ocorrer em O que significa encomendar título.
+
+133
+00:06:16,459 --> 00:06:21,470
+Vamos dizer preencher a ficha de solicitação pra editora,
+
+134
+00:06:21,480 --> 00:06:26,230
+elencar a quantidade Ah, definir método de transporte de
+
+135
+00:06:26,238 --> 00:06:28,449
+definir forma de pagamentos et cetera.
+
+136
+00:06:28,459 --> 00:06:30,480
+Ou seja, isso aqui pode tá tudo dentro desse
+
+137
+00:06:30,488 --> 00:06:31,928
+encomendar livros.
+
+138
+00:06:32,250 --> 00:06:35,230
+E aí isso também encomendar livros tem lá o processo
+
+139
+00:06:35,238 --> 00:06:40,338
+de recebimento do do do da editora do livro,
+
+140
+00:06:40,350 --> 00:06:44,778
+né? EH, eh atualização do estoque da A
+
+141
+00:06:44,790 --> 00:06:47,298
+expedição atualiza o estoque, entendeu? Então assim eu
+
+142
+00:06:47,309 --> 00:06:50,738
+tenho uma série de subprocessos de dentro de encomendar títulos.
+
+143
+00:06:50,750 --> 00:06:51,730
+Por isso que tem esse mais.
+
+144
+00:06:51,738 --> 00:06:55,540
+Então uma vez que recebi o título, ou ou
+
+145
+00:06:55,548 --> 00:07:00,439
+eu ou recebo esse esse título encomendado da editora ou
+
+146
+00:07:00,449 --> 00:07:02,959
+no meu estoque tem, Vejam que eu vou emitir
+
+147
+00:07:02,970 --> 00:07:06,439
+uma cobrança que já vem pro departamento de cobranças aqui
+
+148
+00:07:06,449 --> 00:07:09,649
+eu vou emitir uma cobrança aqui embaixo, tá a
+
+149
+00:07:09,660 --> 00:07:11,678
+emissão da cobrança pressupõe que eu vou.
+
+150
+00:07:11,689 --> 00:07:14,519
+Vou encaminhar essa essa cobrança para o meu eh eh
+
+151
+00:07:14,528 --> 00:07:15,738
+cliente.
+
+152
+00:07:15,750 --> 00:07:18,480
+Então veja vai uma cobrança enviada para o meu cliente
+
+153
+00:07:18,488 --> 00:07:20,480
+lá em cima, oh aqui, oh a cobrança
+
+154
+00:07:20,488 --> 00:07:21,869
+vai vir pra cá, Oh, vem no meu
+
+155
+00:07:21,879 --> 00:07:24,709
+cliente aqui, Oh, tá legal e observe que
+
+156
+00:07:24,720 --> 00:07:26,509
+a cartinha ela é um ela é ela é,
+
+157
+00:07:26,519 --> 00:07:27,750
+ela é pintadinha.
+
+158
+00:07:27,759 --> 00:07:30,790
+Por quê? Porque eu estou enviando ao cliente e
+
+159
+00:07:30,798 --> 00:07:34,189
+depois o cliente confirma o pagamento, né? Por
+
+160
+00:07:34,199 --> 00:07:37,009
+meio de outro envio de e-mail, tá aqui caindo
+
+161
+00:07:37,019 --> 00:07:37,600
+aqui.
+
+162
+00:07:37,608 --> 00:07:40,108
+Oh, tá aqui, eu envio pro cliente aqui
+
+163
+00:07:40,119 --> 00:07:42,709
+eu recebo do cliente uma vez recebi do cliente,
+
+164
+00:07:42,720 --> 00:07:45,329
+né? Essa cobrança eu vou emitir a nota fiscal
+
+165
+00:07:45,869 --> 00:07:46,619
+tá legal.
+
+166
+00:07:46,629 --> 00:07:49,230
+Então eu poderia também colocar aqui um um outro processo,
+
+167
+00:07:49,238 --> 00:07:52,139
+talvez com uma melhoria de que ao receber ao receber
+
+168
+00:07:52,149 --> 00:07:55,660
+essa essa cobrança, eu possa conferir se está tudo
+
+169
+00:07:55,670 --> 00:07:57,879
+okay, se tiver tudo ok com a cobrança.
+
+170
+00:07:57,889 --> 00:07:59,980
+Valor pago não tem multa, não tem.
+
+171
+00:07:59,988 --> 00:08:01,420
+Ou seja a atendeu.
+
+172
+00:08:01,428 --> 00:08:03,639
+Exatamente o que tava no border eu faço a emissão
+
+173
+00:08:03,649 --> 00:08:04,798
+da nova nota fiscal.
+
+174
+00:08:04,809 --> 00:08:07,759
+Poderia ter um subprocessos aqui dentro? Eh,ô
+
+175
+00:08:07,769 --> 00:08:10,298
+desculpa não aqui dentro, né? Eu podia colocar
+
+176
+00:08:10,309 --> 00:08:12,819
+um subprocessos antes da emissão da nota fiscal.
+
+177
+00:08:12,829 --> 00:08:15,959
+Poderia ser uma melhoria, tá legal, mas enfim,
+
+178
+00:08:15,970 --> 00:08:19,000
+aqui caiu o recebimento, emito a nota fiscal e
+
+179
+00:08:19,009 --> 00:08:21,160
+encaminho a nota fiscal pro meu cliente Lá em cima
+
+180
+00:08:21,170 --> 00:08:21,449
+de novo.
+
+181
+00:08:21,459 --> 00:08:23,399
+Oh a minha interação com o meu cliente aqui encaminho
+
+182
+00:08:23,410 --> 00:08:26,660
+pra aqui em cima e a ao quando eu emito
+
+183
+00:08:26,670 --> 00:08:27,480
+a nota fiscal.
+
+184
+00:08:27,488 --> 00:08:29,778
+Essa nota fiscal já vai pra expedição! Tá vendo
+
+185
+00:08:29,790 --> 00:08:30,720
+uma mãozinha aqui.
+
+186
+00:08:30,730 --> 00:08:34,580
+Oh bem aqui, oh essa mãozinha! Ela significa
+
+187
+00:08:34,590 --> 00:08:37,080
+que eu estou realizando um trabalho manual, eu o
+
+188
+00:08:37,090 --> 00:08:40,099
+O trabalho manual é o que pegar o livro lá
+
+189
+00:08:40,109 --> 00:08:41,058
+no estoque.
+
+190
+00:08:41,070 --> 00:08:44,500
+Separar esse livro em função do pedido da nota fiscal
+
+191
+00:08:44,509 --> 00:08:47,019
+que foi emitida tá! E aí uma vez que
+
+192
+00:08:47,029 --> 00:08:50,094
+eu fiz isso, outro trabalho manual tá aqui que
+
+193
+00:08:50,104 --> 00:08:52,793
+é o despachar o livro Então manualmente eu vou pegar
+
+194
+00:08:52,803 --> 00:08:55,303
+esse livro! Vou criar lá ou colocar dentro de
+
+195
+00:08:55,315 --> 00:08:58,734
+uma caixinha Vou etiquetar! Vou colocar tudo bonitinho,
+
+196
+00:08:58,744 --> 00:09:02,254
+né? Eh fazer o voice pra pra entrega,
+
+197
+00:09:02,264 --> 00:09:05,413
+pra PRA, transportadora, pra Enfim pro pra quem
+
+198
+00:09:05,423 --> 00:09:09,094
+vai efetivamente entregar o livro! Feito isso eu vou
+
+199
+00:09:09,104 --> 00:09:11,695
+lá e baixo essa entrega, ou seja, a
+
+200
+00:09:11,705 --> 00:09:15,274
+entrega foi concluída ou se a A A A entrega
+
+201
+00:09:15,283 --> 00:09:18,440
+foi aí desculpa a a o despacho, né?
+
+202
+00:09:18,450 --> 00:09:22,038
+Desse livro foi foi feita e e e baixar a
+
+203
+00:09:22,048 --> 00:09:24,239
+entrega, quer dizer que ela vai acontecer quando a
+
+204
+00:09:24,250 --> 00:09:28,019
+confirmação da entrega chega? Eh porque aqui a gente
+
+205
+00:09:28,029 --> 00:09:30,979
+tem essa perspectiva, né? Porque eh! Eu
+
+206
+00:09:30,989 --> 00:09:32,940
+posso ser, pode ser que na hora da da
+
+207
+00:09:32,950 --> 00:09:35,979
+entrega a transportadora errou, o endereço eh, perdeu
+
+208
+00:09:35,989 --> 00:09:38,469
+o livro, extraviou alguma coisa pode acontecer, Então
+
+209
+00:09:38,479 --> 00:09:41,379
+Efetivamente, a baixa da entrega vai acontecer quando eu
+
+210
+00:09:41,389 --> 00:09:44,219
+recebo essa confirmação e aí eu finalizo meu processo aqui.
+
+211
+00:09:44,229 --> 00:09:46,428
+Tá uma observação aqui que vocês veem.
+
+212
+00:09:46,440 --> 00:09:48,479
+Ah, mas aí, cadê aquela bolinha verdinha que
+
+213
+00:09:48,558 --> 00:09:51,009
+a gente tanto viu de início de processo o processo
+
+214
+00:09:51,019 --> 00:09:53,330
+tá aqui, oh, ele inicia quando o cara
+
+215
+00:09:53,340 --> 00:09:55,849
+faz um novo pedido por meio de um e-mail.
+
+216
+00:09:55,859 --> 00:09:59,489
+Observar que eu tenho uma interação completa aqui pra representar
+
+217
+00:09:59,500 --> 00:10:02,408
+justamente aquele conjunto de atividades que a gente de passos
+
+218
+00:10:02,418 --> 00:10:04,149
+que a gente determinou lá, tá legal.
+
+219
+00:10:04,158 --> 00:10:08,928
+Vamos ver a a a continuidade desse processo na próxima
+
+220
+00:10:08,940 --> 00:10:10,788
+etapa, Okay Até lá
+

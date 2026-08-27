@@ -1,0 +1,904 @@
+1
+00:00:05,908 --> 00:00:07,879
+Olá, aluno seja muito bemvindo.
+
+2
+00:00:07,889 --> 00:00:11,099
+Sou professor Fabrício Melo e vamos hoje tratar sobre o
+
+3
+00:00:11,108 --> 00:00:11,439
+assunto.
+
+4
+00:00:11,448 --> 00:00:17,489
+Meios de comunicação camada física eh a camada um lá
+
+5
+00:00:17,500 --> 00:00:20,679
+do modelo OSE lembra Ou seja, quais são as
+
+6
+00:00:20,690 --> 00:00:25,420
+características dessa camada física Aluno, vamos comigo a camada
+
+7
+00:00:25,429 --> 00:00:28,478
+física, nós aprendemos lá no modelo, O que
+
+8
+00:00:28,489 --> 00:00:31,309
+é a camada que transporta o quê? Os dados
+
+9
+00:00:31,318 --> 00:00:33,829
+na forma de bits tá vendo? Oh organizados na
+
+10
+00:00:33,840 --> 00:00:35,668
+forma de um quadro da camada de enlaça, ou
+
+11
+00:00:35,679 --> 00:00:37,789
+seja, ele vende de enlace e lá na camada
+
+12
+00:00:37,798 --> 00:00:39,950
+física ele vai formar o É o que eu sempre
+
+13
+00:00:39,959 --> 00:00:42,709
+falo é ali é a parte crua da rede,
+
+14
+00:00:42,719 --> 00:00:46,228
+onde você não vai conseguir identificar ali ainda uma informação
+
+15
+00:00:46,240 --> 00:00:48,270
+ela tá crua, ela tá lá na primeira camada,
+
+16
+00:00:48,279 --> 00:00:49,868
+tá vendo oh, oh, é a forma de
+
+17
+00:00:49,880 --> 00:00:53,630
+sinais de onda elétrica óptica ou então de rádio,
+
+18
+00:00:53,639 --> 00:00:55,609
+né? Que você pode? Tá transmitindo a informação
+
+19
+00:00:55,618 --> 00:00:57,408
+por meio de um cabo de cobre.
+
+20
+00:00:57,649 --> 00:01:00,090
+Você pode tá transmitindo a informação por meio de uma
+
+21
+00:01:00,098 --> 00:01:02,939
+fibra óptica ou através de sinal de rádio.
+
+22
+00:01:02,950 --> 00:01:04,459
+E olha que interessante como é que é feita a
+
+23
+00:01:04,469 --> 00:01:06,819
+transmissão? Tá vendo? Oh quando você tá lá
+
+24
+00:01:06,829 --> 00:01:10,019
+na camada de enlace, oh camada dois Você pode
+
+25
+00:01:10,028 --> 00:01:14,138
+ver que ali oh o dado, tem as informações
+
+26
+00:01:14,150 --> 00:01:14,939
+identificadas.
+
+27
+00:01:14,948 --> 00:01:17,019
+Tá vendo o cabeçalho, né? Ah, tem
+
+28
+00:01:17,028 --> 00:01:18,329
+o cabeçalho ali de Ens.
+
+29
+00:01:18,338 --> 00:01:20,500
+Depois tinha de internet o de transporte.
+
+30
+00:01:20,510 --> 00:01:22,599
+Tá vendo o de aplicação, né? Na medida
+
+31
+00:01:22,609 --> 00:01:26,239
+que você vai avançando as camadas na camada física,
+
+32
+00:01:26,250 --> 00:01:28,980
+oh você tem um sinal oh lá, Como é
+
+33
+00:01:28,989 --> 00:01:31,000
+que é feita a transmissão? Tá vendo isso aqui
+
+34
+00:01:31,010 --> 00:01:34,198
+Eu jamais conseguiria identificar como uma informação.
+
+35
+00:01:34,209 --> 00:01:38,278
+Então, na medida que você vai abaixando as camadas,
+
+36
+00:01:38,290 --> 00:01:41,129
+a hora que chega na física, você vai ter
+
+37
+00:01:41,138 --> 00:01:43,250
+ali na forma de um sinal, ou seja,
+
+38
+00:01:43,260 --> 00:01:45,668
+na forma de transmissão de bits perfeito.
+
+39
+00:01:46,448 --> 00:01:49,859
+E aí você tem que ter também aluno uma padronização
+
+40
+00:01:49,870 --> 00:01:52,849
+pra isso, né Muito cuidado, porque como é
+
+41
+00:01:52,859 --> 00:01:57,308
+que esses esses pacotes, né? As informações vamos
+
+42
+00:01:57,319 --> 00:02:00,448
+chegar na camada física sem qualquer padronização, sendo que
+
+43
+00:02:00,459 --> 00:02:03,349
+você tem sistema de cobre, sistema de fibra óptica,
+
+44
+00:02:03,359 --> 00:02:04,329
+sistema de rádio.
+
+45
+00:02:04,338 --> 00:02:09,020
+Aí você tem as organizações que fazem a padronização dessa
+
+46
+00:02:09,028 --> 00:02:09,879
+transmissão.
+
+47
+00:02:09,889 --> 00:02:12,038
+Que tá aí, oh cê, tem a ISO
+
+48
+00:02:12,050 --> 00:02:14,830
+que a gente até estudou, né? Que pega
+
+49
+00:02:14,838 --> 00:02:16,939
+sete camadas e a gente tá vendo a camada número
+
+50
+00:02:16,949 --> 00:02:19,038
+um! E aí você tem a T e a
+
+51
+00:02:19,050 --> 00:02:21,699
+e a a i t u tá vendo oh,
+
+52
+00:02:21,710 --> 00:02:24,758
+tem a i e que é instituto aí, né?
+
+53
+00:02:24,770 --> 00:02:28,800
+É aquele instituto elétrico e eh Engenharia elétrica eletrônica que
+
+54
+00:02:28,808 --> 00:02:31,939
+faz a padronização de uma série de dispositivos que são
+
+55
+00:02:31,949 --> 00:02:35,800
+desenvolvidos aí pra rede Tá! E no Brasil nós
+
+56
+00:02:35,808 --> 00:02:37,838
+temos quem olha que interessante A, B, M
+
+57
+00:02:37,849 --> 00:02:42,770
+e T Associação Brasileira de Normas Técnicas é responsável por
+
+58
+00:02:42,778 --> 00:02:43,770
+isso aqui no Brasil.
+
+59
+00:02:43,778 --> 00:02:45,169
+E temos também o Inmetro.
+
+60
+00:02:45,179 --> 00:02:48,729
+Obviamente que é o nosso Instituto Nacional de Metrologia,
+
+61
+00:02:48,740 --> 00:02:50,449
+Qualidade e Tecnologia.
+
+62
+00:02:50,460 --> 00:02:54,449
+Então, esses institutos que fazem a normatização de como
+
+63
+00:02:54,460 --> 00:02:59,050
+que esses sinais vão ser transportados ali na camada física,
+
+64
+00:02:59,058 --> 00:03:02,088
+né? Na camada bruta eu sempre faço uma comparação
+
+65
+00:03:02,099 --> 00:03:04,729
+da camada física, é como se você tivesse um
+
+66
+00:03:04,740 --> 00:03:08,629
+cano correndo ali uma água, aquela água ali tá
+
+67
+00:03:08,639 --> 00:03:11,508
+pura, ela pode tá contaminada ou não? A
+
+68
+00:03:11,520 --> 00:03:15,929
+camada física tá só ali, oh transportando aquele sinal,
+
+69
+00:03:15,939 --> 00:03:18,129
+né? Mas obviamente mesmo assim tem que ter uma
+
+70
+00:03:18,139 --> 00:03:21,429
+padronização tá e da camada física a gente pode falar
+
+71
+00:03:21,439 --> 00:03:24,219
+de codificação que que é codificação, oh lá,
+
+72
+00:03:24,229 --> 00:03:26,669
+toda informação pra ser transmitida em um meio, ela
+
+73
+00:03:26,679 --> 00:03:28,189
+precisa ser adaptada a ele.
+
+74
+00:03:28,740 --> 00:03:31,308
+Então pra aquela informação ser transmitida ela tem que ser
+
+75
+00:03:31,319 --> 00:03:34,389
+adaptada a um meio como é que eu consigo adaptar
+
+76
+00:03:34,399 --> 00:03:37,330
+pelo processo de conversão do fluxo de bits que vem
+
+77
+00:03:37,338 --> 00:03:39,639
+proveniente dos quadros lá da camada de enlace, a
+
+78
+00:03:39,649 --> 00:03:41,909
+camada de cima né? Que trabalha com quadro.
+
+79
+00:03:41,919 --> 00:03:44,038
+Então ela vai pegar em um código, tá vendo
+
+80
+00:03:44,050 --> 00:03:47,169
+Oh pré-definido, capaz de ser reconhecido tanto pela emissora
+
+81
+00:03:47,264 --> 00:03:49,284
+quanto pelo receptor.
+
+82
+00:03:49,294 --> 00:03:53,145
+E nós temos como exemplo a codificação Manchester já viu?
+
+83
+00:03:53,153 --> 00:03:55,354
+Já ouviu falar nisso? É uma codificação antiga,
+
+84
+00:03:55,365 --> 00:03:58,514
+né? Utilizada lá nos padrões da internet dez base
+
+85
+00:03:58,524 --> 00:04:01,554
+T, que é a a rede lá de dez
+
+86
+00:04:01,564 --> 00:04:04,754
+megabits por segundo, por exemplo e também chegou a
+
+87
+00:04:04,764 --> 00:04:08,080
+no cem base t x, né? O que
+
+88
+00:04:08,088 --> 00:04:11,610
+acontece hoje? Nós já temos aí codificação quatro b
+
+89
+00:04:11,618 --> 00:04:14,129
+e cinco b que são as redes avançadas e a
+
+90
+00:04:14,139 --> 00:04:16,250
+oito b e dez b Por quê? Porque as
+
+91
+00:04:16,259 --> 00:04:20,399
+taxas mais rápidas exigem o quê Uma codificação mais complexa,
+
+92
+00:04:20,410 --> 00:04:23,290
+então foi evoluindo e passando pra esses nomes.
+
+93
+00:04:23,298 --> 00:04:25,928
+Aí olha um exemplo aí oh de uma codificação tá
+
+94
+00:04:25,939 --> 00:04:27,928
+vendo Oh, cê tem um sistema de bits um
+
+95
+00:04:27,939 --> 00:04:31,069
+zero que é o que a camada um reconhece onde?
+
+96
+00:04:31,079 --> 00:04:33,338
+Oh lá quando você tem um bit um oh,
+
+97
+00:04:33,350 --> 00:04:37,338
+ele vai de baixo pra cima e o bit zero
+
+98
+00:04:37,350 --> 00:04:40,019
+de cima pra baixo Tá vendo oh aí a informação
+
+99
+00:04:40,028 --> 00:04:43,819
+vai ser codificada, tá vendo oh lá subindo e
+
+100
+00:04:43,829 --> 00:04:45,709
+descendo, então isso é um padrão.
+
+101
+00:04:45,720 --> 00:04:49,178
+Como é que essa informação vai seguir no meio físico?
+
+102
+00:04:49,189 --> 00:04:52,660
+Cê tem que ter uma codificação dessa informação okay E
+
+103
+00:04:52,670 --> 00:04:56,019
+obviamente temos que ter também a modulação que que é
+
+104
+00:04:56,028 --> 00:05:00,199
+a modulação é o sinal codificado sinal modula modula isso
+
+105
+00:05:00,209 --> 00:05:05,338
+é modifique ou mais características físicas como amplitude, frequência
+
+106
+00:05:05,350 --> 00:05:08,439
+ou fase de uma onda chamada portadora.
+
+107
+00:05:08,449 --> 00:05:12,059
+Então você precisa modular aquele sinal.
+
+108
+00:05:12,069 --> 00:05:14,579
+Aquela informação que tá indo e vindo isso aí também
+
+109
+00:05:14,588 --> 00:05:16,699
+faz parte da camada física.
+
+110
+00:05:16,709 --> 00:05:20,259
+Nós temos as técnicas de modulação conhecida como a S
+
+111
+00:05:20,269 --> 00:05:22,980
+k a f s k e a PS k Tá
+
+112
+00:05:22,988 --> 00:05:25,778
+vendo aí oh Como é que é feito o envio?
+
+113
+00:05:25,790 --> 00:05:29,399
+Tá vendo oh da informação através delas? Oh,
+
+114
+00:05:29,410 --> 00:05:32,298
+cê pode ver que isso aqui não é reconhecido né?
+
+115
+00:05:32,309 --> 00:05:34,858
+A olho humano eu não consigo ver isso.
+
+116
+00:05:34,869 --> 00:05:37,720
+Isso ali tá por ondas né? De rádio ondas
+
+117
+00:05:37,730 --> 00:05:41,509
+através de de sistema de elétrico e óptico, então
+
+118
+00:05:41,519 --> 00:05:44,178
+cê tem essas técnicas de modulação aí essas três a
+
+119
+00:05:44,189 --> 00:05:47,298
+s k a f S k e a PS k
+
+120
+00:05:47,309 --> 00:05:51,319
+perfeito e outra também muito interessante de entender na camada
+
+121
+00:05:51,329 --> 00:05:54,358
+física a largura de banda também definido nela.
+
+122
+00:05:54,649 --> 00:05:56,298
+O que que é a largura de banda aluno é
+
+123
+00:05:56,309 --> 00:05:59,199
+a capacidade de transmissão de dados de um meio.
+
+124
+00:05:59,209 --> 00:06:01,540
+Como é que é essa capacidade pra transmitir um dados?
+
+125
+00:06:01,548 --> 00:06:03,858
+Só que é o seguinte Quando você fala de sinais
+
+126
+00:06:03,869 --> 00:06:08,459
+analógicos? Oh, você calcula essa velocidade pela faixa
+
+127
+00:06:08,470 --> 00:06:12,420
+de frequência que é a famosa medida em hertz?
+
+128
+00:06:12,428 --> 00:06:15,750
+H Z, então cê tem lá duzentos megahertz,
+
+129
+00:06:15,759 --> 00:06:20,108
+né, cem megahertz? Então você consegue ali calcular
+
+130
+00:06:20,119 --> 00:06:23,230
+esse fluxo, esse pulso elétrico, né? Ou
+
+131
+00:06:23,238 --> 00:06:26,660
+seja uma frequência através desse d tá vendo oh,
+
+132
+00:06:26,670 --> 00:06:30,108
+porque o sinal transmitido ele pode ocupar.
+
+133
+00:06:30,119 --> 00:06:35,149
+Só que quando você fala em sinais dita que são
+
+134
+00:06:35,160 --> 00:06:38,269
+os dados que a gente tá, né operando ali
+
+135
+00:06:38,278 --> 00:06:40,259
+na rede que a gente já vai começar depois lá
+
+136
+00:06:40,269 --> 00:06:43,889
+na camada de cima vezes chegando que que é medido
+
+137
+00:06:43,899 --> 00:06:44,069
+a lar.
+
+138
+00:06:44,079 --> 00:06:46,869
+A banda digital tá vendo, ela mede a quantidade
+
+139
+00:06:46,879 --> 00:06:51,608
+de dados que podem fluir de um lugar para outro
+
+140
+00:06:51,619 --> 00:06:53,428
+durante um determinado tempo.
+
+141
+00:06:53,439 --> 00:06:55,899
+Então cê já muda quando cê vai trabalhar com o
+
+142
+00:06:55,910 --> 00:06:59,500
+sinal digital? Essa largura de banda é medida nisso.
+
+143
+00:06:59,509 --> 00:07:01,519
+Oh! Qual é a quantidade de dados que pode
+
+144
+00:07:01,528 --> 00:07:04,000
+influir de um lugar pro outro durante um determinado tempo.
+
+145
+00:07:04,009 --> 00:07:08,000
+Então aí você tem as famosas medidas de bits por
+
+146
+00:07:08,009 --> 00:07:11,019
+segundo conhecido como B PS, que é a unidade
+
+147
+00:07:11,028 --> 00:07:15,915
+fundamental, então Hertz H Z é o analógico e
+
+148
+00:07:15,923 --> 00:07:18,545
+b PS é o digital.
+
+149
+00:07:18,553 --> 00:07:21,095
+Aí você tem oh o Pro segundo.
+
+150
+00:07:21,105 --> 00:07:23,074
+Então você tem uma banda lá de um quilobits por
+
+151
+00:07:23,084 --> 00:07:26,795
+segundo é mais ou menos mil bits por segundo porque
+
+152
+00:07:26,803 --> 00:07:30,564
+quilo vem de mil quando ele fala em megabit que
+
+153
+00:07:30,574 --> 00:07:33,954
+é o M é milhões de bits por segundo quando
+
+154
+00:07:33,963 --> 00:07:36,733
+ele fala em gigabit é o G b PS Então
+
+155
+00:07:36,744 --> 00:07:39,153
+você tem uma banda lá oh de um g b
+
+156
+00:07:39,165 --> 00:07:42,720
+PS então é mais ou menos um bilhão de bits
+
+157
+00:07:42,730 --> 00:07:45,358
+por segundo sendo transmitido ali.
+
+158
+00:07:45,369 --> 00:07:48,278
+Tá vendo então é a quantidade ali de dados que
+
+159
+00:07:48,290 --> 00:07:51,199
+podem fluir de um lugar pro outro em determinado tempo.
+
+160
+00:07:51,209 --> 00:07:55,459
+É assim que você vai calcular o sinal quando ele
+
+161
+00:07:55,470 --> 00:07:58,100
+é digital tá bom e temos aí também.
+
+162
+00:07:58,108 --> 00:08:00,619
+Oh quando a gente trabalha por exemplo com cabeamento de
+
+163
+00:08:00,629 --> 00:08:03,119
+cobre, que é o que é utilizado aí pelo
+
+164
+00:08:03,129 --> 00:08:07,720
+par trançado que é utilizado aí né? Pelas principais
+
+165
+00:08:07,730 --> 00:08:10,338
+redes cê também tem que entender Oh que os dados
+
+166
+00:08:10,350 --> 00:08:12,619
+são codificados ou modulados, transmitidos na forma o quê
+
+167
+00:08:12,629 --> 00:08:14,420
+de sinais elétricos.
+
+168
+00:08:14,428 --> 00:08:16,319
+Então o cabe vem de cobre e vai trabalhar com
+
+169
+00:08:16,329 --> 00:08:17,439
+o sinal elétrico.
+
+170
+00:08:17,449 --> 00:08:20,439
+E olha que interessante cê tem a questão da distância,
+
+171
+00:08:20,449 --> 00:08:22,559
+né? Isso é muito fundamental em uma rede Oh,
+
+172
+00:08:22,569 --> 00:08:26,579
+quanto maior a distância que esse cabo vai ter,
+
+173
+00:08:26,588 --> 00:08:30,259
+o sinal vai perdendo, perdendo? O quê?
+
+174
+00:08:30,269 --> 00:08:32,418
+É o que a gente chama de atenuação.
+
+175
+00:08:32,428 --> 00:08:36,379
+Tá vendo? É a perda de potência de sinal
+
+176
+00:08:36,389 --> 00:08:38,798
+ao longo do meio de transmissão, que é a
+
+177
+00:08:38,808 --> 00:08:40,418
+medida em decibel famoso.
+
+178
+00:08:40,428 --> 00:08:44,808
+Deb Então, obviamente que quanto mais longo mais ele
+
+179
+00:08:44,820 --> 00:08:48,029
+vai perdendo ali essa essa potência.
+
+180
+00:08:48,038 --> 00:08:49,609
+Por isso queàs vezes cê tem lá o famoso
+
+181
+00:08:49,619 --> 00:08:53,649
+repetidor que vai ter a função de Che jogar o
+
+182
+00:08:53,658 --> 00:08:55,210
+sinal mais adiante.
+
+183
+00:08:55,219 --> 00:08:58,129
+Por isso que você pega um cabo aí par trançado,
+
+184
+00:08:58,139 --> 00:09:01,808
+geralmente é recomendado cem metros de distância pra ele não
+
+185
+00:09:01,820 --> 00:09:03,609
+perder totalmente o sinal.
+
+186
+00:09:03,619 --> 00:09:05,729
+Então você tem que trabalhar com isso aí também.
+
+187
+00:09:05,739 --> 00:09:07,509
+Com esse trabalho cabia mente, cobre, tá,
+
+188
+00:09:07,788 --> 00:09:10,440
+e outra coisa interessante da camada física é o seguinte
+
+189
+00:09:10,450 --> 00:09:13,690
+OH, em uma rede com vários segmentos, a
+
+190
+00:09:13,700 --> 00:09:17,729
+taxa de transferência aluno não pode ser mais rápida que
+
+191
+00:09:17,739 --> 00:09:20,548
+o link mais lento no caminho da origem ao destino
+
+192
+00:09:20,558 --> 00:09:23,308
+que que é isso, por exemplo, a residência
+
+193
+00:09:23,320 --> 00:09:26,889
+ou seu escritório, né? Sua rede interna trafega
+
+194
+00:09:26,899 --> 00:09:29,408
+um gigabit por segundo.
+
+195
+00:09:30,158 --> 00:09:33,609
+Só que o seu link de internet é de cem
+
+196
+00:09:33,619 --> 00:09:37,009
+megabits por segundo, tá vendo então sua taxa de
+
+197
+00:09:37,019 --> 00:09:40,719
+transferência não poderá exceder esse valor.
+
+198
+00:09:40,729 --> 00:09:44,109
+Então você tem ali uma taxa rápida na rede interna.
+
+199
+00:09:44,460 --> 00:09:47,149
+Mas se você tem a taxa menor, não vai
+
+200
+00:09:47,158 --> 00:09:51,029
+poder ceder esse valor aí menor isso aí é interessante,
+
+201
+00:09:51,038 --> 00:09:53,649
+Tá vendo isso é tudo definido aí na famosa camada
+
+202
+00:09:53,658 --> 00:09:57,250
+física tá e temos também os níveis de interferência.
+
+203
+00:09:57,259 --> 00:10:00,750
+Como é que a gente eh, reconhece as interferências
+
+204
+00:10:00,759 --> 00:10:03,308
+pela sigla e n i e a r f i
+
+205
+00:10:03,320 --> 00:10:06,428
+tá vendo oh, São influências externas provocadas por fone
+
+206
+00:10:06,440 --> 00:10:09,769
+de energia eletromagnéticas, né? E a, e
+
+207
+00:10:09,779 --> 00:10:13,899
+m i é o que a gente chama de eh
+
+208
+00:10:13,908 --> 00:10:17,950
+eletromagnética, interferência ou a de radiofrequência, que é
+
+209
+00:10:17,960 --> 00:10:18,908
+a R F I.
+
+210
+00:10:18,918 --> 00:10:24,779
+Então, essas unidades aí que conseguem causar as famosas
+
+211
+00:10:24,788 --> 00:10:26,580
+interferências na rede que a gente vê muito, né?
+
+212
+00:10:26,590 --> 00:10:30,058
+Não passar cabeamento perto, por exemplo, de energia
+
+213
+00:10:30,070 --> 00:10:32,750
+elétrica, né? Quando você vai fazer um projeto
+
+214
+00:10:32,759 --> 00:10:35,129
+de rede, você tem que saber como você vai
+
+215
+00:10:35,139 --> 00:10:36,690
+atuar no seu cabeamento.
+
+216
+00:10:36,700 --> 00:10:39,869
+Olha que interessante tá vendo oh a influência da m
+
+217
+00:10:39,879 --> 00:10:42,849
+r f Oh no desse aí de uma rede oh
+
+218
+00:10:42,859 --> 00:10:44,928
+lá, oh que que acontece? Tá vendo?
+
+219
+00:10:44,940 --> 00:10:48,129
+Cê tem interferência? O que vai provocar perda de
+
+220
+00:10:48,139 --> 00:10:51,710
+dados? Provocar aí né? Um sinal ruim na
+
+221
+00:10:51,719 --> 00:10:56,109
+sua rede perfeito? Então isso é uma outra coisa
+
+222
+00:10:56,119 --> 00:10:57,428
+que você precisa aprender.
+
+223
+00:10:57,440 --> 00:10:58,548
+São essas duas siglas.
+
+224
+00:10:58,558 --> 00:11:01,668
+Isso tudo faz parte lá da um camada física.
+
+225
+00:11:01,678 --> 00:11:05,548
+Aquela parte lá embaixo do onze Tá bom, então
+
+226
+00:11:05,558 --> 00:11:08,889
+ficamos por aqui Até mais abraço Alu
+

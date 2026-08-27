@@ -1,0 +1,504 @@
+1
+00:00:05,948 --> 00:00:07,908
+Olá aluno! Professor Fabrício Melo.
+
+2
+00:00:07,919 --> 00:00:09,239
+É um grande prazer estar aqui.
+
+3
+00:00:09,250 --> 00:00:12,579
+Vamos trabalhar agora com as funções da camada de transporte.
+
+4
+00:00:12,589 --> 00:00:16,329
+É, chegamos a camada quatro do modelo OSE Lembra
+
+5
+00:00:16,339 --> 00:00:19,859
+dela? Famosa camada que tem dois protocolos aí,
+
+6
+00:00:20,500 --> 00:00:22,489
+bem famosos, né? O protocolo TC p e
+
+7
+00:00:22,500 --> 00:00:24,708
+o protocolo u d p você deve? Tá lembrando,
+
+8
+00:00:24,719 --> 00:00:26,829
+né? E vamos falar agora o quê? Sobre
+
+9
+00:00:26,839 --> 00:00:30,908
+as funções dessa camada de transporte, Primeira parte dessas
+
+10
+00:00:30,920 --> 00:00:34,069
+funções, então vamos lá, olha só a camada
+
+11
+00:00:34,079 --> 00:00:37,179
+de transporte tem que relembrar isso Quando a gente viu
+
+12
+00:00:37,189 --> 00:00:40,348
+lá os mo o as camadas do modelo OSE,
+
+13
+00:00:40,359 --> 00:00:44,250
+ela é responsável pela troca de dados aluno entre as
+
+14
+00:00:44,259 --> 00:00:48,359
+aplicações, isto é, programas em execução lá na
+
+15
+00:00:48,368 --> 00:00:52,798
+camada sete na camada de aplicação, residentes nos rostos
+
+16
+00:00:52,810 --> 00:00:56,918
+de origem da deixando então ela que vai conseguir fazer
+
+17
+00:00:56,929 --> 00:01:02,939
+essa troca de dados entre uma máquina e outra trabalhando
+
+18
+00:01:02,950 --> 00:01:04,540
+com programas distintos.
+
+19
+00:01:04,549 --> 00:01:06,379
+Por exemplo, lá na camada de aplicação, né?
+
+20
+00:01:06,388 --> 00:01:08,540
+Porque a uma camada de aplicação é uma camada que
+
+21
+00:01:08,549 --> 00:01:10,918
+a gente vai estudar, que é a responsável pelos
+
+22
+00:01:10,930 --> 00:01:11,650
+softwares.
+
+23
+00:01:11,659 --> 00:01:14,709
+Então, quando você tem e-mail cê tem site?
+
+24
+00:01:14,719 --> 00:01:20,379
+Você tem vários tipos de softwares trocando informações distintas,
+
+25
+00:01:20,388 --> 00:01:22,819
+utilizando a mesma rede, né? Na comutação de
+
+26
+00:01:22,829 --> 00:01:23,549
+pacotes.
+
+27
+00:01:23,558 --> 00:01:26,838
+Como é que você vai conseguir organizar isso? Como
+
+28
+00:01:26,849 --> 00:01:29,099
+é que você vai conseguir fazer essa troca de dados?
+
+29
+00:01:29,109 --> 00:01:33,808
+Então oh ela que vai ser responsável pelo pelo pela
+
+30
+00:01:33,819 --> 00:01:36,609
+essa troca, né? Pra conseguir fazer essa organização,
+
+31
+00:01:36,620 --> 00:01:40,088
+tá vendo isso de uma maneira melhor a camada de
+
+32
+00:01:40,099 --> 00:01:40,930
+transporte.
+
+33
+00:01:40,939 --> 00:01:43,888
+Ela faz o endereçamento de serviço que que é esse
+
+34
+00:01:43,900 --> 00:01:46,209
+endereçamento de serviço? Olha lá, oh, pra
+
+35
+00:01:46,219 --> 00:01:48,329
+que o fluxo de dados, né? Possa ser
+
+36
+00:01:48,338 --> 00:01:53,609
+controlado individualmente cada um no seu quadrado, a camada
+
+37
+00:01:53,620 --> 00:01:56,808
+de transporte, ela vai identificar, por exemplo,
+
+38
+00:01:56,819 --> 00:02:01,430
+cada aplicativo lá na origem e cada aplicativo aqui no
+
+39
+00:02:01,439 --> 00:02:05,930
+destino, através de quê? De um identificador chamado
+
+40
+00:02:05,939 --> 00:02:07,989
+o número da porta, né? Nós temos,
+
+41
+00:02:08,000 --> 00:02:12,319
+por exemplo, quando você acessa um site utilizando um
+
+42
+00:02:12,330 --> 00:02:17,038
+navegador trabalhando com um protocolo de camada de aplicação h
+
+43
+00:02:17,050 --> 00:02:19,419
+T t p você vai tá utilizando, por exemplo,
+
+44
+00:02:19,429 --> 00:02:22,538
+a porta oitenta tá aqui oh, por exemplo a
+
+45
+00:02:22,550 --> 00:02:26,439
+aplicação c tá vendo quando você tá utilizando, por
+
+46
+00:02:26,449 --> 00:02:29,449
+exemplo um e-mail cê tá utilizando outra porta, tá
+
+47
+00:02:29,460 --> 00:02:32,879
+utilizando h t PS cê vai tá utilizando outra porta,
+
+48
+00:02:32,889 --> 00:02:35,080
+por exemplo, a quatrocentos e quarenta e três então
+
+49
+00:02:35,088 --> 00:02:39,679
+observa aqui Oh, eu tenho um em St dois
+
+50
+00:02:39,689 --> 00:02:44,909
+tá vendo oh segmentados em portas tá vendo com as
+
+51
+00:02:44,919 --> 00:02:47,580
+informações aí em aplicações diferentes.
+
+52
+00:02:47,588 --> 00:02:52,008
+Então ela que vai conseguir organizar isso porque quando você
+
+53
+00:02:52,020 --> 00:02:55,808
+tem uma rede de comutação de pacotes, ou seja,
+
+54
+00:02:55,819 --> 00:02:58,050
+eu tenho ali uma rede que tá trafegando.
+
+55
+00:02:58,058 --> 00:03:03,409
+Pacotes de informações distintas como eu falei como e-mail como
+
+56
+00:03:03,419 --> 00:03:07,409
+baixando o arquivo como acessando um site, então essa
+
+57
+00:03:07,419 --> 00:03:12,250
+multiplexação vai ser possível como essa organização, então primeiro
+
+58
+00:03:12,258 --> 00:03:16,639
+passo primeira lógica organizar isso portas então a camada de
+
+59
+00:03:16,649 --> 00:03:20,479
+rede que vai ser responsável em fazer esse fluxo aí
+
+60
+00:03:20,490 --> 00:03:24,639
+oh ser controlado individualmente, tá ela que vai conseguir
+
+61
+00:03:24,649 --> 00:03:27,490
+fazer isso aí? Nós temos por exemplo eh,
+
+62
+00:03:27,500 --> 00:03:32,000
+eh outra função dela fazer essa segmentação e remontagem que
+
+63
+00:03:32,008 --> 00:03:36,360
+que é essa segmentação e remontagem ela consegue aluno reordenar
+
+64
+00:03:36,368 --> 00:03:40,758
+os pacotes lá da camada de baixo camada de rede,
+
+65
+00:03:40,770 --> 00:03:45,659
+então ela consegue reordenar para entregá-lo corretamente na camada de
+
+66
+00:03:45,669 --> 00:03:46,419
+aplicação.
+
+67
+00:03:46,429 --> 00:03:50,020
+Então na realidade olha só como é que eu pulei?
+
+68
+00:03:50,028 --> 00:03:53,778
+Eu não! O autor pulou da rede lá pra
+
+69
+00:03:53,788 --> 00:03:58,300
+sete por isso que muitos autores falam que a camada
+
+70
+00:03:58,308 --> 00:04:02,889
+de transporte ela é uma camada meio né? É
+
+71
+00:04:02,899 --> 00:04:06,349
+uma camada que faz ali uma interface meio entre as
+
+72
+00:04:06,360 --> 00:04:10,110
+camadas de baixo e as camadas de cima, Então
+
+73
+00:04:10,118 --> 00:04:14,528
+ela consegue fazer essa o reordenação dos pacotes lá da
+
+74
+00:04:14,538 --> 00:04:18,418
+camada de baixo pra chegar na camada de aplicação de
+
+75
+00:04:18,427 --> 00:04:19,408
+maneira correta.
+
+76
+00:04:19,418 --> 00:04:21,978
+Então quando você tem aqui oh tá vendo oh dados
+
+77
+00:04:21,988 --> 00:04:24,699
+da aplicação lá Oh, eu tenho por exemplo três
+
+78
+00:04:24,709 --> 00:04:28,858
+dois um tá vendo oh esses dados oh lá,
+
+79
+00:04:28,867 --> 00:04:34,377
+eles percorrem a na rede oh por caminhos distintos!
+
+80
+00:04:34,389 --> 00:04:39,790
+Tá vendo oh! E de maneira desordenada quando ele
+
+81
+00:04:39,798 --> 00:04:43,040
+vai chegar no ST que que é feito oh lá,
+
+82
+00:04:43,048 --> 00:04:47,410
+é feito uma organização, né? Através de um
+
+83
+00:04:47,420 --> 00:04:50,100
+sistema chamado buffer, né? O Buff que é
+
+84
+00:04:50,108 --> 00:04:52,298
+responsável em fazer isso? Por exemplo, por exemplo,
+
+85
+00:04:52,309 --> 00:04:54,399
+a gente pode ver lá em aplicação.
+
+86
+00:04:54,410 --> 00:04:56,420
+Cê tá assistindo um vídeo no no YouTube.
+
+87
+00:04:56,428 --> 00:04:58,858
+Aí você pode ver que o vídeo ele é carregado,
+
+88
+00:04:58,869 --> 00:05:00,790
+mas a velocidade do vídeo em que tá tá que
+
+89
+00:05:00,798 --> 00:05:02,778
+ainda atrás, né? Por que isso feito é
+
+90
+00:05:02,790 --> 00:05:03,459
+uma bufar.
+
+91
+00:05:03,470 --> 00:05:07,540
+Você recebeu o vídeo em uma velocidade e ele está
+
+92
+00:05:07,548 --> 00:05:09,778
+sendo executado em outra.
+
+93
+00:05:09,790 --> 00:05:12,928
+Então se o ele faz esse equilíbrio, aí ele
+
+94
+00:05:12,939 --> 00:05:17,379
+consegue fazer esse reordenamento pro vídeo correr de maneira normal.
+
+95
+00:05:17,389 --> 00:05:19,209
+Então essa é uma das responsabilidades.
+
+96
+00:05:19,220 --> 00:05:23,879
+Tá vendo? Ela vai reordenar esses pacotes para entregá-lo
+
+97
+00:05:23,889 --> 00:05:26,889
+de maneira correta, lá na aplicação que você tá
+
+98
+00:05:26,899 --> 00:05:30,170
+usando, que seria o software ao qual você tá
+
+99
+00:05:30,178 --> 00:05:32,488
+operando lá na camada sete.
+
+100
+00:05:32,500 --> 00:05:36,009
+Camada de aplicação? Tá essa aí é uma das
+
+101
+00:05:36,019 --> 00:05:37,569
+funções né.
+
+102
+00:05:37,579 --> 00:05:42,970
+Que você tem da camada de transporte bem interessante?
+
+103
+00:05:42,980 --> 00:05:44,809
+Como é que a rede é tratada, né aluno?
+
+104
+00:05:44,819 --> 00:05:48,850
+Como é que você consegue segmentar, né? Tudo,
+
+105
+00:05:48,858 --> 00:05:50,608
+de maneira muito bem organizada.
+
+106
+00:05:50,619 --> 00:05:54,660
+Porque eh se os pacotes estão correndo ali, estão
+
+107
+00:05:54,670 --> 00:05:56,928
+indo por caminhos distintos.
+
+108
+00:05:56,939 --> 00:06:01,608
+Indo por Eh, eh eh vários e vários roteadores
+
+109
+00:06:01,619 --> 00:06:05,040
+eles podem chegar, né? Lá no no destino,
+
+110
+00:06:05,048 --> 00:06:07,988
+de maneira totalmente desordenada, de maneira bagunçada.
+
+111
+00:06:08,309 --> 00:06:12,519
+Então você precisa de alguém responsável em botar essa ordem
+
+112
+00:06:12,528 --> 00:06:15,199
+na casa, em organizar isso.
+
+113
+00:06:15,209 --> 00:06:17,119
+Isso é função da camada de transporte.
+
+114
+00:06:17,129 --> 00:06:20,000
+E eu acho muito interessante também a questão das portas,
+
+115
+00:06:20,009 --> 00:06:22,119
+né? Como é que tudo é muito óbvio na
+
+116
+00:06:22,129 --> 00:06:24,798
+rede? Como é que cada aplicação que você tá
+
+117
+00:06:24,809 --> 00:06:30,759
+usando ali vai ter uma porta responsável pela aquela aplicação,
+
+118
+00:06:30,769 --> 00:06:33,040
+né? Como eu falei, cê tá usando um
+
+119
+00:06:33,048 --> 00:06:36,778
+navegador acessando um site v h t t p Cê
+
+120
+00:06:36,790 --> 00:06:39,959
+vai ter utilização de uma porta se você tiver utilizando
+
+121
+00:06:39,970 --> 00:06:42,709
+h t PS, cê vai tá utilizando uma outra
+
+122
+00:06:42,720 --> 00:06:46,778
+porta cê tá utilizando e-mail outra porta e por aí
+
+123
+00:06:46,790 --> 00:06:49,509
+vai, né? Então a gente vai começar a
+
+124
+00:06:49,519 --> 00:06:52,988
+entrar nessa linha de raciocínio daqui pra frente! Tá
+
+125
+00:06:53,000 --> 00:06:56,119
+bom? Então é isso? Volto grande abraço pra
+
+126
+00:06:56,129 --> 00:06:57,278
+você até logo!
+

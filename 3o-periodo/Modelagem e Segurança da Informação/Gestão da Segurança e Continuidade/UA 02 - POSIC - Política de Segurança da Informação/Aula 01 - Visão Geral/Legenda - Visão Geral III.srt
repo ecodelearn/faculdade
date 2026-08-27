@@ -1,0 +1,684 @@
+1
+00:00:06,769 --> 00:00:12,038
+falando sobre a nossa política de segurança da informação e
+
+2
+00:00:12,050 --> 00:00:12,898
+comunicação.
+
+3
+00:00:12,909 --> 00:00:16,019
+A gente vai tratar agora sobre objetivos e benefícios dessa
+
+4
+00:00:16,030 --> 00:00:17,859
+política, né? Nós temos os objetivos que temos
+
+5
+00:00:17,870 --> 00:00:21,940
+que definir e quais são os benefícios a implementar essa
+
+6
+00:00:21,949 --> 00:00:25,500
+política de segurança, de informação e comunicação? Vamos
+
+7
+00:00:25,510 --> 00:00:29,100
+lá eh como a gente pode ver a o possível,
+
+8
+00:00:29,109 --> 00:00:31,920
+que é um elemento essencial noâmbito da gestão da
+
+9
+00:00:31,929 --> 00:00:33,840
+tecnologia da informação.
+
+10
+00:00:34,348 --> 00:00:37,880
+Ela é um documento oficial e formalmente estabelecido, que
+
+11
+00:00:37,889 --> 00:00:41,598
+desempenha um papel central na proteção de ativos críticos na
+
+12
+00:00:41,609 --> 00:00:46,158
+promoção de conformidade legal e regulatória, na promoção de
+
+13
+00:00:46,168 --> 00:00:49,880
+uma cultura de segurança e na mini mini diminuição de
+
+14
+00:00:49,889 --> 00:00:51,579
+riscos de segurança da informação.
+
+15
+00:00:51,590 --> 00:00:55,408
+Então, eu quero elementos chaves, tá, essa
+
+16
+00:00:55,418 --> 00:00:59,189
+política é um elemento essencial pra que oh é um,
+
+17
+00:00:59,200 --> 00:01:00,490
+é um elemento essencial.
+
+18
+00:01:00,500 --> 00:01:06,379
+Ela é um documento oficial, tá formalmente estabelecido pra
+
+19
+00:01:06,388 --> 00:01:11,278
+que pra ter proteção dos nossos ativos críticos na promoção
+
+20
+00:01:11,290 --> 00:01:16,620
+de conformidade legal e regulatória promoção de cultura, de
+
+21
+00:01:16,629 --> 00:01:19,778
+segurança, da informação e diminuir, né, ter
+
+22
+00:01:19,790 --> 00:01:21,620
+a mini missão de riscos.
+
+23
+00:01:21,629 --> 00:01:23,698
+Então, a partir do momento que a gente desenha,
+
+24
+00:01:23,709 --> 00:01:28,659
+tá escreve, né? Formalmente uma política de formação,
+
+25
+00:01:28,668 --> 00:01:31,829
+esse documento tem esse papel? Tá, proteção dos
+
+26
+00:01:31,838 --> 00:01:37,668
+ativos promoção para conformidade legal e regulatória e de diminuir
+
+27
+00:01:37,680 --> 00:01:39,069
+a probabilidade dos riscos.
+
+28
+00:01:39,079 --> 00:01:41,109
+Então, esse documento é muito, é fundamental pra
+
+29
+00:01:41,120 --> 00:01:44,260
+qualquer organização, quando a gente está falando de proteção
+
+30
+00:01:44,269 --> 00:01:46,948
+da informação, proteção dos nossos dados, proteção dos
+
+31
+00:01:46,959 --> 00:01:50,909
+dados da empresa, elaborada com vários objetivos em mente
+
+32
+00:01:50,918 --> 00:01:54,069
+tá tem como função garantir, como função principal,
+
+33
+00:01:54,079 --> 00:01:56,719
+garantir os princípios da segurança, da informação.
+
+34
+00:01:56,730 --> 00:01:59,629
+Para isso, de ela deve ter as diretrizes.
+
+35
+00:01:59,638 --> 00:02:01,388
+Estabelecer diretrizes.
+
+36
+00:02:01,400 --> 00:02:03,379
+Tá, eh definir as diretrizes.
+
+37
+00:02:03,388 --> 00:02:06,430
+É essencial para garantir que todos os membros da organização
+
+38
+00:02:06,439 --> 00:02:10,508
+compreendam as expectativas em relaçãoà segurança da informação e
+
+39
+00:02:10,520 --> 00:02:12,330
+siga os procedimentos de forma.
+
+40
+00:02:12,429 --> 00:02:16,240
+Então a gente tem que ter as diretrizes, promover
+
+41
+00:02:16,250 --> 00:02:20,500
+a conformidade lo- legal tá, então tem muitas empresas?
+
+42
+00:02:20,508 --> 00:02:22,719
+Eh? Eu dou sempre esse exemplo de empresas insti
+
+43
+00:02:22,729 --> 00:02:27,960
+instituições financeiras que precisam seguir a leis específicas para aquele
+
+44
+00:02:27,969 --> 00:02:31,080
+ramo, Então tem que promover a conformidade legal.
+
+45
+00:02:31,088 --> 00:02:31,599
+Então, tem.
+
+46
+00:02:31,610 --> 00:02:33,099
+Tem que ter essa política de segurança.
+
+47
+00:02:33,110 --> 00:02:37,919
+Essa informação com algumas diretrizes específicas pra ela tá proteger
+
+48
+00:02:37,929 --> 00:02:40,800
+os ativos, o maior objetivo que permeia todos os
+
+49
+00:02:40,808 --> 00:02:43,038
+aspectos da segurança de formação, que inclui o quê?
+
+50
+00:02:43,050 --> 00:02:45,219
+Lembra que eu falei a gente tá falando do curso
+
+51
+00:02:45,229 --> 00:02:49,118
+inteiro ter proteger os princípios fundamentais que são, que
+
+52
+00:02:49,129 --> 00:02:53,439
+é a disponibilidade, que é a integridade, tá?
+
+53
+00:02:53,449 --> 00:02:57,879
+E que é acia! Então proteger os nossos ativos,
+
+54
+00:02:57,889 --> 00:03:04,819
+garantindo esses três princípios fundamentais para qualquer né? Qualquer
+
+55
+00:03:04,830 --> 00:03:08,460
+disciplina, qual qualquer gerência de segurança e informação que
+
+56
+00:03:08,469 --> 00:03:12,050
+tenha dentro da empresa? Eh E ela é importante
+
+57
+00:03:12,058 --> 00:03:13,729
+também, porque a gente tem que proteger a nossa
+
+58
+00:03:13,740 --> 00:03:14,469
+reputação.
+
+59
+00:03:14,758 --> 00:03:17,849
+Quantas a gente pode pegar vários exemplos de empresas que
+
+60
+00:03:17,860 --> 00:03:21,729
+tiveram a sua segurança, da informação corrompida, corrompida
+
+61
+00:03:21,740 --> 00:03:25,528
+nos últimos anos que teve a sua reputação né?
+
+62
+00:03:25,538 --> 00:03:28,118
+Na frente do do do da, do grande,
+
+63
+00:03:28,129 --> 00:03:30,490
+da da, da, dos clientes, dos investidores
+
+64
+00:03:30,500 --> 00:03:31,689
+pre prejudicada.
+
+65
+00:03:31,699 --> 00:03:33,409
+Então, a partir do momento que essa empresa ter
+
+66
+00:03:33,419 --> 00:03:35,969
+uma falha de segurança, a sua reputação cai,
+
+67
+00:03:35,979 --> 00:03:39,770
+tá isso eh, eh, pode causar diversos prejuízos
+
+68
+00:03:39,778 --> 00:03:41,028
+financeiros também.
+
+69
+00:03:41,490 --> 00:03:45,740
+A implementação bem sucedida suste sucedida tá da política de
+
+70
+00:03:45,750 --> 00:03:50,270
+segurança, informação e comunicação ajuda a proteger a reputação
+
+71
+00:03:50,278 --> 00:03:53,639
+da organização e manter a confiança dos clientes.
+
+72
+00:03:53,649 --> 00:03:57,439
+Imagina você sei lá uma empresa de cartão de crédito,
+
+73
+00:03:57,514 --> 00:04:02,094
+uma instituição financeira que ela venha a ter seus dados
+
+74
+00:04:02,104 --> 00:04:05,754
+corrompidos, seus dados vazados, dados de clientes com
+
+75
+00:04:05,764 --> 00:04:07,183
+diversos números de cartões.
+
+76
+00:04:07,194 --> 00:04:10,564
+Olha como que vai ser a reputação tanto interno como
+
+77
+00:04:10,574 --> 00:04:13,163
+externo Vai ser a credibilidade dessa empresa vai cair?
+
+78
+00:04:13,175 --> 00:04:16,079
+Tá? Considere um serviço de backup de fotos da
+
+79
+00:04:16,088 --> 00:04:19,899
+nuvem Considere um serviço de backup de fotos da nuvem
+
+80
+00:04:19,910 --> 00:04:22,519
+A reputação da organização nos olhos do cliente é um
+
+81
+00:04:22,528 --> 00:04:24,778
+dos fatores mais importantes desse negócio.
+
+82
+00:04:24,790 --> 00:04:28,108
+Nós precisamos preocupar com a sua reputação, com a
+
+83
+00:04:28,119 --> 00:04:29,379
+reputação da sua empresa.
+
+84
+00:04:29,389 --> 00:04:33,278
+Portanto, a política de segurança da informação e comunicação
+
+85
+00:04:33,290 --> 00:04:36,079
+é fundamental pra isso, pra mostrar quais são as
+
+86
+00:04:36,088 --> 00:04:38,809
+diretrizes, o que é importante pra aquela empresa.
+
+87
+00:04:38,819 --> 00:04:41,519
+E a reputação é uma das coisas mais importantes para
+
+88
+00:04:41,528 --> 00:04:43,160
+qualquer empresa.
+
+89
+00:04:43,170 --> 00:04:48,329
+Tá melhoria contínua, Então definir como qualquer área de
+
+90
+00:04:48,338 --> 00:04:51,410
+tecnologia a a evolução é constante.
+
+91
+00:04:51,420 --> 00:04:54,528
+Por isso precisamos ter uma um, um módulo do
+
+92
+00:04:54,540 --> 00:04:56,970
+que fala que fale sobre melhoria contínua.
+
+93
+00:04:56,980 --> 00:05:01,689
+Nós precisamos revisar, olhar, auditar constantemente todos os
+
+94
+00:05:01,699 --> 00:05:02,488
+nossos documentos.
+
+95
+00:05:02,500 --> 00:05:06,358
+Tá resposta ACI Dentes Então, a A essa política,
+
+96
+00:05:06,369 --> 00:05:10,178
+ela define como a organização deve responder a esse dente
+
+97
+00:05:10,189 --> 00:05:14,709
+de segurança, acelerando a identificação e a medicação de
+
+98
+00:05:14,720 --> 00:05:18,889
+ameaças e minimizando o impacto de violações de segurança.
+
+99
+00:05:19,540 --> 00:05:22,108
+Observando essa lista que nós acabamos de colocar, né?
+
+100
+00:05:22,119 --> 00:05:25,809
+EH de objetivos Começa a ficar evidente que a implementação
+
+101
+00:05:25,819 --> 00:05:30,410
+bem sucedida desta política traz uma série de benefícios pra
+
+102
+00:05:30,420 --> 00:05:33,470
+organização por quê que vai acontecer, a gente vai
+
+103
+00:05:33,480 --> 00:05:35,108
+trabalhar a nossa reputação.
+
+104
+00:05:35,119 --> 00:05:38,149
+A gente vai ter um controle dissidente.
+
+105
+00:05:38,160 --> 00:05:41,798
+A gente vai estar sempre buscando a melhoria contínua visando
+
+106
+00:05:41,809 --> 00:05:44,588
+toda essa essa questão, dessa evolução diária, da
+
+107
+00:05:44,600 --> 00:05:45,358
+tecnologia.
+
+108
+00:05:45,369 --> 00:05:48,678
+Então, isso é fundamental e isso essa política,
+
+109
+00:05:48,689 --> 00:05:53,738
+ela os tem muitos benefícios, mas os benefícios mais
+
+110
+00:05:53,750 --> 00:05:56,819
+específicos que nós podemos trazer são alguns são esses,
+
+111
+00:05:56,829 --> 00:06:00,639
+principalmente, a proteção da reputação dessa empresa.
+
+112
+00:06:01,428 --> 00:06:04,079
+Então eh pra finalizar essa unidade.
+
+113
+00:06:04,088 --> 00:06:07,528
+A gente pode, a gente pode falar eh essa
+
+114
+00:06:07,540 --> 00:06:08,670
+aula de hoje, né? Que é a política
+
+115
+00:06:08,678 --> 00:06:11,350
+de segurança da informação É o L C central para
+
+116
+00:06:11,358 --> 00:06:14,869
+estabelecer um ambiente seguro de tecnologia da informação, de
+
+117
+00:06:14,879 --> 00:06:17,759
+uma organização na era digital, em constante evolução.
+
+118
+00:06:17,769 --> 00:06:19,528
+Por isso que eu falei, a melhoria contínua é
+
+119
+00:06:19,540 --> 00:06:22,809
+fundamental porque nós estamos em constante evolução.
+
+120
+00:06:22,819 --> 00:06:26,750
+Ela desempenha um papel crucial na proteção dos ativos críticos,
+
+121
+00:06:26,759 --> 00:06:29,829
+na promoção da conformidade legal, na construção de uma
+
+122
+00:06:29,838 --> 00:06:33,178
+cultura de segurança e na minimização de risco de segurança
+
+123
+00:06:33,189 --> 00:06:34,769
+cibernética.
+
+124
+00:06:35,720 --> 00:06:38,649
+Compreender a importância dessa política, fica claro que ela
+
+125
+00:06:38,660 --> 00:06:42,009
+é um documento formal e oficial, que estabelece diretrizes,
+
+126
+00:06:42,019 --> 00:06:45,528
+princípios e regras para a segurança da informação.
+
+127
+00:06:45,540 --> 00:06:50,488
+A aprovação dela pela alta direção confere uma legitimidade e
+
+128
+00:06:50,500 --> 00:06:54,850
+autoridade, garantindo que seja respeitada e seguida por todos
+
+129
+00:06:54,858 --> 00:06:56,309
+os membros da organização.
+
+130
+00:06:56,319 --> 00:06:59,649
+Precisamos pra finalizar esta aula.
+
+131
+00:06:59,660 --> 00:07:03,670
+Agora, entender que a política, como eu falei
+
+132
+00:07:03,754 --> 00:07:09,884
+algumas vezes nessa disciplina, ela precisa ser aprovada pela
+
+133
+00:07:09,894 --> 00:07:11,845
+alta direção, porque a partir do momento que tem
+
+134
+00:07:11,855 --> 00:07:15,204
+a aprovação, a gente vai ter a legitimidade e
+
+135
+00:07:15,213 --> 00:07:16,963
+a autoridade todos vão.
+
+136
+00:07:16,975 --> 00:07:21,483
+Teoricamente, ela vai ser respeitada e seguida por todos
+
+137
+00:07:21,494 --> 00:07:22,514
+os membros da organização.
+
+138
+00:07:22,524 --> 00:07:26,165
+Vai ter investimento para implementar a política de segurança da
+
+139
+00:07:26,173 --> 00:07:29,285
+informação? Vai ter recurso para implementar a política de
+
+140
+00:07:29,295 --> 00:07:31,444
+segurança e informação, Então é muito importante isso,
+
+141
+00:07:31,454 --> 00:07:35,108
+tá? Esse documento oficial desempenha um papel central na
+
+142
+00:07:35,119 --> 00:07:36,920
+gestão de segurança da informação.
+
+143
+00:07:36,928 --> 00:07:40,670
+É fundamental para manter a confiança dos clientes, parceiros
+
+144
+00:07:40,678 --> 00:07:42,670
+de negócios e partes interessadas.
+
+145
+00:07:42,678 --> 00:07:46,108
+Ela fornece um alicerce sólido para a construção de um
+
+146
+00:07:46,119 --> 00:07:49,790
+ambiente de tecnologia da Informação Seguro é um guia essencial
+
+147
+00:07:49,798 --> 00:07:53,613
+para a proteção de informações e ativos digitais de uma
+
+148
+00:07:53,625 --> 00:07:54,423
+organização.
+
+149
+00:07:54,434 --> 00:07:58,814
+Portanto, a compressão e a implementação eficaz da política
+
+150
+00:07:58,824 --> 00:08:02,855
+de segurança e de segurança da informação e comunicação são
+
+151
+00:08:02,863 --> 00:08:06,694
+cruciais para a gestão eficaz da segurança da informação e
+
+152
+00:08:06,704 --> 00:08:09,454
+para a criação de um ambiente onde as informações sensíveis
+
+153
+00:08:09,463 --> 00:08:10,535
+são protegidas.
+
+154
+00:08:10,545 --> 00:08:13,553
+contra as ameaças internas e externas.
+
+155
+00:08:13,959 --> 00:08:17,119
+Ficou claro pra você! Ficou claro que a importância
+
+156
+00:08:17,129 --> 00:08:21,088
+da política de segurança, informação e comunicação, ela
+
+157
+00:08:21,100 --> 00:08:23,928
+precisa ter o patrocínio na tua direção.
+
+158
+00:08:23,939 --> 00:08:28,048
+Ela precisa seguir proteger aqueles três pilares, que é
+
+159
+00:08:28,059 --> 00:08:32,389
+com especialidade, integridade, disponibilidade, tá, Ela
+
+160
+00:08:32,399 --> 00:08:35,168
+precisa ter aspectos regulatórios.
+
+161
+00:08:35,178 --> 00:08:38,769
+Então, vai depender de cada organização de cada ramo
+
+162
+00:08:38,779 --> 00:08:40,048
+daquela organização.
+
+163
+00:08:40,058 --> 00:08:44,469
+Então, esta política da essa política é muito importante,
+
+164
+00:08:44,479 --> 00:08:47,428
+é muito importante para a continuidade e principalmente, para
+
+165
+00:08:47,440 --> 00:08:49,649
+a reputação das empresas.
+
+166
+00:08:49,658 --> 00:08:51,849
+Tá bom? É isso Esse é o eh,
+
+167
+00:08:51,859 --> 00:08:55,379
+né? A introdução sobre essa política nas próximas aulas
+
+168
+00:08:55,389 --> 00:08:57,859
+Nós vamos falar sobre um pouquinho mais, sobre como
+
+169
+00:08:57,869 --> 00:09:02,859
+implementar como essa política permeia outras áreas dentro da organização.
+
+170
+00:09:02,869 --> 00:09:05,759
+Tá bom, muito obrigado por acompanhar Até aqui.
+
+171
+00:09:05,769 --> 00:09:07,479
+Nos encontramos na próxima aula.
+

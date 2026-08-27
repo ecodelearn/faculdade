@@ -1,0 +1,1164 @@
+1
+00:00:05,900 --> 00:00:08,069
+Olá aluno! Professor Fabrício Melo.
+
+2
+00:00:08,079 --> 00:00:09,069
+É um prazer estar aqui.
+
+3
+00:00:09,079 --> 00:00:12,189
+Vamos que vamos tratando a matéria de segurança da informação
+
+4
+00:00:12,198 --> 00:00:14,829
+e vamos a qual tópico agora? Vamos falar sobre
+
+5
+00:00:14,839 --> 00:00:19,208
+vulnerabilidades e risco aí dentro da do tema de segurança
+
+6
+00:00:19,219 --> 00:00:22,870
+da informação, perceba vamos começar com vulnerabilidade o que
+
+7
+00:00:22,879 --> 00:00:25,708
+que é uma vulnerabilidade de acordo com a ISO vinte
+
+8
+00:00:25,719 --> 00:00:27,030
+e sete zero zero dois.
+
+9
+00:00:27,039 --> 00:00:31,958
+A vulnerabilidade é uma fragilidade de um ativo ou grupo
+
+10
+00:00:31,969 --> 00:00:33,399
+de ativos, que pode ser o quê Oh,
+
+11
+00:00:33,408 --> 00:00:35,598
+explorada por uma ou mais ameaças.
+
+12
+00:00:35,609 --> 00:00:37,819
+Então, a partir do momento que você tem ali
+
+13
+00:00:37,829 --> 00:00:42,819
+um ativo e esse ativo, existe uma fragilidade nele,
+
+14
+00:00:42,829 --> 00:00:46,000
+ele pode ser explorado, né? E dependendo aí
+
+15
+00:00:46,009 --> 00:00:50,098
+do caso, tem gente o tempo inteiro querendo explorar,
+
+16
+00:00:50,109 --> 00:00:51,679
+né? Os atacantes não param.
+
+17
+00:00:51,689 --> 00:00:52,158
+Eles querem.
+
+18
+00:00:52,168 --> 00:00:54,240
+Tá sempre ali entrando, invadindo.
+
+19
+00:00:54,250 --> 00:00:59,819
+Então qualquer motivo pra atacar o atacante quer.
+
+20
+00:00:59,829 --> 00:01:02,679
+Então isso seria o quê? Uma vulnerabilidade através de
+
+21
+00:01:02,689 --> 00:01:07,319
+uma vulnerabilidade você daria, abrindo brecha, espaço pra
+
+22
+00:01:07,329 --> 00:01:08,278
+esse atacante.
+
+23
+00:01:08,290 --> 00:01:12,099
+Tá aí! Olha só alguns exemplos que podem causar
+
+24
+00:01:12,109 --> 00:01:12,888
+vulnerabilidades.
+
+25
+00:01:12,900 --> 00:01:15,000
+O a ausência de controle de acesso.
+
+26
+00:01:15,010 --> 00:01:16,579
+A empresa tem que ter controle de acesso.
+
+27
+00:01:16,588 --> 00:01:18,668
+Uma empresa não pode, tá aí a Deus.
+
+28
+00:01:18,680 --> 00:01:21,180
+Dará qualquer um entrar de qualquer maneira, fazer o
+
+29
+00:01:21,189 --> 00:01:21,859
+que quiser dentro.
+
+30
+00:01:21,870 --> 00:01:25,540
+As empresas geralmente trabalham com o controle de acesso físico
+
+31
+00:01:25,549 --> 00:01:29,519
+e lógico onde o controle físico vai desde catracas pra
+
+32
+00:01:29,528 --> 00:01:30,260
+entrar.
+
+33
+00:01:30,269 --> 00:01:34,799
+Câmeras de segurança eh aquelas portas giratórias de banco.
+
+34
+00:01:34,808 --> 00:01:36,948
+Tudo é controle físico, por exemplo, aqui pra
+
+35
+00:01:36,959 --> 00:01:39,760
+gra, pra entrar nos estúdios do Gran nós professores,
+
+36
+00:01:39,769 --> 00:01:42,278
+temos um cartão de identificação que é a hora que
+
+37
+00:01:42,290 --> 00:01:44,250
+a gente através do m.
+
+38
+00:01:44,260 --> 00:01:47,010
+NFC, né? Chegamos ali perto da catraca,
+
+39
+00:01:47,019 --> 00:01:49,109
+ele vai identificar, vai lá, Boa tarde,
+
+40
+00:01:49,120 --> 00:01:51,989
+Fabrício Melo me identificou, se isso é um controle
+
+41
+00:01:52,000 --> 00:01:54,150
+físico, se eu não tivesse esse cartão eu não
+
+42
+00:01:54,159 --> 00:01:57,189
+poderia entrar facilmente aqui, dentro do estúdio do Gran,
+
+43
+00:01:57,198 --> 00:02:00,010
+né? Isso é um exemplo de controle físico lógico,
+
+44
+00:02:00,019 --> 00:02:03,510
+é quando você tem aí proteção pros ativos de software,
+
+45
+00:02:03,519 --> 00:02:06,269
+dados, informações de uma máquina, né? Você
+
+46
+00:02:06,278 --> 00:02:09,929
+definir uma senha definiria uma autenticação pra poder entrar.
+
+47
+00:02:09,939 --> 00:02:13,014
+Então, se não tem o controle de acesso nem
+
+48
+00:02:13,024 --> 00:02:16,175
+físico, nem lógico, é muita vulnerabilidade que você
+
+49
+00:02:16,183 --> 00:02:19,735
+está dando aí para os atacantes, né? Senhas
+
+50
+00:02:19,743 --> 00:02:23,294
+fracas não pode trabalhar com senha fraca Mais hoje os
+
+51
+00:02:23,304 --> 00:02:25,895
+sistemas, né? É ideal o trabalho de senhas
+
+52
+00:02:25,903 --> 00:02:29,735
+fortes, seguras geralmente são senhas que começam de oito
+
+53
+00:02:29,743 --> 00:02:31,544
+até dezesseis dígitos.
+
+54
+00:02:31,554 --> 00:02:35,175
+Essas senhas usando ali caracteres alfa numéricos, letras e
+
+55
+00:02:35,183 --> 00:02:39,175
+números utilizando caracteres especiais como o arroba.
+
+56
+00:02:39,183 --> 00:02:41,778
+Um né? Um traço tudo isso aí são caracteres
+
+57
+00:02:41,788 --> 00:02:43,558
+que podem ser aceitos.
+
+58
+00:02:43,569 --> 00:02:48,659
+Trabalhar com frases também frases aleatórias que você desenvolve também
+
+59
+00:02:48,669 --> 00:02:51,460
+é considerado aí uma senha, por exemplo, segura.
+
+60
+00:02:51,469 --> 00:02:55,020
+Se você tem essa frase periodicidade de troca da senha
+
+61
+00:02:55,028 --> 00:02:57,740
+a cada noventa dias, você vai ao setor de
+
+62
+00:02:57,750 --> 00:03:01,028
+T I da empresa renovar a sua senha, porque
+
+63
+00:03:01,038 --> 00:03:02,270
+a sua senha vai expirar.
+
+64
+00:03:02,278 --> 00:03:04,949
+Então as empresas que tem uma política, uma definição
+
+65
+00:03:04,960 --> 00:03:09,189
+muito bem feita disso tá vai, Tá aí cortando
+
+66
+00:03:09,199 --> 00:03:14,399
+mais uma vulnerabilidade? Tá sistemas operacionais desatualizados Jamais trabalha
+
+67
+00:03:14,409 --> 00:03:15,830
+com o sistema operacional desatualizado.
+
+68
+00:03:15,838 --> 00:03:18,149
+Às vezes eu tenho um aluno que comenta comigo professor,
+
+69
+00:03:18,159 --> 00:03:20,838
+eu amo o Windows X P Cara.
+
+70
+00:03:20,849 --> 00:03:23,389
+O Windows X P já foi foi uma das melhores
+
+71
+00:03:23,399 --> 00:03:24,909
+versões do Windows no mercado.
+
+72
+00:03:24,919 --> 00:03:27,710
+Foi mas já já era há muitos e muitos anos
+
+73
+00:03:27,719 --> 00:03:29,849
+outro sistema operacional também muito elogiado.
+
+74
+00:03:29,860 --> 00:03:32,669
+O Windows sete também já foi.
+
+75
+00:03:32,679 --> 00:03:36,028
+Hoje você já tem o onze já lançando doze por
+
+76
+00:03:36,038 --> 00:03:36,788
+aí vai.
+
+77
+00:03:36,800 --> 00:03:39,069
+Você tem que ter o mais novo agora, óbvio.
+
+78
+00:03:39,080 --> 00:03:41,429
+Geralmente esses sistemas logo são lançados.
+
+79
+00:03:41,439 --> 00:03:44,270
+Eles podem vir com falhas, então o ideal é,
+
+80
+00:03:44,278 --> 00:03:49,558
+você tá sempre atualizando pra você cortar ali essas falhas.
+
+81
+00:03:49,569 --> 00:03:51,939
+Mas o ideal é você ter sistemas, atua atuais,
+
+82
+00:03:51,949 --> 00:03:54,979
+então saudosistas, por exemplo, tem smartphone? Ah,
+
+83
+00:03:54,990 --> 00:03:57,879
+eu uso o Android aí quatro versões pra trás eu
+
+84
+00:03:57,889 --> 00:03:59,580
+uso o o s no meu iPhone, a quatro
+
+85
+00:03:59,588 --> 00:04:02,849
+versões atrás, não utilize versão nova.
+
+86
+00:04:02,860 --> 00:04:06,659
+Essas versões vem com erros corrigidos geralmente, das versões
+
+87
+00:04:06,669 --> 00:04:09,379
+anteriores, né? Falta de antivírus! Hoje não
+
+88
+00:04:09,389 --> 00:04:12,838
+dá pra você usar um computador até um smartphone e
+
+89
+00:04:12,849 --> 00:04:16,298
+não ter um antivírus né? Um e um tem
+
+90
+00:04:16,309 --> 00:04:18,119
+que ter essas ferramentas de segurança.
+
+91
+00:04:18,129 --> 00:04:20,778
+Por exemplo, o Windows aí é é o dez.
+
+92
+00:04:20,790 --> 00:04:22,879
+Por exemplo, o onze já vem até com o
+
+93
+00:04:22,889 --> 00:04:23,259
+antivírus.
+
+94
+00:04:23,269 --> 00:04:25,259
+Nativo, né? Vem um defender, Então isso
+
+95
+00:04:25,269 --> 00:04:27,579
+aí já diminui bem pra aquela pessoa leiga que não
+
+96
+00:04:27,588 --> 00:04:30,975
+tem noção do tanto que é ter, mas uma
+
+97
+00:04:30,983 --> 00:04:33,053
+pessoa, por exemplo, queàs vezes entende,
+
+98
+00:04:33,064 --> 00:04:34,975
+pode até adquirir um outro, um outro antivírus mais
+
+99
+00:04:34,983 --> 00:04:36,014
+forte e implementar.
+
+100
+00:04:36,024 --> 00:04:38,613
+Mas enfim, nunca deixe ter um antivírus.
+
+101
+00:04:38,625 --> 00:04:42,494
+Isso é vulnerabilidade total, né? De software que
+
+102
+00:04:42,504 --> 00:04:43,694
+são os erros de software.
+
+103
+00:04:43,704 --> 00:04:44,994
+Um É um erro.
+
+104
+00:04:45,004 --> 00:04:47,454
+Às vezes sai um software, eh software vem com
+
+105
+00:04:47,463 --> 00:04:50,910
+uma brecha! Essa breja permite que o atacante explore
+
+106
+00:04:50,920 --> 00:04:53,410
+ela e invada, vira uma vulnerabilidade.
+
+107
+00:04:53,420 --> 00:04:56,069
+Eu dou muito exemplo na época que tinha aquele Windows
+
+108
+00:04:56,079 --> 00:04:59,819
+Vista Windows sete Cê lembra dos gets que eram os
+
+109
+00:04:59,829 --> 00:05:02,509
+programinhas que ficavam ali na tela? Tinha um programinha
+
+110
+00:05:02,519 --> 00:05:04,639
+ali que mostrava a previsão do tempo.
+
+111
+00:05:04,649 --> 00:05:09,100
+Foi descoberto naquele programinha um bug que permitia que um
+
+112
+00:05:09,108 --> 00:05:12,100
+atacante entrasse no seu Windows porque ele era conectado na
+
+113
+00:05:12,108 --> 00:05:14,040
+internet pra te dar a previsão do tempo.
+
+114
+00:05:14,048 --> 00:05:17,420
+Olha que interessante por isso que é importante atualizar sempre
+
+115
+00:05:17,428 --> 00:05:20,459
+aí o software, né? Recursos humanos despreparados Oh,
+
+116
+00:05:20,470 --> 00:05:22,220
+falta treinamento, não dá.
+
+117
+00:05:22,230 --> 00:05:24,338
+Não dá pra uma empresa contratar um funcionário e falar
+
+118
+00:05:24,350 --> 00:05:26,329
+assim oh, toma, aí, trabalho tem que
+
+119
+00:05:26,338 --> 00:05:26,928
+ter um treinamento.
+
+120
+00:05:26,939 --> 00:05:28,858
+Tem que ter um curso de formação, principalmente se
+
+121
+00:05:28,869 --> 00:05:30,608
+o funcionário for trabalhar com o sistema.
+
+122
+00:05:30,619 --> 00:05:31,970
+Então eh bancos.
+
+123
+00:05:31,980 --> 00:05:36,048
+Essas empresas de tecnologia estão sempre treinando os funcionários,
+
+124
+00:05:36,059 --> 00:05:39,649
+cursos aí em cima dessas normas de segurança e etc,
+
+125
+00:05:39,660 --> 00:05:42,410
+né? A ausência de rotinas de backup não dá
+
+126
+00:05:42,420 --> 00:05:45,170
+pra imaginar hoje uma empresa sem backup, até mesmo
+
+127
+00:05:45,178 --> 00:05:47,160
+com aquela ameaça que a gente viu que é o
+
+128
+00:05:47,170 --> 00:05:51,278
+que aquela praga criptografa dados? Já pensou? Eu
+
+129
+00:05:51,290 --> 00:05:52,720
+tenho uma empresa que não tem backup.
+
+130
+00:05:52,730 --> 00:05:55,660
+A minha empresa pode falir de um dia pra noite.
+
+131
+00:05:55,670 --> 00:05:58,920
+Se eu adquirir um, nem nós, usuários domésticos,
+
+132
+00:05:58,928 --> 00:06:01,738
+podemos ficar sem backup, porqueàs vezes a nossa
+
+133
+00:06:01,750 --> 00:06:04,160
+vida tá dentro de um computador aí do dia pra
+
+134
+00:06:04,170 --> 00:06:05,559
+noite, você perde tudo.
+
+135
+00:06:05,569 --> 00:06:08,399
+Então a ausência de rotinas de backup abre sim,
+
+136
+00:06:08,410 --> 00:06:11,879
+vulnerabilidades Okay, Aí temos aqui destaque, né?
+
+137
+00:06:11,889 --> 00:06:15,319
+Os tipos de vulnerabilidades como vulnerabilidade de processo.
+
+138
+00:06:15,329 --> 00:06:18,899
+Que é isso, a empresa não ter políticas mapeamento,
+
+139
+00:06:19,619 --> 00:06:21,588
+ter processos internos pra isso.
+
+140
+00:06:21,600 --> 00:06:23,500
+Vamos pegar, por exemplo, política de Harden,
+
+141
+00:06:23,509 --> 00:06:26,949
+que é uma política que a as empresas mapeiam,
+
+142
+00:06:26,959 --> 00:06:31,548
+né? Os sistemas hardware exatamente pra evitar ataques.
+
+143
+00:06:31,559 --> 00:06:36,338
+Aí vou dar um exemplo você um simples você desabilitar
+
+144
+00:06:36,350 --> 00:06:40,139
+algumas portas USB no seu computador? É uma política
+
+145
+00:06:40,149 --> 00:06:43,278
+de Harden deixar apenas uma habilitada ou nenhuma dependendo do
+
+146
+00:06:43,290 --> 00:06:45,660
+caso, né? Então, você tem processos dentro
+
+147
+00:06:45,670 --> 00:06:50,178
+da empresa que podem abrir vulnerabilidade se forem malfeitos vulnerabilidades
+
+148
+00:06:50,189 --> 00:06:52,778
+tecnológicas como a gente citou, aí, né?
+
+149
+00:06:52,790 --> 00:06:57,579
+Com ela Atualizações a hard ultrapassado e vulnerabilidade das pessoas,
+
+150
+00:06:57,588 --> 00:07:00,920
+falta de treinamento, por exemplo, das pessoas aí,
+
+151
+00:07:00,928 --> 00:07:04,480
+abrem essas brechas, Tá aí, eu trouxe aí
+
+152
+00:07:04,488 --> 00:07:06,079
+um treinamento pra gente uma questão.
+
+153
+00:07:06,088 --> 00:07:09,689
+Olha só o riscoà segurança da informação está associado
+
+154
+00:07:09,699 --> 00:07:13,428
+ao potencial de ameaças explorarem vulnerabilidade de um ativo desse
+
+155
+00:07:13,439 --> 00:07:15,750
+modo causarem danos a uma organização.
+
+156
+00:07:15,759 --> 00:07:20,170
+Avalie as informações sobre os ativos OH, podem incluir
+
+157
+00:07:20,178 --> 00:07:22,959
+informações na forma de documentos, base de dados,
+
+158
+00:07:22,970 --> 00:07:27,420
+contratos, documentação de sistemas, procedimentos manuais, log,
+
+159
+00:07:27,428 --> 00:07:28,920
+sistemas, planos e guias.
+
+160
+00:07:28,928 --> 00:07:32,079
+Sim, tudo isso é ativo e esses ativos podem
+
+161
+00:07:32,088 --> 00:07:36,720
+ser o quê explorados, se tornando vulnerabilidade, né?
+
+162
+00:07:36,730 --> 00:07:39,079
+Podem incluir programas de computador, tais como programas do
+
+163
+00:07:39,088 --> 00:07:41,319
+sistema, programas do usuário e programas de desenvolvimento?
+
+164
+00:07:41,329 --> 00:07:43,939
+Sim, que também inclusive podem ser o quê?
+
+165
+00:07:43,949 --> 00:07:44,899
+Explorados.
+
+166
+00:07:44,910 --> 00:07:47,988
+Virando uma vulnerabilidade, podem incluir mídias como CD,
+
+167
+00:07:48,000 --> 00:07:50,660
+o pen drives, HD externos? Sim, isso
+
+168
+00:07:50,670 --> 00:07:53,738
+tudo é ativo, tem valoração pra pra uma organização.
+
+169
+00:07:53,750 --> 00:07:55,819
+É um ativo que pode ser explorado.
+
+170
+00:07:55,829 --> 00:07:59,059
+Tendo uma vulnerabilidade, podem incluir pessoas, habilidades,
+
+171
+00:07:59,069 --> 00:08:01,019
+experiência e coisas intangíveis.
+
+172
+00:08:01,028 --> 00:08:04,819
+Com certeza falamos do treinamento, das pessoas mal treinadas,
+
+173
+00:08:04,829 --> 00:08:06,108
+geram vulnerabilidades.
+
+174
+00:08:06,119 --> 00:08:08,899
+Então, tudo isso são exemplos de ativos que podem
+
+175
+00:08:08,910 --> 00:08:09,959
+ser explorados.
+
+176
+00:08:10,769 --> 00:08:12,970
+E temos aqui, como resposta a letra.
+
+177
+00:08:12,980 --> 00:08:17,220
+E olha dois Vulnerabilidade, tá vendo é o grau
+
+178
+00:08:17,230 --> 00:08:21,119
+de suscetibilidade de um objeto a uma ameaça.
+
+179
+00:08:21,838 --> 00:08:27,869
+Então, se esse objeto está suscetível, tá,
+
+180
+00:08:27,879 --> 00:08:27,889
+eh.
+
+181
+00:08:27,899 --> 00:08:30,910
+Há uma ameaça, tem uma vulnerabilidade, Você tem
+
+182
+00:08:30,920 --> 00:08:32,969
+esse grau de vulnerabilidade? Sim, né? Eu
+
+183
+00:08:32,979 --> 00:08:34,538
+tenho ali um como a gente falou.
+
+184
+00:08:34,548 --> 00:08:37,250
+Um software desatualizado Então, quer dizer que ele tá
+
+185
+00:08:37,259 --> 00:08:41,769
+suscetível a uma ameaça, gera uma vulnerabilidade, né?
+
+186
+00:08:41,779 --> 00:08:45,509
+E também legal pra você entender bem esses temas aí
+
+187
+00:08:45,519 --> 00:08:48,399
+item correto, vamos falar do risco que que é
+
+188
+00:08:48,408 --> 00:08:52,070
+o risco naso trinta e um mil que define isso?
+
+189
+00:08:52,080 --> 00:08:55,428
+O risco é definido como sendo o efeito da incerteza
+
+190
+00:08:55,440 --> 00:08:56,450
+nos objetivos.
+
+191
+00:08:57,129 --> 00:09:00,678
+Eu tenho uma incerteza, né? EH probabilidade?
+
+192
+00:09:00,690 --> 00:09:03,739
+É uma ameaça explorar uma vulnerabilidade, Então, por
+
+193
+00:09:03,750 --> 00:09:06,178
+exemplo, qual a probabilidade que tem uma ameaça de
+
+194
+00:09:06,190 --> 00:09:09,619
+explorar uma vulnerabilidade? Se essa probabilidade é alta?
+
+195
+00:09:09,629 --> 00:09:10,918
+O meu risco aumenta.
+
+196
+00:09:10,928 --> 00:09:13,320
+Você concorda comigo é uma balança.
+
+197
+00:09:13,619 --> 00:09:17,080
+Se eu tenho uma probabilidade baixa de exploração, meu
+
+198
+00:09:17,090 --> 00:09:19,259
+risco obviamente vai diminuir.
+
+199
+00:09:19,269 --> 00:09:21,629
+É tudo em cima aí de uma balança.
+
+200
+00:09:21,639 --> 00:09:24,509
+E aí nós temos as empresas o nível de risco
+
+201
+00:09:24,519 --> 00:09:27,548
+que é a magnitude, um risco expressa em termos
+
+202
+00:09:27,558 --> 00:09:29,229
+da combinação das consequências.
+
+203
+00:09:29,239 --> 00:09:33,229
+Tá vendo impacto pelas suas probabilidades, Então cê tem
+
+204
+00:09:33,239 --> 00:09:35,940
+geralmente uma tabela que define aqui.
+
+205
+00:09:35,950 --> 00:09:38,190
+O risco de um a três é baixo, quatro
+
+206
+00:09:38,200 --> 00:09:41,308
+a cinco é médio e seis a nove é alto.
+
+207
+00:09:41,320 --> 00:09:44,149
+Então se eu tenho uma probabilidade ali oh baixo,
+
+208
+00:09:44,158 --> 00:09:47,229
+oh um, dois e três tá vendo? Ele
+
+209
+00:09:47,239 --> 00:09:50,149
+tá no nível baixo nível médio, Há um equilíbrio
+
+210
+00:09:50,158 --> 00:09:52,369
+aqui eu tenho aqui dois, Mas aqui eu tenho
+
+211
+00:09:52,379 --> 00:09:54,690
+quatro e cinco, e eu tenho um alto aqui
+
+212
+00:09:54,700 --> 00:09:55,750
+seis.
+
+213
+00:09:55,759 --> 00:09:57,668
+E o que que é o risco alto? Eu
+
+214
+00:09:57,678 --> 00:10:00,190
+tenho um três aqui baixo, só que um médio
+
+215
+00:10:00,200 --> 00:10:00,928
+e um alto.
+
+216
+00:10:01,200 --> 00:10:04,729
+Aí a balança desequilibrou e ele passa a ser alto,
+
+217
+00:10:04,739 --> 00:10:06,690
+né? A probabilidade tá vendo Então? Você tem
+
+218
+00:10:06,700 --> 00:10:10,719
+como se fosse uma balança que vai medir essa ideia.
+
+219
+00:10:10,729 --> 00:10:14,798
+Então, se eu tenho aí é um risco baixo.
+
+220
+00:10:14,808 --> 00:10:18,840
+Obviamente eh, eu vou ter uma segurança melhor.
+
+221
+00:10:18,849 --> 00:10:21,808
+Se o risco é alto, a chance de invasão
+
+222
+00:10:21,820 --> 00:10:23,178
+é muito maior.
+
+223
+00:10:23,190 --> 00:10:25,219
+Tá bom? Então? Oh, dependendo do risco,
+
+224
+00:10:25,229 --> 00:10:28,149
+pode tomar as seguintes ações aluno em relação a ele
+
+225
+00:10:28,158 --> 00:10:31,928
+oh, evitar óbvio evitar completamente que esse risco ocorra
+
+226
+00:10:31,940 --> 00:10:35,178
+através de ações para levar a probabilidade do risco a
+
+227
+00:10:35,190 --> 00:10:37,779
+zero, por exemplo, ligamos um servidor vulnerável,
+
+228
+00:10:37,788 --> 00:10:41,168
+se descobriu uma vulnerabilidade de um servidor, mas ele
+
+229
+00:10:41,178 --> 00:10:42,389
+ainda não foi invadido.
+
+230
+00:10:42,399 --> 00:10:43,750
+Então desligue.
+
+231
+00:10:43,759 --> 00:10:47,989
+Então evitei que seja atacado antes da hora.
+
+232
+00:10:48,000 --> 00:10:50,250
+Aí eu vou lá e corrijo aquele problema com o
+
+233
+00:10:50,259 --> 00:10:54,029
+servidor fora do ar, né? Transferi, transfere
+
+234
+00:10:54,038 --> 00:10:56,908
+pra terceiros umônus do risco.
+
+235
+00:10:56,918 --> 00:10:59,408
+Por exemplo, você faz um seguro ou através de
+
+236
+00:10:59,418 --> 00:11:02,288
+cláusulas contratuais a transferência da NEM diminuiu o risco,
+
+237
+00:11:02,298 --> 00:11:04,190
+mas você fez a transferência.
+
+238
+00:11:04,200 --> 00:11:07,690
+Por exemplo, você contratou um sistema de nuvem computacional
+
+239
+00:11:07,989 --> 00:11:09,200
+pra gerir seu sistema.
+
+240
+00:11:09,210 --> 00:11:11,759
+Você não vai ter mais o parque tecnológico seu.
+
+241
+00:11:11,769 --> 00:11:15,719
+Então você transferiu essa responsabilidade para um terceiro tá.
+
+242
+00:11:15,729 --> 00:11:19,298
+Seria aí um exemplo e mitigar, né? É
+
+243
+00:11:19,308 --> 00:11:21,759
+visar o quê? Reduzir a probabilidade da ocorrência,
+
+244
+00:11:21,769 --> 00:11:25,000
+o impacto de um risco ao nível aceitável, Exemplo
+
+245
+00:11:25,009 --> 00:11:29,000
+Tomar medida de segurança ou prever sistemas ou recursos redundantes.
+
+246
+00:11:29,009 --> 00:11:31,200
+Tá vendo se trabalhar com redundância de servidores.
+
+247
+00:11:31,210 --> 00:11:33,969
+Cê tá mitigando que que é uma redundância? Cê
+
+248
+00:11:33,979 --> 00:11:36,048
+tem um servidor e o outro copiando eàs vezes
+
+249
+00:11:36,058 --> 00:11:37,658
+o outro copiando a outra cópia.
+
+250
+00:11:37,960 --> 00:11:39,690
+Se caso não der problema, você ainda tem dois
+
+251
+00:11:39,700 --> 00:11:42,830
+servidores ali Cê trabalhou com a mitigação aí né,
+
+252
+00:11:42,840 --> 00:11:43,729
+E aceitar.
+
+253
+00:11:43,739 --> 00:11:47,428
+Significa aceitar os riscos sem tomar nenhuma providência ou estabelecer
+
+254
+00:11:47,440 --> 00:11:50,009
+um plano de contingência caso o risco ocorra, né?
+
+255
+00:11:50,019 --> 00:11:51,889
+Olha só isso normalmente é feito quando a probabilidade de
+
+256
+00:11:51,899 --> 00:11:55,090
+ocorrência e o impacto são baixos ou quando o cujo
+
+257
+00:11:55,099 --> 00:11:57,408
+mitigar ou transferir o risco é muito maior que o
+
+258
+00:11:57,418 --> 00:11:58,330
+valor do ativo.
+
+259
+00:11:58,340 --> 00:12:00,330
+Por exemplo, não fazer seguro de um carro de
+
+260
+00:12:00,340 --> 00:12:04,690
+muito baixo valor é corre-se o risco e aceita porque
+
+261
+00:12:04,700 --> 00:12:07,009
+às vezes você tem ali um, como deu o
+
+262
+00:12:07,019 --> 00:12:11,408
+exemplo um veículo que custa dez mil, mas seguradora
+
+263
+00:12:11,418 --> 00:12:13,330
+cobra de seguro anual.
+
+264
+00:12:13,340 --> 00:12:17,369
+Vinte Então, vamos correr o risco, vamos aceitar
+
+265
+00:12:17,379 --> 00:12:19,529
+esse risco aí? É o exemplo que nós temos
+
+266
+00:12:19,538 --> 00:12:19,808
+aqui.
+
+267
+00:12:19,820 --> 00:12:21,928
+Tá? Olha só uma questão aí pra você,
+
+268
+00:12:21,940 --> 00:12:24,489
+oh, as sentenças abaixo são inspiradas no texto de
+
+269
+00:12:24,500 --> 00:12:27,428
+Ramos dois mil e seis sobre segurança da informação.
+
+270
+00:12:27,440 --> 00:12:33,019
+Olá evento que tem potencial em si próprio para comprometer
+
+271
+00:12:33,029 --> 00:12:36,979
+os objetivos da organização e pode trazer danos diretos aos
+
+272
+00:12:36,989 --> 00:12:40,759
+ativos ou prejuízos decorrentes de situações inesperadas.
+
+273
+00:12:41,830 --> 00:12:43,918
+Que que seria esse evento que tem potencial em si
+
+274
+00:12:43,928 --> 00:12:48,359
+próprio pra comprometer os objetivos da organização.
+
+275
+00:12:48,369 --> 00:12:53,000
+Aluno já bateu, aí é uma ameaça, não
+
+276
+00:12:53,009 --> 00:12:57,428
+é? Cê concorda que é uma ameaça? Aí
+
+277
+00:12:57,440 --> 00:13:01,168
+vamos a dois a ausência de um mecanismo de proteção
+
+278
+00:13:01,178 --> 00:13:03,590
+ou falhas e um mecanismo de proteção existentes.
+
+279
+00:13:03,599 --> 00:13:06,989
+Se você tem uma ausência de proteção ou falhas,
+
+280
+00:13:07,000 --> 00:13:08,269
+você tem o q i.
+
+281
+00:13:08,279 --> 00:13:12,269
+Você não tem uma ameaça, você tem uma vulnerabilidade,
+
+282
+00:13:12,279 --> 00:13:17,719
+concorda? E depois oh medida indicativa de probabilidade de
+
+283
+00:13:17,729 --> 00:13:20,678
+uma ocorrência que possa comprometer os objetivos da organização que
+
+284
+00:13:20,690 --> 00:13:23,200
+a gente tá vendo, combinada com os impactos que
+
+285
+00:13:23,210 --> 00:13:24,019
+ela trará.
+
+286
+00:13:24,029 --> 00:13:26,359
+Isso é o que com certeza, isso é o
+
+287
+00:13:26,369 --> 00:13:27,320
+risco.
+
+288
+00:13:27,330 --> 00:13:30,960
+Então a resposta aqui letra Ah, tá então só
+
+289
+00:13:30,969 --> 00:13:34,719
+pra você dar um treino coação que a gente acabou
+
+290
+00:13:34,729 --> 00:13:35,440
+de estudar.
+
+291
+00:13:35,450 --> 00:13:36,658
+Abraço até logo!
+

@@ -1,0 +1,476 @@
+1
+00:00:06,339 --> 00:00:08,710
+Olá, vamos falar um pouquinho sobre o mecanismo de
+
+2
+00:00:08,720 --> 00:00:13,060
+Cos, né? Que seria compartilhamento de recursos entre
+
+3
+00:00:13,069 --> 00:00:17,280
+domínios, né? O que acontece? Eh esse
+
+4
+00:00:17,289 --> 00:00:19,870
+cos é muito usado pra evitar ataques do tipo x
+
+5
+00:00:19,879 --> 00:00:22,670
+S S, né? Eh que são ataques baseados
+
+6
+00:00:22,679 --> 00:00:24,280
+em script o cores.
+
+7
+00:00:24,289 --> 00:00:27,568
+Ele garante que um determinado recurso de um domínio não
+
+8
+00:00:27,579 --> 00:00:30,489
+possa ser acessado por outro domínio, mas pode ser
+
+9
+00:00:30,500 --> 00:00:32,408
+um problema pra gente quando a gente vai testar nossos
+
+10
+00:00:32,418 --> 00:00:36,679
+aplicativos, né? Então começar a falar um pouquinho
+
+11
+00:00:36,689 --> 00:00:41,579
+dele é, ou seja, o compartilhamento de recursos
+
+12
+00:00:41,590 --> 00:00:43,969
+em domínios diferenciados.
+
+13
+00:00:43,978 --> 00:00:46,939
+E se eu quiser eh controlar como eu vou usar
+
+14
+00:00:46,950 --> 00:00:50,418
+o eu tenho que usar n PM i Então instalando
+
+15
+00:00:50,429 --> 00:00:55,380
+a biblioteca pra usar embaixo do express Tá bloqueio entre
+
+16
+00:00:55,389 --> 00:00:57,859
+domínios diferentes! Isso é o natural.
+
+17
+00:00:57,868 --> 00:01:01,380
+Se você não fizer nada é bloqueado, né?
+
+18
+00:01:01,389 --> 00:01:04,338
+O padrão é não deixar com isso.
+
+19
+00:01:04,349 --> 00:01:07,480
+Você tem que abrir ou fechar as portas de acordo
+
+20
+00:01:07,489 --> 00:01:08,400
+com a necessidade.
+
+21
+00:01:09,058 --> 00:01:11,230
+Evita ataques como o X, s s, entre
+
+22
+00:01:11,239 --> 00:01:11,668
+outros.
+
+23
+00:01:11,680 --> 00:01:13,750
+Então, o ideal é que você não abra tudo
+
+24
+00:01:13,760 --> 00:01:16,969
+pra testes, A gente sempre coloca ele todo aberto
+
+25
+00:01:16,980 --> 00:01:22,750
+mesmo se eu pegar o meu servidor, ainda que
+
+26
+00:01:24,290 --> 00:01:29,719
+eu tô colocando Origi, asterisco ou seja, ele
+
+27
+00:01:29,730 --> 00:01:31,278
+aceita acesso de qualquer lugar.
+
+28
+00:01:31,290 --> 00:01:34,349
+De qualquer forma, aqui eu tô simplesmente tirando toda
+
+29
+00:01:34,359 --> 00:01:37,588
+a segurança do meu site em termos de tá,
+
+30
+00:01:37,599 --> 00:01:39,948
+é claro que tem outros elementos que eu vou usar,
+
+31
+00:01:40,579 --> 00:01:43,308
+mas eh pra testar fica mais fácil, senão você
+
+32
+00:01:43,319 --> 00:01:44,349
+vai ter que ficar criando cada um.
+
+33
+00:01:44,359 --> 00:01:49,359
+Um domínio diferente tá eh opção padrão ao bloqueio.
+
+34
+00:01:49,370 --> 00:01:52,079
+Controle de abertura pode ser ao nível do servidor ou
+
+35
+00:01:52,088 --> 00:01:52,799
+da rota.
+
+36
+00:01:52,808 --> 00:01:55,359
+Você pode também abrir no servidor e fechar na rota
+
+37
+00:01:55,370 --> 00:01:57,069
+ou fa eh no caso você não pode fazer o
+
+38
+00:01:57,079 --> 00:01:59,620
+contrário, você não pode abrir na rota algo fechado
+
+39
+00:01:59,629 --> 00:02:02,049
+no servidor, mas você pode abrir no nível mais
+
+40
+00:02:02,058 --> 00:02:05,500
+alto na no servidor e depois bloquear na rota Tá
+
+41
+00:02:06,109 --> 00:02:09,118
+bom, Então aqui são as formas de uso.
+
+42
+00:02:09,129 --> 00:02:14,189
+Por exemplo, recue se eu colocasse a PPE use
+
+43
+00:02:15,528 --> 00:02:19,770
+passando origem h t PS section o h t PS
+
+44
+00:02:19,778 --> 00:02:24,979
+google ponto com Ele só aceitaria requisições que viessem desses
+
+45
+00:02:24,990 --> 00:02:27,219
+dois sites desses dois domínios.
+
+46
+00:02:27,229 --> 00:02:29,219
+Tá, se eu tentasse fazer uma requisição de um
+
+47
+00:02:29,229 --> 00:02:32,538
+outro domínio qualquer, ele simplesmente não deixaria ele bloquearia.
+
+48
+00:02:32,550 --> 00:02:36,020
+Por quê Eu não deixei asterisco eu selecionei quem pode
+
+49
+00:02:36,028 --> 00:02:40,110
+acessar aquele meu serviço? Tá, Então eu posso
+
+50
+00:02:40,118 --> 00:02:43,278
+controlar quem pode acessar? Isso é um recurso bastante
+
+51
+00:02:43,288 --> 00:02:45,110
+útil, principalmente se for um um a P I
+
+52
+00:02:45,118 --> 00:02:47,979
+que vai rodar entre empresas diferentes, né? Pode
+
+53
+00:02:47,990 --> 00:02:49,479
+ser que não seja um a P I pública.
+
+54
+00:02:49,740 --> 00:02:51,558
+Eu quero um a p i pra comunicar duas,
+
+55
+00:02:51,569 --> 00:02:54,868
+três, quatro empresas e que mais ninguém conheça ela,
+
+56
+00:02:54,879 --> 00:02:57,649
+né? Será que se colocar aí use cores com
+
+57
+00:02:57,659 --> 00:02:59,270
+co com origem asterisco.
+
+58
+00:02:59,278 --> 00:03:02,429
+Aí eu vou deixar todo mundo acessar aqui.
+
+59
+00:03:02,439 --> 00:03:06,449
+Eu tô fazendo a configuração ao nível do servidor,
+
+60
+00:03:06,460 --> 00:03:08,550
+ou seja, a regra que eu coloco aqui é
+
+61
+00:03:08,558 --> 00:03:12,270
+aplicada a todas as rotas que eu colocar nesse servidor,
+
+62
+00:03:12,278 --> 00:03:18,069
+né? Mas eu posso também criar algumas regras diferenciadas
+
+63
+00:03:18,080 --> 00:03:21,169
+Tá aqui? Por exemplo, eu tenho uma como
+
+64
+00:03:21,179 --> 00:03:26,199
+é que funciona isso? Cor options Origem Origem?
+
+65
+00:03:26,210 --> 00:03:30,719
+Cobec, né? Olha só em vez de colocar
+
+66
+00:03:30,729 --> 00:03:33,830
+a origem como sendo um valor fixo, eu coloquei
+
+67
+00:03:33,838 --> 00:03:36,080
+a origem com uma cabe que vai perguntar se esse
+
+68
+00:03:36,088 --> 00:03:36,949
+cara tá ali.
+
+69
+00:03:36,960 --> 00:03:39,189
+Então eu coloquei algumas palavras que eu chamei de White
+
+70
+00:03:39,199 --> 00:03:40,969
+list, que seria a minha lista branca.
+
+71
+00:03:42,338 --> 00:03:46,288
+Então, assim, se o origem diferente de menos
+
+72
+00:03:46,300 --> 00:03:50,270
+um, ou seja, se esse trechinho aqui ou
+
+73
+00:03:50,278 --> 00:03:56,149
+esse trechinho aqui não for encontrado no endereço completo significa
+
+74
+00:03:56,159 --> 00:03:57,429
+que ele não pode entrar aqui.
+
+75
+00:03:57,439 --> 00:04:01,189
+Então eu tô definindo quais os domínios na minha list,
+
+76
+00:04:01,199 --> 00:04:03,368
+que vão permitir acesso.
+
+77
+00:04:03,979 --> 00:04:08,979
+Kel Beck Noutro else KK new erro tá Então aqui
+
+78
+00:04:08,990 --> 00:04:12,629
+eu posso pegar eh e chamar uma cobec qualquer,
+
+79
+00:04:12,639 --> 00:04:17,149
+Tá eh passando pra ele quais são a minha origem?
+
+80
+00:04:17,160 --> 00:04:21,019
+Destino Com isso eu consigo bloquear baseada no list,
+
+81
+00:04:21,028 --> 00:04:23,298
+né? É claro que eu tenho que definir uma
+
+82
+00:04:23,309 --> 00:04:23,678
+cabe.
+
+83
+00:04:23,689 --> 00:04:27,100
+E essa cobec aqui pode ser simplesmente, a impressão,
+
+84
+00:04:27,108 --> 00:04:29,338
+não console, se ele deixou ou não, né?
+
+85
+00:04:29,350 --> 00:04:32,420
+E ela teria que me dar ali eh um retorno
+
+86
+00:04:32,428 --> 00:04:37,319
+desse bom, Eu também posso usar isso ao nível
+
+87
+00:04:37,329 --> 00:04:40,410
+do da rota, né? Então, assim a
+
+88
+00:04:40,420 --> 00:04:47,048
+PP u e né? O se eu coloco isso
+
+89
+00:04:47,059 --> 00:04:49,889
+eu tô dizendo que eh o meu servidor só vai
+
+90
+00:04:49,899 --> 00:04:51,869
+aceitar esses métodos.
+
+91
+00:04:51,879 --> 00:04:52,670
+Ele não vai aceitar.
+
+92
+00:04:52,678 --> 00:04:55,220
+Por exemplo, o método do h t p tá
+
+93
+00:04:55,230 --> 00:05:00,910
+pro web não tá fazendo grande diferença porque ele usa
+
+94
+00:05:00,920 --> 00:05:03,488
+o eh, tá? Mas se eu tivesse um
+
+95
+00:05:03,500 --> 00:05:06,428
+método mais complexo, um ou coisa do tipo,
+
+96
+00:05:06,439 --> 00:05:10,369
+já daria mais problema ali, né? Eh aqui
+
+97
+00:05:10,379 --> 00:05:13,910
+eu tô colocando o ao nível da rota que que
+
+98
+00:05:13,920 --> 00:05:17,569
+eu tô fazendo na rota a nível Got Aplique o
+
+99
+00:05:17,579 --> 00:05:20,209
+Corse e Aí eu poderia ter uma regra qualquer,
+
+100
+00:05:20,220 --> 00:05:22,449
+por exemplo, e só pode ser acessado no nível
+
+101
+00:05:22,459 --> 00:05:24,928
+de got a partir do domínio X.
+
+102
+00:05:24,939 --> 00:05:29,170
+Então, eu estaria restringindo o acesso a certos domínios
+
+103
+00:05:29,178 --> 00:05:33,470
+naquela rota, embora não tivesse restrita no servidor,
+
+104
+00:05:33,480 --> 00:05:38,980
+né? Então, quando a gente fala de cores,
+
+105
+00:05:38,988 --> 00:05:42,389
+né? A gente tá falando dessa dessa configuração,
+
+106
+00:05:42,399 --> 00:05:46,178
+das restrições de acesso por outros domínios! E você
+
+107
+00:05:46,189 --> 00:05:48,358
+pode configurar ela tanto a nível de servidor, quanto
+
+108
+00:05:48,369 --> 00:05:49,139
+a nível da rota.
+
+109
+00:05:49,149 --> 00:05:53,178
+Essa complexidade da configuração vai depender da necessidade.
+
+110
+00:05:53,189 --> 00:05:56,678
+Um site que exija mais segurança provavelmente vai precisar que
+
+111
+00:05:56,689 --> 00:05:58,178
+você faça isso ao nível da rota.
+
+112
+00:05:58,189 --> 00:06:00,778
+Vai ter rota que vai ser bloqueada praticamente pra todos
+
+113
+00:06:00,790 --> 00:06:03,920
+que não sejam do mesmo domínio, né? Um
+
+114
+00:06:03,928 --> 00:06:06,480
+microservice, por exemplo, Se ele é bloqueado pra
+
+115
+00:06:06,488 --> 00:06:08,278
+todos, ele só pode acessar a si mesmo.
+
+116
+00:06:08,290 --> 00:06:10,720
+Poderia ser um serviço de login interno, né?
+
+117
+00:06:10,730 --> 00:06:14,699
+Então, ah, e esse controle do Corse vai
+
+118
+00:06:14,709 --> 00:06:18,238
+garantir que eu controle quem pode ou não acessar aquele
+
+119
+00:06:18,250 --> 00:06:18,819
+meu sistema?
+

@@ -1,0 +1,508 @@
+1
+00:00:06,889 --> 00:00:08,380
+Olá, eu sou o professor da SCP e a
+
+2
+00:00:08,390 --> 00:00:11,368
+gente vai falar um pouquinho sobre o conceito e o
+
+3
+00:00:11,380 --> 00:00:15,259
+uso de rota e and pontes, né? Seria
+
+4
+00:00:15,269 --> 00:00:18,298
+a definição de rotas que é por causa do roteamento
+
+5
+00:00:18,309 --> 00:00:22,458
+baseado em pont que são eh basicamente os pontos de
+
+6
+00:00:22,469 --> 00:00:25,589
+entrada, né? Dentro do express G, s
+
+7
+00:00:25,600 --> 00:00:28,298
+ou qualquer tipo de servidor desse tipo, né?
+
+8
+00:00:28,309 --> 00:00:30,958
+Vamos ver como é que isso funciona começando pelo conceito
+
+9
+00:00:31,888 --> 00:00:35,679
+de rotas e pont, né? Diferenciar o que
+
+10
+00:00:35,689 --> 00:00:38,750
+é uma rota e o que é um ponto bom?
+
+11
+00:00:38,759 --> 00:00:41,469
+A hat é acessada via endereços h! T P,
+
+12
+00:00:41,478 --> 00:00:44,289
+né? Assim é um W e aqui a gente
+
+13
+00:00:44,298 --> 00:00:47,168
+se concentra agora nos web que são mais importantes.
+
+14
+00:00:47,770 --> 00:00:51,060
+Eh, Você tem o uso do endereço h t
+
+15
+00:00:51,069 --> 00:00:52,380
+p pra acessoàquilo.
+
+16
+00:00:52,389 --> 00:00:55,579
+Mas né? Não é só o endereço é o
+
+17
+00:00:55,590 --> 00:00:56,779
+método também.
+
+18
+00:00:56,789 --> 00:00:59,298
+Então, eu posso ter um endereço x com comportamentos
+
+19
+00:00:59,310 --> 00:01:01,529
+diferentes de acordo com o método do h t p
+
+20
+00:01:01,539 --> 00:01:03,060
+que eu! O que eu vou utilizar, né?
+
+21
+00:01:03,069 --> 00:01:05,480
+Por exemplo, GT h t P ou com arroz
+
+22
+00:01:05,489 --> 00:01:07,620
+três mil é diferente de h t P ou com
+
+23
+00:01:07,629 --> 00:01:08,338
+arroz, três mil.
+
+24
+00:01:08,349 --> 00:01:10,799
+O endereço é o mesmo, mas eu tenho um
+
+25
+00:01:10,808 --> 00:01:14,719
+método no meio, né? O é o r
+
+26
+00:01:14,730 --> 00:01:17,109
+l ou R i pra acessar o recurso.
+
+27
+00:01:17,120 --> 00:01:18,909
+Então, quando cê fala da u, r l
+
+28
+00:01:18,918 --> 00:01:21,269
+cê tá falando só do endereço sem o método,
+
+29
+00:01:21,278 --> 00:01:23,909
+né? Então aquela u R L com o método
+
+30
+00:01:23,918 --> 00:01:27,510
+do GT vai ser, por exemplo, uma rota
+
+31
+00:01:27,519 --> 00:01:30,549
+Tá, então, assim o end point ele define
+
+32
+00:01:30,558 --> 00:01:33,989
+tá, eh aquele modelo pra você poder acessar o
+
+33
+00:01:34,000 --> 00:01:34,388
+recurso.
+
+34
+00:01:34,400 --> 00:01:40,480
+Aquele caminho, porém, eh seria! Eh o
+
+35
+00:01:40,489 --> 00:01:41,808
+W and post seria um R L, mas ele
+
+36
+00:01:41,819 --> 00:01:44,129
+não tem um método, ele não tem uma especificação
+
+37
+00:01:44,138 --> 00:01:46,918
+de quem tá sendo acessado agora.
+
+38
+00:01:46,930 --> 00:01:49,680
+A rota seria o uso desse and point para uma
+
+39
+00:01:49,689 --> 00:01:53,349
+entidade específica segundo o método específico, né? Então
+
+40
+00:01:53,359 --> 00:01:55,989
+a rota é o caminho para o acesso, né,
+
+41
+00:01:56,000 --> 00:01:59,069
+mto HD p tem que ser incluído na rota através
+
+42
+00:01:59,079 --> 00:01:59,769
+de alguns exemplos.
+
+43
+00:01:59,778 --> 00:02:02,519
+Isso fica bem simples, né? Tem dois s
+
+44
+00:02:02,528 --> 00:02:04,388
+aqui o primeiro é barra.
+
+45
+00:02:04,400 --> 00:02:08,639
+Notas o segundo barra Notas dois pontos aí de tá,
+
+46
+00:02:09,349 --> 00:02:12,360
+eh E como é que eu poderia achar essas rotas
+
+47
+00:02:12,368 --> 00:02:16,479
+aí né? Eh gat h t p três mil
+
+48
+00:02:16,490 --> 00:02:23,229
+barra Notas Estaria acessando esse and ponte h t PS
+
+49
+00:02:23,240 --> 00:02:26,909
+três mil barra notas barra um estaria acessando esse aponte
+
+50
+00:02:26,919 --> 00:02:31,649
+de cá, né? Então eh quando eu trabalho
+
+51
+00:02:31,659 --> 00:02:35,229
+com and points você tem? Eh essa esse modelo,
+
+52
+00:02:35,240 --> 00:02:37,550
+né? Do caminho, E aí a rota seria
+
+53
+00:02:37,558 --> 00:02:40,788
+além de completar as informações do caminho que forem necessárias,
+
+54
+00:02:40,800 --> 00:02:42,750
+você tá colocando também o método h t P de
+
+55
+00:02:42,758 --> 00:02:43,629
+acesso.
+
+56
+00:02:43,639 --> 00:02:49,508
+Tá? Ah mais alguns exemplos point barra notas Gott
+
+57
+00:02:49,520 --> 00:02:52,189
+retorna todas as notas, né? Então assim,
+
+58
+00:02:52,199 --> 00:02:55,528
+pelo padrão o gate deve re eh retornar todas as
+
+59
+00:02:55,538 --> 00:02:56,028
+notas.
+
+60
+00:02:56,038 --> 00:02:59,469
+O post inclui uma nota com os dados no corpo
+
+61
+00:02:59,479 --> 00:03:04,038
+da requisição point barra notas barra dois ponto e d
+
+62
+00:03:04,740 --> 00:03:05,710
+get consulta.
+
+63
+00:03:05,719 --> 00:03:09,909
+Uma nota com i d colocado no PS delite remove
+
+64
+00:03:09,919 --> 00:03:12,389
+uma nota né? O i d também colocado no
+
+65
+00:03:12,399 --> 00:03:15,229
+p f e o put altera uma nota No caso
+
+66
+00:03:15,240 --> 00:03:17,508
+do put eu tenho i d no p f e
+
+67
+00:03:17,520 --> 00:03:21,490
+dados no corpo, né? Então olha só gate,
+
+68
+00:03:22,330 --> 00:03:24,778
+sem nada retorna a todas.
+
+69
+00:03:24,788 --> 00:03:26,379
+Gete com adi no final.
+
+70
+00:03:26,389 --> 00:03:29,058
+O adi no P F indica quem vai ser recuperado.
+
+71
+00:03:29,069 --> 00:03:32,110
+O delite com adi no final remove quem vai ser
+
+72
+00:03:32,118 --> 00:03:32,909
+recuperado.
+
+73
+00:03:32,919 --> 00:03:35,868
+O PT vai ter o i d pra poder localizar,
+
+74
+00:03:35,879 --> 00:03:37,909
+pra saber se o cara já existe e, em
+
+75
+00:03:37,919 --> 00:03:40,288
+seguida, os dados que vão ser substituídos no corpo
+
+76
+00:03:40,300 --> 00:03:42,750
+e o post como eu não tenho ninguém ainda,
+
+77
+00:03:42,758 --> 00:03:45,588
+eu não tenho o I D ele fica eh no
+
+78
+00:03:45,599 --> 00:03:47,028
+corpo da requisição.
+
+79
+00:03:47,038 --> 00:03:48,490
+Tá aqui.
+
+80
+00:03:49,558 --> 00:03:54,659
+Eu tenho um servidor que já usa algumas coisas desse
+
+81
+00:03:54,669 --> 00:04:01,429
+tipo, né? Ah! E use boy parse
+
+82
+00:04:01,439 --> 00:04:14,649
+Jason Gatt teria um get, por exemplo? Tá,
+
+83
+00:04:15,919 --> 00:04:19,189
+Ah, ou eu poderia usar rotas.
+
+84
+00:04:19,858 --> 00:04:22,009
+Isso é uma forma mais organizada, de trabalho,
+
+85
+00:04:23,040 --> 00:04:24,869
+né? Aqui eu teria só usando o servidor,
+
+86
+00:04:25,519 --> 00:04:30,720
+mas eu também posso ter rotas que são a minha
+
+87
+00:04:30,730 --> 00:04:32,100
+forma preferida de trabalhar.
+
+88
+00:04:32,108 --> 00:04:35,059
+Eu trabalho com rotas porque eu posso organizar essas rotas
+
+89
+00:04:35,069 --> 00:04:38,059
+de uma forma melhor e a palavra assim que vai
+
+90
+00:04:38,069 --> 00:04:41,699
+ser muito utilizada, sempre trabalhando com modelos ACCs Aqui,
+
+91
+00:04:41,709 --> 00:04:45,428
+por exemplo, eu tenho o got com uma rota
+
+92
+00:04:45,439 --> 00:04:49,230
+básica raiz, né? E aí eu coloco jason
+
+93
+00:04:49,238 --> 00:04:54,019
+dados, tô respondendo dois pontos a i d dois
+
+94
+00:04:54,028 --> 00:04:56,838
+pontos a i d eu vou ter nos parâmetros da
+
+95
+00:04:56,850 --> 00:04:57,559
+requisição.
+
+96
+00:04:57,569 --> 00:05:00,579
+O i d Quando você coloca assim é parâmetro de
+
+97
+00:05:00,588 --> 00:05:01,369
+requisição.
+
+98
+00:05:01,379 --> 00:05:05,338
+Heck ponto para ponto a D Ele vai achar aquele
+
+99
+00:05:05,350 --> 00:05:08,778
+cara específico e em seguida vai retornar no formato.
+
+100
+00:05:08,790 --> 00:05:14,759
+Jael Se eu colocar barra com post eu estou criando
+
+101
+00:05:14,769 --> 00:05:18,420
+e tô criando a partir de que informação a informação
+
+102
+00:05:18,428 --> 00:05:22,439
+que está no corpo Tá? Se eu coloco com
+
+103
+00:05:22,449 --> 00:05:25,048
+barra dois pontos aí de então Olha só eu tô
+
+104
+00:05:25,059 --> 00:05:30,119
+usando esse apo hã e cada end point aqui de
+
+105
+00:05:30,129 --> 00:05:33,420
+acordo com o método, vai ter um comportamento diferente
+
+106
+00:05:33,428 --> 00:05:35,798
+Tá, Essa é a grande sacada disso aí,
+
+107
+00:05:35,809 --> 00:05:39,040
+né? EH, e aí quando eu venho pra
+
+108
+00:05:39,048 --> 00:05:42,600
+cá pro index eu digo o seguinte Use a partir
+
+109
+00:05:42,608 --> 00:05:45,980
+de barra notas aquelas rotas que eu criei lá,
+
+110
+00:05:45,988 --> 00:05:48,178
+então o que eu coloquei barra na verdade não vai
+
+111
+00:05:48,189 --> 00:05:51,199
+ser barra vai ser barra notas barra E se eu
+
+112
+00:05:51,209 --> 00:05:54,838
+colocasse outra coisa qualquer aqui nas minhas rotas, se
+
+113
+00:05:54,850 --> 00:06:00,079
+eu colocasse barra eh x, aí seria juntando com
+
+114
+00:06:00,088 --> 00:06:04,189
+o caminho que tem no index barra notas barra x.
+
+115
+00:06:04,819 --> 00:06:07,149
+Então ele vai combinar ele tá dizendo pra você o
+
+116
+00:06:07,160 --> 00:06:11,230
+seguinte Use a partir de barra notas as rotas que
+
+117
+00:06:11,238 --> 00:06:14,920
+eu defini nesse outro arquivo tá, mas só adiantando
+
+118
+00:06:14,928 --> 00:06:17,769
+algumas coisas em relação a isso aqui, né?
+
+119
+00:06:17,778 --> 00:06:21,170
+Por quê? Porque aí você consegue compreender o que
+
+120
+00:06:21,178 --> 00:06:22,290
+que é um point que cê vê que ele se
+
+121
+00:06:22,298 --> 00:06:26,750
+repete e que que é uma rota já envolvendo toda
+
+122
+00:06:26,759 --> 00:06:29,889
+a parte do método h T P e os elementos
+
+123
+00:06:29,899 --> 00:06:33,759
+pra acesso eh pra aquele recurso específico, né?
+
+124
+00:06:33,769 --> 00:06:38,290
+Bom? Então, essas são as diferenças básicas entre
+
+125
+00:06:38,298 --> 00:06:40,660
+rotas e and points O Andy Point vai se repetir
+
+126
+00:06:40,670 --> 00:06:43,088
+muito, mas a rota vai ser específica pra cada
+
+127
+00:06:43,100 --> 00:06:45,750
+ação ou recurso solicitado no servidor.
+

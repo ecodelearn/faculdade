@@ -1,0 +1,612 @@
+1
+00:00:06,629 --> 00:00:11,118
+vamos falar um pouquinho sobre controle de Cash, né?
+
+2
+00:00:11,130 --> 00:00:14,159
+Eh, o Cash é muito importante pra poder ganhar
+
+3
+00:00:14,169 --> 00:00:16,850
+performance em termos de servidores e clientes.
+
+4
+00:00:16,859 --> 00:00:20,079
+Ele elimina consultas que são repetidas, né, resultados
+
+5
+00:00:20,089 --> 00:00:23,478
+repetidos usando aquele resultado mais recente.
+
+6
+00:00:23,489 --> 00:00:25,280
+Em vez de fazer uma nova consulta, que pode
+
+7
+00:00:25,289 --> 00:00:26,679
+inclusive demorar bastante.
+
+8
+00:00:26,690 --> 00:00:29,039
+Imagina, por exemplo, uma conexão entre dois servidores
+
+9
+00:00:29,048 --> 00:00:30,679
+completamente distintos.
+
+10
+00:00:30,690 --> 00:00:33,429
+Tá esse pode ser um protocolo, pode demorar e
+
+11
+00:00:33,439 --> 00:00:37,509
+aquela informação pode chegar num tempo, eh demandar muito
+
+12
+00:00:37,520 --> 00:00:38,368
+tempo pra poder chegar.
+
+13
+00:00:38,380 --> 00:00:40,529
+A resposta enquanto não mudou nada.
+
+14
+00:00:40,539 --> 00:00:42,689
+De repente você tem a resposta e ela não mudou.
+
+15
+00:00:42,700 --> 00:00:44,668
+Tá e você pode usar o Cash usa o que
+
+16
+00:00:44,679 --> 00:00:46,289
+tá na máquina local, usa o que tá no
+
+17
+00:00:46,298 --> 00:00:48,090
+prox, usa diferentes níveis.
+
+18
+00:00:48,098 --> 00:00:49,310
+Vamos ver como isso funciona.
+
+19
+00:00:51,060 --> 00:00:54,630
+Bom gerenciamento de cast no cliente.
+
+20
+00:00:54,639 --> 00:01:03,689
+Você tem esse gerenciamento do cast do cliente através dos
+
+21
+00:01:04,370 --> 00:01:08,058
+onde você tem os estados, né? O FSH
+
+22
+00:01:08,069 --> 00:01:11,489
+seria que você tem um cash utilizável? É um
+
+23
+00:01:11,500 --> 00:01:14,838
+cast que tá antigo, né? E existe uma
+
+24
+00:01:14,849 --> 00:01:18,900
+uso de Cash Urs Onde ele pergunta Qual é o,
+
+25
+00:01:18,909 --> 00:01:22,209
+né? Quando ele foi colocado lá e qual o
+
+26
+00:01:22,219 --> 00:01:24,109
+máximo de idade que ele pode ter, o máximo
+
+27
+00:01:24,120 --> 00:01:25,989
+de tempo que ele pode ficar e ele faz o
+
+28
+00:01:26,000 --> 00:01:26,668
+cálculo sozinho.
+
+29
+00:01:26,680 --> 00:01:27,069
+Pra saber.
+
+30
+00:01:27,079 --> 00:01:28,709
+Esse cara é muito antigo, não vale mais a
+
+31
+00:01:28,719 --> 00:01:32,088
+pena então dali, de acordo com essas eur,
+
+32
+00:01:32,099 --> 00:01:34,668
+ele consegue recarregar ou não o Cash.
+
+33
+00:01:34,680 --> 00:01:38,189
+É o que CTA esses estados de né? Eh
+
+34
+00:01:38,198 --> 00:01:42,528
+O invalida, né? Você pode ter alguns validadores.
+
+35
+00:01:43,150 --> 00:01:47,058
+Eh pra dizer se aquele cash é válido ou não
+
+36
+00:01:47,069 --> 00:01:49,918
+e muitos deles são baseados em hash, né?
+
+37
+00:01:49,930 --> 00:01:52,198
+O que que é o hah? O hash é
+
+38
+00:01:52,209 --> 00:01:57,040
+uma assim uma assinatura, né? Eh dizendo que
+
+39
+00:01:57,049 --> 00:02:00,359
+aquele conteúdo eh gerou aquela informação.
+
+40
+00:02:00,370 --> 00:02:06,480
+Se você tiver uma formação que seja um botezinho modificado,
+
+41
+00:02:06,489 --> 00:02:08,379
+o resto não vai ser o mesmo, então ele
+
+42
+00:02:08,389 --> 00:02:10,659
+vai dizer o seguinte olha, esse conteúdo equivale a
+
+43
+00:02:10,669 --> 00:02:10,939
+esse.
+
+44
+00:02:10,949 --> 00:02:13,659
+Se você faz um outro conteúdo e guarda outro sh,
+
+45
+00:02:13,669 --> 00:02:15,460
+fala assim oh, o resto não é o mesmo,
+
+46
+00:02:15,469 --> 00:02:17,740
+significa o conteúdo não é o mesmo.
+
+47
+00:02:17,750 --> 00:02:20,879
+Então eu posso trabalhar com hah, né? Eh
+
+48
+00:02:20,889 --> 00:02:22,899
+se o resto de um é diferente do resto do
+
+49
+00:02:22,909 --> 00:02:25,860
+outro é porque mudou o conteúdo, né? Resposta
+
+50
+00:02:25,868 --> 00:02:28,618
+da t P Trezentos e quatro not fi Em geral,
+
+51
+00:02:28,629 --> 00:02:31,038
+Quando você vê que o conteúdo é o mesmo,
+
+52
+00:02:31,050 --> 00:02:35,740
+ele pega do cash por que o meu servidor vai
+
+53
+00:02:35,750 --> 00:02:38,740
+mandar uma resposta Trezentos e quatro pro cliente.
+
+54
+00:02:38,750 --> 00:02:42,419
+Essa resposta diz o seguinte Trezentos e quatro significa que
+
+55
+00:02:42,429 --> 00:02:45,819
+o aquela requisição não foi modificada, Pode usar do
+
+56
+00:02:45,830 --> 00:02:47,538
+cash porque não mudou nada.
+
+57
+00:02:47,550 --> 00:02:53,599
+Tá bom ao nível do servidor tá? Eh aqui
+
+58
+00:02:53,610 --> 00:03:00,319
+eu teria uma eh basicamente uma eh serviço em do
+
+59
+00:03:00,330 --> 00:03:06,819
+express usando um diretório público tá e tag t t
+
+60
+00:03:08,020 --> 00:03:10,659
+que que eu tô fazendo aqui, né Eu tô
+
+61
+00:03:10,669 --> 00:03:16,270
+eh guardando algumas informações naquele né, eh pra dizer
+
+62
+00:03:16,278 --> 00:03:19,949
+se aquele arquivo foi eh se vou usar cash ou
+
+63
+00:03:19,960 --> 00:03:23,808
+não, né Então assim primeira coisa que eu faço
+
+64
+00:03:23,819 --> 00:03:26,969
+é verificar eh os arquivos que eu quero fazer o
+
+65
+00:03:26,979 --> 00:03:30,229
+cash, né? Então assim os h t ML
+
+66
+00:03:30,240 --> 00:03:33,308
+ele tá colocando assim cast contra o ca e o
+
+67
+00:03:33,319 --> 00:03:37,830
+outro eu tô colocando no pé f mage trinta e
+
+68
+00:03:37,838 --> 00:03:38,368
+um cinco.
+
+69
+00:03:38,379 --> 00:03:40,669
+Isso aqui na verdade é em mil segundos Tá?
+
+70
+00:03:40,679 --> 00:03:42,629
+Então o que eu tô dizendo é o seguinte eh
+
+71
+00:03:42,639 --> 00:03:44,788
+o, não significa que não vai usar o cash
+
+72
+00:03:44,800 --> 00:03:48,110
+tá? Eh não vai usar o cash se houver
+
+73
+00:03:48,118 --> 00:03:53,028
+modificações, tá existem restrições maiores do tipo desabilitar o
+
+74
+00:03:53,038 --> 00:03:56,860
+cash tá que é o never algumas outras opções então
+
+75
+00:03:56,868 --> 00:04:02,740
+você através dessas eh dos quando fala de né?
+
+76
+00:04:02,750 --> 00:04:05,740
+Aqui, quando fala de sete ca, contra o,
+
+77
+00:04:05,750 --> 00:04:09,360
+o sete contra o, você sai dizendo pro h
+
+78
+00:04:09,368 --> 00:04:11,399
+t ML que aqui você vai usar o Cash com
+
+79
+00:04:11,409 --> 00:04:14,740
+tal formato, né? Então ali eu estaria dizendo
+
+80
+00:04:14,750 --> 00:04:19,858
+que eh na hora de responder ao meu cliente que
+
+81
+00:04:19,869 --> 00:04:22,139
+é aquele né? Vai dizer o seguinte Olha,
+
+82
+00:04:22,149 --> 00:04:23,439
+usa o cast de tal forma.
+
+83
+00:04:23,699 --> 00:04:26,309
+Então assim que você controla o uso do cash a
+
+84
+00:04:26,319 --> 00:04:29,269
+parte do servidor ao nível do cliente, né,
+
+85
+00:04:29,278 --> 00:04:31,269
+vai dizendo o que que pode ou não pode ser
+
+86
+00:04:31,278 --> 00:04:33,428
+guardado em cache? E é importante porque, por
+
+87
+00:04:33,439 --> 00:04:35,389
+exemplo, tem coisa que é uma tela de login
+
+88
+00:04:35,399 --> 00:04:38,149
+não pode ser guardado em CA aquilo não pode usar
+
+89
+00:04:38,160 --> 00:04:41,019
+cash de forma alguma tá? Até porque seria uma
+
+90
+00:04:41,028 --> 00:04:44,559
+falha de segurança, né Aqui esse express está só
+
+91
+00:04:44,569 --> 00:04:47,069
+tá dizendo que ele vai usar um diretório fornecido pelo
+
+92
+00:04:47,079 --> 00:04:47,470
+express.
+
+93
+00:04:47,480 --> 00:04:51,189
+Como dissesse o seguinte O diretório tal vai ser fornecido
+
+94
+00:04:51,199 --> 00:04:55,519
+pelo express Beleza De forma pública, né? Eh
+
+95
+00:04:55,528 --> 00:04:59,178
+Então você não tem requisição e resposta pra aquilo!
+
+96
+00:04:59,189 --> 00:05:01,199
+Você tem na verdade, o que barra pública e
+
+97
+00:05:01,209 --> 00:05:05,139
+barra Alguma coisa pra poder acessar? Qualquer daqueles recursos
+
+98
+00:05:05,750 --> 00:05:10,319
+bom no servidor, eu vou usar o Redi tá
+
+99
+00:05:10,329 --> 00:05:14,879
+eh em termos de um aplicativo do eu vou ter
+
+100
+00:05:14,889 --> 00:05:16,759
+que dar um n PM está o redis, né?
+
+101
+00:05:16,769 --> 00:05:20,939
+Esse redi vai ser pra poder gerenciar informações em cash
+
+102
+00:05:20,949 --> 00:05:24,079
+no Redis, né? São pares do tipo chave
+
+103
+00:05:24,088 --> 00:05:27,009
+valor, Então, aqui, por exemplo, eu
+
+104
+00:05:27,019 --> 00:05:28,899
+teria alguma resposta qualquer.
+
+105
+00:05:28,910 --> 00:05:36,420
+Por exemplo, a cinco covid dezenove Jason, né
+
+106
+00:05:36,819 --> 00:05:40,149
+Isso aí seria a a nível de Java script Amas
+
+107
+00:05:40,160 --> 00:05:44,350
+eh uma consulta em h T P Ele vai consultar
+
+108
+00:05:44,358 --> 00:05:48,750
+aquele endereço e vai receber resposta em Jason, né?
+
+109
+00:05:48,759 --> 00:05:52,449
+Bom, esse endereço realmente até existe tá? E
+
+110
+00:05:52,459 --> 00:05:55,949
+aí? Você estaria acessando um servidor qualquer, mas
+
+111
+00:05:55,959 --> 00:05:59,949
+se o seu serviço do seu servidor do seu aplicativo
+
+112
+00:05:59,959 --> 00:06:02,869
+tem uma informação que é baseada nessa consulta, mas
+
+113
+00:06:02,879 --> 00:06:05,209
+é uma informação que eh varia mais O que se
+
+114
+00:06:05,220 --> 00:06:09,959
+você teria menos eh variação nessa informação original, né?
+
+115
+00:06:09,970 --> 00:06:11,559
+Cê, Ah, esse cara aqui é atualizado de
+
+116
+00:06:11,569 --> 00:06:12,439
+tantas em tantas horas.
+
+117
+00:06:12,449 --> 00:06:14,639
+Por que eu vou consultar toda hora, né?
+
+118
+00:06:14,649 --> 00:06:23,548
+Então eu posso fazer o seguinte oh tá esse pra
+
+119
+00:06:23,559 --> 00:06:27,699
+Wi fi é pra transformar esse, né.
+
+120
+00:06:27,709 --> 00:06:30,619
+Que seria o do rez? Eh em um elemento
+
+121
+00:06:30,629 --> 00:06:32,889
+A sí Crono é bem importante em algumas situações,
+
+122
+00:06:32,899 --> 00:06:35,709
+tá pra poder usar por exemplo a Wait, então
+
+123
+00:06:35,720 --> 00:06:42,850
+que eu vou fazer aqui oh Covid assim que a
+
+124
+00:06:42,858 --> 00:06:46,899
+Wait Rez Gatt a cinco Que covid tá então assim,
+
+125
+00:06:46,910 --> 00:06:49,709
+o que que ele vai fazer aqui? Tenta pegar
+
+126
+00:06:49,720 --> 00:06:50,500
+primeiro do cash.
+
+127
+00:06:50,509 --> 00:06:53,250
+Se tiver no cash vai usar tá? Eu poderia
+
+128
+00:06:53,259 --> 00:06:55,910
+fazer um teste qualquer, né? Ah, e
+
+129
+00:06:55,920 --> 00:06:59,809
+se não tiver, ele vai ter aqui se status
+
+130
+00:06:59,819 --> 00:07:01,730
+foi diferente de nulo, ou seja, conseguiu pegar
+
+131
+00:07:01,738 --> 00:07:05,528
+do cash status duzentos sem Jason par status, ou
+
+132
+00:07:05,540 --> 00:07:07,290
+seja, vai jogar a resposta que tem lá no
+
+133
+00:07:07,298 --> 00:07:10,250
+cash, se não, né? O retorne aqui
+
+134
+00:07:10,259 --> 00:07:15,170
+Garante que para a execução Watt covid dezenove sete e
+
+135
+00:07:15,178 --> 00:07:18,290
+x covid três mil e seiscentos segundos que que ele
+
+136
+00:07:18,298 --> 00:07:22,040
+tá falando aqui? Guarda no Redis a consulta que
+
+137
+00:07:22,048 --> 00:07:25,778
+eu acabei de fazer por três mil e seiscentos segundos
+
+138
+00:07:25,790 --> 00:07:28,059
+três mil e seiscentos segundos foi da uma hora,
+
+139
+00:07:28,829 --> 00:07:32,600
+né, Eh então, assim ele só vai consultar
+
+140
+00:07:32,608 --> 00:07:36,220
+novamente aquele site original daqui a uma hora, porque
+
+141
+00:07:36,230 --> 00:07:38,639
+é a hora que vai expirar essa informação no Redis.
+
+142
+00:07:38,649 --> 00:07:41,920
+É importante essa questão do Redi o fato dele controlar.
+
+143
+00:07:41,928 --> 00:07:42,899
+Ah assim.
+
+144
+00:07:42,910 --> 00:07:46,199
+Ah, quanto demora pra expirar a tal informação ali,
+
+145
+00:07:46,209 --> 00:07:53,040
+né? Bom, então essas são informações gerais sobre
+
+146
+00:07:53,048 --> 00:07:55,480
+controle, né? de cookies e de cash,
+
+147
+00:07:55,488 --> 00:07:59,439
+né? De forma geral, direção de seção Uso
+
+148
+00:07:59,449 --> 00:08:02,519
+de cast Controle são a forma como você trabalha,
+
+149
+00:08:02,528 --> 00:08:07,000
+com elementos de persistência, guarda de informações e pra
+
+150
+00:08:07,009 --> 00:08:10,678
+acelerar também Ah, a execução do aplicativo a gente
+
+151
+00:08:10,689 --> 00:08:11,678
+fica então por aqui.
+
+152
+00:08:11,689 --> 00:08:14,798
+Espero ter agregado conhecimento, bons estudos e até a
+
+153
+00:08:14,809 --> 00:08:15,178
+próxima.
+

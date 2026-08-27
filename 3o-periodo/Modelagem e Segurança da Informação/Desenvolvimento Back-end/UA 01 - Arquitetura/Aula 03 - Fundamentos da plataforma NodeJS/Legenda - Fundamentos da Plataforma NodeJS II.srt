@@ -1,0 +1,560 @@
+1
+00:00:06,238 --> 00:00:09,429
+vamos falar um pouquinho sobre a síntese do Java script,
+
+2
+00:00:09,439 --> 00:00:12,769
+né? É importante dizer que o Java script hoje
+
+3
+00:00:12,778 --> 00:00:15,189
+em dia só se chama Java Script por causa da
+
+4
+00:00:15,198 --> 00:00:17,809
+história dele, né? Na verdade, hoje em
+
+5
+00:00:17,818 --> 00:00:21,530
+dia quem gerencia o Java script é a Ema Eco,
+
+6
+00:00:21,539 --> 00:00:25,609
+que seria uma junção de empresas que trabalham nesse sentido.
+
+7
+00:00:25,620 --> 00:00:29,329
+E quem é a versão atual, né? Do
+
+8
+00:00:29,339 --> 00:00:31,670
+jovem script é o ec né? O? E
+
+9
+00:00:31,989 --> 00:00:34,639
+então quando você vê algum erro, por exemplo,
+
+10
+00:00:34,649 --> 00:00:37,439
+quando vai trabalhar com s, aparece lá erro de
+
+11
+00:00:37,450 --> 00:00:40,240
+e s seis O e S seis é o emap
+
+12
+00:00:40,250 --> 00:00:42,759
+que é o javascript, ou seja, você cometeu
+
+13
+00:00:42,770 --> 00:00:45,539
+um erro de sí, né? E eh o
+
+14
+00:00:45,548 --> 00:00:46,000
+emas.
+
+15
+00:00:46,009 --> 00:00:48,478
+Ele é muito diferente do Java script tradicional.
+
+16
+00:00:48,490 --> 00:00:52,259
+Ele traz uma assim uma abordagem mais oriental do objeto
+
+17
+00:00:52,270 --> 00:00:54,728
+e também com suporte de elementos funcionais, o que
+
+18
+00:00:54,740 --> 00:00:58,598
+facilita bastante a criação de elementos acon de forma geral.
+
+19
+00:00:58,609 --> 00:01:03,469
+Vamos ver como isso funciona, então sinta que suja
+
+20
+00:01:03,478 --> 00:01:05,959
+script eh.
+
+21
+00:01:05,969 --> 00:01:09,980
+Antigamente você definia uma variável no Java script com var,
+
+22
+00:01:09,989 --> 00:01:12,219
+né? Mas o var tinha uma coisa chamada fuga
+
+23
+00:01:12,230 --> 00:01:14,948
+de escopo, né? Você tinha uma variável que
+
+24
+00:01:14,959 --> 00:01:17,939
+deveria, tá num escopo específico, mas ela existia
+
+25
+00:01:17,948 --> 00:01:21,180
+fora desse escopo, então você tinha problemasàs vezes
+
+26
+00:01:21,189 --> 00:01:24,099
+pra definir e redefinir uma variável eh.
+
+27
+00:01:24,109 --> 00:01:27,278
+Atualmente você pode definir uma variável com um let onde
+
+28
+00:01:27,290 --> 00:01:29,319
+ela pode mudar o valor e conste que ela não
+
+29
+00:01:29,329 --> 00:01:30,519
+pode mudar o valor.
+
+30
+00:01:30,528 --> 00:01:34,239
+Os operadores aritméticos relacionais e lógicos tem a soma subtração
+
+31
+00:01:34,250 --> 00:01:36,870
+multiplicação a divisão da forma tradicional.
+
+32
+00:01:36,879 --> 00:01:40,150
+O percent é o resto da divisão e maior igual
+
+33
+00:01:40,159 --> 00:01:42,760
+ou menor igual são os relacionados os lógicos o e
+
+34
+00:01:42,769 --> 00:01:47,879
+dois eixos comerciais ou dois pipes né eh Quando você
+
+35
+00:01:47,888 --> 00:01:50,879
+fala desses operadores eh aritméticos.
+
+36
+00:01:50,888 --> 00:01:54,480
+Uma diferença muito importante quando se fala de C e
+
+37
+00:01:54,489 --> 00:01:59,519
+de javascript no c cinco por dois dá dois por
+
+38
+00:01:59,528 --> 00:02:01,918
+serem inteiros, ele divide de forma inteira no Java
+
+39
+00:02:01,930 --> 00:02:03,028
+script de cinco por dois.
+
+40
+00:02:03,040 --> 00:02:05,418
+Dá dois ponto cinco porque ele não reconhece inteiro o
+
+41
+00:02:05,430 --> 00:02:07,739
+ponto flutuante pra ele tudo é number, né?
+
+42
+00:02:08,449 --> 00:02:12,139
+Eh controle de decisão tradicionais e f e s,
+
+43
+00:02:12,149 --> 00:02:15,258
+né? Então você tem lá eh comandos tipo C
+
+44
+00:02:15,270 --> 00:02:19,338
+então c não cê tem lá, eh também são
+
+45
+00:02:19,349 --> 00:02:23,229
+os comandos que ele oferece e repetição através de for
+
+46
+00:02:23,240 --> 00:02:27,058
+do, né O for pra poder ter um limite,
+
+47
+00:02:27,069 --> 00:02:30,038
+né você seja, talvez a a instrução mais poderosa
+
+48
+00:02:30,050 --> 00:02:33,778
+de repetição em que você tem, eh início o
+
+49
+00:02:33,788 --> 00:02:36,379
+teste e o incremento Tá? Só que esse início
+
+50
+00:02:36,389 --> 00:02:40,050
+o incremento pode ter vários elementos tá? E a
+
+51
+00:02:40,058 --> 00:02:43,879
+impressão console ponto Lock vamos ver aqui eu tenho um
+
+52
+00:02:43,889 --> 00:02:46,729
+exemplo for lette igual a um e menor que dez
+
+53
+00:02:46,740 --> 00:02:49,729
+e mais mais, que significa para a variável I,
+
+54
+00:02:49,740 --> 00:02:52,808
+começando com o valor em um, indo até o
+
+55
+00:02:52,819 --> 00:02:55,189
+valor dez, incrementando o de um em um,
+
+56
+00:02:55,199 --> 00:02:58,679
+imprima o valor de i e depois, se hiper
+
+57
+00:02:58,689 --> 00:02:59,558
+cento dois igual a zero.
+
+58
+00:02:59,569 --> 00:03:01,199
+Se o resto da divisão por dois for zero,
+
+59
+00:03:01,210 --> 00:03:03,080
+imprima o número par se não o número ímpar.
+
+60
+00:03:03,088 --> 00:03:07,750
+Esse exemplo é pequeno, a gente pode implementaram algo
+
+61
+00:03:07,758 --> 00:03:14,969
+assim rapidamente, né? Ahàs vezes a complementação
+
+62
+00:03:14,979 --> 00:03:16,469
+de código acaba atrapalhando a gente.
+
+63
+00:03:19,778 --> 00:03:29,240
+Dez mais mais console ponto blog Colocar, só E?
+
+64
+00:03:31,409 --> 00:03:43,270
+If? Sete dois igual a zero console ponto blog
+
+65
+00:03:45,550 --> 00:03:53,419
+pá E se eu quisesse, poderia colocar um els
+
+66
+00:03:53,429 --> 00:03:56,449
+aqui também, né? Ah, vou só a
+
+67
+00:03:56,460 --> 00:03:58,069
+afirmar quais são os pares.
+
+68
+00:03:58,080 --> 00:04:02,788
+Então aqui eu vou executar como sempre node e né,
+
+69
+00:04:02,800 --> 00:04:04,099
+que seria o meu arquivo.
+
+70
+00:04:04,110 --> 00:04:07,868
+E ele vai lá imprimir os valores, colocando embaixo
+
+71
+00:04:07,879 --> 00:04:10,469
+daqueles que são pares a palavrinha par, né?
+
+72
+00:04:10,479 --> 00:04:15,179
+Bom, vamos voltar pra lá, então essa aqui
+
+73
+00:04:15,189 --> 00:04:15,710
+é o for.
+
+74
+00:04:15,719 --> 00:04:19,420
+Eu posso ter quantos elementos eu quiser na inicialização e
+
+75
+00:04:19,428 --> 00:04:20,500
+no incremento.
+
+76
+00:04:20,509 --> 00:04:22,428
+Então eu poderia colocar, por exemplo a igual a
+
+77
+00:04:22,439 --> 00:04:25,230
+um vírgula b igual a cinco vírgula C igual a
+
+78
+00:04:25,238 --> 00:04:28,660
+noventa enquanto a for menor é igual a cedido por
+
+79
+00:04:28,670 --> 00:04:31,939
+b né ponto e vírgula a mais mais b,
+
+80
+00:04:31,949 --> 00:04:34,500
+menos menos c vezes igual cinco Então eu posso colocar
+
+81
+00:04:34,509 --> 00:04:38,778
+ali coisas bem diferentes daquele para faça tradicional que seria
+
+82
+00:04:38,790 --> 00:04:40,738
+para aí de um a dez né? Ou coisa
+
+83
+00:04:40,750 --> 00:04:44,920
+do tipo eh Definição de funções através de function na
+
+84
+00:04:44,928 --> 00:04:50,028
+forma tradicional tá então no Java script tradicional eh a
+
+85
+00:04:50,040 --> 00:04:53,639
+definição de uma função através da palavra function, mas
+
+86
+00:04:53,649 --> 00:04:57,540
+quando eu falo do xmas você pode definir através de
+
+87
+00:04:57,548 --> 00:05:01,519
+arti que seria a função de seta tá eh Então
+
+88
+00:05:01,528 --> 00:05:05,259
+eu tenho aqui function somar a b retornar mais b,
+
+89
+00:05:05,269 --> 00:05:06,759
+ou seja, se eu chamar esse somar passando dois
+
+90
+00:05:06,769 --> 00:05:09,939
+números vai retornar a soma no formato novo eu vou
+
+91
+00:05:09,949 --> 00:05:16,259
+escrever Let somar é igual a b setinha retorne a
+
+92
+00:05:16,269 --> 00:05:19,420
+mais b mudou a forma de escrever, né?
+
+93
+00:05:19,428 --> 00:05:22,899
+Pode ser também eh E se ele só retorna a
+
+94
+00:05:22,910 --> 00:05:24,019
+um valor você não precisa.
+
+95
+00:05:24,028 --> 00:05:26,488
+Pode omitir o retorno pode ser Let somar a b
+
+96
+00:05:26,500 --> 00:05:30,139
+a mais b esse formato a function ele segue o
+
+97
+00:05:30,149 --> 00:05:33,750
+paradigma funcional e ele é muito importante que permite definir
+
+98
+00:05:33,759 --> 00:05:37,379
+funções anônimas a qualquer momento e vai ser importante na
+
+99
+00:05:37,389 --> 00:05:43,778
+definição de cabe, né Bom vetores são na forma
+
+100
+00:05:43,790 --> 00:05:46,699
+de lista, o que significa eh, Ao contrário
+
+101
+00:05:46,709 --> 00:05:49,459
+de um vetor que tem tamanho fixo, ele consegue
+
+102
+00:05:49,470 --> 00:05:51,579
+acrescentar e remover elementos.
+
+103
+00:05:51,588 --> 00:05:54,088
+Tá então eu tenho um vetor um vetor dois aqui
+
+104
+00:05:54,100 --> 00:05:56,500
+é um vetor com quatro números um vetor vazio,
+
+105
+00:05:56,509 --> 00:05:59,699
+ou posso colocar ray que seria a de vetor?
+
+106
+00:05:59,709 --> 00:06:02,939
+Tá? Se eu quiser acrescentar uma informação no vetor,
+
+107
+00:06:02,949 --> 00:06:05,338
+eu posso usar o push, né? E eu
+
+108
+00:06:05,350 --> 00:06:08,600
+posso usar um outro tipo de que é o f
+
+109
+00:06:09,059 --> 00:06:11,970
+fort? A off vetor um, que seria para
+
+110
+00:06:11,980 --> 00:06:16,269
+cada elemento a pertencente ao vetor um imprima, né?
+
+111
+00:06:16,278 --> 00:06:19,149
+Nesse caso aqui ele imprimiria os números um, três,
+
+112
+00:06:19,160 --> 00:06:25,389
+cinco e sete tá bom e também tenho a definição
+
+113
+00:06:25,399 --> 00:06:31,548
+de classes tá Ah, na versão antiga do Java,
+
+114
+00:06:31,559 --> 00:06:35,949
+você definia uma function para definir uma classe, né?
+
+115
+00:06:35,959 --> 00:06:38,790
+Então o que você tinha era uma função e tirava
+
+116
+00:06:38,798 --> 00:06:40,189
+uma nova instância daquela função.
+
+117
+00:06:40,199 --> 00:06:44,028
+Nota Isso não é Jason Jason define objetos que eu
+
+118
+00:06:44,040 --> 00:06:47,470
+falo Definição de classes uma classe é através da palavra
+
+119
+00:06:47,480 --> 00:06:50,869
+function E aí através da classe eu posso gerar objetos
+
+120
+00:06:50,879 --> 00:06:54,269
+usando a palavra ne, né? Então no formato
+
+121
+00:06:54,278 --> 00:06:57,850
+antigo uma classe de uma pessoa seria function, pessoa,
+
+122
+00:06:58,209 --> 00:07:01,059
+nome, idade diz ponto Nome igual nome diz ponto
+
+123
+00:07:01,069 --> 00:07:05,819
+idade igual a idade no formato novo class pessoa construtor,
+
+124
+00:07:05,829 --> 00:07:08,858
+nome e idade E aí eu tenho a mesma referência,
+
+125
+00:07:08,869 --> 00:07:11,059
+né? Então ele já no emas, ele já
+
+126
+00:07:11,069 --> 00:07:12,540
+tá mais organizado.
+
+127
+00:07:12,548 --> 00:07:16,379
+Ele já tá vindo com esse foco que é de
+
+128
+00:07:16,389 --> 00:07:20,338
+eh programação orientada a objeto, né? Bom,
+
+129
+00:07:20,350 --> 00:07:26,379
+então esses são os elementos principais em termos de programação
+
+130
+00:07:26,389 --> 00:07:28,500
+jovem script com emas.
+
+131
+00:07:28,509 --> 00:07:33,980
+É importante saber essas pequenas diferenças e ver como utilizar
+
+132
+00:07:33,988 --> 00:07:38,410
+os elementos básicos da linguagem no ambiente do em geral.
+
+133
+00:07:38,420 --> 00:07:41,059
+A gente trabalha com elementos básicos e se aproveita da
+
+134
+00:07:41,069 --> 00:07:45,889
+funcionalidade das bibliotecas, Mas o mínimo pra se conhecer
+
+135
+00:07:45,899 --> 00:07:49,088
+são esses controles de fluxo, essa definição de classes,
+
+136
+00:07:49,100 --> 00:07:51,588
+definição de variáveis, a forma como se utiliza a
+
+137
+00:07:51,600 --> 00:07:54,170
+linguagem em termos bastante básicos.
+
+138
+00:07:54,178 --> 00:07:56,649
+A partir daí é a questão de saber como usar
+
+139
+00:07:56,660 --> 00:07:59,019
+cada uma das bibliotecas que a gente for precisando ao
+
+140
+00:07:59,028 --> 00:07:59,949
+longo do tempo.
+

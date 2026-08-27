@@ -1,0 +1,736 @@
+1
+00:00:05,879 --> 00:00:07,780
+Olá aluno Professor Fabrício Melo.
+
+2
+00:00:07,788 --> 00:00:09,089
+É um grande prazer estar aqui.
+
+3
+00:00:09,099 --> 00:00:11,509
+Vamos trabalhar com o nosso módulo aí de tipos de
+
+4
+00:00:11,519 --> 00:00:13,648
+rede sem fio, que está dentro da matéria de
+
+5
+00:00:13,659 --> 00:00:14,448
+rede sem fio.
+
+6
+00:00:14,460 --> 00:00:17,908
+Quais são aí os tipos de rede sem fio que
+
+7
+00:00:17,920 --> 00:00:20,530
+nós temos aí no mercado? Vamos falar em questão
+
+8
+00:00:20,539 --> 00:00:25,853
+de abrangência e tecnologias, abrangência geografica, gráfica,
+
+9
+00:00:25,864 --> 00:00:28,013
+né? Que seria uma espécie de distância.
+
+10
+00:00:28,024 --> 00:00:30,254
+Começamos com a W Pan, olha que você já
+
+11
+00:00:30,263 --> 00:00:31,054
+viu isso.
+
+12
+00:00:31,065 --> 00:00:34,454
+Quando nós falamos aí da abrangência geográfica, só com
+
+13
+00:00:34,465 --> 00:00:36,853
+relação a conceitual, a gente não viu a Pan,
+
+14
+00:00:36,865 --> 00:00:39,375
+que era a famosa personal, a Área Network,
+
+15
+00:00:39,384 --> 00:00:41,215
+traduzindo como rede pessoal.
+
+16
+00:00:41,223 --> 00:00:44,293
+Quando você vê esse w aqui aluno, esse W
+
+17
+00:00:44,304 --> 00:00:48,590
+é de o que significa sem fio, como a
+
+18
+00:00:48,598 --> 00:00:50,348
+gente tá falando, de tipos de rede sem fio,
+
+19
+00:00:50,359 --> 00:00:52,709
+ou seja, é uma rede sem fio pessoal,
+
+20
+00:00:52,719 --> 00:00:54,868
+geralmente abrangente, de dez metros, como por exemplo,
+
+21
+00:00:54,880 --> 00:00:58,700
+o Bluetooth, então o seu Bluetooth tá operando aí
+
+22
+00:00:58,709 --> 00:00:59,700
+numa W pan.
+
+23
+00:00:59,709 --> 00:01:02,219
+Temos também a W lan, que é abrangência local,
+
+24
+00:01:02,228 --> 00:01:04,808
+tá vendo é o Local Network.
+
+25
+00:01:04,819 --> 00:01:07,099
+Ou seja, uma rede local, né? Sem
+
+26
+00:01:07,109 --> 00:01:11,180
+fio, usada pela wi-fi oitocentos e dois ponto onze
+
+27
+00:01:11,189 --> 00:01:13,838
+E temos a W M, que é o que
+
+28
+00:01:13,849 --> 00:01:17,379
+a Metropolita Área Network seja uma rede sem fio,
+
+29
+00:01:17,388 --> 00:01:20,138
+né? Metropolitana, por exemplo, a IMAX,
+
+30
+00:01:20,150 --> 00:01:24,144
+que opera com sistemas de antenas aí cercando o município,
+
+31
+00:01:24,153 --> 00:01:26,963
+é uma cidade e temos a W o que é
+
+32
+00:01:26,974 --> 00:01:29,844
+as redes de grande abrangência, né? Que operam
+
+33
+00:01:29,855 --> 00:01:33,263
+aí, né? Eh países inteiro, por exemplo,
+
+34
+00:01:33,275 --> 00:01:34,984
+que é mais eh continentes que aí.
+
+35
+00:01:34,995 --> 00:01:37,784
+Você tem as tecnologias móveis como a cinco g,
+
+36
+00:01:37,793 --> 00:01:39,745
+quatro g, três g, CD, M,
+
+37
+00:01:39,754 --> 00:01:42,665
+A, L t e que são as tecnologias utilizadas
+
+38
+00:01:42,674 --> 00:01:44,305
+por sistemas celulares.
+
+39
+00:01:44,314 --> 00:01:47,064
+Okay, Então essas são os tipos de redes sem
+
+40
+00:01:47,073 --> 00:01:47,344
+fios.
+
+41
+00:01:47,355 --> 00:01:48,424
+Aí, o que que a gente vai ter que
+
+42
+00:01:48,433 --> 00:01:52,040
+saber quando a gente vai falar da rede wi-fi a
+
+43
+00:01:52,049 --> 00:01:55,000
+oitocentos e dois ponto onze, lembrando que o wi-fi
+
+44
+00:01:55,010 --> 00:01:58,859
+ela é uma marca registrada Tá da wi-fi aliance que
+
+45
+00:01:58,870 --> 00:02:01,480
+é utilizada por produtos certificados por essa associação.
+
+46
+00:02:01,489 --> 00:02:04,939
+Ou seja, quando você compra um um dispositivo você
+
+47
+00:02:04,948 --> 00:02:07,439
+pode ver um um computador e vem lá com símbolo
+
+48
+00:02:07,448 --> 00:02:08,020
+wi-fi.
+
+49
+00:02:08,288 --> 00:02:11,819
+Quer dizer que esse dispositivo ele foi certificado por essa
+
+50
+00:02:11,830 --> 00:02:16,558
+aliança e ele vai poder participar da conexão das redes
+
+51
+00:02:16,569 --> 00:02:17,179
+wi-fi.
+
+52
+00:02:17,189 --> 00:02:20,860
+Se o fabricar um dispositivo que não é compatível,
+
+53
+00:02:20,868 --> 00:02:22,580
+eu meio que fico fora da turma, né?
+
+54
+00:02:22,588 --> 00:02:26,058
+eu fico fora porque o wi-fi realmente pegou no mercado,
+
+55
+00:02:26,069 --> 00:02:29,278
+né? Então vai pertencer tá vendo a classe dispositivo
+
+56
+00:02:29,288 --> 00:02:32,460
+de rede local baseados no padrão i e oitocentos e
+
+57
+00:02:32,469 --> 00:02:33,740
+dois ponto onze.
+
+58
+00:02:33,750 --> 00:02:36,500
+Quais são os padrões? Você tem aí o padrão
+
+59
+00:02:36,508 --> 00:02:39,599
+oitocentos e dois ponto onze trabalhava com uma frequência de
+
+60
+00:02:39,610 --> 00:02:43,219
+dois ponto quatro gigahertz, né? Eh velocidade de
+
+61
+00:02:43,229 --> 00:02:46,399
+até dois megabits por segundo, depois vem a oitocentos
+
+62
+00:02:46,409 --> 00:02:49,229
+e dois ponto onze a que oh passou a operar
+
+63
+00:02:49,240 --> 00:02:54,058
+com cinco gigahertz até cinquenta e quatro megabits só com
+
+64
+00:02:54,069 --> 00:02:57,099
+uma pequena área de cobertura Porque frequência maior, área
+
+65
+00:02:57,110 --> 00:03:01,139
+menor frequência menor área maior tá tá vendo oh menos
+
+66
+00:03:01,149 --> 00:03:04,808
+eficaz em nas estruturas dos edifícios e ela não era
+
+67
+00:03:04,819 --> 00:03:08,199
+compatível com os padrões b e o g O B
+
+68
+00:03:08,210 --> 00:03:10,849
+oh é o que trabalha com dois ponto quatro não
+
+69
+00:03:10,860 --> 00:03:12,250
+tinha compatibilidade com ele.
+
+70
+00:03:12,258 --> 00:03:14,288
+Então cê tinha que ter, por exemplo, dois
+
+71
+00:03:14,300 --> 00:03:17,808
+roteadores, cada um com uma frequência, por exemplo
+
+72
+00:03:17,819 --> 00:03:21,028
+tá vendo E a G que que é a G
+
+73
+00:03:21,819 --> 00:03:24,689
+tem de interessante, A G trabalha com dois ponto
+
+74
+00:03:24,699 --> 00:03:27,308
+quatro e ela é retro compatível com a B.
+
+75
+00:03:27,319 --> 00:03:30,270
+Ou seja, então se você tem lá um roteador
+
+76
+00:03:30,278 --> 00:03:33,710
+que utilizava a tecnologia G e você tinha um dispositivo
+
+77
+00:03:33,719 --> 00:03:34,750
+que ainda era b.
+
+78
+00:03:34,758 --> 00:03:39,909
+Você conseguia fazer essa retrocompatibilidade? Eu faço muita comparação
+
+79
+00:03:39,919 --> 00:03:42,899
+é igual quando você vai Eh cê tem lá,
+
+80
+00:03:42,909 --> 00:03:45,919
+por exemplo, um videogame, um playstation cinco e
+
+81
+00:03:45,929 --> 00:03:48,270
+ele puder rodar jogos do quatro, por exemplo.
+
+82
+00:03:48,278 --> 00:03:51,750
+Então cê tem uma retro, né Alimentação ali do
+
+83
+00:03:51,758 --> 00:03:54,868
+jogo tá depois temos a n oh a a aí
+
+84
+00:03:54,879 --> 00:03:56,679
+já veio bem, porque a Anne já passou a
+
+85
+00:03:56,689 --> 00:03:58,949
+trabalhar com duas frequências.
+
+86
+00:03:58,960 --> 00:04:01,270
+Tá vendo a dois ponto quatro e a cinco.
+
+87
+00:04:01,278 --> 00:04:04,588
+Tá vendo velocidade de cento e cinquenta seiscentos megas distância
+
+88
+00:04:04,599 --> 00:04:07,729
+de até setenta metros, né? Os clientes sem
+
+89
+00:04:07,740 --> 00:04:09,409
+fio usando a tecnologia mimo, oh! Que é
+
+90
+00:04:09,419 --> 00:04:11,729
+aquela antena que a gente viu aí pra trás tá
+
+91
+00:04:11,740 --> 00:04:14,508
+vendo suporta, ou seja, várias antenas.
+
+92
+00:04:14,520 --> 00:04:16,759
+Por isso que você eu tinha aqueles roteadores já com
+
+93
+00:04:16,769 --> 00:04:20,480
+duas quatro antenas e ela é compatível com a tecnologia
+
+94
+00:04:20,488 --> 00:04:23,040
+a, b, né? E a g as
+
+95
+00:04:23,048 --> 00:04:26,238
+anteriores aí temos a c que trabalha com a frequência
+
+96
+00:04:26,250 --> 00:04:30,838
+de cinco gigahertz a C olha lá taxas de velocidades
+
+97
+00:04:30,850 --> 00:04:31,920
+bem altas.
+
+98
+00:04:31,928 --> 00:04:35,559
+Cê tem até oito antenas, podem ser suportadas e
+
+99
+00:04:35,569 --> 00:04:39,149
+ela também é retro compatível e temos aí a x.
+
+100
+00:04:39,160 --> 00:04:43,389
+Olha que interessante a x a x trabalha com concorrência
+
+101
+00:04:43,399 --> 00:04:45,350
+de dois ponto quatro e cinco gigahertz.
+
+102
+00:04:45,358 --> 00:04:49,750
+Os dois é a famosa wi-fi de sexta geração,
+
+103
+00:04:49,759 --> 00:04:53,548
+né? Taxa de dados mais altas suporta muitos dispositivos
+
+104
+00:04:53,559 --> 00:04:57,639
+conectados, Possui muita eficiência energética e pode operar um
+
+105
+00:04:57,649 --> 00:05:00,369
+a sete gigahertz quando as frequências estão não.
+
+106
+00:05:00,459 --> 00:05:04,548
+Então hoje tem roteadores vem, vem lá quatro antenas
+
+107
+00:05:04,559 --> 00:05:07,100
+e trabalha com as duas frequências, Por exemplo,
+
+108
+00:05:07,108 --> 00:05:07,178
+o meu.
+
+109
+00:05:07,189 --> 00:05:09,548
+O que eu tenho lá em casa ele escolhe o
+
+110
+00:05:09,559 --> 00:05:10,790
+melhor sinal.
+
+111
+00:05:10,798 --> 00:05:13,949
+Ele troca dois ponto quatro ou cinco de maneira automática.
+
+112
+00:05:13,959 --> 00:05:15,069
+Não sei se cê já viu queàs vezes você
+
+113
+00:05:15,079 --> 00:05:16,028
+tem na sua casa.
+
+114
+00:05:16,040 --> 00:05:18,829
+Aí tem um sinal dois ponto quatro e o cinco
+
+115
+00:05:18,838 --> 00:05:22,428
+redes eh sinais concorrentes aí cê conga dois ponto quatro
+
+116
+00:05:22,439 --> 00:05:25,149
+ou na cinco você tem a opção hoje com roteadores
+
+117
+00:05:25,160 --> 00:05:29,449
+mais modernos que já faz eh automaticamente qual é a
+
+118
+00:05:29,459 --> 00:05:31,809
+melhor? Cê não tem que ficar trocando aí de
+
+119
+00:05:31,819 --> 00:05:36,149
+frequência okay e os modos de operação das redes sem
+
+120
+00:05:36,160 --> 00:05:36,709
+fios.
+
+121
+00:05:36,720 --> 00:05:38,709
+Cê tem o I B B S, que é
+
+122
+00:05:38,720 --> 00:05:42,028
+o famoso a C eu falar no modo da DOC,
+
+123
+00:05:42,040 --> 00:05:44,269
+que é dois ou mais dispositivos gente que a gente
+
+124
+00:05:44,278 --> 00:05:47,709
+conhece como S T A se conectam sem fio de
+
+125
+00:05:47,720 --> 00:05:48,750
+maneira ponto a ponto.
+
+126
+00:05:48,759 --> 00:05:51,019
+Cê não tem ali um roteador Cê não tem um
+
+127
+00:05:51,028 --> 00:05:53,988
+distribuidor, né, como Bluetooth, por exemplo,
+
+128
+00:05:54,000 --> 00:05:57,970
+já viu ali o o do iPhone Cê ativa o
+
+129
+00:05:57,980 --> 00:06:01,319
+D e passa ali fotos Vídeos em alta qualidade é
+
+130
+00:06:01,329 --> 00:06:03,608
+um modo de operação I B S s, ou
+
+131
+00:06:03,619 --> 00:06:06,009
+seja, é um modo independente de transmissão.
+
+132
+00:06:06,019 --> 00:06:06,569
+Tá.
+
+133
+00:06:06,579 --> 00:06:10,488
+Outro modo é o sete service que é o B,
+
+134
+00:06:10,500 --> 00:06:11,250
+s S.
+
+135
+00:06:11,259 --> 00:06:14,329
+Esse você vai ter um único ponto de acesso que
+
+136
+00:06:14,338 --> 00:06:15,209
+é o d s.
+
+137
+00:06:15,220 --> 00:06:18,369
+Tá vendo oh, interconectam todos os clientes sem fios.
+
+138
+00:06:18,379 --> 00:06:21,569
+Então isso a gente usa muito aí nas nossas casas,
+
+139
+00:06:21,579 --> 00:06:25,220
+né? Nas redes wi-fi tradicionais tá vendo cada b
+
+140
+00:06:25,230 --> 00:06:28,178
+s s Vai ter o quê? Um identificador único,
+
+141
+00:06:28,189 --> 00:06:29,639
+que é o chamado de serv.
+
+142
+00:06:29,649 --> 00:06:32,220
+Sete Identifique ou seja é o identificador.
+
+143
+00:06:32,230 --> 00:06:34,399
+Cê vai ter uma rede identificada e você vai logar
+
+144
+00:06:34,410 --> 00:06:39,939
+ela através daquele roteador tá e temos o modo repetidor
+
+145
+00:06:39,949 --> 00:06:45,500
+que é quando você tem aluno um aponte oh envolvido,
+
+146
+00:06:45,509 --> 00:06:48,100
+né? No modo rude o que que acontece aí?
+
+147
+00:06:48,108 --> 00:06:53,069
+Você tá conectado e você tem um aponte que vai
+
+148
+00:06:53,079 --> 00:06:54,910
+o quê? Ampliar tá vendo oh lá, oh,
+
+149
+00:06:54,920 --> 00:06:58,509
+ele vai atuar como repetidor, Então você cê pega,
+
+150
+00:06:58,519 --> 00:07:02,088
+por exemplo hoje tem algumas operadoras de telefone que oferece
+
+151
+00:07:02,100 --> 00:07:02,970
+lá as famosas rede.
+
+152
+00:07:02,980 --> 00:07:07,449
+Mexe porque o sinal fica fraco e bota outro pra
+
+153
+00:07:07,459 --> 00:07:10,209
+reforçar o seu sinal, por exemplo, né?
+
+154
+00:07:10,220 --> 00:07:13,670
+E tem a s s que é a S estendida
+
+155
+00:07:13,899 --> 00:07:17,629
+que é Quando você unifica dois ou mais b s
+
+156
+00:07:17,639 --> 00:07:19,298
+s tá vendo Oh oh, eu tenho aqui o
+
+157
+00:07:19,309 --> 00:07:22,319
+b s s um que vem por um roteador e
+
+158
+00:07:22,329 --> 00:07:24,619
+um b s s dois que vem por outro e
+
+159
+00:07:24,629 --> 00:07:28,428
+eu consigo oh unificar elas tá vendo oh lá,
+
+160
+00:07:28,439 --> 00:07:31,319
+oh, podem se comunicar entre si, eu consigo
+
+161
+00:07:31,329 --> 00:07:35,588
+fazer essa união aí fazendo esses eh estendendo, né?
+
+162
+00:07:35,600 --> 00:07:37,290
+E tem um sistema meio de home.
+
+163
+00:07:37,649 --> 00:07:39,709
+Essa é uma técnica muito usada em hotel.
+
+164
+00:07:39,720 --> 00:07:41,939
+Cê vai lembrar tá vendo? É utilizado permitir que
+
+165
+00:07:41,949 --> 00:07:45,199
+um dispositivo móvel possa se mover entre as células do
+
+166
+00:07:45,209 --> 00:07:48,319
+B S s sempre se conectando ao ponto de acesso
+
+167
+00:07:48,329 --> 00:07:48,980
+mais próximo.
+
+168
+00:07:48,988 --> 00:07:52,619
+Cê já percebeu nos hotéis aí mais recentes? Cê
+
+169
+00:07:52,629 --> 00:07:55,358
+sai do seu quarto, entra no corredor.
+
+170
+00:07:55,369 --> 00:07:57,959
+Então cê perdeu o sinal do axis ponte do seu
+
+171
+00:07:57,970 --> 00:08:01,738
+quarto, mas cê já automaticamente conecta no axis ponte
+
+172
+00:08:01,750 --> 00:08:05,600
+do corredor ali do hotel, sem me nem perceber
+
+173
+00:08:05,608 --> 00:08:07,000
+Isso é feito de maneira automática.
+
+174
+00:08:07,009 --> 00:08:09,238
+cê tá trabalhando com um sistema de roaming? Tá,
+
+175
+00:08:09,250 --> 00:08:12,209
+ele vai trocando cada x ponte vai te conectando sem
+
+176
+00:08:12,220 --> 00:08:14,778
+você ter que ficar entrando em rede com senha e
+
+177
+00:08:14,790 --> 00:08:15,278
+etc.
+
+178
+00:08:15,290 --> 00:08:19,470
+Tá um sistema bem aí interessante tá vendo Oh lá!
+
+179
+00:08:19,480 --> 00:08:22,519
+Uma B s S contém uma ou mais estações sem
+
+180
+00:08:22,528 --> 00:08:25,949
+fio e uma base central conhecida como um ponto de
+
+181
+00:08:25,959 --> 00:08:29,629
+acesso famoso Aces point na terminologia que a gente tá
+
+182
+00:08:29,639 --> 00:08:34,710
+estudando oitocentos e dois ponto onze com tranquilo aluno legal,
+
+183
+00:08:34,719 --> 00:08:38,109
+legal, legal legal, então fechamos por aqui até
+
+184
+00:08:38,119 --> 00:08:38,788
+mais.
+

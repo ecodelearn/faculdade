@@ -1,0 +1,504 @@
+1
+00:00:06,538 --> 00:00:08,769
+no nosso estudo de casa do banco, né?
+
+2
+00:00:08,778 --> 00:00:11,710
+O banco ele definiu que precisa implementar uma política de
+
+3
+00:00:11,720 --> 00:00:12,019
+segurança.
+
+4
+00:00:12,028 --> 00:00:15,630
+Formação definiu alguns objetivos, né? Como que era
+
+5
+00:00:15,640 --> 00:00:20,690
+a redução do custo do incidente aumento de credibilidade com
+
+6
+00:00:20,699 --> 00:00:23,170
+os seus clientes e com os investidores.
+
+7
+00:00:23,829 --> 00:00:27,920
+Eh seguir as regulamentações da área, né? Da
+
+8
+00:00:27,929 --> 00:00:32,529
+área financeira então tem alguns aspectos fundamentais E aí tem
+
+9
+00:00:32,539 --> 00:00:34,880
+a redução de custos associados a esses dentes.
+
+10
+00:00:34,889 --> 00:00:38,700
+Segurança essa informação, o banco reconheceu que os incidentes
+
+11
+00:00:38,709 --> 00:00:42,478
+de segurança cibernética e a falta de conformidade com regulamentos
+
+12
+00:00:42,490 --> 00:00:45,918
+eh eram não apenas uma ameaçaà sua reputação,
+
+13
+00:00:45,929 --> 00:00:50,658
+mas também um fardo financeiro significativo para mendigar esses custos.
+
+14
+00:00:50,668 --> 00:00:55,259
+O banco implementou uma série de estratégias pro ativas.
+
+15
+00:00:55,270 --> 00:00:57,298
+Ou seja, gente que que a gente tá falando
+
+16
+00:00:57,310 --> 00:00:57,679
+aqui.
+
+17
+00:00:57,689 --> 00:01:02,829
+Eles identificaram que o o O O o custo relacionado
+
+18
+00:01:02,840 --> 00:01:05,650
+a incidente era muito grande, era muito grande,
+
+19
+00:01:05,659 --> 00:01:08,409
+então ele começou esse cara, esse um dos pontos,
+
+20
+00:01:08,418 --> 00:01:11,469
+um dos objetivos que nós precisamos trabalhar em nossa política.
+
+21
+00:01:11,480 --> 00:01:16,028
+Diminuir esse fardo financeiro tá diminuir esse recurso que a
+
+22
+00:01:16,040 --> 00:01:19,569
+gente tá investindo em ataques cibernéticos.
+
+23
+00:01:19,579 --> 00:01:22,709
+Por quê? Com isso a gente diminui esse esse
+
+24
+00:01:22,719 --> 00:01:26,790
+custo financeiro e aumenta ainda mais a nossa reputação frente
+
+25
+00:01:26,799 --> 00:01:31,028
+aos investidores frente aos nossos clientes, o banco adotou
+
+26
+00:01:31,040 --> 00:01:35,069
+uma abordagem proativa, investindo significamente em soluções de segurança
+
+27
+00:01:35,079 --> 00:01:36,388
+cibernéticas de última geração.
+
+28
+00:01:36,400 --> 00:01:39,088
+Isso envolve tecnologia avançada.
+
+29
+00:01:39,099 --> 00:01:43,849
+Olha só o banco implementou soluções seguranças cibernéticas de ponta,
+
+30
+00:01:43,859 --> 00:01:50,198
+incluindo avançados sistemas de detecção de intrusão, litografia,
+
+31
+00:01:50,209 --> 00:01:51,790
+monitoramento constante.
+
+32
+00:01:51,799 --> 00:01:56,750
+Essas tecnologias foram projetadas pra detectar e mi indicar ameaças
+
+33
+00:01:56,760 --> 00:01:58,528
+em tempo real.
+
+34
+00:01:58,540 --> 00:02:04,579
+Investimento tecnologia é fundamental para a segurança da informação a
+
+35
+00:02:04,588 --> 00:02:05,418
+segurança da informação.
+
+36
+00:02:05,430 --> 00:02:09,939
+Ela só só vai para frente, só vai ter
+
+37
+00:02:09,949 --> 00:02:14,778
+um sucesso se tiver uma uma linha lá no orçamento
+
+38
+00:02:14,788 --> 00:02:16,819
+da galera de T I num time de T i
+
+39
+00:02:16,830 --> 00:02:19,919
+nas diretorias de T I que fale investimento em segurança.
+
+40
+00:02:20,020 --> 00:02:24,429
+Sem investimento em segurança, Informação não temos garantia ou
+
+41
+00:02:24,439 --> 00:02:26,389
+não temos, não vamos ter.
+
+42
+00:02:26,399 --> 00:02:27,788
+Não vou nem falar que nós não temos.
+
+43
+00:02:27,800 --> 00:02:31,189
+Não teremos garantia, mas a equipe de segurança ela
+
+44
+00:02:31,199 --> 00:02:34,308
+não vai ter a possibilidade de trabalhar para garantir um
+
+45
+00:02:34,319 --> 00:02:38,778
+ambiente mais seguro, porque nós já falamos gente,
+
+46
+00:02:38,788 --> 00:02:42,429
+a evolução tecnológica, a evolução dos ataques cibernéticos é
+
+47
+00:02:42,439 --> 00:02:43,588
+gigantesca.
+
+48
+00:02:43,599 --> 00:02:47,770
+É gigantesca, precisamos ter investimento pra área de segurança
+
+49
+00:02:47,778 --> 00:02:51,909
+constantemente tá segurança em camadas.
+
+50
+00:02:51,919 --> 00:02:55,528
+Reconhecendo que a segurança cibernética não é uma solução única,
+
+51
+00:02:55,538 --> 00:03:00,179
+o banco implementou uma abordagem em camadas combinando várias tecnologias
+
+52
+00:03:00,189 --> 00:03:05,588
+e práticas para abordar diversos setores do ataque ataque Ah,
+
+53
+00:03:05,599 --> 00:03:08,588
+oh lá, a segurança cibernética não é a última,
+
+54
+00:03:08,599 --> 00:03:09,770
+não é a única solução.
+
+55
+00:03:09,778 --> 00:03:12,058
+Lembra que eu falei que tem engenharia social tem vários
+
+56
+00:03:12,069 --> 00:03:14,849
+outros tipos de ataque, que não é só mente,
+
+57
+00:03:14,860 --> 00:03:17,288
+ataque cibernético? Precisamos entender isso.
+
+58
+00:03:17,300 --> 00:03:19,889
+Então, a a questão que que o banco fez,
+
+59
+00:03:19,899 --> 00:03:24,389
+se a primeira foi investimento forte em segurança? Tecnologia
+
+60
+00:03:24,399 --> 00:03:27,508
+avançada, segundo, segurança, em camadas, entendendo
+
+61
+00:03:27,520 --> 00:03:30,229
+que não só, né? Não são somente ataques
+
+62
+00:03:30,240 --> 00:03:30,949
+cibernéticos.
+
+63
+00:03:30,960 --> 00:03:31,778
+A gente tá falando de banco.
+
+64
+00:03:31,788 --> 00:03:34,949
+Quantas vezes tem golpes em na frente do dos caixas
+
+65
+00:03:34,960 --> 00:03:38,389
+eletrônicos, né? Com com os aposentados, Enfim,
+
+66
+00:03:38,399 --> 00:03:40,389
+tem vários outros tipos de ataques que os bancos precisam
+
+67
+00:03:40,399 --> 00:03:44,500
+garantir isso, parcerias com especialistas.
+
+68
+00:03:44,508 --> 00:03:49,860
+Banco também estabeleceu parcerias com fornecedores especializados em segurança cibernética,
+
+69
+00:03:49,868 --> 00:03:54,788
+garantindo que tivessem sempre atualizados, com últimas ameaças e
+
+70
+00:03:54,800 --> 00:03:55,439
+soluções.
+
+71
+00:03:55,449 --> 00:03:59,649
+Fazer parcerias é fundamental você fazer network com o mercado,
+
+72
+00:03:59,659 --> 00:04:02,270
+você entender o que aquele outro tá sofrendo, o
+
+73
+00:04:02,278 --> 00:04:04,028
+que que aquele outro já passou? Entendeu o que?
+
+74
+00:04:04,038 --> 00:04:06,679
+O especialista dos mercados, não só o seu especialista.
+
+75
+00:04:06,689 --> 00:04:08,300
+Você tem que fazer cada vez mais, que o
+
+76
+00:04:08,308 --> 00:04:11,288
+seu especialista eh, se envolva se envolva com o
+
+77
+00:04:11,300 --> 00:04:12,050
+mercado.
+
+78
+00:04:12,058 --> 00:04:13,750
+Participe de congressos.
+
+79
+00:04:13,758 --> 00:04:17,269
+Participe de atualizações tecnológicas e isso é fundamental pra garantir
+
+80
+00:04:17,278 --> 00:04:17,709
+o sucesso.
+
+81
+00:04:17,720 --> 00:04:22,129
+Tá? Esses investimentos em prevenção foram uma resposta direta
+
+82
+00:04:22,139 --> 00:04:24,829
+a crença do banco que a prevenção é mais e
+
+83
+00:04:24,838 --> 00:04:27,149
+é mais econômica do que a recuperação.
+
+84
+00:04:27,160 --> 00:04:30,980
+Sem dúvida gente evitar esses dentes de segurança era mais
+
+85
+00:04:30,988 --> 00:04:34,649
+eficaz e financiamento vantajoso do que enfrentar as consequências e
+
+86
+00:04:34,660 --> 00:04:36,129
+violações dos dados.
+
+87
+00:04:36,139 --> 00:04:39,689
+Com o tempo, os investimentos em prevenção juntamente com
+
+88
+00:04:39,699 --> 00:04:44,009
+os programas de educação produziram resultados significativos.
+
+89
+00:04:44,019 --> 00:04:47,184
+O Branco experimentou uma redução significativa, o número de
+
+90
+00:04:47,194 --> 00:04:49,254
+incidentes de segurança cibernética.
+
+91
+00:04:49,264 --> 00:04:52,454
+Isso inclui uma queda de tentativa de violação e ataques
+
+92
+00:04:52,463 --> 00:04:55,375
+bem sucedidos e perda de dados.
+
+93
+00:04:55,384 --> 00:04:58,454
+Isso com investimento com treinamento.
+
+94
+00:04:58,463 --> 00:05:03,053
+A gente consegue diminuir ainda mais a probabilidade de incidentes
+
+95
+00:05:03,064 --> 00:05:04,774
+de problemas dentro da organização.
+
+96
+00:05:04,785 --> 00:05:10,100
+Tá Essa redução de acidentes não apenas não apenas evitou
+
+97
+00:05:10,108 --> 00:05:12,980
+os custos diretos associados a recuperação de incidentes, mas
+
+98
+00:05:12,988 --> 00:05:16,959
+também preservou a reputação do banco e a confiança dos
+
+99
+00:05:16,970 --> 00:05:19,178
+seus clientes e investidores.
+
+100
+00:05:19,189 --> 00:05:23,420
+Tá? Ele adotou uma abordagem proativa e abrangente nos
+
+101
+00:05:23,428 --> 00:05:25,119
+recursos associados a acidentes de segurança.
+
+102
+00:05:25,379 --> 00:05:29,730
+Investir em prevenção capacitou sua equipe em programas de educação
+
+103
+00:05:29,738 --> 00:05:33,629
+e colheu os frutos com uma significativa redução de número
+
+104
+00:05:33,639 --> 00:05:36,548
+de acidentes de segurança, demonstrando que a segurança benéfica
+
+105
+00:05:36,559 --> 00:05:39,329
+pode ser econômica, com abordagem, com seriedade e
+
+106
+00:05:39,338 --> 00:05:40,449
+compromisso.
+
+107
+00:05:40,459 --> 00:05:42,869
+Então ele veio e não foi de um dia pro
+
+108
+00:05:42,879 --> 00:05:44,949
+outro, isso é bem claro a gente não consegue
+
+109
+00:05:44,959 --> 00:05:47,591
+trabalhar, a cultura da segurança, benéfica, de
+
+110
+00:05:47,601 --> 00:05:49,512
+um pro outro, começa, você começa a investir,
+
+111
+00:05:49,523 --> 00:05:53,083
+você começa, né? Jogar dinheiro dentro da área
+
+112
+00:05:53,091 --> 00:05:54,052
+de tecnologia.
+
+113
+00:05:54,062 --> 00:05:56,892
+E você vai colher frutos lá lá na frente.
+
+114
+00:05:56,903 --> 00:05:58,911
+Então a gente precisa entender que é um é um
+
+115
+00:05:58,923 --> 00:06:02,851
+é um, É um programa de passo a passo.
+
+116
+00:06:02,862 --> 00:06:07,596
+Você não tem como ultrapassar algumas barreiras porque é mudança
+
+117
+00:06:07,605 --> 00:06:10,014
+de cultura, é treinamento, é implementação de nova
+
+118
+00:06:10,026 --> 00:06:11,074
+tecnologia.
+
+119
+00:06:11,084 --> 00:06:14,235
+E isso de de precisa de tempo, precisa de
+
+120
+00:06:14,245 --> 00:06:18,394
+investimento, precisa de conscientização, precisa de patrocínio de
+
+121
+00:06:18,406 --> 00:06:20,834
+toda direção? Então, não é algo, não
+
+122
+00:06:20,846 --> 00:06:21,935
+é algo rápido.
+
+123
+00:06:21,946 --> 00:06:24,115
+Não é algo fácil, mas é algo que tem
+
+124
+00:06:24,125 --> 00:06:26,074
+que ser constantemente feito.
+
+125
+00:06:26,084 --> 00:06:31,235
+Investido trabalhado eh, eh pulverizado em toda a organização.
+
+126
+00:06:31,245 --> 00:06:33,175
+Tá bom, Vamos pro próximo
+

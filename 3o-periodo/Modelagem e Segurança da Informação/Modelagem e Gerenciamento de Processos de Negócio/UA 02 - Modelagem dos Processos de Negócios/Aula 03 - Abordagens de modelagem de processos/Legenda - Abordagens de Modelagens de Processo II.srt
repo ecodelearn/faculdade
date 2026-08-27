@@ -1,0 +1,848 @@
+1
+00:00:06,320 --> 00:00:10,278
+Olá, vamos dar continuidadeà nossa abordagem de modelagem
+
+2
+00:00:10,288 --> 00:00:10,919
+de processo.
+
+3
+00:00:10,929 --> 00:00:13,050
+Agora nós vamos falar sobre si PC, na verdade,
+
+4
+00:00:13,060 --> 00:00:16,850
+nós estamos trabalhando, né? Falando sobre as abordagens
+
+5
+00:00:16,859 --> 00:00:20,208
+especializadas de modelagem de cadeia, de valor, falamos
+
+6
+00:00:20,219 --> 00:00:23,089
+sobre a cadeia de valor, né? E falamos
+
+7
+00:00:23,100 --> 00:00:26,350
+agora eh, vamos falar sobre o PC.
+
+8
+00:00:26,359 --> 00:00:30,609
+Quer dizer, em processos é uma de letrinha,
+
+9
+00:00:30,620 --> 00:00:36,158
+né? Vamos lá olhar s sup e de p
+
+10
+00:00:36,168 --> 00:00:41,240
+de process o de output e o C de sterman.
+
+11
+00:00:41,250 --> 00:00:43,679
+Então é uma moda, uma aborda mais uma das
+
+12
+00:00:43,689 --> 00:00:46,118
+abordagens eh especializadas, que a gente vai, tá
+
+13
+00:00:46,130 --> 00:00:49,689
+tratando aqui nessa aula de hoje? Tá, eh!
+
+14
+00:00:49,700 --> 00:00:52,048
+É claro que quando a gente fala de abordagem,
+
+15
+00:00:52,060 --> 00:00:54,289
+né? Eu tô falando de uma perspectiva que vai
+
+16
+00:00:54,298 --> 00:00:58,310
+a agregar e eh Eh entregar eh ajudar a entregar
+
+17
+00:00:58,319 --> 00:01:01,529
+valor da EH pra organização e a organização entregar o
+
+18
+00:01:01,539 --> 00:01:04,329
+valor pra pra seus clientes, né? Pra quem
+
+19
+00:01:04,338 --> 00:01:06,370
+aqui pra pro Seu público? Pra quem tá atendendo,
+
+20
+00:01:06,379 --> 00:01:11,099
+tá okay então o tipo SIC quando a gente olha,
+
+21
+00:01:11,109 --> 00:01:13,599
+eh, eh aquela essa sopinha de letras, né?
+
+22
+00:01:13,609 --> 00:01:16,459
+Então a gente tá ma mais ou menos falando isso
+
+23
+00:01:16,469 --> 00:01:18,109
+aqui, oh, quer dizer, os fornecedores eu
+
+24
+00:01:18,120 --> 00:01:21,198
+tô considerando dentro do CIC, né eh, uma
+
+25
+00:01:21,209 --> 00:01:25,620
+visão de processo em que eu tô enxergando, né?
+
+26
+00:01:25,629 --> 00:01:29,838
+Eh as entradas aqui e as saídas.
+
+27
+00:01:29,849 --> 00:01:32,689
+Então olha só cip é um diagrama que traz as
+
+28
+00:01:32,698 --> 00:01:37,665
+informações pra mapeamento de um processo e por meio deste
+
+29
+00:01:37,677 --> 00:01:41,066
+método, né? Dessa dessa dessa desse diagrama eu
+
+30
+00:01:41,076 --> 00:01:43,865
+consigo saber quais são as entradas, quais são as
+
+31
+00:01:43,876 --> 00:01:47,115
+saídas? Qual é o início, qual é o
+
+32
+00:01:47,126 --> 00:01:49,626
+início aqui oh e qual é o término das minhas
+
+33
+00:01:49,637 --> 00:01:53,826
+ações, bem como a sequência de atividades e os
+
+34
+00:01:53,835 --> 00:01:57,507
+responsáveis pelas tarefas e quem são os meus clientes?
+
+35
+00:01:57,516 --> 00:02:00,453
+Oh eu tô abordando aqui um aspecto bem complexo e
+
+36
+00:02:00,462 --> 00:02:03,513
+bem amplo de tudo aquilo que a minha organização tá
+
+37
+00:02:03,524 --> 00:02:06,134
+considerando, pra entregar o valor, né, pra
+
+38
+00:02:06,143 --> 00:02:08,574
+agregar valor ao seu produto serviço e pra entregar esse
+
+39
+00:02:08,582 --> 00:02:10,693
+valor, então vamos lá, Já volto a repetir,
+
+40
+00:02:10,703 --> 00:02:12,893
+já falamos sobre isso, né? Eu vou agregar
+
+41
+00:02:12,903 --> 00:02:15,453
+valor ao meu produto, serviço e vou entregar valor
+
+42
+00:02:15,463 --> 00:02:16,473
+ao meu cliente.
+
+43
+00:02:16,483 --> 00:02:19,383
+Pra isso a gente já observou, né? Que
+
+44
+00:02:19,393 --> 00:02:22,294
+algumas características eh? Eu tenho que saber o que
+
+45
+00:02:22,304 --> 00:02:25,800
+eu vou entregar, como o que né.
+
+46
+00:02:25,811 --> 00:02:27,760
+Várias sopinhas de letrinhas que a gente já viu ao
+
+47
+00:02:27,770 --> 00:02:29,640
+longo da nossa caminhada, então quando a gente tem
+
+48
+00:02:29,651 --> 00:02:33,841
+um mapeamento completo dessa perspectiva de quem sou eu como
+
+49
+00:02:33,849 --> 00:02:38,561
+organização, eu vou buscar agregar por meio de estratégias,
+
+50
+00:02:38,569 --> 00:02:41,360
+né? Que eu já defini antes agregar valor aos
+
+51
+00:02:41,371 --> 00:02:44,240
+produtos do meu serviço de forma a entregar valor ao
+
+52
+00:02:44,251 --> 00:02:44,849
+meu cliente.
+
+53
+00:02:44,860 --> 00:02:47,960
+Tá, então vamos voltar aqui ao ao gráfico ao
+
+54
+00:02:47,969 --> 00:02:51,770
+ao diagrama, pra gente entender o s de sup
+
+55
+00:02:51,778 --> 00:02:56,409
+ela tá relacionada aos fornecedores? Eh a entrada de
+
+56
+00:02:56,419 --> 00:02:57,729
+um determinado processo.
+
+57
+00:02:57,740 --> 00:03:02,118
+Então o fornecedor vai entregar algum insumo pra entrada do
+
+58
+00:03:02,129 --> 00:03:03,800
+meu processo pra que eu possa? Conhe, eh,
+
+59
+00:03:03,808 --> 00:03:06,558
+eh, eh começar o meu processo, né?
+
+60
+00:03:06,569 --> 00:03:09,419
+Na verdade o o fornecedor vai entregar uma uma matéria-prima,
+
+61
+00:03:09,429 --> 00:03:12,159
+um insumo pra que eu transforme isso em um produto
+
+62
+00:03:12,169 --> 00:03:13,599
+ou um serviço pra que eu lá eh.
+
+63
+00:03:13,610 --> 00:03:14,558
+Dê a saída.
+
+64
+00:03:14,569 --> 00:03:18,460
+Ah o em impt, né? São as entradas
+
+65
+00:03:18,469 --> 00:03:21,439
+que serão convertidas em saídas no meu processo.
+
+66
+00:03:21,449 --> 00:03:24,520
+Então em Impt, tudo que entrou por meio do
+
+67
+00:03:24,528 --> 00:03:27,399
+fornecimento do meu fornecedor, eu vou converter.
+
+68
+00:03:27,409 --> 00:03:31,599
+Eu vou transformar, né? De forma A A
+
+69
+00:03:31,610 --> 00:03:33,838
+A a ter uma saída desejada, né? Como
+
+70
+00:03:33,849 --> 00:03:36,758
+conforme nós Já falamos, é só dando uma uma
+
+71
+00:03:36,770 --> 00:03:39,500
+perspectiva em em cima desses dois pontos, né?
+
+72
+00:03:39,508 --> 00:03:42,758
+Eh, eh, eh fornecedor como entrada e e
+
+73
+00:03:42,770 --> 00:03:45,319
+o em PRA ser convertido em saída, né?
+
+74
+00:03:45,330 --> 00:03:48,699
+Então, a gente eh eh pensar nessa perspectiva que
+
+75
+00:03:49,050 --> 00:03:51,778
+a caracterização de um processo é aquele que tem uma
+
+76
+00:03:51,788 --> 00:03:54,139
+entrada, tem um processamento e tem uma saída.
+
+77
+00:03:54,149 --> 00:03:56,460
+Então, a saída é o resultado de um processo.
+
+78
+00:03:56,469 --> 00:03:58,399
+Esse processo que não entrega nada, que não tem
+
+79
+00:03:58,409 --> 00:04:01,500
+saída, não é processo que você descaracteriza aí tá
+
+80
+00:04:01,508 --> 00:04:04,258
+legal, e o próprio p em si, que
+
+81
+00:04:04,270 --> 00:04:04,960
+é o processo.
+
+82
+00:04:04,969 --> 00:04:08,538
+O processo aqui no P é caracterizado como essas etapas
+
+83
+00:04:08,550 --> 00:04:12,000
+que eu tenho que realizar pra transformar a minha entrada
+
+84
+00:04:12,008 --> 00:04:13,699
+em saída.
+
+85
+00:04:13,710 --> 00:04:16,720
+Então veja ah, eu, o fornecedor me entrega
+
+86
+00:04:16,730 --> 00:04:17,238
+o insumo.
+
+87
+00:04:17,250 --> 00:04:20,079
+Essas entradas vem pra dentro da minha organização, vem
+
+88
+00:04:20,088 --> 00:04:21,920
+pra dentro do meu processo! E aí? Eu
+
+89
+00:04:21,928 --> 00:04:25,220
+vou transformar esses caras, Eu vou pegar, realizar
+
+90
+00:04:25,230 --> 00:04:29,019
+o conjunto de etapas pra gerar aquele produto ou serviço
+
+91
+00:04:29,809 --> 00:04:34,040
+pra atender as necessidades do meu.
+
+92
+00:04:34,048 --> 00:04:36,778
+Ah cliente, né DO do, do do dos
+
+93
+00:04:36,790 --> 00:04:40,528
+meus, eh das pessoas que tão interessadas em adquirir
+
+94
+00:04:40,540 --> 00:04:41,629
+o meu produto ou meu serviço.
+
+95
+00:04:41,639 --> 00:04:44,850
+Beleza o o, né? Ele tá falando que
+
+96
+00:04:44,858 --> 00:04:48,108
+a saída são os resultados das entradas após a passarem
+
+97
+00:04:48,119 --> 00:04:49,100
+pelo processo.
+
+98
+00:04:49,108 --> 00:04:51,209
+Então eh a saída.
+
+99
+00:04:51,220 --> 00:04:55,069
+Ela é resultado do que vem daqui, né?
+
+100
+00:04:55,079 --> 00:05:00,269
+O processo é que vai transformar aquilo que entrou,
+
+101
+00:05:00,838 --> 00:05:04,088
+que foi entregue pelo meu fornecedor e alguma coisa em
+
+102
+00:05:04,100 --> 00:05:07,869
+algo, e aí eu vou gerar uma saída.
+
+103
+00:05:07,879 --> 00:05:11,000
+Uma saída, com base naquilo que eu processei,
+
+104
+00:05:11,009 --> 00:05:11,970
+é o resultado.
+
+105
+00:05:11,980 --> 00:05:15,730
+Então volto a falar, processo que não tem resultado
+
+106
+00:05:15,738 --> 00:05:16,970
+não é processo, não.
+
+107
+00:05:16,980 --> 00:05:18,535
+Eu não tô entendendo do nada, eu não preciso
+
+108
+00:05:18,545 --> 00:05:18,894
+dele.
+
+109
+00:05:18,903 --> 00:05:20,613
+Tá legal e claro.
+
+110
+00:05:20,625 --> 00:05:23,934
+O foco disso tudo é justamente os meus clientes,
+
+111
+00:05:23,944 --> 00:05:26,053
+que é a parte que vai receber a saída do
+
+112
+00:05:26,064 --> 00:05:26,574
+meu processo.
+
+113
+00:05:26,584 --> 00:05:29,274
+Na verdade, nós trabalhamos pra que nós, a,
+
+114
+00:05:29,285 --> 00:05:32,375
+a empresa, a organização produz pra quê? Para
+
+115
+00:05:32,384 --> 00:05:34,713
+atender as necessidades dos meus clientes, né? E
+
+116
+00:05:34,725 --> 00:05:39,454
+essa necessidade do meu cliente é justamente o ponto onde
+
+117
+00:05:39,463 --> 00:05:46,149
+eu vou eh e realizar, né? Aquilo pra
+
+118
+00:05:46,160 --> 00:05:49,350
+qual foi? A empresa foi constituída, atendendo a
+
+119
+00:05:49,358 --> 00:05:54,149
+sua missão, atendendo a sua visão dentro dos seus
+
+120
+00:05:54,160 --> 00:05:55,149
+valores.
+
+121
+00:05:55,160 --> 00:05:58,988
+Okay Então, são dentro de uma estratégia institucional.
+
+122
+00:05:59,000 --> 00:06:01,829
+A empresa precisa ter a sua visão, a sua
+
+123
+00:06:01,838 --> 00:06:02,988
+visão, os seus valores.
+
+124
+00:06:03,000 --> 00:06:05,470
+Quer dizer, ela precisa se conhecer, ela se
+
+125
+00:06:05,480 --> 00:06:08,509
+conhece, ela define a sua estratégia e o resultado
+
+126
+00:06:08,519 --> 00:06:14,108
+dessa e dessa estratégia é justamente entregar ao nosso cliente.
+
+127
+00:06:14,119 --> 00:06:17,079
+Aí eh a saída do nosso processo.
+
+128
+00:06:17,088 --> 00:06:17,819
+Tá legal.
+
+129
+00:06:17,829 --> 00:06:23,319
+As características por trás do do CIC envolvem o mapeamento
+
+130
+00:06:23,329 --> 00:06:24,119
+visual.
+
+131
+00:06:24,129 --> 00:06:26,379
+O que que é o mapeamento visual? Eh,
+
+132
+00:06:26,389 --> 00:06:29,259
+eh, eh, eh é a forma com que
+
+133
+00:06:29,269 --> 00:06:33,298
+eu consigo perceber por meio de uma de eh de
+
+134
+00:06:33,309 --> 00:06:35,899
+um elemento o gráfico, né? O nível,
+
+135
+00:06:35,910 --> 00:06:37,920
+o alto nível do meu processo Ou seja, eh
+
+136
+00:06:37,928 --> 00:06:39,298
+esse elemento gráfico.
+
+137
+00:06:39,309 --> 00:06:40,738
+Ele, na verdade, ele tá mostrando um processo
+
+138
+00:06:40,750 --> 00:06:41,670
+bem de alto nível.
+
+139
+00:06:41,678 --> 00:06:44,678
+Como a gente falou lá na nessa questão dessas ferramentas
+
+140
+00:06:44,689 --> 00:06:48,540
+eh que a gente tá eh elencando aqui, né?
+
+141
+00:06:48,548 --> 00:06:50,980
+Elas trabalham numa visão um pouco mais.
+
+142
+00:06:50,988 --> 00:06:54,579
+Macro, né? Um pouco mais eh vamos dizer
+
+143
+00:06:54,588 --> 00:06:58,420
+assim Ah, Diferenciada não é uma visão detalhada,
+
+144
+00:06:58,428 --> 00:07:01,738
+né? O foco aqui desse desse dessa perspectiva dessas
+
+145
+00:07:01,750 --> 00:07:04,980
+ferramentas que a gente tá falando especializadas é ter uma
+
+146
+00:07:04,988 --> 00:07:07,819
+visão um pouco mais de eh alto nível, sem
+
+147
+00:07:07,829 --> 00:07:11,459
+detalhar muito bem a que eh o meu processo,
+
+148
+00:07:11,470 --> 00:07:13,699
+Tá então, quando a gente fala do citox no
+
+149
+00:07:13,709 --> 00:07:17,709
+mapeamento, é justamente essa eh representação gráfica do de
+
+150
+00:07:17,720 --> 00:07:20,689
+alto nível, desse processo, elementos chaves, porque
+
+151
+00:07:20,699 --> 00:07:23,435
+ela tá identificando os elementos chaves relacionadas ao processo,
+
+152
+00:07:23,446 --> 00:07:25,245
+Quais sejam que né como a gente falou, os
+
+153
+00:07:25,255 --> 00:07:29,185
+fornecedores, os insumos, os processos, as saídas
+
+154
+00:07:29,196 --> 00:07:31,925
+e os meus clientes, tudo isso está relacionado a
+
+155
+00:07:31,935 --> 00:07:34,884
+um processo, né? AO processo no qual estou
+
+156
+00:07:34,894 --> 00:07:39,505
+representando Eu quero representar outra coisa que ele é característica
+
+157
+00:07:39,514 --> 00:07:42,884
+interessante aí do do do citox é são os.
+
+158
+00:07:42,894 --> 00:07:45,511
+Ele eh a visão simplificada é a visão simplificada.
+
+159
+00:07:45,521 --> 00:07:46,350
+É o quê? É uma.
+
+160
+00:07:46,360 --> 00:07:49,031
+Vi a vi uma visão abreviada, ou seja,
+
+161
+00:07:49,040 --> 00:07:53,591
+eu consigo olhar pra aquela eh instrução ali pra aquele
+
+162
+00:07:53,600 --> 00:07:55,670
+pra aquela perspectiva e entender o que ela tá se
+
+163
+00:07:55,682 --> 00:07:59,911
+pressupondo e posteriormente né? Eu tenho a inclusão dos
+
+164
+00:07:59,920 --> 00:08:03,752
+ou seja que eh nada mais é do que o
+
+165
+00:08:03,761 --> 00:08:08,259
+fornecedor né? A A E do cliente pra entender
+
+166
+00:08:08,269 --> 00:08:11,619
+todo esse esse esse contexto bom, vamos caracterizar uma
+
+167
+00:08:11,629 --> 00:08:14,778
+questão aqui, né? O R pra gente aqui
+
+168
+00:08:14,790 --> 00:08:18,410
+ou o R dentro de um processo ele é aquele
+
+169
+00:08:18,420 --> 00:08:21,178
+que está interessado, aqueles que estão envolvidos, que
+
+170
+00:08:21,189 --> 00:08:24,605
+são interessados no processo, Tá, então o fornecedor,
+
+171
+00:08:24,613 --> 00:08:27,774
+o meu cliente, quem faz a transformação, o
+
+172
+00:08:27,785 --> 00:08:29,764
+CEO da empresa, o presidente da empresa, né?
+
+173
+00:08:29,774 --> 00:08:32,724
+Então são os estão interessados nesse processo.
+
+174
+00:08:32,734 --> 00:08:34,744
+Então, quando a gente pensa assim, estou eu
+
+175
+00:08:34,754 --> 00:08:37,125
+consigo caracterizar muito bem.
+
+176
+00:08:37,134 --> 00:08:41,984
+Como se propõe esta abordagem tá aqui.
+
+177
+00:08:41,994 --> 00:08:44,884
+É um exemplo de de um suporte em que a
+
+178
+00:08:44,894 --> 00:08:47,744
+gente vê aqui um Sup, né? No caso,
+
+179
+00:08:48,460 --> 00:08:52,590
+baseado num num numa unidade de atendimento, né?
+
+180
+00:08:52,599 --> 00:08:55,190
+Então aqui oh o o suprimentos aqui.
+
+181
+00:08:55,200 --> 00:08:57,700
+Eu sup né? Os meus fornecedores eu tenho pronto-socorro
+
+182
+00:08:57,710 --> 00:09:02,969
+hemodinâmica, centro cirúrgico, vagas, hemodiálise eh hotelaria,
+
+183
+00:09:02,979 --> 00:09:06,109
+eh central de material eh, eh esterilizado, banco
+
+184
+00:09:06,119 --> 00:09:09,469
+de sangue, farmácia, Então todos esses aqui são
+
+185
+00:09:09,479 --> 00:09:10,808
+os meus fornecedores.
+
+186
+00:09:10,820 --> 00:09:14,259
+Vai entregar insumo pra eu realizar o meu em Impt?
+
+187
+00:09:14,269 --> 00:09:15,250
+O que que é o meu em Impt, é
+
+188
+00:09:15,259 --> 00:09:18,330
+são os meus pacientes, é o gerenciamento da minha
+
+189
+00:09:18,340 --> 00:09:19,070
+vaga.
+
+190
+00:09:19,080 --> 00:09:20,070
+É o leito que tá aqui.
+
+191
+00:09:20,080 --> 00:09:21,950
+Tem que tá limpo, é o exame e o
+
+192
+00:09:21,960 --> 00:09:24,099
+laudo é a minha comunicação.
+
+193
+00:09:24,109 --> 00:09:26,428
+É a minha parte de auditoria clínica, é a
+
+194
+00:09:26,440 --> 00:09:29,609
+minha parte de assistência nutricional, então são essas são
+
+195
+00:09:29,619 --> 00:09:30,989
+as minhas entradas.
+
+196
+00:09:31,000 --> 00:09:32,719
+O que que é? O processo? É aquele
+
+197
+00:09:32,729 --> 00:09:35,168
+que eu realizo, Então se eu considerar um processo
+
+198
+00:09:35,178 --> 00:09:39,168
+aqui eh nessa perspectiva eu admito o paciente, eu
+
+199
+00:09:39,178 --> 00:09:40,928
+estruturou o cuidado dele.
+
+200
+00:09:40,940 --> 00:09:43,609
+Eu vejo se tem cuidado intensivo, eu estabilize e
+
+201
+00:09:43,619 --> 00:09:44,750
+eu dou alta pro meu paciente.
+
+202
+00:09:44,759 --> 00:09:48,000
+Esse é o processo output, é o meu paci,
+
+203
+00:09:48,009 --> 00:09:50,879
+o meu pro meu paciente estabilizado, eh Eu não
+
+204
+00:09:50,889 --> 00:09:52,798
+tenho sobra de de de de medicamento.
+
+205
+00:09:52,808 --> 00:09:57,080
+Eu tenho roupa suja registro do que aconteceu e o
+
+206
+00:09:57,090 --> 00:09:59,019
+a saída, né? Dos meus C também é
+
+207
+00:09:59,029 --> 00:10:03,815
+centro cirúrgico, unidade de internação, eh homecare farmácia
+
+208
+00:10:03,825 --> 00:10:06,274
+todos esses processos, então aqui tem um exemplo bem
+
+209
+00:10:06,283 --> 00:10:08,053
+interessante de como funciona.
+
+210
+00:10:08,065 --> 00:10:10,734
+E como eu posso representar esse essa ferramenta? Esse
+
+211
+00:10:10,744 --> 00:10:15,533
+modelo aqui eh poc dentro de uma organização okay!
+
+212
+00:10:15,543 --> 00:10:17,274
+Muito obrigado! Até a próxima!
+

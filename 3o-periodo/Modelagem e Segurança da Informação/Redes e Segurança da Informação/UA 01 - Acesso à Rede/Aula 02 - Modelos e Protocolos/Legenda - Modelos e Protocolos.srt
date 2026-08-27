@@ -1,0 +1,268 @@
+1
+00:00:06,070 --> 00:00:08,310
+Olá, caro aluno! Sou professor Fabrício Melo.
+
+2
+00:00:08,319 --> 00:00:10,720
+É um grande prazer estar aqui com o nosso tema,
+
+3
+00:00:10,728 --> 00:00:15,000
+modelos e protocolos e vamos falar sobre qual tema de
+
+4
+00:00:15,009 --> 00:00:19,158
+modelos e protocolos a necessidade das regras.
+
+5
+00:00:19,170 --> 00:00:24,120
+Como assim Necessidade das regras Observe quando nós viajamos aí
+
+6
+00:00:24,129 --> 00:00:27,079
+pra fora do país nós temosàs vezes uma grande
+
+7
+00:00:27,089 --> 00:00:29,100
+dificuldade em comunicarmos, não é isso.
+
+8
+00:00:29,109 --> 00:00:31,399
+Por quê Que você vai pra uma? Um país
+
+9
+00:00:31,408 --> 00:00:33,959
+que você tem uma língua ali que você não conhece?
+
+10
+00:00:33,969 --> 00:00:37,098
+Então, pra você comunicar, conversar vai ser um
+
+11
+00:00:37,109 --> 00:00:38,240
+pouco complicado.
+
+12
+00:00:38,250 --> 00:00:41,439
+Agora, se você falar a língua daquele país,
+
+13
+00:00:41,450 --> 00:00:45,569
+fica muito mais fácil você concorda, vamos imaginar que
+
+14
+00:00:45,579 --> 00:00:45,590
+eh.
+
+15
+00:00:45,598 --> 00:00:49,700
+Tem aí uma lei mundial que vai fazer com que
+
+16
+00:00:49,709 --> 00:00:52,840
+o mundo inteiro seja obrigado, por exemplo, a
+
+17
+00:00:52,848 --> 00:00:56,918
+falar o português Brasil seria um sonho, Não seria
+
+18
+00:00:56,929 --> 00:01:01,359
+qualquer lugar que você for você conseguir se comunicar com
+
+19
+00:01:01,368 --> 00:01:03,668
+alguém, É isso que a gente vai tratar.
+
+20
+00:01:03,679 --> 00:01:05,948
+É a necessidade das regras.
+
+21
+00:01:05,959 --> 00:01:09,109
+Pra você ter uma comunicação eficiente na rede, Porque
+
+22
+00:01:09,120 --> 00:01:13,629
+uma rede hoje você tem dispositivos com sistemas distintos?
+
+23
+00:01:13,638 --> 00:01:16,549
+Se tem Mac, tem Linux, tem Windows e
+
+24
+00:01:16,558 --> 00:01:20,448
+como que esses dispositivos irão se comunicar entre si,
+
+25
+00:01:20,459 --> 00:01:23,370
+se comunicar na mesma rede? Então você tem uma
+
+26
+00:01:23,379 --> 00:01:26,409
+necessidade, que é uma necessidade das regras.
+
+27
+00:01:26,418 --> 00:01:28,888
+Então, olha lá uma troca de mensagens.
+
+28
+00:01:28,900 --> 00:01:33,250
+A aluno eficaz deve atender um conjunto de regras que
+
+29
+00:01:33,260 --> 00:01:36,230
+nós vamos chamar de protocolo de comunicação.
+
+30
+00:01:36,588 --> 00:01:39,519
+Então, um protocolo nada mais é do que um
+
+31
+00:01:39,528 --> 00:01:44,599
+conjunto ali de regras e convenções e esse conjunto vai
+
+32
+00:01:44,609 --> 00:01:47,159
+padronizar a comunicação da rede.
+
+33
+00:01:47,168 --> 00:01:51,319
+Eu só consigo me comunicar, né, padronizado com
+
+34
+00:01:51,329 --> 00:01:54,838
+outras outros sistemas? Porque eu vou ter um protocolo
+
+35
+00:01:54,849 --> 00:01:59,870
+comum? Esses temas vão operar, vão conversar com
+
+36
+00:01:59,879 --> 00:02:02,629
+o mesmo protocolo? Tá então lá, os protocolos
+
+37
+00:02:02,638 --> 00:02:06,168
+devem levar em consideração os seguintes requisitos que uma mensagem
+
+38
+00:02:06,180 --> 00:02:09,429
+possa ser enviada recebida e compreendida pelo receptor.
+
+39
+00:02:09,439 --> 00:02:12,830
+Então, quando você tá trocando as uma informação com
+
+40
+00:02:12,838 --> 00:02:16,750
+outro dispositivo, esses protocolos vão levar em consideração quais
+
+41
+00:02:16,758 --> 00:02:19,830
+requisitos observa Olha, só ele tem que ter um
+
+42
+00:02:19,838 --> 00:02:22,308
+emissor e um receptor identificados.
+
+43
+00:02:22,319 --> 00:02:24,990
+É igual uma carta pra eu enviar uma carta.
+
+44
+00:02:25,000 --> 00:02:26,909
+Eu tenho que me identificar.
+
+45
+00:02:26,919 --> 00:02:31,229
+Identificar quem? O destinatário, oh língua e gramática
+
+46
+00:02:31,240 --> 00:02:32,710
+comum, tá vendo.
+
+47
+00:02:32,719 --> 00:02:35,429
+Então você precisa falar a mesma língua.
+
+48
+00:02:35,439 --> 00:02:38,050
+Não adianta eu falar português e querer conversar com o
+
+49
+00:02:38,058 --> 00:02:38,740
+japonês.
+
+50
+00:02:38,750 --> 00:02:41,270
+Vai ficar meio complicado velocidade.
+
+51
+00:02:41,278 --> 00:02:44,860
+E o ritmo de transmissão é um requisito também pra
+
+52
+00:02:44,868 --> 00:02:48,429
+você fazer uma troca de dados, requisito de confirmação,
+
+53
+00:02:48,439 --> 00:02:51,159
+recepção Então você tem que ter um requisito que uma
+
+54
+00:02:51,169 --> 00:02:54,000
+confirmação, que é que foi recebido ali, por
+
+55
+00:02:54,008 --> 00:02:55,169
+exemplo, a informação.
+
+56
+00:02:55,179 --> 00:02:58,899
+Cê tem que ter uma codificação dessa mensagem que você
+
+57
+00:02:58,909 --> 00:02:59,719
+vai mandar.
+
+58
+00:02:59,729 --> 00:03:02,639
+Você tem que ter um forma, uma formatação e
+
+59
+00:03:02,649 --> 00:03:07,240
+um encapsulamento dessa informação tem que ter um tamanho.
+
+60
+00:03:07,250 --> 00:03:10,990
+A informação não pode ir de qualquer tamanho, Tempo
+
+61
+00:03:11,000 --> 00:03:15,949
+de transmissão também é contado e as opções você também
+
+62
+00:03:15,960 --> 00:03:17,508
+tem opções de envio.
+
+63
+00:03:17,520 --> 00:03:21,909
+Como será feito esse envio? Então isso são necessidade
+
+64
+00:03:21,919 --> 00:03:22,830
+das regras.
+
+65
+00:03:22,838 --> 00:03:27,629
+Sem essas regras você não consegue aí se comunicar dentro
+
+66
+00:03:27,639 --> 00:03:32,000
+de uma rede Okay? Então ficamos por aqui volto
+
+67
+00:03:32,008 --> 00:03:33,610
+com mais temas Já já
+

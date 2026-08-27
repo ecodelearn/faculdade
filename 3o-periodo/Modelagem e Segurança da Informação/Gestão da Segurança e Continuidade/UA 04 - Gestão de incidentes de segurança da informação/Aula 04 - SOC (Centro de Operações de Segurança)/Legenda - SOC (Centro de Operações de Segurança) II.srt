@@ -1,0 +1,604 @@
+1
+00:00:06,280 --> 00:00:08,880
+vamos lá, continuando a nossa disciplina de segurança da
+
+2
+00:00:08,890 --> 00:00:09,810
+informação e continua.
+
+3
+00:00:09,819 --> 00:00:13,648
+Nós falamos de Soc que o Centro de Operações de
+
+4
+00:00:13,659 --> 00:00:16,408
+Segurança entendemos a sua característica.
+
+5
+00:00:16,420 --> 00:00:21,199
+A sua importância é uma equipe que trabalha em contínuo,
+
+6
+00:00:21,208 --> 00:00:24,589
+buscando a proteção das informações da organização.
+
+7
+00:00:24,600 --> 00:00:27,289
+E agora a gente tem que entender também que só
+
+8
+00:00:27,298 --> 00:00:29,408
+as pessoas não adianta só os processos, não adianta.
+
+9
+00:00:29,420 --> 00:00:32,240
+A gente precisa de tecnologia, precisa de tecnologia abarcada
+
+10
+00:00:32,250 --> 00:00:35,310
+dentro desse soque, porque os adversários do BNF possuem
+
+11
+00:00:35,395 --> 00:00:38,145
+tecnologias e com alto poder de processamento.
+
+12
+00:00:38,154 --> 00:00:41,533
+Então é importante entender quais são as tecnologias que podem
+
+13
+00:00:41,543 --> 00:00:45,043
+ser envolvidas e vai contribuir.
+
+14
+00:00:45,054 --> 00:00:48,204
+Para o soque, o sucesso do soque do Centro
+
+15
+00:00:48,215 --> 00:00:54,043
+de Preço de Segurança depende significamente da significamente da implementação
+
+16
+00:00:54,054 --> 00:00:58,185
+de ferramentas e tecnologias avançadas para garantir a detecção,
+
+17
+00:00:58,194 --> 00:01:01,304
+análise e resposta eficiente a dente de segurança.
+
+18
+00:01:01,314 --> 00:01:06,569
+Nós precisamos de ferramentas e ferramentas cada vez mais atualizadas,
+
+19
+00:01:06,579 --> 00:01:16,209
+poderosas, abrangentes para garantir o não acessoàs informações
+
+20
+00:01:17,299 --> 00:01:21,769
+é ser cri, eh em evento É uma peça
+
+21
+00:01:21,778 --> 00:01:25,028
+fundamental no Acer do Soque, né? Permitindo a
+
+22
+00:01:25,040 --> 00:01:29,028
+coleta, a correlação e análise de dados em diversos
+
+23
+00:01:29,040 --> 00:01:30,569
+pontos da infraestrutura de T I.
+
+24
+00:01:31,049 --> 00:01:35,138
+Ele agrega informações de de sistemas, aplicativos e dispositivos
+
+25
+00:01:35,150 --> 00:01:39,198
+de redes para identificar padrões e anomalias.
+
+26
+00:01:39,209 --> 00:01:42,609
+Análise de tempo real e a capacidade de correlacionar a
+
+27
+00:01:42,620 --> 00:01:47,739
+eventos ajudam a identificar atividades suspeitas, permitindo respostas rápidas
+
+28
+00:01:47,750 --> 00:01:50,079
+a potenciais ameaças.
+
+29
+00:01:51,219 --> 00:01:53,668
+Quando eh, quando a gente fala de ferramentas,
+
+30
+00:01:53,680 --> 00:01:55,359
+a gente precisa entender que essas ferramentas, elas pessoal,
+
+31
+00:01:55,370 --> 00:01:57,750
+tá em tempo real monitorando, então precisa de um
+
+32
+00:01:57,760 --> 00:02:00,790
+bom processamento, tem que ser ferramentas robustas, ferramentas
+
+33
+00:02:00,799 --> 00:02:02,709
+com atualizações contínuas, que, como a gente já
+
+34
+00:02:02,719 --> 00:02:05,689
+falou várias vezes aqui toda hora, a cada minuto
+
+35
+00:02:05,698 --> 00:02:07,109
+existe uma nova vulnerabilidade.
+
+36
+00:02:07,120 --> 00:02:10,879
+Então ela precisa ter uma precisa de atualização frequente dinâmica,
+
+37
+00:02:10,889 --> 00:02:11,229
+então eh.
+
+38
+00:02:11,240 --> 00:02:14,210
+É muito importante escolher a melhor ferramenta, né?
+
+39
+00:02:15,429 --> 00:02:19,558
+Atua como uma barreira inicial controlando o tráfico de rede
+
+40
+00:02:19,569 --> 00:02:22,479
+com base em regras pré definidas.
+
+41
+00:02:22,490 --> 00:02:25,719
+Sua função é evitar acessos não autorizados e proteger a
+
+42
+00:02:25,729 --> 00:02:28,960
+rede, enquanto o sistema de detecção de intrusão e
+
+43
+00:02:28,969 --> 00:02:31,960
+sistema de prevenção de intrusão monitora o tráfico em busca
+
+44
+00:02:31,969 --> 00:02:32,439
+de padrões.
+
+45
+00:02:32,449 --> 00:02:35,460
+Maliciosos, né? O D S identifica.
+
+46
+00:02:35,469 --> 00:02:40,599
+Enquanto o i PS pode prevenir automaticamente atividades suspeitas,
+
+47
+00:02:40,610 --> 00:02:43,713
+então o é a rede de fogo ali.
+
+48
+00:02:43,724 --> 00:02:47,034
+A primeira regra, a primeira barreira, né?
+
+49
+00:02:47,044 --> 00:02:50,713
+Para para entrar na rede da organização é fundamental entender
+
+50
+00:02:50,724 --> 00:02:50,875
+isso.
+
+51
+00:02:50,883 --> 00:02:54,594
+É fundamental ter ele e aplicar as regras e atualizar
+
+52
+00:02:54,604 --> 00:02:55,194
+essas regras.
+
+53
+00:02:55,205 --> 00:02:57,955
+Frequentemente não adianta você colocar uma regra lá e não
+
+54
+00:02:57,963 --> 00:03:01,913
+conseguir eh e não não ter uma política de revisão
+
+55
+00:03:01,925 --> 00:03:03,014
+de de dessas regras.
+
+56
+00:03:03,024 --> 00:03:07,175
+Então é fundamental ter um farol bem atualizado e,
+
+57
+00:03:07,183 --> 00:03:09,974
+principalmente, as regras bem atualizadas.
+
+58
+00:03:11,308 --> 00:03:16,520
+Antivírus e antimalware são ferramentas cruciais para a proteção proativa
+
+59
+00:03:16,528 --> 00:03:18,558
+contra ameaças conhecidas.
+
+60
+00:03:18,569 --> 00:03:22,149
+Elas examinam arquivos e processos em busca de assinaturas de
+
+61
+00:03:22,159 --> 00:03:25,778
+Maury impedindo a execução de softwares maliciosos no ambiente.
+
+62
+00:03:26,719 --> 00:03:30,210
+As ferramentas de análise forense desempenham um papel crucial no
+
+63
+00:03:30,219 --> 00:03:31,528
+processo de investigação.
+
+64
+00:03:31,538 --> 00:03:34,330
+Após a ocorrência de um incidente de segurança, Elas
+
+65
+00:03:34,338 --> 00:03:38,449
+proporcionam uma abordagem sistemática e detalhada para entender a natureza
+
+66
+00:03:38,460 --> 00:03:42,169
+do incidente, identificar suas origens, determinar a extensão
+
+67
+00:03:42,179 --> 00:03:45,288
+do comprometimento e, por fim, fortalecer as defesas
+
+68
+00:03:45,300 --> 00:03:47,409
+contra a ameaça futuras.
+
+69
+00:03:47,419 --> 00:03:50,050
+Então, antivírus a gente todo mundo já conhece o
+
+70
+00:03:50,058 --> 00:03:50,949
+antivírus no seu seu lado.
+
+71
+00:03:50,960 --> 00:03:53,270
+Deve ser um antivírus, né? Ali ela ela
+
+72
+00:03:53,278 --> 00:03:56,669
+protege quando contra eh ameaças já conhecidas.
+
+73
+00:03:56,679 --> 00:03:59,270
+Sabe aquelas ameaças de que já já estão no banco
+
+74
+00:03:59,278 --> 00:04:02,270
+de dados de ameaças conhecidas? Aí? É a
+
+75
+00:04:02,278 --> 00:04:05,490
+obrigação do seu antivírus proteger você contra eles Tá?
+
+76
+00:04:06,919 --> 00:04:10,409
+Após a detecção do incidente As ferramentas de análise forense
+
+77
+00:04:10,419 --> 00:04:13,588
+são acionadas para realizar uma atividade profunda.
+
+78
+00:04:14,179 --> 00:04:17,959
+Elas examinam logs, arquivos de sistema, registro de
+
+79
+00:04:17,970 --> 00:04:23,309
+atividades e outros dados relevantes para reconstruir a sequência de
+
+80
+00:04:23,319 --> 00:04:24,689
+eventos que levaram o acidente.
+
+81
+00:04:25,480 --> 00:04:29,750
+A capacidade de realizar uma investigação detalhada é vital para
+
+82
+00:04:29,759 --> 00:04:33,250
+determinar não apenas como o acidente ocorreu, mas também
+
+83
+00:04:33,259 --> 00:04:38,129
+para identificar possíveis pontos de entrada técnico utilizadas pelos invasores
+
+84
+00:04:38,139 --> 00:04:40,509
+e quaisquer indicadores de comprometimento.
+
+85
+00:04:40,519 --> 00:04:43,290
+Por que que isso é importante pra evitar um novo,
+
+86
+00:04:43,298 --> 00:04:45,730
+né? Uma nova invasão, um novo comprometimento.
+
+87
+00:04:45,738 --> 00:04:48,079
+A partir do momento que você tem uma análise profunda,
+
+88
+00:04:48,088 --> 00:04:50,928
+uma análise detalhada, você entende onde foi o a
+
+89
+00:04:50,939 --> 00:04:53,259
+vulnerabilidade e você consegue fechar aquela porta.
+
+90
+00:04:53,269 --> 00:04:55,488
+Então, essa análise é fundamental pra evitar um novo
+
+91
+00:04:55,500 --> 00:05:00,149
+risco, né? Uma das principais metas de análise
+
+92
+00:05:00,160 --> 00:05:04,298
+forense é determinar a origem do incidente e envolve rastrear
+
+93
+00:05:04,309 --> 00:05:08,100
+as atividades maliciosas até as suas fontes, identificando sistemas
+
+94
+00:05:08,108 --> 00:05:12,619
+comprometidos, pontos de entrada utilizados pelos invasores e quanto
+
+95
+00:05:12,629 --> 00:05:17,678
+possível a atribuição de grupos específicos ou agentes cibernéticos.
+
+96
+00:05:18,088 --> 00:05:22,579
+Essa informação é crucial para uma resposta eficaz, medidas
+
+97
+00:05:22,588 --> 00:05:26,980
+corretivas direcionadas e para colaboração de autoridades ou terceiros,
+
+98
+00:05:26,988 --> 00:05:28,019
+quando necessários.
+
+99
+00:05:28,028 --> 00:05:31,358
+Então, continuando, é fundamental ter essa análise forense
+
+100
+00:05:31,369 --> 00:05:35,338
+pra entender a por onde veio, por onde passou,
+
+101
+00:05:35,350 --> 00:05:38,619
+o que aconteceu, como você vai fechar e principalmente,
+
+102
+00:05:38,629 --> 00:05:42,410
+depois pra Eh eh? Eh pra acionar, né?
+
+103
+00:05:42,420 --> 00:05:45,928
+As atividades autoridades Pra que o pra que aquela pessoa
+
+104
+00:05:45,939 --> 00:05:50,009
+possa ser denunciada? Pra que ocorra? Eh justiça,
+
+105
+00:05:50,019 --> 00:05:53,569
+né? Processar! Processar aquelas pessoas que roubaram os
+
+106
+00:05:53,579 --> 00:05:54,028
+seus dados.
+
+107
+00:05:54,040 --> 00:05:56,088
+Enfim, essa análise ela vem de ponta a ponta
+
+108
+00:05:56,100 --> 00:05:57,048
+desde o momento.
+
+109
+00:05:57,059 --> 00:05:59,980
+Você identificar o que aconteceu por onde passou, pra
+
+110
+00:05:59,988 --> 00:06:05,209
+você fechar aquelas barreiras e também pra as ações legais,
+
+111
+00:06:05,220 --> 00:06:08,548
+né? Além de entender a origem, as ferramentas
+
+112
+00:06:08,559 --> 00:06:11,709
+de análise forense ajuda a ajuda na avaliação da extensão
+
+113
+00:06:11,720 --> 00:06:12,889
+do comprometimento.
+
+114
+00:06:12,899 --> 00:06:16,720
+Ela identifica quais sistemas foram afetados, Quais dados foram
+
+115
+00:06:16,730 --> 00:06:21,709
+acessados ou comprometidos e se há persistência de ameaça no
+
+116
+00:06:21,720 --> 00:06:22,689
+ambiente.
+
+117
+00:06:22,699 --> 00:06:26,709
+Já essa avaliação é essencial para tomar decisões informadas sobre
+
+118
+00:06:26,720 --> 00:06:29,528
+a remediação e a recuperação pós acidente.
+
+119
+00:06:31,079 --> 00:06:36,000
+Automação desempenha um papel vital tá na aceleração da resposta
+
+120
+00:06:36,009 --> 00:06:40,129
+O seguinte ferramenta de automação e orquestração permite a execução
+
+121
+00:06:40,139 --> 00:06:44,970
+automatizada de tarefas rotineiras, como isolamento de sistemas comprometido,
+
+122
+00:06:44,980 --> 00:06:50,720
+aplicação de pets e redefinição de credenciais ao coordenações entre
+
+123
+00:06:50,730 --> 00:06:51,170
+ações.
+
+124
+00:06:51,178 --> 00:06:54,139
+Se entre equipes de segurança, essas ferramentas garantem uma
+
+125
+00:06:54,149 --> 00:06:57,480
+resposta mais rápida e consistente, reduzindo o tempo de
+
+126
+00:06:57,488 --> 00:06:59,838
+inatividade e impacto de incidente.
+
+127
+00:06:59,850 --> 00:07:01,319
+Então a gente tem que ter automação.
+
+128
+00:07:01,329 --> 00:07:04,858
+Automação é a palavra chave na questão do pós incidente.
+
+129
+00:07:05,569 --> 00:07:08,230
+Quando você fala em teve um incidente, o pós
+
+130
+00:07:08,238 --> 00:07:10,619
+como que é a recuperação, como é a reativação
+
+131
+00:07:10,629 --> 00:07:14,540
+dos sistemas ao Estado antes do incidente? Então você
+
+132
+00:07:14,548 --> 00:07:18,259
+tem um sistema de automação forte, coeso, garante
+
+133
+00:07:18,269 --> 00:07:21,720
+a a o retorno mais breve dos sistemas da forma
+
+134
+00:07:21,730 --> 00:07:27,119
+que era Tá VPN VPN são frequentemente utilizadas para proteger
+
+135
+00:07:27,129 --> 00:07:28,528
+a comunicação remota.
+
+136
+00:07:28,540 --> 00:07:32,709
+Elas que program o tráfego, garantindo a Coscia e
+
+137
+00:07:32,720 --> 00:07:36,420
+a integridade das comunicações, especialmente quando membros da equipe
+
+138
+00:07:36,428 --> 00:07:39,709
+só que precisam acessar a infraestrutura de forma remota.
+
+139
+00:07:39,720 --> 00:07:41,790
+Tá viajando? Tá fazendo um home office, tem
+
+140
+00:07:41,798 --> 00:07:43,750
+que ser tudo via via VPN.
+
+141
+00:07:43,759 --> 00:07:46,108
+Tá então a questão das ferramentas.
+
+142
+00:07:46,119 --> 00:07:50,750
+Metodologia são fundamentais para um bom funcionamento de um soque.
+
+143
+00:07:50,759 --> 00:07:54,819
+Soque precisa de pessoas, mas também preciso de processos
+
+144
+00:07:54,829 --> 00:08:00,259
+e ferramentas atualizadas, ferramentas propícias para desde o momento
+
+145
+00:08:00,269 --> 00:08:04,338
+de evitar o incidente ou até o momento da recuperação
+
+146
+00:08:04,350 --> 00:08:04,858
+do incidente.
+
+147
+00:08:04,869 --> 00:08:07,059
+Um pós Ocidente, então, é toda essa etapa.
+
+148
+00:08:07,069 --> 00:08:11,040
+Ela precisa ser mapeada, desenhada e implementada da melhor
+
+149
+00:08:11,048 --> 00:08:13,338
+forma possível em cada ambiente, em cada soque.
+
+150
+00:08:13,350 --> 00:08:16,059
+Tá bom, te vejo na próxima aula! Obrigado
+
+151
+00:08:16,069 --> 00:08:16,639
+por acompanhar
+

@@ -1,0 +1,848 @@
+1
+00:00:06,360 --> 00:00:09,648
+Olá, vamos continuar falando um pouco de transformação,
+
+2
+00:00:09,659 --> 00:00:11,810
+de processo e gerenciamento de mudanças.
+
+3
+00:00:11,819 --> 00:00:16,190
+Bom eh Dentro desse contexto, algumas palavrinhas são bem
+
+4
+00:00:16,199 --> 00:00:20,068
+relevantes, né? Considerando essa perspectiva, ah,
+
+5
+00:00:20,079 --> 00:00:23,089
+de aprendizado, dos au-, do do que é
+
+6
+00:00:23,100 --> 00:00:24,850
+falado no mercado dos autores.
+
+7
+00:00:24,859 --> 00:00:27,208
+As palavrinhas são essa aqui, oh, redesenho,
+
+8
+00:00:27,219 --> 00:00:29,888
+reengenharia e mudança de paradigma, né? Se a
+
+9
+00:00:29,899 --> 00:00:32,149
+gente ouve falar aqui eu vou fazer redesenho, Vou
+
+10
+00:00:32,158 --> 00:00:33,649
+redesenhar o meu processo.
+
+11
+00:00:33,658 --> 00:00:35,029
+Reengenharia.
+
+12
+00:00:35,039 --> 00:00:38,130
+Isso foi muito falado, muito utilizado no no no
+
+13
+00:00:38,139 --> 00:00:40,149
+Eh EH no passado até hoje, né? É
+
+14
+00:00:40,158 --> 00:00:43,348
+considerado e mudança de paradigma Vamos ver o que significa
+
+15
+00:00:43,359 --> 00:00:47,399
+cada um desses, eh dessas palavrinhas cara num desses
+
+16
+00:00:47,408 --> 00:00:51,478
+termos aqui dentro do nosso eh gerenciamento de processo olha
+
+17
+00:00:51,490 --> 00:00:53,609
+lá a melhoria de processo.
+
+18
+00:00:53,618 --> 00:00:56,439
+Bom antes, antes da gente focar nesses três.
+
+19
+00:00:56,450 --> 00:00:58,798
+Perspectivas, né? Tem um um, um um,
+
+20
+00:00:58,810 --> 00:01:02,209
+um um um um trechinho aqui de um de uma
+
+21
+00:01:02,219 --> 00:01:03,798
+de um site bem legal.
+
+22
+00:01:03,810 --> 00:01:07,519
+Olha só melhoria de processos ou BPI que nós chamamos,
+
+23
+00:01:07,528 --> 00:01:14,760
+né? Processo é uma iniciativa específica ou um projeto
+
+24
+00:01:14,769 --> 00:01:19,000
+para melhorar o alinhamento e o desempenho de processo com
+
+25
+00:01:19,010 --> 00:01:22,838
+a estratégia organizacional e as expectativas do cliente? Olha
+
+26
+00:01:22,849 --> 00:01:23,599
+que legal, né.
+
+27
+00:01:23,609 --> 00:01:25,319
+Então, ah, mas por que que a gente
+
+28
+00:01:25,329 --> 00:01:27,000
+tá falando de melhoria de processo, porque a melhoria
+
+29
+00:01:27,010 --> 00:01:30,159
+de processo, ela vai, tá ligado ao redesenho,
+
+30
+00:01:30,168 --> 00:01:33,849
+a reengenharia e essa mudança, porque eh isso é
+
+31
+00:01:33,859 --> 00:01:38,638
+a A a essa melhoria, ela é a ela
+
+32
+00:01:38,650 --> 00:01:40,620
+acontece e eu entrego.
+
+33
+00:01:40,629 --> 00:01:43,219
+Ou pra pra pra essa melhoria, né? Essa
+
+34
+00:01:43,230 --> 00:01:47,480
+mudança eu entrego ou a reengenharia ou emprega o redesenho
+
+35
+00:01:47,489 --> 00:01:49,750
+ou eu entrego a mudança de paradigma? A gente
+
+36
+00:01:49,760 --> 00:01:52,599
+vai olhar isso aí um pouquinho de de eh cada
+
+37
+00:01:52,609 --> 00:01:54,278
+um desses dessas perspectivas.
+
+38
+00:01:54,290 --> 00:01:56,698
+Mas vamos focar aqui no que tá escrito aqui.
+
+39
+00:01:56,709 --> 00:01:58,900
+Oh! Iniciativa específica é um projeto pra melhorar o
+
+40
+00:01:58,909 --> 00:02:04,290
+alinhamento, o desempenho agora Alinhamento do desempenho Que alinhamento
+
+41
+00:02:04,299 --> 00:02:05,058
+o desempenho.
+
+42
+00:02:05,069 --> 00:02:09,699
+Porque eu tenho estratégia organizacional aqui eu tenho estratégia organizacional
+
+43
+00:02:09,710 --> 00:02:13,038
+que alinhamento ao desempenho, porque eu tenho expectativa do
+
+44
+00:02:13,050 --> 00:02:15,439
+meu cliente, né, A gente volta, a
+
+45
+00:02:15,449 --> 00:02:18,219
+gente volta volta e a gente sempre! Para nessas,
+
+46
+00:02:18,229 --> 00:02:23,659
+na estratégia organizacional, como como um eh, vamos
+
+47
+00:02:23,669 --> 00:02:29,479
+dizer assim como a nossa premissa básica do nosso entendimento,
+
+48
+00:02:29,490 --> 00:02:36,008
+bem como é a expectativa do cliente, eh reforçando
+
+49
+00:02:36,020 --> 00:02:38,569
+essa premissa básica, né? Eh! Por que
+
+50
+00:02:38,580 --> 00:02:40,338
+que eu tô falando Isso porque quando você faz,
+
+51
+00:02:40,349 --> 00:02:42,729
+faz estratégia organizacional, obviamente você tem que olhar a
+
+52
+00:02:42,740 --> 00:02:44,528
+expectativa do seu cliente, não, isso não pode
+
+53
+00:02:44,538 --> 00:02:48,189
+ser desassociado, Tá? Eh o o, a
+
+54
+00:02:48,199 --> 00:02:51,808
+sua organização existe pra atender a expectativa do teu cliente
+
+55
+00:02:51,819 --> 00:02:55,189
+pra ofertar um produto ou serviço, Então a sua
+
+56
+00:02:55,199 --> 00:02:59,118
+estratégia organizacional ela é construída em cima da expectativa do
+
+57
+00:02:59,129 --> 00:02:59,610
+cliente.
+
+58
+00:02:59,618 --> 00:03:04,409
+Então nasce a estratégia organizacional em cima da expectativa do
+
+59
+00:03:04,419 --> 00:03:08,149
+cliente pra realizar aí cons eh, eh os objetivos
+
+60
+00:03:08,159 --> 00:03:12,210
+institucionais! Que a sua organização assim eh o deseja,
+
+61
+00:03:12,219 --> 00:03:16,669
+tá bom, a gente fala de formas de diferença
+
+62
+00:03:16,679 --> 00:03:19,439
+e tal Mas fique claro pra vocês tá? Não,
+
+63
+00:03:19,449 --> 00:03:22,669
+se não não se desviem nunca, né? Da
+
+64
+00:03:22,679 --> 00:03:29,088
+estratégia organizacional em definir ela em planejar ela institucionalizar ela
+
+65
+00:03:29,099 --> 00:03:34,149
+e monitorar em garantir essa estratégia, que ela exista
+
+66
+00:03:34,159 --> 00:03:35,360
+e seja executada.
+
+67
+00:03:35,368 --> 00:03:39,729
+Mas isso em função do resultado que você tem que
+
+68
+00:03:39,740 --> 00:03:42,649
+entregar pro seu cliente, né, Que no meu
+
+69
+00:03:42,659 --> 00:03:46,868
+entendimento eu até eu até colocaria aqui eh uma palavrinha
+
+70
+00:03:46,879 --> 00:03:50,038
+a mais de eh além da expectativa, né?
+
+71
+00:03:50,050 --> 00:03:54,439
+Que seria atender duas palavrinhas, né? Atender e
+
+72
+00:03:54,449 --> 00:03:57,250
+superar as expectativas do seu cliente, olha aqui,
+
+73
+00:03:57,258 --> 00:04:00,319
+né? Estratégia e as expectativas do cliente em que
+
+74
+00:04:00,330 --> 00:04:03,580
+sentido em atender a essas é superar.
+
+75
+00:04:03,889 --> 00:04:06,058
+Eu gosto muito da palavra superar a expectativa do meu
+
+76
+00:04:06,069 --> 00:04:06,699
+cliente.
+
+77
+00:04:06,710 --> 00:04:09,300
+Ele vem com aquela necessidade, com aquela Poxa,
+
+78
+00:04:09,308 --> 00:04:10,139
+eu queria isso.
+
+79
+00:04:10,149 --> 00:04:11,899
+E aí você entregou alguma coisa? Que cara,
+
+80
+00:04:11,909 --> 00:04:15,099
+tá muito além daquilo que ele imaginava, tá muito
+
+81
+00:04:15,110 --> 00:04:17,709
+melhor esse cliente vai voltar pra tua, pra tua
+
+82
+00:04:17,720 --> 00:04:21,778
+organização Ele vai voltar, ele vai indicar ele vai
+
+83
+00:04:21,790 --> 00:04:24,220
+sabe, não tem, não tem outra palavra pra
+
+84
+00:04:24,230 --> 00:04:24,939
+pra pra pra.
+
+85
+00:04:24,949 --> 00:04:27,420
+Descrever o o o, o resultado que isso vai
+
+86
+00:04:27,428 --> 00:04:29,500
+ter dentro da organização, a não ser sucesso.
+
+87
+00:04:29,509 --> 00:04:33,689
+O sucesso tá legal, bom redesenho de processo.
+
+88
+00:04:33,699 --> 00:04:37,129
+Quando a gente fala daquela da perspectiva aqui de de,
+
+89
+00:04:37,139 --> 00:04:38,379
+de vou voltar aqui um pouquinho.
+
+90
+00:04:38,389 --> 00:04:41,410
+Quando a gente fala de eh melhoria de processo de
+
+91
+00:04:41,420 --> 00:04:43,829
+negócio, né? Eu tenho redesenho de processo.
+
+92
+00:04:44,428 --> 00:04:47,319
+Então, diferente de melhoria de processo, o redesenho
+
+93
+00:04:47,329 --> 00:04:48,778
+é repensar de ponta a ponta.
+
+94
+00:04:48,790 --> 00:04:51,048
+Olha que que interessante, né? O redesenho Eu
+
+95
+00:04:51,059 --> 00:04:54,959
+tô repensando o processo de ponta a ponta sobre o
+
+96
+00:04:54,970 --> 00:04:56,600
+que o processo tá realizando atualmente.
+
+97
+00:04:56,608 --> 00:05:00,199
+Então eu olho lembra daquele s I? Então eu
+
+98
+00:05:00,209 --> 00:05:02,084
+olho o e o que que eu tô fazendo agora
+
+99
+00:05:02,095 --> 00:05:04,863
+atualmente, e vou para o ponta.
+
+100
+00:05:04,875 --> 00:05:07,024
+Mas isso considerando ponta a ponta, tá, eu
+
+101
+00:05:07,035 --> 00:05:08,884
+não vou usar, Não vou redesenhar um um,
+
+102
+00:05:08,894 --> 00:05:12,704
+uma parte do meu processo, um processo específico,
+
+103
+00:05:12,713 --> 00:05:14,384
+um item do meu processo, eu vou redesenhar ele
+
+104
+00:05:14,394 --> 00:05:15,564
+de ponta a ponta.
+
+105
+00:05:15,574 --> 00:05:19,463
+Eu vou olhar a entrada do meu processo, né?
+
+106
+00:05:19,475 --> 00:05:22,903
+E refazer ele redesenhar até a saída do meu processo.
+
+107
+00:05:22,915 --> 00:05:24,684
+Isso é redesenho de processo.
+
+108
+00:05:24,694 --> 00:05:25,803
+Tá legal.
+
+109
+00:05:26,119 --> 00:05:29,009
+Beleza então melho eh, eh! Por que questão?
+
+110
+00:05:29,019 --> 00:05:30,209
+De por que que ele fala que a gente tá
+
+111
+00:05:30,220 --> 00:05:31,889
+falando aqui, que é diferente de melhoria de processo
+
+112
+00:05:31,899 --> 00:05:33,809
+e eu gosto muito da melhoria de processo, né?
+
+113
+00:05:33,819 --> 00:05:36,369
+Então eh eu olho pra um processo, e vejo
+
+114
+00:05:36,379 --> 00:05:38,000
+poxa, eu tenho que melhorar esse processo.
+
+115
+00:05:38,009 --> 00:05:41,428
+Então esse pressuponho que eu preciso melhorar o processo.
+
+116
+00:05:41,439 --> 00:05:43,730
+Eu posso falar, melhorar, fa, redesenhando,
+
+117
+00:05:43,738 --> 00:05:45,369
+esse processo não tem.
+
+118
+00:05:45,379 --> 00:05:47,488
+Não é problema quanto a isso, né? A
+
+119
+00:05:47,500 --> 00:05:48,588
+melhoria é uma, é uma.
+
+120
+00:05:48,600 --> 00:05:50,649
+É uma perspectiva que a gente tem que ter pra
+
+121
+00:05:50,660 --> 00:05:51,509
+vida da gente.
+
+122
+00:05:51,910 --> 00:05:54,928
+O certo então, quando a gente pensa assim eu
+
+123
+00:05:54,939 --> 00:05:55,189
+posso.
+
+124
+00:05:55,199 --> 00:05:57,798
+Tá, Eu preciso melhorar esse processo.
+
+125
+00:05:57,809 --> 00:05:59,079
+Como é que eu vou melhorar ele.
+
+126
+00:05:59,088 --> 00:06:00,699
+Ah, vou redes lo.
+
+127
+00:06:00,709 --> 00:06:03,798
+Okay, bacana, show redesenho de processos.
+
+128
+00:06:03,809 --> 00:06:04,319
+Ah, não.
+
+129
+00:06:04,329 --> 00:06:06,129
+Eu preciso melhorar só essa essa, esse pro,
+
+130
+00:06:06,139 --> 00:06:07,939
+esse, essa tarefa aqui.
+
+131
+00:06:07,949 --> 00:06:10,920
+Essa tarefa ali e tal não tem importância tá,
+
+132
+00:06:10,928 --> 00:06:12,819
+Mas a melhoria ela é fundamental.
+
+133
+00:06:12,829 --> 00:06:16,540
+Ela tem que acompanhar de a essa jornada tá legal?
+
+134
+00:06:16,548 --> 00:06:23,410
+A outra é reengenharia repensar fundamentalmente e um redesenho radical
+
+135
+00:06:23,420 --> 00:06:24,910
+dos de processo.
+
+136
+00:06:24,920 --> 00:06:28,290
+Tá, olha só pra obter melhorias dramáticas? Pessoal!
+
+137
+00:06:28,298 --> 00:06:30,649
+Eh a reengenharia há um tempo atrás era assim A
+
+138
+00:06:30,660 --> 00:06:33,488
+palavra da moda foi a palavra da moda, né?
+
+139
+00:06:33,500 --> 00:06:37,829
+Só que isso num determinado ponto gerou um certo estranhamento
+
+140
+00:06:37,838 --> 00:06:41,470
+aí uma certa preocupação, Porque quem fala redesenho radical
+
+141
+00:06:41,480 --> 00:06:45,269
+do processo, melhorias dramáticas no processo, cara?
+
+142
+00:06:45,278 --> 00:06:46,709
+Quando você pensa assim? Cê fala assim cara,
+
+143
+00:06:46,720 --> 00:06:48,309
+eu tava totalmente errado.
+
+144
+00:06:48,319 --> 00:06:51,295
+Eu tava fora da sozinha quando eu pensei isso,
+
+145
+00:06:51,303 --> 00:06:54,494
+né, pô, Será que isso aí eh algumas,
+
+146
+00:06:54,504 --> 00:06:56,875
+alguns autores aí, ao longo desse caminho de de
+
+147
+00:06:56,884 --> 00:07:01,975
+da da dessa perspectiva de reengenharia, foram abandonando essa
+
+148
+00:07:01,983 --> 00:07:04,754
+questão da reengenharia da do, de usar, né?
+
+149
+00:07:04,764 --> 00:07:09,939
+E esse eh eh essa palavrinha reengenharia justamente por causa
+
+150
+00:07:09,949 --> 00:07:14,588
+dessa questão radical, radical e dramática, né?
+
+151
+00:07:14,600 --> 00:07:19,048
+Que é realmente sim é pesado, né? É
+
+152
+00:07:19,059 --> 00:07:20,928
+pesado, se a gente for pensar, eu vou
+
+153
+00:07:20,939 --> 00:07:22,329
+é pesado, você fala cara, eu vou fazer
+
+154
+00:07:22,338 --> 00:07:23,858
+uma reengenharia do meu processo.
+
+155
+00:07:23,869 --> 00:07:27,600
+Então! Mas enfim e existe, claro, existe
+
+156
+00:07:27,608 --> 00:07:28,809
+essa possibilidade existe.
+
+157
+00:07:28,819 --> 00:07:30,369
+Ela pode ser usada.
+
+158
+00:07:30,379 --> 00:07:32,009
+Claro que pode! Não tô falando aqui que não
+
+159
+00:07:32,019 --> 00:07:34,009
+é lícito, né? não é permitido.
+
+160
+00:07:34,019 --> 00:07:36,230
+E você? Não deve fazer não, né?
+
+161
+00:07:36,238 --> 00:07:37,809
+Não, não é, Não é isso que eu
+
+162
+00:07:37,819 --> 00:07:40,574
+tô querendo dizer Eu só tô querendo que você pense
+
+163
+00:07:40,584 --> 00:07:43,454
+que quando você o fizer, você entenda o que
+
+164
+00:07:43,463 --> 00:07:45,494
+você está fazendo, Porque aqui a gente tá falando
+
+165
+00:07:45,504 --> 00:07:50,764
+de radicalismo a gente tá falando de dramaticidade da mudança,
+
+166
+00:07:50,774 --> 00:07:53,454
+né? O drama da mudan e, inclusive,
+
+167
+00:07:53,463 --> 00:07:56,173
+a dramatização da mudança? Porque a mudança é dramática,
+
+168
+00:07:56,184 --> 00:07:58,975
+né? Então é sempre uma questão de um alto
+
+169
+00:07:58,983 --> 00:08:02,095
+risco que você tá correndo ali, né? Buscando
+
+170
+00:08:02,105 --> 00:08:04,014
+essa essa essa perspectiva tá.
+
+171
+00:08:04,024 --> 00:08:04,934
+Então vale a pena.
+
+172
+00:08:04,944 --> 00:08:09,233
+Só você prestar atenção nessa questão da da reengenharia pra
+
+173
+00:08:09,869 --> 00:08:12,959
+entender o custo, o benefício disso e o impacto
+
+174
+00:08:12,970 --> 00:08:15,119
+de de dentro da sua organização, né? E
+
+175
+00:08:15,129 --> 00:08:18,160
+os riscos inerentes a esse processo tá fale até um
+
+176
+00:08:18,170 --> 00:08:19,459
+pouquinho a mais, mas é É.
+
+177
+00:08:19,470 --> 00:08:21,220
+Eu gosto de reforçar esse assunto aqui.
+
+178
+00:08:21,470 --> 00:08:23,879
+E a última que a gente tem aqui é a
+
+179
+00:08:23,889 --> 00:08:24,910
+mudança de paradigma.
+
+180
+00:08:24,920 --> 00:08:26,920
+Opa pera! Aí eu voltei e falei de reengenharia,
+
+181
+00:08:26,928 --> 00:08:28,678
+mas eu, eu eu só só pra mostrar aqui
+
+182
+00:08:28,689 --> 00:08:30,778
+o gráfico pra vocês Oh, eu fiz aqui uma
+
+183
+00:08:30,790 --> 00:08:34,320
+um apontamento no radical e um apontamento no dramático aqui
+
+184
+00:08:34,330 --> 00:08:36,558
+pra gente entender tá legal, Então só pra ficar
+
+185
+00:08:36,570 --> 00:08:39,279
+bem marcada essas duas palavrinhas aqui, oh, radical
+
+186
+00:08:39,288 --> 00:08:41,759
+e dramática tá A outra que nós temos é a
+
+187
+00:08:41,769 --> 00:08:44,460
+mudança de paradigma, ou seja, é uma mudança
+
+188
+00:08:44,469 --> 00:08:52,019
+fundamental na abordagem ou pressuposto subjacente sobre um determinado assunto.
+
+189
+00:08:52,029 --> 00:08:54,058
+Então é uma abordagem de mudança.
+
+190
+00:08:54,070 --> 00:08:55,340
+Claro que não.
+
+191
+00:08:55,349 --> 00:08:58,019
+Não há problema em em em se mudar essa questão
+
+192
+00:08:58,029 --> 00:09:03,408
+da da, da, da, do meu processo,
+
+193
+00:09:03,418 --> 00:09:06,529
+né? Da abordagem, como eu vou trabalhar aquele
+
+194
+00:09:06,538 --> 00:09:09,950
+assunto, então eu mudo eh, faço o trabalho.
+
+195
+00:09:09,960 --> 00:09:13,788
+Essa perspectiva de mudança eh de paradigma, né?
+
+196
+00:09:13,798 --> 00:09:15,440
+Então eh, vamos supor.
+
+197
+00:09:15,450 --> 00:09:19,519
+Ah, é claro que essa mudança de paradigma também
+
+198
+00:09:19,529 --> 00:09:22,080
+pode envolver uma mudança radical, né? Como eu
+
+199
+00:09:22,090 --> 00:09:25,279
+abordo um produto com como eu abordo um serviço.
+
+200
+00:09:25,288 --> 00:09:28,279
+E enfim, qual é a mensagem da mudança de
+
+201
+00:09:28,288 --> 00:09:31,038
+paradigma? Qual é a mensagem por trás de uma
+
+202
+00:09:31,048 --> 00:09:34,239
+reengenharia de um redesenho? Sempre pensem que a melhoria
+
+203
+00:09:34,250 --> 00:09:37,158
+vai estar inserida dentro do contexto de uma mudança de
+
+204
+00:09:37,168 --> 00:09:40,820
+uma transformação, usando ou não o redesenho, reengenharia
+
+205
+00:09:40,830 --> 00:09:42,298
+ou mudança de paradigma.
+
+206
+00:09:42,308 --> 00:09:45,509
+O que você tem que entender é isso se estabelece
+
+207
+00:09:45,519 --> 00:09:49,259
+dentro da sua organização, avaliando custos, benefícios e
+
+208
+00:09:49,269 --> 00:09:53,739
+riscos para o teu processo, para o teu negócio.
+
+209
+00:09:53,750 --> 00:09:56,509
+Mas O objetivo final é sempre melhorar a qualidade,
+
+210
+00:09:56,519 --> 00:09:59,879
+eficiência e eficácia, entregar valor pro meu cliente gerar
+
+211
+00:09:59,889 --> 00:10:00,940
+valor pro meu cliente.
+
+212
+00:10:00,950 --> 00:10:02,500
+Obrigado até a próxima.
+

@@ -1,0 +1,556 @@
+1
+00:00:06,038 --> 00:00:08,849
+vamos lá, pessoal! Continuando a nossa aula de
+
+2
+00:00:08,859 --> 00:00:12,060
+gestão de segurança e continuidade, nós já falamos sobre
+
+3
+00:00:12,069 --> 00:00:15,130
+vários aspectos da segurança da informação e agora foi um
+
+4
+00:00:15,140 --> 00:00:16,170
+aspecto muito importante.
+
+5
+00:00:16,179 --> 00:00:19,329
+Tá, eu acho esse aspecto fundamental que é o
+
+6
+00:00:19,339 --> 00:00:20,429
+plano de comunicação.
+
+7
+00:00:20,440 --> 00:00:23,048
+Você precisa entender que a comunicação, ela precisa ser
+
+8
+00:00:23,059 --> 00:00:26,408
+feita de forma clara, específica, transparente e é
+
+9
+00:00:26,420 --> 00:00:33,484
+fundamental se comunicar da melhor forma possível pra evitar informações
+
+10
+00:00:33,493 --> 00:00:36,743
+falsas Fake News Então o plano de comunicação é fundamental
+
+11
+00:00:36,755 --> 00:00:38,844
+e nós, como U t i s, como
+
+12
+00:00:38,853 --> 00:00:42,344
+profissionais de tecnologia, a gente tem muito o que
+
+13
+00:00:42,353 --> 00:00:45,804
+aprender na questão da documentação, da da comunicação.
+
+14
+00:00:45,814 --> 00:00:51,084
+É fundamental você estudar comunicação e implementar plano de comunicação
+
+15
+00:00:51,094 --> 00:00:52,304
+dentro da sua organização.
+
+16
+00:00:53,399 --> 00:00:54,368
+E aí, quando a gente fala de plano de
+
+17
+00:00:54,380 --> 00:00:56,408
+comunicação a gente já tem assim, oh os planos
+
+18
+00:00:56,418 --> 00:00:59,700
+de comunicações, define como a comunicação será mantida durante
+
+19
+00:00:59,709 --> 00:01:02,609
+o incidente Pra evitar gente fake news, conversa de
+
+20
+00:01:02,618 --> 00:01:05,918
+corredor, eh, eh, Enfim, você precisa?
+
+21
+00:01:05,930 --> 00:01:08,129
+Tá bem claro como a comunicação vai ser feita.
+
+22
+00:01:08,138 --> 00:01:13,849
+Tá garantindo que todas as partes interessadas sejam devidamente informadas
+
+23
+00:01:13,859 --> 00:01:14,730
+esses planos.
+
+24
+00:01:14,739 --> 00:01:18,569
+Esta estabelece as bases para manter a coordenação, a
+
+25
+00:01:18,579 --> 00:01:22,308
+colaboração e a eficiência durante situações críticas.
+
+26
+00:01:22,750 --> 00:01:25,599
+As listas de contato são parte crítica do plano de
+
+27
+00:01:25,609 --> 00:01:26,338
+comunicação.
+
+28
+00:01:26,349 --> 00:01:30,838
+Elas são compiladas e atualizadas regularmente para incluir informações de
+
+29
+00:01:30,849 --> 00:01:34,760
+pessoas chaves que precisam ser notificadas em casos de acidente.
+
+30
+00:01:34,769 --> 00:01:36,239
+Qual o problema que a gente tem? Um plano
+
+31
+00:01:36,250 --> 00:01:37,829
+de comunicação? A genteàs vezes tem um plano
+
+32
+00:01:37,838 --> 00:01:39,638
+de comunicação até bem definido.
+
+33
+00:01:39,650 --> 00:01:41,120
+Só que a gente tem um problema que,às
+
+34
+00:01:41,129 --> 00:01:43,730
+vezes essa lista de contato não é uma lista atualizada,
+
+35
+00:01:43,739 --> 00:01:47,588
+Essa lista de contato, ela desatualizada, porque as
+
+36
+00:01:47,599 --> 00:01:48,909
+pessoas já saíram do órgão.
+
+37
+00:01:48,918 --> 00:01:52,469
+Então a lista de contato é um eh contém informações
+
+38
+00:01:52,480 --> 00:01:55,870
+essenciais, quais são as pessoas chaves como o que
+
+39
+00:01:55,879 --> 00:01:58,709
+tem que ser feito, quais são as qual é
+
+40
+00:01:58,719 --> 00:02:01,629
+a ação pra cada pessoa? Dessa lista de contato
+
+41
+00:02:01,638 --> 00:02:02,069
+eu já tive.
+
+42
+00:02:02,079 --> 00:02:04,569
+Já trabalhei em várias empresas que nós tivemos uma dificuldade
+
+43
+00:02:04,579 --> 00:02:08,288
+muito grande para deixar atualizada essa lista de contato.
+
+44
+00:02:08,300 --> 00:02:09,949
+Então, essa lista de contato é um, é
+
+45
+00:02:09,960 --> 00:02:13,360
+um organismo, é um documento vivo dentro de qualquer
+
+46
+00:02:13,368 --> 00:02:14,500
+plano de comunicação.
+
+47
+00:02:14,508 --> 00:02:19,159
+É fundamental ela ser revisada regularmente, porque vai que
+
+48
+00:02:19,169 --> 00:02:22,558
+acontece um acidente, você precisa se comunicar com alguém
+
+49
+00:02:22,569 --> 00:02:24,699
+e essa pessoa saiu da área ou não é mais
+
+50
+00:02:24,710 --> 00:02:26,538
+responsável por aquele serviço.
+
+51
+00:02:26,550 --> 00:02:31,219
+E aí você vai ficar perdido quem comunicar quem acionar
+
+52
+00:02:31,229 --> 00:02:33,219
+então a lista de contato, ou seja, uma
+
+53
+00:02:33,229 --> 00:02:36,949
+base de dados de contato, ela é fundamental pra
+
+54
+00:02:36,960 --> 00:02:40,490
+qualquer desastre, pra qualquer recuperação de desastre, porque
+
+55
+00:02:40,500 --> 00:02:43,528
+lá vai ter informações sobre as pessoas que vão te
+
+56
+00:02:43,538 --> 00:02:47,449
+vão contribuir pra restauração dos seus sistemas ou pelas pessoas
+
+57
+00:02:47,460 --> 00:02:50,210
+que precisam ser informadas da situação.
+
+58
+00:02:50,219 --> 00:02:53,288
+Eh que da do incidente, então você precisa ter
+
+59
+00:02:53,300 --> 00:02:58,169
+uma política estabelecida para essa lista de contato com atualizações
+
+60
+00:02:58,179 --> 00:03:00,868
+frequentes dessas listas de contato.
+
+61
+00:03:02,599 --> 00:03:05,770
+O plano de comunicação define como as informações críticas são
+
+62
+00:03:05,778 --> 00:03:07,830
+transmitidas durante o acidente.
+
+63
+00:03:07,838 --> 00:03:12,050
+As escolhas dos canais apropriados é essencial para garantir uma
+
+64
+00:03:12,058 --> 00:03:13,210
+comunicação eficaz.
+
+65
+00:03:13,219 --> 00:03:16,368
+Os planos de comunicações podem incluir uma variedade de canais
+
+66
+00:03:16,379 --> 00:03:19,490
+de comunicação a serem utilizados, como e mail,
+
+67
+00:03:19,500 --> 00:03:25,444
+telefone, mensagens instantâneas, aplicativos de colaboração, sistemas
+
+68
+00:03:25,455 --> 00:03:26,724
+de comunicação por rádio.
+
+69
+00:03:26,735 --> 00:03:31,044
+Olha aí! Entre outros essas situações críticas ter em
+
+70
+00:03:31,054 --> 00:03:34,024
+situações críticas, ter redundâncias de canais é uma prática
+
+71
+00:03:34,034 --> 00:03:35,004
+recomendada.
+
+72
+00:03:35,014 --> 00:03:37,564
+Gente, a gente precisa ter vários tipos de canais
+
+73
+00:03:37,574 --> 00:03:39,683
+de comunicação, porque não adianta nada você falar assim.
+
+74
+00:03:39,694 --> 00:03:42,004
+Ah, eu vou comunicar o a minha parte interessada
+
+75
+00:03:42,014 --> 00:03:43,944
+por e-mail e se o seu serviço de e-mail cair,
+
+76
+00:03:44,659 --> 00:03:47,949
+então você precisa ter vários canais de comunicação com essas
+
+77
+00:03:47,960 --> 00:03:51,270
+partes interessadas Entender que o plano de comunicação ele vai
+
+78
+00:03:51,278 --> 00:03:55,830
+envolver muitas e muitas pessoas, portanto, vai de
+
+79
+00:03:55,838 --> 00:03:59,868
+ter pessoas com diversas eh gerações, tem pessoas que
+
+80
+00:03:59,879 --> 00:04:01,909
+não gostam de trabalhar com whatsapp, outros só gostam
+
+81
+00:04:01,919 --> 00:04:04,580
+de e-mail, outros só preferem telefone, então você
+
+82
+00:04:04,588 --> 00:04:09,270
+precisa entender o ecossistema que você pertence e definir vários
+
+83
+00:04:09,278 --> 00:04:10,849
+canais de comunicação.
+
+84
+00:04:10,860 --> 00:04:13,429
+Tem que ser multicanal, multicanal.
+
+85
+00:04:13,439 --> 00:04:14,610
+Não adianta você criar.
+
+86
+00:04:14,618 --> 00:04:17,309
+Ah, aqui uma organização só comunica eu via e-mail.
+
+87
+00:04:17,319 --> 00:04:19,509
+Na minha organização, eu só via telefone, não
+
+88
+00:04:19,519 --> 00:04:21,009
+é isso mais, não pode ser assim.
+
+89
+00:04:21,019 --> 00:04:22,509
+Mais você tem que ter.
+
+90
+00:04:22,519 --> 00:04:25,209
+Tem que você tem que entender que a multiner realidade
+
+91
+00:04:25,220 --> 00:04:29,869
+é fundamental para qualquer comunicação eficaz dentro de uma empresa.
+
+92
+00:04:29,879 --> 00:04:36,209
+Tá voltando aqui? Os planos devem especificar quando a
+
+93
+00:04:36,220 --> 00:04:37,928
+notificação deve ocorrer.
+
+94
+00:04:37,939 --> 00:04:41,988
+Isso inclui notificar a equipe de resposta a incidentes imediatamente
+
+95
+00:04:42,000 --> 00:04:46,170
+após a detenção de incidentes e notificar partes interessadas externas
+
+96
+00:04:46,178 --> 00:04:48,588
+dentro dos prazos acordados.
+
+97
+00:04:49,259 --> 00:04:54,509
+Os procedimentos de notificação podem definir devem definir que tipo
+
+98
+00:04:54,519 --> 00:04:57,569
+de informação deve ser compartilhadas, o que pode incluir
+
+99
+00:04:57,579 --> 00:04:59,988
+detalhes sobre a natureza, o acidente, seu impacto
+
+100
+00:05:00,000 --> 00:05:04,278
+esperado, ações em andamento e próximas etapas, as
+
+101
+00:05:04,290 --> 00:05:08,858
+notificações das partes interessadas externas e particularmente importantes para cumprir
+
+102
+00:05:08,869 --> 00:05:14,389
+obrigações contratuais e regulatórias os procedimentos devem garantir que essa
+
+103
+00:05:14,399 --> 00:05:17,819
+organização esteja em conformidade com essas obrigações.
+
+104
+00:05:17,829 --> 00:05:21,889
+Tá quando a gente cria um plano de comunicação nesse
+
+105
+00:05:21,899 --> 00:05:24,660
+plano de comunicação que nós precisamos colocar todas as informações
+
+106
+00:05:24,670 --> 00:05:27,079
+necessárias, Aí vai detalhar quando eu tô falando de
+
+107
+00:05:27,088 --> 00:05:30,019
+parte técnica, quais são as informações técnicas que nós
+
+108
+00:05:30,028 --> 00:05:34,252
+vamos repassar e com esse time técnico? E aí,
+
+109
+00:05:34,261 --> 00:05:37,221
+quando a gente tá falando de partes interessadas, externas,
+
+110
+00:05:37,230 --> 00:05:41,980
+os nossos acionistas, clientes? Que tipo de informações
+
+111
+00:05:41,992 --> 00:05:45,600
+são fundamentais pra gente passar pra aquele cliente pra aquela
+
+112
+00:05:45,610 --> 00:05:49,122
+parte externa? Isso é fundamental você entender isso porque
+
+113
+00:05:49,130 --> 00:05:50,420
+existem alguns órgãos.
+
+114
+00:05:50,432 --> 00:05:55,201
+Algumas empresas que são obriga obrigadas por regulamentos, por
+
+115
+00:05:55,211 --> 00:05:59,401
+normas a passar tipo de algum algumas informações específicas para
+
+116
+00:05:59,411 --> 00:06:00,321
+os acionistas.
+
+117
+00:06:00,331 --> 00:06:02,343
+Para os clientes, por exemplo, banco ah,
+
+118
+00:06:02,353 --> 00:06:04,584
+vazamento de dados e um banco, o banco é
+
+119
+00:06:04,593 --> 00:06:07,144
+obrigado a informar que tipo de dados? Que tipo
+
+120
+00:06:07,153 --> 00:06:09,963
+de informação vazou ali pros seus clientes, né?
+
+121
+00:06:09,973 --> 00:06:12,343
+Seguindo até uma lei de produção de dados ou outras
+
+122
+00:06:12,353 --> 00:06:15,752
+normas, regula regulamentar para as fintechs, por exemplo,
+
+123
+00:06:15,764 --> 00:06:16,562
+os bancos.
+
+124
+00:06:16,574 --> 00:06:20,394
+Então cada órgão, cada empresa, vai ter um
+
+125
+00:06:20,403 --> 00:06:25,742
+plano de comunicação desenhada, detalhada em prol a sua,
+
+126
+00:06:25,752 --> 00:06:27,593
+a sua linha de trabalho tá bom.
+
+127
+00:06:27,603 --> 00:06:31,084
+Então vai definir o que, quando e que vai
+
+128
+00:06:31,096 --> 00:06:33,605
+ser e e como vai ser transmitido.
+
+129
+00:06:33,615 --> 00:06:35,625
+Esse plano de comunicação é fundamental.
+
+130
+00:06:35,634 --> 00:06:38,805
+Como eu falei, já não existe uma caixinha pronta
+
+131
+00:06:38,815 --> 00:06:41,245
+que você pode chegar e jogar pra dentro da sua
+
+132
+00:06:41,255 --> 00:06:44,125
+empresa que vai ter o melhor plano de comunicação para
+
+133
+00:06:44,134 --> 00:06:45,406
+a sua empresa de forma rápida.
+
+134
+00:06:45,415 --> 00:06:45,605
+Não.
+
+135
+00:06:45,615 --> 00:06:48,084
+Você vai, precisar detalhar e vai melhorando.
+
+136
+00:06:48,096 --> 00:06:50,925
+Esse plano de comunicação com a vivência, com o
+
+137
+00:06:50,935 --> 00:06:53,644
+trabalho contínuo, tem que ter um ciclo, né?
+
+138
+00:06:53,656 --> 00:06:56,305
+De vida de melhoria desse plano de comunicação.
+
+139
+00:06:56,315 --> 00:06:58,425
+Okay, vamos pra próxima aula!
+

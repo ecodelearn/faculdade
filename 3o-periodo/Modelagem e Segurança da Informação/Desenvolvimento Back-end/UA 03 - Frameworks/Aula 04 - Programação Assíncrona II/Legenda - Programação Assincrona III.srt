@@ -1,0 +1,740 @@
+1
+00:00:06,198 --> 00:00:09,009
+Olá, vamos falar um pouquinho sobre as famosas,
+
+2
+00:00:09,019 --> 00:00:11,810
+né? E a criação de funções A síndroma com
+
+3
+00:00:11,819 --> 00:00:13,929
+pro mais pro mais e, na verdade, já
+
+4
+00:00:13,939 --> 00:00:16,850
+é o retorno padrão de uma função a síndrome,
+
+5
+00:00:16,859 --> 00:00:19,769
+né? Que Promise é uma promessa.
+
+6
+00:00:19,780 --> 00:00:22,408
+Eu tô te prometendo retornar o inteiro.
+
+7
+00:00:22,420 --> 00:00:23,568
+Mas eu não tenho esse inteiro.
+
+8
+00:00:23,579 --> 00:00:24,728
+Agora, um dia eu votei, eu vou te
+
+9
+00:00:24,739 --> 00:00:25,449
+retornar.
+
+10
+00:00:25,458 --> 00:00:27,969
+É uma promessa de que algo vai acontecer, são
+
+11
+00:00:27,978 --> 00:00:30,629
+as mais tá, e a gente usa na programação,
+
+12
+00:00:30,638 --> 00:00:31,600
+pra retorno de funções.
+
+13
+00:00:31,609 --> 00:00:34,209
+A sincronia por quê? Em algum momento, elas
+
+14
+00:00:34,219 --> 00:00:34,868
+vão retornar.
+
+15
+00:00:35,118 --> 00:00:37,329
+Mas não naquele momento que são chamadas.
+
+16
+00:00:37,340 --> 00:00:39,340
+Por isso que são apenas promessas.
+
+17
+00:00:39,348 --> 00:00:43,520
+Vamos ver como é que funciona função dessa cinco que
+
+18
+00:00:43,529 --> 00:00:46,990
+a gente comprou mais, né? Ele é o
+
+19
+00:00:47,000 --> 00:00:49,569
+retorno padrão de uma função marcada como a cinco.
+
+20
+00:00:49,579 --> 00:00:52,918
+Então se a sua função é marcada como A cinco,
+
+21
+00:00:52,929 --> 00:00:56,139
+né? Então ele automaticamente vai retornar a uma mais,
+
+22
+00:00:56,149 --> 00:00:59,868
+mesmo que você não defina isso, tá por isso
+
+23
+00:00:59,880 --> 00:01:03,789
+que funciona um um utilitário chamado pro Fi o fi
+
+24
+00:01:03,798 --> 00:01:06,549
+o que que ele faz? Ele encapsular aquela função
+
+25
+00:01:06,558 --> 00:01:09,709
+original numa função acro, então o retorno dela é
+
+26
+00:01:09,719 --> 00:01:13,900
+numa mais tá toda função a cinco retorna pra mais
+
+27
+00:01:13,909 --> 00:01:16,418
+se eu pegar uma função qualquer, encapsular em outra
+
+28
+00:01:16,430 --> 00:01:19,299
+função e retornar ao valor dela e essa segunda função
+
+29
+00:01:19,308 --> 00:01:21,540
+for a cinco, né? Se eu fizer basicamente
+
+30
+00:01:21,549 --> 00:01:26,579
+isso aqui, oh eh, Vamos dizer que eu
+
+31
+00:01:26,588 --> 00:01:39,349
+tenho aqui uma const f um b retorne a mais
+
+32
+00:01:39,359 --> 00:01:44,510
+b hum eh não é preciso do retorno.
+
+33
+00:01:44,519 --> 00:01:50,588
+Nesse caso eu posso colocar com o f dois a
+
+34
+00:01:50,599 --> 00:02:01,028
+cinco a virgula d retorne f um a vírgula B,
+
+35
+00:02:02,549 --> 00:02:12,960
+né? Retorne, Aí é chatinho esse negócio eu
+
+36
+00:02:12,969 --> 00:02:15,889
+vou colocar com a chave que fica uma SX mais
+
+37
+00:02:15,899 --> 00:02:17,808
+clara é que ele tá reclamando que eu não preciso
+
+38
+00:02:17,819 --> 00:02:23,960
+do retorno nesse caso tá coty, também tem essa
+
+39
+00:02:23,969 --> 00:02:26,838
+coisa o cotrin ele exige que você escreva o mínimo
+
+40
+00:02:26,849 --> 00:02:29,758
+eh que é uma linguagem muito usada hoje por causa
+
+41
+00:02:29,770 --> 00:02:32,080
+do Android, né? De quando você vai programar
+
+42
+00:02:32,088 --> 00:02:34,909
+nativo bem parecido com o JavaScript? Inclusive em muitos
+
+43
+00:02:34,919 --> 00:02:38,229
+pontos? Então isso aqui é retorno f um a
+
+44
+00:02:38,240 --> 00:02:41,860
+vírgula B Olha que coisa interessante, vou dar um
+
+45
+00:02:41,868 --> 00:02:49,558
+console ponto blog f um um vírgula dois Aí eu
+
+46
+00:02:49,569 --> 00:02:51,679
+tô fazendo o que chamada da função que não tá
+
+47
+00:02:51,689 --> 00:02:56,558
+a síndrome, né? Eh, Vou tirar esse
+
+48
+00:02:56,569 --> 00:02:57,020
+cara aqui.
+
+49
+00:02:58,288 --> 00:03:03,929
+Se eu chamar esse exemplo, ele executou lá e
+
+50
+00:03:03,939 --> 00:03:04,889
+colocou três.
+
+51
+00:03:04,899 --> 00:03:06,868
+Mas se eu chamar o F dois será que vai
+
+52
+00:03:09,058 --> 00:03:20,860
+se eu rodar agora? Ah, pronto! Olha
+
+53
+00:03:20,868 --> 00:03:25,219
+pro mais ele não retornou, o valor retornou pro
+
+54
+00:03:25,229 --> 00:03:28,788
+mais, né? E se fosse mais demorada pro
+
+55
+00:03:28,800 --> 00:03:31,508
+de uma coisa que não chegou ainda pro defina,
+
+56
+00:03:31,520 --> 00:03:34,069
+né? Então, assim aqui é um pro de
+
+57
+00:03:34,080 --> 00:03:34,349
+três.
+
+58
+00:03:34,360 --> 00:03:35,788
+Eu tô tendo uma promessa de três.
+
+59
+00:03:35,800 --> 00:03:37,909
+Se eu fosse usar o F dois eu teria que
+
+60
+00:03:37,919 --> 00:03:44,800
+fazer o que eu teria que pegar esse cara Ponto
+
+61
+00:03:44,808 --> 00:03:44,899
+de.
+
+62
+00:03:47,838 --> 00:03:51,960
+E aquele famoso Cobec sendo utilizado aqui.
+
+63
+00:03:59,008 --> 00:04:02,250
+E aí sim eu vou ter o mesmo resultado que
+
+64
+00:04:02,258 --> 00:04:06,610
+eu tive chamando a função original? Tá? Então
+
+65
+00:04:06,618 --> 00:04:12,020
+assim tudo que aquele utilitário pro faz é colocar essa
+
+66
+00:04:12,028 --> 00:04:15,038
+camada aqui Oh, é pegar e retornar a função
+
+67
+00:04:15,050 --> 00:04:18,238
+original de dentro de uma função a SC E quando
+
+68
+00:04:18,250 --> 00:04:20,119
+você faz isso já pode usar o ETE em cima
+
+69
+00:04:20,129 --> 00:04:20,639
+desse cara.
+
+70
+00:04:20,649 --> 00:04:21,959
+O que é uma coisa bem legal.
+
+71
+00:04:21,970 --> 00:04:24,160
+Se eu tiver uma uma função F três, eu
+
+72
+00:04:24,170 --> 00:04:26,079
+posso usar o ete em cima de F dois,
+
+73
+00:04:26,088 --> 00:04:31,678
+né? Bom? Então eh o retorno padrão da
+
+74
+00:04:31,689 --> 00:04:35,519
+sinc, né? Valores definidos com erros definidos?
+
+75
+00:04:35,528 --> 00:04:39,119
+Como get, né? A captura da valor de
+
+76
+00:04:39,129 --> 00:04:41,379
+com a o de, né.
+
+77
+00:04:41,389 --> 00:04:43,778
+Então, quando você coloca uma promise, mesmo o
+
+78
+00:04:43,790 --> 00:04:46,910
+cara não sendo marcado como a cinco, a função
+
+79
+00:04:46,920 --> 00:04:49,019
+é a assim, então é por que ele tá
+
+80
+00:04:49,028 --> 00:04:49,949
+retornando uma.
+
+81
+00:04:49,959 --> 00:04:53,178
+Então, ele já automaticamente reconhece aquilo como uma função.
+
+82
+00:04:53,189 --> 00:04:58,290
+Acro, né Tá captura de erros com cat normalmente.
+
+83
+00:04:58,298 --> 00:05:01,910
+Tá eh ou no caso daqueles.
+
+84
+00:05:01,920 --> 00:05:03,528
+Eh do dedo, eu posso ter o dedo com
+
+85
+00:05:03,540 --> 00:05:03,809
+cat.
+
+86
+00:05:03,819 --> 00:05:09,309
+Em seguida, né, Bom aqui eu tenho como,
+
+87
+00:05:09,319 --> 00:05:13,699
+se dividir A B é uma né.
+
+88
+00:05:13,709 --> 00:05:16,819
+Que que é o é Quando você retorna o resultado
+
+89
+00:05:16,829 --> 00:05:21,608
+da promo O JEC é Quando você eh você retorna
+
+90
+00:05:21,619 --> 00:05:24,689
+a um erro A partir da aqui eu tenho.
+
+91
+00:05:24,699 --> 00:05:24,970
+Rege.
+
+92
+00:05:24,980 --> 00:05:27,928
+De Divisão por zero e o A sobre B,
+
+93
+00:05:27,939 --> 00:05:30,689
+né? Isso eu estou criando através de uma criação
+
+94
+00:05:30,699 --> 00:05:34,949
+de uma mais hum posso fazer outras, né,
+
+95
+00:05:34,959 --> 00:05:38,278
+posso vir aqui fazer um eh.
+
+96
+00:05:39,338 --> 00:05:43,970
+Vamos pegar, por exemplo, esse cara aqui.
+
+97
+00:05:45,949 --> 00:05:47,980
+Eu poderia criar aqui uma função.
+
+98
+00:05:54,850 --> 00:05:59,509
+Aí, no caso eu não poderia ser umas hum,
+
+99
+00:06:00,470 --> 00:06:03,459
+mas vamos dizer que eu colocasse Fisk.
+
+100
+00:06:05,838 --> 00:06:09,988
+O cinco é a leitura sinc, né? Eu
+
+101
+00:06:10,000 --> 00:06:12,389
+poderia transformar o fi cinco em outra coisa.
+
+102
+00:06:12,399 --> 00:06:22,170
+Por exemplo, colocar st de é igual! Eh
+
+103
+00:06:25,329 --> 00:06:31,189
+setinha e eu vou fazer o seguinte Oh St Dados
+
+104
+00:06:32,639 --> 00:06:39,088
+F S cinco desse cara aqui é a leitura SC,
+
+105
+00:06:39,829 --> 00:06:43,160
+né? Então que surja! E aí eu vou
+
+106
+00:06:43,170 --> 00:06:48,410
+fazer o seguinte eh pro mais vou colocar um aqui
+
+107
+00:06:48,420 --> 00:06:58,869
+que ele pode não existir? T Ah, e
+
+108
+00:06:58,879 --> 00:07:09,709
+aqui é um cat! Ah, eu vou colocar
+
+109
+00:07:09,720 --> 00:07:11,649
+como retorno de promise, Olha só o que vai
+
+110
+00:07:11,660 --> 00:07:24,778
+acontecer eh ali eu vou colocar assim dados Let retorno
+
+111
+00:07:24,790 --> 00:07:35,879
+é igual m s g Chamar de okay dados Vaz
+
+112
+00:07:37,189 --> 00:07:39,798
+aqui no Fire sin eu vou dizer que o retorno
+
+113
+00:07:39,809 --> 00:07:46,100
+ponto dados é igual a Fisk e aí, se
+
+114
+00:07:46,108 --> 00:07:58,949
+der um erro eu vou colocar retorno ponto Nessas igual
+
+115
+00:08:00,269 --> 00:08:05,579
+erro, né? Só colocando ali algumas coisinhas em
+
+116
+00:08:05,588 --> 00:08:09,139
+termos de uma leitura, sincronia, né? Eh,
+
+117
+00:08:09,149 --> 00:08:12,079
+Então o que eu vou fazer aqui é o seguinte
+
+118
+00:08:12,088 --> 00:08:16,579
+olha como é que ele faz e te dá as
+
+119
+00:08:16,588 --> 00:08:27,108
+duas condições, então vou dar um rene meu por
+
+120
+00:08:28,389 --> 00:08:33,590
+oh ou posso colocar dessa forma pro mais nil pro
+
+121
+00:08:33,599 --> 00:08:53,139
+mais pro mais e eu tenho que ter nela o
+
+122
+00:08:53,149 --> 00:08:55,849
+que seria a minha Cobec, indicando o que ele
+
+123
+00:08:55,859 --> 00:08:59,869
+vai fazer com o JEC, né? Então,
+
+124
+00:09:03,399 --> 00:09:10,779
+jet não, e eu posso até manter isso aqui.
+
+125
+00:09:10,788 --> 00:09:27,038
+Retorno eu coloco isso aqui dentro Opa, coloquei ali
+
+126
+00:09:27,048 --> 00:09:31,619
+oh pro mais mil retorno dados igual tal retorno tal
+
+127
+00:09:31,629 --> 00:09:34,739
+nesse caso, aqui do sucesso, eu posso dizer
+
+128
+00:09:34,750 --> 00:09:41,379
+que eu vou resolver passando a minha o meu retorno
+
+129
+00:09:43,668 --> 00:09:48,918
+tá e eh nesse caso aqui eu vou dar um
+
+130
+00:09:48,928 --> 00:09:53,798
+jet com esse mesmo retorno.
+
+131
+00:09:54,658 --> 00:09:58,889
+Ya por que eu tenho as duas informações a mensagem
+
+132
+00:09:58,899 --> 00:10:01,029
+e os dados, né? Eu só mudo ali
+
+133
+00:10:01,038 --> 00:10:05,009
+a mensagem e aí eu posso retornar um pro mais?
+
+134
+00:10:05,019 --> 00:10:05,330
+Tá.
+
+135
+00:10:06,139 --> 00:10:08,269
+Tá pro mais programado aqui, oh pro mais mil
+
+136
+00:10:08,279 --> 00:10:18,678
+pro mais ele termina aqui, né? E o
+
+137
+00:10:18,690 --> 00:10:21,619
+retorno? Uh por mais.
+
+138
+00:10:22,869 --> 00:10:26,038
+Com isso eu programei a pro mais, né?
+
+139
+00:10:26,048 --> 00:10:29,479
+Esse cara, apesar dele não ter a palavra ak,
+
+140
+00:10:29,489 --> 00:10:33,009
+ele passa a ser acron, né? Eu tenho
+
+141
+00:10:33,019 --> 00:10:35,558
+que usar ele de qual forma ele é uma eu
+
+142
+00:10:35,570 --> 00:10:43,349
+não posso colocar console ponto Log, eh ler porque
+
+143
+00:10:43,359 --> 00:10:45,729
+se eu tentar fazer isso, que que ele vai
+
+144
+00:10:45,739 --> 00:10:54,700
+fazer node ah, pro mais rejected ali.
+
+145
+00:10:54,710 --> 00:11:03,210
+Ele já se perdeu ali tá aqui, eu tenho.
+
+146
+00:11:03,219 --> 00:11:04,710
+Vou retornar ao arquivo.
+
+147
+00:11:08,750 --> 00:11:14,769
+Ele já deu jet mesmo antes de fazer esse tipo
+
+148
+00:11:14,779 --> 00:11:18,129
+de coisa que ele leu, né? Mas tá
+
+149
+00:11:18,139 --> 00:11:21,190
+como pro mais, O certo seria fazer o que
+
+150
+00:11:21,200 --> 00:11:25,629
+seria console ponto Log depois, ou seja, ler
+
+151
+00:11:28,580 --> 00:11:37,788
+D e daí passar o valor pro console, então
+
+152
+00:11:37,798 --> 00:11:40,489
+assim o retorno é uma pro mais e se você
+
+153
+00:11:40,500 --> 00:11:43,798
+observar o que a gente tá fazendo aqui é exatamente
+
+154
+00:11:43,808 --> 00:11:44,960
+o que faz com a cinco, é o,
+
+155
+00:11:44,969 --> 00:11:47,879
+porque agora ele é uma promise, o que já
+
+156
+00:11:47,889 --> 00:11:50,798
+é o retorno natural do cinco, né? Então
+
+157
+00:11:50,808 --> 00:11:53,139
+assim usar o promise é a mesma coisa que se
+
+158
+00:11:53,149 --> 00:11:55,239
+você escrevesse co, eh! Tá falando Olha,
+
+159
+00:11:55,250 --> 00:11:57,940
+eu tô retornando com Mask! E eu também posso
+
+160
+00:11:57,950 --> 00:12:02,418
+usar o pro mais diretamente pro ponto e posso encadear
+
+161
+00:12:02,428 --> 00:12:04,979
+os dentes, né? O retorno de uma pro
+
+162
+00:12:04,989 --> 00:12:07,879
+pode ser usado em outro, então ele vai esperando
+
+163
+00:12:07,889 --> 00:12:10,080
+e executando o próximo, né? O que é
+
+164
+00:12:10,090 --> 00:12:11,739
+uma coisa bem interessante? Tá.
+
+165
+00:12:11,750 --> 00:12:16,009
+Apesar dele não ter ele não bloquear o fluxo principal,
+
+166
+00:12:16,019 --> 00:12:18,279
+o de bloqueia o próximo de, ou seja,
+
+167
+00:12:18,288 --> 00:12:20,668
+ele vai esperar acabar esse DEM pra executar o próximo
+
+168
+00:12:20,678 --> 00:12:24,879
+de, né? O encadeamento de chamadas pro função
+
+169
+00:12:24,889 --> 00:12:28,119
+pro Wi fi tá em O T! Tudo que
+
+170
+00:12:28,129 --> 00:12:30,399
+ela faz é transformar uma função SC ou não.
+
+171
+00:12:30,408 --> 00:12:32,200
+É uma função a sí Crono, que é exatamente
+
+172
+00:12:32,210 --> 00:12:35,279
+aquele processo que eu mostrei agora há pouco fazendo um
+
+173
+00:12:35,288 --> 00:12:36,759
+assim que encapsulado a outra.
+
+174
+00:12:36,769 --> 00:12:39,840
+Mas o pro fi é uma forma rápida de você
+
+175
+00:12:39,849 --> 00:12:44,519
+usar o método eh métodos como den ou em funções
+
+176
+00:12:44,529 --> 00:12:48,440
+que normalmente não permitiriam isso, né? Bom?
+
+177
+00:12:50,239 --> 00:12:53,288
+Então, essas são as características gerais da programação.
+
+178
+00:12:53,298 --> 00:12:56,450
+A SC né? Com o uso de assim ou
+
+179
+00:12:56,460 --> 00:13:00,408
+o uso de e também o uso de mais,
+
+180
+00:13:00,418 --> 00:13:03,070
+né? São assim em termos que a gente tem
+
+181
+00:13:03,080 --> 00:13:04,658
+que tá acostumado, porque a gente vai ver sempre
+
+182
+00:13:04,668 --> 00:13:06,918
+no dia-a-dia da programação com J.
+
+183
+00:13:06,928 --> 00:13:08,769
+A gente fica, então por aqui.
+
+184
+00:13:08,779 --> 00:13:11,769
+Espero ter agregado conhecimento, bons estudos e até a
+
+185
+00:13:11,779 --> 00:13:12,109
+próxima.
+

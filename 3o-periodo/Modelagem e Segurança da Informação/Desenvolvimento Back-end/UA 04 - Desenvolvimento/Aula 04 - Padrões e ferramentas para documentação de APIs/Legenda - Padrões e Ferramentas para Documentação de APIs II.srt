@@ -1,0 +1,624 @@
+1
+00:00:06,078 --> 00:00:09,089
+vamos falar um pouquinho sobre o padrão, o P
+
+2
+00:00:09,099 --> 00:00:11,009
+a p i, né? Eh? É interessante
+
+3
+00:00:11,019 --> 00:00:13,368
+você trabalhar sempre com padrões, até porque você pode
+
+4
+00:00:13,380 --> 00:00:15,310
+usar muitas ferramentas no mercado.
+
+5
+00:00:15,319 --> 00:00:18,329
+Trabalhar com o P A P i vai fornecer a
+
+6
+00:00:18,339 --> 00:00:19,929
+possibilidade de você trabalhar, por exemplo, com o
+
+7
+00:00:19,940 --> 00:00:22,719
+Suge, né? Que já automatiza boa parte da
+
+8
+00:00:22,728 --> 00:00:26,129
+documentação quando você utiliza um projeto no, né,
+
+9
+00:00:26,138 --> 00:00:30,100
+vamos ver como é que funciona bom, então o
+
+10
+00:00:30,109 --> 00:00:35,029
+padrão open A p i padrão aberto de especificação tá
+
+11
+00:00:35,039 --> 00:00:38,130
+Então ele é um padrão que é definido em torno
+
+12
+00:00:38,139 --> 00:00:38,950
+da SX.
+
+13
+00:00:38,959 --> 00:00:41,868
+Yam ou Jason é um padrão que não usa x
+
+14
+00:00:41,880 --> 00:00:42,219
+ML.
+
+15
+00:00:42,228 --> 00:00:44,668
+Muitos padrões utilizam X ML, mas o o o
+
+16
+00:00:44,679 --> 00:00:49,848
+P I ele inicialmente usava o Yam tá E agora?
+
+17
+00:00:49,859 --> 00:00:53,770
+Ele permite também usar o Jason tá? Eh o
+
+18
+00:00:53,779 --> 00:01:00,029
+É, né ah, iniciado como especifica, né?
+
+19
+00:01:00,039 --> 00:01:03,509
+Inicialmente era a especificação do próprio, só que eh
+
+20
+00:01:03,520 --> 00:01:04,900
+evoluiu.
+
+21
+00:01:04,909 --> 00:01:06,668
+E aí? Você tem hoje em dia a o
+
+22
+00:01:06,680 --> 00:01:12,069
+P e que eh Definiu como padrão o Open PTI
+
+23
+00:01:12,079 --> 00:01:20,349
+Tá eh tem também eh a Modern Language tá e
+
+24
+00:01:20,359 --> 00:01:24,510
+você usa os formatos Jason e o Yan Hum Bom
+
+25
+00:01:25,980 --> 00:01:29,308
+a versão atual da Open A P i Você pode
+
+26
+00:01:29,319 --> 00:01:32,930
+verificar no spa o a p i ponto org ou
+
+27
+00:01:32,939 --> 00:01:35,588
+a eh o ponto late, né? Na verdade
+
+28
+00:01:35,599 --> 00:01:41,620
+é esse endereço aqui tá open, a tion versão
+
+29
+00:01:41,629 --> 00:01:45,109
+três dez Hum, talvez tenham, até já lançando
+
+30
+00:01:45,120 --> 00:01:47,319
+uma versão mais nova, né? E aqui te
+
+31
+00:01:47,329 --> 00:01:50,500
+dá todas as características do que você pode usar,
+
+32
+00:01:50,510 --> 00:01:53,599
+né? O que você tem em termos de documentação?
+
+33
+00:01:54,290 --> 00:01:56,480
+Como é que você faz os diversos objetos? É,
+
+34
+00:01:56,489 --> 00:02:00,980
+por exemplo, especificação, diversão, especificação de formato,
+
+35
+00:02:01,819 --> 00:02:05,959
+estruturas de documento, tudo que você precisa aqui ele
+
+36
+00:02:05,969 --> 00:02:08,758
+vai te falando, né? Esquema opa a P
+
+37
+00:02:08,770 --> 00:02:11,580
+i ou objetos, né? Ele vai te falando
+
+38
+00:02:11,588 --> 00:02:15,659
+que você pode usar em cada trecho da sua documentação,
+
+39
+00:02:15,669 --> 00:02:18,740
+né? Então você começa a ter toda uma série
+
+40
+00:02:18,750 --> 00:02:23,659
+de informações! Hum objetos de informação foi objeto,
+
+41
+00:02:23,669 --> 00:02:26,149
+pode ser um título, um sumário, E aqui
+
+42
+00:02:26,159 --> 00:02:28,139
+eu tenho, por exemplo, um exemplo de um
+
+43
+00:02:28,149 --> 00:02:29,349
+objeto de informação.
+
+44
+00:02:29,360 --> 00:02:31,308
+Inclusive, isso aqui é uma documentação de um A
+
+45
+00:02:31,319 --> 00:02:32,710
+t i para a documentação de A T i,
+
+46
+00:02:32,719 --> 00:02:33,199
+né.
+
+47
+00:02:33,210 --> 00:02:37,270
+EH aqui você pode usar título, sumário, descrição,
+
+48
+00:02:37,278 --> 00:02:40,399
+contato, licença, nome, tudo isso aqui que
+
+49
+00:02:40,409 --> 00:02:41,270
+ele vai mostrando.
+
+50
+00:02:41,278 --> 00:02:44,110
+Como exemplo, ele especifica aqui em cima dizendo o
+
+51
+00:02:44,118 --> 00:02:46,189
+que você pode usar naquele setor.
+
+52
+00:02:46,199 --> 00:02:49,929
+do documento da UPE A T I tá bom,
+
+53
+00:02:50,538 --> 00:02:52,868
+então algumas coisas que aparecem lá Ah, isso aqui
+
+54
+00:02:52,879 --> 00:02:57,219
+tá no formato Jason, tá? E aqui eu
+
+55
+00:02:57,229 --> 00:02:59,740
+já tenho ele no no formato Yama, né?
+
+56
+00:02:59,750 --> 00:03:02,139
+Que é um formato um pouquinho diferente do Jason.
+
+57
+00:03:02,149 --> 00:03:04,419
+É um formato bem simples de escrever que ele vai
+
+58
+00:03:04,429 --> 00:03:09,139
+fazendo por invenção, né? Eh qualquer sem nível,
+
+59
+00:03:09,149 --> 00:03:11,889
+Ao invés de usar aquelas chaves que seria a definição
+
+60
+00:03:11,899 --> 00:03:13,778
+de um objeto aqui eu tenho.
+
+61
+00:03:13,788 --> 00:03:17,300
+Ah, essa hierarquia definida por invenção, você tem
+
+62
+00:03:17,308 --> 00:03:19,740
+pouco uso de aspas, né? Então, assim
+
+63
+00:03:19,750 --> 00:03:22,038
+é um formato mais simples que o Jason tá,
+
+64
+00:03:22,050 --> 00:03:24,278
+eh não é tão usado, É usado mais pra
+
+65
+00:03:24,288 --> 00:03:28,368
+documentação Ah! Comunicação assim! Ah, o trâmite
+
+66
+00:03:28,379 --> 00:03:30,909
+de dados hoje em dia é mais jason mesmo.
+
+67
+00:03:31,569 --> 00:03:37,460
+Bom aqui Então assim Quais as informações iniciais que eu
+
+68
+00:03:37,469 --> 00:03:39,729
+preciso quando eu trabalho com a p a P i
+
+69
+00:03:39,740 --> 00:03:43,189
+né? Título e versão da p i Isso é
+
+70
+00:03:43,199 --> 00:03:45,629
+essencial, então a primeira coisa que aparece lá no
+
+71
+00:03:45,639 --> 00:03:47,979
+meu documento vai ser p a p i.
+
+72
+00:03:47,990 --> 00:03:52,838
+Por exemplo três zero zero três um zero, né?
+
+73
+00:03:52,849 --> 00:03:59,080
+Eh f tá título open a p i do a
+
+74
+00:03:59,088 --> 00:04:02,219
+p i, né? Eh versão zero zero dois
+
+75
+00:04:02,229 --> 00:04:05,338
+então ali você tá colocando inicialmente qual a versão da
+
+76
+00:04:05,349 --> 00:04:06,139
+open A p I.
+
+77
+00:04:06,149 --> 00:04:07,618
+Qual é o seu título? E qual é a
+
+78
+00:04:07,629 --> 00:04:09,669
+versão da sua a p i e aí a primeira
+
+79
+00:04:09,679 --> 00:04:12,479
+de logo em seguida vem o que a gente mais
+
+80
+00:04:12,490 --> 00:04:15,879
+precisa pra utilização, né? Que seriam os apo,
+
+81
+00:04:15,889 --> 00:04:18,798
+né? Então eu tenho lá p f.
+
+82
+00:04:19,497 --> 00:04:23,307
+Então a informação seguinte, logo após, eh você
+
+83
+00:04:23,319 --> 00:04:25,187
+definir aquelas informações iniciais, tem que ser.
+
+84
+00:04:25,199 --> 00:04:27,548
+O Paps pode definir mais informações.
+
+85
+00:04:27,557 --> 00:04:29,259
+Além disso, né? Ao invés de colocar uma
+
+86
+00:04:29,269 --> 00:04:31,829
+documentação tão simples, eu poderia colocar lá também.
+
+87
+00:04:31,838 --> 00:04:36,148
+Sumário, né? Contato, E daí vai tá,
+
+88
+00:04:36,158 --> 00:04:39,579
+a versão é fundamental e o título também aqui.
+
+89
+00:04:39,588 --> 00:04:42,119
+Ele inclusive fala alguns que são obrigatórios.
+
+90
+00:04:42,129 --> 00:04:46,048
+Oh, título, verso é um quad, Os
+
+91
+00:04:46,059 --> 00:04:49,129
+outros são opcionais, né? Então, isso aqui
+
+92
+00:04:49,139 --> 00:04:53,209
+eu tô especificando o que você pode escrever aqui,
+
+93
+00:04:53,889 --> 00:04:57,259
+né? Eh a versão é sempre importante seguir aquela
+
+94
+00:04:57,269 --> 00:04:57,798
+regra.
+
+95
+00:04:57,809 --> 00:05:01,379
+Se você tem uma versão em que eh a plataforma
+
+96
+00:05:01,389 --> 00:05:02,899
+atual, continua funcionando.
+
+97
+00:05:02,910 --> 00:05:05,369
+Você mudou a versão sem quebra de código.
+
+98
+00:05:05,379 --> 00:05:07,750
+Se vai ter uma versão que vai fazer com que
+
+99
+00:05:07,759 --> 00:05:10,699
+determinadas plataformas parem de funcionar, tem que ter um
+
+100
+00:05:10,709 --> 00:05:13,738
+aviso e mudança de número, né? Então assim
+
+101
+00:05:13,750 --> 00:05:16,079
+eh não teve quebra de código na um ponto um
+
+102
+00:05:16,088 --> 00:05:17,100
+vai pra um ponto dois.
+
+103
+00:05:17,108 --> 00:05:19,379
+Não teve quebra de código, vai pra um ponto
+
+104
+00:05:19,389 --> 00:05:21,420
+três, teve quebra de código, vou pra dois
+
+105
+00:05:21,428 --> 00:05:24,160
+ponto zero e é assim que a gente define eh
+
+106
+00:05:24,170 --> 00:05:26,079
+número de versão,às vezes cê quebra mais um
+
+107
+00:05:26,088 --> 00:05:28,278
+pouco, mas o o principal é isso tá,
+
+108
+00:05:29,059 --> 00:05:32,069
+e aí? Preciso definir meus meus APO, dizendo
+
+109
+00:05:32,079 --> 00:05:33,988
+o que que esse cara pode fazer, né?
+
+110
+00:05:34,000 --> 00:05:39,399
+Aí eu tenho aqui, né? No nível principal
+
+111
+00:05:39,410 --> 00:05:44,459
+o p a p ipho tá, cada objeto tem
+
+112
+00:05:44,470 --> 00:05:48,338
+um esquema definido p fs com descrição pra cada método
+
+113
+00:05:48,350 --> 00:05:51,439
+h t t p tá então assim aquele mesmo p
+
+114
+00:05:51,449 --> 00:05:53,358
+f ele vai ter que dar informação tanto pro Gott
+
+115
+00:05:53,369 --> 00:05:57,040
+quanto pro post, né? Retorno iniciado pelo código
+
+116
+00:05:57,048 --> 00:06:02,769
+h t p parâmetros e né? Eh aqui tá
+
+117
+00:06:02,778 --> 00:06:05,250
+no formato yan, né? Em vez de formato.
+
+118
+00:06:05,259 --> 00:06:11,309
+Jason, tá hum aqui tá um exemplo de um
+
+119
+00:06:11,319 --> 00:06:14,519
+p f né barra PET, né? O caminho
+
+120
+00:06:14,528 --> 00:06:18,079
+Pet Guedes é o método h t P que ele
+
+121
+00:06:18,088 --> 00:06:19,778
+vai usar, então aqui eu tenho o caminho h
+
+122
+00:06:19,790 --> 00:06:22,500
+t p tem o método do seu meu point.
+
+123
+00:06:23,250 --> 00:06:25,059
+Então basicamente o end point com o método tá me
+
+124
+00:06:25,069 --> 00:06:27,500
+dando uma rota, né? Description, né?
+
+125
+00:06:27,509 --> 00:06:30,540
+A descrição retorna todos os os pets do do sistema
+
+126
+00:06:30,548 --> 00:06:34,629
+que eu eh pro usuário, né S, né?
+
+127
+00:06:34,639 --> 00:06:36,069
+Resposta? Responde com status.
+
+128
+00:06:36,079 --> 00:06:40,480
+Duzentos Descrição lista de pets content a placa! Jason
+
+129
+00:06:40,488 --> 00:06:44,259
+Ou seja, ele retorna a Jason esquema.
+
+130
+00:06:44,269 --> 00:06:47,459
+Que que ele vai retornar? Um vetor E aqui
+
+131
+00:06:47,470 --> 00:06:51,220
+os itens que ele retorna aqui como sendo eh objetos
+
+132
+00:06:51,230 --> 00:06:54,439
+né? No caso na naquele ambiente do, né?
+
+133
+00:06:54,449 --> 00:06:56,278
+Se eu tenho barra com nesse? Bate esquemas barra
+
+134
+00:06:56,290 --> 00:06:56,540
+pet.
+
+135
+00:06:56,548 --> 00:06:59,358
+Eu tenho lá um esquema que significa o barra.
+
+136
+00:06:59,369 --> 00:07:01,738
+Pet, né? Que seria o os animais nesse
+
+137
+00:07:01,750 --> 00:07:02,420
+caso, né.
+
+138
+00:07:02,428 --> 00:07:06,358
+Então ah, a ideia aqui é você ter essa
+
+139
+00:07:06,369 --> 00:07:10,160
+documentação escrevendo cada opção que você tem em cada método
+
+140
+00:07:10,170 --> 00:07:12,639
+do h, t P né? Tudo isso documentado
+
+141
+00:07:12,649 --> 00:07:13,920
+é claro aqui.
+
+142
+00:07:13,928 --> 00:07:16,420
+Se você buscar por P, F S e tudo
+
+143
+00:07:16,428 --> 00:07:18,199
+mais, você vai conseguir achar aqui oh p f
+
+144
+00:07:18,209 --> 00:07:18,899
+objetos.
+
+145
+00:07:19,850 --> 00:07:23,488
+Ele te dá vários exemplos de como isso é feito,
+
+146
+00:07:23,500 --> 00:07:31,588
+né Bom? Então, essa é a o p
+
+147
+00:07:31,600 --> 00:07:35,028
+a p i especifica, né? Eh e ela
+
+148
+00:07:35,040 --> 00:07:38,379
+é amplamente utilizada dentro do mercado na documentação de A
+
+149
+00:07:38,389 --> 00:07:38,829
+P I.
+
+150
+00:07:38,838 --> 00:07:41,988
+E ela é o padrão que é usado pelo sogra,
+
+151
+00:07:42,000 --> 00:07:45,009
+né? Então, assim é interessante conhecer, você
+
+152
+00:07:45,019 --> 00:07:48,709
+pode criá-la manualmente, mas no entanto muita coisa pode
+
+153
+00:07:48,720 --> 00:07:52,170
+ser criada de forma automática pelo JA, então basta
+
+154
+00:07:52,178 --> 00:07:56,449
+você conhecer o formato geral para poder, de repente
+
+155
+00:07:56,459 --> 00:07:59,149
+modificar uma coisinha ou outra que já foi gerada pelo
+
+156
+00:07:59,160 --> 00:07:59,928
+próprio Agra.
+

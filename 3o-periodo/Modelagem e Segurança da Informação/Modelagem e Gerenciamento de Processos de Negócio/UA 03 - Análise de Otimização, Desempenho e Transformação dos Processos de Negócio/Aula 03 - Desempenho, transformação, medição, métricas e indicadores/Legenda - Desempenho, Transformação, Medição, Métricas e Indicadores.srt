@@ -1,0 +1,796 @@
+1
+00:00:06,448 --> 00:00:11,019
+Olá, vamos continuar falando sobre modelar gerenciamento de processos
+
+2
+00:00:11,028 --> 00:00:16,699
+Agora, o nosso título eh desempenho, transformação,
+
+3
+00:00:16,708 --> 00:00:20,199
+medição, métricas e indicadores.
+
+4
+00:00:20,208 --> 00:00:24,859
+Então já vimos, estamos discorrendo ao longo tempo aí.
+
+5
+00:00:24,870 --> 00:00:27,958
+Sobre a questão de processos, vimos a importância,
+
+6
+00:00:27,969 --> 00:00:31,379
+vimos o o, o modelo e o modelo B.
+
+7
+00:00:31,388 --> 00:00:34,899
+Vimos a questão do resultado eh, eh, Onde
+
+8
+00:00:34,908 --> 00:00:38,539
+nós estamos Onde queremos chegar, otimização, Enfim,
+
+9
+00:00:38,548 --> 00:00:41,219
+então são palavras que a gente vem utilizando aqui ao
+
+10
+00:00:41,228 --> 00:00:45,719
+longo dessa dessa dessa caminhada e desse entendimento.
+
+11
+00:00:45,728 --> 00:00:48,380
+E o, e agora mais especificamente, nesse,
+
+12
+00:00:48,389 --> 00:00:52,798
+nessa interação, nós vamos falar sobre a importância da
+
+13
+00:00:52,810 --> 00:00:56,798
+medição, né? Vamos começar falando dessa importância da
+
+14
+00:00:56,810 --> 00:01:00,000
+da medição, citando aí, né? O o
+
+15
+00:01:00,009 --> 00:01:04,778
+uma uma frase de William Edward Demi, Demi eh
+
+16
+00:01:04,790 --> 00:01:08,540
+eh! Ele criou algumas coisas interessantes aí dentro da
+
+17
+00:01:08,549 --> 00:01:13,180
+dentro da administração, né? EH, Enfim,
+
+18
+00:01:13,189 --> 00:01:16,760
+É um autor super super conceituado e e essa frase
+
+19
+00:01:16,769 --> 00:01:17,459
+é muito marcante.
+
+20
+00:01:17,469 --> 00:01:20,299
+Olha, só não se gerencia o que não se
+
+21
+00:01:20,308 --> 00:01:20,900
+mede.
+
+22
+00:01:21,549 --> 00:01:24,239
+Simples, né? Não se gerencia? O que
+
+23
+00:01:24,250 --> 00:01:28,760
+não se mede? A gestão eh Ela precisa ter
+
+24
+00:01:28,769 --> 00:01:34,099
+base em cima de alguma coisa que eu possa considerar.
+
+25
+00:01:34,109 --> 00:01:36,799
+E essa base é a medição é, é,
+
+26
+00:01:36,808 --> 00:01:38,980
+é é alcançada por meio da medição.
+
+27
+00:01:38,989 --> 00:01:42,778
+Então eu vou estabelecer um parâmetro a A que é
+
+28
+00:01:42,790 --> 00:01:45,638
+uma medida até pra saber se eu estou no caminho
+
+29
+00:01:45,650 --> 00:01:48,819
+certo ou não, né? Então, eh,
+
+30
+00:01:49,790 --> 00:01:53,778
+vamos lá que o o um, uma perspectiva bem
+
+31
+00:01:53,790 --> 00:01:56,799
+tranquila pra isso, em relaçãoà medição.
+
+32
+00:01:56,808 --> 00:02:00,168
+Se eu falar um valor, né? Dez é
+
+33
+00:02:00,180 --> 00:02:03,980
+bom ou ruim? Não sei se eu não tenho
+
+34
+00:02:03,989 --> 00:02:07,120
+a perspectiva do entendimento do que significa esse valor.
+
+35
+00:02:08,627 --> 00:02:10,038
+Eh! Eh, eu não vou saber se é
+
+36
+00:02:10,048 --> 00:02:10,558
+bom ou ruim.
+
+37
+00:02:10,568 --> 00:02:11,798
+Essa é a primeira perspectiva.
+
+38
+00:02:11,808 --> 00:02:15,877
+A segunda é eu estabeleci o dez, mas em
+
+39
+00:02:15,889 --> 00:02:20,237
+nenhum momento eu eh, eu meço isso.
+
+40
+00:02:20,247 --> 00:02:21,058
+Eu eu vou olh.
+
+41
+00:02:21,068 --> 00:02:23,199
+Eu estou olhando pra ver se eu estou nesse dez
+
+42
+00:02:23,207 --> 00:02:25,639
+ou se eu não estou no dez, que também
+
+43
+00:02:25,649 --> 00:02:29,020
+é um outro problema então, então a gestão?
+
+44
+00:02:29,028 --> 00:02:32,699
+Ela pressupõe essa medida, o estabelecimento dessa medida e
+
+45
+00:02:32,710 --> 00:02:34,080
+depois o controle dessa medida.
+
+46
+00:02:34,088 --> 00:02:37,258
+Vamos evoluindo um pouco nesse entendimento também, né?
+
+47
+00:02:37,270 --> 00:02:40,618
+Uma outra fase mu Uma outra frase muito impactante é
+
+48
+00:02:40,629 --> 00:02:42,338
+do Peter Keer, né? Que ele fala o
+
+49
+00:02:42,349 --> 00:02:45,250
+seguinte se você não pode de medir, você não
+
+50
+00:02:45,258 --> 00:02:46,210
+pode gerenciar.
+
+51
+00:02:46,219 --> 00:02:47,830
+É simples assim, né? Ou seja, reforça
+
+52
+00:02:47,838 --> 00:02:49,710
+o que o DEM acabou de falar.
+
+53
+00:02:49,719 --> 00:02:52,929
+Se você não pode medir você não pode gerenciar.
+
+54
+00:02:52,939 --> 00:02:55,088
+Então se não consegue medir, não tem ge-,
+
+55
+00:02:55,099 --> 00:02:58,250
+não tem gestão, porque você não tem como saber
+
+56
+00:02:58,258 --> 00:03:00,288
+se você tá certo, se aqui tá legal ou
+
+57
+00:03:00,300 --> 00:03:03,159
+não entendeu então assim eu vo volta.
+
+58
+00:03:03,169 --> 00:03:06,099
+Fala aí dez Cê pode medir esses dez.
+
+59
+00:03:06,110 --> 00:03:07,500
+Não, Então como é que cê sabe se vai?
+
+60
+00:03:07,508 --> 00:03:09,538
+Tá bom se eu, se você vai gerir esses
+
+61
+00:03:09,550 --> 00:03:14,879
+dez, porque a gestão pressupõe justamente garantir que aquela
+
+62
+00:03:14,889 --> 00:03:17,800
+medida que eu estabeleci eu vou alcançar ou não?
+
+63
+00:03:18,460 --> 00:03:20,389
+Então você não pode me cê não po cê não
+
+64
+00:03:20,399 --> 00:03:21,990
+mexe, como é que eu gerencio, né?
+
+65
+00:03:22,000 --> 00:03:26,849
+Então são duas frases assim que reforçam ou que nos
+
+66
+00:03:26,860 --> 00:03:31,449
+dão a ideia eh bem contundente do que é essa
+
+67
+00:03:31,460 --> 00:03:34,159
+importância da medição, né? Então é o que
+
+68
+00:03:34,169 --> 00:03:34,969
+a gente vai.
+
+69
+00:03:34,979 --> 00:03:36,308
+Eh desdobrar aqui.
+
+70
+00:03:36,319 --> 00:03:37,349
+Um pouquinho mais.
+
+71
+00:03:37,360 --> 00:03:40,219
+Eh neste ne ne nessa perspectiva.
+
+72
+00:03:40,229 --> 00:03:44,189
+Então, vamos lá pra gente perceber a importância da
+
+73
+00:03:44,199 --> 00:03:44,909
+medição.
+
+74
+00:03:44,919 --> 00:03:47,588
+Nós podemos considerar, por exemplo, a perspectiva da
+
+75
+00:03:47,599 --> 00:03:50,110
+tomada de decisão baseada em dados, ou seja,
+
+76
+00:03:50,118 --> 00:03:53,588
+eh a a a medição, né.
+
+77
+00:03:53,599 --> 00:03:57,990
+Medir, Permite que eu tome decisão não baseada em
+
+78
+00:03:58,000 --> 00:04:04,569
+sentimento, não baseado em vamos dizer eh percepções.
+
+79
+00:04:04,838 --> 00:04:08,409
+Então eu tenho base em algo concreto, em em
+
+80
+00:04:08,419 --> 00:04:12,069
+dados eu posso tomar não em relaçãoàquilo que eu
+
+81
+00:04:12,080 --> 00:04:15,129
+eu acho que será assim, Talvez e não,
+
+82
+00:04:15,139 --> 00:04:17,910
+não é em cima do, né? DO do
+
+83
+00:04:17,920 --> 00:04:21,689
+machismo, né? Então é em cima do dado,
+
+84
+00:04:21,699 --> 00:04:25,790
+daquilo que existe, eu consegui ter ali uma base
+
+85
+00:04:26,358 --> 00:04:30,129
+de de, de pra tomada de decisão adequada.
+
+86
+00:04:30,139 --> 00:04:33,838
+Então a medição me permite uma tomada de decisão baseada
+
+87
+00:04:33,850 --> 00:04:39,149
+em dados, né? E quanto mais dado traduzido
+
+88
+00:04:39,160 --> 00:04:42,170
+em informação, em conhecimento, melhor pra eu tomar
+
+89
+00:04:42,178 --> 00:04:42,790
+a decisão.
+
+90
+00:04:42,798 --> 00:04:46,129
+Ok, então, é saber.
+
+91
+00:04:46,139 --> 00:04:49,170
+Por exemplo, eh um valor qual é a taxa
+
+92
+00:04:49,178 --> 00:04:52,949
+do dólar? Ele eh nos últimos dias ele cai
+
+93
+00:04:52,959 --> 00:04:56,329
+ou aumenta a taxa Selic? Vai cair ou vai
+
+94
+00:04:56,338 --> 00:04:58,329
+aumentar? Qual é a, de qual é a
+
+95
+00:04:58,338 --> 00:05:01,170
+o o que o Banco Central escreveu sobre a questão
+
+96
+00:05:01,178 --> 00:05:03,608
+dos juros? Então os dados estão ali.
+
+97
+00:05:03,619 --> 00:05:05,290
+Então eu tomo a decisão mais acertada.
+
+98
+00:05:05,298 --> 00:05:07,528
+Em cima disso, diferente de não sei o que
+
+99
+00:05:07,540 --> 00:05:09,649
+está acontecendo, eu acho que vai.
+
+100
+00:05:09,660 --> 00:05:10,608
+Vai acontecer isso.
+
+101
+00:05:10,619 --> 00:05:12,088
+Eu acho que será assim.
+
+102
+00:05:12,100 --> 00:05:13,350
+Enfim, nunca.
+
+103
+00:05:13,358 --> 00:05:16,410
+Nunca eh é adequada, legal.
+
+104
+00:05:16,420 --> 00:05:20,309
+Ah! Outra coisa, que é que é importante
+
+105
+00:05:20,319 --> 00:05:23,829
+quantoà medição é a identificação de problemas em tempo
+
+106
+00:05:23,838 --> 00:05:27,809
+real, né? Então se você tá medindo,
+
+107
+00:05:27,819 --> 00:05:31,108
+se você tá gerindo se você tá fazendo a gestão
+
+108
+00:05:31,119 --> 00:05:33,670
+adequada porque você tá medindo cê tá acompanhando cê tá
+
+109
+00:05:33,678 --> 00:05:37,108
+sabendo o que tá acontecendo? Você consegue identificar os
+
+110
+00:05:37,119 --> 00:05:40,259
+problemas em tempo real porque você tá medindo se você
+
+111
+00:05:40,269 --> 00:05:43,790
+tá, vamos lá se você tá, eh me
+
+112
+00:05:43,798 --> 00:05:45,269
+acompanhando.
+
+113
+00:05:45,889 --> 00:05:48,619
+Ah, ah, Ah, a taxa do dólar
+
+114
+00:05:48,629 --> 00:05:51,170
+todos os dias você é capaz de tomar a decisão
+
+115
+00:05:51,178 --> 00:05:52,338
+em tempo real.
+
+116
+00:05:52,350 --> 00:05:54,379
+Opa pera, aí aumentou demais, então eu tenho
+
+117
+00:05:54,389 --> 00:05:55,619
+que fazer isso ou diminuiu demais.
+
+118
+00:05:55,629 --> 00:05:59,980
+Vou fazer aquilo se diferente de Não tenho dado,
+
+119
+00:05:59,988 --> 00:06:02,660
+não tô olhando e eu olho de vez em quando
+
+120
+00:06:02,670 --> 00:06:04,720
+aquilo ali, então você não vai ter.
+
+121
+00:06:04,730 --> 00:06:05,980
+Não vai tomar uma uma um.
+
+122
+00:06:05,988 --> 00:06:06,838
+Você vai.
+
+123
+00:06:07,139 --> 00:06:10,689
+Você não terá uma identificação de problema adequado e a
+
+124
+00:06:10,699 --> 00:06:13,509
+sua a sua decisão será tardia.
+
+125
+00:06:13,519 --> 00:06:17,540
+Isso vai com pode comprometer a organização, muito seriamente,
+
+126
+00:06:17,548 --> 00:06:20,149
+né? Então ajuda a Identi, Essa medição ajuda
+
+127
+00:06:20,160 --> 00:06:21,928
+a identificar problemas em tempo real.
+
+128
+00:06:21,939 --> 00:06:25,160
+Outra coisa que que eh eh que é importante que
+
+129
+00:06:25,170 --> 00:06:30,709
+que que traz uma importância pra medição é justamente o
+
+130
+00:06:30,720 --> 00:06:32,399
+bench marketing e a otimização de recursos.
+
+131
+00:06:32,410 --> 00:06:35,338
+O benchmark não diz né? Eh, eh a
+
+132
+00:06:35,350 --> 00:06:39,059
+perspectiva de se aquilo é adequado ou não pra eu
+
+133
+00:06:39,069 --> 00:06:42,678
+posso fazer essa essa correlação? essa análise, né?
+
+134
+00:06:42,689 --> 00:06:44,660
+Então, o BET Marketing, eu olho para o
+
+135
+00:06:44,670 --> 00:06:47,545
+outro, olho pra outros outras variáveis, outros acesso,
+
+136
+00:06:47,553 --> 00:06:51,303
+outros valores e e isso eu faço uma pesquisa e
+
+137
+00:06:51,314 --> 00:06:54,024
+avalio de de forma adequada, o que me permite
+
+138
+00:06:54,035 --> 00:06:56,744
+otimizar recursos pra ter melhores resultados.
+
+139
+00:06:56,754 --> 00:06:59,504
+Então a a medição me me me me permite,
+
+140
+00:06:59,514 --> 00:07:02,024
+por meio do marketing, eh chegar a uma otimização
+
+141
+00:07:02,035 --> 00:07:02,545
+de recursos.
+
+142
+00:07:02,553 --> 00:07:04,903
+Mas eu só consigo isso, eu medir a gestão
+
+143
+00:07:04,915 --> 00:07:09,144
+é essa é é garantia da da da EH.
+
+144
+00:07:09,153 --> 00:07:10,278
+Eh da medida.
+
+145
+00:07:10,290 --> 00:07:13,358
+Essa medição me garante que eu possa trabalhar adequadamente,
+
+146
+00:07:13,369 --> 00:07:16,259
+né? Outra perspectiva outra importância na medição, é
+
+147
+00:07:16,269 --> 00:07:19,059
+quantoà satisfação do C do do meu cliente e
+
+148
+00:07:19,069 --> 00:07:21,660
+a melhoria contínua, né? Como é que eu
+
+149
+00:07:21,670 --> 00:07:23,759
+sei se o meu cliente tá satisfeito ou não?
+
+150
+00:07:23,769 --> 00:07:25,699
+Como é que eu posso melhorar a percepção do meu
+
+151
+00:07:25,709 --> 00:07:30,149
+cliente, né? Tantas vezes a gente vê a
+
+152
+00:07:30,160 --> 00:07:37,910
+modificação de eh produtos de serviços, em atençãoà
+
+153
+00:07:37,920 --> 00:07:39,750
+demanda, que o mercado tá me me me me
+
+154
+00:07:39,759 --> 00:07:44,588
+me me proporcionando em atençãoà,à gestão que
+
+155
+00:07:44,600 --> 00:07:48,178
+eu faço em relação ao acompanhamento daquilo que o meu
+
+156
+00:07:48,189 --> 00:07:50,588
+cliente me faz daquilo que ele me traz.
+
+157
+00:07:50,600 --> 00:07:51,509
+Eu só consiste.
+
+158
+00:07:51,519 --> 00:07:55,178
+Consigo fazer isso medindo e e nós temos uma série
+
+159
+00:07:55,189 --> 00:07:57,420
+de instrumentos hoje, né? Nós temos aí,
+
+160
+00:07:57,428 --> 00:07:59,329
+por exemplo, reclame aqui.
+
+161
+00:07:59,338 --> 00:08:02,579
+Nós temos o código do consumidor, né? Que
+
+162
+00:08:02,588 --> 00:08:05,579
+a gente consegue? Eh, eh, temos pesquisa
+
+163
+00:08:05,588 --> 00:08:09,178
+de mercado, então a satisfação do meu cliente eu
+
+164
+00:08:09,189 --> 00:08:11,730
+vou olhar pro meio dessas variáveis e aí eu posso
+
+165
+00:08:11,738 --> 00:08:15,540
+implementar a melhoria contínua dentro do meu processo.
+
+166
+00:08:15,548 --> 00:08:17,519
+E isso, claro, se você quer continuar no
+
+167
+00:08:17,528 --> 00:08:19,298
+mercado, né? E a sua organização quer continuar
+
+168
+00:08:19,309 --> 00:08:19,920
+no mercado.
+
+169
+00:08:19,928 --> 00:08:22,639
+Se você não quiser continuar no mercado, okay deixa
+
+170
+00:08:22,649 --> 00:08:24,980
+pra lá e vamos deixa, me deixa a vida
+
+171
+00:08:24,988 --> 00:08:25,838
+me levar.
+
+172
+00:08:25,850 --> 00:08:29,298
+Não é bem isso que a gente eh pretende.
+
+173
+00:08:29,309 --> 00:08:32,279
+Quanto a organização tá legal.
+
+174
+00:08:32,288 --> 00:08:36,298
+Outra coisa que a medição eh eh que a importância
+
+175
+00:08:36,308 --> 00:08:40,798
+de medição me traz é atender aos requisitos de comp
+
+176
+00:08:40,808 --> 00:08:45,279
+e e regulação, né? Então eh veja só
+
+177
+00:08:45,288 --> 00:08:48,729
+se eu considerar, por exemplo, um um regulação
+
+178
+00:08:48,739 --> 00:08:51,019
+da DA da l GP d, né? Lei
+
+179
+00:08:51,029 --> 00:08:54,849
+Geral de Proteção de Dados? Eh Então eu vou
+
+180
+00:08:54,859 --> 00:08:55,719
+fazer a gestão.
+
+181
+00:08:55,729 --> 00:08:58,889
+Então eu vou medir se eu estou adequado ou não,
+
+182
+00:08:58,899 --> 00:09:00,109
+o L GP D, né.
+
+183
+00:09:00,119 --> 00:09:03,048
+Ou seja eu tô cumprindo os requisitos, então isso
+
+184
+00:09:03,058 --> 00:09:06,678
+me ajuda, né? É importante eu medir isso,
+
+185
+00:09:06,690 --> 00:09:11,609
+esse acompanhamento esse atendimento pra saber se eu estou adequado
+
+186
+00:09:11,619 --> 00:09:14,928
+ou não, por que isso, porque isso implica
+
+187
+00:09:14,940 --> 00:09:18,649
+em sanções, isso implica em multas.
+
+188
+00:09:18,658 --> 00:09:23,678
+Isso implica em um resultado não adequadoà minha organização.
+
+189
+00:09:23,690 --> 00:09:25,808
+Mas se você mede, se você gere, se
+
+190
+00:09:25,820 --> 00:09:31,928
+você controla você é capaz de buscar que esse atender
+
+191
+00:09:31,940 --> 00:09:37,229
+esse requisito a esta regulação, porque você tá fazendo
+
+192
+00:09:38,090 --> 00:09:39,239
+o seu dever de casa.
+
+193
+00:09:39,250 --> 00:09:43,119
+Você tá acompanhando, você tá gerindo, você tá
+
+194
+00:09:43,129 --> 00:09:48,288
+fazendo aquilo que é o adequado para sua organização,
+
+195
+00:09:48,298 --> 00:09:52,288
+no no sentido de que ela possa atender aos marcos
+
+196
+00:09:52,298 --> 00:09:56,219
+regulatórios, né? Então, mais uma vez,
+
+197
+00:09:56,229 --> 00:09:59,580
+né, A medição Ela se traduz em gestão,
+
+198
+00:09:59,590 --> 00:10:01,259
+e eu só vou fazer a gestão.
+
+199
+00:10:01,269 --> 00:10:05,879
+Se eu conseguir medir adequadamente Obrigado até a próxima.
+

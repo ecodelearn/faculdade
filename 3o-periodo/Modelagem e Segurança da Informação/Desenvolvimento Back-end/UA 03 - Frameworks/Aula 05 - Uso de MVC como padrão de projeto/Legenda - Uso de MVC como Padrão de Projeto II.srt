@@ -1,0 +1,684 @@
+1
+00:00:06,288 --> 00:00:09,618
+Olá, vamos falar um pouquinho sobre arquitetura N V
+
+2
+00:00:09,630 --> 00:00:14,300
+C que é chamada de vir Tá? Seria de
+
+3
+00:00:14,310 --> 00:00:18,019
+ser o modelo a visualização e o controlador model Viller
+
+4
+00:00:18,030 --> 00:00:21,708
+ou M v C, né eh dando uma geral
+
+5
+00:00:21,719 --> 00:00:22,219
+dela.
+
+6
+00:00:22,228 --> 00:00:25,239
+Na verdade você tem a mode, que é o
+
+7
+00:00:25,250 --> 00:00:27,239
+modelo que fala com o banco de dados.
+
+8
+00:00:28,048 --> 00:00:30,339
+Essa é a única camada que deve ser capaz de
+
+9
+00:00:30,350 --> 00:00:34,340
+realmente fazer alterações na base ou consultas, né?
+
+10
+00:00:34,348 --> 00:00:36,899
+Tem uma camada chamada vil que é a camada de
+
+11
+00:00:36,908 --> 00:00:41,240
+visualização seriam telas e a camada controle que vai ficar
+
+12
+00:00:41,250 --> 00:00:42,359
+no meio das duas.
+
+13
+00:00:42,368 --> 00:00:46,139
+Então o controle vai pegar as solicitações das S e
+
+14
+00:00:46,149 --> 00:00:48,978
+vai mandar para a camada mode pra que ela fale
+
+15
+00:00:48,990 --> 00:00:51,200
+com o banco, tá! E essa vai ser
+
+16
+00:00:51,209 --> 00:00:54,158
+a base da arquitetura N V C Uma das arquiteturas
+
+17
+00:00:54,168 --> 00:00:58,380
+mais utilizadas em sistemas cadastrais atualmente nas diversas empresas,
+
+18
+00:00:58,389 --> 00:01:03,380
+né? Então como é que ela funciona padrão arquitetural
+
+19
+00:01:03,389 --> 00:01:06,329
+em camadas Tá Você tem camada chamada model vil e
+
+20
+00:01:06,338 --> 00:01:10,838
+controle EH onde a mode se preocupa com a persistência
+
+21
+00:01:10,849 --> 00:01:11,418
+dos dados.
+
+22
+00:01:11,430 --> 00:01:12,778
+Não sei como é que ele vai gravar no banco
+
+23
+00:01:12,790 --> 00:01:15,799
+de dados lá a controle que são as regras de
+
+24
+00:01:15,808 --> 00:01:18,418
+negócio, né? Seria como é que você vai
+
+25
+00:01:18,430 --> 00:01:20,959
+fazer os processos que estão envolvidos.
+
+26
+00:01:20,969 --> 00:01:23,519
+Como é que cê vai pegar as requisições da da
+
+27
+00:01:23,528 --> 00:01:27,400
+e repassar pra mode E a camada vil seria a
+
+28
+00:01:27,409 --> 00:01:32,469
+interface, né? Propriamente dita Então seria meu tá?
+
+29
+00:01:33,040 --> 00:01:36,730
+Eh algumas coisas interessantes sobre m v c O M
+
+30
+00:01:36,739 --> 00:01:40,888
+V C Ele permite dividir o trabalho entre perfis profissionais.
+
+31
+00:01:40,900 --> 00:01:44,079
+O mode Eu posso colocar um cara que tá mais
+
+32
+00:01:44,088 --> 00:01:47,000
+ligado na parte de persistência, um administrador de banco,
+
+33
+00:01:47,010 --> 00:01:50,168
+um programador com foco em administração de banco de dados
+
+34
+00:01:50,180 --> 00:01:52,409
+na controle? Eu posso colocar um analista de negócios?
+
+35
+00:01:52,418 --> 00:01:54,808
+Programador, né? Assim um cara que tá mais
+
+36
+00:01:54,819 --> 00:01:59,528
+focado na análise do negócio que seriam processos mais complexos,
+
+37
+00:01:59,540 --> 00:02:03,000
+processos completos, transações e o navio eu coloco o
+
+38
+00:02:03,010 --> 00:02:06,659
+designer que é o cara mais adequado pra poder desenhar
+
+39
+00:02:06,668 --> 00:02:09,618
+as telas, né? Então, você pode fazer
+
+40
+00:02:09,629 --> 00:02:12,379
+essa divisão de trabalho de uma forma muito natural,
+
+41
+00:02:12,389 --> 00:02:17,058
+né? Além disso, se você deixa bem independente
+
+42
+00:02:17,069 --> 00:02:20,919
+a moda e a controle, eu posso ter várias.
+
+43
+00:02:21,550 --> 00:02:24,159
+O que que significa isso? Significa que se eu
+
+44
+00:02:24,169 --> 00:02:28,368
+conseguir deixar isso o mais independente possível, eu posso
+
+45
+00:02:28,379 --> 00:02:31,719
+fazer um sistema que pode ser acessado ao mesmo tempo,
+
+46
+00:02:31,729 --> 00:02:36,199
+por celular, por web ou por desktop ou até
+
+47
+00:02:36,210 --> 00:02:38,520
+linha de comando em paralelo.
+
+48
+00:02:38,528 --> 00:02:41,639
+Ou seja, eu posso ter quatro, cinco interfaces
+
+49
+00:02:41,649 --> 00:02:44,889
+diferentes para o mesmo sistema, né? De repente,
+
+50
+00:02:44,899 --> 00:02:46,360
+eu vou ter um sistema que é acessado uma hora
+
+51
+00:02:46,368 --> 00:02:46,838
+pelo celular.
+
+52
+00:02:46,849 --> 00:02:49,979
+Outra hora pelo Watch, né? Então você tem
+
+53
+00:02:50,288 --> 00:02:55,258
+eh sistemas que podem ter diferentes interfaces para um mesmo
+
+54
+00:02:55,270 --> 00:02:57,618
+nível de controle, né? Esse é um dos
+
+55
+00:02:57,629 --> 00:02:58,139
+objetivos.
+
+56
+00:02:58,149 --> 00:02:59,659
+Por exemplo, quando a gente trabalha com www,
+
+57
+00:02:59,669 --> 00:03:01,979
+porque você faz Mas você não tá se preocupando com
+
+58
+00:03:01,990 --> 00:03:03,058
+quem vai acessar.
+
+59
+00:03:03,069 --> 00:03:06,219
+Você definiu o serviço e dali pra frente a camada
+
+60
+00:03:06,229 --> 00:03:09,500
+vi vai ser outro cara que vai definir o problema
+
+61
+00:03:09,508 --> 00:03:11,538
+da arquitetura m v c é que cê tem muito
+
+62
+00:03:11,550 --> 00:03:15,338
+ida e retorno de informação, então assim existem padrões
+
+63
+00:03:15,349 --> 00:03:16,000
+alternativos.
+
+64
+00:03:16,008 --> 00:03:18,520
+O P A C que não muda muito o n
+
+65
+00:03:18,528 --> 00:03:21,969
+v c você coloca todos os as entidades no mesmo
+
+66
+00:03:21,979 --> 00:03:26,439
+nível model todos os controladores no mesmo nível, controle
+
+67
+00:03:26,449 --> 00:03:29,710
+depois todas as camadas no mesmo nível.
+
+68
+00:03:29,719 --> 00:03:32,300
+Todas as telas, vamos dizer no P a C,
+
+69
+00:03:32,308 --> 00:03:37,069
+que é o tion tion contra você coloca o model,
+
+70
+00:03:38,000 --> 00:03:41,129
+né? Seria a o que seria o chamado de
+
+71
+00:03:41,139 --> 00:03:41,528
+eh tion.
+
+72
+00:03:41,538 --> 00:03:44,919
+O controle e o tion são equivalentes.
+
+73
+00:03:44,929 --> 00:03:47,778
+O tion seria o e o e o tion?
+
+74
+00:03:47,788 --> 00:03:50,868
+Seria o modo você coloca os três juntos pra aquela
+
+75
+00:03:50,879 --> 00:03:52,889
+entidade, mas outros três juntos.
+
+76
+00:03:52,899 --> 00:03:55,099
+Então, esse em vez de fazer uma divisão em
+
+77
+00:03:55,110 --> 00:03:58,710
+camadas, né, Ele faz uma divisão em blocos,
+
+78
+00:03:59,250 --> 00:04:00,819
+então estão todos no mesmo nível.
+
+79
+00:04:00,830 --> 00:04:05,699
+Cada bloco talvez fosse uma arquitetura bem interessante para Microservice,
+
+80
+00:04:05,710 --> 00:04:08,699
+né? E o fluxo que é pra você evitar
+
+81
+00:04:08,710 --> 00:04:09,778
+e de retornos.
+
+82
+00:04:09,788 --> 00:04:12,179
+O fluxo é eh que a gente chama de arquitetura
+
+83
+00:04:12,189 --> 00:04:14,979
+de fluxo, né? É uma arquitetura na qual
+
+84
+00:04:14,990 --> 00:04:17,838
+só tem a A informação só vai em uma direção.
+
+85
+00:04:18,480 --> 00:04:21,170
+Então tem um pedido aí você tem lá um evento
+
+86
+00:04:21,178 --> 00:04:22,649
+que gera uma resposta em outro lado.
+
+87
+00:04:22,660 --> 00:04:24,619
+Mas você nunca tem retorno.
+
+88
+00:04:24,629 --> 00:04:27,079
+A informação sempre segue uma direção.
+
+89
+00:04:27,088 --> 00:04:30,389
+É uma arquitetura que foi definida basicamente pelo Facebook por
+
+90
+00:04:30,399 --> 00:04:32,608
+causa do próprio funcionamento do Facebook.
+
+91
+00:04:32,619 --> 00:04:33,730
+É o fluxo.
+
+92
+00:04:33,738 --> 00:04:36,689
+São arquiteturas alternativas ao M V C, embora o
+
+93
+00:04:36,699 --> 00:04:40,608
+mercado cadastral realmente use o m v c, né?
+
+94
+00:04:40,619 --> 00:04:41,709
+M V C moda é um.
+
+95
+00:04:42,829 --> 00:04:45,009
+Ah, A entidade do m v CD um que
+
+96
+00:04:45,019 --> 00:04:47,160
+era, por exemplo, duzentos s do e J
+
+97
+00:04:47,170 --> 00:04:50,939
+B dois ponto zero eh, elas funcionavam com padrão
+
+98
+00:04:50,949 --> 00:04:55,910
+recorde que que era esse padrão? A própria entidade
+
+99
+00:04:55,920 --> 00:05:00,230
+persiste seus dados tá, e a transferência de dados
+
+100
+00:05:00,238 --> 00:05:02,189
+entre as camadas seguia o padrão V, o que
+
+101
+00:05:02,199 --> 00:05:03,790
+é o objeto que eu tinha que tirar os dados
+
+102
+00:05:03,798 --> 00:05:06,629
+da entidade pra depois transferir os dados.
+
+103
+00:05:06,639 --> 00:05:08,509
+Então eu tinha dois trabalhos muito sérios.
+
+104
+00:05:08,519 --> 00:05:11,389
+Aí né? Cada vez que eu mudava um valor
+
+105
+00:05:11,399 --> 00:05:13,629
+de um atributo, era um update no banco.
+
+106
+00:05:13,639 --> 00:05:16,980
+Já tenho perda de performance, tá, já tem
+
+107
+00:05:16,988 --> 00:05:18,160
+uma assim.
+
+108
+00:05:18,170 --> 00:05:19,899
+Perdi muito da minha eficiência nisso aí.
+
+109
+00:05:20,608 --> 00:05:22,500
+Eh, e ao mesmo tempo, cada vez que
+
+110
+00:05:22,509 --> 00:05:23,569
+eu tenho que fazer uma consulta, eu tenho que
+
+111
+00:05:23,579 --> 00:05:26,548
+transformar cada uma das entidades num v o tô perdendo
+
+112
+00:05:26,559 --> 00:05:30,199
+também em termos de eficiência em termos de performance do
+
+113
+00:05:30,209 --> 00:05:33,988
+aplicativo no M V c dois, que é a
+
+114
+00:05:34,000 --> 00:05:37,649
+segunda versão, a transferência de dados da própria entidade
+
+115
+00:05:37,660 --> 00:05:39,548
+não tem mais v O então eu já ganhei um
+
+116
+00:05:39,559 --> 00:05:43,119
+pouquinho nisso aí e a persistência através do Dow,
+
+117
+00:05:43,129 --> 00:05:45,399
+então, eu não vou ficar mais eh alterando cada
+
+118
+00:05:45,410 --> 00:05:48,709
+tributo eu vou alterar os dados por completo, Então
+
+119
+00:05:48,720 --> 00:05:51,199
+agora surge a imagem do Dow, que é o
+
+120
+00:05:51,209 --> 00:05:51,678
+da táxis.
+
+121
+00:05:51,689 --> 00:05:54,149
+Oje, né? Quem concentra as operações de s
+
+122
+00:05:54,160 --> 00:05:56,910
+q eh com S q l com alteração de banco
+
+123
+00:05:56,920 --> 00:05:58,858
+e a minha entidade é que é transferida entre as
+
+124
+00:05:58,869 --> 00:06:02,449
+camadas, né? Isso deixou a coisa bem mais
+
+125
+00:06:02,459 --> 00:06:03,189
+organizada.
+
+126
+00:06:04,009 --> 00:06:06,980
+Se eu trabalho, por exemplo, com o na
+
+127
+00:06:06,988 --> 00:06:10,088
+arquitetura do JS no m v c, eu vou
+
+128
+00:06:10,100 --> 00:06:13,088
+usar o s e o Express, né? O
+
+129
+00:06:13,100 --> 00:06:16,689
+meu m, né, Ele já vai ser a
+
+130
+00:06:16,699 --> 00:06:19,178
+minha camada mode, né? O que que eu
+
+131
+00:06:19,189 --> 00:06:21,449
+vou fazer? Eu só vou colocar um Down pra
+
+132
+00:06:21,459 --> 00:06:23,970
+organizar as chamadas, mas o E o Sese já
+
+133
+00:06:23,980 --> 00:06:25,769
+vai, tá resolvendo pra mim? Tá.
+
+134
+00:06:25,778 --> 00:06:27,809
+Então, eu vou usar o na moda.
+
+135
+00:06:27,819 --> 00:06:31,358
+E eu vou usar o Express na controle, porque,
+
+136
+00:06:31,369 --> 00:06:33,290
+na verdade, se eu tá fazendo web eu não
+
+137
+00:06:33,298 --> 00:06:33,850
+tenho camada.
+
+138
+00:06:33,858 --> 00:06:37,319
+Eu só tenho controle, né? Ou no máximo
+
+139
+00:06:37,329 --> 00:06:39,309
+você pode considerar o St como uma integração.
+
+140
+00:06:39,759 --> 00:06:41,569
+Mas ele não é uma camada, porque eu não
+
+141
+00:06:41,579 --> 00:06:44,449
+tenho uma visualização de dados, né? Eu vou
+
+142
+00:06:44,459 --> 00:06:47,449
+oferecer esses dados para que alguém implemente a camada.
+
+143
+00:06:47,459 --> 00:06:50,750
+Pode ser através de pode ser, angulo Pode ser
+
+144
+00:06:50,759 --> 00:06:53,970
+um aplicativo no Android com né? Isso realmente não
+
+145
+00:06:53,980 --> 00:06:54,410
+importa.
+
+146
+00:06:54,420 --> 00:06:57,269
+O que importa é que alguém vai usar esses dados.
+
+147
+00:06:57,278 --> 00:07:00,088
+Eh no criando a camada do modelo n, v,
+
+148
+00:07:00,100 --> 00:07:02,369
+C, né? Bom.
+
+149
+00:07:03,189 --> 00:07:07,220
+Então, basicamente, a regra é a seguinte Toda
+
+150
+00:07:07,230 --> 00:07:10,500
+a requisição passa pelo controle, apenas a moda.
+
+151
+00:07:10,509 --> 00:07:11,660
+Eu acesso o banco de dados.
+
+152
+00:07:11,670 --> 00:07:15,420
+Então você tem lá o navio, né? O
+
+153
+00:07:15,428 --> 00:07:18,730
+controle alimenta com dados, extravio, né? E
+
+154
+00:07:18,738 --> 00:07:21,048
+essa seria a minha resposta pro usuário.
+
+155
+00:07:21,059 --> 00:07:23,670
+O usuário, através da vi faz uma requisição pro
+
+156
+00:07:23,678 --> 00:07:24,149
+controle.
+
+157
+00:07:24,160 --> 00:07:27,689
+O controle de acessoà moda que pega os dados,
+
+158
+00:07:27,699 --> 00:07:30,329
+alimenta a vil com esses dados e retorna para o
+
+159
+00:07:30,338 --> 00:07:33,220
+usuário e fica nesse nesse fluxo ali, o tempo
+
+160
+00:07:33,230 --> 00:07:35,509
+todo, né? E tem essas idas e vindas
+
+161
+00:07:35,519 --> 00:07:36,439
+do controle da moda.
+
+162
+00:07:36,449 --> 00:07:39,829
+Mas você consegue organizar muito bem a forma com que
+
+163
+00:07:39,838 --> 00:07:45,069
+você divide as responsabilidades, né? Bom, então,
+
+164
+00:07:45,079 --> 00:07:47,829
+basicamente a camada m v c se arquitetura m v
+
+165
+00:07:47,838 --> 00:07:50,220
+C é isso, né? Ele te dá um
+
+166
+00:07:50,230 --> 00:07:54,189
+alto nível de reuso em algumas funcionalidades e também permite
+
+167
+00:07:54,199 --> 00:07:57,709
+essa distribuição do trabalho entre profissionais distintos, profissionais que
+
+168
+00:07:57,720 --> 00:07:59,389
+tenham mais afinidade com cada área.
+
+169
+00:07:59,399 --> 00:08:01,790
+Isso faz com que fez com que fosse cada vez
+
+170
+00:08:01,798 --> 00:08:05,389
+mais adotado no mercado de desenvolvimento pra qualquer sistema cadastral
+
+171
+00:08:05,399 --> 00:08:06,170
+da atualidade.
+

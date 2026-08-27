@@ -1,0 +1,896 @@
+1
+00:00:06,679 --> 00:00:10,970
+olá, seja bem vindo novamente a nossa disciplina de
+
+2
+00:00:10,978 --> 00:00:14,439
+gerenciamento e moderado esse processo de negócio, vamos continuar
+
+3
+00:00:14,448 --> 00:00:17,899
+os nossos casos práticos, e agora nós vamos trabalhar
+
+4
+00:00:17,908 --> 00:00:21,138
+o pra o caso prático, Número quatro, né?
+
+5
+00:00:21,149 --> 00:00:25,478
+Então a gente vai eh dar continuidade a ao aos
+
+6
+00:00:25,489 --> 00:00:28,359
+nossos, eh entendimentos acerca do que a gente viu
+
+7
+00:00:28,370 --> 00:00:32,618
+em gere gerenciamento moderado de processo todas as nossas questões
+
+8
+00:00:32,630 --> 00:00:35,560
+colocadas do que é um processo como ele ocorre.
+
+9
+00:00:35,569 --> 00:00:36,560
+Como ele inicia.
+
+10
+00:00:36,569 --> 00:00:39,240
+Como ele termina, né? Eh, trabalhamos ao
+
+11
+00:00:39,250 --> 00:00:45,279
+longo dessas interações aí e algumas perspectivas de de abordagens
+
+12
+00:00:45,289 --> 00:00:50,158
+em que a gente considera eh seleção de eh aspectos
+
+13
+00:00:50,168 --> 00:00:51,319
+mais importantes.
+
+14
+00:00:51,329 --> 00:00:54,520
+Falamos da questão da seleção do do, das palavras
+
+15
+00:00:54,529 --> 00:00:57,759
+dos verbos, né? De eh que significam ação!
+
+16
+00:00:57,770 --> 00:01:01,439
+Eh, vimos alguns eh, eh! Algumas perspectivas
+
+17
+00:01:01,450 --> 00:01:06,265
+de quadro Eh quadros que nos ajudam a a interpretar,
+
+18
+00:01:06,275 --> 00:01:09,665
+né? Aquele aquele processo e depois a construir o
+
+19
+00:01:09,676 --> 00:01:10,444
+fluxo.
+
+20
+00:01:10,456 --> 00:01:15,125
+Vimos que alguns quadros envolvem fases envolvem a questão de
+
+21
+00:01:15,135 --> 00:01:16,364
+K P, I S, que são os eh.
+
+22
+00:01:16,375 --> 00:01:21,206
+Os indicadores envolvem a perspectiva dos responsáveis, outros a
+
+23
+00:01:21,215 --> 00:01:22,665
+gente já falou um pouquinho diferente.
+
+24
+00:01:22,676 --> 00:01:24,951
+Mas enfim, ah, o entendimento disso tudo é
+
+25
+00:01:24,960 --> 00:01:29,210
+que a gente possa eh resultar realmente numa entrega de
+
+26
+00:01:29,221 --> 00:01:31,290
+um processo né? De um desenho, de um
+
+27
+00:01:31,302 --> 00:01:34,731
+processo no entendimento de um processo eh A em favor
+
+28
+00:01:34,740 --> 00:01:37,240
+da organização, né? Então, eh pra gente
+
+29
+00:01:37,251 --> 00:01:40,251
+recordar Nós vamos trabalhar aqui no estúdio de caso quatro,
+
+30
+00:01:40,262 --> 00:01:41,871
+com três partes.
+
+31
+00:01:41,882 --> 00:01:44,831
+A primeira parte a gente sempre fala aí do ah,
+
+32
+00:01:45,278 --> 00:01:49,650
+do aspecto relacionado a o que se pretende com esse
+
+33
+00:01:49,659 --> 00:01:50,769
+processo, né? Então é.
+
+34
+00:01:50,778 --> 00:01:53,709
+É a descrição do processo que a gente observou,
+
+35
+00:01:53,719 --> 00:01:56,329
+eh nas nossas interações que ele vem ocorrendo por meio
+
+36
+00:01:56,338 --> 00:01:59,609
+de uma forma de um texto mesmo corrido, né?
+
+37
+00:01:59,620 --> 00:02:02,629
+Com parágrafos, com indicações.
+
+38
+00:02:02,638 --> 00:02:06,168
+E falamos ao longo dessa dessa caminhada, dessa interação
+
+39
+00:02:06,180 --> 00:02:09,635
+desses, desses textos que eh não necessariamente ele representa
+
+40
+00:02:09,645 --> 00:02:13,686
+a verdade do que acontece na sua organização ou nas
+
+41
+00:02:13,694 --> 00:02:16,515
+organizações? E sim, sim eh, a gente
+
+42
+00:02:16,526 --> 00:02:20,555
+teve uma perspectiva, eh simples, de eh fazer
+
+43
+00:02:20,564 --> 00:02:22,694
+com que a gente possa aplicar aquilo que a gente
+
+44
+00:02:22,705 --> 00:02:24,395
+aprendeu ao longo dessa caminhada.
+
+45
+00:02:24,406 --> 00:02:27,575
+Tá? Então? Ah, pode ser detalho,
+
+46
+00:02:27,651 --> 00:02:30,781
+Pode ser melhorado! Aliás, a melhoria contínua é
+
+47
+00:02:30,792 --> 00:02:33,181
+um processo que a gente sempre vem chamando a atenção
+
+48
+00:02:33,192 --> 00:02:35,920
+aqui, né? Então o processo inicia o processo.
+
+49
+00:02:35,931 --> 00:02:39,260
+É transformado o processo dessa transformação.
+
+50
+00:02:39,271 --> 00:02:40,480
+Ele é agregado, valor.
+
+51
+00:02:40,491 --> 00:02:43,382
+Ele tem uma saída, essa saída eh tem o
+
+52
+00:02:43,390 --> 00:02:45,662
+objetivo de entregar valor ao nosso cliente, né?
+
+53
+00:02:45,670 --> 00:02:48,760
+Gerar valor pra organização, gerar valor pro nosso cliente.
+
+54
+00:02:49,719 --> 00:02:51,449
+E é claro que no meio disso tudo, a
+
+55
+00:02:51,460 --> 00:02:53,649
+gente tem a melhoria contínua, que é a perspectiva
+
+56
+00:02:53,659 --> 00:02:56,449
+da gente olhar pra aquele processo e tentar buscar sempre
+
+57
+00:02:56,460 --> 00:02:59,808
+uma melhor eficiência, sempre uma melhor eficácia naquilo que
+
+58
+00:02:59,819 --> 00:03:01,649
+ele se apresenta ou naquilo que ele eh, eh,
+
+59
+00:03:01,659 --> 00:03:05,028
+se, pressupõe como resultado a ser entregue Okay!
+
+60
+00:03:05,038 --> 00:03:08,020
+Então vamos lá pro nosso pra nossa primeira parte,
+
+61
+00:03:08,028 --> 00:03:11,429
+né? Na primeira parte do caso prático número quatro
+
+62
+00:03:11,508 --> 00:03:12,199
+então tá lá.
+
+63
+00:03:12,210 --> 00:03:15,118
+Nesse caso, nós vamos falar sobre uma distribuidora de
+
+64
+00:03:15,129 --> 00:03:18,240
+livros e aqui a distribuidora chama-se, Leia livros S
+
+65
+00:03:18,250 --> 00:03:20,659
+A é uma empresa voltada para vendas.
+
+66
+00:03:20,669 --> 00:03:21,360
+Eh de livros.
+
+67
+00:03:21,368 --> 00:03:25,849
+Aqui tem uma perspectiva exclusivamente online utilizando a internet,
+
+68
+00:03:25,860 --> 00:03:26,819
+tá aqui.
+
+69
+00:03:26,830 --> 00:03:29,368
+Fica um parênteses em relação a essa perspectiva de ser
+
+70
+00:03:29,379 --> 00:03:33,020
+online ou ser Eh de tijolo e cimento.
+
+71
+00:03:33,028 --> 00:03:35,429
+Enfim, não, não nos importa enquanto o processo
+
+72
+00:03:35,439 --> 00:03:38,349
+tá, Ele transcende essa essa questão dessas barreiras só
+
+73
+00:03:38,360 --> 00:03:40,118
+pra ficar bem contextualizado.
+
+74
+00:03:40,129 --> 00:03:42,229
+Então para tanto é porque não é, porqueàs
+
+75
+00:03:42,240 --> 00:03:44,909
+vezes pode imaginar, né? Eh que poxa,
+
+76
+00:03:44,919 --> 00:03:46,750
+por ser online, vai ter não num num,
+
+77
+00:03:46,758 --> 00:03:48,830
+vai ter alguma coisa diferente, não tem nada diferente,
+
+78
+00:03:48,838 --> 00:03:49,389
+é a mesma.
+
+79
+00:03:49,399 --> 00:03:51,889
+O processo ele ocorre.
+
+80
+00:03:51,899 --> 00:03:56,629
+Eh uma perspectiva online pra uma perspectiva eh manual de
+
+81
+00:03:56,639 --> 00:03:59,088
+interação numa empresa de tijolo e cimento.
+
+82
+00:03:59,099 --> 00:04:00,028
+Não importa isso.
+
+83
+00:04:00,038 --> 00:04:00,520
+Tá a questão.
+
+84
+00:04:00,528 --> 00:04:03,288
+Estamos falando de processo? Tá, beleza? Então,
+
+85
+00:04:03,300 --> 00:04:05,990
+eh e disponibiliza no site um catálogo com seus livros
+
+86
+00:04:06,000 --> 00:04:08,588
+completo, né? Que podem ser solicitados por meio
+
+87
+00:04:08,599 --> 00:04:11,508
+de um formulário próprio, que o cliente preenche e
+
+88
+00:04:11,520 --> 00:04:13,740
+encaminha por e-mail, né? Então, eh,
+
+89
+00:04:13,750 --> 00:04:17,670
+a gente já começa a perceber algumas algumas nuances aqui,
+
+90
+00:04:17,678 --> 00:04:19,869
+né? Então a gente começa a entender aqui que
+
+91
+00:04:19,879 --> 00:04:22,928
+a gente tem aqui oh um formulário próprio, bem
+
+92
+00:04:22,939 --> 00:04:26,009
+aqui tá eh, nessa questão da do do formulário.
+
+93
+00:04:26,019 --> 00:04:28,459
+O formulário opa! Deixa eu voltar aqui um pouquinho
+
+94
+00:04:28,470 --> 00:04:32,838
+da próxima aqui, um formulário próprio daqui, formulário
+
+95
+00:04:32,850 --> 00:04:33,829
+próprio aqui.
+
+96
+00:04:33,838 --> 00:04:36,699
+Oh! Que o cliente preenche e encaminha por e-mail,
+
+97
+00:04:36,709 --> 00:04:40,028
+né? Então já temos algumas duas, duas perspectivas
+
+98
+00:04:40,040 --> 00:04:42,649
+importantes acerca do de da, da observação.
+
+99
+00:04:42,660 --> 00:04:47,290
+Aí no o o o processo efetivamente a gente colocou
+
+100
+00:04:47,298 --> 00:04:47,750
+aqui.
+
+101
+00:04:47,759 --> 00:04:51,329
+Eh enumerando de um até a parte número eh sete,
+
+102
+00:04:51,338 --> 00:04:53,588
+né, Eh então na na, na, na
+
+103
+00:04:53,600 --> 00:04:55,928
+primeiro passo dele, né? Na primeira interação dele
+
+104
+00:04:55,939 --> 00:04:56,528
+ele eh.
+
+105
+00:04:56,540 --> 00:04:59,730
+Começa com o cliente fazendo o pedido preenchendo uma ficha
+
+106
+00:04:59,738 --> 00:05:03,329
+própria, né? Que a própria empresa leia livros
+
+107
+00:05:03,338 --> 00:05:05,309
+s A disponibiliza no seu site da internet.
+
+108
+00:05:05,319 --> 00:05:08,730
+Pronto, né? Feito isso o pedido.
+
+109
+00:05:08,738 --> 00:05:10,970
+Um novo pedido do cliente é recebido pelo atendimento da
+
+110
+00:05:10,980 --> 00:05:11,509
+empresa.
+
+111
+00:05:11,899 --> 00:05:13,988
+Então, o atendimento da empresa vai receber esse pedido
+
+112
+00:05:14,000 --> 00:05:15,588
+que o cara fez? Registrou, né? E
+
+113
+00:05:15,600 --> 00:05:19,389
+avalia a a perspectiva de se esse pedido se encontra
+
+114
+00:05:19,399 --> 00:05:20,069
+em estoque.
+
+115
+00:05:20,079 --> 00:05:23,100
+Se eh, não tem não tiver no estoque.
+
+116
+00:05:23,108 --> 00:05:25,309
+Caso não tenha o livro no estoque, o atendimento
+
+117
+00:05:25,319 --> 00:05:30,149
+encaminha para expedição que é para encomendar o título junto
+
+118
+00:05:30,160 --> 00:05:31,889
+àà editora Eh.
+
+119
+00:05:31,899 --> 00:05:36,709
+Nessas primeiras três interações é importante, a gente preenche.
+
+120
+00:05:36,720 --> 00:05:39,028
+Eh entender as nuances que vem aqui, nessa questão
+
+121
+00:05:39,040 --> 00:05:41,988
+do o preenchimento, nessa, na na questão das
+
+122
+00:05:42,000 --> 00:05:44,488
+ações que são executadas, Olha o o, o,
+
+123
+00:05:44,500 --> 00:05:48,230
+o novo pedido, ele é recebido e ele é
+
+124
+00:05:48,238 --> 00:05:49,189
+encaminhado.
+
+125
+00:05:49,199 --> 00:05:51,569
+Ele é disponibilizado, né? EH, eh a.
+
+126
+00:05:51,579 --> 00:05:54,689
+Há uma avaliação, se tem se tem no estoque,
+
+127
+00:05:54,699 --> 00:05:55,869
+há um encaminhamento.
+
+128
+00:05:55,879 --> 00:05:58,750
+Tudo isso aqui faz parte do entendimento, dessa perspectiva
+
+129
+00:05:58,759 --> 00:05:59,350
+de processo.
+
+130
+00:05:59,358 --> 00:06:02,428
+Tá na parte, no no Passo quatro ele tem
+
+131
+00:06:02,439 --> 00:06:04,608
+aqui se o pedido eu tô falando do passo tá,
+
+132
+00:06:04,619 --> 00:06:06,689
+tá? Mas é porque tá só tá enumerado aqui.
+
+133
+00:06:06,699 --> 00:06:10,269
+Beleza eh Quando você fizer um um requisito, essa
+
+134
+00:06:10,278 --> 00:06:15,009
+organização desses critérios, né? Nessa sequência, tal
+
+135
+00:06:15,019 --> 00:06:17,838
+como tal, como tá exposta aqui, ela fica
+
+136
+00:06:17,850 --> 00:06:18,569
+sem o critério.
+
+137
+00:06:18,579 --> 00:06:20,769
+Tá óbvio que a única coisa que eu chamo a
+
+138
+00:06:20,778 --> 00:06:23,019
+atenção na questão da descrição de um processo é que
+
+139
+00:06:23,028 --> 00:06:25,470
+ele siga a sequência ao né.
+
+140
+00:06:25,480 --> 00:06:26,709
+Você não vai, não pode.
+
+141
+00:06:26,720 --> 00:06:28,629
+Tá aqui, por exemplo, ter uma ação,
+
+142
+00:06:28,639 --> 00:06:33,449
+uma atividade, um processo executando eh antes eh,
+
+143
+00:06:33,459 --> 00:06:36,389
+eh do que se do que se espera dele,
+
+144
+00:06:36,399 --> 00:06:38,009
+né? Então, por exemplo, eu não posso,
+
+145
+00:06:38,019 --> 00:06:39,670
+eh no caso aqui, por exemplo, no Passo
+
+146
+00:06:39,678 --> 00:06:41,100
+sete, oh, que tem aqui oh, confirmar
+
+147
+00:06:41,108 --> 00:06:43,949
+o recebimento da mercadoria e informar ao cliente.
+
+148
+00:06:43,959 --> 00:06:47,350
+Eu não posso confirmar esse recebimento antes de ver se
+
+149
+00:06:47,358 --> 00:06:48,428
+o pedido tá disponível.
+
+150
+00:06:48,439 --> 00:06:53,250
+Então essa sequência lógica de encadeamento das ideias ela é
+
+151
+00:06:53,259 --> 00:06:55,579
+importante, em que pese que no nas interações que
+
+152
+00:06:55,588 --> 00:06:56,850
+você vai fazer junto ao seu, eh a a
+
+153
+00:06:56,858 --> 00:07:01,278
+AO ao entendido do processo ao responsável pelo processo lá,
+
+154
+00:07:01,290 --> 00:07:03,889
+o dono desse processo, né? E aí ele
+
+155
+00:07:03,899 --> 00:07:06,149
+vai jogando um montão de ideia! Você vai eh,
+
+156
+00:07:06,160 --> 00:07:09,889
+eh coletando essas informações ali A gente no no nessa
+
+157
+00:07:09,899 --> 00:07:12,670
+nessas interações eh obviamente, a gente não e não
+
+158
+00:07:12,678 --> 00:07:14,528
+é, não é que tem que ter uma ordem
+
+159
+00:07:14,540 --> 00:07:14,970
+necessária.
+
+160
+00:07:14,980 --> 00:07:17,170
+Elas sempre vão ocorrer porque é natural, né?
+
+161
+00:07:17,178 --> 00:07:20,108
+Mas se vier alguma coisa fora ali não tem importância.
+
+162
+00:07:20,204 --> 00:07:22,254
+Então você somente descreve.
+
+163
+00:07:22,264 --> 00:07:25,345
+E depois você ordena e organiza, tá? Ah,
+
+164
+00:07:25,355 --> 00:07:28,535
+só uma, um um um uma Um ponto muito
+
+165
+00:07:28,545 --> 00:07:31,295
+importante que acho que fica subentendido.
+
+166
+00:07:31,303 --> 00:07:33,095
+Mas eu vou repetir.
+
+167
+00:07:33,105 --> 00:07:33,814
+Vou repetir, Não, não.
+
+168
+00:07:33,824 --> 00:07:36,855
+Na verdade eu vou eh, Eh contextualizar pra vocês
+
+169
+00:07:36,863 --> 00:07:37,314
+aqui.
+
+170
+00:07:37,639 --> 00:07:41,449
+Uma vez feito toda essa descrição, essa esse elencar
+
+171
+00:07:41,459 --> 00:07:45,209
+esses, esse conjunto de elementos aqui que você valide
+
+172
+00:07:45,220 --> 00:07:47,928
+ele eh, eh, eh o seu processo seja
+
+173
+00:07:47,939 --> 00:07:49,809
+validado, seja aprovado.
+
+174
+00:07:49,819 --> 00:07:53,809
+Seja, né? Tenha a a a chancela de
+
+175
+00:07:53,819 --> 00:07:55,420
+quem é o dono do processo.
+
+176
+00:07:55,428 --> 00:07:58,329
+Okay, Então você fez, eh, buscou lá
+
+177
+00:07:58,338 --> 00:08:00,048
+os dados, detalhou.
+
+178
+00:08:00,059 --> 00:08:01,290
+Lindo, maravilhoso.
+
+179
+00:08:01,298 --> 00:08:05,199
+Tá perfeito! Escreveu, Ordenou, organizou, criou
+
+180
+00:08:05,209 --> 00:08:08,879
+um texto, corrigiu as interações, fez as ligações
+
+181
+00:08:08,889 --> 00:08:09,009
+ali.
+
+182
+00:08:09,019 --> 00:08:12,959
+O português bem escrito eh a o encadeamento das ideias
+
+183
+00:08:12,970 --> 00:08:15,088
+okay, levou lá pro dono do processo! Falou
+
+184
+00:08:15,100 --> 00:08:16,939
+Olha, isso aqui que acontece! É assim que
+
+185
+00:08:16,949 --> 00:08:17,920
+acontece.
+
+186
+00:08:17,928 --> 00:08:21,298
+Falta algum detalhe Tem alguma coisa que precisa ser crescida,
+
+187
+00:08:21,309 --> 00:08:23,100
+né? E E aí, a partir do momento
+
+188
+00:08:23,108 --> 00:08:26,119
+que isso tiver pronto, aquilo ali é é chancelado,
+
+189
+00:08:26,129 --> 00:08:28,319
+né? E ele é formalizado beleza.
+
+190
+00:08:28,329 --> 00:08:32,950
+Então voltando aqui na parte, na no, no
+
+191
+00:08:32,960 --> 00:08:33,710
+próximo passo.
+
+192
+00:08:33,719 --> 00:08:35,629
+A gente tem que se o pedido estiver disponível em
+
+193
+00:08:35,639 --> 00:08:38,308
+estoque, né? A expedição vai sinalizar para a
+
+194
+00:08:38,320 --> 00:08:40,580
+cobrança, vai emitir um border e encaminhar para o
+
+195
+00:08:40,590 --> 00:08:43,029
+cliente a confirmação do pagamento.
+
+196
+00:08:43,038 --> 00:08:45,908
+Vai chegar no e-mail, né? E diretamente na
+
+197
+00:08:45,918 --> 00:08:46,788
+cobrança que procede.
+
+198
+00:08:46,798 --> 00:08:49,308
+Comissão da nota Fiscal, né? E encaminha uma
+
+199
+00:08:49,320 --> 00:08:52,450
+cópia eh eh por meio de e-mail para o cliente.
+
+200
+00:08:52,869 --> 00:08:55,759
+Quando emite essa nota fiscal, a expedição informa e
+
+201
+00:08:55,769 --> 00:08:58,879
+os livros são separados pela equipe que despacha junto com
+
+202
+00:08:58,889 --> 00:09:00,678
+a nota fiscal impressa para o cliente.
+
+203
+00:09:00,690 --> 00:09:02,820
+Por fim, a confirmação do recebimento da mercadoria é
+
+204
+00:09:02,830 --> 00:09:04,399
+informada pelo cliente também por e-mail.
+
+205
+00:09:04,408 --> 00:09:07,158
+Observo que eu tenho uma série de interações aqui que
+
+206
+00:09:07,168 --> 00:09:09,918
+ocorrem junto a esse processo, né? Eh de
+
+207
+00:09:09,928 --> 00:09:16,538
+verificação de eh encaminhamentos de eh emissão de documentos!
+
+208
+00:09:16,548 --> 00:09:18,558
+Vejam o que em que pese a gente entende isso
+
+209
+00:09:18,570 --> 00:09:18,700
+aqui.
+
+210
+00:09:18,710 --> 00:09:21,500
+Tudo é processo que mu, eh! Pode ser
+
+211
+00:09:21,509 --> 00:09:25,000
+feito manualmente, né? EH? Eh, ele
+
+212
+00:09:25,009 --> 00:09:27,639
+vai, Ele pode ter uma interação automatizada também.
+
+213
+00:09:27,649 --> 00:09:28,779
+Não há problema quanto a isso.
+
+214
+00:09:28,788 --> 00:09:31,759
+Mas olha só o ato de separar os livros de
+
+215
+00:09:31,769 --> 00:09:34,359
+organizar isso aí é feito manual tá, mas eu
+
+216
+00:09:34,369 --> 00:09:38,359
+posso representar isso por meio de um processo dentro Eh
+
+217
+00:09:38,369 --> 00:09:40,399
+daquilo que eu tô escrevendo dentro daquilo que eu estou
+
+218
+00:09:40,408 --> 00:09:42,715
+determinando de dentro do da, a forma como ele
+
+219
+00:09:42,724 --> 00:09:45,955
+acontece efetivamente, né? Então, é importante a
+
+220
+00:09:45,965 --> 00:09:49,433
+gente ter a atenção nos detalhes, né? Usar
+
+221
+00:09:49,445 --> 00:09:52,075
+toda a a nossa, o nosso entendimento e nossa
+
+222
+00:09:52,085 --> 00:09:55,594
+contextualização acerca do que se propõe o processo, pra
+
+223
+00:09:55,604 --> 00:09:58,514
+que a gente possa realmente desenhá lo na parte dois.
+
+224
+00:09:58,524 --> 00:10:01,014
+Nós vamos começar a desenhar esse fluxo até lá.
+

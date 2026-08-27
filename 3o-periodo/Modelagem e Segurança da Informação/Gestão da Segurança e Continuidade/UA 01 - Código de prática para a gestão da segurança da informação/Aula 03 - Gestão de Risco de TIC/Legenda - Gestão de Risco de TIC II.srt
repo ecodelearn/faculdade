@@ -1,0 +1,992 @@
+1
+00:00:06,559 --> 00:00:08,130
+vamos continuar falando sobre a I S.
+
+2
+00:00:08,140 --> 00:00:09,250
+Vinte e sete mil e cinco.
+
+3
+00:00:09,259 --> 00:00:11,130
+Agora a forma de implementação.
+
+4
+00:00:11,140 --> 00:00:14,050
+Então, se você precisa implementar a a ISO vinte
+
+5
+00:00:14,060 --> 00:00:15,648
+e sete mil e cinco na sua empresa, aqui
+
+6
+00:00:15,659 --> 00:00:16,969
+vai ter algumas dicas pra você.
+
+7
+00:00:16,978 --> 00:00:19,068
+Tá bom quando a gente fala da I S.
+
+8
+00:00:19,079 --> 00:00:21,530
+Vinte e sete mil e cinco é um processo genérico?
+
+9
+00:00:21,539 --> 00:00:22,269
+Tá, opa! Deixa.
+
+10
+00:00:22,280 --> 00:00:24,408
+Eu coloco aqui A apresentação pra vocês é o processo
+
+11
+00:00:24,420 --> 00:00:26,489
+genérico implementado pela norma.
+
+12
+00:00:26,500 --> 00:00:29,000
+Tá? Então vamos lá ti são seis fases pra
+
+13
+00:00:29,010 --> 00:00:32,240
+essa Pra essa norma tá desde definição do contexto,
+
+14
+00:00:32,250 --> 00:00:37,118
+processo de avaliação de risco, tratamento do risco,
+
+15
+00:00:37,130 --> 00:00:41,439
+aceitação do risco, comunicação e consulta do risco e
+
+16
+00:00:41,450 --> 00:00:44,000
+monitoramento e análise do risco.
+
+17
+00:00:44,009 --> 00:00:46,279
+Então, assim são seis etapas, tá e essas
+
+18
+00:00:46,289 --> 00:00:50,359
+etapas são seis fases e essas fases são interligadas e
+
+19
+00:00:50,368 --> 00:00:52,168
+a gente vai estudar um pouquinho mais sobre essas fases.
+
+20
+00:00:52,179 --> 00:00:53,298
+Então aqui tem um.
+
+21
+00:00:53,649 --> 00:00:56,060
+A gente pode ver que um desenho que mostra essas
+
+22
+00:00:56,069 --> 00:00:57,859
+fases primeiro, a gente tem a definição do contexto,
+
+23
+00:00:57,868 --> 00:01:00,179
+A gente precisa entender em qual contexto que nós estamos
+
+24
+00:01:00,189 --> 00:01:00,658
+falando.
+
+25
+00:01:00,668 --> 00:01:02,779
+A partir do momento que a gente começa a avaliar
+
+26
+00:01:02,789 --> 00:01:03,950
+esses riscos, tá aí.
+
+27
+00:01:03,959 --> 00:01:07,400
+A partir dessa avaliação, a gente trata os riscos,
+
+28
+00:01:07,409 --> 00:01:08,859
+tratamos os riscos.
+
+29
+00:01:08,870 --> 00:01:10,459
+A partir do momento que a gente começa a tratar
+
+30
+00:01:10,469 --> 00:01:12,778
+os riscos, a gente tem aceito ou não aceita
+
+31
+00:01:12,790 --> 00:01:13,338
+o risco.
+
+32
+00:01:13,349 --> 00:01:14,379
+E aí, a partir do momento que a gente
+
+33
+00:01:14,388 --> 00:01:17,659
+faz isso, a gente precisa comunicar a organização e
+
+34
+00:01:17,668 --> 00:01:19,519
+monitorar esse risco.
+
+35
+00:01:19,819 --> 00:01:22,588
+E a gente vai falar sobre isso agora, mas
+
+36
+00:01:22,599 --> 00:01:25,629
+sobre cada detalhe, mas de novo define o contexto,
+
+37
+00:01:25,638 --> 00:01:26,629
+Oh, define, o contexto.
+
+38
+00:01:26,638 --> 00:01:28,209
+Aqui em cima, Oh, deixa eu pegar aqui,
+
+39
+00:01:28,219 --> 00:01:28,750
+define.
+
+40
+00:01:28,760 --> 00:01:31,668
+O contexto tá define a definir o contexto.
+
+41
+00:01:31,680 --> 00:01:33,760
+Você vai avaliar os riscos.
+
+42
+00:01:33,769 --> 00:01:36,069
+Você vai tratar esses riscos.
+
+43
+00:01:36,079 --> 00:01:37,879
+A partir do momento que você trata os riscos,
+
+44
+00:01:37,888 --> 00:01:40,010
+você aceita ou mitiga o risco.
+
+45
+00:01:40,019 --> 00:01:41,040
+Aí, a partir do momento que você faz,
+
+46
+00:01:41,049 --> 00:01:43,150
+você faz isso, Você precisa comunicar pra toda a
+
+47
+00:01:43,159 --> 00:01:45,555
+organização as coisas desses riscos.
+
+48
+00:01:45,564 --> 00:01:48,234
+E também começar a monitorar Tá, vamos começar a
+
+49
+00:01:48,245 --> 00:01:51,073
+olhar cada ponto desse quando a gente fala identificação dos
+
+50
+00:01:51,084 --> 00:01:51,364
+riscos.
+
+51
+00:01:51,375 --> 00:01:53,694
+A gente tá falando assim oh identificação dos ativos.
+
+52
+00:01:53,704 --> 00:01:55,004
+Lembra que eu falei, É, precisa fazer um
+
+53
+00:01:55,013 --> 00:01:55,674
+inventário.
+
+54
+00:01:55,683 --> 00:01:57,314
+A gente precisa saber o que que a gente tem.
+
+55
+00:01:57,323 --> 00:01:58,995
+Então, qual é a nossa infraestrutura? Quais são
+
+56
+00:01:59,004 --> 00:02:02,355
+os nossos softwares? Tá inventário, escopo e limites
+
+57
+00:02:02,364 --> 00:02:06,073
+são essenciais para gerar uma lista de ativos que devem
+
+58
+00:02:06,084 --> 00:02:08,014
+ser gerenciadas frente aos seus riscos.
+
+59
+00:02:08,429 --> 00:02:12,229
+Identificação das ameaças tá por meio de registros de incidentes
+
+60
+00:02:12,240 --> 00:02:14,758
+e eventos e seguranças É possível formular uma lista de
+
+61
+00:02:14,770 --> 00:02:17,360
+ameaças possíveis? Você precisa entender que tem que ter
+
+62
+00:02:17,368 --> 00:02:18,020
+um logo.
+
+63
+00:02:18,028 --> 00:02:20,639
+Você precisa ter, né? Uma lições aprendidas.
+
+64
+00:02:20,649 --> 00:02:23,758
+Então, nós precisamos ter uma identificação das ameaças e
+
+65
+00:02:23,770 --> 00:02:25,860
+a identificação dos ativos.
+
+66
+00:02:26,159 --> 00:02:30,250
+Repare que evento de segurança não, não diz respeito,
+
+67
+00:02:30,258 --> 00:02:32,368
+somente ataques cibernéticos.
+
+68
+00:02:32,379 --> 00:02:35,520
+Tá bom, mas podem estar de né? Pode
+
+69
+00:02:35,528 --> 00:02:39,050
+estar dizendo dizendo respeito a outros eventos e ameaça de
+
+70
+00:02:39,058 --> 00:02:41,849
+segurança os ativos, como eventos climáticos.
+
+71
+00:02:41,860 --> 00:02:43,659
+Eu dei um exemplo, Aí data C, tá
+
+72
+00:02:43,669 --> 00:02:46,368
+chovendo muito forte, como muda, né? Ou
+
+73
+00:02:46,379 --> 00:02:48,879
+segurança de infraestrutura, como combate ao fogo.
+
+74
+00:02:48,889 --> 00:02:52,379
+Tá que também pode ser avaliado na gestão de risco,
+
+75
+00:02:52,389 --> 00:02:53,860
+caso seja necessário.
+
+76
+00:02:53,868 --> 00:02:55,639
+A gente precisa entender todo esse contexto.
+
+77
+00:02:55,649 --> 00:02:56,278
+Sei lá.
+
+78
+00:02:56,288 --> 00:02:58,379
+Um data center é uma região do País que é
+
+79
+00:02:58,389 --> 00:02:59,528
+muito quente.
+
+80
+00:02:59,538 --> 00:03:01,819
+Então, provavelmente você vai precisar de um sistema de
+
+81
+00:03:01,830 --> 00:03:03,699
+refrigeração muito forte.
+
+82
+00:03:03,710 --> 00:03:05,879
+Então a gente tem que entender todos os riscos,
+
+83
+00:03:05,889 --> 00:03:09,429
+né? Naturais não naturais que estão dentro do nosso
+
+84
+00:03:09,439 --> 00:03:10,240
+ecossistema.
+
+85
+00:03:10,250 --> 00:03:15,349
+Não é somente ataque cibernético? Ah, identificação dos
+
+86
+00:03:15,360 --> 00:03:21,669
+riscos ou como é que identificação de riscos, Identificação
+
+87
+00:03:21,679 --> 00:03:24,788
+de controle É necessário saber que tipo de controle e
+
+88
+00:03:24,800 --> 00:03:29,110
+monitoramento são utilizados e quais se planeja utilizar pra implementar.
+
+89
+00:03:29,118 --> 00:03:30,770
+Então, a gente precisa entender que tipo de controle
+
+90
+00:03:30,778 --> 00:03:36,129
+a gente quer tá identificação das vulnerabilidades, ameaças conhecidas,
+
+91
+00:03:36,139 --> 00:03:39,270
+Lista de ativos, Lista de controle já existente A
+
+92
+00:03:39,278 --> 00:03:41,679
+gente precisa ter toda essa identificação.
+
+93
+00:03:41,689 --> 00:03:44,710
+Você não consegue fazer a gestão de equipe, de
+
+94
+00:03:44,719 --> 00:03:47,379
+sistema, de infraestrutura, de processo? Se você
+
+95
+00:03:47,389 --> 00:03:49,860
+não conhece, se você não tem um painel,
+
+96
+00:03:49,868 --> 00:03:51,979
+se você não tem um um um um, um,
+
+97
+00:03:51,990 --> 00:03:54,058
+um, uma lista dos seus ativos Se você não
+
+98
+00:03:54,069 --> 00:03:57,659
+conhece o seu ecossistema, o seu parque tecnológico,
+
+99
+00:03:57,669 --> 00:04:00,699
+a sua equipe, você não consegue fazer uma gestão
+
+100
+00:04:00,710 --> 00:04:01,860
+mínima necessária.
+
+101
+00:04:01,868 --> 00:04:05,139
+A primeira coisa que você precisa entender é conhecer o
+
+102
+00:04:05,149 --> 00:04:06,599
+seu parque tecnológico.
+
+103
+00:04:08,569 --> 00:04:11,300
+Identificação das consequências.
+
+104
+00:04:11,308 --> 00:04:15,939
+Analisando tudo produzido anteriormente, é possível criar uma lista
+
+105
+00:04:15,949 --> 00:04:20,019
+com cenários e incidência, então, projetar quais seriam
+
+106
+00:04:20,028 --> 00:04:23,500
+as consequências aos ativos e aos processos de negócios.
+
+107
+00:04:23,509 --> 00:04:26,100
+A partir do momento que você identifica todos os seus,
+
+108
+00:04:26,108 --> 00:04:28,579
+se todos os tudo tudo que você tem, as
+
+109
+00:04:28,588 --> 00:04:30,939
+consequências, as consequências, que o impacto a gente
+
+110
+00:04:30,949 --> 00:04:32,059
+pode trocar aqui.
+
+111
+00:04:32,069 --> 00:04:37,119
+Consequência pode por impacto, aqui também tá impacto hum
+
+112
+00:04:38,689 --> 00:04:39,559
+pacto.
+
+113
+00:04:39,569 --> 00:04:42,838
+A partir do momento que você entende, tá qual
+
+114
+00:04:42,850 --> 00:04:45,988
+o impacto para a sua organização? Para cada tipo
+
+115
+00:04:46,000 --> 00:04:48,869
+de incidente, fica muito mais fácil você po você
+
+116
+00:04:48,879 --> 00:04:53,019
+consegue criar cenários se acontecer o cenário a qual vai
+
+117
+00:04:53,028 --> 00:04:54,500
+ser o seu plano de ação.
+
+118
+00:04:54,509 --> 00:04:57,040
+Se acontecer a situação B, qual vai ser o
+
+119
+00:04:57,048 --> 00:04:59,040
+seu plano de ação? Só que se você não
+
+120
+00:04:59,048 --> 00:05:01,459
+conhecer os seus inventários, se você não conhecer o
+
+121
+00:05:01,470 --> 00:05:04,338
+seu pacto NEC se você não conhecer as suas vulnerabilidades,
+
+122
+00:05:04,350 --> 00:05:08,488
+você não sabe qual o impacto? Você não vai
+
+123
+00:05:08,500 --> 00:05:10,500
+saber quais são as consequências.
+
+124
+00:05:10,509 --> 00:05:12,470
+Você não vai entender qual é o seu plano de
+
+125
+00:05:12,480 --> 00:05:12,939
+ação.
+
+126
+00:05:12,949 --> 00:05:15,939
+Você precisa conhecer o seu ambiente? Tá? Eh
+
+127
+00:05:15,949 --> 00:05:17,928
+análise de risco.
+
+128
+00:05:17,939 --> 00:05:22,670
+Estimativa de consequência Estimativa de impacto Utilizando a lista feita
+
+129
+00:05:22,678 --> 00:05:27,420
+pela identificação de consequências, é possível avaliar o impacto
+
+130
+00:05:27,428 --> 00:05:30,889
+em EM e EH e que esses possíveis eventos teriam
+
+131
+00:05:30,899 --> 00:05:31,660
+a organização.
+
+132
+00:05:31,670 --> 00:05:33,209
+Então, a partir do momento que você identifica as
+
+133
+00:05:33,220 --> 00:05:35,389
+coisas, você consegue conhecer o impacto.
+
+134
+00:05:35,399 --> 00:05:38,629
+Você vai precisar bem entender que aquele servidor aquele,
+
+135
+00:05:38,639 --> 00:05:41,209
+aquela máquina, aquele funcionário, aquele data center,
+
+136
+00:05:41,220 --> 00:05:44,588
+se ele ficar indisponível, qual o impacto pra organização?
+
+137
+00:05:45,319 --> 00:05:48,389
+Qual o impacto a nossa? Perdi o servidor eh
+
+138
+00:05:48,399 --> 00:05:49,608
+verde.
+
+139
+00:05:49,619 --> 00:05:51,629
+O nome do meu servidor é verde, perdi aquele
+
+140
+00:05:51,639 --> 00:05:51,879
+verde.
+
+141
+00:05:51,889 --> 00:05:53,809
+O que que eu faço agora? Ah, servidor
+
+142
+00:05:53,819 --> 00:05:56,259
+verde, ele é responsável por todo o nosso Eh
+
+143
+00:05:56,269 --> 00:05:58,970
+Website toda nossa na nossa internet.
+
+144
+00:05:58,980 --> 00:06:01,730
+Ah, esse servidor é responsável pelo nosso R M.
+
+145
+00:06:01,738 --> 00:06:03,769
+Qual o impacto de você perder o C? R
+
+146
+00:06:03,778 --> 00:06:06,105
+M? A maior parte de você perder um um,
+
+147
+00:06:06,113 --> 00:06:10,483
+um sistema de inventário, você precisa entender onde está
+
+148
+00:06:10,494 --> 00:06:15,024
+cada elemento onde está cada ativo, porque aí consequentemente,
+
+149
+00:06:15,035 --> 00:06:18,785
+você consegue entender o impacto gerado, caso você venha
+
+150
+00:06:18,795 --> 00:06:21,384
+a perder aquele ativo e aí consegue criar um plano
+
+151
+00:06:21,394 --> 00:06:24,579
+B que eu não sei, né! Estimativa de
+
+152
+00:06:24,588 --> 00:06:28,178
+probabilidade de incidente Considerando a lista de controles e de
+
+153
+00:06:28,189 --> 00:06:31,920
+consequências, é possível estimar a chance de incidentes ocorram,
+
+154
+00:06:31,928 --> 00:06:35,410
+gerando uma lista de probabilidade, então isso é importante.
+
+155
+00:06:35,420 --> 00:06:36,738
+Então, a partir do momento que você começa a
+
+156
+00:06:36,750 --> 00:06:39,790
+controlar, isso você sabe a probabilidade de aquela situação
+
+157
+00:06:39,798 --> 00:06:43,100
+acontecer, então você consegue até investir tempo e dinheiro
+
+158
+00:06:43,108 --> 00:06:44,379
+em uma probabilidade maior.
+
+159
+00:06:44,389 --> 00:06:47,910
+Impacto maior se vo se você não conhece o seu
+
+160
+00:06:47,920 --> 00:06:50,350
+sistema? Se você não conhece as suas vulnerabilidades.
+
+161
+00:06:50,358 --> 00:06:53,189
+Se você não conhece os seus os seus impactos,
+
+162
+00:06:53,199 --> 00:06:55,350
+né, o seu valor do negócio, você pode,
+
+163
+00:06:55,358 --> 00:06:59,670
+com certeza, investir recurso, tempo e uma vulnerabilidade
+
+164
+00:06:59,678 --> 00:07:03,649
+com baixíssima probabilidade de acontecer e com impacto pequeno.
+
+165
+00:07:03,660 --> 00:07:05,850
+Ou seja, tá perdendo dinheiro.
+
+166
+00:07:06,829 --> 00:07:11,160
+Estimativa do nível de risco Utilizando a lista de consequências
+
+167
+00:07:11,170 --> 00:07:14,230
+em conjunto com a probabilidade, é feita uma valoração
+
+168
+00:07:14,238 --> 00:07:17,309
+onde se atribui níveis de risco.
+
+169
+00:07:17,319 --> 00:07:19,730
+Então, indo nessa mesma linha de raciocínio que eu
+
+170
+00:07:19,738 --> 00:07:20,899
+tô falando, agora tá.
+
+171
+00:07:21,579 --> 00:07:26,588
+Caso o resultado seja considerado satisfatório, passamos para a
+
+172
+00:07:26,600 --> 00:07:28,689
+etapa de tratamento do risco.
+
+173
+00:07:28,699 --> 00:07:32,629
+Lembra Aquele né aquela aquelas etapas lá, como os
+
+174
+00:07:32,639 --> 00:07:37,588
+riscos identificados e avaliados? A organização precisa desenvolver estratégias
+
+175
+00:07:37,600 --> 00:07:39,358
+para tratar esses riscos.
+
+176
+00:07:39,369 --> 00:07:44,358
+As estratégias podem incluir a mitigação dos riscos, a
+
+177
+00:07:44,369 --> 00:07:49,019
+transferência dos riscos, a aceitação dos riscos ou a
+
+178
+00:07:49,028 --> 00:07:50,519
+rejeição dos riscos.
+
+179
+00:07:50,528 --> 00:07:52,278
+Então, a partir do momento que você conhece os
+
+180
+00:07:52,290 --> 00:07:53,920
+riscos, você pode fazer que é isso, você
+
+181
+00:07:53,928 --> 00:07:54,798
+mitiga o seu risco.
+
+182
+00:07:54,809 --> 00:07:57,178
+Trata, né? Ele cê transfere que quer transferir
+
+183
+00:07:57,189 --> 00:08:00,059
+o risco você pode contratar uma empresa de seguro.
+
+184
+00:08:00,069 --> 00:08:01,720
+Ah, nossa! Eu tenho um um grande risco
+
+185
+00:08:01,730 --> 00:08:03,639
+de de inundação do meu data.
+
+186
+00:08:03,649 --> 00:08:06,278
+Contrata uma empresa de seguro, né? Um exemplo
+
+187
+00:08:06,290 --> 00:08:08,540
+tá aceita o risco, fala Ah, esse é
+
+188
+00:08:08,548 --> 00:08:09,480
+o risco mesmo.
+
+189
+00:08:09,488 --> 00:08:12,040
+Pode ser que isso aconteça.
+
+190
+00:08:12,048 --> 00:08:14,278
+E se acontecer a gente já tava ciente, né?
+
+191
+00:08:14,290 --> 00:08:16,079
+Ou rejeita o risco? Fala não, isso não
+
+192
+00:08:16,088 --> 00:08:17,879
+é o risco, não esquece E não tem nada
+
+193
+00:08:17,889 --> 00:08:19,379
+a ver com com com a nossa empresa.
+
+194
+00:08:19,389 --> 00:08:21,319
+Então, esse aqui são os tipos de tratamento de
+
+195
+00:08:21,329 --> 00:08:23,959
+estratégia que a gente pode ter pra questão do do,
+
+196
+00:08:23,970 --> 00:08:24,519
+dos riscos.
+
+197
+00:08:24,528 --> 00:08:28,899
+Tá medicação de riscos, envolve a implementação de medidas
+
+198
+00:08:28,910 --> 00:08:33,000
+e controles novos, que reduzem a probabilidade de ocorrer
+
+199
+00:08:33,009 --> 00:08:34,859
+ou o impacto do risco.
+
+200
+00:08:34,869 --> 00:08:36,408
+Já a transferência foi o que a gente falou,
+
+201
+00:08:36,418 --> 00:08:38,210
+né? Já a transferência de risco é quando a
+
+202
+00:08:38,219 --> 00:08:41,609
+organização transfere parte ou todo o impacto dos riscos para
+
+203
+00:08:41,619 --> 00:08:42,619
+outra entidade.
+
+204
+00:08:42,629 --> 00:08:46,500
+Geralmente, o impacto é calculado em termos de financeiro,
+
+205
+00:08:46,509 --> 00:08:48,979
+né? De dinheiro e é transferido por meio de
+
+206
+00:08:48,989 --> 00:08:49,479
+seguros.
+
+207
+00:08:49,489 --> 00:08:51,279
+Foi o que eu falei então, a a medicação
+
+208
+00:08:51,288 --> 00:08:53,019
+aqui? Oh, ela envolve que a gente vai
+
+209
+00:08:53,029 --> 00:08:56,200
+fazer plano de controle pra reduzir a probabilidade de acontecer.
+
+210
+00:08:56,210 --> 00:08:59,219
+Tá? E quando a gente fala em transferência de
+
+211
+00:08:59,229 --> 00:09:02,418
+transferência dos riscos, a gente joga pra outra empresa,
+
+212
+00:09:02,428 --> 00:09:04,700
+terceiriza, controla questão de seguro.
+
+213
+00:09:04,710 --> 00:09:06,700
+Então, a gente pode fazer qualquer uma dessas duas
+
+214
+00:09:06,710 --> 00:09:07,139
+formas.
+
+215
+00:09:07,149 --> 00:09:10,759
+Por fim, a etapa de tratamento de risco deve
+
+216
+00:09:10,769 --> 00:09:14,259
+gerar um relatório que detalha o plano de tratamento de
+
+217
+00:09:14,269 --> 00:09:17,099
+risco, Uma lista de riscos residuais e ao mesmo
+
+218
+00:09:17,109 --> 00:09:20,259
+tempo que seguimos na caminhada do processo como um todo,
+
+219
+00:09:20,269 --> 00:09:21,979
+ou seja, a gente tá melhorando o processo.
+
+220
+00:09:21,989 --> 00:09:23,580
+A gente tem uma lista de de risco, mas
+
+221
+00:09:23,590 --> 00:09:24,879
+o trabalho é contínuo.
+
+222
+00:09:25,168 --> 00:09:28,259
+Esse plano de lista deve ser entregue ao processo de
+
+223
+00:09:28,269 --> 00:09:31,940
+monitoramento, porque o monitoramento vai entender todos os riscos
+
+224
+00:09:31,950 --> 00:09:35,250
+que foram mapeados, trabalhados, vai e aí vão
+
+225
+00:09:35,259 --> 00:09:38,178
+focar em cima daqueles riscos, vão, vão monitorar
+
+226
+00:09:38,190 --> 00:09:39,979
+constantemente aqueles riscos.
+
+227
+00:09:39,989 --> 00:09:41,979
+Então a gente precisa, sim, ter uma uma
+
+228
+00:09:41,989 --> 00:09:45,200
+tabela, uma lista de atividades pra gente fazer isso.
+
+229
+00:09:45,710 --> 00:09:48,599
+A aceitação do risco com o plano de tratamento de
+
+230
+00:09:48,609 --> 00:09:51,489
+risco, a avaliação de riscos residuais nas mãos tá?
+
+231
+00:09:51,500 --> 00:09:53,239
+A gente precisa do okay! A gente eh cara,
+
+232
+00:09:53,250 --> 00:09:55,918
+eu entendi Eu conheço esse risco, esse risco é
+
+233
+00:09:55,928 --> 00:09:57,279
+nosso e a gente aceitou.
+
+234
+00:09:57,288 --> 00:09:57,779
+Ele.
+
+235
+00:09:57,788 --> 00:10:02,259
+É necessário a aceitação seja documentada, explicitando todos os
+
+236
+00:10:02,269 --> 00:10:04,399
+riscos que estão sendo aceitos pela organização.
+
+237
+00:10:04,408 --> 00:10:07,570
+Isso é fundamental e, por fim a gente comunica,
+
+238
+00:10:07,580 --> 00:10:11,048
+né? A gente comunica os nossos riscos e monitora
+
+239
+00:10:11,058 --> 00:10:13,190
+os nossos riscos, então é fundamental.
+
+240
+00:10:13,200 --> 00:10:15,190
+A partir do final finalizar o processo.
+
+241
+00:10:15,200 --> 00:10:17,889
+Você precisa comunicar pra toda a organização sobre os seus
+
+242
+00:10:17,899 --> 00:10:23,384
+riscos e monitorar, monitorar constantemente esses riscos.
+
+243
+00:10:23,394 --> 00:10:26,904
+Eh, eh durante a sua toda a vida de
+
+244
+00:10:26,913 --> 00:10:28,524
+daquele daquele ativo, né? Que a gente tá
+
+245
+00:10:28,533 --> 00:10:30,965
+falando de um ativo trabalhar sobre aquele risco? Então,
+
+246
+00:10:30,974 --> 00:10:34,144
+essas são as etapas da implementação do da ISO vinte,
+
+247
+00:10:34,154 --> 00:10:35,125
+vinte e sete mil e cinco.
+
+248
+00:10:35,134 --> 00:10:36,783
+Tá bom até a próxima aula.
+

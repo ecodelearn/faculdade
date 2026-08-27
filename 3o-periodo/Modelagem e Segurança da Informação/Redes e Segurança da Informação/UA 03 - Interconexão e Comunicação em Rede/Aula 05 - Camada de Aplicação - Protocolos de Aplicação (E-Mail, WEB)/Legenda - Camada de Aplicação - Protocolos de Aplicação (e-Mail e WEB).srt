@@ -1,0 +1,844 @@
+1
+00:00:06,099 --> 00:00:09,630
+Olá, aluno seja muito bem-vindo Professor Fabrício Melo vamos
+
+2
+00:00:09,640 --> 00:00:13,169
+que vamos trabalhando aí com os protocolos da camada de
+
+3
+00:00:13,179 --> 00:00:16,769
+aplicação eh camada quatro do modelo TC p i p
+
+4
+00:00:16,780 --> 00:00:20,239
+camada sete do modelo onze E quais são os protocolos
+
+5
+00:00:20,250 --> 00:00:23,548
+da vez protocolo muito conhecido? Os protocolos muito conhecidos
+
+6
+00:00:23,559 --> 00:00:26,510
+agora que são os protocolos de e-mail deve ter visto
+
+7
+00:00:26,519 --> 00:00:28,940
+isso aí né? A gente, por exemplo,
+
+8
+00:00:28,949 --> 00:00:30,940
+também quando vai parar de concurso, cê tá sempre
+
+9
+00:00:30,949 --> 00:00:34,380
+sendo pedido e são protocolos aí obrigatórios, principalmente no
+
+10
+00:00:34,389 --> 00:00:37,700
+seu curso de rede, porque são protocolos amplamente utilizados
+
+11
+00:00:37,709 --> 00:00:41,978
+aí pra fazer os nossos e-mails funcionarem de maneira adequada.
+
+12
+00:00:41,990 --> 00:00:44,298
+Então vamos lá o primeiro protocolo que a gente vai
+
+13
+00:00:44,310 --> 00:00:46,020
+ver de e-mail, obviamente, é o protocolo pra
+
+14
+00:00:46,029 --> 00:00:49,020
+envio simple meio transfer protocolo, ou seja, é
+
+15
+00:00:49,029 --> 00:00:53,189
+o protocolo responsável por enviar os e-mails, né Tá
+
+16
+00:00:53,200 --> 00:00:55,789
+na R F C meia cinco três um trabalha a
+
+17
+00:00:55,798 --> 00:00:58,039
+porta DC p vinte e cinco e quinhentos e oitenta
+
+18
+00:00:58,048 --> 00:01:00,609
+e sete usando criptografia, né? Quinhentos e oitenta
+
+19
+00:01:00,618 --> 00:01:03,990
+e sete a porta segura trabalha com o sistema cliente
+
+20
+00:01:04,000 --> 00:01:06,028
+para servidor e servidor para servidor.
+
+21
+00:01:06,040 --> 00:01:09,000
+Como é que funciona essa logística? Olha só um
+
+22
+00:01:09,010 --> 00:01:12,409
+cliente e-mail Aluno não se comunica diretamente com o outro
+
+23
+00:01:12,418 --> 00:01:15,308
+ou seja, sistema de e-mail não é ponto a
+
+24
+00:01:15,319 --> 00:01:16,569
+ponto.
+
+25
+00:01:16,579 --> 00:01:20,260
+Tá assim como a maioria dos serviços da internet trabalha
+
+26
+00:01:20,269 --> 00:01:24,000
+com o sistema cliente servidor servidor cliente, então aqui
+
+27
+00:01:24,010 --> 00:01:27,558
+Oh, você vai ter oh servidores de e-mail pra
+
+28
+00:01:27,569 --> 00:01:29,980
+enviar as mensagens através desse protocolo.
+
+29
+00:01:29,989 --> 00:01:32,778
+O servidor por sua vez se comunica com outro servidor
+
+30
+00:01:32,790 --> 00:01:37,698
+utilizando o protocolo pra enviar, Então perceba só aqui
+
+31
+00:01:37,709 --> 00:01:38,418
+no esquema.
+
+32
+00:01:38,430 --> 00:01:40,659
+Aqui eu tenho uma origem que é o aluno da
+
+33
+00:01:40,668 --> 00:01:41,778
+origem.
+
+34
+00:01:41,790 --> 00:01:46,459
+E aqui eu tenho o aluno de destino certo.
+
+35
+00:01:46,469 --> 00:01:51,790
+Então quando o aluno de origem pedir pra despachar o
+
+36
+00:01:51,799 --> 00:01:55,510
+e-mail ele logar no servidor, né? Logo redige
+
+37
+00:01:55,519 --> 00:01:58,969
+o e-mail e pede pra enviar Olha que interessante o
+
+38
+00:01:58,980 --> 00:02:01,028
+servidor de e-mail vai fazer uma pergunta assim oh,
+
+39
+00:02:01,040 --> 00:02:06,769
+eu respondo pelo domínio do destino, por exemplo gmail
+
+40
+00:02:06,778 --> 00:02:11,460
+pra gmail Sim, ele vai realocar, Não.
+
+41
+00:02:11,469 --> 00:02:17,939
+Aí ele vai enviar para o servidor do destino.
+
+42
+00:02:17,949 --> 00:02:20,740
+Se for o mês domínio for dois e-mails do G
+
+43
+00:02:20,750 --> 00:02:21,099
+e-mail.
+
+44
+00:02:21,110 --> 00:02:23,580
+Então ele vai realocar lá no próprio servidor.
+
+45
+00:02:23,588 --> 00:02:27,860
+Se não, oh lá, ele vai eh enviar
+
+46
+00:02:27,868 --> 00:02:29,740
+para o servidor de destino aí O que que vai
+
+47
+00:02:29,750 --> 00:02:34,659
+acontecer? O servidor de destino o usuário de destino,
+
+48
+00:02:34,669 --> 00:02:37,819
+né? Faz a conexão pra baixar que aí já
+
+49
+00:02:37,830 --> 00:02:39,460
+utilizando outros protocolos.
+
+50
+00:02:39,469 --> 00:02:41,020
+Então vai ser sempre essa ideia.
+
+51
+00:02:41,028 --> 00:02:43,460
+A hora que você requisitou o envio é feita essa
+
+52
+00:02:43,469 --> 00:02:46,909
+consulta bem, é o mesmo servidor.
+
+53
+00:02:46,919 --> 00:02:49,778
+Eu respondo por esse domínio, Não, não respondo,
+
+54
+00:02:49,788 --> 00:02:53,990
+então vou enviar pra quem responde aí ele despacha através
+
+55
+00:02:54,000 --> 00:02:56,389
+de quem oh do protocolo É C M T P.
+
+56
+00:02:56,399 --> 00:02:58,288
+Então pode ver que ele tá sempre na ideia de
+
+57
+00:02:58,300 --> 00:03:03,929
+tá indo enviando aí o e-mail para o destinatário agora?
+
+58
+00:03:03,939 --> 00:03:07,389
+E quais são os protocolos de recebimento? Aí nós
+
+59
+00:03:07,399 --> 00:03:08,189
+temos dois.
+
+60
+00:03:08,199 --> 00:03:12,118
+Tá tomar cuidado com a diferença o pop três e
+
+61
+00:03:12,129 --> 00:03:12,569
+o map.
+
+62
+00:03:12,580 --> 00:03:13,129
+Quatro.
+
+63
+00:03:13,929 --> 00:03:16,778
+Como que funciona o pop? Ma Qual a diferença?
+
+64
+00:03:16,788 --> 00:03:19,179
+Vamos focar aqui? Oh, porque a primeira parte
+
+65
+00:03:19,189 --> 00:03:23,080
+ali você já viu Oh o que que acontece aqui
+
+66
+00:03:24,649 --> 00:03:30,219
+quando o destino configura o protocolo como pop? Que
+
+67
+00:03:30,229 --> 00:03:32,629
+isso aí você pode configurar? Tá, por exemplo,
+
+68
+00:03:32,639 --> 00:03:35,099
+você tem um outlook que você é muito usado em
+
+69
+00:03:35,110 --> 00:03:37,538
+sistemas de correio local, né? Porque você sabe
+
+70
+00:03:37,550 --> 00:03:39,689
+que tem dois tipos de e-mail Nós temos um sistema
+
+71
+00:03:39,699 --> 00:03:41,778
+de e-mail chamado webmail, que que é o web
+
+72
+00:03:41,788 --> 00:03:44,569
+e-mail? É quando você utiliza um e-mail diretamente pra
+
+73
+00:03:44,580 --> 00:03:47,899
+um site utilizando sas, né? Software como serviço
+
+74
+00:03:47,909 --> 00:03:50,838
+na nuvem? Então você abre lá o Gmail e
+
+75
+00:03:50,849 --> 00:03:52,080
+se resolve por lá.
+
+76
+00:03:52,088 --> 00:03:53,159
+Isso é um um webmail.
+
+77
+00:03:53,558 --> 00:03:55,610
+Já correr o local é quando você tem que ter
+
+78
+00:03:55,618 --> 00:03:59,610
+um programa específico instalado na sua máquina pra gerir seus
+
+79
+00:03:59,618 --> 00:04:00,099
+e-mails.
+
+80
+00:04:00,110 --> 00:04:04,099
+Por exemplo, Outlook Bu! Eh agora o e-mail
+
+81
+00:04:04,110 --> 00:04:06,210
+que é presente em Windows dez, o Windows onze
+
+82
+00:04:06,219 --> 00:04:09,599
+são clássicos exemplos aí de programas de correr local.
+
+83
+00:04:09,610 --> 00:04:13,169
+Então no programa correr local tem como você configurar qual
+
+84
+00:04:13,179 --> 00:04:15,330
+é o protocolo que eu quero usar? Se você
+
+85
+00:04:15,338 --> 00:04:18,028
+configurar o próprio protocolo pop que eu não recomendo,
+
+86
+00:04:18,329 --> 00:04:22,338
+vai acontecer o seguinte o protocolo pop ele vai conectar
+
+87
+00:04:22,350 --> 00:04:26,319
+e vai tirar as mensagens do servidor pra sua máquina.
+
+88
+00:04:26,329 --> 00:04:28,959
+O servidor fica limpo, ele pede as mensagens.
+
+89
+00:04:28,970 --> 00:04:31,988
+Isso é muito ruim, porque hoje praticamente todo mundo
+
+90
+00:04:32,000 --> 00:04:34,298
+utiliza mais de um equipamento, não é pra ler
+
+91
+00:04:34,309 --> 00:04:36,129
+o e-mail? Então se você for num outro equipamento
+
+92
+00:04:36,139 --> 00:04:39,059
+tentar ler o e-mail, você não consegue Por quê?
+
+93
+00:04:39,069 --> 00:04:40,778
+O e-mail já foi baixado a outra máquina.
+
+94
+00:04:40,790 --> 00:04:42,988
+Você vai ler os novos, né? Mas os
+
+95
+00:04:43,000 --> 00:04:45,689
+antigos já foram baixados, então pra mim é um
+
+96
+00:04:45,699 --> 00:04:47,369
+protocolo mais atualizado.
+
+97
+00:04:47,379 --> 00:04:49,889
+A solução é usar o IMAP, O IMAP é
+
+98
+00:04:49,899 --> 00:04:53,290
+um protocolo que vai fazer o que ele vai simplesmente
+
+99
+00:04:53,298 --> 00:04:57,949
+sincronizar tá? Eh o e-mail da sua máquina com
+
+100
+00:04:57,959 --> 00:04:58,420
+o servidor.
+
+101
+00:04:58,428 --> 00:05:04,149
+Ele faz um sincronismo, obviamente baixando ali a parte
+
+102
+00:05:04,160 --> 00:05:08,040
+necessária pra fazer leitura, mas mantendo o servidor também
+
+103
+00:05:08,048 --> 00:05:10,449
+com o e-mail, com a vantagem disso que você
+
+104
+00:05:10,459 --> 00:05:13,920
+pode ir em outro dispositivo, ir lá acessar o
+
+105
+00:05:13,928 --> 00:05:16,535
+mesmo e-mail porque os e-mails não foram baixados pela primeira
+
+106
+00:05:16,545 --> 00:05:17,014
+máquina.
+
+107
+00:05:17,024 --> 00:05:20,494
+Então a diferença geralmente é essa, apesar que alguns
+
+108
+00:05:20,504 --> 00:05:23,733
+servidores pop dão a opção de deixar a cópia no
+
+109
+00:05:23,744 --> 00:05:25,625
+servidor, mas é a opção do servidor tá?
+
+110
+00:05:25,634 --> 00:05:28,415
+Não é do protocolo em si, aí já é
+
+111
+00:05:28,423 --> 00:05:32,375
+nativo do protocolo IMAP, Então lá o pop trabalha
+
+112
+00:05:32,384 --> 00:05:34,774
+com as portas cento e dez e nove nove cinco,
+
+113
+00:05:34,785 --> 00:05:38,134
+que é a porta segura e o IMAP porta cento
+
+114
+00:05:38,144 --> 00:05:39,855
+e quarenta e três que a gente já viu.
+
+115
+00:05:39,863 --> 00:05:41,774
+Novecentos e noventa e três, quando a gente fala
+
+116
+00:05:41,785 --> 00:05:43,803
+de porta segura e o destaque aqui é o seguinte
+
+117
+00:05:43,814 --> 00:05:46,838
+Oh lá, muitos sistemas de mensagem Internet Web e-mail
+
+118
+00:05:46,850 --> 00:05:49,439
+que eu dei o exemplo do Gmail usa um cliente
+
+119
+00:05:49,449 --> 00:05:50,298
+baseado na web.
+
+120
+00:05:50,309 --> 00:05:52,160
+Ou seja, você acessa pra um navegador, não
+
+121
+00:05:52,170 --> 00:05:54,798
+é? Então ele vai utilizar aí o protocolo IMAP
+
+122
+00:05:54,809 --> 00:05:59,230
+tá vendo hotmail yahoo! Gmail obviamente por serem o
+
+123
+00:05:59,238 --> 00:06:04,088
+situações web E-mails vão operar com o sistema IMAP perfeito.
+
+124
+00:06:04,100 --> 00:06:06,678
+Olha aí uma citação interessante Oh o s m t
+
+125
+00:06:06,689 --> 00:06:10,259
+P Ele pode contar com um serviço confiável e transferência
+
+126
+00:06:10,269 --> 00:06:12,939
+de dados do TC p tá vendo Ele vai operar
+
+127
+00:06:12,949 --> 00:06:15,079
+lá no transporte que a gente já estudou com o
+
+128
+00:06:15,088 --> 00:06:17,819
+TC p para entregar a mensagem ao servidor o quê
+
+129
+00:06:17,829 --> 00:06:20,459
+sem erros? Por isso você tem a garantia do
+
+130
+00:06:20,470 --> 00:06:22,238
+e-mail tá sempre ali íntegro, né? Então o
+
+131
+00:06:22,250 --> 00:06:26,959
+cliente repetir esse processo na mesma conexão TC p se
+
+132
+00:06:26,970 --> 00:06:30,399
+houver outras mensagens a enviar ao servidor, caso contrário,
+
+133
+00:06:30,410 --> 00:06:32,720
+dará uma instrução TC V para encerrar a conexão.
+
+134
+00:06:32,730 --> 00:06:36,019
+É aquela ideia Conector tem mensagem tem, não tem
+
+135
+00:06:36,028 --> 00:06:39,100
+encerra acabou parte pra próxima.
+
+136
+00:06:39,108 --> 00:06:44,778
+É assim que o livro do afirma como citação Tá
+
+137
+00:06:44,790 --> 00:06:47,660
+bom! Olha aí uma questão como sempre eu trouxe
+
+138
+00:06:47,670 --> 00:06:48,220
+pra você.
+
+139
+00:06:48,230 --> 00:06:50,660
+Olha lá, num dos passos para a criação de
+
+140
+00:06:50,670 --> 00:06:53,178
+uma conta de e-mail um computador, é necessário escolher
+
+141
+00:06:53,189 --> 00:06:55,079
+entre criar uma conta pop ou e Mapp.
+
+142
+00:06:55,088 --> 00:06:57,910
+Qual que você vai criar a respeito desse tipo de
+
+143
+00:06:57,920 --> 00:06:59,829
+conta? É incorreto? Oh! A gente tem
+
+144
+00:06:59,838 --> 00:07:01,369
+que procurar aqui a incorreta.
+
+145
+00:07:01,970 --> 00:07:04,858
+O IMAP é o método recomendado quando você precisa verificar
+
+146
+00:07:04,869 --> 00:07:09,019
+seus e-mails de vários dispositivos diferentes como telefone, laptop
+
+147
+00:07:09,028 --> 00:07:09,819
+tablet.
+
+148
+00:07:09,829 --> 00:07:12,879
+Sim, né? Você quer fazer a sincronização?
+
+149
+00:07:12,889 --> 00:07:15,899
+Vai nele Letra B Ao ler uma mensagem de e-mail
+
+150
+00:07:15,910 --> 00:07:21,899
+usando IMAP, você não está realmente baixando ou armazenando
+
+151
+00:07:21,910 --> 00:07:22,778
+o seu computador.
+
+152
+00:07:22,790 --> 00:07:25,259
+Em vez disso, você está lendo a partir do
+
+153
+00:07:25,269 --> 00:07:29,869
+serviço de e-mail exatamente o IMAP.
+
+154
+00:07:29,879 --> 00:07:32,988
+Ele só baixa a mensagem quando você clica nela e
+
+155
+00:07:33,000 --> 00:07:36,230
+os anexo não são baixados automaticamente, você pode ver
+
+156
+00:07:36,238 --> 00:07:37,040
+também como no Gmail.
+
+157
+00:07:37,048 --> 00:07:39,548
+Às vezes a a mensagem tá ali, você clica
+
+158
+00:07:39,559 --> 00:07:40,369
+que ela é carregada.
+
+159
+00:07:40,379 --> 00:07:42,988
+Ou seja, que ela é sincronizada porque primeiramente ele
+
+160
+00:07:43,000 --> 00:07:45,619
+manda só ali o o o, o cabeçalho e
+
+161
+00:07:45,629 --> 00:07:47,689
+a hora que você clica que ela visualiza, né?
+
+162
+00:07:47,699 --> 00:07:50,309
+Assim dessa forma, você pode verificar as suas mensagens
+
+163
+00:07:50,319 --> 00:07:54,350
+muito mais rapidamente do que pop, perfeito perfeito,
+
+164
+00:07:54,358 --> 00:07:57,059
+que ele cria esse pré, né? Sincronismo!
+
+165
+00:07:57,069 --> 00:07:58,869
+E a hora que você vai a mensagem que ele
+
+166
+00:07:58,879 --> 00:08:00,649
+acaba de sincronizar.
+
+167
+00:08:00,959 --> 00:08:05,209
+O pop funciona contatando seu serviço de e-mail e baixando
+
+168
+00:08:05,220 --> 00:08:08,928
+dele todas as suas novas mensagens Oh! Depois que
+
+169
+00:08:08,939 --> 00:08:10,290
+elas são baixadas em seu computador.
+
+170
+00:08:10,298 --> 00:08:13,488
+Mac são excluídas do serviço de e-mail.
+
+171
+00:08:13,500 --> 00:08:17,048
+Perfeito também é assim que funciona o pop, então
+
+172
+00:08:17,059 --> 00:08:18,790
+tem que ser a letra e, né? numa
+
+173
+00:08:18,798 --> 00:08:19,509
+conta pop.
+
+174
+00:08:19,519 --> 00:08:22,230
+O E-mail é enviado, é armazenado localmente no seu
+
+175
+00:08:22,238 --> 00:08:25,269
+computador e uma cópia do seu cabeça é enviado para
+
+176
+00:08:25,278 --> 00:08:28,149
+o servidor de e-mail, possibilitando o acesso futuro.
+
+177
+00:08:28,160 --> 00:08:31,670
+A mensagem não baixou pra máquina a Deus.
+
+178
+00:08:31,678 --> 00:08:36,109
+O e-mail sai do servidor perfeito, com exceção de
+
+179
+00:08:36,119 --> 00:08:39,269
+alguns servidores que podem deixar a cópia.
+
+180
+00:08:39,279 --> 00:08:41,349
+Isso é uma exceção e não é todo servidor que
+
+181
+00:08:41,359 --> 00:08:42,019
+tem essa opção.
+
+182
+00:08:42,029 --> 00:08:46,119
+Não tá mais uma por meio de configurações OH!
+
+183
+00:08:46,129 --> 00:08:49,889
+Do IMAP e do S M T P É possível
+
+184
+00:08:49,899 --> 00:08:53,509
+ler as mensagens do Gmail em aplicativos como Apple,
+
+185
+00:08:53,519 --> 00:08:56,450
+Microsoft Outlook? Aluno que que ele tá querendo dizer
+
+186
+00:08:56,460 --> 00:09:01,109
+aí Apple meio é o correio local usado em computador
+
+187
+00:09:01,119 --> 00:09:01,629
+da Apple.
+
+188
+00:09:01,639 --> 00:09:04,389
+O Outlook é o problema no pacote Office que eu
+
+189
+00:09:04,399 --> 00:09:07,469
+falei eu tenho tenho um outlook eu vou trazer a
+
+190
+00:09:07,479 --> 00:09:09,950
+minha conta do Gmail pra outlook gerir que eu quero
+
+191
+00:09:09,960 --> 00:09:11,869
+usar um correio local pra isso.
+
+192
+00:09:11,879 --> 00:09:14,428
+Eu tenho que configurar a minha conta no Outlook.
+
+193
+00:09:14,440 --> 00:09:17,109
+E pra configurar eu preciso de que como a gente
+
+194
+00:09:17,119 --> 00:09:21,109
+acabou de ver um protocolo de envio e um protocolo
+
+195
+00:09:21,119 --> 00:09:25,469
+pra recebimento, então o exame Nador afirma que se
+
+196
+00:09:25,479 --> 00:09:28,859
+eu configurar um IMAP pra receber e o s MTV
+
+197
+00:09:28,869 --> 00:09:33,500
+Pra enviar, eu consigo operar o Gmail nesses aplicativos?
+
+198
+00:09:33,509 --> 00:09:36,619
+Sim, sim, você tem que configurar os protocolos,
+
+199
+00:09:36,629 --> 00:09:38,739
+configurou, configurou.
+
+200
+00:09:38,750 --> 00:09:39,259
+Ótimo.
+
+201
+00:09:39,269 --> 00:09:42,460
+Os aplicativos estão prontos para serem usados hoje.
+
+202
+00:09:42,469 --> 00:09:44,899
+O Outlook, por exemplo, é muito simples configurar.
+
+203
+00:09:44,908 --> 00:09:47,700
+Basicamente é um avançar, avançar e concluir.
+
+204
+00:09:47,710 --> 00:09:49,940
+Você coloca seu nome de usuário e sua senha,
+
+205
+00:09:49,950 --> 00:09:50,590
+o Outlook.
+
+206
+00:09:50,599 --> 00:09:53,178
+Ele já puxa até as configurações dos protocolos.
+
+207
+00:09:53,190 --> 00:09:57,139
+Antigamente você tinha que informar, informar o endereço do
+
+208
+00:09:57,149 --> 00:10:00,379
+protocolo pra poder configurar bem chato.
+
+209
+00:10:00,389 --> 00:10:03,219
+Hoje, nas seções mais novas, já praticamente fazem
+
+210
+00:10:03,229 --> 00:10:06,859
+a identificação aí completa, tranquilo.
+
+211
+00:10:06,869 --> 00:10:10,359
+Então é isso, Fechamos grande abraço.
+

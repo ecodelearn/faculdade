@@ -1,0 +1,596 @@
+1
+00:00:06,919 --> 00:00:08,489
+Olá, eu sou professor Danis Cop.
+
+2
+00:00:08,500 --> 00:00:10,970
+A gente vai falar um pouco sobre o uso de
+
+3
+00:00:10,978 --> 00:00:13,728
+padrões, arquitetura, uso do M v C né?
+
+4
+00:00:13,739 --> 00:00:15,489
+Em aplicativos no s.
+
+5
+00:00:15,500 --> 00:00:16,309
+Vamos lá.
+
+6
+00:00:18,228 --> 00:00:19,548
+Então a gente vai usar o m V C como
+
+7
+00:00:19,559 --> 00:00:20,600
+padrão de projeto.
+
+8
+00:00:20,609 --> 00:00:22,120
+Mas pra isso você tem que entender o que são
+
+9
+00:00:22,129 --> 00:00:23,649
+padrões, Arquitetura.
+
+10
+00:00:23,658 --> 00:00:26,519
+Tá que que são padrões, arquitetura.
+
+11
+00:00:26,530 --> 00:00:33,009
+A gente fala muito sobre padrões de desenvolvimento do controle,
+
+12
+00:00:33,020 --> 00:00:35,289
+né? Quando a gente fala de programação a SC,
+
+13
+00:00:35,298 --> 00:00:38,079
+é muito fácil a gente falar do observa quando a
+
+14
+00:00:38,090 --> 00:00:40,200
+gente fala de bibliotecas como o R x G S,
+
+15
+00:00:40,209 --> 00:00:42,798
+que faz uma comunicação a SC no h T P
+
+16
+00:00:42,810 --> 00:00:46,240
+embaixo do jovem script, Então assim, padrões de
+
+17
+00:00:46,250 --> 00:00:49,298
+desenvolvimento já fazem um pouco a.
+
+18
+00:00:49,310 --> 00:00:52,658
+Assim eh já são um pouco da da gramática do
+
+19
+00:00:52,668 --> 00:00:57,079
+vocabulário comum eh do desenvolvedor, mas nem sempre o
+
+20
+00:00:57,090 --> 00:01:00,929
+padrão arquitetural é muita gente chama padrão m v c
+
+21
+00:01:00,939 --> 00:01:03,929
+de padrão de desenvolvimento não tá correto.
+
+22
+00:01:03,939 --> 00:01:06,150
+M v c é um padrão arquitetural, o que
+
+23
+00:01:06,159 --> 00:01:08,930
+que é um padrão arquitetural ele não define o modelo
+
+24
+00:01:08,939 --> 00:01:12,129
+de programação, ele define arquitetura do software, né?
+
+25
+00:01:12,138 --> 00:01:15,888
+Então ele divide a divisão de componentes daquele tipo de
+
+26
+00:01:15,900 --> 00:01:20,329
+software, né? Segundo uma arquitetura macroscópica dentro de
+
+27
+00:01:20,338 --> 00:01:24,209
+um padrão arquitetural, você pode encaixar diferentes padrões de
+
+28
+00:01:24,219 --> 00:01:28,150
+desenvolvimento aí já a nível de programação, que se
+
+29
+00:01:28,159 --> 00:01:32,448
+adequamàs assim as funcionalidades da daquela arquitetura.
+
+30
+00:01:32,459 --> 00:01:34,829
+Então aqui a gente tem uma visão de arquitetura,
+
+31
+00:01:34,838 --> 00:01:37,948
+de software e não de implementação de software, né?
+
+32
+00:01:37,959 --> 00:01:42,230
+Então você organiza componentes e relacionamentos, né? Quando
+
+33
+00:01:42,239 --> 00:01:44,909
+você define uma arquitetura, você define quais componentes fazem
+
+34
+00:01:44,918 --> 00:01:49,049
+parte dessa arquitetura e quais os relacionamentos entre esses componentes.
+
+35
+00:01:50,260 --> 00:01:53,730
+Pode usar diferentes, né? Mas assim é é
+
+36
+00:01:53,739 --> 00:01:55,150
+completamente diferente.
+
+37
+00:01:55,159 --> 00:01:58,829
+Design Design é um modelo de codificação né? De
+
+38
+00:01:58,838 --> 00:02:02,349
+implementação a partir de modelo de o ML e tal,
+
+39
+00:02:02,359 --> 00:02:05,629
+Mas você eh padrão artel não é? Isso,
+
+40
+00:02:05,638 --> 00:02:08,629
+tá é um modelo de arquitetura e você pode usar
+
+41
+00:02:08,639 --> 00:02:12,669
+diferentes padrões de desenvolvimento de dentro de um arquitetura.
+
+42
+00:02:12,679 --> 00:02:16,649
+Um padrão de arquitetura eh, então vários design podem
+
+43
+00:02:16,659 --> 00:02:18,490
+ser utilizados na mesma arquitetura.
+
+44
+00:02:18,500 --> 00:02:23,189
+Visão macroscópica Tá você tá olhando o sistema por fora,
+
+45
+00:02:23,199 --> 00:02:28,139
+né? Exemplos de algumas arquiteturas Alguns padrões arquitetura sem
+
+46
+00:02:28,149 --> 00:02:30,699
+entrar ainda no m v c, que é o
+
+47
+00:02:30,710 --> 00:02:34,909
+mais utilizado em termos cadastrais eh Eu tenho o exemplo
+
+48
+00:02:34,919 --> 00:02:39,838
+a eu tenho broke e eu tenho driver são três
+
+49
+00:02:39,849 --> 00:02:42,960
+arquiteturas de software, tá? Que que eu tenho
+
+50
+00:02:42,969 --> 00:02:48,949
+no Pipe é uma arquitetura na qual a saída de
+
+51
+00:02:48,960 --> 00:02:52,288
+um programa pode alimentar a entrada de outro programa.
+
+52
+00:02:52,899 --> 00:02:56,860
+Tá? E aí você tem eh algumas coisas interessantes
+
+53
+00:02:56,868 --> 00:02:58,308
+que que ele funci como é que ele funciona?
+
+54
+00:02:58,319 --> 00:03:02,788
+Você tem os chamados de encanamentos e cada programa é
+
+55
+00:03:02,800 --> 00:03:05,808
+um, então você sai de um e vai pra
+
+56
+00:03:05,819 --> 00:03:08,808
+outro, por exemplo, l s menos L a
+
+57
+00:03:08,819 --> 00:03:13,689
+R, que é um conhecido comando do yun né?
+
+58
+00:03:13,699 --> 00:03:20,179
+Que vai dizer o seguinte lixe os arquivos pipe Pando
+
+59
+00:03:20,189 --> 00:03:22,419
+A cada vez que chega ali num determinada quantidade,
+
+60
+00:03:22,429 --> 00:03:24,460
+você tem que apertar espaço pra continuar.
+
+61
+00:03:24,469 --> 00:03:27,899
+Tá? Então assim ali eu tô usando esse eh
+
+62
+00:03:27,909 --> 00:03:33,219
+Esses são caras criados na arquitetura fi tá eu poderia
+
+63
+00:03:33,229 --> 00:03:34,860
+ter uma outra situação em que eu teria lá uma
+
+64
+00:03:34,868 --> 00:03:37,979
+ordem de entrada, um pipe para uma decretação,
+
+65
+00:03:37,990 --> 00:03:41,500
+um autenticação, depois um outro programa pra poder fazer
+
+66
+00:03:41,508 --> 00:03:45,838
+alguma, eh verificação qualquer, né? E daí?
+
+67
+00:03:46,179 --> 00:03:48,868
+Eh, eh falar que a ordem foi resolvida,
+
+68
+00:03:48,879 --> 00:03:51,189
+né? O pedido foi encaminhado.
+
+69
+00:03:51,199 --> 00:03:55,308
+Então assim eh quando cê fala de você tá falando
+
+70
+00:03:55,319 --> 00:03:58,020
+que eh você vai ter programas com filtros no meio
+
+71
+00:03:58,028 --> 00:04:00,830
+do caminho E a requisição vai passar por esses filtros.
+
+72
+00:04:00,838 --> 00:04:04,588
+Tá isso aí? é um padrão arquitetural, né?
+
+73
+00:04:04,599 --> 00:04:06,528
+O programa se comporta assim.
+
+74
+00:04:06,538 --> 00:04:08,469
+Por quê? O l s aqui, por exemplo,
+
+75
+00:04:08,479 --> 00:04:11,808
+é um programa é outro tá, então você tá
+
+76
+00:04:11,819 --> 00:04:14,550
+falando de padrão arquitetural ar eh você tem uma saída
+
+77
+00:04:14,558 --> 00:04:15,288
+daquele programa.
+
+78
+00:04:15,699 --> 00:04:18,170
+O filtros é legal também, porque eu posso usar
+
+79
+00:04:18,178 --> 00:04:20,790
+um que que é isso no y nix.
+
+80
+00:04:20,798 --> 00:04:24,910
+Se eu tiver um programa qualquer rodando, você pode
+
+81
+00:04:24,920 --> 00:04:27,949
+dividir ele em duas linhas de execução e ele,
+
+82
+00:04:27,959 --> 00:04:30,160
+se em vez de ser pra um uma saída,
+
+83
+00:04:30,170 --> 00:04:32,910
+você coloca em dois programas recebendo os dados ao mesmo
+
+84
+00:04:32,920 --> 00:04:36,108
+tempo, isso chamado de né cê abre com duas
+
+85
+00:04:36,119 --> 00:04:39,149
+uma vira duas tá bom.
+
+86
+00:04:40,500 --> 00:04:43,709
+Outro padrão arquitetural é o Brooke, né? O
+
+87
+00:04:43,720 --> 00:04:47,428
+Brooke é o padrão arquitetural de objetos distribuídos e aí
+
+88
+00:04:47,439 --> 00:04:50,790
+envolve o cor e envolve os z j B.
+
+89
+00:04:50,798 --> 00:04:56,428
+O Prise Edition você envolve também eh toda aquela parte
+
+90
+00:04:56,439 --> 00:04:57,470
+do do Midas.
+
+91
+00:04:57,480 --> 00:04:59,189
+Pra quem mexeu um pouco com defi o D d
+
+92
+00:04:59,199 --> 00:05:02,470
+objetos do Python, então assim cê tem eh o
+
+93
+00:05:02,480 --> 00:05:03,509
+Decon da Microsoft.
+
+94
+00:05:03,519 --> 00:05:06,329
+Todos eles vão seguir o mesmo padrão arquitetural.
+
+95
+00:05:06,338 --> 00:05:09,778
+Esse padrão é chamado de Brooke e o Brooke é
+
+96
+00:05:09,790 --> 00:05:13,619
+o padrão arquitetural para objetos distribuídos, se ele vai
+
+97
+00:05:13,629 --> 00:05:17,420
+funcionar com objetos distribuídos É muito comum você encaixar dois
+
+98
+00:05:17,428 --> 00:05:19,459
+nele, né? E aí já é padrão de
+
+99
+00:05:19,470 --> 00:05:23,699
+desenvolvimento? Dentro de um Brooke você pode encontrar um
+
+100
+00:05:23,709 --> 00:05:28,199
+e um que que é o por objetos? Claro,
+
+101
+00:05:28,838 --> 00:05:30,319
+Se eu vou fazer um pool de objetos eu vou
+
+102
+00:05:30,329 --> 00:05:32,809
+usar programar ele no modelo wa aí.
+
+103
+00:05:32,819 --> 00:05:38,928
+A comunicação é aquela comunicação de tu e onde você
+
+104
+00:05:38,939 --> 00:05:41,369
+deixa transparente a forma de se comunicar em rede.
+
+105
+00:05:41,379 --> 00:05:43,170
+E é claro, se eu vou fazer objetos atribuídos
+
+106
+00:05:43,178 --> 00:05:46,059
+ou falar com esses caras remotamente, eu posso usar
+
+107
+00:05:46,069 --> 00:05:49,048
+um padrão de programação, um padrão de desenvolvimento prox?
+
+108
+00:05:49,059 --> 00:05:54,528
+Então o padrão arquitetural Brooke pode utilizar os padrões de
+
+109
+00:05:54,540 --> 00:06:01,790
+desenvolvimento e né? São dois conceitos diferentes Hum Bom,
+
+110
+00:06:02,608 --> 00:06:07,298
+eu também tenho o drive né? E drive são
+
+111
+00:06:07,309 --> 00:06:09,220
+arquiteturas baseadas em eventos.
+
+112
+00:06:09,230 --> 00:06:12,970
+Que exemplo eu tenho disso mensageiras! Se você for
+
+113
+00:06:12,980 --> 00:06:16,100
+usar um m, se você for usar um m
+
+114
+00:06:16,108 --> 00:06:18,040
+M Q, C e b m, se for,
+
+115
+00:06:18,048 --> 00:06:20,619
+se você for usar alguma mensageira qualquer e isso é
+
+116
+00:06:20,629 --> 00:06:24,480
+extremamente utilizado na área bancária onde você precisa de processamento.
+
+117
+00:06:24,488 --> 00:06:30,178
+A SCN eh Você vai precisar trabalhar dentro da arquitetura
+
+118
+00:06:30,189 --> 00:06:32,540
+e drive, né? Que que é a que
+
+119
+00:06:32,548 --> 00:06:34,720
+ela é baseada em eventos? Ela é totalmente É
+
+120
+00:06:34,730 --> 00:06:38,689
+a síndrome e as mensageiras são o exemplo mais comum
+
+121
+00:06:38,699 --> 00:06:40,100
+dessa arquitetura.
+
+122
+00:06:40,108 --> 00:06:43,129
+Nesse caso, um padrão de desenvolvimento que eu vou
+
+123
+00:06:43,139 --> 00:06:45,079
+usar, por exemplo, é o padrão.
+
+124
+00:06:45,088 --> 00:06:49,410
+Por quê? Porque ele vai ficar observando, olhando
+
+125
+00:06:49,420 --> 00:06:52,769
+pra aquela fila pra quando chegar alguma mensagem e avisar
+
+126
+00:06:52,778 --> 00:06:56,250
+chegou a mensagem e aí processar, né? Então,
+
+127
+00:06:56,259 --> 00:07:00,250
+o padrão arquitetural even trava é muito comum.
+
+128
+00:07:00,259 --> 00:07:05,149
+Eh você encontrar nele o padrão de desenvolvimento observa,
+
+129
+00:07:05,439 --> 00:07:08,730
+né? E cada padrão faz, tem suas características,
+
+130
+00:07:08,738 --> 00:07:13,699
+né Bom? Isso foi só pra dar alguns exemplos
+
+131
+00:07:13,709 --> 00:07:14,139
+de padrões.
+
+132
+00:07:14,149 --> 00:07:17,259
+Arquiteturas, né? Coisas que você encontra tem outros
+
+133
+00:07:17,269 --> 00:07:19,278
+Tem o que é muito usado.
+
+134
+00:07:19,290 --> 00:07:22,420
+Por exemplo, pra controle de elevadores inteligentes, coisas
+
+135
+00:07:22,428 --> 00:07:24,379
+que tem que interagir a partir de uma base de
+
+136
+00:07:24,389 --> 00:07:29,639
+dados comum eh você tem eh diversos padrões de P
+
+137
+00:07:29,649 --> 00:07:34,088
+a, C e m v c e moda ville
+
+138
+00:07:34,100 --> 00:07:38,028
+tá são duas formas de dividir em camadas, sendo
+
+139
+00:07:38,040 --> 00:07:40,000
+que um tem sub unidades, outro tem camadas mais
+
+140
+00:07:40,009 --> 00:07:40,730
+globais.
+
+141
+00:07:40,738 --> 00:07:44,160
+Você tem ainda arquiteturas hoje em dia baseadas em fluxo,
+
+142
+00:07:44,170 --> 00:07:46,559
+né? Que é fluxo é Redux, por exemplo,
+
+143
+00:07:46,569 --> 00:07:50,059
+que trabalham com um sistema de fluxo fo são iniciativas
+
+144
+00:07:50,069 --> 00:07:53,079
+do Facebook, até por causa das necessidades da web?
+
+145
+00:07:53,088 --> 00:07:56,178
+Tá, então? Quando você trabalha com essas arquiteturas.
+
+146
+00:07:56,189 --> 00:07:59,879
+Você tem uma forma de pensar organizada para o sistema
+
+147
+00:07:59,889 --> 00:08:04,420
+e aí você consegue organizar quais componentes quais tipos de
+
+148
+00:08:04,428 --> 00:08:08,660
+de de padrões de implementação são interessantes para a arquitetura
+
+149
+00:08:08,670 --> 00:08:09,439
+que você deseja?
+

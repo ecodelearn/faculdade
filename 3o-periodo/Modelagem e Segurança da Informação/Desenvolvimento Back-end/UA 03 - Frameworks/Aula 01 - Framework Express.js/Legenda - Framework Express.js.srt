@@ -1,0 +1,708 @@
+1
+00:00:06,908 --> 00:00:08,319
+Olá, eu sou o professor da COP.
+
+2
+00:00:08,329 --> 00:00:12,239
+Nós vamos falar um pouco sobre as características do Express,
+
+3
+00:00:12,250 --> 00:00:15,720
+né? É classificado como um que na verdade um
+
+4
+00:00:15,728 --> 00:00:19,760
+minimo, porque ele define o o seu modelo de
+
+5
+00:00:19,769 --> 00:00:22,190
+implementação e ele cuida de toda a parte de requisição.
+
+6
+00:00:22,199 --> 00:00:25,239
+H T P Na prática, o express ele é
+
+7
+00:00:25,250 --> 00:00:28,620
+um servidor embarcado, o que significa isso que ele
+
+8
+00:00:28,629 --> 00:00:31,158
+vai executar sem a necessidade de uma estrutura externa?
+
+9
+00:00:31,170 --> 00:00:34,399
+O seu aplicativo já embute o próprio servidor nele e,
+
+10
+00:00:34,408 --> 00:00:36,098
+com isso você não tem que instalar nada, é
+
+11
+00:00:36,109 --> 00:00:37,679
+só executar embaixo do audiências.
+
+12
+00:00:37,689 --> 00:00:41,689
+Vamos ver como é que isso tudo funciona Bom?
+
+13
+00:00:41,700 --> 00:00:46,509
+Características gerais Eh o Express.
+
+14
+00:00:46,520 --> 00:00:49,118
+Ele é um servidor minimalista, né? Essa é
+
+15
+00:00:49,130 --> 00:00:50,539
+a principal característica.
+
+16
+00:00:50,810 --> 00:00:54,020
+Se você quiser fazer uma correlação com tecnologia Java,
+
+17
+00:00:54,029 --> 00:00:55,848
+seria equivalente ao Spring Boot.
+
+18
+00:00:55,859 --> 00:00:58,579
+O Spring Boot também é um servidor minimalista.
+
+19
+00:00:58,590 --> 00:01:00,899
+Você não precisa de estrutura.
+
+20
+00:01:00,908 --> 00:01:03,658
+Eu não preciso, por exemplo, de um Apache.
+
+21
+00:01:03,668 --> 00:01:07,980
+Eu não preciso de um j bos um abpi ou
+
+22
+00:01:07,989 --> 00:01:11,180
+de repente um i s né? Ou da Microsoft,
+
+23
+00:01:11,189 --> 00:01:13,900
+ou o M s pra poder rodar meu aplicativo.
+
+24
+00:01:13,909 --> 00:01:16,379
+Ele roda sozinho, né? Ele já tem tudo
+
+25
+00:01:16,388 --> 00:01:18,278
+ali dentro, inclusive um servidor embutido.
+
+26
+00:01:18,819 --> 00:01:21,769
+Essa é a mesma característica tá, eu vou encontrar
+
+27
+00:01:21,778 --> 00:01:25,308
+no Express no Spring Boot no Flash do Python Tá
+
+28
+00:01:25,319 --> 00:01:27,819
+então cada um deles tem a sua interpretação no ambiente
+
+29
+00:01:27,829 --> 00:01:28,308
+do S.
+
+30
+00:01:28,319 --> 00:01:32,168
+O servidor minimalista é o Express e ele trabalha na
+
+31
+00:01:32,180 --> 00:01:35,189
+forma de um por quê? Porque ele tem eh
+
+32
+00:01:35,198 --> 00:01:39,838
+toda aquela arquitetura pra trabalhar com o roteamento tá e
+
+33
+00:01:39,849 --> 00:01:44,239
+eh a forma de lidar com o corpo de requisição,
+
+34
+00:01:44,250 --> 00:01:45,120
+parâmetros etc.
+
+35
+00:01:45,129 --> 00:01:47,900
+Já fechada nele e você só implementa aquilo que você
+
+36
+00:01:47,909 --> 00:01:50,918
+precisa em termos de rotas define as rotas define a
+
+37
+00:01:50,930 --> 00:01:53,709
+resposta o resto ele faz, né? Então ele
+
+38
+00:01:53,719 --> 00:01:55,558
+trata dos métodos do h t p.
+
+39
+00:01:55,569 --> 00:01:58,219
+Com isso a gente não tem que se preocupar nenhuma
+
+40
+00:01:58,230 --> 00:02:01,760
+eh não tem nenhuma preocupação com os elementos mais básicos
+
+41
+00:02:01,769 --> 00:02:01,918
+do h.
+
+42
+00:02:01,930 --> 00:02:05,870
+T P tá já traz um sistema de roteamento,
+
+43
+00:02:05,879 --> 00:02:08,110
+o que faz com que a gente defina essas rotas
+
+44
+00:02:08,118 --> 00:02:12,649
+u and points de uma forma simples e consiga trabalhar
+
+45
+00:02:12,659 --> 00:02:15,288
+dinamicamente com elementos de rotas.
+
+46
+00:02:15,300 --> 00:02:18,028
+Por exemplo, eu posso fazer todas as rotas necessárias
+
+47
+00:02:18,038 --> 00:02:21,729
+pra manutenção de produtos e depois adicionar meu servidor e
+
+48
+00:02:21,740 --> 00:02:24,860
+eu posso colocar as rotas para gerenciamento de notas fiscais
+
+49
+00:02:24,868 --> 00:02:27,788
+e uma outra um outro arquivo e adicionar também no
+
+50
+00:02:27,800 --> 00:02:30,909
+servidor naquele mesmo servidor eu posso ter rotas diferenciadas?
+
+51
+00:02:30,919 --> 00:02:34,939
+Tá? Eh a captura de string quando você trabalha
+
+52
+00:02:34,949 --> 00:02:38,099
+com o EH, no caso do express, você
+
+53
+00:02:38,110 --> 00:02:42,139
+usa hack né? A hack seria Ah, o
+
+54
+00:02:42,149 --> 00:02:46,038
+que indica que você tá eh, tá pegando o
+
+55
+00:02:46,050 --> 00:02:47,300
+as parâmetros da que string.
+
+56
+00:02:47,308 --> 00:02:49,250
+Ah, se eu quero pegar o corpo hack boy
+
+57
+00:02:49,258 --> 00:02:54,000
+tá campos do formulário! Hack ponto boy também né
+
+58
+00:02:54,008 --> 00:02:57,639
+Bom, Como é que isso funciona aqui? Ele
+
+59
+00:02:57,649 --> 00:03:00,758
+trabalha diretamente com o Jason tá? Então assim eh,
+
+60
+00:03:00,770 --> 00:03:05,360
+cê consegue trabalhar pra fazer um servidor com facilidade,
+
+61
+00:03:05,368 --> 00:03:07,409
+imensa porque ele já tem interpretação.
+
+62
+00:03:07,419 --> 00:03:11,278
+Jason tá já tem métodos pra você pegar o valor
+
+63
+00:03:11,288 --> 00:03:14,278
+em Jason e eh fornecer os valores em Jason,
+
+64
+00:03:14,288 --> 00:03:16,159
+né Então um exemplo se eu quero pegar, se
+
+65
+00:03:16,169 --> 00:03:20,129
+eu colocar ele como use Jason e pegar o hack
+
+66
+00:03:20,139 --> 00:03:24,778
+ponto boy eu já pressuponho que essa resposta tenha vindo
+
+67
+00:03:24,788 --> 00:03:27,830
+no formato Jason, né? Agora eu também posso
+
+68
+00:03:27,838 --> 00:03:29,710
+pegar de um formulário que não é Jason e aí
+
+69
+00:03:29,719 --> 00:03:33,189
+seria um eh uma outra forma de boy parse Tá
+
+70
+00:03:33,199 --> 00:03:36,409
+onde você vai trabalhar com captura de dados não interpretados
+
+71
+00:03:36,419 --> 00:03:39,469
+como Jason, mas de como sendo, Eh os
+
+72
+00:03:39,479 --> 00:03:43,288
+parâmetros enviados por um formulário, né? Ah!
+
+73
+00:03:44,008 --> 00:03:46,580
+Já o que é o que string sempre vai ser
+
+74
+00:03:46,588 --> 00:03:49,379
+em cima da própria rota, tá? Permite o
+
+75
+00:03:49,389 --> 00:03:52,300
+uso de templates e JS coisa estranha né? Que
+
+76
+00:03:52,308 --> 00:03:55,899
+que é o e JS são templates né? Eh
+
+77
+00:03:55,909 --> 00:03:59,929
+que são parte h t ML e no meio dele
+
+78
+00:03:59,939 --> 00:04:02,770
+você tem umas tás que permitem a substituição via Java
+
+79
+00:04:02,778 --> 00:04:06,500
+script seria o equivalente do novo g s ao que
+
+80
+00:04:06,508 --> 00:04:10,939
+seria o ASP eh ou ao que seria eh um
+
+81
+00:04:10,949 --> 00:04:14,629
+template, por exemplo j SP, né? Do
+
+82
+00:04:14,639 --> 00:04:17,048
+Java o que eu tenho ali eu tenho um modelo
+
+83
+00:04:17,059 --> 00:04:20,338
+h t ML pré formatado com algumas pragas que vão
+
+84
+00:04:20,350 --> 00:04:24,369
+ser substituídas pelo JS que significa isso que eu posso
+
+85
+00:04:24,379 --> 00:04:24,790
+pegar.
+
+86
+00:04:24,798 --> 00:04:28,509
+Por exemplo, uma requisição de usuário eh listar todos
+
+87
+00:04:28,519 --> 00:04:32,019
+os usuários né? Ao invés de retornar um jason,
+
+88
+00:04:32,028 --> 00:04:35,579
+eu vou pegar aquela informação e vou enviar pro template,
+
+89
+00:04:35,588 --> 00:04:39,528
+né? Então o express vai capturar Vai preencher as
+
+90
+00:04:39,540 --> 00:04:43,928
+informações Vai direcionar pro template e o template vai apresentar
+
+91
+00:04:43,939 --> 00:04:47,660
+aquilo na formato h t ML como uma página com
+
+92
+00:04:47,670 --> 00:04:51,009
+SP com o que eu quiser formatando deixando uma tabela
+
+93
+00:04:51,019 --> 00:04:53,649
+bonitinha pro usuário aí já não é mais um Jason,
+
+94
+00:04:53,660 --> 00:04:56,889
+tá aí já é um aplicativo web tradicional, tá
+
+95
+00:04:56,899 --> 00:04:59,088
+em vez de trabalhar com ST e Jason, eu
+
+96
+00:04:59,100 --> 00:05:02,548
+estaria trabalhando com um aplicativo web tradicional páginas h t
+
+97
+00:05:02,559 --> 00:05:05,369
+ML, né? E é claro que ele suporta
+
+98
+00:05:05,379 --> 00:05:07,889
+ele é um servidor h T p independente do tipo
+
+99
+00:05:07,899 --> 00:05:11,278
+de arquitetura que você queira tem o sistema de roteamento
+
+100
+00:05:11,290 --> 00:05:13,798
+segmentos da U R L em hack par né?
+
+101
+00:05:13,809 --> 00:05:16,629
+Tem uma forma muito simples de definir segmentos aquela coisa
+
+102
+00:05:16,639 --> 00:05:18,778
+é pegar o último pedaço do segmento.
+
+103
+00:05:18,790 --> 00:05:21,199
+Se eu fosse fazer isso em uma tecnologia que não
+
+104
+00:05:21,209 --> 00:05:25,019
+fosse o express eu teria que pegar hack ponto Eh
+
+105
+00:05:25,028 --> 00:05:30,028
+string né ponto eh U R l Ponto sub string
+
+106
+00:05:30,040 --> 00:05:32,389
+pegar da U R L Dividir até achar o que
+
+107
+00:05:32,399 --> 00:05:33,389
+eu queria aqui.
+
+108
+00:05:33,399 --> 00:05:36,809
+Ele já definiu uma rota co parametrizado e com isso
+
+109
+00:05:36,819 --> 00:05:39,709
+ele já captura direto dessa rota parametrizado com o hack
+
+110
+00:05:39,720 --> 00:05:43,988
+ponto, Então facilita o tratamento daqueles caminhos do tipo
+
+111
+00:05:44,000 --> 00:05:46,149
+barra produtos barra um, onde você tem que pegar
+
+112
+00:05:46,160 --> 00:05:49,730
+o código no próprio caminho? Tá utiliza pra tratar
+
+113
+00:05:49,738 --> 00:05:53,278
+a requisição, né? EH modelo acro, eh
+
+114
+00:05:53,290 --> 00:05:55,838
+então você tem uma cabe ali pra poder trabalhar com
+
+115
+00:05:55,850 --> 00:05:57,959
+essa requisição de uma forma simples.
+
+116
+00:05:57,970 --> 00:06:02,119
+Resposta eh A resposta é padronizada pra rotas inexistentes ao
+
+117
+00:06:02,129 --> 00:06:05,528
+invés de dar um erro eh qualquer eh diferenciado.
+
+118
+00:06:05,540 --> 00:06:08,858
+Colocar simplesmente eh paralisar o servidor ou algo do tipo
+
+119
+00:06:09,269 --> 00:06:11,959
+eh ele já tem um tratamento dizendo Olha, não
+
+120
+00:06:11,970 --> 00:06:14,209
+tem um caminho pra essa rota, então assim essa
+
+121
+00:06:14,220 --> 00:06:16,519
+já faz parte do tramo, já tem assim como
+
+122
+00:06:16,528 --> 00:06:18,048
+se fosse uma o.
+
+123
+00:06:18,059 --> 00:06:19,600
+Como é um servidor minimalista, você já tem um
+
+124
+00:06:19,608 --> 00:06:22,559
+tratamento básico de erros ali dentro, então isso facilita
+
+125
+00:06:22,569 --> 00:06:24,790
+muito, evita algumas preocupações que eu teria.
+
+126
+00:06:24,798 --> 00:06:27,119
+Se eu tivesse que criar um servidor do zero,
+
+127
+00:06:27,129 --> 00:06:29,778
+né? Como eu faria com eh o pacote h
+
+128
+00:06:29,790 --> 00:06:31,459
+t P que já é nativo do novo G s
+
+129
+00:06:31,470 --> 00:06:34,410
+né? Então assim o express g s ele encapsular
+
+130
+00:06:34,420 --> 00:06:36,759
+toda a funcionalidade do h t P, né Que
+
+131
+00:06:36,769 --> 00:06:40,079
+seria o pacote h t P e adiciona uma série
+
+132
+00:06:40,088 --> 00:06:42,119
+de outras coisas, onde a principal é o gerenciamento
+
+133
+00:06:42,129 --> 00:06:45,000
+de rotas, né? Aqui eu tenho um exemplo
+
+134
+00:06:45,009 --> 00:06:49,778
+de um aplicativo no JS Ah com o express onde
+
+135
+00:06:49,790 --> 00:06:53,819
+eu tenho ali oh a biblioteca Recue Express! Criação
+
+136
+00:06:53,829 --> 00:06:57,519
+do aplicativo Especificação da porta três mil, né?
+
+137
+00:06:58,139 --> 00:07:01,290
+Nesse momento aqui eu tô dizendo quando pegar a rota
+
+138
+00:07:01,298 --> 00:07:06,678
+no método got a rota raiz hack he mensagem alô
+
+139
+00:07:06,689 --> 00:07:09,600
+mundo e aqui eu tô falando.
+
+140
+00:07:09,608 --> 00:07:13,000
+Escute na porta tal e dá uma mensagem ser dura,
+
+141
+00:07:13,009 --> 00:07:16,588
+escutando na porta tal naquele momento esse cara tá até
+
+142
+00:07:16,600 --> 00:07:21,220
+aqui, Oh é só um servidor bem simples.
+
+143
+00:07:22,209 --> 00:07:24,399
+Você nota que ele já tem a resposta em Jason
+
+144
+00:07:24,988 --> 00:07:27,809
+Tá você pode formatar já pra ele enviar a resposta
+
+145
+00:07:27,819 --> 00:07:30,199
+em Jason, que já configura os cabeçalhos, já
+
+146
+00:07:30,209 --> 00:07:33,160
+faz tudo certinho, indicando pro navegador que é Jason,
+
+147
+00:07:33,170 --> 00:07:36,480
+né? E aí se eu mandar executar esse cara
+
+148
+00:07:38,369 --> 00:07:43,980
+e Dex hum, deixa eu ver.
+
+149
+00:07:44,889 --> 00:07:46,160
+Ah, sim, eu vou dar um n n
+
+150
+00:07:46,170 --> 00:07:50,588
+PM tal porque eu apaguei o de móveis aqui.
+
+151
+00:07:50,600 --> 00:07:52,829
+Eu teria que dar o n PM está o express
+
+152
+00:07:52,838 --> 00:07:56,149
+pra essa coisa funcionar, né? EH aqui eu
+
+153
+00:07:56,160 --> 00:07:57,959
+tô usando só a biblioteca express, então eu preciso
+
+154
+00:07:57,970 --> 00:08:00,750
+de n PM está o express como eh eu apaguei
+
+155
+00:08:00,759 --> 00:08:03,189
+de modo pro backup na hora que você volta n
+
+156
+00:08:03,199 --> 00:08:07,209
+PM está sozinho re eh recarrega as bibliotecas não!
+
+157
+00:08:08,088 --> 00:08:13,000
+E agora ele está rodando.
+
+158
+00:08:14,920 --> 00:08:19,319
+Só não mostrou a mensagem Ah porque eu executei o
+
+159
+00:08:19,329 --> 00:08:24,250
+cara errado, um pronto servidor escutando na porta três
+
+160
+00:08:24,259 --> 00:08:24,509
+mil.
+
+161
+00:08:25,358 --> 00:08:27,028
+Então com isso aí eu tenho um servidor na porta
+
+162
+00:08:27,040 --> 00:08:30,428
+três mil E se eu tentar acessar esse endereço,
+
+163
+00:08:33,719 --> 00:08:36,849
+ele mostra a mensagem Alô Mundo, que É o
+
+164
+00:08:36,859 --> 00:08:40,849
+que eu enviei aqui, Oh, Jason Mensagem Alô
+
+165
+00:08:40,859 --> 00:08:42,899
+Mundo, né? Então, isso aí é a
+
+166
+00:08:42,908 --> 00:08:44,960
+funcionalidade mais básica dele.
+
+167
+00:08:44,969 --> 00:08:48,048
+Ele consegue pegar uma rota, pode ser no método
+
+168
+00:08:48,058 --> 00:08:51,529
+e responder, por exemplo, de diretamente em Jason
+
+169
+00:08:51,538 --> 00:08:54,288
+com ponto Jason O ponto indica que é o final
+
+170
+00:08:54,298 --> 00:08:59,729
+da mensagem né? Bom? Então, essas são
+
+171
+00:08:59,739 --> 00:09:02,149
+algumas características básicas do express.
+
+172
+00:09:02,158 --> 00:09:04,830
+Ele tem muito mais funcionalidade, mas aí é o
+
+173
+00:09:04,840 --> 00:09:05,590
+principal.
+
+174
+00:09:05,599 --> 00:09:08,629
+É como você capturar e eh escutar a porta,
+
+175
+00:09:08,639 --> 00:09:12,320
+né? Capturar a requisição responder, né? Isso
+
+176
+00:09:12,330 --> 00:09:15,379
+é o básico de qualquer servidor em termos de comunicação
+
+177
+00:09:15,389 --> 00:09:16,058
+com h T p
+

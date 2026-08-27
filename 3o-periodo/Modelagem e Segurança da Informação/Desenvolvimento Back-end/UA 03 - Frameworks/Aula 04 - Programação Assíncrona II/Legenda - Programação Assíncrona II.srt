@@ -1,0 +1,708 @@
+1
+00:00:06,698 --> 00:00:09,368
+Olá, vamos falar um pouquinho sobre o tratamento a
+
+2
+00:00:09,380 --> 00:00:12,778
+sí crono de arquivos né, eh entre as operações
+
+3
+00:00:12,788 --> 00:00:17,228
+de uma muito comum é você gravar um blog Você
+
+4
+00:00:17,239 --> 00:00:19,789
+gravar um arquivo qualquer, copiar uma imagem.
+
+5
+00:00:19,798 --> 00:00:23,190
+Você, por exemplo, o quando o usuário faz
+
+6
+00:00:23,199 --> 00:00:25,708
+o da foto dele? Você gravar um arquivo no
+
+7
+00:00:25,719 --> 00:00:30,548
+servidor tá inclusive nunca grava imagens no banco de dados,
+
+8
+00:00:30,559 --> 00:00:32,389
+né? Um banco de dados Quando você grava a
+
+9
+00:00:32,399 --> 00:00:35,179
+imagem, ele é um campo bb, eh que
+
+10
+00:00:35,189 --> 00:00:38,779
+seriam oje! E quando você crava um campo BB,
+
+11
+00:00:38,789 --> 00:00:41,149
+se você perder a indexação, você perde todas as
+
+12
+00:00:41,158 --> 00:00:44,298
+imagens, né? Então a forma mais correta seria
+
+13
+00:00:44,310 --> 00:00:48,990
+faz o prum diretório eh protegido no servidor hum E
+
+14
+00:00:49,000 --> 00:00:52,348
+aí? Você vai usar a escrita de arquivo e
+
+15
+00:00:52,359 --> 00:00:55,389
+coloca o link da imagem no banco de dados.
+
+16
+00:00:55,399 --> 00:00:58,149
+Ou seja, o caminho pra chegar nela, não
+
+17
+00:00:58,158 --> 00:00:58,950
+a imagem.
+
+18
+00:00:58,959 --> 00:01:01,918
+Com isso você evita alguns erros que acontecem em termos
+
+19
+00:01:01,929 --> 00:01:03,668
+de banco, corrompendo os dados.
+
+20
+00:01:03,679 --> 00:01:05,250
+Vamos começar a ver isso aí.
+
+21
+00:01:06,329 --> 00:01:11,269
+Bom tratamento a cinco, Número de arquivos bibliotecas F
+
+22
+00:01:11,278 --> 00:01:12,939
+s e f s barra pro mais.
+
+23
+00:01:12,948 --> 00:01:15,418
+Tá as bibliotecas f, s e F S pro
+
+24
+00:01:15,430 --> 00:01:18,739
+mais são as utilizadas pra gente poder fazer o tratamento
+
+25
+00:01:18,750 --> 00:01:21,159
+A sí no de arquivos, né? O F
+
+26
+00:01:21,168 --> 00:01:24,198
+S faz tanto síndrome quanto a síndrome, mas a
+
+27
+00:01:24,209 --> 00:01:27,079
+gente dá preferência para o a síndrome devidoàs características
+
+28
+00:01:27,088 --> 00:01:30,379
+do J, né? Até onde for possível utilizar,
+
+29
+00:01:30,388 --> 00:01:31,790
+a gente sempre trabalha com a SC.
+
+30
+00:01:31,799 --> 00:01:33,980
+Em algumas situações, a gente é obrigado a trabalhar
+
+31
+00:01:33,989 --> 00:01:34,838
+de forma.
+
+32
+00:01:35,510 --> 00:01:37,879
+Ah, operações que a gente tem ali de forma
+
+33
+00:01:37,888 --> 00:01:47,000
+acro, Tá aí, se fosse crono a fi
+
+34
+00:01:47,010 --> 00:01:49,918
+fi, né? Então na verdade só colocam lá
+
+35
+00:01:49,930 --> 00:01:53,879
+um um cinco no final! Eh descritores de arquivo
+
+36
+00:01:53,888 --> 00:01:57,079
+open Você pode abrir um descritor de arquivos, é
+
+37
+00:01:57,088 --> 00:02:00,069
+como se tivesse abrir um arquivo e o close vai
+
+38
+00:02:00,079 --> 00:02:02,980
+fechar aquele arquivo a partir do momento que você abriu
+
+39
+00:02:02,989 --> 00:02:05,379
+o fecho que você pode fazer algumas operações em cima
+
+40
+00:02:05,388 --> 00:02:08,508
+dele e eu também tenho através de eventos.
+
+41
+00:02:08,520 --> 00:02:13,750
+Um TRE seria você ler por demanda, né?
+
+42
+00:02:13,758 --> 00:02:18,788
+Então vamos dar uma olhadinha aqui com c f s!
+
+43
+00:02:18,800 --> 00:02:22,469
+É igual recuar e F S, né? F
+
+44
+00:02:22,479 --> 00:02:26,149
+S A f logo T x t escrito em data
+
+45
+00:02:26,159 --> 00:02:29,689
+tal o t f oito Nota que tem uma Cobec,
+
+46
+00:02:30,770 --> 00:02:33,538
+tá, eu tenho ali um R R, que
+
+47
+00:02:33,550 --> 00:02:37,429
+seria no caso de erro I, c, R,
+
+48
+00:02:37,439 --> 00:02:42,008
+R T, r e console logo linha adicionada Tá
+
+49
+00:02:42,020 --> 00:02:45,139
+então, assim essa cabe, ela recebe essa e
+
+50
+00:02:45,149 --> 00:02:48,250
+R R, que seria o erro, né?
+
+51
+00:02:48,258 --> 00:02:49,770
+Ao erro que aconteceu.
+
+52
+00:02:49,778 --> 00:02:52,969
+Caso não tenha acontecido nenhum erro, esse e R
+
+53
+00:02:52,979 --> 00:02:54,278
+é um ou o nulo.
+
+54
+00:02:54,288 --> 00:02:56,490
+E aí quando colocar assim i f rr.
+
+55
+00:02:56,500 --> 00:02:59,629
+Assim aconteceu o erro, se aconteceu, explode ele
+
+56
+00:02:59,639 --> 00:03:03,528
+r Se explodir, vai parar o programa Vai parar
+
+57
+00:03:03,538 --> 00:03:05,929
+o node, tá o seu aplicativo para na hora
+
+58
+00:03:06,528 --> 00:03:09,610
+eh Se não acontecer, erro nenhum, consome logo.
+
+59
+00:03:09,618 --> 00:03:12,939
+Linha adicionada, né? Então, isso aí seria
+
+60
+00:03:12,949 --> 00:03:15,058
+ah, o tratamento, né? De arquivos?
+
+61
+00:03:15,069 --> 00:03:17,469
+Quando a gente usa, eh de forma acro,
+
+62
+00:03:17,479 --> 00:03:25,399
+né? Eu tenho esse tratamento aqui f f f
+
+63
+00:03:28,169 --> 00:03:33,800
+tá blog escrito na data tal Ah, ah,
+
+64
+00:03:33,808 --> 00:03:42,028
+se eu executar esse cara aqui note Ah, esse
+
+65
+00:03:42,038 --> 00:03:43,308
+aqui é o wx dois.
+
+66
+00:03:46,569 --> 00:03:55,379
+Ah que que ele reclamou f s.
+
+67
+00:03:55,389 --> 00:03:59,199
+Provavelmente isso tem a ver com peca de Jason Module
+
+68
+00:04:00,800 --> 00:04:06,689
+sai e vai funcionar prontinho.
+
+69
+00:04:06,699 --> 00:04:10,050
+Linha adicionada se eu for executar esse cara várias vezes,
+
+70
+00:04:10,058 --> 00:04:13,300
+né, o que que tá acontecendo? Ele executa?
+
+71
+00:04:13,308 --> 00:04:18,160
+Esse eh linha adicionada depois que ele acabou de gravar
+
+72
+00:04:18,170 --> 00:04:19,928
+no arquivo, ou seja, ele vai gravar no
+
+73
+00:04:19,939 --> 00:04:20,579
+arquivo.
+
+74
+00:04:20,588 --> 00:04:23,220
+Quando voltar, tem a cobec, né? Ou
+
+75
+00:04:23,230 --> 00:04:24,420
+poderia pegar os dados também.
+
+76
+00:04:24,428 --> 00:04:26,019
+Se eu fosse uma leitura, vamos ver como é
+
+77
+00:04:26,028 --> 00:04:31,970
+que funciona isso aqui com a c f s recolhe
+
+78
+00:04:31,980 --> 00:04:34,928
+F S pro mais outra forma de ler, né
+
+79
+00:04:34,939 --> 00:04:38,309
+F S pro mais a assim function teste de leitura
+
+80
+00:04:38,899 --> 00:04:42,048
+data é igual ao f fi que que eu tô
+
+81
+00:04:42,059 --> 00:04:46,509
+fazendo uma função acro chamada Teste de leitura que vai
+
+82
+00:04:46,519 --> 00:04:52,290
+aguardar a a leitura do arquivo File o nome do
+
+83
+00:04:52,298 --> 00:04:54,829
+arquivo em code dele, né? Isso aqui dá
+
+84
+00:04:54,838 --> 00:04:57,269
+pra fazer um teste simples com ele, né?
+
+85
+00:04:57,278 --> 00:05:04,079
+Observa o seguinte Isso aqui seria essa daqui? Não?
+
+86
+00:05:04,889 --> 00:05:14,949
+Ah, a Ride Index Ah, cê quer outra
+
+87
+00:05:14,959 --> 00:05:18,579
+forma de escrever o mesmo que naquele do apêndice Tá
+
+88
+00:05:18,588 --> 00:05:21,660
+só que na forma de módulo e usando descritores de
+
+89
+00:05:21,670 --> 00:05:23,678
+arquivo aqui eu tô abrindo o arquivo.
+
+90
+00:05:24,519 --> 00:05:28,980
+Depois eh a fi em cima do F D e
+
+91
+00:05:28,988 --> 00:05:30,670
+depois fechando o arquivo.
+
+92
+00:05:30,678 --> 00:05:32,809
+É interessante essa forma que você pode pegar, abrir
+
+93
+00:05:32,819 --> 00:05:35,790
+e fechar o arquivo com facilidade, né? E
+
+94
+00:05:35,798 --> 00:05:38,129
+aí você evita que fique um arquivo aberto lá consumindo
+
+95
+00:05:38,139 --> 00:05:41,319
+recurso, né? Ah, vou criar um arquivo
+
+96
+00:05:41,329 --> 00:05:46,709
+novo trave zero um JS pronto! E vou usar
+
+97
+00:05:46,720 --> 00:06:00,699
+esse código aqui do pro mais hum seria com f
+
+98
+00:06:00,709 --> 00:06:09,069
+s é igual recue f s barra pro mais a
+
+99
+00:06:09,079 --> 00:06:11,129
+diferença quando você coloca o f f s pro mais
+
+100
+00:06:11,139 --> 00:06:13,689
+é que você pode usar aquele esquema do a S
+
+101
+00:06:13,699 --> 00:06:17,869
+e do await nas funções, né? Então eu
+
+102
+00:06:17,879 --> 00:06:20,108
+vou colocar assim oh cinco function um teste de leitor
+
+103
+00:06:22,290 --> 00:06:25,939
+oh colocou assim teste de leitura Posso colocar assim também?
+
+104
+00:06:25,949 --> 00:06:34,699
+Concha Teste de leitura é igual a cinco e aqui
+
+105
+00:06:34,709 --> 00:06:37,259
+faça o que eu preciso, né Bom, então
+
+106
+00:06:37,269 --> 00:06:40,569
+eu teria lá, por exemplo, e o cat
+
+107
+00:06:41,470 --> 00:06:53,959
+a tro data data é igual ao wait f s
+
+108
+00:06:53,970 --> 00:06:59,548
+fine como eu já tenho um arquivo que tá aqui
+
+109
+00:06:59,559 --> 00:07:01,350
+dentro que é o log t x t vou pegar
+
+110
+00:07:01,358 --> 00:07:06,548
+ele e aí eu preciso do code.
+
+111
+00:07:06,559 --> 00:07:08,670
+Se for o caso, eu acredito que nem precise
+
+112
+00:07:08,678 --> 00:07:12,278
+não seja obrigatório eh, Eu vou dar só o
+
+113
+00:07:12,290 --> 00:07:13,319
+console logo a data.
+
+114
+00:07:17,269 --> 00:07:27,449
+Ah, então aqui eu tô usando o await console
+
+115
+00:07:27,459 --> 00:07:32,369
+blog r e tá e aqui eu só vou chamar
+
+116
+00:07:32,379 --> 00:07:42,170
+esse a função que eu criei ali, oh,
+
+117
+00:07:44,670 --> 00:07:51,009
+tá então aqui é outra forma de utilização node t
+
+118
+00:07:51,019 --> 00:07:56,869
+b zero um ele leu lá um buffer né?
+
+119
+00:07:56,879 --> 00:07:59,028
+Porque o retorno desse cara na verdade não é um
+
+120
+00:07:59,040 --> 00:08:01,670
+é um buffer eu tenho que colocar um data,
+
+121
+00:08:01,678 --> 00:08:11,858
+ponto do e ele pegou agora a informação de lá,
+
+122
+00:08:11,869 --> 00:08:13,838
+porque na verdade eu tenho um buffet de caracteres,
+
+123
+00:08:13,850 --> 00:08:17,160
+né? Então esse aí é a leitura com mais
+
+124
+00:08:17,170 --> 00:08:18,970
+que vai permitir que eu use o A s e
+
+125
+00:08:18,980 --> 00:08:21,920
+a que eu não era possível usar antes, quando
+
+126
+00:08:21,928 --> 00:08:23,600
+eu usava só o f s padrão.
+
+127
+00:08:23,608 --> 00:08:26,000
+Essa é a diferença da biblioteca F s pro mais,
+
+128
+00:08:26,009 --> 00:08:28,720
+né? Um outro elemento aqui oh é seria a
+
+129
+00:08:28,730 --> 00:08:31,629
+abertura e fechamento de arquivo com o uso do descritor?
+
+130
+00:08:31,639 --> 00:08:35,279
+Aqui? Quando eu coloco open log t t a
+
+131
+00:08:35,288 --> 00:08:37,158
+r f d eu tô mandando abrir o arquivo log
+
+132
+00:08:37,168 --> 00:08:40,908
+t x t em modo de and você pode colocar
+
+133
+00:08:40,918 --> 00:08:44,989
+w que seria escrita w mais tem vários modos que
+
+134
+00:08:45,000 --> 00:08:45,629
+eu tenho ali.
+
+135
+00:08:45,639 --> 00:08:47,548
+O W, por exemplo, seria escrever se tiver
+
+136
+00:08:47,558 --> 00:08:49,969
+alguma coisa vai escrever por cima RR seria só a
+
+137
+00:08:49,979 --> 00:08:53,750
+leitura e o A seria a ADA a informação e
+
+138
+00:08:53,759 --> 00:08:56,450
+R R seria o erro de pode acontecer e o
+
+139
+00:08:56,460 --> 00:08:58,759
+f D é o file description seria o descritor do
+
+140
+00:08:58,769 --> 00:08:59,389
+arquivo.
+
+141
+00:08:59,399 --> 00:09:02,149
+Se tiver um erro ele explode o erro para o
+
+142
+00:09:02,158 --> 00:09:09,279
+note A F F D escrito em tal TÁ e
+
+143
+00:09:09,288 --> 00:09:11,979
+R R, Ou seja, se der um erro,
+
+144
+00:09:11,989 --> 00:09:16,570
+a F D tá esse R R aqui na verdade
+
+145
+00:09:16,580 --> 00:09:19,408
+é o que caso tenha um erro, vai passar
+
+146
+00:09:19,418 --> 00:09:20,330
+por aqui com um erro.
+
+147
+00:09:21,269 --> 00:09:24,038
+Tá, se tiver o erro ele vai dar um
+
+148
+00:09:24,048 --> 00:09:27,168
+olha, o que eu tô fazendo, eh na
+
+149
+00:09:27,178 --> 00:09:27,710
+cabe.
+
+150
+00:09:28,298 --> 00:09:32,080
+Eu abri o arquivo, eu li informação na cabe.
+
+151
+00:09:32,090 --> 00:09:34,750
+Eu tô fazendo o que eu tô fechando o arquivo.
+
+152
+00:09:34,759 --> 00:09:36,830
+Mesmo se tiver algum erro, eu vou mandar fechar
+
+153
+00:09:36,840 --> 00:09:38,479
+o arquivo porque eu não quero deixar ele aberto,
+
+154
+00:09:38,489 --> 00:09:40,629
+então é como se tivesse forçando o fechamento de qualquer
+
+155
+00:09:40,639 --> 00:09:42,629
+jeito cê vai fechar aquele arquivo e joga.
+
+156
+00:09:42,639 --> 00:09:45,869
+O erro pro eh pro ambiente caso ele tenha acontecido,
+
+157
+00:09:45,879 --> 00:09:49,259
+né? Então, esse aí também tenho aqui um
+
+158
+00:09:49,269 --> 00:09:53,308
+tre que seria pra ler por demanda, né?
+
+159
+00:09:53,320 --> 00:09:55,668
+Quando você ler por demanda que ele vai fazer,
+
+160
+00:09:55,678 --> 00:09:58,639
+ele vai ficar gerando eventos, data, e esse
+
+161
+00:09:58,649 --> 00:10:00,750
+arquivo for muito grande que que ele vai, tá
+
+162
+00:10:00,759 --> 00:10:01,149
+fazendo.
+
+163
+00:10:01,158 --> 00:10:03,788
+Ele vai tá pegando pedaços desse arquivo e vai?
+
+164
+00:10:03,798 --> 00:10:07,928
+Tá lendo aos poucos né? A cada é um
+
+165
+00:10:07,940 --> 00:10:08,928
+pedaço do arquivo.
+
+166
+00:10:09,529 --> 00:10:11,298
+Então, cada vez que tem um evento data é
+
+167
+00:10:11,308 --> 00:10:12,479
+porque ele leu um pedaço do arquivo.
+
+168
+00:10:12,489 --> 00:10:14,519
+Você trata aquele pedaço Isso que A gente fala sobre
+
+169
+00:10:14,529 --> 00:10:17,750
+demanda seria o streaming, né? Ah, e
+
+170
+00:10:17,759 --> 00:10:20,308
+aí eu já uso evento que é o evento data.
+
+171
+00:10:20,320 --> 00:10:28,729
+Tá isso com create Tre Ah, bom, Então
+
+172
+00:10:28,739 --> 00:10:31,529
+esses aí são alguns elementos, né? Pra tratamento
+
+173
+00:10:31,538 --> 00:10:34,009
+a sí Cronos de arquivos, existem outros, mas
+
+174
+00:10:34,019 --> 00:10:36,460
+esses são os principais né? A gente pode trabalhar
+
+175
+00:10:36,469 --> 00:10:40,389
+com as descritores de arquivos right eh a File e
+
+176
+00:10:40,399 --> 00:10:44,090
+pode lidar com esses arquivos de uma forma simples de
+
+177
+00:10:44,099 --> 00:10:47,469
+forma síndroma sem travar todo o ambiente do JAS.
+

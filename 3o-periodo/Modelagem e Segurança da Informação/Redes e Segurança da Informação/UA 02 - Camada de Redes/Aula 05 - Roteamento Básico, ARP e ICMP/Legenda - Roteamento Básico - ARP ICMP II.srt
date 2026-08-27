@@ -1,0 +1,564 @@
+1
+00:00:06,238 --> 00:00:08,859
+Olá, aluno seja muito bemvindo, sou professor Fabrício
+
+2
+00:00:08,868 --> 00:00:12,210
+Melo, vamos tratar aí dos roteamento básicos que já
+
+3
+00:00:12,220 --> 00:00:13,810
+estamos aí estudando.
+
+4
+00:00:13,819 --> 00:00:17,920
+Dessa vez vamos falar aí sobre a resolução de endereços
+
+5
+00:00:17,929 --> 00:00:20,010
+Eh do I P v quatro Sabe quem faz isso?
+
+6
+00:00:20,019 --> 00:00:24,010
+O famoso protocolo AP O Edwar Resolution é um protocolo,
+
+7
+00:00:24,019 --> 00:00:28,228
+é um protocolo chamado Protocolo de resolução de endereço.
+
+8
+00:00:28,239 --> 00:00:30,149
+É ele que vai resolver aí um grande problema que
+
+9
+00:00:30,158 --> 00:00:33,250
+você tem qual que você conhece o i p de
+
+10
+00:00:33,259 --> 00:00:36,810
+uma máquina? Mas você não conheceàs vezes o
+
+11
+00:00:36,819 --> 00:00:40,689
+endereço físico daquela máquina da rede, então você vai
+
+12
+00:00:40,700 --> 00:00:44,418
+ter um protocolo que vai ser responsável em fazer esse
+
+13
+00:00:44,429 --> 00:00:45,130
+casamento.
+
+14
+00:00:45,139 --> 00:00:49,609
+Essa associação a um i p com qual endereço físico
+
+15
+00:00:49,618 --> 00:00:54,090
+vamos demonstrar isso aí de uma forma mais prática?
+
+16
+00:00:54,098 --> 00:00:56,929
+Olha lá como eu disse a função desse protocolo aí
+
+17
+00:00:56,939 --> 00:01:00,450
+é fazer a resolução de endereços I P v quatro
+
+18
+00:01:00,459 --> 00:01:03,569
+em endereços mac, ou seja, conhece o endereço
+
+19
+00:01:03,579 --> 00:01:08,680
+lógico e vai conhecer o endereço físico que está atrelado
+
+20
+00:01:08,689 --> 00:01:10,079
+à aquele I P Por quê? Porque o endereço
+
+21
+00:01:10,088 --> 00:01:12,079
+físico é o endereço da placa de rede Okay,
+
+22
+00:01:12,088 --> 00:01:13,558
+que é o endereço que sai de fábrica.
+
+23
+00:01:13,569 --> 00:01:15,719
+O i P foi o endereço que foi dado aquela
+
+24
+00:01:15,730 --> 00:01:17,198
+máquina de maneira lógica.
+
+25
+00:01:17,209 --> 00:01:19,859
+Então ele tem que fazer um casamento tá e esse
+
+26
+00:01:19,870 --> 00:01:20,659
+protocolo também.
+
+27
+00:01:20,668 --> 00:01:24,540
+Ele faz a manutenção da tabela de mapeamentos do I
+
+28
+00:01:24,549 --> 00:01:25,168
+P V quatro.
+
+29
+00:01:25,180 --> 00:01:27,778
+Ou seja, existe uma tabelinha que cê consegue acessar
+
+30
+00:01:27,790 --> 00:01:30,659
+até no seu computador onde ele mostra todo esse casamento.
+
+31
+00:01:30,668 --> 00:01:32,698
+Ele consegue mostrar oh aqui é o i p v
+
+32
+00:01:32,709 --> 00:01:36,778
+quatro de tal máquina tá associada a essa máquina física
+
+33
+00:01:36,790 --> 00:01:38,099
+aqui perfeito.
+
+34
+00:01:38,109 --> 00:01:39,739
+Como é que isso funciona? Na prática? Olha
+
+35
+00:01:39,750 --> 00:01:43,659
+só que interessante existe uma requisição arp o que que
+
+36
+00:01:43,668 --> 00:01:46,269
+é essa requisição? Arp? Olha só o i
+
+37
+00:01:46,278 --> 00:01:49,859
+p o PC um tá aqui o PC um ele
+
+38
+00:01:49,870 --> 00:01:54,750
+quer enviar dados para o PC dois, mas ele
+
+39
+00:01:54,760 --> 00:01:57,909
+não possui o MAC do PC dois na sua tabela
+
+40
+00:01:57,918 --> 00:02:01,510
+Arp Então perceba aqui oh na requisição arp lá em
+
+41
+00:02:01,519 --> 00:02:04,510
+cima ele vai ter um Mac de origem OH que
+
+42
+00:02:04,519 --> 00:02:07,010
+é o zero quatro três sete aí abreviado Tá vendo?
+
+43
+00:02:08,258 --> 00:02:12,159
+Destine ele não conhece? Então bota tudo f porque
+
+44
+00:02:12,169 --> 00:02:14,639
+ele não sabe quem é vai dar o broadcast,
+
+45
+00:02:14,649 --> 00:02:17,520
+só que ele tem um i p de origem que
+
+46
+00:02:17,528 --> 00:02:19,679
+é o nove dois meia oito um dois, mas
+
+47
+00:02:19,689 --> 00:02:21,899
+ele conhece o i P de destino da mata dois
+
+48
+00:02:22,490 --> 00:02:25,139
+Então tá vendo o i p é conhecido, não
+
+49
+00:02:25,149 --> 00:02:25,580
+mac.
+
+50
+00:02:25,588 --> 00:02:30,258
+Então isso é uma requisição pra conhecer o endereço mac.
+
+51
+00:02:30,270 --> 00:02:33,099
+Aí tá vendo oh no pacote arp, temos as
+
+52
+00:02:33,110 --> 00:02:36,659
+seguintes informações Oh, cê tem um mac de origem
+
+53
+00:02:36,669 --> 00:02:40,819
+da mensagem, né O mesmo quadro lá internet e
+
+54
+00:02:40,830 --> 00:02:43,909
+você tem o i p do rost de origem e
+
+55
+00:02:43,919 --> 00:02:47,939
+tem também o mac de destino vazio mexidos com zero
+
+56
+00:02:47,949 --> 00:02:49,899
+Ou então agora ele colocou lá o o autor colocou
+
+57
+00:02:49,909 --> 00:02:52,199
+o f f f né? Agora ele tem o
+
+58
+00:02:52,210 --> 00:02:54,288
+i p do de destino, ou seja, eu
+
+59
+00:02:54,300 --> 00:02:57,330
+conheço o i P, mas eu não conheço o
+
+60
+00:02:57,338 --> 00:02:59,000
+endereço mac, então eu vou fazer o quê uma
+
+61
+00:02:59,008 --> 00:03:02,699
+requisição? Olha que interessante quando eu vou ter a
+
+62
+00:03:02,710 --> 00:03:06,939
+resposta olha só apenas o dispositivo com o endereço i
+
+63
+00:03:06,949 --> 00:03:10,599
+P v q a de destino que poderá responder essa
+
+64
+00:03:10,610 --> 00:03:13,679
+requisição que só existe um i p na rede e
+
+65
+00:03:13,689 --> 00:03:16,719
+não tem dois ipês iguais, né? Então apenas
+
+66
+00:03:16,729 --> 00:03:20,838
+o dispositivo que enviou originalmente a requisição que vai receber
+
+67
+00:03:20,849 --> 00:03:24,500
+a resposta de maneira unica né? Adicionando o i
+
+68
+00:03:24,508 --> 00:03:27,750
+p v quatro e o MEC na tabela v descobriu
+
+69
+00:03:27,758 --> 00:03:29,969
+então perceba aqui em cima aqui oh como é que
+
+70
+00:03:29,979 --> 00:03:34,199
+ele inverte o MAC de origem passa a ser o
+
+71
+00:03:34,210 --> 00:03:37,229
+PC dois o A b zero cinco, onde ele
+
+72
+00:03:37,240 --> 00:03:40,349
+é identificado pelo seu i P de origem e ele
+
+73
+00:03:40,360 --> 00:03:43,508
+já tá com mac de destino que era a máquina
+
+74
+00:03:43,520 --> 00:03:45,960
+que requisitou que era zero um tá vendo que é
+
+75
+00:03:45,969 --> 00:03:48,528
+o quatro, trinta e sete aqui e o i
+
+76
+00:03:48,538 --> 00:03:49,629
+P de destino.
+
+77
+00:03:49,639 --> 00:03:54,189
+Então quando ele voltar a requisição, o PC um
+
+78
+00:03:54,199 --> 00:03:58,080
+já armazena, Então ele já sabe que aquele i
+
+79
+00:03:58,088 --> 00:04:01,969
+P é daquele Mac ele já armazena na tabela.
+
+80
+00:04:01,979 --> 00:04:04,729
+Então é isso que é feito o protocolo ARP Você
+
+81
+00:04:04,740 --> 00:04:07,409
+conseguiu entender que é interessante, então a máquina de
+
+82
+00:04:07,419 --> 00:04:10,449
+origem não conhece o MAC de um destino faz uma
+
+83
+00:04:10,460 --> 00:04:16,129
+requisição ARP através do seu I P O destino atende
+
+84
+00:04:16,139 --> 00:04:19,629
+porque caiu naquele i P e automaticamente quando ele responder
+
+85
+00:04:19,639 --> 00:04:22,199
+o MAC dele já vai junto e o ARP consegue
+
+86
+00:04:22,209 --> 00:04:23,269
+fazer esse armazenamento.
+
+87
+00:04:23,278 --> 00:04:26,189
+Tá vendo Oh destaque! Pode ver que aí as
+
+88
+00:04:26,199 --> 00:04:30,790
+entradas na tabela ARP tem um carimbo de data e
+
+89
+00:04:30,798 --> 00:04:34,869
+hora tá aluno que é o famoso time oh lá.
+
+90
+00:04:34,879 --> 00:04:38,670
+Se um dispositivo não receber um quadro de um dispositivo
+
+91
+00:04:38,678 --> 00:04:43,108
+específico antes desse carimbo eh de data hora SPIRE A
+
+92
+00:04:43,119 --> 00:04:44,379
+entrada será removida.
+
+93
+00:04:44,389 --> 00:04:48,338
+Então ele remove da tabela se não fizer de acordo
+
+94
+00:04:48,350 --> 00:04:50,899
+com o tempo bem interessante, né? Então esse
+
+95
+00:04:50,910 --> 00:04:54,579
+é o famoso a famosa função do protocolo ARP,
+
+96
+00:04:54,588 --> 00:04:59,178
+que é o famoso protocolo de resolução de endereço aí
+
+97
+00:04:59,189 --> 00:05:03,059
+muito conhecido aí oh, dá uma olhada nessa tabela
+
+98
+00:05:03,069 --> 00:05:08,009
+arp que você inclusive pode usar esses comandos lá no
+
+99
+00:05:08,019 --> 00:05:11,108
+no c MD Você pode adicionar uma entrada, tá
+
+100
+00:05:11,119 --> 00:05:13,230
+vendo oh estática na tabela, né? A tática
+
+101
+00:05:13,238 --> 00:05:17,778
+que você adiciona através do comando ARP e f s
+
+102
+00:05:17,790 --> 00:05:20,160
+colocando o i p do roxo tá vendo e depois
+
+103
+00:05:20,170 --> 00:05:23,730
+cê bota o mec e pra deletar cê pode fazer
+
+104
+00:05:23,738 --> 00:05:27,129
+a ah, o apagamento pelo arp traço d Tá
+
+105
+00:05:27,139 --> 00:05:29,338
+vendo oh lá olha que legal aqui oh tá vendo
+
+106
+00:05:29,350 --> 00:05:32,809
+oh, eu tenho o endereço i p oh dez
+
+107
+00:05:32,819 --> 00:05:37,730
+duzentos ponto duzentos e onze ponto um é relacionado a
+
+108
+00:05:37,738 --> 00:05:41,329
+qual endereço físico a esse endereço aqui vou atribuir de
+
+109
+00:05:41,338 --> 00:05:45,079
+maneira dinâmica e pode ver que esse aqui oh tem
+
+110
+00:05:45,088 --> 00:05:47,500
+o i p dez duzentos duzentos e um ponto duzentos
+
+111
+00:05:47,509 --> 00:05:48,500
+e cinquenta e cinco.
+
+112
+00:05:49,129 --> 00:05:54,670
+Qual é o endereço físico dele lá? Tudo f
+
+113
+00:05:54,678 --> 00:05:56,428
+vai ter que ser de maneira estática.
+
+114
+00:05:56,439 --> 00:06:01,350
+Tá vendo aí então é assim que você consegue tabelar,
+
+115
+00:06:01,358 --> 00:06:07,108
+fazer essa tabela de associação de um endereço lógico com
+
+116
+00:06:07,119 --> 00:06:13,269
+endereço físico protocolo chamado AP Resolution Protocolo.
+
+117
+00:06:13,278 --> 00:06:15,470
+Bem interessante, né? Porque lembrando que a gente
+
+118
+00:06:15,480 --> 00:06:17,509
+ainda tem um outro protocolo, que é o Harp,
+
+119
+00:06:17,519 --> 00:06:20,639
+né? O harp faz o contrário que eles brincam
+
+120
+00:06:20,649 --> 00:06:21,009
+muito.
+
+121
+00:06:21,298 --> 00:06:25,028
+Eh quem tem Mac é rico, então o harp
+
+122
+00:06:25,040 --> 00:06:28,649
+começa com R faria o processo inverso.
+
+123
+00:06:28,660 --> 00:06:32,629
+Ele pega o físico pra entender o lógico, né?
+
+124
+00:06:32,639 --> 00:06:34,108
+Mas não é o caso Agora eu só tô te
+
+125
+00:06:34,119 --> 00:06:36,588
+dando aí O exemplo que a gente tá tratando no
+
+126
+00:06:36,600 --> 00:06:40,009
+momento só do Harp tá e deu uma citação bem
+
+127
+00:06:40,019 --> 00:06:43,209
+legal aí oh lá, os endereços aluno da camada
+
+128
+00:06:43,220 --> 00:06:47,149
+de enlace são bastante diferentes da camada de rede,
+
+129
+00:06:47,160 --> 00:06:49,309
+né? Porque os endereços da camada de enlace a
+
+130
+00:06:49,319 --> 00:06:51,338
+gente viu o seu endereço de quarenta e oito bits
+
+131
+00:06:51,350 --> 00:06:53,730
+trabalham com números extras decimais.
+
+132
+00:06:53,738 --> 00:06:57,088
+Já o endereço da camada de rede Camada três,
+
+133
+00:06:57,100 --> 00:07:00,410
+os endereços lógicos os mais comuns I p v quatro
+
+134
+00:07:00,420 --> 00:07:02,439
+no caso tem dois bits Tá vendo Oh, tá
+
+135
+00:07:02,449 --> 00:07:05,559
+vendo no caso da internet oh um protocolo especial quem
+
+136
+00:07:05,569 --> 00:07:08,040
+o arp que é o protocolo de de endereço ele
+
+137
+00:07:08,048 --> 00:07:09,278
+é usado pra fazer o quê, oh? lá
+
+138
+00:07:09,290 --> 00:07:14,119
+o mapeamento entre esses dois modos de endereçamento.
+
+139
+00:07:14,129 --> 00:07:18,480
+Essa é a função desse famoso aí, protocolo de
+
+140
+00:07:18,488 --> 00:07:24,019
+resolução de endereço, o ARP entendido então é isso,
+
+141
+00:07:24,028 --> 00:07:26,119
+até logo abraço.
+

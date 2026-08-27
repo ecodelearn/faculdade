@@ -1,0 +1,640 @@
+1
+00:00:06,078 --> 00:00:09,470
+continuando nossa disciplina de segurança da informação e continuidade,
+
+2
+00:00:09,478 --> 00:00:12,288
+estávamos falando sobre a questão da infraestrutura.
+
+3
+00:00:12,300 --> 00:00:14,609
+Qual é a melhor estrutura das nuvens.
+
+4
+00:00:14,618 --> 00:00:16,298
+E agora a gente vai começar a trabalhar, dar
+
+5
+00:00:16,309 --> 00:00:17,329
+alguns exemplos.
+
+6
+00:00:17,339 --> 00:00:18,940
+Exemplos para melhor.
+
+7
+00:00:18,949 --> 00:00:21,780
+Escolha O que Que qual empresa, Qual perfil de
+
+8
+00:00:21,789 --> 00:00:24,859
+empresa se adequa a pris ou um.
+
+9
+00:00:24,870 --> 00:00:28,309
+Um modelo que trabalha com infraestrtura na nuvem, né?
+
+10
+00:00:28,318 --> 00:00:30,600
+Então, aí vamos lá eh agora.
+
+11
+00:00:30,609 --> 00:00:33,020
+Que de entendemos, né? Quais são as vantagens
+
+12
+00:00:33,029 --> 00:00:35,709
+e as desvantagens de cada modelo, indica um nível
+
+13
+00:00:35,719 --> 00:00:37,279
+de segurança necessário.
+
+14
+00:00:37,289 --> 00:00:40,319
+Investimento inicial, capacidade técnica da organização.
+
+15
+00:00:40,329 --> 00:00:43,959
+Podemos buscar exemplos de organizações que prefiram um modelo ou
+
+16
+00:00:43,969 --> 00:00:46,939
+outro e até mesmo aquelas que necessitam os dois modelos
+
+17
+00:00:46,950 --> 00:00:47,859
+simultaneamente.
+
+18
+00:00:47,868 --> 00:00:48,418
+Existe isso tá.
+
+19
+00:00:48,429 --> 00:00:52,899
+Existem organizações que você tem tanto como o sistema de
+
+20
+00:00:52,908 --> 00:00:57,134
+nuvem embutido que tem alguma algum serviço específico que você
+
+21
+00:00:57,145 --> 00:00:59,014
+quer que ele fique ou outro serviço.
+
+22
+00:00:59,024 --> 00:01:00,734
+É mais fácil manter na nuvem.
+
+23
+00:01:00,743 --> 00:01:03,774
+Vai depender, né? Da da sua necessidade?
+
+24
+00:01:03,783 --> 00:01:06,974
+Então, olhando pra essa pra essas características, tá?
+
+25
+00:01:06,984 --> 00:01:11,775
+Empresas que podem, que podem preferir ambiente, Ou
+
+26
+00:01:11,784 --> 00:01:16,254
+seja, infraestrutura local, instituições financeiras, bancos,
+
+27
+00:01:16,263 --> 00:01:21,334
+instituições financeiras, frequentemente lidam com regulamentações rigorosas de segurança
+
+28
+00:01:21,344 --> 00:01:22,433
+e privacidade.
+
+29
+00:01:22,719 --> 00:01:25,569
+A posse total de recursos pode ser uma preferência para
+
+30
+00:01:25,579 --> 00:01:29,088
+garantir o controle absoluto dos dados acessíveis dos clientes.
+
+31
+00:01:29,099 --> 00:01:30,549
+Então tem essa necessidade.
+
+32
+00:01:30,558 --> 00:01:35,290
+Setor de saúde organizações do setor de saúde, como
+
+33
+00:01:35,299 --> 00:01:39,489
+hospitais e clínicas, podem preferir ambientes onlines devido a
+
+34
+00:01:39,500 --> 00:01:44,409
+sensibilidade dos dados e pacientes e as regulamentações restritas de
+
+35
+00:01:44,418 --> 00:01:45,769
+privacidade.
+
+36
+00:01:45,778 --> 00:01:52,150
+Tá como aí oh, dos Estados Unidos, então
+
+37
+00:01:52,159 --> 00:01:59,750
+independente, dependendo na verdade, nem dependendo saúde e
+
+38
+00:01:59,760 --> 00:02:05,588
+instituições financeiras seguem regulamentações muito rígidas e por isso a
+
+39
+00:02:05,599 --> 00:02:10,909
+grande maioria prefere manter seus dados sensíveis dentro de um
+
+40
+00:02:10,919 --> 00:02:12,569
+ambiente online.
+
+41
+00:02:13,169 --> 00:02:17,159
+Empresas que podem preferir um serviço que na nuvem tá
+
+42
+00:02:17,169 --> 00:02:19,219
+startups e empresas emergentes.
+
+43
+00:02:19,229 --> 00:02:23,300
+Então empresas em crescimentos rápidos podem preferir a flexibilidade e
+
+44
+00:02:23,308 --> 00:02:27,740
+a bilidade oferecidas pro serviço das nuvens, custos variáveis
+
+45
+00:02:27,750 --> 00:02:31,618
+e capacidade de mencionar recursos conforme eh necessários, são
+
+46
+00:02:31,629 --> 00:02:33,899
+vantajosos, então, empresas como startup, que é
+
+47
+00:02:33,909 --> 00:02:37,118
+uma empresa que precisa crescer rápido ou fazer ou pivo,
+
+48
+00:02:37,199 --> 00:02:41,449
+ela consegue ter essa flexibilidade Quando o serviço é na
+
+49
+00:02:41,460 --> 00:02:44,729
+nuvem Porque é uma, é uma é uma característica
+
+50
+00:02:44,740 --> 00:02:45,368
+desse serviço.
+
+51
+00:02:45,379 --> 00:02:48,270
+Você pode aumentar, você pode diminuir a demanda,
+
+52
+00:02:48,278 --> 00:02:51,610
+você pode flexibilizar da forma que você quiser.
+
+53
+00:02:51,618 --> 00:02:55,929
+Tá? Então é uma empresa startup quase quase não
+
+54
+00:02:55,939 --> 00:02:58,129
+vou garantir, mas provavelmente, cem por cento das
+
+55
+00:02:58,139 --> 00:03:02,330
+startups só trabalha com serviço de Nuvem Tak empresas de
+
+56
+00:03:02,338 --> 00:03:03,069
+tecnologia.
+
+57
+00:03:03,080 --> 00:03:05,788
+Então empresas que se constante em desenvolvimento de software,
+
+58
+00:03:05,800 --> 00:03:10,110
+análise de dados e outras operações intensivas em computação podem
+
+59
+00:03:10,118 --> 00:03:14,969
+se beneficiar com agilidades e recursos elásticos oferecidos pela nuvem.
+
+60
+00:03:14,979 --> 00:03:18,250
+Quando a gente tá falando em processamento em desenvolvimento,
+
+61
+00:03:18,258 --> 00:03:20,889
+às vezes você precisa de um recurso, eh um
+
+62
+00:03:20,899 --> 00:03:23,429
+processamento mais forte, mais rápido, mas né,
+
+63
+00:03:23,439 --> 00:03:24,110
+POTENTE.
+
+64
+00:03:24,118 --> 00:03:27,389
+E aí, quando você tem essa essa flexibilidade,
+
+65
+00:03:27,399 --> 00:03:28,969
+com o serviço na nuvem, tudo se torna mais
+
+66
+00:03:28,979 --> 00:03:31,689
+fácil, porque você pode escalar isso de forma rápida,
+
+67
+00:03:31,699 --> 00:03:33,389
+né? Cê chega lá no painel o seu,
+
+68
+00:03:33,399 --> 00:03:36,710
+o seu painel de gerenciamento do serviço, você seta
+
+69
+00:03:36,719 --> 00:03:39,389
+lá que você precisa de mais processamento automaticamente.
+
+70
+00:03:39,399 --> 00:03:42,750
+Você tem esse no esse processamento muito diferente do Prime,
+
+71
+00:03:42,758 --> 00:03:48,439
+né Empresas globais Em operações distribuídas, empresas com equipes
+
+72
+00:03:48,449 --> 00:03:52,679
+ou operações distribuídas globalmente, pode preferir a a nuvem,
+
+73
+00:03:52,689 --> 00:03:55,278
+para facilitar o acesso a recursos de T i em
+
+74
+00:03:55,288 --> 00:03:59,639
+diferentes localidades, sem a necessidade de gerenciar a infraestrutura
+
+75
+00:03:59,649 --> 00:04:01,000
+local de cada escritório.
+
+76
+00:04:01,008 --> 00:04:04,679
+Então, é uma grande companhia que tem escritórios espalhados.
+
+77
+00:04:04,689 --> 00:04:05,778
+Isso é cada vez mais.
+
+78
+00:04:05,849 --> 00:04:08,300
+Então, quando a gente tá falando de globalização,
+
+79
+00:04:08,308 --> 00:04:12,819
+então eh empresas que tão são globais, Elas preferem
+
+80
+00:04:12,830 --> 00:04:15,580
+serviço na nuvem? Que como que você vai manter
+
+81
+00:04:15,588 --> 00:04:18,720
+um pequeno datacenter ou uma sala cofre em cada região
+
+82
+00:04:18,730 --> 00:04:19,509
+do mundo.
+
+83
+00:04:19,519 --> 00:04:21,858
+Então é muito mais fácil você ter um serviço de
+
+84
+00:04:21,869 --> 00:04:25,439
+nuvem que garante, né? Esse atendimento garante essa
+
+85
+00:04:25,449 --> 00:04:31,730
+necessidade Em todo o globo tá empresas com demanda variável.
+
+86
+00:04:31,738 --> 00:04:36,689
+Negócios que experimentam flutuações sazonais ou eventos inesperados de demandas
+
+87
+00:04:36,699 --> 00:04:40,689
+podem preferir a nuvem devido a sua capacidade de mencionar
+
+88
+00:04:40,699 --> 00:04:43,829
+rapidamente os recursos para cima ou para baixo.
+
+89
+00:04:43,838 --> 00:04:49,170
+Então, vamos dar um exemplo empresas de venda varejista,
+
+90
+00:04:49,178 --> 00:04:52,488
+que sabe que em algumas épocas do ano natal,
+
+91
+00:04:52,500 --> 00:04:55,269
+Dia das Mães, ela tem uma necessidade de maior
+
+92
+00:04:55,278 --> 00:04:57,170
+processamento dos seus dados.
+
+93
+00:04:57,178 --> 00:05:00,730
+Então ela provavelmente vai cria um serviço dentro da nuvem
+
+94
+00:05:00,738 --> 00:05:04,149
+porque ela pode ali se tá como eu falei,
+
+95
+00:05:04,160 --> 00:05:07,088
+mais processamento, ela não precisa ficar pagando esse processamento
+
+96
+00:05:07,100 --> 00:05:08,059
+o ano inteiro.
+
+97
+00:05:08,069 --> 00:05:12,750
+Ela paga no nos momentos necessários naquelas fases, né?
+
+98
+00:05:12,759 --> 00:05:15,709
+Do ano que vai precisar de mais processamento devidoà
+
+99
+00:05:15,720 --> 00:05:20,829
+demanda, devido a necessidade exigida pela pelo próprio comércio,
+
+100
+00:05:20,838 --> 00:05:24,230
+ela vai se eh mais processamento.
+
+101
+00:05:24,238 --> 00:05:29,088
+Isso se torna uma economia bem bem considerável, tá?
+
+102
+00:05:29,540 --> 00:05:34,189
+Empresas de E-commerce Empresas que operam plataforma de comércio eletrônico
+
+103
+00:05:34,199 --> 00:05:39,420
+podem optar pelas nuvens devidoà necessidade de escalabilidade rápida
+
+104
+00:05:39,428 --> 00:05:42,189
+durante evento de vendas, como promoções e feriados.
+
+105
+00:05:42,199 --> 00:05:43,670
+Foi o que eu falei é o que acontece muito
+
+106
+00:05:43,678 --> 00:05:45,699
+por exemplo, no Black Friday na Black Friday.
+
+107
+00:05:45,709 --> 00:05:48,790
+Ali tem um boom durante um período aí quinze,
+
+108
+00:05:48,798 --> 00:05:52,523
+vinte dias, uma demanda muito grande por processamento,
+
+109
+00:05:52,531 --> 00:05:57,583
+devidoà procura de produtos, procura de informações,
+
+110
+00:05:57,591 --> 00:05:59,661
+procura de compras ali.
+
+111
+00:05:59,673 --> 00:06:04,463
+Naquele momento, aquela empresa de eco injeta processamento,
+
+112
+00:06:04,471 --> 00:06:09,362
+recurso da nuvem para garantir a sustentabilidade do negócio,
+
+113
+00:06:09,372 --> 00:06:10,415
+Porque vai ter a demanda.
+
+114
+00:06:10,425 --> 00:06:12,475
+Imagina você que é um cliente? Você fica ali
+
+115
+00:06:12,485 --> 00:06:15,615
+tentando comprar um eletrônico, né? Um eletrodoméstico e
+
+116
+00:06:15,625 --> 00:06:18,716
+não consegue, devidoà falha do do site.
+
+117
+00:06:18,725 --> 00:06:20,454
+Então, você, com certeza você vai pra um
+
+118
+00:06:20,466 --> 00:06:22,536
+outro site ou pra uma outra empresa? E isso
+
+119
+00:06:22,545 --> 00:06:23,716
+que as empresas não querem.
+
+120
+00:06:23,725 --> 00:06:28,656
+Portanto, esse investimento de processamento durante essas essas fases
+
+121
+00:06:28,665 --> 00:06:32,160
+são fundamentais? Tá? Eh empresas que podem preferir
+
+122
+00:06:32,170 --> 00:06:33,278
+um modelo híbrido.
+
+123
+00:06:33,290 --> 00:06:36,079
+Tá empresas com necessidade de conformidade específica.
+
+124
+00:06:36,088 --> 00:06:40,639
+Uma empresa financeira que precisa cumprir regulamentações rigorosas, mas
+
+125
+00:06:40,649 --> 00:06:45,338
+deseja aproveitar os benefícios da nuvem para certos serviços menos
+
+126
+00:06:45,350 --> 00:06:46,000
+sensíveis.
+
+127
+00:06:46,009 --> 00:06:50,838
+Ela pode manter dados críticos enquanto utilizam na nuvem pra
+
+128
+00:06:50,850 --> 00:06:52,358
+tarefas menos sensíveis.
+
+129
+00:06:52,369 --> 00:06:53,399
+Isso é muito comum.
+
+130
+00:06:53,410 --> 00:06:56,569
+Tá organizações com carga de trabalho, variáveis.
+
+131
+00:06:56,579 --> 00:06:58,899
+Uma empresa de varejo que experimenta picos.
+
+132
+00:06:58,910 --> 00:07:01,350
+Sazonais, né? De tráfego online pode optar por
+
+133
+00:07:01,358 --> 00:07:05,988
+manter esses temas principais on times e utilizar serviços recursos
+
+134
+00:07:06,000 --> 00:07:10,588
+da nuvem para estabilidade temporária durante períodos de alta demanda.
+
+135
+00:07:10,600 --> 00:07:13,269
+Então vai depender muito do negócio, da flexibilidade que
+
+136
+00:07:13,278 --> 00:07:13,889
+as pessoas querem.
+
+137
+00:07:14,350 --> 00:07:16,519
+Setores com necessidades heterogênea.
+
+138
+00:07:16,528 --> 00:07:19,759
+Uma empresa de saúde que mantém dados sensíveis localmente,
+
+139
+00:07:19,769 --> 00:07:23,238
+mas na nuvem mantém análise de big data ou análise,
+
+140
+00:07:23,250 --> 00:07:24,709
+marca ou aprendizado de máquina.
+
+141
+00:07:24,720 --> 00:07:27,759
+Então assim o e a dele fica fora, mas
+
+142
+00:07:27,769 --> 00:07:30,259
+os dados ficam dentro da empresa, Tá isso?
+
+143
+00:07:30,269 --> 00:07:33,540
+Também É muito comum empresas que investem em inovação uma
+
+144
+00:07:33,548 --> 00:07:36,778
+empresa de tecnologia que deseja inovar rapidamente para manter sua
+
+145
+00:07:36,790 --> 00:07:39,819
+infraestrutura central prime para o controle.
+
+146
+00:07:39,829 --> 00:07:42,298
+Mas utilizar modelo, utilizar a nuvem, né?
+
+147
+00:07:42,309 --> 00:07:45,639
+Para testar novos serviços, fazer aqueles m v p
+
+148
+00:07:45,649 --> 00:07:47,939
+e protótipos de maneira ágil, então é muito fácil.
+
+149
+00:07:47,949 --> 00:07:50,160
+É muito comum pra uma empresa que já tem uma
+
+150
+00:07:50,170 --> 00:07:53,639
+um serviço já já forte no mercado.
+
+151
+00:07:53,738 --> 00:07:56,709
+E os testes, né? Ela que ela precisa
+
+152
+00:07:56,720 --> 00:07:58,588
+de escalabilidade, precisa de uma.
+
+153
+00:07:58,600 --> 00:08:02,470
+Uma infraestrutura eh volátil, ela coloca na nuvem.
+
+154
+00:08:02,480 --> 00:08:05,189
+Então isso é muito muito comum nas empresas.
+
+155
+00:08:05,199 --> 00:08:06,480
+Então vai depender como eu falei.
+
+156
+00:08:06,488 --> 00:08:09,069
+Vai depender muito da sua necessidade, vai depender muito
+
+157
+00:08:09,079 --> 00:08:11,470
+da sua realidade, tem que analisar o seu cenário
+
+158
+00:08:11,480 --> 00:08:14,769
+e escolher a melhor infraestrutura para o seu local.
+
+159
+00:08:14,778 --> 00:08:15,769
+Muito obrigado.
+
+160
+00:08:15,778 --> 00:08:17,449
+Nos vemos na próxima aula
+

@@ -1,0 +1,748 @@
+1
+00:00:06,538 --> 00:00:08,069
+seja bem-vindo novamente.
+
+2
+00:00:08,079 --> 00:00:11,909
+Vamos complementar nosso conhecimento acerca do né.
+
+3
+00:00:11,919 --> 00:00:14,028
+Que é a ferramenta de modelagem que a gente tá
+
+4
+00:00:14,038 --> 00:00:17,649
+falando, volume de características relacionadas a esta agora?
+
+5
+00:00:17,949 --> 00:00:21,388
+Na né? Eh pra entender qual é o funcionamento,
+
+6
+00:00:21,399 --> 00:00:23,519
+qual é a perspectiva, né? Vimos que ela
+
+7
+00:00:23,530 --> 00:00:25,798
+é uma ferramenta intuitiva, é uma ferramenta fácil de
+
+8
+00:00:25,809 --> 00:00:26,750
+se trabalhar.
+
+9
+00:00:26,760 --> 00:00:30,339
+É uma ferramenta que nos permite modelar e desenhar processos
+
+10
+00:00:30,350 --> 00:00:35,500
+de uma maneira colaborativa, interativa com pouco eh,
+
+11
+00:00:35,509 --> 00:00:39,990
+eh não não, não necessitando de um conhecimento específico
+
+12
+00:00:40,000 --> 00:00:42,798
+numa determinada área, né? Então a ressalva que
+
+13
+00:00:42,810 --> 00:00:46,340
+eu faço aqui é que o conhecimento ela seja eh
+
+14
+00:00:46,348 --> 00:00:50,079
+seja do processo, ou seja, você conheceu o
+
+15
+00:00:50,090 --> 00:00:50,560
+teu processo.
+
+16
+00:00:50,569 --> 00:00:52,750
+A partir daí você usa a ferramenta pra eh,
+
+17
+00:00:52,759 --> 00:00:55,368
+vamos dizer tirar aquilo que tá na tua mente e
+
+18
+00:00:55,380 --> 00:00:56,848
+colocar no papel.
+
+19
+00:00:56,859 --> 00:00:58,969
+E pra tanto você usa a ferramenta que já tem
+
+20
+00:00:58,978 --> 00:01:00,149
+a modelagem.
+
+21
+00:01:00,158 --> 00:01:01,029
+Desculpa.
+
+22
+00:01:01,039 --> 00:01:04,448
+A mode já tem a notação correta, já tem
+
+23
+00:01:04,459 --> 00:01:08,448
+o o, o o exatamente os artefatos necessários pra
+
+24
+00:01:08,459 --> 00:01:09,930
+você construir o teu processo.
+
+25
+00:01:09,939 --> 00:01:13,370
+Essa é a perspectiva do do do nosso BSA.
+
+26
+00:01:13,379 --> 00:01:15,480
+Tá bom.
+
+27
+00:01:16,388 --> 00:01:18,918
+O B é um software gratuito, ou seja,
+
+28
+00:01:18,930 --> 00:01:22,689
+já eu eh reforço essa, essa perspectiva é gratuito,
+
+29
+00:01:22,698 --> 00:01:28,480
+é uma modelagem descritiva, analítica e de execução de
+
+30
+00:01:28,489 --> 00:01:29,219
+processos.
+
+31
+00:01:29,230 --> 00:01:32,079
+Execução de quê de processo de negócio que você utiliza
+
+32
+00:01:32,088 --> 00:01:36,290
+uma anotação em conse, em consonância com a disciplina
+
+33
+00:01:36,299 --> 00:01:36,730
+B PM.
+
+34
+00:01:36,739 --> 00:01:37,290
+Então vamos lá.
+
+35
+00:01:37,299 --> 00:01:37,730
+Vamos lá.
+
+36
+00:01:37,739 --> 00:01:39,969
+Vamos entender um pouquinho isso aqui, olha só é
+
+37
+00:01:39,980 --> 00:01:42,010
+bom software gratuito, não tem muito o que explicar,
+
+38
+00:01:42,019 --> 00:01:43,528
+né? Então assim é um software que você vai
+
+39
+00:01:43,540 --> 00:01:46,329
+lá na internet baixa você não paga nada.
+
+40
+00:01:46,338 --> 00:01:49,308
+Claro que você vai ter recursos limitados pra ela,
+
+41
+00:01:49,319 --> 00:01:51,609
+né? Então eh ela é gratuita, mas ela
+
+42
+00:01:51,620 --> 00:01:54,290
+limita na questão dos recursos do que você vai aplicar.
+
+43
+00:01:54,299 --> 00:01:55,308
+Então, se você precisar de uma, um,
+
+44
+00:01:55,319 --> 00:01:58,689
+um, um recurso, um pouco mais eh profissional,
+
+45
+00:01:58,698 --> 00:02:01,168
+vamos dizer assim alguma coisa muito mais específica que ela
+
+46
+00:02:01,180 --> 00:02:01,829
+oferta.
+
+47
+00:02:02,099 --> 00:02:06,019
+Talvez você não encontre na versão gratuita, mas no
+
+48
+00:02:06,028 --> 00:02:07,338
+mais ela atende tranquilamente.
+
+49
+00:02:07,349 --> 00:02:10,599
+Tá quando a gente fala de modelagem descritiva é porque
+
+50
+00:02:10,610 --> 00:02:14,419
+o modelo que ela trabalha é é a descrição do
+
+51
+00:02:14,429 --> 00:02:18,939
+processo, tal como você executa ele, né?
+
+52
+00:02:18,949 --> 00:02:24,389
+Então eh vou comprar um carro, faço pedido de
+
+53
+00:02:24,399 --> 00:02:27,990
+solicitação de compra, faço preenchimento do do, do,
+
+54
+00:02:28,000 --> 00:02:29,649
+do meu formulário de crédito.
+
+55
+00:02:29,659 --> 00:02:31,550
+Esse formulário de crédito eu mando pro banco.
+
+56
+00:02:31,558 --> 00:02:35,550
+Então é descritivo? Eu vou passando, né descrevendo
+
+57
+00:02:35,558 --> 00:02:37,949
+meu processo, tal como ele ocorre, passo a
+
+58
+00:02:37,960 --> 00:02:42,270
+passo? Tá analítico, né? Porque ele trabalha
+
+59
+00:02:42,278 --> 00:02:45,389
+essa essa percepção de cada processo em si, de
+
+60
+00:02:45,399 --> 00:02:51,409
+como esse processo está dentro desse contexto da entrega,
+
+61
+00:02:51,419 --> 00:02:55,349
+né? Ou da realização do seu propósito, né?
+
+62
+00:02:55,360 --> 00:02:56,308
+E de execução.
+
+63
+00:02:56,319 --> 00:02:58,439
+Por quê? Porque, quando você olhar o processo,
+
+64
+00:02:58,449 --> 00:03:00,569
+você vai O pai isso aqui é algo que realmente
+
+65
+00:03:00,879 --> 00:03:02,449
+eh, vai ser executado.
+
+66
+00:03:02,460 --> 00:03:03,909
+Então tem um passo a passo, ele tem o
+
+67
+00:03:03,919 --> 00:03:06,308
+início, ele tem o meio, ele tem o
+
+68
+00:03:06,319 --> 00:03:08,729
+fim, né? Então, um processo de execução,
+
+69
+00:03:08,740 --> 00:03:11,649
+né? De quê? Processos de negócio? O
+
+70
+00:03:11,659 --> 00:03:13,830
+processo de negócio? Então o processo de venda?
+
+71
+00:03:13,838 --> 00:03:17,129
+Processo de compra, um processo de matrícula, de
+
+72
+00:03:17,139 --> 00:03:20,610
+alunos? Enfim, qualquer processo você consegue Eh,
+
+73
+00:03:20,618 --> 00:03:24,449
+eh, eh, eh representar ele por meio da
+
+74
+00:03:24,460 --> 00:03:28,649
+disciplina de gestão de processos, utilizando uma anotação específica
+
+75
+00:03:28,659 --> 00:03:31,838
+que é o b PM N, baseado numa ferramenta
+
+76
+00:03:31,849 --> 00:03:33,868
+que a gente tá falando agora, que é o
+
+77
+00:03:33,879 --> 00:03:34,439
+b okay.
+
+78
+00:03:34,449 --> 00:03:41,080
+Então isso é um completo que você consegue tranquilamente entregar
+
+79
+00:03:41,088 --> 00:03:42,879
+eh usar dentro da sua organização.
+
+80
+00:03:42,889 --> 00:03:44,379
+Tá legal bom.
+
+81
+00:03:45,169 --> 00:03:48,659
+Além disso, a A, o S permite que
+
+82
+00:03:48,669 --> 00:03:52,080
+eu publique, né? Os meus processos em divers
+
+83
+00:03:52,088 --> 00:03:55,379
+em diferentes formatos, inclusive na web, né?
+
+84
+00:03:55,389 --> 00:03:58,058
+Então eu posso pegar o meu processo, né?
+
+85
+00:03:58,069 --> 00:04:00,538
+E e publicar ele po publico na internet.
+
+86
+00:04:00,550 --> 00:04:01,699
+E aí você fala assim, pô! Mas por
+
+87
+00:04:01,710 --> 00:04:04,500
+que que eu vou publicar meu processo pra dar transparência?
+
+88
+00:04:04,508 --> 00:04:07,338
+Okay? Então eh, você pode fazer um repositório,
+
+89
+00:04:07,349 --> 00:04:09,219
+a gente já viu que a gente também tem repositório
+
+90
+00:04:09,229 --> 00:04:10,899
+de processo, né? Eu posso fazer um repositório
+
+91
+00:04:10,909 --> 00:04:14,389
+de processos em que as áreas vão consultar esse repositório?
+
+92
+00:04:14,399 --> 00:04:16,069
+E vão ver lá as publicações dos pro, os
+
+93
+00:04:16,079 --> 00:04:20,670
+processos, né? Que foram desenhados? E também
+
+94
+00:04:20,678 --> 00:04:22,548
+pela internet, no formato? A gente sabe que
+
+95
+00:04:22,559 --> 00:04:24,588
+a internet, né, Ou a a a web
+
+96
+00:04:24,600 --> 00:04:27,928
+ela tem um formato espec, eh específico de apresentação
+
+97
+00:04:28,588 --> 00:04:30,778
+e eu posso então eh colocar esse formato.
+
+98
+00:04:30,790 --> 00:04:34,379
+É colocar esse esse processo, publicar esse processo nesse
+
+99
+00:04:34,389 --> 00:04:36,920
+formato e as pessoas vão na internet, vão usar
+
+100
+00:04:36,928 --> 00:04:36,959
+aí.
+
+101
+00:04:36,970 --> 00:04:39,838
+Enfim, vão ficarà vontade ali e ver tranquilamente.
+
+102
+00:04:39,850 --> 00:04:42,238
+Tá outra coisa.
+
+103
+00:04:42,250 --> 00:04:46,178
+Simulação de fluxo de trabalho para análise me melhora melhorias.
+
+104
+00:04:46,189 --> 00:04:50,278
+Então eu posso simular fluxo do trabalho, cujo foco
+
+105
+00:04:50,290 --> 00:04:53,220
+é análise de melhoria.
+
+106
+00:04:53,230 --> 00:04:57,980
+Okay Então vamos lá o BSA como ferramenta, né?
+
+107
+00:04:57,988 --> 00:05:01,778
+Com notação de EH, eh, eh processos de
+
+108
+00:05:01,790 --> 00:05:05,199
+modelagem para modelagem de processo Ela permite ao simular o
+
+109
+00:05:05,209 --> 00:05:08,850
+fluxo de trabalho simular fluxos de trabalho é uma,
+
+110
+00:05:08,858 --> 00:05:11,389
+uma, uma, uma, uma característica, vamos
+
+111
+00:05:11,399 --> 00:05:12,790
+dizer transparente e simples.
+
+112
+00:05:12,798 --> 00:05:16,670
+Mas eh eu eu gosto sempre de falar e chamar
+
+113
+00:05:16,678 --> 00:05:20,869
+a atenção de pra processos em si, né eh
+
+114
+00:05:20,879 --> 00:05:23,910
+Já falei algumas vezes no nosso, nas nossas interações,
+
+115
+00:05:23,920 --> 00:05:27,569
+essa palavra, chamada análise de melhorias, né?
+
+116
+00:05:27,579 --> 00:05:30,644
+Então assim um processo por si só ele não termina
+
+117
+00:05:30,653 --> 00:05:34,684
+em si mesmo? Ele precisa ser sempre avaliado,
+
+118
+00:05:34,694 --> 00:05:39,983
+sempre analisado e buscando sempre a melhoria contínua desse processo,
+
+119
+00:05:39,994 --> 00:05:44,064
+né, focando em eficiência focando em eficácia mesmo porque
+
+120
+00:05:44,074 --> 00:05:44,524
+né.
+
+121
+00:05:44,535 --> 00:05:48,524
+Tá mesmo porque eu já falei anteriormente, nós vivemos
+
+122
+00:05:48,535 --> 00:05:51,649
+em um mundo dinâmico, que a única certeza que
+
+123
+00:05:51,660 --> 00:05:53,689
+nós temos é que ele vai mudar, As mudanças
+
+124
+00:05:53,699 --> 00:05:57,009
+ocorrerão, então se a mudança é algo que eu
+
+125
+00:05:57,019 --> 00:06:01,569
+tenho certeza, né? Então a olhar pra um
+
+126
+00:06:01,579 --> 00:06:04,769
+fluxo de processo e buscar a análise dele com foco
+
+127
+00:06:04,778 --> 00:06:08,850
+e melhoria é condição única, é condição que não
+
+128
+00:06:08,858 --> 00:06:11,160
+tem, né? Vamos dizer que a gente fala
+
+129
+00:06:11,170 --> 00:06:16,528
+condição primordial dentro de uma organização, tá? E
+
+130
+00:06:16,540 --> 00:06:19,738
+por último aqui a fácil integração e colaboração em tempo
+
+131
+00:06:19,750 --> 00:06:20,588
+real.
+
+132
+00:06:20,600 --> 00:06:23,129
+Ou seja, uma outra característica dela então eu posso
+
+133
+00:06:23,139 --> 00:06:23,730
+ter.
+
+134
+00:06:23,738 --> 00:06:26,970
+Ah é uma ferramenta colaborativa, o hoje muito se
+
+135
+00:06:26,980 --> 00:06:30,230
+fala e se usam, E usamos ferramentas colaborativas,
+
+136
+00:06:30,238 --> 00:06:36,519
+né? EH, eh ferramentas de ah! Videoconferência!
+
+137
+00:06:36,528 --> 00:06:40,040
+Ferramentas de Ah e E eu.
+
+138
+00:06:40,048 --> 00:06:43,439
+Escrevo um documento numa plataforma, o outro já altera,
+
+139
+00:06:43,449 --> 00:06:46,678
+já corrige eh, eu compartilho documentos.
+
+140
+00:06:46,689 --> 00:06:50,678
+Então, essa essa fácil integração e colaboração em tempo
+
+141
+00:06:50,689 --> 00:06:55,040
+real Ela é assim maravilhosa, porque eu não preciso
+
+142
+00:06:55,048 --> 00:06:57,238
+encerrar a minha parte pra que o outro comece.
+
+143
+00:06:57,250 --> 00:07:00,000
+Podemos trabalhar juntos, né, e cada um na
+
+144
+00:07:00,009 --> 00:07:00,720
+sua máquina.
+
+145
+00:07:00,730 --> 00:07:02,319
+Cada um, no seu terminal, cada um no
+
+146
+00:07:02,329 --> 00:07:06,160
+seu computador ali e cada um fazendo a sua contribuição,
+
+147
+00:07:06,170 --> 00:07:08,769
+a sua colaboração, né? E o que vai
+
+148
+00:07:08,778 --> 00:07:12,410
+sendo feito vai acontecendo em tempo real A pessoa tá
+
+149
+00:07:12,420 --> 00:07:14,009
+vendo o que tá sendo feito, a alteração que
+
+150
+00:07:14,019 --> 00:07:16,329
+foi feita, o ajuste que foi feito, né?
+
+151
+00:07:16,338 --> 00:07:18,488
+A crítica que foi feita, o apontamento que foi
+
+152
+00:07:18,500 --> 00:07:22,290
+feito a ali, o fluxo que foi adicionado,
+
+153
+00:07:22,298 --> 00:07:24,850
+aquela aquele, aquele processo que foi colocado ali.
+
+154
+00:07:24,858 --> 00:07:28,889
+Tudo acontece de forma transparente pra aqueles que estão envolvidos
+
+155
+00:07:28,899 --> 00:07:31,548
+dentro do projeto, né no desenho daquele processo,
+
+156
+00:07:31,559 --> 00:07:34,290
+então outra questão aqui, que vale a pena eh
+
+157
+00:07:34,298 --> 00:07:35,509
+citar.
+
+158
+00:07:36,189 --> 00:07:38,639
+É que um processo ele não.
+
+159
+00:07:38,649 --> 00:07:40,750
+Não estou falando que ele é de uma pessoa,
+
+160
+00:07:40,759 --> 00:07:42,278
+o processo é organizacional.
+
+161
+00:07:42,290 --> 00:07:44,959
+Então, quando vocês forem construir um processo sempre,
+
+162
+00:07:44,970 --> 00:07:48,899
+pensem eh em trabalhar, né? Numa perspectiva de
+
+163
+00:07:48,910 --> 00:07:53,119
+que haja o entendimento daquele processo e a contribuição daqueles
+
+164
+00:07:53,129 --> 00:07:57,379
+que participam do processo que conhecem esse processo, né?
+
+165
+00:07:57,809 --> 00:08:00,139
+Então, eh é uma sugestão é não individua e
+
+166
+00:08:00,149 --> 00:08:03,720
+individualizar a construção do processo e sim fazer com que
+
+167
+00:08:03,730 --> 00:08:05,338
+esse processo se torne colaborativo.
+
+168
+00:08:05,350 --> 00:08:09,019
+E aí a ferramenta vem apoiar toda essa essa perspectiva
+
+169
+00:08:09,028 --> 00:08:12,500
+da colaboração e que eu acho assim, fundamental no
+
+170
+00:08:12,509 --> 00:08:15,389
+mundo eh eh moderno no mundo atual, dentro das
+
+171
+00:08:15,399 --> 00:08:17,660
+organizações, né? A gente não trabalha isolado,
+
+172
+00:08:17,670 --> 00:08:19,939
+então meu conhecimento ele tem que ser passado, eh,
+
+173
+00:08:19,949 --> 00:08:23,608
+tem que ser, eh passado pra outros e também
+
+174
+00:08:23,619 --> 00:08:27,369
+tem que ser adicionado com o conhecimento de outros e
+
+175
+00:08:27,379 --> 00:08:30,689
+a gente forma um conhecimento, uma plataforma eh muito
+
+176
+00:08:30,699 --> 00:08:34,489
+mais integrada, muito mais vamos dizer assim, positiva,
+
+177
+00:08:34,500 --> 00:08:37,408
+numa perspectiva de entrega, de agregação de valor,
+
+178
+00:08:37,418 --> 00:08:39,408
+né? A partir do momento que a gente complementa
+
+179
+00:08:39,418 --> 00:08:42,774
+as ideias, os raciocínios e os nossos conhecimentos,
+
+180
+00:08:42,783 --> 00:08:46,004
+gerando sempre um conhecimento maior, gerando sempre uma um
+
+181
+00:08:46,014 --> 00:08:49,514
+buscando sempre um resultado melhor pra uma organização, quer
+
+182
+00:08:49,524 --> 00:08:52,274
+seja a melhoria dum processo numa redução de O que
+
+183
+00:08:52,283 --> 00:08:55,234
+venha a reduzir custo, gerar novos produtos, agregar
+
+184
+00:08:55,244 --> 00:08:57,634
+valor, gerar valor, enfim, é o que
+
+185
+00:08:57,644 --> 00:08:58,413
+a gente se propõe.
+
+186
+00:08:58,423 --> 00:09:00,114
+Okay, obrigado.
+
+187
+00:09:00,125 --> 00:09:01,134
+Vamos pra próxima aula!
+

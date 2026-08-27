@@ -1,0 +1,764 @@
+1
+00:00:05,828 --> 00:00:08,978
+Olá, aluno seja muito bemvindo! Professor Fabrício Melo
+
+2
+00:00:08,989 --> 00:00:10,159
+Vamos dar sequência aí.
+
+3
+00:00:10,169 --> 00:00:13,710
+Agora a nossa matéria de conceitos básicos de segurança,
+
+4
+00:00:13,720 --> 00:00:16,859
+da informação é uma matéria aí que tem um peso
+
+5
+00:00:16,870 --> 00:00:19,399
+muito grande pra quem vai trabalhar na área de T
+
+6
+00:00:19,408 --> 00:00:21,638
+I e até mesmo pros usuários em geral.
+
+7
+00:00:21,649 --> 00:00:24,478
+Hoje se fala muito em segurança, né? Hoje
+
+8
+00:00:24,489 --> 00:00:27,059
+não tem uma empresa que vá ter pelo menos um
+
+9
+00:00:27,125 --> 00:00:30,736
+sistema conectado a internet conectado a uma rede que não
+
+10
+00:00:30,745 --> 00:00:32,994
+vai se falar em segurança da informação.
+
+11
+00:00:33,006 --> 00:00:36,115
+Okay Então é uma preocupação já geral.
+
+12
+00:00:36,125 --> 00:00:37,854
+Ah, mas e o usuário? Não, sim,
+
+13
+00:00:37,865 --> 00:00:38,854
+o usuário também.
+
+14
+00:00:38,865 --> 00:00:42,215
+Nós, usuários e computadores domésticos também? Temos que
+
+15
+00:00:42,225 --> 00:00:44,475
+nos preocupar muito com a segurança.
+
+16
+00:00:44,485 --> 00:00:47,256
+Por quê? Porque hoje praticamente todos os nossos dados
+
+17
+00:00:47,265 --> 00:00:48,354
+estão em nosso.
+
+18
+00:00:48,421 --> 00:00:51,631
+A nossa vida está nos dispositivos.
+
+19
+00:00:51,640 --> 00:00:53,000
+Pega, por exemplo, seu smartphone.
+
+20
+00:00:53,012 --> 00:00:56,241
+Provavelmente, você tem sua carteira de motorista, Tá
+
+21
+00:00:56,250 --> 00:00:57,991
+aí o documento do seu carro? Tá aí,
+
+22
+00:00:58,000 --> 00:01:01,351
+Seus cartões de crédito estão todos aí, não é
+
+23
+00:01:01,360 --> 00:01:02,411
+assim que funciona.
+
+24
+00:01:02,421 --> 00:01:04,311
+Perdeu alguém invadiu.
+
+25
+00:01:04,320 --> 00:01:05,721
+E aí, como é que fica? Então?
+
+26
+00:01:05,731 --> 00:01:08,871
+A gente tem que tá sempre preocupando com esse tema,
+
+27
+00:01:08,882 --> 00:01:12,388
+o tema segurança da informação tá O que que a
+
+28
+00:01:12,400 --> 00:01:15,769
+gente vai tratar desse tema sobre segurança da informação.
+
+29
+00:01:15,778 --> 00:01:19,719
+Primeiramente vamos entender que a segurança da informação existe,
+
+30
+00:01:19,730 --> 00:01:23,588
+o ativo de informação pra ser protegido.
+
+31
+00:01:23,599 --> 00:01:26,088
+Isso é definido pela norma ISO vinte e sete zero
+
+32
+00:01:26,099 --> 00:01:28,109
+zero um, né? Que é o que define
+
+33
+00:01:28,120 --> 00:01:31,469
+essas normas aí de segurança, normas técnicas e a
+
+34
+00:01:31,480 --> 00:01:35,281
+ISO afirma o quê? A é qualquer coisa que
+
+35
+00:01:35,292 --> 00:01:36,932
+tenha valor para a organização.
+
+36
+00:01:36,942 --> 00:01:39,542
+Então, a partir do momento que eu tenho algum
+
+37
+00:01:39,552 --> 00:01:43,641
+produto ou algum sistema que tenha valor, se torna
+
+38
+00:01:43,652 --> 00:01:48,343
+um ativo da minha organização, lá tudo manipula transporte
+
+39
+00:01:48,352 --> 00:01:52,483
+e armazena a informação, inclusive ela própria, né?
+
+40
+00:01:52,492 --> 00:01:55,162
+Ou seja, as informações é um ativo aí valioso.
+
+41
+00:01:55,171 --> 00:01:58,816
+Imagina uma empresa que tem um banco de dados de
+
+42
+00:01:58,825 --> 00:02:04,096
+clientes aí gigantesco é um ativo aí, praticamenteàs
+
+43
+00:02:04,105 --> 00:02:06,055
+vezes sem até valor, né? Não tem nem
+
+44
+00:02:06,066 --> 00:02:08,216
+como valorar um ativo desse aí.
+
+45
+00:02:08,224 --> 00:02:11,376
+Então isso é definido aí pela ISO okay e temos
+
+46
+00:02:11,385 --> 00:02:12,615
+também o quê? Oh logo.
+
+47
+00:02:12,626 --> 00:02:15,895
+Olha só que interessante um cabo de rede, um
+
+48
+00:02:15,906 --> 00:02:18,455
+servidor de banco de dados, um roteador, um
+
+49
+00:02:18,466 --> 00:02:21,740
+usuário além, como diz a própria informação, pode
+
+50
+00:02:21,750 --> 00:02:23,580
+ser classificado como um ativo de informação.
+
+51
+00:02:23,588 --> 00:02:27,939
+Então tudo aquilo que a gente consegue valorar dentro de
+
+52
+00:02:27,949 --> 00:02:32,500
+uma organização vai ser aluno considerado sim, um ativo
+
+53
+00:02:32,508 --> 00:02:35,199
+aí da empresa, né? Um ativo aí da
+
+54
+00:02:35,210 --> 00:02:38,979
+organização, com toda a certeza do mundo perfeito.
+
+55
+00:02:38,990 --> 00:02:42,179
+E aí nós temos o quê? Os pilares que
+
+56
+00:02:42,189 --> 00:02:46,319
+vão definir tá vão nortear a segurança da informação.
+
+57
+00:02:46,610 --> 00:02:50,099
+Quando você vai implementar um parque tecnológico na sua empresa,
+
+58
+00:02:50,110 --> 00:02:53,740
+um parque tecnológico, ali na sua organização, você
+
+59
+00:02:53,750 --> 00:02:56,439
+tem que ter atingir um objetivo.
+
+60
+00:02:56,449 --> 00:03:00,118
+Qual é esse objetivo? O objetivo da confiabilidade.
+
+61
+00:03:00,129 --> 00:03:02,979
+O meu sistema, o meu parque tecnológico, tem
+
+62
+00:03:02,990 --> 00:03:07,659
+que oferecer um nível de confiabilidade aceitável pra pros funcionários
+
+63
+00:03:07,669 --> 00:03:09,319
+e também para os meus clientes.
+
+64
+00:03:09,330 --> 00:03:12,058
+Pra eu ter esse nível aceitável, aí vai entrar
+
+65
+00:03:12,069 --> 00:03:16,179
+em cena os os pilares, a segurança da informação.
+
+66
+00:03:16,189 --> 00:03:19,699
+É lá que você tem eles como confidencialidade, a
+
+67
+00:03:19,710 --> 00:03:23,000
+integridade, a disponibilidade e a autenticidade.
+
+68
+00:03:23,008 --> 00:03:27,020
+O que que seria confidencialidade é o pilar aluno que
+
+69
+00:03:27,028 --> 00:03:30,899
+visa a garantir que uma informação só pode ser acessada
+
+70
+00:03:30,909 --> 00:03:34,778
+por pessoas devidamente autorizadas, que pessoas não autorizadas não
+
+71
+00:03:34,788 --> 00:03:36,469
+podem ter acesso a uma informação.
+
+72
+00:03:36,479 --> 00:03:38,659
+Então, por exemplo, se eu mandei pra você
+
+73
+00:03:38,669 --> 00:03:42,679
+uma informação e eu consegui comprovar, ninguém viu que
+
+74
+00:03:42,689 --> 00:03:44,618
+ninguém leu essa informação.
+
+75
+00:03:44,629 --> 00:03:47,399
+Eu posso afirmar que essa informação é o que ela
+
+76
+00:03:47,409 --> 00:03:49,080
+é confidencial.
+
+77
+00:03:49,088 --> 00:03:54,379
+Eu consegui garantir um nível de confidencialidade aceitável com essa
+
+78
+00:03:54,389 --> 00:03:55,788
+informação perfeito.
+
+79
+00:03:55,800 --> 00:03:58,800
+Depois nós temos o pilar da integridade que é garantir
+
+80
+00:03:58,808 --> 00:04:01,979
+o quê? Que uma informação não seja alterada durante
+
+81
+00:04:01,990 --> 00:04:02,860
+o seu trânsito.
+
+82
+00:04:02,868 --> 00:04:06,679
+Que as pessoas não consigam mexer, alterar uma informação.
+
+83
+00:04:06,689 --> 00:04:08,879
+Então, se eu te mandei uma informação e ela
+
+84
+00:04:08,889 --> 00:04:12,058
+chegou da mesma maneira que saiu, eu posso afirmar
+
+85
+00:04:12,069 --> 00:04:15,860
+que essa informação que ela é íntegra eu consegui garantir
+
+86
+00:04:15,868 --> 00:04:17,399
+a integridade dessa informação.
+
+87
+00:04:17,410 --> 00:04:23,139
+Cuidado pra não confundir confidencialidade que é o acesso com
+
+88
+00:04:23,149 --> 00:04:25,178
+integridade, que é alteração.
+
+89
+00:04:25,189 --> 00:04:27,100
+São pilares distintos.
+
+90
+00:04:27,108 --> 00:04:28,939
+Nem tudo que eu acesso eu altero.
+
+91
+00:04:28,949 --> 00:04:31,379
+Nem tudo que eu altero Eu acesso, tá,
+
+92
+00:04:31,389 --> 00:04:34,350
+toma cuidado com isso aí depois temos o pilar da
+
+93
+00:04:34,358 --> 00:04:37,798
+disponibilidade, que é o pilar que vai garantir que
+
+94
+00:04:37,809 --> 00:04:40,699
+a informação deve estar sempre disponível.
+
+95
+00:04:40,709 --> 00:04:43,298
+Obviamente, pras pessoas de direito, não é isso.
+
+96
+00:04:43,309 --> 00:04:44,480
+Ou seja, eu tenho um sistema.
+
+97
+00:04:44,488 --> 00:04:47,040
+Se aquele sistema fica saindo do ar, fica caindo
+
+98
+00:04:47,048 --> 00:04:51,000
+a todo momento eu não consigo Ali Acessá-lo está pecando.
+
+99
+00:04:51,009 --> 00:04:53,119
+Aí, cê está quebrando um pilar da segurança,
+
+100
+00:04:53,129 --> 00:04:54,278
+que é a disponibilidade.
+
+101
+00:04:54,290 --> 00:04:57,569
+Então a disponibilidade precisa garantir isso aí para mim.
+
+102
+00:04:57,579 --> 00:04:59,920
+Oh toda vez que eu precisar, tá o sistema
+
+103
+00:04:59,928 --> 00:05:03,079
+lá, Então vídeo aí caixas eletrônicos de banco não
+
+104
+00:05:03,088 --> 00:05:05,230
+faz sentido você toda hora que você vai ao seu
+
+105
+00:05:05,238 --> 00:05:07,838
+banco, o caixa eletrônico tá fora do ar,
+
+106
+00:05:07,850 --> 00:05:09,600
+não é isso, é um princípio da disponibilidade.
+
+107
+00:05:09,608 --> 00:05:12,959
+Mas obviamente, a disponibilidade tem que tá pra quem?
+
+108
+00:05:12,970 --> 00:05:14,678
+Pras pessoas de direito, ou seja, os clientes
+
+109
+00:05:14,689 --> 00:05:17,119
+do banco, por exemplo, tá bom e depois
+
+110
+00:05:17,129 --> 00:05:20,519
+temos o princípio da autenticidade, que nada mais é
+
+111
+00:05:20,528 --> 00:05:23,579
+que garantir a origem da informação.
+
+112
+00:05:23,588 --> 00:05:26,420
+Ou seja, eu te mando uma informação e eu
+
+113
+00:05:26,428 --> 00:05:29,838
+consigo garantir pra você que fui eu que mandei.
+
+114
+00:05:29,850 --> 00:05:32,379
+Ou seja eu sou o Fabrício, eu te dou
+
+115
+00:05:32,389 --> 00:05:33,170
+essa garantia.
+
+116
+00:05:33,178 --> 00:05:35,879
+Se eu consigo te dar essa garantia, significa que
+
+117
+00:05:35,889 --> 00:05:39,278
+eu garanti a você uma autenticidade.
+
+118
+00:05:39,290 --> 00:05:42,379
+E, obviamente, a autenticidade vai nos dar o
+
+119
+00:05:42,389 --> 00:05:44,798
+não repúdio que que é o não repúdio, eu
+
+120
+00:05:44,809 --> 00:05:46,000
+não poder negar.
+
+121
+00:05:46,009 --> 00:05:49,040
+Porque se eu já consegui garantir a minha autenticidade eu
+
+122
+00:05:49,048 --> 00:05:52,019
+te mandei uma informação e provei que fui eu,
+
+123
+00:05:52,028 --> 00:05:54,588
+como é que depois eu vou negar? A gente
+
+124
+00:05:54,600 --> 00:05:57,028
+também chama isso aí de retrata, né? O
+
+125
+00:05:57,040 --> 00:06:00,449
+ato de você não poder negar O que você fez?
+
+126
+00:06:00,459 --> 00:06:03,369
+Okay, então? Oh, eu sou Fabrício.
+
+127
+00:06:03,379 --> 00:06:04,850
+Depois eu viro e falo não, Eu não sou
+
+128
+00:06:04,858 --> 00:06:05,389
+o Fabrício calma.
+
+129
+00:06:05,399 --> 00:06:07,689
+Aí, se eu já provei que fui eu.
+
+130
+00:06:07,699 --> 00:06:09,920
+Obviamente, eu não posso negar, Então a autenticidade
+
+131
+00:06:09,928 --> 00:06:12,009
+vai dessa garantia da origem.
+
+132
+00:06:12,019 --> 00:06:13,769
+Quem, por exemplo, enviou a informação e,
+
+133
+00:06:13,778 --> 00:06:17,629
+obviamente gerando aí o não repúdio, tranquilidade, e
+
+134
+00:06:17,639 --> 00:06:19,329
+aí oh um desafio.
+
+135
+00:06:19,338 --> 00:06:22,048
+Aquela questão é um desafio que a gente sempre traz
+
+136
+00:06:22,059 --> 00:06:25,869
+aqui na nossa aula, né? Olha lá o
+
+137
+00:06:25,879 --> 00:06:29,588
+processo de proteção da informação, das ameaças? Caracteriza-se
+
+138
+00:06:29,600 --> 00:06:31,129
+como segurança a informação.
+
+139
+00:06:31,139 --> 00:06:34,088
+O resultado de uma gestão de segurança? Informação adequada
+
+140
+00:06:34,100 --> 00:06:38,309
+deve oferecer suporte a cinco aspectos principais.
+
+141
+00:06:38,319 --> 00:06:42,108
+Aí, olha só que interessante, oh somente as
+
+142
+00:06:42,119 --> 00:06:46,470
+pessoas autorizadas terão acessoàs informações.
+
+143
+00:06:47,149 --> 00:06:48,278
+Olha a palavra chave.
+
+144
+00:06:48,290 --> 00:06:52,678
+As informações serão confiada confiáveis, Exatas, pessoas não
+
+145
+00:06:52,689 --> 00:06:55,759
+autorizadas não podem alterar os dados.
+
+146
+00:06:55,769 --> 00:06:59,040
+Tá vendo aí três Garante o acessoàs informações sempre
+
+147
+00:06:59,048 --> 00:07:03,519
+que for necessário por pessoas necessárias garantir o acessoàs
+
+148
+00:07:03,528 --> 00:07:04,298
+informações.
+
+149
+00:07:05,100 --> 00:07:07,988
+Quatro Garante que um processo de comunicação os emitentes,
+
+150
+00:07:08,000 --> 00:07:11,230
+não se passem por terceiros e que a mensagem sofra
+
+151
+00:07:11,238 --> 00:07:14,850
+alterações durante o dia não se passem por terceiros.
+
+152
+00:07:15,528 --> 00:07:18,920
+Tem que ser o quê autêntico já matou e né?
+
+153
+00:07:18,928 --> 00:07:21,420
+E cinco garante que as informações foram produzidas respeitando a
+
+154
+00:07:21,428 --> 00:07:22,209
+legislação vigente.
+
+155
+00:07:22,220 --> 00:07:23,559
+O que que é isso aqui? Aluno isso que
+
+156
+00:07:23,569 --> 00:07:24,119
+já entra.
+
+157
+00:07:24,129 --> 00:07:26,920
+Mas na parte de legislação, aquela parte que a
+
+158
+00:07:26,928 --> 00:07:30,519
+gente fala ali respeitar l GP d respeitar o marco
+
+159
+00:07:30,528 --> 00:07:31,358
+civil da internet.
+
+160
+00:07:31,369 --> 00:07:33,720
+Ou seja, é a ideia que as empresas quando
+
+161
+00:07:33,730 --> 00:07:35,540
+vem pro Brasil se instalam no Brasil.
+
+162
+00:07:35,548 --> 00:07:36,778
+Tem que seguir normas.
+
+163
+00:07:36,790 --> 00:07:38,569
+Tem que seguir a legislação vigente.
+
+164
+00:07:38,579 --> 00:07:41,619
+Tá, então quando a gente vai as alternativas oh
+
+165
+00:07:42,358 --> 00:07:46,108
+só de matar a primeira saber que a primeira confidencialidade
+
+166
+00:07:46,119 --> 00:07:48,129
+cê já mata com a letra e né? Porque
+
+167
+00:07:48,139 --> 00:07:51,329
+o outro é integridade, Falou da disponibilidade, falou
+
+168
+00:07:51,338 --> 00:07:54,369
+da autenticidade e falou da legalidade.
+
+169
+00:07:54,379 --> 00:07:56,420
+Aquele último tema, a gente não citou, mas
+
+170
+00:07:56,428 --> 00:07:59,238
+a legalidade também entrou aqui na questão.
+
+171
+00:07:59,250 --> 00:08:01,009
+É bom que você adquiriu esse conhecimento.
+
+172
+00:08:01,019 --> 00:08:02,769
+Aí tá bom, mais uma olha.
+
+173
+00:08:02,778 --> 00:08:06,869
+Só considere que uma pessoa detentora de um segredo um
+
+174
+00:08:07,178 --> 00:08:11,189
+garante que ela está conforme seu conteúdo original, oh
+
+175
+00:08:11,199 --> 00:08:12,509
+estabelecido.
+
+176
+00:08:12,519 --> 00:08:14,350
+E assim se manterá enquanto existir.
+
+177
+00:08:14,358 --> 00:08:19,358
+Se o conteúdo é original, aluno cê já tá
+
+178
+00:08:19,369 --> 00:08:22,399
+matando aqui comigo, não tá dois, garante a
+
+179
+00:08:22,410 --> 00:08:26,420
+um grupo de pessoas que elas podem acessá-lo sempre que
+
+180
+00:08:26,428 --> 00:08:28,420
+quiseram, deixa autorizadas por ela.
+
+181
+00:08:28,428 --> 00:08:32,798
+Oh, se as pessoas podem acessar sempre que quiserem,
+
+182
+00:08:32,808 --> 00:08:37,928
+Quer dizer que o sistema está o quê disponível é
+
+183
+00:08:37,940 --> 00:08:40,788
+isso e autoriza somente um grupo de pessoas.
+
+184
+00:08:40,798 --> 00:08:44,308
+O quê? Acessá-lo só pessoas autorizadas.
+
+185
+00:08:44,320 --> 00:08:48,590
+Então a gente tem o que aí das alternativas Nós
+
+186
+00:08:48,599 --> 00:08:54,989
+temos a integridade, temos a disponibilidade e temos a
+
+187
+00:08:55,000 --> 00:08:58,950
+perfeito só pra dar um reforço pra você entender como
+
+188
+00:08:58,960 --> 00:09:02,849
+que esses princípios da segurança, da informação são aí,
+
+189
+00:09:02,859 --> 00:09:05,109
+eh, eh elencados no dia-a-dia, aí, da
+
+190
+00:09:05,119 --> 00:09:08,869
+parte de segurança da informação fechado comigo! Abraço até
+
+191
+00:09:08,879 --> 00:09:09,168
+logo!
+

@@ -1,0 +1,932 @@
+1
+00:00:06,750 --> 00:00:08,478
+Olá, eu sou o professor Danis Cop e a
+
+2
+00:00:08,489 --> 00:00:10,960
+gente vai falar um pouco sobre rotinas de teste de
+
+3
+00:00:10,970 --> 00:00:13,630
+CK, né? Eh, em geral, você
+
+4
+00:00:13,640 --> 00:00:17,958
+tem ferramentas pra testar sobre diversas ferramentas e tem testes
+
+5
+00:00:17,969 --> 00:00:18,958
+de diferentes níveis.
+
+6
+00:00:18,969 --> 00:00:21,158
+O que a gente vai analisar são as ferramentas de
+
+7
+00:00:21,170 --> 00:00:23,638
+teste que vão ao nível do código e também as
+
+8
+00:00:23,649 --> 00:00:27,839
+ferramentas de teste que envolvem a utilização das chamadas de
+
+9
+00:00:27,850 --> 00:00:31,399
+forma externa, como insônia, postman e o Boomerang,
+
+10
+00:00:31,408 --> 00:00:32,939
+né? Vamos ver como funciona.
+
+11
+00:00:34,789 --> 00:00:40,079
+Bom rotina de testes, de que tá os tipos
+
+12
+00:00:40,090 --> 00:00:41,598
+de teste que eu tenho normalmente.
+
+13
+00:00:41,609 --> 00:00:46,639
+São testes unitários, testes de integração e testes.
+
+14
+00:00:46,649 --> 00:00:49,560
+Ponta a ponta, né? Isso aí fazem parte
+
+15
+00:00:49,569 --> 00:00:55,039
+do ciclo de vida naquela rotina de eh entrega e
+
+16
+00:00:55,048 --> 00:00:58,679
+implementação, né? A C DC i quando você
+
+17
+00:00:58,689 --> 00:01:01,439
+tem? Ah, assim, a rotina de teste
+
+18
+00:01:01,450 --> 00:01:03,880
+bem organizada você consegue.
+
+19
+00:01:03,889 --> 00:01:08,879
+Eh verificar o funcionamento daquele sistema antes de colocar implementado
+
+20
+00:01:08,888 --> 00:01:10,819
+antes de colocar ele em produção, até mesmo na
+
+21
+00:01:10,829 --> 00:01:11,638
+fase de teste.
+
+22
+00:01:11,650 --> 00:01:16,120
+Tá, eh, em geral, tem várias formas.
+
+23
+00:01:16,129 --> 00:01:18,379
+Eh assim de organizações de desenvolvimento.
+
+24
+00:01:18,388 --> 00:01:21,569
+Hoje em dia, que trabalham com testes, vamos
+
+25
+00:01:21,579 --> 00:01:24,120
+dizer assim as metodologias ágeis o CEO x p.
+
+26
+00:01:24,129 --> 00:01:25,049
+O.
+
+27
+00:01:25,058 --> 00:01:25,448
+Chron.
+
+28
+00:01:25,459 --> 00:01:30,329
+Ele só aceita um determinado incremento um produto? Né?
+
+29
+00:01:30,338 --> 00:01:33,650
+Porque na verdade, eles trabalham com entrega de funcionalidade.
+
+30
+00:01:33,659 --> 00:01:35,349
+Ele só aceita aquela funcionalidade.
+
+31
+00:01:36,028 --> 00:01:38,278
+Eh relacionado a uma história de usuário.
+
+32
+00:01:38,290 --> 00:01:41,838
+É quando você tem o teste completo, né?
+
+33
+00:01:41,849 --> 00:01:45,918
+O x P que é ele vai mais a fundo.
+
+34
+00:01:45,930 --> 00:01:49,558
+Ele desenvolve os testes antes de desenvolver o código,
+
+35
+00:01:49,569 --> 00:01:51,519
+né? Ou seja, você só aceita o código
+
+36
+00:01:51,528 --> 00:01:53,079
+e se passar pelos testes, os testes já estão
+
+37
+00:01:53,088 --> 00:01:56,519
+prontos antes? Tá, então os testes unitários são
+
+38
+00:01:56,528 --> 00:01:58,198
+os mais simples.
+
+39
+00:01:58,209 --> 00:02:00,980
+São os testes que vão em termos de código.
+
+40
+00:02:01,230 --> 00:02:02,799
+Tá chamado de testes unitários.
+
+41
+00:02:02,808 --> 00:02:04,879
+Tem suíte de testes unitários? Eh, eu posso
+
+42
+00:02:04,888 --> 00:02:07,760
+usar no caso do Java, o J unit,
+
+43
+00:02:07,769 --> 00:02:10,240
+né? Muito conhecido E aqui a gente usa um
+
+44
+00:02:10,250 --> 00:02:11,599
+cara chamado St.
+
+45
+00:02:11,610 --> 00:02:14,879
+Tá? Ah, eu, depois dos testes sanitários
+
+46
+00:02:14,889 --> 00:02:17,558
+eu tenho teste de integração, que são testes,
+
+47
+00:02:17,569 --> 00:02:19,819
+pra saber se esse cara consegue se integrar com outras
+
+48
+00:02:19,830 --> 00:02:23,000
+ferramentas, né? Ou com banco de dados ou
+
+49
+00:02:23,008 --> 00:02:24,038
+com outra coisa qualquer.
+
+50
+00:02:24,050 --> 00:02:25,050
+E esse é um teste.
+
+51
+00:02:25,058 --> 00:02:27,929
+Assim, tá funcionando a integração com outros sistemas E,
+
+52
+00:02:27,939 --> 00:02:29,719
+por fim, o teste ponta a ponta, que
+
+53
+00:02:29,729 --> 00:02:33,270
+é você colocar um usuário acessando um, e ele
+
+54
+00:02:33,278 --> 00:02:35,719
+é inserindo dados lá na sua base, né?
+
+55
+00:02:35,729 --> 00:02:38,699
+Passando por todos os caminhos de integração até chegar lá,
+
+56
+00:02:38,710 --> 00:02:40,479
+né? Então, assim são os vários tipos de
+
+57
+00:02:40,490 --> 00:02:41,278
+teste que a gente tem.
+
+58
+00:02:41,288 --> 00:02:44,460
+As rotinas de teste em diferentes níveis, né?
+
+59
+00:02:45,038 --> 00:02:46,929
+Eh Quando a gente vai fazer um teste unitário a
+
+60
+00:02:46,939 --> 00:02:49,149
+gente tem que usar o Just e o super teste
+
+61
+00:02:49,919 --> 00:02:55,550
+você tem que instalar, né, EH né?
+
+62
+00:02:55,558 --> 00:02:57,949
+E também Down está no super teste! Tá?
+
+63
+00:02:57,960 --> 00:03:06,278
+Ah, aqui eu tenho não aplicativo com módulo de
+
+64
+00:03:06,288 --> 00:03:06,819
+teste.
+
+65
+00:03:07,409 --> 00:03:15,349
+Se observar aqui o peca de Jason dele Dependências just
+
+66
+00:03:16,669 --> 00:03:21,679
+dependências, sequela, dependência super teste Esse aplicativo aqui
+
+67
+00:03:21,689 --> 00:03:24,118
+é um web.
+
+68
+00:03:24,129 --> 00:03:24,838
+É um, né.
+
+69
+00:03:24,849 --> 00:03:28,000
+Tá usando o express Tá usando o par.
+
+70
+00:03:28,008 --> 00:03:30,429
+Tá usando o m k dois.
+
+71
+00:03:30,439 --> 00:03:33,000
+Ou seja, isso aí tudo tem a ver com
+
+72
+00:03:33,008 --> 00:03:35,699
+o servidor em si, né? Tô fazendo um
+
+73
+00:03:35,710 --> 00:03:39,058
+servidor E já o Just! O Super Teste tem
+
+74
+00:03:39,069 --> 00:03:41,038
+a ver com as rotinas de teste.
+
+75
+00:03:41,050 --> 00:03:43,778
+Tá, então ele tá eh executando o St,
+
+76
+00:03:44,250 --> 00:03:46,460
+né? E tá usando também o super teste?
+
+77
+00:03:46,469 --> 00:03:48,219
+São duas caras! O Just é teste unitário!
+
+78
+00:03:48,229 --> 00:03:51,139
+O super teste ele permite testar servidores.
+
+79
+00:03:51,149 --> 00:03:53,610
+Tá? Eh os dois! Tem que usar a
+
+80
+00:03:53,618 --> 00:03:57,159
+n PM tal e no script teste eu tô usando
+
+81
+00:03:57,169 --> 00:04:00,240
+o gene just Isso aqui tem que tá dessa forma.
+
+82
+00:04:00,250 --> 00:04:03,778
+O Jason pra que essa coisa funcione, né?
+
+83
+00:04:03,788 --> 00:04:07,360
+Bom feito isso, né? Alterou o Pax,
+
+84
+00:04:07,368 --> 00:04:11,058
+Jason tem que colocar o teste just, eh,
+
+85
+00:04:11,069 --> 00:04:14,258
+eu posso executar esses testes com n PM teste que
+
+86
+00:04:14,270 --> 00:04:17,500
+que ele vai fazer, né? Quando você faz
+
+87
+00:04:17,509 --> 00:04:21,420
+isso eh usando just, ele vai verificar todos os
+
+88
+00:04:21,428 --> 00:04:27,178
+arquivos que tem extensão ponto teste ponto JS, né?
+
+89
+00:04:27,189 --> 00:04:30,420
+E aí ele vai executar os testes que estão nesses
+
+90
+00:04:30,428 --> 00:04:33,420
+arquivos? Tá? Então eh sempre que você for
+
+91
+00:04:33,428 --> 00:04:34,298
+usar um.
+
+92
+00:04:34,309 --> 00:04:36,420
+Uma rotina de teste com js vai ser a extensão
+
+93
+00:04:36,428 --> 00:04:39,420
+ponto teste ponto JS, né? Aqui eu tenho
+
+94
+00:04:39,428 --> 00:04:41,980
+um exemplo de um teste unitário simples, né?
+
+95
+00:04:41,988 --> 00:04:45,579
+Tem uma function poderia ser também um function a mais
+
+96
+00:04:45,588 --> 00:04:47,910
+B, né, Vai receber os valores de A
+
+97
+00:04:47,920 --> 00:04:50,858
+e b e retornar a soma de A e B
+
+98
+00:04:50,869 --> 00:04:55,559
+né TESTES ads um mais dois igual a três E
+
+99
+00:04:55,569 --> 00:04:57,488
+aí eu tenho aqui o seguinte Oh esse aqui é
+
+100
+00:04:57,500 --> 00:05:00,988
+o título do teste e essa aqui seria o a
+
+101
+00:05:01,000 --> 00:05:04,769
+função que eu vou testar s um vírgula dois Subi
+
+102
+00:05:04,778 --> 00:05:05,088
+três.
+
+103
+00:05:05,100 --> 00:05:10,079
+Seria o seguinte Executa sn um vírgula dois tá e
+
+104
+00:05:10,088 --> 00:05:13,879
+verifica se é igual a três não é um teste
+
+105
+00:05:13,889 --> 00:05:14,639
+bem simples.
+
+106
+00:05:14,649 --> 00:05:16,639
+né? Eu vou fazer o seguinte vou pegar aqui
+
+107
+00:05:16,649 --> 00:05:21,459
+Oh nesse caso eu tenho uma dependência no outro teste
+
+108
+00:05:21,470 --> 00:05:22,439
+que eu faço.
+
+109
+00:05:23,689 --> 00:05:34,899
+Então eu vou renomear esse cara por enquanto tape só
+
+110
+00:05:34,910 --> 00:05:36,259
+pra ele não executar no teste.
+
+111
+00:05:38,389 --> 00:05:41,298
+E aí eu vou usar? Eh? Vou executar
+
+112
+00:05:41,949 --> 00:05:45,278
+o meu teste Tá como é que você executa o
+
+113
+00:05:45,290 --> 00:05:51,278
+teste executando n PM teste, né? Na verdade,
+
+114
+00:05:51,290 --> 00:05:54,238
+se você tiver qualquer script no seu jason que é
+
+115
+00:05:54,250 --> 00:05:59,000
+essa parte aqui, qualquer script nomeado aqui você pode
+
+116
+00:05:59,009 --> 00:06:01,178
+chamar com a n PM tá, então eu posso
+
+117
+00:06:01,189 --> 00:06:05,588
+pegar aqui e escrever n PM teste que na básico
+
+118
+00:06:05,600 --> 00:06:09,959
+eh basicamente vai usar n PM just tá, se
+
+119
+00:06:09,970 --> 00:06:15,778
+você observar vai pra c n p just não tá
+
+120
+00:06:15,790 --> 00:06:20,889
+executando o teste oh! Exemplo zero um teste ponto
+
+121
+00:06:20,899 --> 00:06:24,528
+JS passou no teste, claro, né? Se
+
+122
+00:06:24,540 --> 00:06:26,488
+eu quisesse criar um resultado falso eu vou colocar aqui
+
+123
+00:06:26,500 --> 00:06:29,819
+cinco e fizesse a mesma coisa.
+
+124
+00:06:31,730 --> 00:06:37,678
+Ele vai testar e vai dar falha e ele mostra
+
+125
+00:06:37,689 --> 00:06:40,119
+pra você o momento em que ele falhou.
+
+126
+00:06:40,129 --> 00:06:42,798
+Tá então isso aí são chamados de testes unitários.
+
+127
+00:06:42,809 --> 00:06:44,579
+É claro que aqui eu espero que seja três,
+
+128
+00:06:44,588 --> 00:06:47,040
+mas é aqui é só um exemplo, usando uma
+
+129
+00:06:47,048 --> 00:06:50,298
+soma pra descrever uma assim, um ambiente muito mais
+
+130
+00:06:50,309 --> 00:06:53,199
+complexo, né? Se eu pegar esse cara e
+
+131
+00:06:53,209 --> 00:06:57,189
+e usar, eh uma rotina que consulte ao banco
+
+132
+00:06:57,199 --> 00:06:59,879
+de dados pra verificar se aquilo coincide com os dados
+
+133
+00:06:59,889 --> 00:07:00,660
+de outro site.
+
+134
+00:07:01,160 --> 00:07:03,670
+Posso ter uma rotina desse tipo e eu tenho vários
+
+135
+00:07:03,678 --> 00:07:05,928
+tipos de teste, né? Eu posso colocar,
+
+136
+00:07:05,939 --> 00:07:08,699
+ou note alguma coisa? Então você tem uma série
+
+137
+00:07:08,709 --> 00:07:11,290
+de testes, Por exemplo, se ele é verdadeiro
+
+138
+00:07:11,298 --> 00:07:12,970
+ou se é falso, ou se ele é um
+
+139
+00:07:12,980 --> 00:07:16,250
+número qualquer ou se ele não é nulo, né?
+
+140
+00:07:16,259 --> 00:07:19,850
+Ou se ele não é determinado valor, então você
+
+141
+00:07:19,858 --> 00:07:22,048
+tem vários testes que você pode fazer em cima.
+
+142
+00:07:22,059 --> 00:07:25,730
+Eh desse dessa função que você tiver usando ali,
+
+143
+00:07:25,738 --> 00:07:28,329
+inclusive o teste pode e executar vários passos.
+
+144
+00:07:28,338 --> 00:07:30,750
+Um Passo um teste não tem que ter só um.
+
+145
+00:07:31,139 --> 00:07:32,588
+Eu posso ter vários.
+
+146
+00:07:32,600 --> 00:07:35,670
+O que cê tem que ter é teste, né?
+
+147
+00:07:35,678 --> 00:07:40,920
+São os requisitos, Teste um título pro teste Tá
+
+148
+00:07:40,928 --> 00:07:46,329
+que ele coloca lá também! Eh depois o que
+
+149
+00:07:46,338 --> 00:07:48,629
+esse teste vai fazer como se fosse uma cabe na
+
+150
+00:07:48,639 --> 00:07:50,928
+verdade me se não é uma cabe, porque ele
+
+151
+00:07:50,939 --> 00:07:54,040
+executa de imediato? Tá? Eh! E aí
+
+152
+00:07:54,048 --> 00:07:56,439
+eu tenho os meus testes e cada arquivo que for
+
+153
+00:07:56,449 --> 00:07:58,838
+de testes, eu tenho que colocar ponto teste ponto
+
+154
+00:07:58,850 --> 00:08:02,500
+JS como extensão E aí eu vou renomear de volta
+
+155
+00:08:02,509 --> 00:08:09,470
+Essa pronto agora voltou a ser de teste.
+
+156
+00:08:09,480 --> 00:08:12,389
+Uma coisa interessante que ele coloca numa outra cor,
+
+157
+00:08:12,399 --> 00:08:14,869
+né? Que o ícone, se você observar,
+
+158
+00:08:14,879 --> 00:08:16,449
+ele é um pouquinho mais escuro.
+
+159
+00:08:16,459 --> 00:08:20,269
+Todos os arquivos de teste são colocados num ícone próprio,
+
+160
+00:08:20,278 --> 00:08:24,088
+uma cor mais escura eh diferenciando dos componentes dos outros
+
+161
+00:08:24,100 --> 00:08:28,389
+componentes que eu tenho ali no meio ambiente tá bom,
+
+162
+00:08:28,399 --> 00:08:32,250
+eh E esse é um teste simples.
+
+163
+00:08:32,259 --> 00:08:33,849
+Eu não tô envolvendo um servidor.
+
+164
+00:08:33,859 --> 00:08:36,750
+Por exemplo, tem testes que são um pouco mais
+
+165
+00:08:36,759 --> 00:08:40,979
+complicados, né? Para você executar testes de servidores,
+
+166
+00:08:40,989 --> 00:08:42,759
+eu vou ter que dar a n PM Esta super
+
+167
+00:08:42,769 --> 00:08:44,798
+teste tá isso.
+
+168
+00:08:44,808 --> 00:08:46,619
+É um primeiro, uma primeira coisa que eu preciso
+
+169
+00:08:47,869 --> 00:08:51,500
+depois eu tenho mais alguns passos que, se esse
+
+170
+00:08:51,509 --> 00:08:53,168
+meu teste envolve a base de dados, ele vai
+
+171
+00:08:53,178 --> 00:08:56,599
+dar erro sempre, né? No momento, esse
+
+172
+00:08:56,609 --> 00:09:02,369
+cara aqui já tá com super teste instalado Não tá
+
+173
+00:09:02,379 --> 00:09:03,570
+com tudo certinho.
+
+174
+00:09:03,580 --> 00:09:06,009
+Só que esse meu teste aqui vai envolver, em
+
+175
+00:09:06,019 --> 00:09:08,408
+algum momento, um acesso ao banco de dados.
+
+176
+00:09:08,418 --> 00:09:10,928
+Ele vai dar erro, né? Olha só o
+
+177
+00:09:10,940 --> 00:09:15,029
+que vai acontecer! Vamos colocar n PM teste do
+
+178
+00:09:15,038 --> 00:09:23,570
+jeito que tá agora ele rodou o ainda Ah,
+
+179
+00:09:23,580 --> 00:09:29,269
+é, falhou, Tá um passou que foi aquele
+
+180
+00:09:29,279 --> 00:09:32,399
+da sono e um falhou? Por quê? Eh
+
+181
+00:09:32,408 --> 00:09:35,570
+nesse caso, aqui, inclusive porque eu acho que
+
+182
+00:09:35,580 --> 00:09:38,369
+ele não tá com o modulo esporte no servidor.
+
+183
+00:09:38,379 --> 00:09:49,668
+Deixa eu ver JS não tá aqui, tá uhum
+
+184
+00:09:54,460 --> 00:10:01,190
+que ele sozinho já ativa o servidor também, com
+
+185
+00:10:01,200 --> 00:10:03,759
+certeza bom eh.
+
+186
+00:10:03,769 --> 00:10:08,349
+Então assim eu preciso da minha base eh como é
+
+187
+00:10:08,359 --> 00:10:11,340
+que tem, o não de b console também não
+
+188
+00:10:12,599 --> 00:10:14,769
+eh! Eu preciso de uma base já gerada,
+
+189
+00:10:14,779 --> 00:10:16,379
+né? Eu tenho assim aquela base gerada.
+
+190
+00:10:16,389 --> 00:10:17,969
+E essa base não é a base, deve nem
+
+191
+00:10:17,979 --> 00:10:20,090
+a base de tion é a base teste.
+
+192
+00:10:20,099 --> 00:10:22,609
+Então o que eu vou fazer aqui agora é criar
+
+193
+00:10:22,619 --> 00:10:25,359
+a base de teste, né? Como eu não
+
+194
+00:10:25,369 --> 00:10:27,479
+quero nomes muito grandes, eu posso vir no fb
+
+195
+00:10:27,489 --> 00:10:30,158
+Jason alterar tá, ou posso deixar do jeito que
+
+196
+00:10:30,168 --> 00:10:32,500
+tá, Se tá com um teste tá bom,
+
+197
+00:10:33,989 --> 00:10:43,168
+deixa eu ver aqui Deixa eu ver teste a agenda
+
+198
+00:10:43,178 --> 00:10:52,759
+teste ser okay, Salvei ah salvei minimize sem necessidade.
+
+199
+00:10:52,769 --> 00:10:54,779
+Eh aí eu vou! Vim pra cá.
+
+200
+00:10:55,798 --> 00:11:03,298
+É o meu teste aqui e executar esses comandos d
+
+201
+00:11:03,308 --> 00:11:08,519
+B, né? então n p x seco e
+
+202
+00:11:08,529 --> 00:11:22,308
+laíse c d b Teste só o e se eu
+
+203
+00:11:22,320 --> 00:11:29,779
+não me engano é menos menos é pra criar aquele
+
+204
+00:11:29,788 --> 00:11:31,639
+banco de dados de teste, porque eu tenho um
+
+205
+00:11:31,649 --> 00:11:38,109
+banco de dados de de de teste sim hum ah!
+
+206
+00:11:38,119 --> 00:11:39,950
+Ele não tinha instalado se colas e cria ainda,
+
+207
+00:11:39,960 --> 00:11:43,288
+então ele tem que criar os bancos de quando é
+
+208
+00:11:43,298 --> 00:11:47,029
+pra desenvolvimento Teste pra testes e pra seria pra produção
+
+209
+00:11:47,038 --> 00:11:53,599
+Tá? Criou, foi e tem que migrar o
+
+210
+00:11:53,609 --> 00:11:57,859
+banco é o t B M gra e te dá
+
+211
+00:11:57,869 --> 00:11:58,918
+pra colocar até aqui.
+
+212
+00:12:00,519 --> 00:12:08,719
+Create vira migrate ele automaticamente ele vai usar o banco
+
+213
+00:12:08,729 --> 00:12:12,239
+de testes, né? Então agora eu posso repetir
+
+214
+00:12:12,250 --> 00:12:25,210
+o meu teste? Foi então os dois testes passaram
+
+215
+00:12:25,219 --> 00:12:26,908
+e como é que é esse segundo teste? Esse
+
+216
+00:12:26,918 --> 00:12:31,009
+segundo teste é o teste usando o eh a biblioteca
+
+217
+00:12:31,019 --> 00:12:34,788
+super teste tá esse request aqui é um request do
+
+218
+00:12:34,798 --> 00:12:36,489
+super teste, então não é requisição.
+
+219
+00:12:36,500 --> 00:12:39,570
+H T P padrão é a requisição em que você
+
+220
+00:12:39,580 --> 00:12:44,250
+tem a chamada pelo testador eu tenho o o T
+
+221
+00:12:44,259 --> 00:12:49,690
+faz o teste, né? Um a cinco C,
+
+222
+00:12:49,700 --> 00:12:54,469
+né? Então assim ele tá usando uma chamada esse
+
+223
+00:12:54,479 --> 00:12:58,359
+servidor por um request de teste tá E ele espera
+
+224
+00:12:58,369 --> 00:13:01,119
+que a resposta do status seja duzentos e o título
+
+225
+00:13:01,129 --> 00:13:04,219
+seja tarefa Teste Tá que é o que eu tô
+
+226
+00:13:04,229 --> 00:13:06,820
+fazendo lá quando eu trabalho com isso aqui.
+
+227
+00:13:07,469 --> 00:13:14,200
+Que bom! Então! Essas são as rotinas de
+
+228
+00:13:14,210 --> 00:13:16,038
+testes unitários, né? Se você vai usar um
+
+229
+00:13:16,048 --> 00:13:18,019
+servidor, você usa o Super Teste.
+
+230
+00:13:18,029 --> 00:13:19,639
+A Igreja vai encapsular o ST.
+
+231
+00:13:19,649 --> 00:13:21,719
+E por isso fica bem mais tranquilo de trabalhar.
+
+232
+00:13:21,729 --> 00:13:23,000
+A gente tem então nisso aí.
+
+233
+00:13:23,009 --> 00:13:25,500
+As rotinas básicas de testes unitários
+

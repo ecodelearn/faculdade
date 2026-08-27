@@ -1,0 +1,524 @@
+1
+00:00:06,578 --> 00:00:09,148
+Olá, vamos falar um pouquinho sobre o cliente para
+
+2
+00:00:09,159 --> 00:00:12,028
+exclusão e alteração via eixos, né? Com o
+
+3
+00:00:12,038 --> 00:00:15,849
+nosso servidor completo agora eu posso completar o cliente eh
+
+4
+00:00:15,859 --> 00:00:19,228
+que é baseado em eixos, fazendo as chamadas necessárias
+
+5
+00:00:19,239 --> 00:00:23,048
+em relação ao PT e ao que são, ah,
+
+6
+00:00:23,059 --> 00:00:27,408
+os métodos HD P relacionadosà alteração eà exclusão,
+
+7
+00:00:27,420 --> 00:00:31,658
+né? Bom, então vamos começar a dar uma
+
+8
+00:00:31,670 --> 00:00:32,539
+olhada nisso.
+
+9
+00:00:32,548 --> 00:00:34,319
+Claro que se eu vou usar o Axel eu vou
+
+10
+00:00:34,329 --> 00:00:36,719
+ter que ter um ci tal Axel, né?
+
+11
+00:00:36,728 --> 00:00:40,020
+E eu preciso de um objeto de base do Axel
+
+12
+00:00:40,029 --> 00:00:44,380
+seria? Eh o a p i né? Aqui
+
+13
+00:00:44,389 --> 00:00:46,259
+eu tô criando um objeto, né? Que eu
+
+14
+00:00:46,270 --> 00:00:50,520
+tô falando o seguinte crie um objeto exe olhando para
+
+15
+00:00:50,529 --> 00:00:53,459
+h t p local hot três mil assim aquela base
+
+16
+00:00:53,469 --> 00:00:55,408
+ele tá olhando pra lá, Ou seja, toda
+
+17
+00:00:55,418 --> 00:00:58,219
+a conexão vai ser em cima desse endereço de base.
+
+18
+00:00:58,228 --> 00:01:03,348
+E aí eu vou ter para o método update um
+
+19
+00:01:03,359 --> 00:01:07,888
+alterar assim que a de não ataque e defesa nota
+
+20
+00:01:07,900 --> 00:01:10,049
+que que eu tô colocando as quatro operações, né?
+
+21
+00:01:10,058 --> 00:01:13,430
+Os quatro atributos eh e aí o que eu vou
+
+22
+00:01:13,439 --> 00:01:16,290
+fazer? Eu vou chamar aquela rota terminada no i
+
+23
+00:01:16,299 --> 00:01:20,209
+D, então você ate a p i ponto put
+
+24
+00:01:20,219 --> 00:01:24,948
+né Método put personagens barra do de Lembrando que você
+
+25
+00:01:24,959 --> 00:01:25,909
+quer uma string dinâmica.
+
+26
+00:01:25,918 --> 00:01:27,308
+O que vai entrar aqui vai ser o número vai
+
+27
+00:01:27,319 --> 00:01:30,790
+ser personagens barra um personagens barra dois O que eu
+
+28
+00:01:30,799 --> 00:01:33,819
+colocar ali e a informação que eu quero vai tá
+
+29
+00:01:33,829 --> 00:01:35,260
+nome, ataque e defesa.
+
+30
+00:01:35,269 --> 00:01:38,500
+Ou seja, ele vai informar ali quais são aqueles
+
+31
+00:01:38,510 --> 00:01:40,930
+valores pro nome, pro ataque e pra defesa E
+
+32
+00:01:40,939 --> 00:01:42,698
+vai esperar o retorno.
+
+33
+00:01:42,709 --> 00:01:48,250
+Tá para o DET? Essa operação é um pouquinho
+
+34
+00:01:48,260 --> 00:01:50,969
+mais simples porque eu não vou passar essa informação aqui,
+
+35
+00:01:50,980 --> 00:01:55,040
+né? Sempre usando o axis aqui eu tenho a
+
+36
+00:01:55,049 --> 00:01:57,109
+p i de elite e só passo o endereço a
+
+37
+00:01:57,120 --> 00:01:59,870
+rr L, né? Então eu tenho aqui eh
+
+38
+00:01:59,879 --> 00:02:02,150
+o i d e aqui eu coloco o dólar a
+
+39
+00:02:02,159 --> 00:02:05,879
+I D pra poder colocar naquela rota o barra um
+
+40
+00:02:05,888 --> 00:02:09,490
+barra dois chamando esse endereço barra um barra dois EH
+
+41
+00:02:09,500 --> 00:02:13,929
+Através do elite, eu vou remover aquele personagem ao
+
+42
+00:02:13,939 --> 00:02:17,419
+invés de alterá-lo, né? Isso foi feito ao
+
+43
+00:02:17,429 --> 00:02:21,750
+nível do cliente, né? Então eu tenho aqui
+
+44
+00:02:21,758 --> 00:02:29,659
+oh o meu cliente com essas operações, né?
+
+45
+00:02:29,669 --> 00:02:32,419
+E put, né? Que seria um dos métodos
+
+46
+00:02:32,429 --> 00:02:36,679
+h t p relacionados tá fazendo simplesmente a chamada O
+
+47
+00:02:36,689 --> 00:02:41,758
+que é importante observar aqui é que você não tem
+
+48
+00:02:41,770 --> 00:02:43,778
+nenhuma noção que sequelas, tá por baixo? Tá
+
+49
+00:02:43,788 --> 00:02:45,199
+chamando um serviço.
+
+50
+00:02:45,210 --> 00:02:46,719
+Tá ao nível do cliente.
+
+51
+00:02:46,729 --> 00:02:48,679
+Ele não sabe o que tem pra ele é só
+
+52
+00:02:48,689 --> 00:02:50,919
+uma interface o que tá por trás que ele tá
+
+53
+00:02:50,929 --> 00:02:52,300
+usando sequelas, etc.
+
+54
+00:02:53,240 --> 00:02:55,770
+Simplesmente você não sabe por isso que é uma a
+
+55
+00:02:55,778 --> 00:02:58,879
+P! I tá, você só enxerga aquilo que
+
+56
+00:02:58,889 --> 00:03:00,118
+ela quer que você enxergue.
+
+57
+00:03:00,129 --> 00:03:02,558
+Você enxerga o Jason? Você não sabe que tem
+
+58
+00:03:02,569 --> 00:03:04,939
+o sequelas por baixo? Se esse aqui fossem dois
+
+59
+00:03:04,949 --> 00:03:08,159
+programadores, o segundo estaria usando apenas o web Service,
+
+60
+00:03:08,169 --> 00:03:11,080
+né? E estaria usando lá o Axis pra poder
+
+61
+00:03:11,088 --> 00:03:13,838
+acessar aquele cara né? Então, com isso eu
+
+62
+00:03:13,849 --> 00:03:18,439
+consegui dividir muito bem deixar bastante separado o cliente e
+
+63
+00:03:18,449 --> 00:03:21,038
+o servidor e a funcionalidade de cada um, né?
+
+64
+00:03:21,050 --> 00:03:24,778
+É claro que eu preciso adaptar também as chamadas,
+
+65
+00:03:25,639 --> 00:03:28,528
+né, Em termos de eh do menu, né?
+
+66
+00:03:28,538 --> 00:03:31,808
+Pra poder fazer lá, além da inclusão da listagem,
+
+67
+00:03:31,819 --> 00:03:34,969
+fazer operações, como fazer a alteração, né?
+
+68
+00:03:34,979 --> 00:03:37,679
+Olha como que tá fazendo a alteração aqui, Esse
+
+69
+00:03:37,689 --> 00:03:39,599
+ler aqui? Na verdade, tem capsula a leitura
+
+70
+00:03:39,610 --> 00:03:43,118
+do teclado, né? De forma ccna se a
+
+71
+00:03:43,129 --> 00:03:46,618
+opção for três seria uma opção lá de alteração,
+
+72
+00:03:46,629 --> 00:03:49,778
+né? A i d para alterar e pede o
+
+73
+00:03:49,788 --> 00:03:52,659
+i D aí eu vou buscar esse i d,
+
+74
+00:03:52,669 --> 00:03:55,538
+né? Eh, vou! Primeiro eu vou avaliar
+
+75
+00:03:55,550 --> 00:03:58,618
+esse i d vou colocar ele como inteiro vou obter
+
+76
+00:03:58,629 --> 00:04:00,460
+pelo i d ou você? Vou buscar esse cliente
+
+77
+00:04:00,469 --> 00:04:03,189
+pra esse i D lá no servidor e vou imprimir
+
+78
+00:04:03,199 --> 00:04:05,710
+os dados dele assim! Quais são os dados atuais,
+
+79
+00:04:05,719 --> 00:04:08,689
+né? Em seguida eu vou pegar e vou obter
+
+80
+00:04:08,699 --> 00:04:11,669
+os dados nome, ataque e defesa usando aquela função
+
+81
+00:04:11,679 --> 00:04:12,610
+de obter dados.
+
+82
+00:04:12,618 --> 00:04:16,910
+Quais são essas funções né? Aqui no meu cliente
+
+83
+00:04:18,278 --> 00:04:19,569
+eu tenho aqui a função.
+
+84
+00:04:19,579 --> 00:04:23,170
+Obter dados que vai pegar o nome e ataca a
+
+85
+00:04:23,178 --> 00:04:25,988
+defesa usando aquela ler onde o ler tá apenas e
+
+86
+00:04:26,000 --> 00:04:28,189
+capsula o meu redline.
+
+87
+00:04:28,970 --> 00:04:32,959
+Ah! Eh quando eu faço a opção três ele
+
+88
+00:04:32,970 --> 00:04:36,170
+vai ler o IDI pra alterar vai chamar lá do
+
+89
+00:04:36,178 --> 00:04:40,250
+servidor aquele aquele i d específico e aí vai imprimir
+
+90
+00:04:40,259 --> 00:04:43,329
+os valores atuais pra depois colocar novos valores e vai
+
+91
+00:04:43,338 --> 00:04:45,608
+chamar o alterar passando o I D nome, ataque
+
+92
+00:04:45,619 --> 00:04:48,209
+e defesa o excluir é mais simples, ele vai
+
+93
+00:04:48,220 --> 00:04:50,329
+só mandar chamar assim vai pedir qual é o I
+
+94
+00:04:50,338 --> 00:04:53,569
+D e vai chamar cliente excluir passando o Evaldo I
+
+95
+00:04:53,579 --> 00:04:55,850
+d stream tem que ser inteiro, então ele vai
+
+96
+00:04:55,858 --> 00:04:58,670
+fazer um eval ali, né? Só demonstra a
+
+97
+00:04:58,678 --> 00:05:03,899
+funcionalidade vendo se o servidor tá no ar primeiro eh,
+
+98
+00:05:03,910 --> 00:05:10,088
+ele está eh, eu posso agora roda esse cara
+
+99
+00:05:12,389 --> 00:05:16,139
+e se eu puder aqui eh listar Eu tenho aquele
+
+100
+00:05:16,149 --> 00:05:17,399
+ai d do mago ali.
+
+101
+00:05:17,410 --> 00:05:21,040
+Vamos dizer que eu queira eh incluir um segundo,
+
+102
+00:05:21,048 --> 00:05:27,019
+né nome? Sei lá, guerreiro, ataque,
+
+103
+00:05:27,028 --> 00:05:33,879
+oitocentos defesa, setecentos ali tem uns dois! Agora
+
+104
+00:05:34,829 --> 00:05:36,778
+vamos dizer que eu queira alterar o primeiro.
+
+105
+00:05:36,790 --> 00:05:40,569
+O que que eu vou fazer? Alterar aí de
+
+106
+00:05:40,579 --> 00:05:43,410
+um? Ele já mostrou os dados atuais, né.
+
+107
+00:05:43,420 --> 00:05:47,088
+Que é aquele A consulta eh pela entidade e eh
+
+108
+00:05:47,100 --> 00:05:50,040
+específica E agora vai dar o novo nome.
+
+109
+00:05:50,048 --> 00:05:55,040
+Vou colocar mago mesmo, eh ataque Novecentos e noventa
+
+110
+00:05:55,048 --> 00:06:01,059
+e nove defesa dois cem um Se eu listar agora
+
+111
+00:06:01,069 --> 00:06:02,338
+tá alterado.
+
+112
+00:06:02,350 --> 00:06:04,858
+Eu posso ver por aqui que ele foi alterado e
+
+113
+00:06:04,869 --> 00:06:08,100
+eu posso excluir, né? Posso usar a opção
+
+114
+00:06:08,108 --> 00:06:10,899
+quatro e eu vou excluir o i d dois.
+
+115
+00:06:10,910 --> 00:06:12,699
+Quando eu listar de novo, não existe mais o
+
+116
+00:06:12,709 --> 00:06:13,379
+guerreiro.
+
+117
+00:06:13,389 --> 00:06:16,939
+Ou seja, a partir disso aí eu consegui fazer
+
+118
+00:06:16,949 --> 00:06:19,869
+um cliente completo que faz todas as operações do Banco
+
+119
+00:06:19,879 --> 00:06:23,500
+do Crude chamando as operações que são definidas lá no
+
+120
+00:06:23,509 --> 00:06:26,980
+servidor a que eu também tenho a definição do cliente,
+
+121
+00:06:26,988 --> 00:06:29,778
+né, que seria aquele padrão já de usar o
+
+122
+00:06:29,790 --> 00:06:31,959
+menu e depois fazer as operações.
+
+123
+00:06:32,670 --> 00:06:36,358
+E com isso a gente tem o nosso cliente completo?
+
+124
+00:06:36,369 --> 00:06:39,119
+Tá, a gente tem ali todas as operações de
+
+125
+00:06:39,129 --> 00:06:41,920
+chamada e tem tanto o servidor que é um absence.
+
+126
+00:06:41,928 --> 00:06:45,040
+Agora tem a opção de operações completas e um cliente
+
+127
+00:06:45,048 --> 00:06:48,019
+Axel pra todas as operações dos métodos diferentes do h.
+
+128
+00:06:48,028 --> 00:06:48,639
+T P.
+
+129
+00:06:48,649 --> 00:06:50,119
+A gente fica então por aqui.
+
+130
+00:06:50,129 --> 00:06:53,358
+Espero ter agregado conhecimento, bons estudos e até a
+
+131
+00:06:53,369 --> 00:06:53,699
+próxima!
+

@@ -1,0 +1,1044 @@
+1
+00:00:06,179 --> 00:00:08,929
+Olá aluno, Estamos na nossa matéria sobre segurança da
+
+2
+00:00:08,939 --> 00:00:11,989
+informação, sou professor Fabrício Melo e vamos falar sobre
+
+3
+00:00:12,000 --> 00:00:16,469
+mitigação de ataques que a a mitigação de riscos e
+
+4
+00:00:16,478 --> 00:00:19,609
+política de segurança eh.
+
+5
+00:00:19,620 --> 00:00:21,048
+Tem que tomar cuidado com isso aí.
+
+6
+00:00:21,059 --> 00:00:23,089
+Como é que eu vou fazer pra mitigar, né?
+
+7
+00:00:23,100 --> 00:00:26,089
+Os riscos e a política de segurança vamos lá,
+
+8
+00:00:26,100 --> 00:00:28,269
+né? Além da política de segurança, são dois
+
+9
+00:00:28,280 --> 00:00:30,899
+temas que a gente vai ver aí olha só aqui.
+
+10
+00:00:30,908 --> 00:00:34,259
+Eu afirmo que mitigar os riscos aluno em uma rede
+
+11
+00:00:34,270 --> 00:00:39,939
+é aplicar oh tecnologias, procedimentos e pessoas a fim
+
+12
+00:00:39,950 --> 00:00:43,020
+de reduzir oh a probabilidade ou o impacto em relação
+
+13
+00:00:43,029 --> 00:00:44,259
+a determinado risco.
+
+14
+00:00:44,270 --> 00:00:46,500
+Então, ou seja, a partir que eu tento
+
+15
+00:00:46,509 --> 00:00:49,618
+mitigar esses riscos, eu vou o quê? Eu
+
+16
+00:00:49,630 --> 00:00:53,450
+vou simplesmente reduzir a probabilidade de ter um impacto quando
+
+17
+00:00:53,459 --> 00:00:55,500
+tiver algum problema, né? Então você vai ver
+
+18
+00:00:55,509 --> 00:00:59,990
+o seguinte que você vai ter um conjunto pra proteger
+
+19
+00:01:00,000 --> 00:01:03,380
+de roteadores, suítes, servidores, serviços de rede,
+
+20
+00:01:03,389 --> 00:01:09,260
+processos e até pessoas da organização da instituição também estarão
+
+21
+00:01:09,269 --> 00:01:10,319
+envolvidas.
+
+22
+00:01:10,329 --> 00:01:12,260
+Aí tá, e como é que a gente faz?
+
+23
+00:01:12,269 --> 00:01:12,698
+A gente tem.
+
+24
+00:01:12,709 --> 00:01:15,099
+Aí o FA, o famoso a famosa cebola,
+
+25
+00:01:15,109 --> 00:01:18,260
+né? A famosa camada as camadas que a gente
+
+26
+00:01:18,269 --> 00:01:20,859
+fala que é até definida pela Cisco, que é
+
+27
+00:01:20,870 --> 00:01:23,969
+o seguinte Oh esses eh ativos aí que tá o
+
+28
+00:01:23,980 --> 00:01:25,319
+ativo tá vendo a empresa.
+
+29
+00:01:25,760 --> 00:01:29,209
+Aí as camadas você tem oh os dispositivos a mitigação
+
+30
+00:01:29,219 --> 00:01:35,579
+de dispositivos da rede do conteúdo do acesso e até
+
+31
+00:01:35,588 --> 00:01:37,278
+mesmo das pessoas.
+
+32
+00:01:37,290 --> 00:01:40,838
+Tá vendo cada camada aí vai envolver alguém, o
+
+33
+00:01:40,849 --> 00:01:43,278
+que que seria das pessoas, as pessoas, Obviamente
+
+34
+00:01:43,290 --> 00:01:45,519
+a camada humana, né? Tem a ver com
+
+35
+00:01:45,528 --> 00:01:49,290
+ensinar as pessoas a identificarem fraudes, serem cautelosas com
+
+36
+00:01:49,299 --> 00:01:50,680
+informações importantes.
+
+37
+00:01:50,689 --> 00:01:52,599
+A gente já citou isso aqui atrás.
+
+38
+00:01:52,609 --> 00:01:55,239
+Eh você dar treinamento pros funcionários.
+
+39
+00:01:55,250 --> 00:01:58,799
+Esses grandes bancos, essas grandes empresas de tecnologia,
+
+40
+00:01:58,808 --> 00:02:00,418
+todos todas fazem.
+
+41
+00:02:00,430 --> 00:02:04,638
+Treinamento constantemente pro funcionário, ficar sempre alerta! Sempre
+
+42
+00:02:04,650 --> 00:02:07,079
+tá conhecendo de novos golpes, porqueàs vezes o
+
+43
+00:02:07,088 --> 00:02:08,240
+cara fica desatualizado.
+
+44
+00:02:08,250 --> 00:02:10,639
+Aí vem um novo golpe que ele nem imagina e
+
+45
+00:02:10,649 --> 00:02:12,479
+ele acaba caindo num golpe.
+
+46
+00:02:12,490 --> 00:02:13,899
+Às vezes não foi porque ele quis, né?
+
+47
+00:02:14,250 --> 00:02:16,778
+E ninguém quer cair num golpe? Foi por falta
+
+48
+00:02:16,788 --> 00:02:17,659
+de treinamento.
+
+49
+00:02:17,669 --> 00:02:19,969
+Foi por falta de conhecimento, inocência.
+
+50
+00:02:19,979 --> 00:02:24,819
+Então, a camada humana das pessoas é muito importante,
+
+51
+00:02:24,830 --> 00:02:27,778
+porque quem vai tá mexendo na informação, quem vai
+
+52
+00:02:27,788 --> 00:02:28,860
+tá mexendo no sistema.
+
+53
+00:02:28,868 --> 00:02:31,300
+É uma pessoa, é um funcionário que é um
+
+54
+00:02:31,308 --> 00:02:34,360
+ativo, aí, né? Da empresa Okay,
+
+55
+00:02:34,618 --> 00:02:37,210
+Temos aí os dispositivos que que essa camada aí oh
+
+56
+00:02:37,219 --> 00:02:41,990
+proteger os dispositivos da execução de programas maliciosos ou evitar
+
+57
+00:02:42,000 --> 00:02:43,710
+que comprometa a segurança de dados.
+
+58
+00:02:43,719 --> 00:02:46,129
+Então você tem a segurança aí do end point que
+
+59
+00:02:46,139 --> 00:02:51,189
+é o ponto final e evitar que arquivos prejudiciais sejam
+
+60
+00:02:51,199 --> 00:02:52,469
+aí eh implementados.
+
+61
+00:02:52,479 --> 00:02:54,788
+Então o que que seria isso? Os seus dispositivos?
+
+62
+00:02:54,800 --> 00:02:57,229
+Tem que ter ali um bom antivírus? Cê tem
+
+63
+00:02:57,240 --> 00:03:00,129
+que tá com hard de preferência atualizado, né?
+
+64
+00:03:00,139 --> 00:03:04,490
+Fazer a atualização necessária de driver dos dispositivos? Entendeu
+
+65
+00:03:04,500 --> 00:03:05,689
+do firme, né? Você tem ali, por
+
+66
+00:03:05,699 --> 00:03:09,288
+exemplo, roteador! Aquele firme do roteador ficou desatualizado
+
+67
+00:03:09,300 --> 00:03:12,449
+Tem atualização pra aquilo? Tá sempre ali, né?
+
+68
+00:03:12,460 --> 00:03:15,449
+Com hardware em dia, isso é importante porque os
+
+69
+00:03:15,460 --> 00:03:19,169
+dispositivos é aonde tá envolvendo aí Todo o seu sistema
+
+70
+00:03:19,179 --> 00:03:22,088
+e a rede tem a ver com proteger conexões.
+
+71
+00:03:22,099 --> 00:03:25,288
+Tá vendo fechando lá o as portas, né?
+
+72
+00:03:25,300 --> 00:03:29,889
+Pra não ter entrado de Bado criptografado, Comunicações tá
+
+73
+00:03:29,899 --> 00:03:35,210
+monitorando anomalias utilizando tecnologias como VPN, que é a
+
+74
+00:03:35,219 --> 00:03:39,520
+famosa rede privada virtual, né? V PM Aquele
+
+75
+00:03:39,528 --> 00:03:43,080
+túnel que a gente cria entre um computador e um
+
+76
+00:03:43,088 --> 00:03:46,919
+servidor e você consegue transmitir informações desse túnel dentro de
+
+77
+00:03:46,929 --> 00:03:49,308
+uma rede pública, como a internet, por exemplo,
+
+78
+00:03:49,319 --> 00:03:53,399
+e as informações estarão criptografadas utilizando por exemplo i p
+
+79
+00:03:53,409 --> 00:03:55,719
+sec, né? Que é um i p seguro
+
+80
+00:03:55,729 --> 00:03:59,800
+aí que você consegue mascarar trabalhar com W famoso filtro
+
+81
+00:03:59,808 --> 00:04:03,520
+de rede que vai ali filtrar o tráfego de dados
+
+82
+00:04:03,528 --> 00:04:06,868
+que entra e sai aí em cima de regras de
+
+83
+00:04:06,879 --> 00:04:07,750
+políticas.
+
+84
+00:04:07,758 --> 00:04:11,588
+Você consegue ali bloquear tentativas de acesso não autorizados e
+
+85
+00:04:11,599 --> 00:04:14,689
+pacotes que não tenham que entrar na rede.
+
+86
+00:04:14,699 --> 00:04:16,910
+Trabalhar com i PSD s né? O i D
+
+87
+00:04:16,920 --> 00:04:19,608
+S é o famoso sistema de detecção de intruso que
+
+88
+00:04:19,619 --> 00:04:22,170
+age com o W e ele é um alarme.
+
+89
+00:04:22,178 --> 00:04:25,463
+Quando ele vê que a ali tem alguma anomalia,
+
+90
+00:04:25,475 --> 00:04:28,423
+ele pode alarmar já o i PS ele é o
+
+91
+00:04:28,434 --> 00:04:29,923
+sistema de proteção de intruso.
+
+92
+00:04:29,934 --> 00:04:32,963
+Além de alarmar ele pode bloquear, por exemplo,
+
+93
+00:04:32,975 --> 00:04:36,125
+uma tentativa de ataque, então isso é proteger a
+
+94
+00:04:36,134 --> 00:04:38,204
+rede Tá vendo é uma camada, todas as camadas
+
+95
+00:04:38,213 --> 00:04:39,045
+são importantes.
+
+96
+00:04:39,053 --> 00:04:42,403
+A camada do conteúdo tá vendo visa garantir o quê
+
+97
+00:04:42,415 --> 00:04:46,399
+que apenas as pessoas certas têm acesso aos dados e
+
+98
+00:04:46,410 --> 00:04:50,689
+que os dados sejam totalmente monitorados e abusos sinalizados.
+
+99
+00:04:50,699 --> 00:04:53,048
+A gente tem,às vezes, caso aí que
+
+100
+00:04:53,059 --> 00:04:58,608
+eh pessoas acessam dados sem devida autorização né? Eh
+
+101
+00:04:58,619 --> 00:05:01,069
+pessoas que geralmente as empresas tem ali o nível de
+
+102
+00:05:01,079 --> 00:05:04,230
+acesso tem ali o por exemplo o diretor da empresa
+
+103
+00:05:04,238 --> 00:05:07,350
+tem determinado tipo de acesso, o gerente tem outro
+
+104
+00:05:07,358 --> 00:05:09,389
+eàs vezes ali, o o, o funcionário,
+
+105
+00:05:09,399 --> 00:05:11,750
+o analista tem outro lá embaixo queàs vezes o
+
+106
+00:05:11,759 --> 00:05:15,119
+gerente dá a sua senha pa parou na lista.
+
+107
+00:05:15,129 --> 00:05:16,579
+Oh, tá, aí, eu vou almoçar,
+
+108
+00:05:16,588 --> 00:05:17,040
+resolve.
+
+109
+00:05:17,048 --> 00:05:19,399
+Aí pra mim, esse analista vai acessar.
+
+110
+00:05:19,410 --> 00:05:22,959
+Então isso é um dado indevido pra aquele analista acessar.
+
+111
+00:05:22,970 --> 00:05:25,358
+Então, o conteúdo é muito importante também, E
+
+112
+00:05:25,369 --> 00:05:27,420
+o acesso, né, Deve se preocupar com os
+
+113
+00:05:27,428 --> 00:05:31,178
+mecanismos de autenticação de forma a prover as políticas,
+
+114
+00:05:31,189 --> 00:05:33,480
+normas e procedimentos adequados de acordo com a importância de
+
+115
+00:05:33,488 --> 00:05:33,980
+cada ativo.
+
+116
+00:05:33,988 --> 00:05:36,459
+Ou seja, como eu acabei de falar, você
+
+117
+00:05:36,470 --> 00:05:40,079
+tem que sempre ter autenticação e sempre ter um nível
+
+118
+00:05:40,088 --> 00:05:42,759
+de autenticação, né? O o diretor da empresa
+
+119
+00:05:42,769 --> 00:05:45,838
+tem um um nível de autenticação, o o o
+
+120
+00:05:45,850 --> 00:05:49,100
+técnico lá embaixo,às vezes o o o funcionário
+
+121
+00:05:49,838 --> 00:05:54,170
+ali mais né, numa posição inferior não pode ter,
+
+122
+00:05:54,178 --> 00:05:58,528
+não pode ter acesso a informações privilegiadas, por exemplo,
+
+123
+00:05:58,540 --> 00:06:00,449
+que uma cúpula de uma empresa tem, né?
+
+124
+00:06:00,459 --> 00:06:02,889
+Então, tem que definir muito bem a ideia do
+
+125
+00:06:02,899 --> 00:06:06,129
+acesso aí do que vai ser acessado, né?
+
+126
+00:06:06,139 --> 00:06:08,980
+Aí você tem aí Oh a diretriz que estabelece princípios,
+
+127
+00:06:08,988 --> 00:06:11,079
+compromissos, valores, requisitos e orientação em relaçãoà
+
+128
+00:06:11,088 --> 00:06:12,149
+segurança da informação.
+
+129
+00:06:12,750 --> 00:06:14,559
+O que que seria isso aqui? Agora? Qual
+
+130
+00:06:14,569 --> 00:06:17,528
+é os objetivos? A proteção dos ativos de informação,
+
+131
+00:06:17,540 --> 00:06:21,600
+né, Que seria aí essas políticas de segurança que
+
+132
+00:06:21,608 --> 00:06:24,470
+tá envolvido? Além das camadas, você vai ter
+
+133
+00:06:24,480 --> 00:06:25,600
+que ter essas políticas.
+
+134
+00:06:25,608 --> 00:06:27,838
+Então você vai ter que estabelecer princípios, compromissos,
+
+135
+00:06:27,850 --> 00:06:31,319
+valores requisitos né? E quais são os objetivos proteção
+
+136
+00:06:31,329 --> 00:06:34,920
+dos ativos de informação, prevenção e resposta de incidentes
+
+137
+00:06:34,928 --> 00:06:35,619
+de segurança.
+
+138
+00:06:36,160 --> 00:06:39,009
+Garantir a conformidade legal, né? Tudo dentro da
+
+139
+00:06:39,019 --> 00:06:41,528
+lei, de acordo com as normas do país,
+
+140
+00:06:41,540 --> 00:06:45,250
+e, obviamente, garantir a continuidade dos negócios,
+
+141
+00:06:45,259 --> 00:06:48,220
+né? Aí dentro dessas políticas de segurança, aluno
+
+142
+00:06:48,230 --> 00:06:51,449
+que vão definir essas regras, né? Mas aí
+
+143
+00:06:51,459 --> 00:06:52,500
+você fala, pessoa, mas, onde é que
+
+144
+00:06:52,509 --> 00:06:54,608
+eu vejo essas políticas? Geralmente, Quando a gente
+
+145
+00:06:54,619 --> 00:06:58,108
+é contratado no contrato de trabalho a gente assina,
+
+146
+00:06:58,600 --> 00:07:01,649
+né? Um aceite, concordando com essas políticas de
+
+147
+00:07:01,660 --> 00:07:05,970
+segurança, que são sempre revisadas, né Eh constantemente,
+
+148
+00:07:05,980 --> 00:07:08,699
+quando um servidor tomar posse, ele vai ter que
+
+149
+00:07:08,709 --> 00:07:11,759
+aceitar as políticas de segurança, né? Daquele órgão
+
+150
+00:07:11,769 --> 00:07:12,730
+que ele vai trabalhar.
+
+151
+00:07:12,738 --> 00:07:16,230
+Então, as políticas são definidas como política de identificação
+
+152
+00:07:16,238 --> 00:07:20,088
+e autenticação Vai especificar como as pessoas autorizadas podem ter
+
+153
+00:07:20,100 --> 00:07:22,769
+acesso a recursos de rede e procedimento de verificação da
+
+154
+00:07:22,778 --> 00:07:23,709
+identidade.
+
+155
+00:07:23,720 --> 00:07:26,428
+Então a empresa tem que ter essa política, né?
+
+156
+00:07:26,439 --> 00:07:29,949
+Os níveis de acesso et cetera Políticas de senha toda
+
+157
+00:07:29,959 --> 00:07:31,269
+empresa tem que ter.
+
+158
+00:07:31,278 --> 00:07:33,470
+Qual é a política de senha? Que tipo de
+
+159
+00:07:33,480 --> 00:07:36,750
+senha vai ser utilizada? Qual a periodicidade da troca
+
+160
+00:07:36,759 --> 00:07:39,069
+da senha a cada noventa dias? Sessenta dias.
+
+161
+00:07:39,079 --> 00:07:40,069
+Tem que ter isso aí.
+
+162
+00:07:40,079 --> 00:07:44,399
+Política de aceitável que que cê é identifica os aplicativos
+
+163
+00:07:44,410 --> 00:07:45,738
+e o uso de redes são aceitáveis.
+
+164
+00:07:45,750 --> 00:07:48,488
+Ou seja, eh além de você poder identificar o
+
+165
+00:07:48,500 --> 00:07:52,699
+que que pode ser aceito na empresa e até a
+
+166
+00:07:52,709 --> 00:07:55,798
+violação É o seguinte eu tenho um equipamento da empresa,
+
+167
+00:07:55,809 --> 00:07:57,759
+Chega sexta-feira, eu pego e levo pra casa!
+
+168
+00:07:58,959 --> 00:08:02,410
+Será que a empresa permite? Eh, eh fazer
+
+169
+00:08:02,420 --> 00:08:04,569
+isso, né? Não, nem sempre permite!
+
+170
+00:08:04,579 --> 00:08:07,769
+Então eu tô quebrando a política de uso aceitável,
+
+171
+00:08:07,778 --> 00:08:10,329
+né? É como são tratadas aí né, A
+
+172
+00:08:10,338 --> 00:08:13,129
+A A, os ativos de tecnologia, por exemplo
+
+173
+00:08:13,139 --> 00:08:15,809
+na empresa, uso de software! E Etcetera,
+
+174
+00:08:15,819 --> 00:08:17,209
+tá e temos.
+
+175
+00:08:17,220 --> 00:08:20,048
+A política de acesso remoto define como usuários remotos podem
+
+176
+00:08:20,059 --> 00:08:22,970
+acessar uma rede e que serviços podem ser utilizados pra
+
+177
+00:08:22,980 --> 00:08:24,358
+gente como identidade remota.
+
+178
+00:08:24,369 --> 00:08:27,389
+Vocês tem um home office! Você pode acessar o
+
+179
+00:08:27,399 --> 00:08:29,928
+que ali no servidor a partir do home Office,
+
+180
+00:08:29,939 --> 00:08:32,200
+né? Implementando, por exemplo, política de VPN,
+
+181
+00:08:32,210 --> 00:08:34,229
+o você vai poder trabalhar em casa, mas só
+
+182
+00:08:34,239 --> 00:08:36,538
+vai acessar o setor da empresa por meio do uso
+
+183
+00:08:36,548 --> 00:08:38,989
+de uma VPN, né? Política de manutenção de
+
+184
+00:08:39,000 --> 00:08:42,308
+rede tá vendo os procedimentos de atualização de sistemas operacionais?
+
+185
+00:08:42,320 --> 00:08:45,029
+Dispositivos, né? Aplicativos, Ar final.
+
+186
+00:08:45,038 --> 00:08:46,928
+A empresa tem que ter uma política disso.
+
+187
+00:08:46,940 --> 00:08:50,070
+Não pode simplesmente montar um parque tecnológico e deixar lá
+
+188
+00:08:50,080 --> 00:08:50,808
+o resto da vida.
+
+189
+00:08:51,250 --> 00:08:53,379
+E aí, qual vai ser a periodicidade de troca?
+
+190
+00:08:53,389 --> 00:08:56,418
+A gente vai fazer a atualização de troca de Windows
+
+191
+00:08:56,428 --> 00:08:58,259
+a cada duas versões.
+
+192
+00:08:58,269 --> 00:09:00,460
+O Office usa dois mil e dez.
+
+193
+00:09:00,469 --> 00:09:01,538
+Pô, já tá na hora de usar o mais
+
+194
+00:09:01,548 --> 00:09:05,298
+novo, entendeu e tem os procedimentos de tratamento de
+
+195
+00:09:05,308 --> 00:09:09,788
+incidentes, como os incidentes serão tratados, eh tá
+
+196
+00:09:09,798 --> 00:09:14,229
+documentando oh, Foi atacado tal máquina por uma falha
+
+197
+00:09:14,239 --> 00:09:15,029
+em tal lugar.
+
+198
+00:09:15,038 --> 00:09:18,029
+É bom documentar isso, porque, documentando você tem
+
+199
+00:09:18,038 --> 00:09:21,750
+ali oh um histórico dos ataques, um histórico que
+
+200
+00:09:21,759 --> 00:09:22,750
+você tem.
+
+201
+00:09:22,759 --> 00:09:24,869
+Então você vai ter ali é um procedi.
+
+202
+00:09:24,879 --> 00:09:28,029
+Você vai ter como proceder se tiver um novo ataque,
+
+203
+00:09:28,038 --> 00:09:29,149
+Então, isso é importante.
+
+204
+00:09:29,158 --> 00:09:31,710
+É você ter essa política na empresa, né?
+
+205
+00:09:31,719 --> 00:09:33,340
+pra descrever os incidentes de segurança.
+
+206
+00:09:33,349 --> 00:09:35,389
+Como é que eles vão ser tratados? Caso haja
+
+207
+00:09:35,399 --> 00:09:37,408
+um ataque? Qual é o primeiro procedimento a fazer?
+
+208
+00:09:37,779 --> 00:09:39,399
+O funcionário vai ficar perdido? Ele não sabe o
+
+209
+00:09:39,408 --> 00:09:41,349
+que que ele vai fazer? Ele precisa saber o
+
+210
+00:09:41,359 --> 00:09:43,029
+que vai fazer, né? Então, isso aí
+
+211
+00:09:43,038 --> 00:09:45,668
+cai também, Tá bom e só pra gente fazer
+
+212
+00:09:45,678 --> 00:09:47,129
+uma re um reforço sobre isso.
+
+213
+00:09:47,139 --> 00:09:50,389
+Olha só a política de segurança é um instrumento importante
+
+214
+00:09:50,399 --> 00:09:54,529
+para proteger a organização contra ameaçasà segurança da informação
+
+215
+00:09:54,538 --> 00:09:57,869
+são fatores importantes para o sucesso da política de segurança
+
+216
+00:09:57,879 --> 00:10:02,349
+da informação, exceto receber apoio por parte da administração
+
+217
+00:10:02,359 --> 00:10:03,269
+superior.
+
+218
+00:10:03,279 --> 00:10:07,440
+Isso é importante com certeza o líder, o chefe,
+
+219
+00:10:07,450 --> 00:10:10,678
+né? Haver um indivíduo ou grupo responsável pra verificar
+
+220
+00:10:10,690 --> 00:10:13,200
+se a política está sendo respeitado? Com certeza,
+
+221
+00:10:13,210 --> 00:10:17,239
+ter uma auditoria, ter pessoas responsáveis pra fiscalizar isso
+
+222
+00:10:17,250 --> 00:10:22,058
+aí tá realizar essa atualização esporádica da política, de
+
+223
+00:10:22,070 --> 00:10:27,700
+forma a refletir as mudanças na organização esporádica não constante
+
+224
+00:10:27,710 --> 00:10:32,139
+sempre ter autorização esporádica, ainda mais quando a gente
+
+225
+00:10:32,149 --> 00:10:35,538
+trata tratando de tecnologia, segurança da informação, né?
+
+226
+00:10:35,548 --> 00:10:37,859
+Ser conhecida por todos os usuários da organização.
+
+227
+00:10:37,869 --> 00:10:41,178
+Tá vendo isso deve manifestar a sua concordância em submeter-se
+
+228
+00:10:41,190 --> 00:10:42,619
+a ela antes de obter acesso a recursos.
+
+229
+00:10:42,629 --> 00:10:44,298
+Tá vendo que eu falei o contrato que assina.
+
+230
+00:10:44,308 --> 00:10:46,690
+Concordando aí contrata uma pessoa.
+
+231
+00:10:46,700 --> 00:10:48,859
+Ela nem sabia que não podia, pô, mas
+
+232
+00:10:48,869 --> 00:10:51,330
+não sabia que podia não cê, soube.
+
+233
+00:10:51,340 --> 00:10:54,070
+Você assinou um contrato e et Cetera é isso aí,
+
+234
+00:10:54,080 --> 00:10:57,830
+Tá olha mais um a cidade assertiva que a apresenta,
+
+235
+00:10:57,840 --> 00:11:00,190
+a política de uso aceitável.
+
+236
+00:11:00,200 --> 00:11:03,070
+A famosa pua letra A, é a política que
+
+237
+00:11:03,080 --> 00:11:06,269
+define como são tratadas as informações institucionais, ou seja,
+
+238
+00:11:06,279 --> 00:11:11,070
+se elas podem ser repassadas a terceiros, né.
+
+239
+00:11:11,080 --> 00:11:14,288
+Isso aí é a confidencialidade aí da empresa, né?
+
+240
+00:11:14,298 --> 00:11:16,989
+Não é o P A não é a política que
+
+241
+00:11:17,000 --> 00:11:20,288
+define como são tratadas informações pessoais, seja ela de
+
+242
+00:11:20,298 --> 00:11:21,950
+clientes, usuários ou funcionários.
+
+243
+00:11:21,960 --> 00:11:24,469
+É que é a política de privacidade, né?
+
+244
+00:11:24,479 --> 00:11:29,149
+A empresa você não pode sair dando informações, né?
+
+245
+00:11:29,158 --> 00:11:32,369
+EH eh, eh de clientes da empresa pra terceiros.
+
+246
+00:11:32,379 --> 00:11:34,969
+Isso aí é totalmente legal, né? E a
+
+247
+00:11:34,979 --> 00:11:38,109
+primeira cê não pode pegar ali um segredo de uma
+
+248
+00:11:38,119 --> 00:11:40,668
+empresa e também passar pra frente a letra A tá
+
+249
+00:11:40,678 --> 00:11:43,070
+dizendo aí, letra C é a política que também
+
+250
+00:11:43,080 --> 00:11:45,629
+é chamada de Termo de Uso ou termo de serviço
+
+251
+00:11:45,639 --> 00:11:48,408
+define as regras de uso dos recursos computacionais Oh lá,
+
+252
+00:11:48,418 --> 00:11:51,529
+os direitos e as responsabilidades de quem as utiliza e
+
+253
+00:11:51,538 --> 00:11:54,149
+as situações que são consideradas abusivas.
+
+254
+00:11:54,158 --> 00:11:57,658
+Tá aqui letra C famosa PUA que a letra D
+
+255
+00:11:57,668 --> 00:11:59,538
+é a pot define as regras sobre o uso de
+
+256
+00:11:59,548 --> 00:12:03,080
+senhas nos recursos computacionais como o tamanho mínimo e máximo,
+
+257
+00:12:03,090 --> 00:12:05,808
+regra de formação e periodicidade de troque aqui são as
+
+258
+00:12:05,820 --> 00:12:09,389
+políticas de senha Tá bom, Então tá aí pra
+
+259
+00:12:09,399 --> 00:12:12,250
+você dar um reforço no que a gente acabou de
+
+260
+00:12:12,259 --> 00:12:12,849
+estudar.
+
+261
+00:12:12,859 --> 00:12:14,788
+Valeu um abraço.
+

@@ -1,0 +1,320 @@
+1
+00:00:05,948 --> 00:00:08,909
+Olá aluno! Professor Fabrício Melo estamos aqui com o
+
+2
+00:00:08,919 --> 00:00:10,538
+nosso uma sala de rede.
+
+3
+00:00:10,550 --> 00:00:12,519
+Vamos falar sobre os endereços i? P v quatro
+
+4
+00:00:12,528 --> 00:00:16,859
+Agora os especiais eh dentro daquela aquela gama de endereços
+
+5
+00:00:16,870 --> 00:00:19,719
+i p no caso I p v quatro nós temos
+
+6
+00:00:19,728 --> 00:00:21,399
+aí os endereços especiais.
+
+7
+00:00:21,408 --> 00:00:25,199
+Quais são esses endereços? Vem aqui comigo Você tem
+
+8
+00:00:25,208 --> 00:00:27,719
+os especiais que são os famosos I P V quatro
+
+9
+00:00:27,728 --> 00:00:29,760
+privados eu já Até comentei isso.
+
+10
+00:00:29,769 --> 00:00:34,329
+São endereços aí definidos pela AS organizações né? E
+
+11
+00:00:34,340 --> 00:00:38,289
+são endereços reservados, geralmente pra redes locais, eles
+
+12
+00:00:38,298 --> 00:00:40,668
+não vão pra internet? Isso é uma forma que
+
+13
+00:00:40,679 --> 00:00:45,450
+eles acharam pra você não esgotar os endereços I PS
+
+14
+00:00:45,459 --> 00:00:46,368
+de maneira mais rápida.
+
+15
+00:00:46,380 --> 00:00:49,770
+Por quê? Que eu posso ter várias redes locais,
+
+16
+00:00:49,779 --> 00:00:52,009
+né? A minha empresa sul utilizando os mesmos i
+
+17
+00:00:52,020 --> 00:00:55,389
+PS, mas eles não vão se encontrar porque quando
+
+18
+00:00:55,399 --> 00:00:57,189
+vão se encontrar, aí você vai ter o Nat
+
+19
+00:00:57,200 --> 00:01:00,950
+que vai fazer aquela conversão pro endereço público, mas
+
+20
+00:01:00,959 --> 00:01:03,709
+a minha rede local pode ter o mesmo endereço.
+
+21
+00:01:03,719 --> 00:01:06,308
+I p v quatro então foi definido oh lá uma
+
+22
+00:01:06,319 --> 00:01:08,308
+tabela com os endereços i p v quatro que são
+
+23
+00:01:08,319 --> 00:01:10,790
+os endereços de classe A, b e C.
+
+24
+00:01:10,799 --> 00:01:13,569
+Tá vendo oh, né? Vai lá de dez
+
+25
+00:01:13,579 --> 00:01:16,129
+zero zero zero até dez dois cinco cinco dois cinco
+
+26
+00:01:16,138 --> 00:01:18,930
+cinco dois cinco cinco barra oito No caso, né?
+
+27
+00:01:18,939 --> 00:01:21,888
+Oito bits O classe B é de um sete dois,
+
+28
+00:01:21,900 --> 00:01:24,209
+dezesseis zero zero um sete dois trinta e um dois
+
+29
+00:01:24,219 --> 00:01:27,359
+cinco cinco dois cinco cinco doze bits e um nove
+
+30
+00:01:27,370 --> 00:01:30,525
+dois um meia oito zero zero barra dezesseis que vai
+
+31
+00:01:30,534 --> 00:01:31,864
+de um nove dois meia oito zero zero é o
+
+32
+00:01:31,875 --> 00:01:33,724
+nove dois meia oito dois cinco cinco dois cinco cinco
+
+33
+00:01:33,734 --> 00:01:36,025
+dois cinco cinco é o que a gente costuma usar
+
+34
+00:01:36,034 --> 00:01:38,694
+mais aí nas redes locais Tá? Então esses são
+
+35
+00:01:38,704 --> 00:01:42,903
+endereços privados, endereços que não vão para a rede
+
+36
+00:01:42,915 --> 00:01:48,275
+pública e internet e temos endereço de que é é
+
+37
+00:01:48,284 --> 00:01:51,344
+para o direcionar o tráfico i p pra si próprio,
+
+38
+00:01:51,355 --> 00:01:53,305
+entãoàs vezes você quer fazer um teste ali de
+
+39
+00:01:53,314 --> 00:01:56,329
+i p na própria máquina sem ter que consultar outra
+
+40
+00:01:56,338 --> 00:01:57,088
+máquina.
+
+41
+00:01:57,099 --> 00:02:00,290
+Você tem essa faixa aí oh que vai de um
+
+42
+00:02:00,299 --> 00:02:03,049
+dois sete zero zero um a um dois sete dois
+
+43
+00:02:03,058 --> 00:02:06,448
+cinco cinco dois cinco cinco dois cinco quatro tá mas
+
+44
+00:02:06,459 --> 00:02:09,288
+geralmente eles são identificados só pelo um dois sete zero
+
+45
+00:02:09,300 --> 00:02:11,270
+zero zero um, ou seja, é o endereço
+
+46
+00:02:11,278 --> 00:02:12,409
+geralmente pra fazer esse teste.
+
+47
+00:02:12,419 --> 00:02:16,409
+Esse luba tá então o endereço ali que reservado pra
+
+48
+00:02:16,419 --> 00:02:20,169
+o i p a máquina direcionar pra si próprio ali
+
+49
+00:02:20,179 --> 00:02:21,389
+pode ser pra fazer um teste.
+
+50
+00:02:21,399 --> 00:02:25,439
+Por exemplo Okay temos o endereço de link local que
+
+51
+00:02:25,449 --> 00:02:26,929
+vão utilizar essa faixa.
+
+52
+00:02:26,939 --> 00:02:29,439
+Oh um no um meia nove dois cinco quatro zero
+
+53
+00:02:29,449 --> 00:02:32,300
+um até um nove um meia nove dois cinco quatro
+
+54
+00:02:32,308 --> 00:02:35,038
+dois cinco cinco dois cinco quatro são mais conhecidos como
+
+55
+00:02:35,050 --> 00:02:37,679
+o endereço i P privado automático, ou seja,
+
+56
+00:02:37,689 --> 00:02:42,159
+os famosos auto atribuídos que que é isso são atribuídos
+
+57
+00:02:42,169 --> 00:02:45,879
+a um cliente de HC p para se auto reconfigurar
+
+58
+00:02:45,889 --> 00:02:48,610
+sempre que não consegue receber seu endereço i P Então
+
+59
+00:02:48,618 --> 00:02:51,439
+quando o d HC P oh, você não consegue
+
+60
+00:02:51,449 --> 00:02:53,719
+receber seu endereço i P de servidores de HC P
+
+61
+00:02:53,729 --> 00:02:56,960
+da rede você vai ter essa faixa aí pra poder
+
+62
+00:02:56,969 --> 00:02:59,558
+se auto configurar Tá então a gente chama de endereço
+
+63
+00:02:59,569 --> 00:03:03,300
+de link local e tem o endereço de que é
+
+64
+00:03:03,308 --> 00:03:05,159
+o endereço restrito ou limitado.
+
+65
+00:03:05,169 --> 00:03:07,449
+A gente viu isso oh lá, ele vai identificar
+
+66
+00:03:07,460 --> 00:03:10,849
+o broadcast na própria rede que é representado por todos
+
+67
+00:03:10,860 --> 00:03:15,699
+os bits Endereço igual a um lembra anotação desse mal,
+
+68
+00:03:15,710 --> 00:03:17,969
+então esse endereço quando você tem dois cinco cinco dois
+
+69
+00:03:17,979 --> 00:03:20,088
+cinco cinco dois cinco cinco dois cinco cinco Ele é
+
+70
+00:03:20,099 --> 00:03:24,909
+o famoso eh broadcast restrito ou limitado.
+
+71
+00:03:25,129 --> 00:03:28,580
+A gente viu aquele lá que o final era zero
+
+72
+00:03:28,588 --> 00:03:31,020
+fazer a identificação da rede ali foi o exemplo que
+
+73
+00:03:31,028 --> 00:03:33,500
+a gente deu, esse é quando eu falo num
+
+74
+00:03:33,508 --> 00:03:35,419
+broca restrito ou limitado.
+
+75
+00:03:35,429 --> 00:03:38,379
+Aí é tudo um tá os binários aí um um
+
+76
+00:03:38,389 --> 00:03:40,308
+por isso que forma dois cinco cinco dois, cinco
+
+77
+00:03:40,319 --> 00:03:43,379
+cinco dois cinco cinco dois cinco cinco perfeito então esses
+
+78
+00:03:43,389 --> 00:03:47,800
+aí são tidos endereços especiais tá I p v quatro
+
+79
+00:03:47,808 --> 00:03:50,819
+Perfeito aluno, Então é isso, Fecho com você!
+
+80
+00:03:50,830 --> 00:03:51,960
+Abraço
+

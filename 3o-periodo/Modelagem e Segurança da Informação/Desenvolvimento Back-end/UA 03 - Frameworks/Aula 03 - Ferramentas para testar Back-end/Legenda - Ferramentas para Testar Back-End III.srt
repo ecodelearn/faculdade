@@ -1,0 +1,488 @@
+1
+00:00:06,440 --> 00:00:10,929
+Olá, vamos ver como utilizar a ferramenta Postman para
+
+2
+00:00:10,939 --> 00:00:13,489
+teste de uma A P I do tipo, né?
+
+3
+00:00:13,500 --> 00:00:18,289
+Uma com A Tá Eh é também uma ferramenta bem
+
+4
+00:00:18,298 --> 00:00:18,969
+interessante.
+
+5
+00:00:18,978 --> 00:00:22,690
+Você pode trabalhar eh fazendo, gerando as requisições.
+
+6
+00:00:22,699 --> 00:00:25,048
+Tem várias outras funcionalidades, né? O que a
+
+7
+00:00:25,059 --> 00:00:26,969
+gente usa aqui é o básico, mas ela é
+
+8
+00:00:26,978 --> 00:00:28,589
+uma ferramenta muito poderosa.
+
+9
+00:00:28,600 --> 00:00:34,020
+Vamos ver como é que ela funciona Bom, Então
+
+10
+00:00:34,029 --> 00:00:38,770
+a ferramenta Postman ela tem uma organização em tion.
+
+11
+00:00:38,779 --> 00:00:40,529
+Em pode usar a t i s também, né?
+
+12
+00:00:40,539 --> 00:00:42,728
+Então assim eu não preciso colocar as requisições soltas.
+
+13
+00:00:42,740 --> 00:00:44,490
+O ideal é que você defina coleções.
+
+14
+00:00:44,500 --> 00:00:46,969
+Com isso você agrupa as coleções de acordo com o
+
+15
+00:00:46,978 --> 00:00:51,469
+objetivo, né? Eh você pode definir em né?
+
+16
+00:00:51,478 --> 00:00:53,348
+Da mesma forma que era feita na insônia, você
+
+17
+00:00:53,359 --> 00:00:56,609
+pode criar um ambiente pra cada coisa que você quer
+
+18
+00:00:56,618 --> 00:00:56,889
+fazer.
+
+19
+00:00:56,899 --> 00:01:00,340
+Cada tipo de teste, cada conjunto de testes eh,
+
+20
+00:01:00,348 --> 00:01:01,819
+ele também cria.
+
+21
+00:01:01,829 --> 00:01:03,179
+É um pouco mais complicado.
+
+22
+00:01:03,189 --> 00:01:07,379
+Quando cê fala no você tá criando servidores falsos,
+
+23
+00:01:07,388 --> 00:01:11,159
+né? São servidores simulados pra testar determinadas funcionalidades que
+
+24
+00:01:11,168 --> 00:01:12,269
+não existe servidor ainda.
+
+25
+00:01:12,278 --> 00:01:14,019
+Cê criou o cliente, mas não criou o servidor.
+
+26
+00:01:14,028 --> 00:01:17,349
+Então ele pode atuar como né? Chama de servidor
+
+27
+00:01:17,359 --> 00:01:19,500
+Moca servidor simulado.
+
+28
+00:01:19,510 --> 00:01:22,019
+Isso na verdade, é um servidor falso que só
+
+29
+00:01:22,028 --> 00:01:23,859
+vai te dar uma resposta prevista pro h T P
+
+30
+00:01:23,870 --> 00:01:26,819
+E você pode testar se a sua interface tá okay,
+
+31
+00:01:26,829 --> 00:01:33,659
+né? Monitores e fluxos Ele consegue monitorar a sua
+
+32
+00:01:33,668 --> 00:01:36,219
+comunicação, então durante seus testes, ele consegue gerar
+
+33
+00:01:36,230 --> 00:01:39,668
+relatórios, né? Por exemplo quantas requisições ele fez
+
+34
+00:01:39,680 --> 00:01:42,159
+quanto ele? Demorou pra poder eh responder a cada
+
+35
+00:01:42,168 --> 00:01:46,180
+requisição, né? E pode organizar fluxo de execução,
+
+36
+00:01:46,189 --> 00:01:48,260
+que é um pouquinho parecido com você.
+
+37
+00:01:48,269 --> 00:01:51,859
+Pode fazer um fluxo de chamadas encadeadas.
+
+38
+00:01:51,870 --> 00:01:55,500
+Tá através de uma programação por blocos que nem o
+
+39
+00:01:55,510 --> 00:01:58,418
+estilo do, né? Eh que as programações em
+
+40
+00:01:58,430 --> 00:02:01,338
+que você não usa código, mas você usa blocos
+
+41
+00:02:01,349 --> 00:02:03,719
+e você define o fluxo de execução, né?
+
+42
+00:02:04,400 --> 00:02:08,258
+Bom? Eh essas são algumas características criação de requisição
+
+43
+00:02:08,270 --> 00:02:10,528
+na coleção de elite.
+
+44
+00:02:10,538 --> 00:02:12,808
+O R L, né? O Sandy e o
+
+45
+00:02:12,819 --> 00:02:13,729
+boy Jason.
+
+46
+00:02:13,740 --> 00:02:15,689
+Ou seja, nada diferente do que a gente faria
+
+47
+00:02:15,699 --> 00:02:17,770
+com outras ferramentas nesse estilo.
+
+48
+00:02:17,778 --> 00:02:21,028
+Tá? A resposta é status code como sempre.
+
+49
+00:02:21,038 --> 00:02:24,110
+Vamos ver como ele funciona, né? Aqui eu
+
+50
+00:02:24,118 --> 00:02:29,919
+tenho o meu eh o meu software, né?
+
+51
+00:02:30,740 --> 00:02:34,149
+Aqui eu posso definir uma nova coleção, olha que
+
+52
+00:02:34,159 --> 00:02:35,199
+ele cria outras coisas.
+
+53
+00:02:35,210 --> 00:02:36,319
+Tá vendo, né? Pode ser um h t
+
+54
+00:02:36,330 --> 00:02:43,110
+P web tá Sócrates Workspace vi isso aqui.
+
+55
+00:02:43,118 --> 00:02:43,868
+Tem que fazer.
+
+56
+00:02:43,879 --> 00:02:46,830
+Tem que assinar pra poder mexer, né? Seria
+
+57
+00:02:46,838 --> 00:02:49,770
+a parte de fluxo a parte de, etc.
+
+58
+00:02:49,778 --> 00:02:52,689
+Você tem que tá logado? Tá login, é
+
+59
+00:02:52,699 --> 00:02:54,770
+simples, pode criar uma conta de graça e logar,
+
+60
+00:02:54,778 --> 00:02:57,819
+né? Ah! Mas aqui vamos colocar só uma
+
+61
+00:02:57,830 --> 00:02:59,899
+requisição h t p ele nem cole ele deixa a
+
+62
+00:02:59,909 --> 00:03:03,990
+criar, né? H t p vai ficar meio
+
+63
+00:03:04,000 --> 00:03:06,629
+solta, mas eh e se eu tiver logado eu
+
+64
+00:03:06,639 --> 00:03:09,580
+posso criar a minha tion? Eu posso colocar aqui
+
+65
+00:03:09,588 --> 00:03:13,599
+Oh h t t p barra barra local roxo dois
+
+66
+00:03:13,610 --> 00:03:23,460
+ponto três mil barra notas O santo e tá lá
+
+67
+00:03:24,189 --> 00:03:28,979
+a minha consulta feita tranquilinho, né? Bom,
+
+68
+00:03:29,659 --> 00:03:34,538
+se eu pegar aqui posso usar também o post tá
+
+69
+00:03:34,550 --> 00:03:37,719
+e posso reconhecer o status cod Então eu posso pegar
+
+70
+00:03:37,729 --> 00:03:40,308
+aqui, por exemplo, o post pegar um desse
+
+71
+00:03:40,319 --> 00:03:41,969
+aqui só pra não ficar digitando muita coisa.
+
+72
+00:03:43,919 --> 00:03:49,149
+Eh boy no for no que forma que eu tenho
+
+73
+00:03:49,159 --> 00:03:55,349
+o body seria rol Jason Jason Row porque é texto,
+
+74
+00:03:55,360 --> 00:03:58,050
+né? Não tem uma interpretação a nível de script
+
+75
+00:03:58,058 --> 00:04:01,449
+ou de codificação h, t ML e jason pra
+
+76
+00:04:01,460 --> 00:04:02,490
+indicar o tipo de texto.
+
+77
+00:04:02,500 --> 00:04:05,169
+O que é, né? Com isso eu coloco
+
+78
+00:04:05,179 --> 00:04:06,569
+o que eu preciso aqui.
+
+79
+00:04:06,580 --> 00:04:10,080
+Coloco a chave pra indicar que esse cara é um
+
+80
+00:04:10,088 --> 00:04:10,868
+objeto.
+
+81
+00:04:12,278 --> 00:04:16,108
+Mudei pra post e aqui eu vou colocar Alpha dois
+
+82
+00:04:18,569 --> 00:04:21,668
+sa aqui.
+
+83
+00:04:21,677 --> 00:04:24,247
+Você nota que eu tenho o i g três que
+
+84
+00:04:24,259 --> 00:04:27,899
+o cara que foi criado eh o status cod não
+
+85
+00:04:27,910 --> 00:04:29,000
+fica tão evidente.
+
+86
+00:04:29,009 --> 00:04:31,639
+Ele fica aqui oh status.
+
+87
+00:04:31,649 --> 00:04:34,798
+Duzentos Okay, mas ele tá ali ainda te dá
+
+88
+00:04:34,809 --> 00:04:37,720
+também tempo de chamada quanto que ele levou pra ir
+
+89
+00:04:37,730 --> 00:04:38,399
+e voltar.
+
+90
+00:04:38,410 --> 00:04:41,040
+Então, assim o Postman ele te dá muita informação.
+
+91
+00:04:41,048 --> 00:04:43,678
+Tá, posso voltar esse cara pra Sand e pra
+
+92
+00:04:43,689 --> 00:04:44,220
+Gatt.
+
+93
+00:04:45,298 --> 00:04:49,548
+Isso verificar que foi criado lá então Postman é uma
+
+94
+00:04:49,559 --> 00:04:54,600
+boa opção para testes, né? Eh quando você
+
+95
+00:04:54,608 --> 00:04:59,928
+trabalha eh, né? Ele traz mais algumas funcionalidades,
+
+96
+00:05:01,100 --> 00:05:04,108
+né? Fluxo permite a combinação de chamadas.
+
+97
+00:05:04,119 --> 00:05:05,790
+E aí você tem que tá logado pra poder usar
+
+98
+00:05:05,798 --> 00:05:07,790
+essa funcionalidade tá logado.
+
+99
+00:05:07,798 --> 00:05:11,329
+Você pode pegar uma coleção qualquer e organizar o fluxo
+
+100
+00:05:11,338 --> 00:05:13,790
+de chamadas que é o que você trena a chamada
+
+101
+00:05:13,798 --> 00:05:16,720
+você salva o resultado de uma chamada qualquer E aí
+
+102
+00:05:16,730 --> 00:05:19,600
+ele permite a você arrastar essa chamada aqui pra dentro.
+
+103
+00:05:19,608 --> 00:05:22,559
+Mudar os parâmetros e colocar um fluxo de execução,
+
+104
+00:05:22,569 --> 00:05:26,278
+por exemplo, chame o observe eh de CA de
+
+105
+00:05:26,290 --> 00:05:30,238
+localização Ao obter o resultado da localização chame o web
+
+106
+00:05:30,250 --> 00:05:31,259
+de locação de veículo.
+
+107
+00:05:31,920 --> 00:05:35,910
+Tá, então você pode fazer um fluxo de chamadas
+
+108
+00:05:35,920 --> 00:05:38,488
+e eh por um modelo de programação por blocos.
+
+109
+00:05:38,500 --> 00:05:40,488
+Você vai colocando elas aqui e vai arrastando de uma
+
+110
+00:05:40,500 --> 00:05:42,769
+pra outra, o que dá muito daquela parte de
+
+111
+00:05:42,778 --> 00:05:45,329
+orquestração de serviços, que é uma característica comum em
+
+112
+00:05:45,338 --> 00:05:48,850
+ambiente, mas que já é uma avançada em termos
+
+113
+00:05:48,858 --> 00:05:51,488
+do post, né? Para testes de web de
+
+114
+00:05:51,500 --> 00:05:54,088
+início, não é lá tão necessário.
+
+115
+00:05:54,100 --> 00:05:57,850
+Mas é uma funcionalidade que é interessante testar tendo oportunidade,
+
+116
+00:05:57,858 --> 00:06:03,000
+né Bom então esse é o, né? O
+
+117
+00:06:03,009 --> 00:06:08,959
+permite criar essas requisições? Eu consigo testar com facilidade.
+
+118
+00:06:08,970 --> 00:06:12,488
+O meu web eh com todas as funcionalidades dele,
+
+119
+00:06:12,500 --> 00:06:15,720
+né? E E te dar um ambiente legal,
+
+120
+00:06:15,730 --> 00:06:18,079
+né? Assim bem tranquilo que você pode testar inclusive
+
+121
+00:06:18,088 --> 00:06:21,980
+outras coisas que não sejam apenas como testes de Q
+
+122
+00:06:21,988 --> 00:06:24,139
+L e testes de web Socrates
+

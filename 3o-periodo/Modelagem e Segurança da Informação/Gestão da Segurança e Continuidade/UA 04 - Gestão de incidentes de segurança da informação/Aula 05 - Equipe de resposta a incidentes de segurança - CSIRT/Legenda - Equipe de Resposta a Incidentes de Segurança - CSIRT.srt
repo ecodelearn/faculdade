@@ -1,0 +1,548 @@
+1
+00:00:06,030 --> 00:00:08,880
+olá, sejam bem-vindos, estamos aqui na nossa disciplina
+
+2
+00:00:08,890 --> 00:00:11,259
+de segurança da informação e continuidade, né? E
+
+3
+00:00:11,269 --> 00:00:13,679
+estamos, falamos de algumas disciplinas.
+
+4
+00:00:13,689 --> 00:00:16,359
+Só que agora a gente vai falar sobre equipe de
+
+5
+00:00:16,370 --> 00:00:20,000
+resposta a importância o que fazem né? Como que
+
+6
+00:00:20,010 --> 00:00:23,280
+é os processos? Então é uma área muito importante.
+
+7
+00:00:23,289 --> 00:00:25,039
+Quando a gente tá falando de cib segurança dentro de
+
+8
+00:00:25,048 --> 00:00:28,789
+qualquer organização, a equipe de resposta de a incidente
+
+9
+00:00:28,798 --> 00:00:32,868
+de segurança, né surge Desempenha um papel essencial na
+
+10
+00:00:32,880 --> 00:00:36,310
+proteção e na resposta eficiente a excedente de segurança em
+
+11
+00:00:36,319 --> 00:00:39,639
+uma organização? Esse capítulo abordará, né? Nossa
+
+12
+00:00:39,649 --> 00:00:42,450
+aula abordará, a estrutura da equipe da equipe se
+
+13
+00:00:42,459 --> 00:00:46,168
+surge delineando os papéis e as responsabilidades específicas dos seus
+
+14
+00:00:46,179 --> 00:00:46,520
+membros.
+
+15
+00:00:46,529 --> 00:00:48,130
+Então, a gente vai falar das pessoas, das
+
+16
+00:00:48,139 --> 00:00:50,728
+funções, né? Além disso, será detalhado o
+
+17
+00:00:50,740 --> 00:00:54,130
+processo de resposta excedente, desde a detecção até a
+
+18
+00:00:54,139 --> 00:00:57,368
+resolução e a importância do treinamento contínuo, e os
+
+19
+00:00:57,380 --> 00:01:02,649
+exercícios simulados para manter a equipe preparada para enfrentar os
+
+20
+00:01:02,658 --> 00:01:03,709
+desafios emergentes.
+
+21
+00:01:04,079 --> 00:01:05,489
+Quando a gente fala em estrutura, né? A
+
+22
+00:01:05,500 --> 00:01:09,370
+A estrutura da equipe cessante é fundamental para a eficácia
+
+23
+00:01:09,379 --> 00:01:13,668
+da detecção análise e na mitigação dos acidentes de segurança.
+
+24
+00:01:15,329 --> 00:01:18,778
+Cada membro desempenha um papel específico, garantindo uma abordagem
+
+25
+00:01:18,790 --> 00:01:20,379
+abrangente e coordenada.
+
+26
+00:01:20,388 --> 00:01:21,939
+Então, a gente vai falar sobre esses papéis e
+
+27
+00:01:21,948 --> 00:01:22,819
+sobre esses membros.
+
+28
+00:01:22,829 --> 00:01:24,260
+O primeiro aí oh, o líder da equipe,
+
+29
+00:01:24,269 --> 00:01:27,859
+Tá que eh o CEUT manger! Esse papel é
+
+30
+00:01:27,870 --> 00:01:31,900
+central na supervisão e coordenação das operações da equipe.
+
+31
+00:01:31,909 --> 00:01:36,778
+Cesse O cessar manger é responsável por definir estratégias,
+
+32
+00:01:36,790 --> 00:01:41,138
+garantir a eficiência operacional e servir como ponto de contato
+
+33
+00:01:41,150 --> 00:01:44,120
+principal para a liderança executiva da organização.
+
+34
+00:01:44,500 --> 00:01:48,629
+Além disso, a liderança de EH lidera o desenvolvimento
+
+35
+00:01:48,638 --> 00:01:51,418
+de políticas de resposta, o acidente e coordena a
+
+36
+00:01:51,430 --> 00:01:53,109
+cooperação entre os membros da equipe.
+
+37
+00:01:53,120 --> 00:01:54,629
+Então, esse cara é o! É o que
+
+38
+00:01:54,638 --> 00:01:56,668
+vai fazer ali a ponte entre operacional.
+
+39
+00:01:56,680 --> 00:02:02,000
+E entre os líderes estratégicos? Tá? Analistas dissidentes,
+
+40
+00:02:02,010 --> 00:02:05,569
+os analistas dentes formam a espinha dorsal da equipe.
+
+41
+00:02:05,579 --> 00:02:09,778
+Tá sendo responsáveis pela análise detalhada dos acidentes de segurança.
+
+42
+00:02:09,788 --> 00:02:12,419
+Eles avaliam a gravidade, o impacto e a origem
+
+43
+00:02:12,429 --> 00:02:17,139
+dos acidentes, utilizando ferramentas especializadas e técnicas florenses Para
+
+44
+00:02:17,149 --> 00:02:19,659
+compreender a natureza dos ataques, lembra que a gente
+
+45
+00:02:19,669 --> 00:02:22,860
+falou no aulas sobre ferramentas sobre tecnologias? É essa
+
+46
+00:02:22,868 --> 00:02:26,270
+equipe que está ali operando, né? A capacidade
+
+47
+00:02:26,278 --> 00:02:32,308
+de identificar padrões relacionados, colecionar dados e responder rapidamente
+
+48
+00:02:32,319 --> 00:02:35,210
+é crucial para esses profissionais aí.
+
+49
+00:02:35,219 --> 00:02:40,409
+Agora vamos pros especialistas e forense digital focados na coleta,
+
+50
+00:02:40,419 --> 00:02:45,250
+prevenção e análise de evidências digitais, os especialistas em
+
+51
+00:02:45,258 --> 00:02:49,069
+for digital desempenham um papel crucial na investigação de acidentes.
+
+52
+00:02:49,679 --> 00:02:53,649
+Eles utilizam técnicas forenses para reconstruir eventos, determinar a
+
+53
+00:02:53,659 --> 00:02:58,028
+extensão do comprometimento e contribuir para a identificação de ataques.
+
+54
+00:02:59,110 --> 00:03:03,599
+A habilidade de preservar a mitigação das evidências é vital
+
+55
+00:03:03,610 --> 00:03:10,808
+para futuras ações legais e investigativas, comunicação e relações
+
+56
+00:03:10,819 --> 00:03:12,069
+públicas.
+
+57
+00:03:12,080 --> 00:03:16,008
+Esse papel é vital para a gestão eficaz da comunicação
+
+58
+00:03:16,020 --> 00:03:16,849
+durante o acidente.
+
+59
+00:03:16,860 --> 00:03:19,288
+Lembra que nós falamos sobre o poder da colaboração da
+
+60
+00:03:19,300 --> 00:03:22,699
+comunicação? A comunicação tem um papel fundamental para garantir
+
+61
+00:03:22,710 --> 00:03:26,899
+a tranquilidade de toda a organização responsável por gerenciar a
+
+62
+00:03:26,909 --> 00:03:28,979
+comunicação interna e externa.
+
+63
+00:03:28,990 --> 00:03:34,338
+Esses profissionais garantem a transparência das informações divulgadas, minimizar
+
+64
+00:03:34,349 --> 00:03:39,580
+dados reputações e manter as partes interessadas informadas são metas
+
+65
+00:03:39,588 --> 00:03:43,699
+centrais requerendo habilidades de comunicação eficaz e os manejos de
+
+66
+00:03:43,710 --> 00:03:44,939
+situações de crise.
+
+67
+00:03:44,949 --> 00:03:48,639
+Então, esse esse essa equipe tem um papel muito
+
+68
+00:03:48,649 --> 00:03:52,020
+forte quando quando ocorre incidentes, porque ela tem que
+
+69
+00:03:52,028 --> 00:03:55,599
+manter toda a comunicação entre a equipe profissional para os
+
+70
+00:03:55,610 --> 00:03:58,580
+clientes externos e principalmente também para os clientes externos,
+
+71
+00:03:58,588 --> 00:04:05,008
+tá Coordenador de recuperação Após a resolução do incidente,
+
+72
+00:04:05,020 --> 00:04:10,088
+o coordenador de recuperação lidera os esforços para restaurar sistemas
+
+73
+00:04:10,099 --> 00:04:13,719
+e dados afetados, trabalhando em conjunto com a equipe
+
+74
+00:04:13,729 --> 00:04:17,410
+de T I Eles desenvolvem e implementam planos de recuperação
+
+75
+00:04:17,420 --> 00:04:22,009
+garantindo que os sistemas voltem ao estado operacional normal.
+
+76
+00:04:22,019 --> 00:04:25,209
+Esse papel é muito importante para minimizar o tempo de
+
+77
+00:04:25,220 --> 00:04:32,509
+inatividade e impactos operacionais, comunicação e relações públicas.
+
+78
+00:04:32,519 --> 00:04:33,629
+Esse papel é vi.
+
+79
+00:04:33,639 --> 00:04:36,389
+É vital, né? Eh, A gente já
+
+80
+00:04:36,399 --> 00:04:38,189
+falou sobre esse papel? Deixa eu ver aqui já
+
+81
+00:04:38,199 --> 00:04:41,540
+falamos sobre esse papel, né? Ah é,
+
+82
+00:04:41,548 --> 00:04:42,399
+Já falamos sim.
+
+83
+00:04:42,410 --> 00:04:45,059
+Tá repetido já falamos, mas o que eu quero
+
+84
+00:04:45,069 --> 00:04:48,920
+eh reforçar são esses papeis eàs vezes os papéis
+
+85
+00:04:48,928 --> 00:04:51,139
+gente eh como eu falei são papéis,às vezes
+
+86
+00:04:51,149 --> 00:04:54,358
+um cargo, uma função ela pode ter, né,
+
+87
+00:04:54,369 --> 00:04:56,559
+A pessoa pode ter dois, dois papéis, duas
+
+88
+00:04:56,569 --> 00:04:57,160
+pessoas, por exemplo.
+
+89
+00:04:57,170 --> 00:04:59,519
+Um líder de equipe é o líder da equipe,
+
+90
+00:04:59,528 --> 00:05:01,209
+o pode ser o líder da equipe, Pode ser
+
+91
+00:05:01,220 --> 00:05:04,494
+o cara que é o coordenador de recuperação, tá,
+
+92
+00:05:04,504 --> 00:05:05,733
+eh algumas coisas.
+
+93
+00:05:05,744 --> 00:05:07,673
+Não dá, Por exemplo, é complexa.
+
+94
+00:05:07,684 --> 00:05:09,053
+É um analista dissidente.
+
+95
+00:05:09,064 --> 00:05:10,754
+Ser o mesmo líder da equipe não, não,
+
+96
+00:05:10,764 --> 00:05:14,173
+não rola, é, eh, são atividades conflitantes.
+
+97
+00:05:14,184 --> 00:05:15,613
+Mas a partir do momento que sei lá, um
+
+98
+00:05:15,625 --> 00:05:18,834
+líder de equipe, com certeza pode ser um,
+
+99
+00:05:18,845 --> 00:05:21,213
+um cara que é o coordenador de recuperação também.
+
+100
+00:05:21,225 --> 00:05:23,595
+Então, a gente precisa entender que essa essa.
+
+101
+00:05:23,605 --> 00:05:27,980
+Essa questão da equipe e das funções de tratadas são
+
+102
+00:05:27,988 --> 00:05:28,738
+importantes.
+
+103
+00:05:28,750 --> 00:05:31,129
+Você vai criar lá, talvez uma Racing, onde
+
+104
+00:05:31,139 --> 00:05:34,129
+você vai ter as atividades, as atividades relacionadas de
+
+105
+00:05:34,139 --> 00:05:36,970
+cada um, responsável, informado, onde você vai
+
+106
+00:05:36,980 --> 00:05:40,889
+ter as funções e as atividades relacionadas a cada função
+
+107
+00:05:40,899 --> 00:05:44,869
+e a cada especialistas, precisa entender que o corpo
+
+108
+00:05:44,879 --> 00:05:47,410
+já falou de tecnologia, já foi de processo,
+
+109
+00:05:47,420 --> 00:05:52,026
+mas esse corpo técnico fundamental para garantir o sucesso da
+
+110
+00:05:52,036 --> 00:05:55,065
+segurança, do seu ambiente cibernético.
+
+111
+00:05:55,074 --> 00:05:57,315
+Então a gente vai ter ali o líder, o
+
+112
+00:05:57,324 --> 00:06:00,365
+líder, o líder da equipe que vai além de
+
+113
+00:06:00,375 --> 00:06:03,505
+treinar, fazer a gestão da equipe, garantir a
+
+114
+00:06:03,514 --> 00:06:09,644
+atualização constante das ferramentas Desculpa dos processos e da política.
+
+115
+00:06:09,656 --> 00:06:13,321
+Ele vai fazer a ponte entre a liderança estratégica e
+
+116
+00:06:13,331 --> 00:06:15,502
+a liderança operacional.
+
+117
+00:06:15,511 --> 00:06:19,321
+É essa ponte, a equipe, os analistas incidentes.
+
+118
+00:06:19,331 --> 00:06:21,480
+O que vão estar ali olhando o dia a dia?
+
+119
+00:06:21,492 --> 00:06:24,341
+É uma equipe que precisa estar em busca de atualização
+
+120
+00:06:24,350 --> 00:06:28,321
+constante, constante, aprendizado contínuo.
+
+121
+00:06:28,331 --> 00:06:30,841
+Ali é uma equipe que não pode parar na busca
+
+122
+00:06:30,850 --> 00:06:35,122
+do conhecimento porque as ameaças elas se atualizam.
+
+123
+00:06:35,130 --> 00:06:37,380
+Então, é uma equipe que precisa estar sempre atualizada.
+
+124
+00:06:37,689 --> 00:06:41,660
+A equipe de comunicação está pronta, eficaz, né?
+
+125
+00:06:41,670 --> 00:06:42,540
+Pronta.
+
+126
+00:06:42,548 --> 00:06:45,220
+E e e e pra quando tiver uma ação necessária
+
+127
+00:06:45,230 --> 00:06:48,139
+dela, tive um incidente e precisar atuar fazendo a
+
+128
+00:06:48,149 --> 00:06:51,600
+comunicação para os clientes internos e externos.
+
+129
+00:06:51,608 --> 00:06:55,139
+O coordenador de recuperação tá bem coordenado com a equipe
+
+130
+00:06:55,149 --> 00:06:57,500
+de T I, pra que possa fazer uma transição
+
+131
+00:06:57,509 --> 00:07:02,444
+de recuperação eficaz e com o menor impacto possível para
+
+132
+00:07:02,454 --> 00:07:03,165
+a organização.
+
+133
+00:07:03,173 --> 00:07:08,903
+Então esses papéis são fundamentais para garantir que a uma
+
+134
+00:07:08,915 --> 00:07:12,463
+equipe de su se seja, né? Uma equipe
+
+135
+00:07:12,475 --> 00:07:18,754
+que garanta tranquilidade? Eficiência eh conhecimento pra toda a
+
+136
+00:07:18,764 --> 00:07:22,345
+organização, tudo bem, Muito obrigado e encontro você
+
+137
+00:07:22,355 --> 00:07:23,125
+na próxima aula!
+
